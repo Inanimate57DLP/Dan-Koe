@@ -875,11 +875,11 @@ The aspiration returns to Alan Watts in its most condensed form. In May 2024 Koe
 
 **Source:** How Smart Creatives Work Less & Earn More LEVERAGE.md
 
-In September 2024, introducing the idea that money is a skill (Chapter 34), he says that "we need to understand that **the art of living is getting paid to play**," and that this requires understanding the difference between a job, a career and a calling. He starts, again, with Watts: "sensible people get paid to do what they enjoy. I continue returning to that quote."
+In September 2024, introducing the idea that money is a skill, he says that "we need to understand that **the art of living is getting paid to play**," and that this requires understanding the difference between a job, a career and a calling. He starts, again, with Watts: "sensible people get paid to do what they enjoy. I continue returning to that quote."
 
 **Source:** You Won't Look At Money The Same Again (How To Build Meaningful Wealth).md
 
-The formula "the art of living is getting paid to play" is Koe's own; the quotation it rests on is Watts's. The distinction between job, career and calling, which he announces here, is developed in Chapter 34.
+The formula "the art of living is getting paid to play" is Koe's own; the quotation it rests on is Watts's. The distinction between job, career and calling, which he announces at this point, is not developed in the passage itself; the money chapter (Chapter 34) takes up his broader view of money.
 
 In March 2024 he connects the quotation to motivation and to business: "Business is how you Channel your interests skills and expertise to impact others at scale." And: "If you want to live a fulfilling life you need to leverage all five intrinsic drivers curiosity purpose passion autonomy and Mastery you need to create and have full control over the lifestyle you wish to live business is how you get there."
 
