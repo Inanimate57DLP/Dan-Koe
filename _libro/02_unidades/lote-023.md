@@ -2232,3 +2232,707 @@
 - **prerrequisitos:** U-023-170
 - **fuente:** Life Is A Video Game (Here's How You Win).md, 30:02-30:58, 2024-07-21
 - **tension:** ninguna
+
+## U-023-172
+- **tipo:** metáfora
+- **titulo:** Game frame, goals, rules and mechanics map to perspective, goal hierarchy, values and skills/habits
+- **desarrollo:** In a game, your mind is framed by the game itself; in reality, by your perspective. To narrow the mind further, there's a hierarchy of challenging goals. To immerse you and focus attention on the now, there are rules and mechanics. "Rules prevent you from cheating, they make the game worth playing"; "mechanics are skill-based": your aim sucks at first, you feel clumsy with the keyboard, can't move or land shots, but you practice and improve as challenges increase. In life, "the rules are what you deem important and meaningful: your priorities, your values"; "the mechanics are the skills and habits you use to achieve the prioritized goals in your life".
+- **ejemplos:** Clumsy aim and keyboard at first in a shooter.
+- **cita:** "in life the rules are what you deem important and meaningful your priorities your values"
+- **terminos:** rules; mechanics; frame
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-148
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 30:58-31:48, 2024-07-21
+- **tension:** ninguna
+
+## U-023-173
+- **tipo:** principio
+- **titulo:** You don't find passion, you create it: invest energy in self-generated goals long enough and build new systems for the mind
+- **desarrollo:** To create a life of enjoyment and flow, "you need to invest mental energy into self-generated goals, stick it out long enough to create passion — you don't just find passion — create new systems or routines for your mind to operate on; that's how you reverse psychic entropy and chaos". Invest energy with thoughts, emotions, attention and actions every day in goals that create your ideal life through work, study and practice.
+- **ejemplos:** ninguno
+- **cita:** "stick it out long enough to create create passion you don't just find passion"
+- **terminos:** self-generated goals; create passion
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-170
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 31:48, 2024-07-21
+- **tension:** ninguna
+
+## U-023-174
+- **tipo:** framework
+- **titulo:** Four meaningful goal domains (eternal problems AI can't solve): business, health, mind, connection — an interlocked skill tree
+- **desarrollo:** "There are only a few goals that can truly be meaningful; they correspond to the eternal problems that can't be solved by AI, prescriptions or technology": (1) business — meaningful work that lets you choose the problems you solve; (2) health — "you live in your body, it is your obligation to understand and improve it"; (3) mind — pursuing curiosity, acquiring knowledge, expanding your sense of self; (4) connection — creating shared experiences and expanding your circle of concern to transcend the self, like partying up in a game: "multiple minds achieve goals faster than one". "These are like a skill tree": improving relevant skills unlocks new levels. Catch: "you can only improve one trait as much as you improve another" — you reach a certain level of mind only by reaching a certain level in creative work; a certain level of health only via a certain level of mind, since mental and physical health are intertwined. Question: "if you aren't building your mind, body, spirit and business every single day, what are you doing?"
+- **ejemplos:** Partying up in a video game.
+- **cita:** "you can only improve one trait as much as you improve another"
+- **terminos:** eternal problems; skill tree; circle of concern; party up
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-171
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 31:48-33:24, 2024-07-21
+- **tension:** Earlier units list four habits as mind/body/business/connection and the four pillars as mind/body/spirit/finances; here he also says "mind, body, spirit and business" — the domain list varies slightly across statements.
+
+## U-023-175
+- **tipo:** argumento
+- **titulo:** Enjoyment vs pleasure: enjoyment is found in progress; "doing what you want" is often the ego ending the train of thought toward self-improvement
+- **desarrollo:** Objection: "Dan, I want to enjoy myself and do what I want". Reply: we just learned what maximum enjoyment is; being distracted and engaging in what you think is leisure keeps entropy high, so you're anxious and overwhelmed all the time. Do you understand the difference between enjoyment and pleasure? Human psychology mapped over evolution shows humans have an innate drive to grow, expand and create; "enjoyment is found in progress". Flow points to more than neurochemicals: "it points toward the divine". "Doing what you want is often the ego's way of ending the train of thought that would lead to improving yourself", which is what your nature wants. So do what you want in alignment with your goals: pursue curiosity, self-educate, build meaningful projects.
+- **ejemplos:** ninguno
+- **cita:** "doing what you want is often the ego's way of ending the train of thought that would lead to improving yourself"
+- **terminos:** enjoyment vs pleasure; enjoyment is found in progress
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-161
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 33:24-34:13, 2024-07-21
+- **tension:** ninguna
+
+## U-023-176
+- **tipo:** fuente-de-tercero
+- **titulo:** Steven Kotler's five intrinsic drivers of flow: curiosity, passion, purpose, autonomy, mastery
+- **desarrollo:** Steven Kotler, author of "The Art of Impossible", believes there's a formula for achieving flow and thus the impossible; aligning motivations is the first step. He describes five intrinsic drivers: curiosity ("our compass into the unknown"), passion ("finding that one thing you can't pull yourself away from"), purpose ("how your passion will impact the world, something greater than yourself"), autonomy ("the desire for freedom required to pursue your passion and purpose"), mastery ("honing your skill set so you can monetize your passion" — the monetization framing may be the author's). Per Kotler each contributes neurotransmitters — dopamine, oxytocin, endorphin, serotonin and what is transcribed as "in neur and nephrine" (ambiguous; likely norepinephrine) — a neurochemical cocktail creating flow. The author recommends reading the book but has his own methods.
+- **ejemplos:** ninguno
+- **cita:** "curiosity which is our compass into the unknown"
+- **terminos:** intrinsic drivers; neurochemical cocktail; flow drivers
+- **origen:** de-tercero:Steven Kotler (The Art of Impossible)
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-138
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 34:13-35:09, 2024-07-21
+- **tension:** ninguna
+
+## U-023-177
+- **tipo:** framework
+- **titulo:** The author's top-down adaptation of the flow drivers: mastery ← life's work, autonomy ← entrepreneurship, purpose ← products, passion ← connecting dots, curiosity = fuel
+- **desarrollo:** "In my eyes this is best tackled from the top down": Mastery stems from your life's work, your vision for the future. Autonomy stems from entrepreneurship, the ability to create your own work. Purpose stems from projects turned into products, "because a product is how you help more people than just yourself, that's how you transcend yourself": you give and create for others in exchange for another form of value — not necessarily money; status, peace, or enjoyment — all neutral until assigned to someone good or evil. Passion stems from connecting the dots, finding the pieces of the puzzle you're creating. Curiosity is the fuel: "the desire to acquire the knowledge to reach the next level".
+- **ejemplos:** ninguno
+- **cita:** "a product is how you help more people than just yourself that's how you transcend yourself"
+- **terminos:** life's work; entrepreneurship; projects turned into products; connecting the dots
+- **origen:** adaptada-de:Steven Kotler
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-176
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 35:09-36:04, 2024-07-21
+- **tension:** ninguna
+
+## U-023-178
+- **tipo:** heurística
+- **titulo:** Pattern of successful individuals: they live in their own little world, disappearing for months to laser in on one meaningful goal
+- **desarrollo:** "There is one pattern I've noticed in all successful individuals: they live in their own little world. They disappear from society for months at a time to force pure focus on themselves and their vision. They laser in on one meaningful goal and make it a reality".
+- **ejemplos:** ninguno
+- **cita:** "they live in their own little world they disappear from society for months at a time"
+- **terminos:** own little world
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 36:04, 2024-07-21
+- **tension:** ninguna
+
+## U-023-179
+- **tipo:** término-acuñado
+- **titulo:** Anti-vision: the bane of your existence, a positive fear mechanism and the first pole of your worldview
+- **desarrollo:** Since goals and problems compose worldview, make them conscious. "We start our story with an anti-vision": "the bane of your existence, the place that you don't want your life to end up; a positive fear mechanism to kick you in the right direction; the first polar end of the worldview you're creating". Worldview = anti-vision (what you don't want) and vision (what you want); inside, another layer: goals and problems you need to solve to reach the goals. These frame perception and let you notice information. If vision and anti-vision are off, absent or assigned, what you notice, which programs who you are and drives actions, isn't your own nor beneficial. How to create it: start a running note of experiences you don't want to relive or have, things you don't care to learn, places you don't care to live. You must experience life to figure these out — "you have to fail more, get uncomfortable more" — then work in the opposite direction. They won't vanish instantly, but writing them down and holding awareness lets your actions self-correct.
+- **ejemplos:** ninguno
+- **cita:** "your antiv vision is the bane of your existence the place that you don't want your life to end up it's a positive fear mechanism"
+- **terminos:** anti-vision; vision; worldview; running note
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-157
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 36:04-38:24, 2024-07-21
+- **tension:** ninguna
+
+## U-023-180
+- **tipo:** método
+- **titulo:** Vision as step two: write every detail you want, built over time as a minimum viable vision, and filter every decision through it
+- **desarrollo:** "If you don't have a vision you're lost kind of by definition; you can't create outcomes so you're doomed to the mechanical living of determined outcomes". "Every decision you make in any domain of your life must be filtered through your vision": that brings meaning to actions and minimizes distractions. Write down everything you want, every detail, very specific — but it doesn't happen overnight: "think of it as a minimum viable vision": write one thing in a note, paper or to-do list and add over time; those "figments of consciousness" culminate in your mind and self-correct your behavior, letting you spot problems, goals and opportunities.
+- **ejemplos:** ninguno
+- **cita:** "think of it as a minimum viable vision"
+- **terminos:** vision; minimum viable vision; figments of consciousness
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-179
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 38:24-39:11, 2024-07-21
+- **tension:** ninguna
+
+## U-023-181
+- **tipo:** método
+- **titulo:** Step three: big goals are for direction, small goals for clarity, neither for action; tasks so simple you can't help but complete them
+- **desarrollo:** "Big goals are for direction, small goals are for clarity, neither are for action. You don't need motivation when the task in front of you is so stupidly simple that you can't help but complete it". Break your vision into goals by decade, year, month, week and day; "these are your guide not your master", for direction; goals change as you do — be okay with that. Remind yourself of anti-vision, vision and goals daily: "these are your own little world. When your world is all you think about, your mind conspires in your favor": you notice small details others don't (an edge), it spurts dopamine as motivator, sets the scene for flow, and you stop worrying about problems you can't control.
+- **ejemplos:** ninguno
+- **cita:** "big goals are for direction small goals are for clarity neither are for action"
+- **terminos:** big goals; small goals; own little world; your mind conspires in your favor
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-180
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 39:11-40:02, 2024-07-21
+- **tension:** ninguna
+
+## U-023-182
+- **tipo:** argumento
+- **titulo:** Leave society's drama: emotional cycles narrow your mind and make you adopt others' goals; change happens by changing yourself and passing on your obsession
+- **desarrollo:** "Leave the drama of society": the starving kids in Africa, the next election, celebrity beef "fabricated to make them money and keep you dumb" — what will actually solve the problem? Election cycles or any cycle that raises emotions unconsciously "narrows your mind and makes you dumb", making you adopt goals and problems others have for you, which frame attention and perception so you can't notice information for your goals "because you forgot your goals". Is crying and changing your profile picture going to solve it, or upskilling, pursuing your goals, doing your life's work and "creating change on the individual level that ripples out"? "You make a change by changing yourself", and pursuing your life's work "you pass along your obsession to others". Projecting and forcing beliefs on others only creates more destruction; they won't accept it. "When people ask what your thoughts are on insert the flavor of the week drama, your only response should be: I don't care. Otherwise you're an NPC".
+- **ejemplos:** A beer company owner who hands out beer with passion and effort: customers are happy, make it part of their routine, pass the joy on.
+- **cita:** "you make a change by changing yourself"; "your only response should be I don't care otherwise you're an NPC"
+- **terminos:** drama of society; pass along your obsession; NPC
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-181
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 40:02-41:27, 2024-07-21
+- **tension:** ninguna
+
+## U-023-183
+- **tipo:** fuente-de-tercero
+- **titulo:** Kotler's MTP (massively transformative purpose) and Robert Greene's life's task: a big vision can't be reached working for someone else
+- **desarrollo:** "If your vision is big, audacious and truly impactful you won't reach it working for someone else". Steven Kotler "harps on how an MTP or massively transformative purpose is key to achieving the impossible"; Robert Greene "preaches about discovering your life's task". The author concludes: "entrepreneurship is the only logical option for long-term thinkers".
+- **ejemplos:** ninguno
+- **cita:** "entrepreneurship is the only logical option for long-term thinkers"
+- **terminos:** MTP; massively transformative purpose; life's task
+- **origen:** de-tercero:Steven Kotler; Robert Greene
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-176
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 41:27-42:23, 2024-07-21
+- **tension:** ninguna
+
+## U-023-184
+- **tipo:** definición
+- **titulo:** Entrepreneurship is a mindset, not a title: dedicated to solving an infinite set of creative problems, an infinite game
+- **desarrollo:** "Entrepreneurship is a mindset not a title, a mindset dedicated to solving an infinite set of creative problems, a way to hedge against getting trapped in a repetitive routine that someone else assigned to you. It is an infinite game not a finite one". Your work evolves; it doesn't stagnate unless you allow it, "but even then at least it's your choice". "If you stay in a 9-to-5 for too long you become a monkey in a cubicle".
+- **ejemplos:** ninguno
+- **cita:** "entrepreneurship is a mindset not a title"
+- **terminos:** entrepreneurship; infinite game; monkey in a cubicle
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-183
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 42:23, 2024-07-21
+- **tension:** ninguna
+
+## U-023-185
+- **tipo:** metáfora
+- **titulo:** The psyche is wired to hunt: the berry bush — novelty that aids survival causes excitement
+- **desarrollo:** "Your psyche is wired to hunt. To hunt is to make novel discoveries that aid in your survival". Imagine ancestors walking by a bare bush daily; it doesn't serve their future; one day it grows berries; someone notices, and that novelty causes excitement; they gather them or remember them for later to survive longer. When stuck in a job you hate, you live in "the eternal grind" (transcribed "Eternal G", ambiguous) without novelty.
+- **ejemplos:** The bush that grows berries.
+- **cita:** "to hunt is to make novel discoveries that Aid in your survival"
+- **terminos:** wired to hunt; novelty
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 42:23-43:11, 2024-07-21
+- **tension:** ninguna
+
+## U-023-186
+- **tipo:** opinión
+- **titulo:** Jobs are a stepping stone; 90% hate their jobs, 9% think they enjoy them, 1% have jobs with all flow drivers
+- **desarrollo:** "I don't hate jobs, I just see them for what they are, which is a stepping stone" to evolve beyond: you grow until a cap, progression slows, and "if enjoyment is found in progress and you no longer progress", it's a stepping stone. His estimate (opinion, not data): 90% actively hate their jobs; 9% think they enjoy them but don't understand their potential, so in reality they hate it; 1% have jobs allowing all flow drivers (curiosity, passion, purpose, autonomy, mastery), and the number of such jobs won't change. Unless you bank on joining the 1% while still limiting income to a salary, "the wisest thing you can do is just bet on yourself": becoming an entrepreneur unlocks control over your enjoyment and dives into the unknown.
+- **ejemplos:** ninguno
+- **cita:** "I don't hate jobs I just see them for what they are which is a stepping stone"
+- **terminos:** stepping stone; bet on yourself; flow drivers
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-176
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 43:11-43:55, 2024-07-21
+- **tension:** ninguna
+
+## U-023-187
+- **tipo:** concepto
+- **titulo:** Entrepreneurship is the path of uncertainty, like slashing through a jungle: learn untaught skills, accept failure, rejection and slow progress
+- **desarrollo:** "Entrepreneurship is the path of uncertainty, like slashing your way through the jungle". You're required to learn skills not taught in school, be okay with failure, rejection and slow progress, learn from mistakes, show up again tomorrow and push until you strike gold — "required in other words to be human". As an entrepreneur you hunt for survival by gathering knowledge, creating a valuable product and giving it to people who'd benefit. If you have a bad relationship with money or business: people actually want to buy products that benefit their lives; if a product hurts people, obviously don't sell it, "but that's not all that business is".
+- **ejemplos:** Slashing through the jungle.
+- **cita:** "you're required in other words to be human"
+- **terminos:** path of uncertainty
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-184
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 43:55-44:46, 2024-07-21
+- **tension:** ninguna
+
+## U-023-188
+- **tipo:** proceso
+- **titulo:** The one-person business path: personal brand → solve own problems → write → freelance/coaching → product → hefty income in 2-4 years → expand
+- **desarrollo:** His path: (1) start a personal brand as the foundation; (2) solve your own problems in the real world: health, wealth and relationships; (3) distribute your findings, opinions and beliefs via writing; (4) start with a freelance or coaching service and get results; (5) sell a physical or digital product requiring less time once your audience grows; (6) make a hefty income in 2 to 4 years with persistence and iteration; (7) expand your vision to build whatever you want (software, spaceships). You don't need a $1 billion company, and shouldn't think about it until you have cash flow to afford the team. Core: attract an audience by passing down lessons from progress with self-generated goals ("that's how you become unique, that's how you become the niche"), then monetize by building a product that solves a problem in your life and selling the solution. If you're improving yourself, you're qualified to start a business, since most people aren't improving and need "that better option from a person that they resonate with": the best education is relating to the teacher. It costs $0 to start thanks to technology and social media; build cash flow, then build whatever you want.
+- **ejemplos:** Software, spaceships as later expansions.
+- **cita:** "that's how you become unique that's how you become the niche"
+- **terminos:** one-person business model; personal brand; become the niche; cash flow
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-187
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 44:46-46:51, 2024-07-21
+- **tension:** ninguna
+
+## U-023-189
+- **tipo:** heurística
+- **titulo:** To learn faster, don't start learning: outline a project and learn along the way, avoiding tutorial hell
+- **desarrollo:** "If you want to learn faster don't start learning: outline a project, start building it out and learn along the way. Too many people get trapped in tutorial hell, stacking up useless knowledge as brain fog. Start, encounter a problem, seek specific knowledge to overcome it". "When you learn how to learn you can achieve 6 years of results in 6 months".
+- **ejemplos:** ninguno
+- **cita:** "too many people get trapped in tutorial hell stacking up useless knowledge as brain fog"
+- **terminos:** tutorial hell; brain fog; learn how to learn
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 46:51, 2024-07-21
+- **tension:** ninguna
+
+## U-023-190
+- **tipo:** término-acuñado
+- **titulo:** The Clarity Catalyst: a big project with scope, outline, milestones, real-world deadline and experimentation
+- **desarrollo:** Step one: "create a clarity catalyst". The author's giant leaps in understanding came from: (1) writing his book, (2) building his products, (3) writing newsletters, (4) creating these videos (requiring a new skill stack from him and his editor). Common factor: a big project, which has: a scope ("the bigger the better for creativity"); an outline, so you note ideas from everyday life to fill it ("you notice more in life"); milestones for direction and clarity on next steps; a real-world deadline that forces action "or else your survival takes a hit"; experimentation, trial and error, turning failures into lessons. This video was all he thought about for 8-12 weeks. It creates "the perfect environment for a flow state": pattern recognition from novelty and dopamine, clarity from milestones, challenge from deadlines, experimentation from learning. Determine what you want to learn and create a real-world project you'll publish for others; if unsure, see what others have done.
+- **ejemplos:** Learning Photoshop → project could be digital art or a social media post/graphic. Bodybuilding/nicer body → project is your body, nutrition regimen and training program; experiment with new protocols until the patterns fit you, "until entropy takes hold and you have to do it again because this game never ends".
+- **cita:** "it has a real world deadline that forces you to act or else your survival takes a hit"
+- **terminos:** Clarity Catalyst; scope; outline; milestones; deadline; experimentation
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-189
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 46:51-49:11, 2024-07-21
+- **tension:** ninguna
+
+## U-023-191
+- **tipo:** método
+- **titulo:** Brain-dump the outline to create an "experience anchor": ideas from the world stick and get added; the book made life meaningful
+- **desarrollo:** The outline needn't be perfect: he starts by brain-dumping all ideas on paper; "once that's there then it becomes an experience anchor", so when he goes into the world, reads social posts or books, ideas that fit the project stick out and he adds them to the outline, piecing it together until the outline deadline, then works on the project. Writing his book made his life meaningful: almost every idea was applicable to the book, producing "constant good dopamine" (put it in the book, write it in the outline, research more, find more ideas), "this constant back and forth of serendipity that made me feel like a child again", restoring wonder. "If you lack meaning it's because you probably lack your own project, one that you assigned to yourself". If you're looking for "that one thing that will get you results over and over", stop.
+- **ejemplos:** Writing his book.
+- **cita:** "if you lack meaning it's because you probably lack your own project one that you assigned to yourself"
+- **terminos:** brain dump; experience anchor; serendipity
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-190
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 49:11-50:39, 2024-07-21
+- **tension:** ninguna
+
+## U-023-192
+- **tipo:** principio
+- **titulo:** Step two: learn as you build; without application, learning is leisure and brain fog (except big-picture domains like philosophy where life is the project)
+- **desarrollo:** "If you aren't building you aren't learning". Without actively applying what you learn — writing it down, adding it to the outline or project, doing it — you're stacking "useless soon to be forgotten brain fog". Reading without a project isn't learning; "you're starting to understand things you already know, it's leisure". Exception/limit: "reading a business book without having a business is kind of dumb", but "reading a philosophy book works in all situations because it's your life that you're applying it to; your life is the project in big picture domains like philosophy".
+- **ejemplos:** Business book without a business vs philosophy book.
+- **cita:** "your life is the project in Big Picture domains like philosophy"
+- **terminos:** learn as you build; brain fog; leisure
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-190
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 50:39-51:30, 2024-07-21
+- **tension:** ninguna
+
+## U-023-193
+- **tipo:** heurística
+- **titulo:** Fundamentals take you 95% of the way; advanced tactics add a marginal 5% — reserve that bandwidth for rest and obsession
+- **desarrollo:** When you start building, you need only the fundamentals; "you have no business researching advanced tactics yet". "The fundamentals will take you 95% of the way there, and for most people that's millions of dollars, a jacked physique or a stress-free life". Advanced tactics may give "a marginal 5% improvement", but that mental bandwidth should be reserved for rest and obsession toward work on new specific skills and interests.
+- **ejemplos:** Millions of dollars, jacked physique, stress-free life.
+- **cita:** "the fundamentals will take you 95% of the way there"
+- **terminos:** fundamentals; advanced tactics
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-192
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 51:30, 2024-07-21
+- **tension:** ninguna
+
+## U-023-194
+- **tipo:** proceso
+- **titulo:** Project learning procedure: beginner course → YouTube fundamentals → clarity → do it → when stuck, refer back, research the problem, watch similar builds
+- **desarrollo:** When you have a project: (1) purchase a beginner-level course on the topic; (2) watch overview videos on YouTube teaching the fundamentals; (3) study until you have clarity on what to do next; (4) then do it; (5) when you encounter a problem, refer back to sections of the course or video, research how to directly solve that problem, and watch tutorials where people build projects similar to yours to see how they overcame those problems. "Learning is problem solving, not hoarding as much knowledge as you can" (transcribed "accorting").
+- **ejemplos:** ninguno
+- **cita:** "learning is problem solving not accorting as much knowledge as you can"
+- **terminos:** learning is problem solving
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-193
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 51:30-52:14, 2024-07-21
+- **tension:** ninguna
+
+## U-023-195
+- **tipo:** fuente-de-tercero
+- **titulo:** Step three: teach what you learn — the protégé effect; teach in public as your modern resume
+- **desarrollo:** "The protégé effect: a psychological phenomenon where teaching, pretending to teach or preparing to teach information to others helps a person learn that information". When you teach you pay closer attention when learning and identify knowledge gaps that help you learn faster. He recommends teaching in public as a personal brand, "your public resume or the modern resume" (your social profile), attracting high-paying opportunities as you learn. You don't need to know it before writing: "you write, so you teach, and you understand it further". "I learn things 10 times faster because I teach them". Doing it online makes it part of your life and you evolve faster; it's "not really a career, it's the collapse of work and life into one".
+- **ejemplos:** Explaining animation, art or a difficult book concept to his girlfriend at night: identifies what he doesn't know, creating a new problem that frames perception, so he picks up the information that fills the gap much faster.
+- **cita:** "I learn things 10 times faster because I teach them to other people"
+- **terminos:** protégé effect; public resume; modern resume; collapse of work and life into one
+- **origen:** adaptada-de:efecto protegido (psicología)
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-192
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 52:14-53:45, 2024-07-21
+- **tension:** ninguna
+
+## U-023-196
+- **tipo:** método
+- **titulo:** Write in public and let people criticize you; teach friends through conversation — even quiet people become conversational
+- **desarrollo:** "Write in public and let people criticize you, because without the criticism you're not going to learn how to fix what you had wrong". Teach friends via interesting conversation; if you're naturally quiet, learn something and say "hey I was learning about this new thing, it's pretty cool"; now you're conversational, because you must structure what you say, explain it, ensure you aren't giving false knowledge, and you know what to learn next. He doesn't know everything when writing newsletters or videos, but writing four years on topics he's interested in has accelerated his knowledge and wisdom far more than not creating. "The modern way to create is content and products": life becomes a meaningful series of solving problems, learning to solve them, teaching others, and earning as you go — "what evolution has allowed", doing what you love without barriers thanks to the internet.
+- **ejemplos:** Four years of writing.
+- **cita:** "write in public and let people criticize you"
+- **terminos:** write in public; content and products
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-195
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 53:45-54:32, 2024-07-21
+- **tension:** ninguna
+
+## U-023-197
+- **tipo:** método
+- **titulo:** Step four: expand into a new level of mind — read to expand, write to organize, build to focus; overwhelm means your mind is primed for pattern recognition
+- **desarrollo:** "Read to expand your mind, write to organize your mind, build to focus your mind". Feeling overwhelmed or like you're not learning "is good": your mind is primed for pattern recognition; if you're in the unknown and chaotic but going the right direction, you'll pick up information to survive that path. Launch into the unknown; immerse yourself in the culture, environment and information related to what you're learning; condition your mind through repetition and exposure; slowly understand the lingo, vocabulary and skill set of those who succeeded. Let your mind expand through discomfort; "the worst thing you can do is quit when you're feeling growing pains". "You aren't seeing results because you aren't the person who would see results"; this process lets you become a new person "by letting your old version die", like leaving the old environment that fueled bad habits.
+- **ejemplos:** Leaving the environment that fueled bad habits.
+- **cita:** "you aren't seeing results because you aren't the person who would see results"
+- **terminos:** level of mind; growing pains; pattern recognition; letting your old version die
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-195
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 54:32-55:18, 2024-07-21
+- **tension:** ninguna
+
+## U-023-198
+- **tipo:** heurística
+- **titulo:** Books give 10 years of effort in 6 hours; long-form gives 3 days of effort in 20 minutes; buy three books: bestseller, technical, historical
+- **desarrollo:** Practical immersion: read books — "books give you 10 years of effort from 6 hours of reading"; consume lectures, long articles and videos — "3 days of effort in 20 minutes"; follow new people — less about consuming short-form content, more about training your mind to be in that tribe. "Buy three books: one bestseller, one technical and one historical; burn through them and don't let your obsession die". It may seem long, "but we aren't trying to learn something on a surface level, we are trying to become masters as fast as possible".
+- **ejemplos:** ninguno
+- **cita:** "books give you 10 years of effort from 6 hours of reading"
+- **terminos:** tribe; three books
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-197
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 55:18-56:05, 2024-07-21
+- **tension:** ninguna
+
+## U-023-199
+- **tipo:** principio
+- **titulo:** Step five: make connections — principles are universal; master fitness and you master business in half the time, relationships in half of that
+- **desarrollo:** "When you master one thing it becomes easier to master others. Principles are universal, they overlap". "When you master fitness you can master business in half the time and then you can master relationships in half of that". "Most people never master one domain of their lives so they never experience exponential personal growth". Zoom out one layer: from Photoshop to graphic design to creative work. Take note of signal: when your mind signals important information, write it down and build better projects from a new level of mind. His knowledge compounded when he peeled back layers from web design to business to philosophy; with big-picture overlapping domains (business, philosophy, health) you notice patterns and truth faster. (He mentions his book "The Art of Focus" covers this.)
+- **ejemplos:** Photoshop → graphic design → creative work; web design → business → philosophy.
+- **cita:** "most people never Master One domain of their lives so they never experience exponential personal growth"
+- **terminos:** principles are universal; zoom out one layer; signal; exponential personal growth
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-197
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 56:05-57:34, 2024-07-21
+- **tension:** ninguna
+
+## U-023-200
+- **tipo:** opinión
+- **titulo:** Flow connects to all of life: neuroscience, metaphysics, psychology, self-improvement and productivity in one
+- **desarrollo:** Closing: a state of consciousness like flow "connects to all of life; it's not just neuroscience, it's metaphysics, psychology, self-improvement and productivity all in one", since it comes into play in anything you do, giving "incredible hints at how to live the good life". He also frames sharing a video with a friend as "mutual benefit, value exchange". (Mentions Cortex, his upcoming writing app, and The Koe Cast podcast.)
+- **ejemplos:** ninguno
+- **cita:** "it's not just Neuroscience it's metaphysics psychology self-improvement and productivity allinone"
+- **terminos:** value exchange
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-023-138
+- **fuente:** Life Is A Video Game (Here's How You Win).md, 57:34-58:17, 2024-07-21
+- **tension:** ninguna
+
+# Fuente: You're Stuck In The Matrix, Here's How You Escape.md (2025-10-05)
+
+## U-023-201
+- **tipo:** fuente-de-tercero
+- **titulo:** Elon Musk: "Who wrote the software running in your head? Are you sure you actually want it there?"
+- **desarrollo:** Opening quote, part of a tweet from Elon Musk, framing the video. The author's elaboration: most people haven't practiced thinking; when you talk to them "you aren't talking to them, you're talking to the TV, social media, their parents, their teachers, their insecurities and trauma, or even patterns they picked up from AI. It's very robotic". Irony: everyone cries about being more authentic while parroting that statement from someone else. "You can't escape this, this is just how the mind works": we remember information important to survival, and the more it's repeated the more efficient it becomes.
+- **ejemplos:** ninguno
+- **cita:** "When you talk to them, you aren't talking to them. You're talking to the TV, social media, their parents, their teachers"
+- **terminos:** software running in your head
+- **origen:** de-tercero:Elon Musk
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 0:00, 2025-10-05
+- **tension:** ninguna
+
+## U-023-202
+- **tipo:** fuente-de-tercero
+- **titulo:** Your most important life task: use limited conscious attention to reprogram the unconscious; Carl Jung: "until you make the unconscious conscious it will direct your life and you will call it fate"
+- **desarrollo:** Repeats: conscious mind ~50 bits/s, unconscious ~11 million bits/s. "If you want to change your life, your most important life task is using your limited conscious attention to become aware of and reprogram what's happening in the depths of your unconscious mind". Carl Jung (transcribed "Carl Young"): "until you make the unconscious conscious, it will direct your life and you will call it fate". If you reprogram the unconscious toward success, "you achieve success automatically. You don't have to think about what to do because you just do it". Most people haven't done this and "are heading off a cliff by default": set on a path at birth, unquestioned, blind to their actions, destination "pure mediocrity".
+- **ejemplos:** ninguno
+- **cita:** "until you make the unconscious conscious, it will direct your life and you will call it fate"
+- **terminos:** reprogram the unconscious; automatic success; heading off a cliff by default
+- **origen:** de-tercero:Carl Jung
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-108
+- **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 0:49, 2025-10-05
+- **tension:** ninguna
+
+## U-023-203
+- **tipo:** fuente-de-tercero
+- **titulo:** Krishnamurti: thought is always conditioned and therefore mechanical; thinking is playback of stored patterns from memory
+- **desarrollo:** Quote from Krishnamurti (transcribed "Krishna Murdy"): "Thought is always conditioned and therefore thought is always mechanical". The author's gloss: "thinking is mostly the automatic playback of previously encoded patterns, not conscious deliberation. Every thought comes from memory. Memory is in the past. And when you are thinking, you are just accessing stored patterns, not creating something new". This introduces the "social matrix".
+- **ejemplos:** ninguno
+- **cita:** "Thought is always conditioned and therefore thought is always mechanical"
+- **terminos:** conditioned thought; stored patterns
+- **origen:** de-tercero:Jiddu Krishnamurti
+- **nivel:** avanzado
+- **prerrequisitos:** U-023-202
+- **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 1:44, 2025-10-05
+- **tension:** ninguna
+
+## U-023-204
+- **tipo:** fuente-de-tercero
+- **titulo:** The social matrix is a condensation of actualize.org's "The Social Matrix"; not a red-pill "escape society" message
+- **desarrollo:** The social matrix is "a logical sequence of steps, this loop", and "the only way to break out of it is by understanding it". It's kind of like the movie but "we're not talking about some kind of red pill: oh you need to escape the matrix and start a business and achieve freedom and break off from society. No". "We're talking about understanding the actual matrix because there is one". Credit: everything is "a condensation and my own thoughts on the video The Social Matrix by actualize.org" (about 3 hours long). He says actualize.org (Leo Gura's channel, not named in the transcript) "has shaped my life in more ways than one".
+- **ejemplos:** ninguno
+- **cita:** "the only way to break out of it is by understanding it"
+- **terminos:** social matrix
+- **origen:** adaptada-de:actualize.org (The Social Matrix)
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-203
+- **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 2:35-3:18, 2025-10-05
+- **tension:** Contrasts with the 2022 video (U-023-007, U-023-021), which used the red pill/escape framing and recommended breaking the employee cycle; here he explicitly rejects the "red pill, start a business and break off from society" reading of the matrix, though later he still says agency most often leads to entrepreneurship.
+
+## U-023-205
+- **tipo:** argumento
+- **titulo:** Social matrix layer 1: parents, themselves brainwashed, pass on worldview; you conform to survive
+- **desarrollo:** "It starts with your parents. Parents themselves were brainwashed by the previous generation. They pass on their worldview, biases and beliefs unconsciously". "Most parents only love and approve of you if you conform to their values and beliefs. And you conform because you want to survive": you don't want to be kicked out of the house or the culture; you depend on them to be fed. And parents got their information from the same system they now perpetuate.
+- **ejemplos:** ninguno
+- **cita:** "Most parents only love and approve of you if you conform to their values and beliefs"
+- **terminos:** social matrix; conform to survive
+- **origen:** adaptada-de:actualize.org
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-204
+- **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 3:18, 2025-10-05
+- **tension:** ninguna
+
+## U-023-206
+- **tipo:** argumento
+- **titulo:** Social matrix layer 2: early childhood conditioning — language shapes and limits what you can think; norms are planted before critical thinking
+- **desarrollo:** "Language shapes and limits what you can actually think about". "The only reason you think about the thoughts that you do is because of the language you speak that allows you to articulate those thoughts. Think about how many things you haven't thought of or could think of if you weren't bound by a specific language". Cultural norms and values are planted before you can think critically; "children learn to seek approval by conforming to authority".
+- **ejemplos:** ninguno
+- **cita:** "Language shapes and limits what you can actually think about"
+- **terminos:** early childhood conditioning
+- **origen:** adaptada-de:actualize.org
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-205
+- **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 3:18-4:08, 2025-10-05
+- **tension:** ninguna
+
+## U-023-207
+- **tipo:** argumento
+- **titulo:** Social matrix layer 3: public schools built on the Prussian model to reinforce obedience; a self-perpetuating loop of teachers, boards, universities, journals
+- **desarrollo:** "Public schools were explicitly created to reinforce obedience, as researched by UC San Diego" (as cited). Criticism of education angers people who are attached or dependent and were told since childhood it's what's required for success, "when that's just not the case anymore". "The Prussian education model was designed as a long-term solution to social unrest through the standardization of thought", "to create obedient soldiers, compliant citizens and well-behaved workers". Horace Mann (transcribed "Horus man") brought it to America during industrialization to educate large numbers of immigrant children; origin of mandatory attendance, teacher training, national curriculum and testing, division by age, grade levels. Students taught to work and obey, not think. Loop: teachers educated by the previous generation in the same system; curriculum set by school boards (often parents) from the same system; grade levels incentivize memorizing over questioning; universities funded by corporations with agendas; journal gatekeepers from the same system; professors must publish and approve journals to keep careers.
+- **ejemplos:** Prussian model; Horace Mann; grade levels.
+- **cita:** "Students were taught how to work and obey, not how to think because that's what most benefited society"
+- **terminos:** Prussian education model; standardization of thought
+- **origen:** adaptada-de:actualize.org
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-206
+- **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 4:08-5:43, 2025-10-05
+- **tension:** ninguna
+
+## U-023-208
+- **tipo:** argumento
+- **titulo:** Social matrix layer 4: information sources and authority are circular — media, Google, Wikipedia, social media, entertainment and science rest on unvalidated faith
+- **desarrollo:** "Media and the internet are the primary sources of mass information". News outlets owned by profit-driven corporations; Google algorithms prioritize university and establishment sources, so most people get information from universities where teachers were trained by teachers; Wikipedia written by academics within a biased system; social media reinforces biases through echo chambers; entertainment subtly programs values and worldviews. In science and academia, scientists and students "rely on faith in thousands of studies they haven't personally validated"; research funding comes from corporations and governments with agendas — "most of the time, not all of the time... not good". So "students and scientists trust the information provided by other students and scientists who were raised by parents who got their information from prior students and scientists. Do you see the problem with this?" Teachers trained on government-provided material that found its way into information sources. "This should just terrify you".
+- **ejemplos:** Google, Wikipedia, news outlets.
+- **cita:** "scientists and students rely on faith in thousands of studies they haven't personally validated"
+- **terminos:** echo chambers; information sources and authority
+- **origen:** adaptada-de:actualize.org
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-207
+- **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 5:43-7:12, 2025-10-05
+- **tension:** ninguna
+
+## U-023-209
+- **tipo:** fuente-de-tercero
+- **titulo:** Social matrix layer 5a: Herman and Chomsky's propaganda model — five filters through which media shapes thought
+- **desarrollo:** "Social media and AI amplify unconsciousness". The propaganda model for how media shapes thought, by Herman and Chomsky, revealed five filters: (1) corporate ownership, (2) advertising pressures, (3) sourcing from elites, (4) organized flak campaigns (transcribed "flat"), (5) dominant ideology. This was the problem with traditional propaganda; social media and AI take it to "an entirely new level".
+- **ejemplos:** ninguno
+- **cita:** ninguna
+- **terminos:** propaganda model; five filters
+- **origen:** de-tercero:Edward Herman y Noam Chomsky
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-208
+- **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 7:12, 2025-10-05
+- **tension:** ninguna
+
+## U-023-210
+- **tipo:** concepto
+- **titulo:** Social media is a mimetic desire amplification machine: algorithms program you to want what others appear to have (Peter Thiel invested in Facebook for this)
+- **desarrollo:** "Social media is a mimetic desire amplification machine". "One reason why Peter Thiel invested in Facebook" is that "he understood mimetics and knew how powerful it could be". "Social media algorithms say they show you what you want to see, but the reality is that they program you to want what others appear to have. Every scroll reinforces neural pathways that lead you to thinking that you actually want the highlights of someone else's life".
+- **ejemplos:** Peter Thiel and Facebook.
+- **cita:** "they program you to want what others appear to have"
+- **terminos:** mimetic desire amplification machine; mimetics
+- **origen:** adaptada-de:Peter Thiel / teoría mimética
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-209
+- **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 7:12-8:04, 2025-10-05
+- **tension:** ninguna
+
+## U-023-211
+- **tipo:** dato
+- **titulo:** Max Planck Institute 2024: first evidence that ChatGPT altered human speech patterns; AI will become a foundational programming layer
+- **desarrollo:** "In 2024 the Max Planck Institute found the first evidence that ChatGPT altered human speech patterns": usage of certain words AI often used increased. "You're starting to talk like the machine that learned to talk like you". As language shaped how critically you could think as a child, now with language "becoming dumber with AI and immature Gen Z lingo taking over social media, our minds are slowly narrowing to further guarantee mediocrity". In the future AI will be "a foundational layer that precedes social programming from parents and schools": teachers use AI to teach, students use AI to learn, and those students become teachers and parents. He stresses AI is great, he uses it daily, but must be used a certain way "so that you don't become as dumb as a rock" (refers to his video "You have about 36 months to make it").
+- **ejemplos:** ninguno
+- **cita:** "you're starting to talk like the machine that learned to talk like you"
+- **terminos:** foundational layer
+- **origen:** de-tercero:Max Planck Institute (estudio 2024)
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-206
+- **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 7:12-8:44, 2025-10-05
+- **tension:** ninguna
+
+## U-023-212
+- **tipo:** argumento
+- **titulo:** Social matrix layer 6: society is rigged against you — jobs, marketing, food, health care, social circles, dating, politicians, therapists
+- **desarrollo:** Rapid fire: the need for a job forces you to comply with your boss's worldview (the boss went through the same education); marketing and advertising manipulate desires from childhood; the food industry "is incentivized to poison you" because people get addicted to hyperpalatable foods, which affects mental clarity; the health care system "profits from illness, not health"; social circles punish those who question too deeply and you'll be cast out of the tribe; dating and relationships require conformity, especially if you're lonely and non-self-reliant; politicians and therapists come from the same education system.
+- **ejemplos:** Hyperpalatable foods.
+- **cita:** "The health care system profits from illness, not health"
+- **terminos:** society is rigged against you
+- **origen:** adaptada-de:actualize.org
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-208
+- **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 8:44-9:26, 2025-10-05
+- **tension:** ninguna
+
+## U-023-213
+- **tipo:** concepto
+- **titulo:** Circular validation: every societal entity justifies the others, so external validation is impossible and we live in an illusion of our own construction
+- **desarrollo:** "It's a matrix. It has circular validation. Every entity that composes society and culture — media, education, science, government, business, religion, etc. — justifies and reinforces the others". When one source is questioned you meet "programmed responses from NPCs like trust the experts, or it's in the textbook, or it's the law and it's tradition". "Everything is validated against the same system. External validation is not possible. Therefore we live in an illusion of our own construction".
+- **ejemplos:** "Trust the experts", "it's in the textbook", "it's the law", "it's tradition".
+- **cita:** "External validation is not possible. Therefore, we live in an illusion of our own construction"
+- **terminos:** circular validation; programmed responses; NPCs
+- **origen:** adaptada-de:actualize.org
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-212
+- **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 9:26, 2025-10-05
+- **tension:** ninguna
+
+## U-023-214
+- **tipo:** framework
+- **titulo:** The nine-step loop of the social matrix
+- **desarrollo:** Summary of the loop: (1) you are born into a family already programmed by the matrix; (2) you are conditioned by language, culture and early peer pressure; (3) you are educated in schools that reinforce the worldview that benefits the system; (4) you consume media and entertainment that further shape your beliefs and desires; (5) you enter the workforce where survival depends on conformity; (6) you participate in social, religious and cultural rituals that reinforce group identity; (7) you seek information and validation from sources that are themselves products of the matrix; (8) you are incentivized to conform and disincentivized to question; (9) you in turn pass on the same programming to the next generation. Question: how to escape, "especially since people who teach you how to escape the matrix are a byproduct of the matrix" (transcript says "create", likely "escape").
+- **ejemplos:** ninguno
+- **cita:** "you in turn pass on the same programming to the next generation"
+- **terminos:** social matrix; loop
+- **origen:** adaptada-de:actualize.org
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-213
+- **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 9:26-10:59, 2025-10-05
+- **tension:** ninguna
+
+## U-023-215
+- **tipo:** fuente-de-tercero
+- **titulo:** Maxwell Maltz: the brain is a goal-striving automatic guidance system — a success or failure mechanism depending on the operator and goals
+- **desarrollo:** Quote from Maxwell Maltz: "The brain and nervous system constitute a marvelous and complex goal striving mechanism, a sort of built-in automatic guidance system that works for you as a success mechanism or against you as a failure mechanism depending on how you the operator operate it and the goals you set for it". Opens the section on reprogramming the mind for automatic success.
+- **ejemplos:** ninguno
+- **cita:** "a sort of built-in automatic guidance system that works for you as a success mechanism or against you as a failure mechanism"
+- **terminos:** goal striving mechanism; automatic guidance system; success mechanism; failure mechanism
+- **origen:** de-tercero:Maxwell Maltz
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-202
+- **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 10:59, 2025-10-05
+- **tension:** ninguna
+
+## U-023-216
+- **tipo:** framework
+- **titulo:** Four psychological certainties before reprogramming: stages of complexity, flow conditions, survival lens, extremity boosts neuroplasticity
+- **desarrollo:** "There are a few things we know for sure": (1) the mind evolves and expands through stages of increasing complexity, making life more interesting and enjoyable, but you can get stuck at a low level for life (see his model "Human 3.0"); (2) flow/optimal experience stems from "a self-generated goal, complete clarity on how to achieve it and a level of challenge that is just above your skill level" (see Csikszentmihalyi and Steven Kotler); (3) your mind interprets reality through a lens of psychological survival: identity forms around your culture's values and beliefs, and you feel threatened when identity is threatened (he plans videos on survival, ideology and epistemology); (4) "being extreme changes your brain because it enhances neuroplasticity", the brain's ability to rewire itself; "novelty, challenge and big goals shape how you process and store information".
+- **ejemplos:** ninguno
+- **cita:** "being extreme changes your brain because it enhances neuroplasticity"
+- **terminos:** Human 3.0; stages of increasing complexity; psychological survival; neuroplasticity
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-215
+- **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 10:59-12:31, 2025-10-05
+- **tension:** ninguna
+
+## U-023-217
+- **tipo:** método
+- **titulo:** Reprogramming step 1: create your own matrix — replace assigned goals with a self-generated goal; the goal → learning → choices → habits chain
+- **desarrollo:** "The mind craves order and certainty, that's why we are so quick to adopt the psychological infrastructure that others assign to us". Chain: "we pursue society's goals, which influence what we deem important enough to learn, which influences the choices we make, which condition those behaviors as habits that we unconsciously repeat". So it starts with a goal, a clear vision: replace "go to school, get a job and retire" with something self-generated and more meaningful.
+- **ejemplos:** ninguno
+- **cita:** "we are so quick to adopt the psychological infrastructure that others assign to us"
+- **terminos:** create your own matrix; psychological infrastructure
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-214
+- **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 12:31-13:25, 2025-10-05
+- **tension:** ninguna
+
+## U-023-218
+- **tipo:** argumento
+- **titulo:** People fail to change because the fear of ending up like everyone else doesn't outweigh the fear of discomfort; another unconscious goal takes priority
+- **desarrollo:** Many attempt this and fail "for one reason. The fear of ending up like everyone else doesn't outweigh the fear of discomfort". "You can tell yourself that you deeply care about your goals all day long, but the reason you don't change is because another goal is taking priority and that's unconscious to you". To generate a goal so meaningful you have no option but to pursue it: gain complete awareness of where your life is heading if you keep doing the same; question your life and sit with the discomfort without searching for someone else to give the answer; "become so disgusted that the pain of staying the same makes the pain of discomfort feel like a little pinch"; remind yourself of your anti-vision, "the life you don't want to live, as a reference point from which you can aim in a different direction".
+- **ejemplos:** ninguno
+- **cita:** "The fear of ending up like everyone else doesn't outweigh the fear of discomfort"
+- **terminos:** anti-vision; reference point
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-217, U-023-179
+- **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 13:25-14:11, 2025-10-05
+- **tension:** ninguna
+
+## U-023-219
+- **tipo:** argumento
+- **titulo:** The education system fails at educating: if education equals discovery, school does the opposite and leads to a race to the bottom
+- **desarrollo:** Step two leads from the need to navigate the unknown. The education system has perks — socialization, reading and writing, "a base operating system to become a civilized human" — "but if education equals discovery, it is doing the opposite": you learn the same topics, choose the same classes, look up the same high-paying skills and jobs "as everyone else to enter a race to the bottom". It's the only path you know because you haven't begun self-education, so your mind only works toward getting a job for money and survival. Now you can learn and do anything without permission.
+- **ejemplos:** ninguno
+- **cita:** "if education equals discovery, it is doing the opposite of just that"
+- **terminos:** education equals discovery; race to the bottom; self-education; base operating system
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-207
+- **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 14:11-14:46, 2025-10-05
+- **tension:** ninguna
+
+## U-023-220
+- **tipo:** proceso
+- **titulo:** Reprogramming step 2: interest-based education — pick a life problem, curate don't consume, experiment non-dogmatically, 30-60 min/day, change environment
+- **desarrollo:** Procedure: (1) take note of current problems with how you live, typically in health, wealth, relationships and finances (as stated) — what's wrong with your health/fitness, how you look, finances, social life? Pick one. (2) Explore the internet and social media "as a curator, not a consumer". (3) Experiment with various methods without becoming dogmatic. (4) Dedicate at least 30 to 60 minutes a day to learning that directly correlates with your self-generated goals. (5) "Throw your mind into an entirely different environment and let your beliefs be challenged". Key: "you reprogram your unconscious by aligning your actions and learnings with a goal that was not assigned to you". The process: "goal, interpret information, act, make mistakes, correct mistakes, repeat. If you can do that, you'll be successful".
+- **ejemplos:** ninguno
+- **cita:** "goal, interpret information, act, make mistakes, correct mistakes, repeat"
+- **terminos:** interest-based education; curator, not a consumer
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-219
+- **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 14:46-16:13, 2025-10-05
+- **tension:** ninguna
+
+## U-023-221
+- **tipo:** definición
+- **titulo:** Agency is the ability to act without permission, and the belief that difficult tasks can become easy; three goal buckets: easy, impossible, difficult
+- **desarrollo:** Step three, "arguably the most important": teach yourself and your children to be high agency. "Agency is the ability to act without permission. Therefore agency is the belief that difficult tasks can become easy because goals fall into three buckets": easy goals (doable with current knowledge, skill, resources); impossible goals (can't do or outside the laws of physics); difficult goals (can't do right away but eventually can with the right skills and resources). Thought experiment: a gun to your head, bench press 315 lbs within a year: you either interpret it as impossible and let yourself die, or do everything in your power and probably achieve it, learning and doing everything required. Later: "Agency isn't just taking action, it's deciding what actions are worth taking".
+- **ejemplos:** Bench pressing 315 lbs in a year with a gun to your head.
+- **cita:** "Agency is the ability to act without permission"; "Agency isn't just taking action, it's deciding what actions are worth taking"
+- **terminos:** high agency; easy goals; impossible goals; difficult goals
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-220
+- **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 16:13-17:01, 18:24, 2025-10-05
+- **tension:** ninguna
+
+## U-023-222
+- **tipo:** concepto
+- **titulo:** Two problems in average thinking: an external locus of control, and missing the intersection of importance and urgency
+- **desarrollo:** (1) External locus of control: "believing that all great accomplishments are a matter of luck rather than skill"; when they need help they look to friends, the government, anyone but themselves; first reaction is to blame, not think or take responsibility. (2) Missing "the intersection of importance and urgency": they haven't educated themselves or experimented enough to generate passion around a specific life task, and aren't aware of where life is heading without that aim; "they are not pushed or pulled in any direction by their own desire, but they are thrown around like a puppet by someone else's". "Education is not about math or spelling or historical facts. It's about instilling agency". "A high agency individual will learn everything they need to in order to do what they want to do. A low agency individual will stay in its nest waiting for mama bird to bring it a worm". (He mentions starting a second "side quest" vlog channel on fitness, biohacking and building his startup.)
+- **ejemplos:** Baby bird waiting for a worm.
+- **cita:** "A low agency individual will stay in its nest waiting for mama bird to bring it a worm"
+- **terminos:** external locus of control; intersection of importance and urgency; life task; low agency
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-221
+- **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 17:01-18:24, 2025-10-05
+- **tension:** ninguna
+
+## U-023-223
+- **tipo:** proceso
+- **titulo:** Five practical steps to practice agency
+- **desarrollo:** (1) "Do not allow others to help you for as long as possible, even if you struggle". (2) When you want something, practice taking small steps to learn about it and act on it. (3) "Drop out of school or request to be homeschooled" — he acknowledges it carries baggage, but only for those who think lacking credentials will ruin your life; he won't expand. (4) "Consciously expose yourself to difficult problems at least every 3 to 6 months": build new projects, study new material. (5) "Question what you are supposed to do and make a different decision". Most often this leads to entrepreneurship and self-direction, because schools and jobs have values you must conform to, narrowing your mind and limiting your ability to learn and act.
+- **ejemplos:** ninguno
+- **cita:** "Consciously expose yourself to difficult problems at least every 3 to 6 months"
+- **terminos:** agency; self-direction
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-221
+- **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 18:24-19:12, 2025-10-05
+- **tension:** ninguna
+
+## U-023-224
+- **tipo:** argumento
+- **titulo:** Step four: become a value creator — humans are toolbuilders; nature is brutal; happiness = progress + contribution, both achieved by solving problems
+- **desarrollo:** "Humans are toolbuilders": facing problems like cold, hunger, predators, we created fire, shelter, weapons; once created, better tools became possible, enabling today's society. "Nature is brutal. It's not this kind and loving thing that many hippies believe"; without transforming the earth to be hospitable we'd be extinct or drastically underdeveloped. Becoming a creator is central to a good life because "happiness and enjoyment are the combination of progress being made and a contribution to something greater than yourself. Both are accomplished by solving problems for yourself and others. Problems are solved through creativity". "The intersection of purpose and profit lies in creating solutions to problems you deem interesting and passing those solutions down to contribute to humanity". You solve more complex problems as you gain knowledge, skill and resources; "life gets better as problems shift from shallow to meaningful".
+- **ejemplos:** Fire, shelter, weapons.
+- **cita:** "happiness and enjoyment are the combination of progress being made and a contribution to something greater than yourself"
+- **terminos:** value creator; toolbuilders; intersection of purpose and profit
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-221
+- **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 19:12-20:05, 2025-10-05
+- **tension:** ninguna
+
+## U-023-225
+- **tipo:** principio
+- **titulo:** The internet is the path of high agency: no permission needed; the timeless answer is to share the value you acquire where the right people can find it
+- **desarrollo:** "The highest leverage place to create right now is on the internet. The internet is the path of high agency. You don't need permission to create something and post it... to navigate idea space and find the information you need". This may change, "but that only reinforces the point. No matter if it's the internet or intergalactic space or virtual reality, the answer has been and always will be to share the value you acquire in a place where the right people can find it". Being a creator is "not necessarily a content creator" but expressing your nature as a creator by becoming an entrepreneur with the internet as vessel.
+- **ejemplos:** ninguno
+- **cita:** "the answer has been and always will be to share the value you acquire in a place where the right people can find it"
+- **terminos:** path of high agency; idea space; creator
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-224
+- **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 20:05-21:26, 2025-10-05
+- **tension:** ninguna

@@ -2166,3 +2166,852 @@
 - **fuente:** How To Read Books Fast With AI (And Remember What You Read).md, 26:41–27:56, 2025-04-20
 - **tension:** ninguna
 
+# Fuente: How To Use AI Better Than 99% Of People (This Changed My Life).md (2025-11-27)
+
+## U-021-167
+- **tipo:** metáfora
+- **titulo:** Most people treat AI as a slot machine instead of something you program to do exactly what you want
+- **desarrollo:** "Most people treat AI as a slot machine rather than something you can program to do exactly what you want it to." AI is "a cool new way to ask questions and get answers. It's the new Google search, so to say. But most people stop there. They don't see the power under the hood." Despite the hype, if you asked the average person whether AI changed their life, the author argues most would say no. The slot machine = typing a short request, hoping for a good output, re-rolling. By "AI" he means LLMs, a chat box (ChatGPT or Claude), text only — nothing special needed.
+- **ejemplos:** ninguno
+- **cita:** "most people treat AI as a slot machine rather than something you can program to do exactly what you want it to"
+- **terminos:** slot machine
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How To Use AI Better Than 99% Of People (This Changed My Life).md, 0:00–1:21, 2025-11-27
+- **tension:** ninguna
+
+## U-021-168
+- **tipo:** concepto
+- **titulo:** From AI slop to imposing your own taste: treat AI as a digital employee that does exactly what you tell it
+- **desarrollo:** "This is how you go from AI slop to imposing your own sense of taste on the AI." "You need to think of AI as this sort of digital employee that will do exactly what you tell it to do. Meaning, if you don't know how to do the thing ... well, or you don't know how to guide the AI to finding how to do it well, then it probably won't do well," you'll be disappointed and "resort back to the slot machine style guessing game." "If you don't tell it exactly what you want, the LLM has to guess what you want. And in order to do that, it pulls from this onslaught of mediocre methods that are all over the internet," producing something slightly good "but not good enough to get outsized results because anyone can do that."
+- **ejemplos:** ninguno
+- **cita:** "If you don't tell it exactly what you want, the LLM has to guess what you want."
+- **terminos:** AI slop, digital employee, taste
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-167
+- **fuente:** How To Use AI Better Than 99% Of People (This Changed My Life).md, 1:56–3:14, 2025-11-27
+- **tension:** ninguna
+
+## U-021-169
+- **tipo:** argumento
+- **titulo:** Default AI is a consumer product tuned for the average person: dumbed down, sycophantic, cheap dopamine
+- **desarrollo:** "You can't rely on how the AI is programmed by default because ... ChatGPT, Claude, it's packaged up. It's tuned. It's given a personality for the average individual. I hope that you're not an average individual ... because that's what consumer products do. They dumb it down so that it can be useful and sycophantic and make you feel good for using it and give you your cheap little dopamine hits so you keep coming back to the slot machine."
+- **ejemplos:** ninguno
+- **cita:** "It's given a personality for the average individual."
+- **terminos:** sycophantic, cheap dopamine
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-021-167
+- **fuente:** How To Use AI Better Than 99% Of People (This Changed My Life).md, 3:14, 2025-11-27
+- **tension:** ninguna
+
+## U-021-170
+- **tipo:** ejemplo
+- **titulo:** "Generate a viral YouTube script on productivity" yields generic decisions that may not fit you; top creators each built their own methods
+- **desarrollo:** Typing that request into ChatGPT gives something "okay" but not near what a 1-million-subscriber channel would publish. Critique of the output: "Length 4 to 6 minutes" — following it blindly doesn't lead to views; "tone, fast, energetic, highly sharable. What if that's not your personality?"; "Cold open... What if you don't want to add custom B-roll? ... just talk to the camera? ... use your phone? What if this isn't even a topic that you're an expert in?" Ali Abdaal, Alex Hormozi and others "don't have the exact same videos. Over time, they have cultivated and created their own frameworks and methods" plus their ideas, speaking style, personality, quirks, brand and presentation style. "Is there any one best way to coming up with a YouTube script? No." Asking for a viral script "is not a long-term strategy. And you're not learning anything. You're just reciting what this box told you to do." Even if Hormozi and Abdaal used ChatGPT, they'd tell it exactly how to match their style, and still redo it "over and over again until it gets close enough to being useful."
+- **ejemplos:** Ali Abdaal, Alex Hormozi; a ChatGPT-generated productivity script.
+- **cita:** "You're just reciting what this box told you to do."
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-021-168
+- **fuente:** How To Use AI Better Than 99% Of People (This Changed My Life).md, 3:14–5:20, 2025-11-27
+- **tension:** ninguna
+
+## U-021-171
+- **tipo:** principio
+- **titulo:** Teach the AI exactly how you would do it: 500–2,000-word prompts; the shorter the prompt, the more guessing and the more agency you outsource
+- **desarrollo:** "To get AI to do something well in a high-quality way, you need to teach the AI exactly how you would create the YouTube video. At that point, it's not randomly generated slop. It's an employee that's acting on your instruction and learning as you refine the process by correcting mistakes." "You're going to be writing 500 to 2,000 word prompts. Not one sentence, not one paragraph like you see all over the internet" ("steal this prompt" — "some of those can be helpful"). "The shorter the prompt, the more guessing the AI has to do. The more of your agency you outsource to the agent, and the more the output increases on the slop spectrum." The remaining problem: what if you don't know how to do it, or haven't made hundreds of videos to know your method? That's addressed by four options for creating instructions.
+- **ejemplos:** ninguno
+- **cita:** "The more of your agency you outsource to the agent, and the more the output increases on the slop spectrum."
+- **terminos:** slop spectrum, agency
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-168
+- **fuente:** How To Use AI Better Than 99% Of People (This Changed My Life).md, 5:20–6:39, 2025-11-27
+- **tension:** ninguna
+
+## U-021-172
+- **tipo:** framework
+- **titulo:** Step 1 — Create detailed instructions, four options: write them yourself, ask AI for a guide, extract from an expert source, emulate an example you like
+- **desarrollo:** "Step one as a whole is you need to create detailed instructions for the AI ... This isn't the magic step yet, but this is the prerequisite." Whether a YouTube script, a landing page or a stimulating conversation, you must instruct it exactly. Four options, used in different situations: (1) write out the detailed instructions yourself; (2) ask AI to create a detailed guide (only for well-known, low-variation topics); (3) find an expert source of information; (4) emulate an example you like. Each is detailed in separate units.
+- **ejemplos:** ninguno
+- **cita:** "this is the prerequisite to getting to the magic step"
+- **terminos:** detailed instructions
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-171
+- **fuente:** How To Use AI Better Than 99% Of People (This Changed My Life).md, 6:39–7:23, 2025-11-27
+- **tension:** ninguna
+
+## U-021-173
+- **tipo:** método
+- **titulo:** Option 1 — Write the instructions yourself: the author's tweet prompt with requirements, varied post examples and an output format
+- **desarrollo:** His first serious prompt: could AI replicate how he writes tweets? First attempt: "write a viral tweet for me." Then: "here's actually how I write. Try emulating this." Over time it grew, because having written so many tweets, he could "deconstruct how I write the tweets, how I think about it, how I generate ideas, how I structure certain ideas," and give all requirements to AI. Structure: a list of requirements; post examples — one-sentence posts, multi-line paragraph posts, listicle (bullet) posts; and an output format (otherwise "it's just going to give it to me in this weird output"). The tweets come out pretty good, "but it's still generating. It's still guessing"; it doesn't cover the whole spectrum of how his mind works. Warning: most people give one or two examples "and then all of their tweets are just going to look the same ... homogeneous and it's going to be an easy tell that you're using AI."
+- **ejemplos:** The author's tweet-writing prompt.
+- **cita:** "they're going to look homogeneous and it's going to be an easy tell that you're using AI"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-021-172
+- **fuente:** How To Use AI Better Than 99% Of People (This Changed My Life).md, 7:23–9:01, 2025-11-27
+- **tension:** ninguna
+
+## U-021-174
+- **tipo:** método
+- **titulo:** Option 2 — Ask AI for a detailed guide, only for well-known, low-variation topics (e.g., a customer avatar), then turn it into an interviewing prompt
+- **desarrollo:** Condition: "the topic has to be relatively well-known. It can't have much degree of variation depending on the person" (unlike YouTube videos where Abdaal and Hormozi differ); "this can't require much creative thought." Example: customer avatar — "talked about so many different times ... There isn't a better way to create a customer avatar. Kind of sort of, but it doesn't really matter." Prompt: "give me a detailed guide on how to create the most comprehensive customer avatar in the world." That completes step one. Then turn it into a prompt that interviews you to fill all areas and generates a super-detailed avatar "that most people don't have." Advantage over a blank template ("what keeps the customer up at night") and manually going through Reddit: while it asks questions, you can say "what do you think? Go and research Reddit and tell me what they are."
+- **ejemplos:** Customer avatar guide and interview prompt.
+- **cita:** "I'm not just staring at this blank template"
+- **terminos:** customer avatar
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-021-172
+- **fuente:** How To Use AI Better Than 99% Of People (This Changed My Life).md, 9:01–10:21, 2025-11-27
+- **tension:** ninguna
+
+## U-021-175
+- **tipo:** método
+- **titulo:** Option 3 — Extract instructions from an expert source (e.g., Hormozi's PDF for offers) and turn them into a prompt that interviews you
+- **desarrollo:** "Find an expert source of information if you don't know what to do." For offer creation, you could ask AI for a guide, "but we already know that Alex Hormozi is the expert on that and his methods work. So, I could take his PDF, plug it into a chat, and then tell it to give me a detailed guide on how to create an offer," then turn that into a prompt that asks questions and outputs your offer. Same for landing pages, products, social posts — or something unique like turning two YouTube videos on personal branding into a personal brand coach that finds your content pillars, guides your posts and grades your writing.
+- **ejemplos:** Alex Hormozi's offer PDF; personal brand coach from YouTube videos.
+- **cita:** "we already know that Alex Hormozi is the expert on that and his methods work"
+- **terminos:** expert source
+- **origen:** propia (uses Alex Hormozi as source example)
+- **nivel:** intermedio
+- **prerrequisitos:** U-021-172
+- **fuente:** How To Use AI Better Than 99% Of People (This Changed My Life).md, 10:21–11:46, 2025-11-27
+- **tension:** ninguna
+
+## U-021-176
+- **tipo:** método
+- **titulo:** Option 4 — Emulate an example you like: paste great copy and ask AI to break down structure, psychological tactics and each line as a teaching guide
+- **desarrollo:** For landing-page copy (for Eden, his products, or another company), plain AI copy works but "still not that unique" — it sounds "like it belongs on a ClickFunnels landing page with a countdown timer." So he finds a unique page — e.g., an "anti-metal" page with "a really cool storytelling structure that is very attention-grabbing and compelling" — pastes its content and says: "I love this landing page copy. Break down the overall structure, what psychological tactics it uses, why it works, then break down each line individually. Write this as if you are teaching me how to do it step by step." That yields a replication guide. Turned into a prompt, it quizzes you on your product, customer avatar, pain points, etc., and rewrites the page "with that structure in my own words and with my own product."
+- **ejemplos:** The "anti-metal" landing page; ClickFunnels-style copy as the anti-example.
+- **cita:** "Write this as if you are teaching me how to do it step by step."
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-021-172
+- **fuente:** How To Use AI Better Than 99% Of People (This Changed My Life).md, 11:46–13:20, 2025-11-27
+- **tension:** ninguna
+
+## U-021-177
+- **tipo:** método
+- **titulo:** Step 2 — The meta prompt: a prompt that helps you create prompts, adding the missing personal context
+- **desarrollo:** Detailed instructions still miss "the personal context": how will AI write landing-page copy "without understanding my company, my product, my customer avatar"? "This is where the magic happens." The meta prompt is "a prompt that helps you create a prompt because most people suck at writing prompts and prompts have a pretty predictable structure." It saves hours of writing and refining: "you start with this incredible first draft that you can then refine." He calls it "the bread and butter ... the secret sauce" and tells viewers to save it (linked in the description; its full text is not in the transcript). Usage: new chat, send the meta prompt; it asks "What is the topic or role of the prompt you want to create?"; then supply the expert instructions and your description of the desired prompt.
+- **ejemplos:** ninguno
+- **cita:** "a prompt that helps you create a prompt"
+- **terminos:** meta prompt
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-172
+- **fuente:** How To Use AI Better Than 99% Of People (This Changed My Life).md, 14:45–16:46, 2025-11-27
+- **tension:** ninguna
+
+## U-021-178
+- **tipo:** opinión
+- **titulo:** Model preferences: Claude Opus 4.1 for this work; dislikes ChatGPT and Claude Sonnet 4.5 because it refuses to be harsh
+- **desarrollo:** "I personally like to do most of this with Claude Opus 4.1." "I don't really like Chat GPT at all personally, just personal preference. But I also don't like Claude Sonnet 4.5, the newest model, because it just tells me that I can't do certain things. It doesn't allow me to be harsh. Like I say, hey, be as harsh as possible. And it's like ... I don't feel comfortable doing that." (In an earlier video, he used Gemini Flash for large contexts and said "I like Claude better.")
+- **ejemplos:** ninguno
+- **cita:** "It doesn't allow me to be harsh."
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** How To Use AI Better Than 99% Of People (This Changed My Life).md, 15:26–16:46, 2025-11-27
+- **tension:** ninguna
+
+## U-021-179
+- **tipo:** método
+- **titulo:** Extraction prompt for expert sources: "Give me an extremely detailed step-by-step guide on how to [X]. You are the expert here."
+- **desarrollo:** For a personal brand coach, he uses a YouTube video (he loves a six-hour video by "Caleb Rston" [name as transcribed], but uses a shorter one to avoid clogging context). Prompt: "I want you to give me an extremely detailed step-by-step guide on how to build a personal brand in 30 days. You are the expert here. Give me the necessary education and steps." "When I'm trying to get the AI to break down the instructions of an expert source like a YouTube video or a PDF or even a website, I tend to write something like this." The AI reads the transcript and produces "expert level instructions, pretty much summarizing the video, but in the form of an actionable guide" (day one, day two...). Then take those instructions into the chat with the meta prompt.
+- **ejemplos:** 30-day personal brand guide from a YouTube video.
+- **cita:** "You are the expert here. Give me the necessary education and steps."
+- **terminos:** expert level instructions
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-021-177
+- **fuente:** How To Use AI Better Than 99% Of People (This Changed My Life).md, 16:46–18:57, 2025-11-27
+- **tension:** ninguna
+
+## U-021-180
+- **tipo:** framework
+- **titulo:** Structure prompts in phases: (1) context gathering by interview, one question at a time; (2) action plan / execution; (3) coaching
+- **desarrollo:** His request to the meta prompt: "I want to create a prompt that coaches me through building a personal brand for 30 days. You will execute this in three phases." "This is how I like to create prompts is I like to break them down into phases. And this does require some thinking." Phase 1, context gathering: "break down everything you need from me in order to best build a personal brand ... interview me to gather all of that information and ask one question at a time" — "usually the first phase in any prompt you create," because otherwise how would it know how to coach you? Phase 2, the action plan: output the 30-day plan based on your answers. Phase 3, coaching: one day at a time. Result: a "30-day personal brand coach prompt" with a five-pillars framework; used in a new chat it starts "question one of 15," then builds the strategy and coaches daily.
+- **ejemplos:** 30-day personal brand coach prompt.
+- **cita:** "This is usually the first phase in any prompt you create is you need to tell it to get the context for you."
+- **terminos:** context gathering, action plan, coaching, phases
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-177, U-021-179
+- **fuente:** How To Use AI Better Than 99% Of People (This Changed My Life).md, 18:57–21:26, 2025-11-27
+- **tension:** ninguna
+
+## U-021-181
+- **tipo:** opinión
+- **titulo:** Selling prompts is a business: AI coach software charges $30–50/month; a prompt behind a $10 paywall would sell
+- **desarrollo:** "I know of softwares out there that are literally personal brand coaches, right? They take an AI chat and they put a prompt like this in there ... and they charge $30 to $50 a month. So, if you can simply create a prompt around this, put it behind a paywall for 10 bucks and sell it, a lot of people will buy that." "Understanding this skill alone, just how to create prompts and selling the prompts, you can make a lot of money doing that."
+- **ejemplos:** Personal brand coach software at $30–50/month.
+- **cita:** "put it behind a paywall for 10 bucks and sell it, a lot of people will buy that"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-021-180
+- **fuente:** How To Use AI Better Than 99% Of People (This Changed My Life).md, 19:41–20:21, 2025-11-27
+- **tension:** ninguna
+
+## U-021-182
+- **tipo:** proceso
+- **titulo:** Recap: extract expert instructions, send the meta prompt in a new chat, describe the prompt, add context-gathering and execution phases, paste instructions
+- **desarrollo:** "Here's how you use AI better than 99% of people. First, you use AI to create or extract detailed expert level instructions. You do not allow the AI to guess what it should do. You create a new chat and send the meta prompt. Then, you give details about what prompt you want to create. You add a context gathering phase if needed and an execution phase. And then you paste the instructions into the prompt and tell it what you want." "When you use AI this way, you are using AI to both learn and build at the same time ... You are orchestrating. You're not guessing anymore." If already skilled, you do what you'd do anyway "but faster and potentially at a higher quality because you can iterate through drafts faster."
+- **ejemplos:** ninguno
+- **cita:** "You are orchestrating. You're not guessing anymore."
+- **terminos:** meta prompt, orchestrating
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-180
+- **fuente:** How To Use AI Better Than 99% Of People (This Changed My Life).md, 21:26–22:00, 2025-11-27
+- **tension:** ninguna
+
+## U-021-183
+- **tipo:** concepto
+- **titulo:** A prompt library documents your own processes: higher-level thinking, tangible iteration, lower cognitive load
+- **desarrollo:** "Think of this as documenting your own processes with AI." He has a library of prompts for specific things: "creating a coach, creating an advisor, creating a thought partner, being able to write landing pages, being able to do research." By doing this "you bring yourself to a higher level of thinking rather than a lower level. You can refine and iterate on your processes in a tangible way ... like having a list of instructions as a prompt that you can change as you get better. And ... you reduce your cognitive load of just storing all of that in your head."
+- **ejemplos:** The author's prompt library.
+- **cita:** "you bring yourself to a higher level of thinking rather than a lower level"
+- **terminos:** prompt library
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-021-182
+- **fuente:** How To Use AI Better Than 99% Of People (This Changed My Life).md, 22:00–22:46, 2025-11-27
+- **tension:** ninguna
+
+## U-021-184
+- **tipo:** método
+- **titulo:** Intellectual sparring partner: break down the worldviews of high-level thinkers and ask them for perspective on your problems
+- **desarrollo:** "I don't like just asking the base AI questions" — for deep knowledge it won't deliver unless instructed. "If your mind takes the shape of those that you learn from, I personally want to learn from these very high-level thinkers": Naval Ravikant, Daniel Schmachtenberger, Krishnamurti, Mihaly Csikszentmihalyi. For each, the prompt: "break down the entire worldview of the person, his core principles, how he thinks through problems, his main discoveries or insights, and all of the ideas that best illustrate his philosophy. This should be a comprehensive document as if I am diving into the entirety of his mind." Enable web search; or use a podcast that overviews their worldview. Store each in notes or a ChatGPT/Claude project, then ask questions. His test: "I'm struggling with how I should best manage projects for a software company with a small team" → output included "meta problem perspective from Daniel Schmachtenberger," "leverage and long-term games," "flow state design," "awareness-based approach," a practical synthesis.
+- **ejemplos:** Naval, Schmachtenberger, Krishnamurti, Csikszentmihalyi; managing projects for a small software team.
+- **cita:** "if your mind takes the shape of those that you learn from"
+- **terminos:** intellectual sparring partner
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-021-182
+- **fuente:** How To Use AI Better Than 99% Of People (This Changed My Life).md, 22:46–25:05, 2025-11-27
+- **tension:** ninguna
+
+## U-021-185
+- **tipo:** proceso
+- **titulo:** The author's outlining questions: big problem, consequential cascade, ideal life, novel concepts, step-by-step process, supporting evidence
+- **desarrollo:** "Thinking in my opinion is not just a random process. There are good ways to think and bad ways to think." Successful writers, creators, filmmakers "have soft processes for how they think best," usually questioning their thoughts in a specific way. When filling an outline he cycles through: "what's the big problem relating to the topic? What's the consequential cascade of not solving the problem? What's the ideal life I want to inspire people to move toward? What are novel concepts, perspectives, or personal experiences that shine an interesting light on this topic without using someone else's advice? What is an effective step-by-step process to overcoming the problem and moving toward the ideal life? What are compelling quotes, anecdotes, studies, or statistics that add to the argument?" Answering produces "a pretty compelling brain dump of ideas." He doesn't always do it explicitly — mostly in his head. Recommended "if you are worried about having AI do all of the writing for you."
+- **ejemplos:** ninguno
+- **cita:** "What's the consequential cascade of not solving the problem?"
+- **terminos:** consequential cascade, soft processes, brain dump
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** How To Use AI Better Than 99% Of People (This Changed My Life).md, 25:05–26:34, 2025-11-27
+- **tension:** ninguna
+
+## U-021-186
+- **tipo:** método
+- **titulo:** Creative thought partner: turn a guide on first-principles thinking into a prompt that guides you to insights without giving answers, to practice it as a habit
+- **desarrollo:** Take a YouTube video on first-principles thinking (or how Schmachtenberger or Naval think) and ask AI to break down how they think — reading that guide teaches more than watching. "Most people can watch these videos ... but then they still don't practice it ... how are you going to lock that in as a mental habit if you don't actually practice it? Well, creating a prompt out of it is a way to practice it." Request to the meta prompt: "I want to create a prompt that helps me arrive at clear novel insights through first principles questioning according to the attached guide. I want you to act as purely observational clear eyes that does not give me the exact answer but guides me to it ... First you will ask what topic idea or problem I want to discuss. Then you will ask one question at a time following the thinking instructions. Please ask clarifying questions before creating the prompt so that it comes out the best it can." The key: "I want it to help me think not do the thinking for me." The final sentence is a habit of his for better prompts; it asked about depth, questioning style, response format, scaffolding level, domain flexibility, progress tracking. "Habit formation comes through practice."
+- **ejemplos:** First-principles thinking prompt.
+- **cita:** "I want it to help me think not do the thinking for me."
+- **terminos:** creative thought partner, first principles
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-021-177
+- **fuente:** How To Use AI Better Than 99% Of People (This Changed My Life).md, 26:34–28:27, 2025-11-27
+- **tension:** ninguna
+
+## U-021-187
+- **tipo:** heurística
+- **titulo:** End prompt-creation requests with "ask clarifying questions before creating the prompt"
+- **desarrollo:** "Please ask clarifying questions before creating the prompt so that it comes out the best it can." "This last sentence, this is something I like to do when I'm creating prompts because then it asks me questions that will lead to a better prompt."
+- **ejemplos:** Clarifying questions on depth, style, format, scaffolding, domain flexibility, progress tracking.
+- **cita:** "it asks me questions that will lead to a better prompt"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-021-177
+- **fuente:** How To Use AI Better Than 99% Of People (This Changed My Life).md, 27:55, 2025-11-27
+- **tension:** ninguna
+
+## U-021-188
+- **tipo:** principio
+- **titulo:** Building a business with AI means doing the same things you'd do yourself through a library of prompts — learning and doing at once
+- **desarrollo:** For a one-person business, "it's not as simple as just telling an agent to do it or downloading a business software or business AI and having it do it for you. In fact, to build a business with AI, you're doing all of the same things that you normally would have done by yourself, but now you're doing it with this process. You're building a library of prompts that help you do the things you need to do in business well, like writing content, building a digital product, writing promotions, writing emails, crafting an offer, and writing landing page copy." Result: "you don't need to spend so much time learning the skills before you actually start building the business. You learn and do at the same time."
+- **ejemplos:** ninguno
+- **cita:** "You learn and do at the same time."
+- **terminos:** prompt library
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-183
+- **fuente:** How To Use AI Better Than 99% Of People (This Changed My Life).md, 28:27–29:35, 31:15, 2025-11-27
+- **tension:** ninguna
+
+## U-021-189
+- **tipo:** método
+- **titulo:** Prompts for writing content: personal brand strategy, content ideas from 10 top pieces, newsletters from 2–3 you like — coaching rather than ghostwriting
+- **desarrollo:** (1) Personal brand strategy: find a YouTube video that teaches it and turn it into a prompt. (2) Content ideas: "Paste 10 high-performing content pieces into AI and have it teach you how to replicate them." (3) Newsletters: "Paste two to three newsletters you like and have AI break down their structure." Caveat: "I don't personally recommend having AI write for you. So, consider creating a prompt that guides you through the process or coaches you through the process ... instead of telling it to write the thing for you."
+- **ejemplos:** ninguno
+- **cita:** "I don't personally recommend having AI write for you."
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-021-188
+- **fuente:** How To Use AI Better Than 99% Of People (This Changed My Life).md, 29:35–30:03, 2025-11-27
+- **tension:** Consistent with U-021-152 (AI can't write for him).
+
+## U-021-190
+- **tipo:** método
+- **titulo:** Prompts for digital product, offer and copywriting: product structure for buyer success, customer avatar and offer blueprint, copy guide from Breakthrough Advertising/Great Leads plus a structure breakdown
+- **desarrollo:** Digital product: preferably have an idea you already want to build; "ask AI how those products are structured and how to build them in a way that ensures the buyer uses and benefits the most"; create a prompt guiding you through creation section by section. Offer creation: a customer avatar prompt; a prompt that guides you to "a compelling offer blueprint" (ask AI how Hormozi creates offers for the instructions); use the offer blueprint for all other marketing materials and feed it to AI whenever product information is needed. Copywriting: take a respected book like Breakthrough Advertising and/or Great Leads, upload the PDF and turn it into "a detailed actionable guide"; find a landing page (or email/social promotion) structure, paste it, and have AI explain why it works; combine both and create a prompt that interviews you for offer, avatar and context to write copy. "That's four or five prompts that allow you to build a business."
+- **ejemplos:** Breakthrough Advertising, Great Leads, Hormozi's offer method.
+- **cita:** "use the offer blueprint for any of your other marketing materials"
+- **terminos:** offer blueprint, customer avatar
+- **origen:** propia (sources: Alex Hormozi; Breakthrough Advertising; Great Leads)
+- **nivel:** intermedio
+- **prerrequisitos:** U-021-188
+- **fuente:** How To Use AI Better Than 99% Of People (This Changed My Life).md, 30:03–31:15, 2025-11-27
+- **tension:** ninguna
+
+## U-021-191
+- **tipo:** proceso
+- **titulo:** YouTube workflow as seven prompts: title, key points, introduction, script, B-roll ideas, description, and a creation coach
+- **desarrollo:** Not "have it create the entire video for me." A video needs "a compelling title ... the key points, a gripping introduction, a full script, B-roll ideas, the video description, and then potentially a coach that walks you through the video creation process. All seven ... can be turned into prompts," run each time for a notable quality increase. Title prompt: find 5–10 accounts in your niche, filter by most popular, copy 10–20 titles into AI, ask for instructions on replicating them, turn into a prompt that ingests your topic and outputs titles. Key points prompt: ask AI for a guide on outlining a topic into compelling key points "that keep the viewer engaged while ensuring that the video is novel and valuable." Introduction prompt: find a YouTube video teaching good intros, turn it into instructions and a prompt. Script prompt: a video on scripting, or a script you want to emulate, into a guide, then a prompt that gathers topic, key points and intro as context. B-roll prompt: ask for B-roll and retention best practices; a prompt adding B-roll ideas per script line, fed section by section. Description prompt: via the meta prompt, three sections — keyword-friendly brief description, your links, and chapters with exact, attention-grabbing, keyword-friendly timestamps. "You're off to recording a YouTube video like a pro in a day rather than 6 months."
+- **ejemplos:** ninguno
+- **cita:** "All seven of those things can be turned into prompts."
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-021-182
+- **fuente:** How To Use AI Better Than 99% Of People (This Changed My Life).md, 31:15–33:42, 2025-11-27
+- **tension:** ninguna
+
+# Fuente: How To Learn Anything 10x Faster Than Anyone.md (2026-08-09)
+
+## U-021-192
+- **tipo:** principio
+- **titulo:** "If you need to remember it, it's not important. If it's important, you will remember it."
+- **desarrollo:** The opening line. Remembering everything you read has become an obsession (videos with millions of views, by people the author is friends with). People feel that if they don't retain what they read they failed or wasted time, "when that's not the point of reading at all." He returns to the line later to justify using AI for non-original factual material (U-021-218).
+- **ejemplos:** Viral "how to remember everything you read" videos.
+- **cita:** "If you need to remember it, it's not important. If it's important, you will remember it."
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 0:00, 42:24, 2026-08-09
+- **tension:** ninguna
+
+## U-021-193
+- **tipo:** argumento
+- **titulo:** Memorizing is an unconscious status symbol; sounding smart comes from understanding, and schools trained memorization
+- **desarrollo:** "Why would you want to memorize every word of a book in the first place? I know why. You want to sound smart. It's an unconscious status symbol for you. You want to impress others with your articulation and intelligence, but you don't realize that sounding smart comes from understanding, not memorization. And understanding requires a much different approach to learning." Schools tested your ability to memorize — hours of study to pencil in the right answer, "when that's not how life works at all." Everyone wants knowledge to make better decisions and reach a more advantageous situation with money and power so they don't worry about daily survival, "but memorizing facts is the least effective way to get there."
+- **ejemplos:** Penciling in test answers.
+- **cita:** "sounding smart comes from understanding, not memorization"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-192
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 0:00–1:34, 2026-08-09
+- **tension:** ninguna
+
+## U-021-194
+- **tipo:** método
+- **titulo:** The learning tweet: start the project, let it expose gaps, search when your mind will remember, publish, repeat for life
+- **desarrollo:** "Learning comes from struggle, not memorization. Start the project. No, don't watch 20 tutorials beforehand. Let it expose the gaps in your knowledge. Try to figure it out. Search for the answer when your mind is most likely to remember it. Publish the project, then repeat for life."
+- **ejemplos:** ninguno
+- **cita:** "Search for the answer when your mind is most likely to remember it."
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 2:17–2:59, 2026-08-09
+- **tension:** Restates U-021-121 (2025 video) with the added step "publish."
+
+## U-021-195
+- **tipo:** argumento
+- **titulo:** Most learning fails because there's no negative feedback loop — without a deep goal, mistakes don't register (drinking example)
+- **desarrollo:** "The reason that most learning fails is because there's no negative feedback loop." If you don't have the goal of getting in shape — "a deep intrinsically generated goal, not a superficial goal you're pursuing to fit in like a New Year's resolution" — a night of heavy drinking "won't register as a problem or negative feedback because it doesn't impact your non-existent goal of performing on your morning run or gym session." "You can go to work just fine with a hangover because you don't give a [ __ ] about how well you do at your job." It applies to business, relationships, health. With a goal like a bench press PR or a marathon, drinking would impact it; if the goal really means a lot and you drink anyway (he's "not completely against" it), training suffers and you hit goals slower or never; eventually you realize "I need to stop doing this." "That's called learning."
+- **ejemplos:** Drinking vs. morning run; hangover at a job you don't care about; bench PR; marathon.
+- **cita:** "the reason that most learning fails is because there's no negative feedback loop"
+- **terminos:** negative feedback loop, intrinsically generated goal
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 2:59–4:20, 2026-08-09
+- **tension:** ninguna
+
+## U-021-196
+- **tipo:** framework
+- **titulo:** Learning is a cybernetic process: helmsman image; reference signal, sensor, comparator (error signal), actuator
+- **desarrollo:** "Learning is a cybernetic process." Cybernetics stems from the Greek kubernetes ("I believe"), "steersman or helmsman." "The helmsman is the perfect image of a feedback system. The helmsman doesn't just point the ship in a direction once, he constantly reads the current state, like the wind, the waves, or the heading, and then he compares it against the intended course, and adjusts" — trial and error; "so few people have the direction that allows them to notice errors in their life." Components of intelligent systems: (1) reference signal — the goal, the target state; (2) sensor or perception — reads current state; (3) comparator — computes the gap between target and current state; "the difference is the error signal"; (4) actuator or behavior — acts to reduce the error. "Cybernetics is more of a frame of how to view reality ... to course correct in a better direction." Examples: thermostat turning on heat when too cold ("not a very intelligent system"); pancreas secreting insulin when blood sugar rises; "your body is one system composed of so many different intelligent systems."
+- **ejemplos:** Helmsman reading wind and waves; thermostat; pancreas and insulin.
+- **cita:** "the helmsman is the perfect image of a feedback system"
+- **terminos:** cybernetics, reference signal, sensor, comparator, error signal, actuator
+- **origen:** adaptada-de:cybernetics (field)
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-195
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 4:20–6:02, 2026-08-09
+- **tension:** Refines the 2024 cybernetic loop (U-021-054) into four named components.
+
+## U-021-197
+- **tipo:** principio
+- **titulo:** Learning is an output process, not an input process, because output demands input
+- **desarrollo:** "When most people try to learn something new, they focus on content. They hoard material and try to absorb it with spaced repetition or flash cards or courses and learning the fundamentals. They assume learning is an input process." He clarifies he's not saying those are bad: "I love courses. I take them all the time." "But in reality, learning is an output process because output demands input."
+- **ejemplos:** Spaced repetition, flash cards, courses.
+- **cita:** "learning is an output process because output demands input"
+- **terminos:** output process, input process
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-196
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 6:02–6:37, 2026-08-09
+- **tension:** ninguna
+
+## U-021-198
+- **tipo:** término-acuñado
+- **titulo:** Intellectual obesity: consuming self-improvement without using it is no better than brain rot and gives a false sense of progress
+- **desarrollo:** He announces a future video on "intellectual obesity" as "a crisis or an epidemic." "Information is food for your mind. If you're eating too much food and you're not exercising ... you're not using the food or shuttling it to muscle growth ... The same thing applies to the mind." "Just consuming, consuming, consuming, even if it's self-improvement ... that's no better than just consuming brain rot if you're not doing anything with it because it's making you mentally obese." People think scrolling self-improvement makes them better than brain-rot scrollers, "when you're doing the exact same thing, you're still getting the cheap dopamine hit. And honestly, it could be worse because you're just getting a false sense of progress." He admits "I was the same way."
+- **ejemplos:** Self-improvement scrollers vs. brain-rot scrollers.
+- **cita:** "it could be worse because you're just getting a false sense of progress"
+- **terminos:** intellectual obesity, mentally obese, brain rot, cheap dopamine
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-197
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 6:37–7:05, 2026-08-09
+- **tension:** Continues the information-as-food metaphor of U-021-018 (2023).
+
+## U-021-199
+- **tipo:** framework
+- **titulo:** The retention chain: goal → error signal → filter → relevance → retention
+- **desarrollo:** "A goal creates the error signal. The error signal creates the filter. The filter creates relevance, so whether it's useful because most people fill their mind with noise and things they will never use, and then the relevance creates retention." Each link depends on the previous: without a goal, there's no error to detect, no filter for what matters, no relevance, and so nothing is retained.
+- **ejemplos:** ninguno
+- **cita:** "the relevance creates retention"
+- **terminos:** error signal, filter, relevance, retention
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-196
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 7:05, 2026-08-09
+- **tension:** ninguna
+
+## U-021-200
+- **tipo:** argumento
+- **titulo:** The default-path person unconsciously corrects errors to maintain society's direction, so the assigned destiny comes true and opportunities get filtered out
+- **desarrollo:** A person deeply conditioned by "the default path" — "go to school, get a job, retire at 65" — has that goal directing their learning and behavior: "they behave in a certain direction, they make an error, and then unconsciously most of the time they correct the error to maintain the direction that was set for them by society. So, the destiny that they were assigned inevitably will come true even if the person ... didn't want it." "The pernicious thing" is they won't notice money-making, health or life-improving opportunities beyond the promised outcome — "that's your bar. That's the highest you can go with that goal." They won't notice starting a business, becoming a creator, a personal brand, or leveraging AI intelligently "because your brain is actively filtering it out ... you're not working toward a goal that would demand that as input." "These people are not in control of their lives. They are a puppet of someone else's ideals, and this is most people."
+- **ejemplos:** Retiring at 65 as the ceiling.
+- **cita:** "They are a puppet of someone else's ideals"
+- **terminos:** default path
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-199
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 7:05–9:29, 2026-08-09
+- **tension:** ninguna
+
+## U-021-201
+- **tipo:** concepto
+- **titulo:** Awareness of the problem starts course correction; this video itself may be forming a new goal in you (a better form of marketing)
+- **desarrollo:** "In order to fix this or ... course correct, you need the awareness of the problem." If the video registers, "a new goal is starting to form in your head, and your behavior and learning are starting to pick up and notice opportunities in that direction. And by simply having awareness that this could be a problem, that's going to direct your behavior." He adds that "this is largely marketing as well. This is a better form of marketing" — based on deep understanding of psychology, learning and behavior, "not the surface-level psychology that goes viral on Instagram." He announces a future video on "anti-marketing."
+- **ejemplos:** The video itself as goal-forming marketing.
+- **cita:** "This is a better form of marketing."
+- **terminos:** anti-marketing
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-021-200
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 9:29, 2026-08-09
+- **tension:** ninguna
+
+## U-021-202
+- **tipo:** principio
+- **titulo:** The key to success: know exactly what you don't want and compare it to an evolving vision of what you do want; refine like a sculpture
+- **desarrollo:** "If you consciously create your own frame by knowing exactly what you don't want out of life and comparing it to an evolving vision of what you do want out of life, you are only then able to sense when you are off track, notice the error, correct the direction you were heading, and learn as a byproduct." He repeats it: "That is the key. That is literally success." How: what do you hate, what experiences have you had; "create an image of a person in your head that you would despise being like, and now aim in the other direction. What does that person look like? What is their potential?" It is imaginary, so you work toward it, "but you have to refine it like a sculpture over time by comparing it to what you don't want or where you are now," and slowly "you eventually become the vision that you had."
+- **ejemplos:** Imagining a person you'd despise being like.
+- **cita:** "You need to know exactly what you don't want out of life and compare it to an evolving vision of what you do want"
+- **terminos:** anti-vision (implicit), vision, frame
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-196
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 9:29–11:07, 2026-08-09
+- **tension:** ninguna
+
+## U-021-203
+- **tipo:** ejercicio-del-autor
+- **titulo:** Step 1 — Become obsessed with a meaningful goal: see where your current actions lead, sit with that image, redirect the emotion
+- **desarrollo:** "The way you become obsessed is to look at your current actions and realize where your life will end up if you don't change. And for most people, that outcome is not pretty at all. Sit with that image. Actually sit with it. Pause this video, think, and let it fill you with this potent emotion and redirect that emotional energy toward a better direction." Such moments changed his life: "you just get filled with ... this divine energy ... you get choked up and you just want to attack whatever goal you have." "Only then can you actually align the goals you pursue with the aim of your future. Only then does a useful learning process start, the opposite of schooling where your learning is determined by the direction and goals society sets for you."
+- **ejemplos:** The author's own life-changing moments.
+- **cita:** "Sit with that image. Actually sit with it."
+- **terminos:** obsessed, meaningful goal
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-202
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 11:07–11:37, 2026-08-09
+- **tension:** ninguna
+
+## U-021-204
+- **tipo:** opinión
+- **titulo:** Being extreme toward a goal enhances neuroplasticity; the author prefers burning the boats over a backup plan
+- **desarrollo:** "Being extreme toward a goal changes your brain and enhances neuroplasticity." People say "don't quit your job, have a backup plan first" — "that's great ... that can work, absolutely. But personally, I thrive when I'm under pressure. I want to quit my job. I want to feel the weight of the world on my back and I want to carry it." He acknowledges "that's a very masculine thing," and those with a very feminine orientation may not resonate. "To me, that is a much better option is to just burn the boats. I like to romanticize my life a little bit. I like to feel like I'm going to war because that's what my brain responds to and it gives me a huge advantage over other people who don't have that same energy and drive."
+- **ejemplos:** ninguno
+- **cita:** "just burn the boats"
+- **terminos:** burn the boats
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-021-203
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 11:37–12:20, 2026-08-09
+- **tension:** Related to "tactical stress" (U-021-086), where he warned it's "not for the faint-hearted."
+
+## U-021-205
+- **tipo:** principio
+- **titulo:** Step 2 — Don't start learning: the life you want lies at the end of a series of meaningful projects; publish them for feedback
+- **desarrollo:** "The life you want lies at the end of a series of meaningful projects." "A project is simply a structured set of goals and milestones. It's a way of creating something tangible to work toward a goal." You achieve goals by creating a project, completing it "and preferably publishing the project" — a product released as a product, writing published on social media "to get feedback from the market." "Your mind is to be treated as a project, as is your body, your relationships, or your financial situation." "A project creates a frame for your learning by filtering out unimportant noise. Anything that does not directly move the project forward is not worth learning right now ... because you won't retain it anyway." "Don't start studying. Don't start watching tutorials. You start the project. You start with an image of what you actually want to do in the world first, and then you take the first step."
+- **ejemplos:** Product, writing, mind, body, relationships, finances as projects.
+- **cita:** "Anything that does not directly move the project forward is not worth learning right now"
+- **terminos:** meaningful projects, project
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-203
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 12:20–13:54, 2026-08-09
+- **tension:** Matches U-021-116 (2025 definition), adding "publish."
+
+## U-021-206
+- **tipo:** fuente-de-tercero
+- **titulo:** Step 3 — Seek specific knowledge (Naval): what you uniquely do best, aligned with who you are; you often don't know until you do it
+- **desarrollo:** Quote from Naval ("specific knowledge is kind of Naval's thing"): "I ultimately think that everyone should be figuring out what it is that they uniquely do best, that lines with who they are fundamentally, and that gives them authenticity, that brings them specific knowledge, that gives them a competitive advantage, that makes them irreplaceable. And they should just lean into that. And sometimes you don't know what that is until you do it." The author stresses the last sentence: beginners get stuck in "what do I do?" — "you learn what to do by doing something," a paradox that doesn't register for them.
+- **ejemplos:** ninguno
+- **cita:** "sometimes you don't know what that is until you do it"
+- **terminos:** specific knowledge
+- **origen:** de-tercero:Naval Ravikant
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-205
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 13:54–14:40, 2026-08-09
+- **tension:** ninguna
+
+## U-021-207
+- **tipo:** advertencia
+- **titulo:** Of course your first post will flop — that's the entire point; just post
+- **desarrollo:** Beginners fear their first social media post will flop. "You don't think that the first post is going to do amazing ... go viral and get famous all of a sudden? You don't think that it takes years? ... Of course, it's going to suck. Of course, it's going to be terrible. Of course, you're going to be embarrassed. That's the entire point." He exaggerates his frustration ("I just kind of want to ... give you a little slap and be like, 'Hey, dude, just post.'").
+- **ejemplos:** First social media post.
+- **cita:** "Of course, you're going to be embarrassed. That's the entire point."
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-206
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 14:40–15:10, 2026-08-09
+- **tension:** ninguna
+
+## U-021-208
+- **tipo:** definición
+- **titulo:** Self-education is learning what's necessary to achieve self-generated goals; schools teach general or job knowledge
+- **desarrollo:** "Schools teach general knowledge or knowledge required to do a job. They do not teach how to navigate your own path. They narrow you into one area of study, which by nature does not prepare you to direct your own work through the path of entrepreneurship or simply doing what you want to do." "Self-education is the process of learning what's necessary to achieve self-generated goals. Again, no hoarding general knowledge to feel like you're learning."
+- **ejemplos:** ninguno
+- **cita:** "Self-education is the process of learning what's necessary to achieve self-generated goals."
+- **terminos:** self-education, self-generated goals
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-206
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 15:10–15:47, 2026-08-09
+- **tension:** ninguna
+
+## U-021-209
+- **tipo:** ejemplo
+- **titulo:** Learning After Effects: don't learn the software inside out; have a vision, find the most similar tutorial, filter and stack techniques
+- **desarrollo:** After Effects is "a bunch of buttons that mean nothing." First thought: watch a tutorial on using After Effects — then "you're no better off ... 'Where is everything again?'" and you get stuck thinking "I need to learn this software inside and out before I even create anything." Instead "you need something to actually build ... a vision or an image of it in your head." "You need to start the project with the knowledge you have and if you don't have knowledge, then you find a specific tutorial that is as similar to the project you want to create as it can be." E.g., for a minimalist line animation (as he used to post on Instagram), find a tutorial of that or something close "so that I can directly apply what I'm learning in the moment." "Most of the tutorial will be useless, but you'll be filtering it out"; repeat "until you stack enough techniques" — not every tool in the sidebar — "to get the result that you want."
+- **ejemplos:** After Effects minimalist line animation; the author's old Instagram animations.
+- **cita:** "you stack enough techniques to get the result that you want"
+- **terminos:** stack techniques
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-021-205
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 15:47–16:27, 18:39–19:52, 2026-08-09
+- **tension:** ninguna
+
+## U-021-210
+- **tipo:** principio
+- **titulo:** A tool needs a purpose: "What are you trying to do?" comes before "how do I use this?"
+- **desarrollo:** With Eden, "there's only so many tutorials we can create before it's up to you to just figure out how to do what you want to do. The software is a tool ... like a wrench ... You can't use a tool if you have nothing to use it for." When people ask how to use it, his first question is "What are you trying to do? Are you trying to write content? Okay, do you know how to write content? Have you educated yourself? Have you started?" — only then can he give a proper answer.
+- **ejemplos:** Eden users asking how to use it; wrench analogy.
+- **cita:** "You can't use a tool if you have nothing to use it for."
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-021-209
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 16:27–17:08, 2026-08-09
+- **tension:** ninguna
+
+## U-021-211
+- **tipo:** argumento
+- **titulo:** No tool makes you go viral: content is subjective and shifts with culture and market sophistication, unlike code
+- **desarrollo:** He is irritated by tools and videos promising "how to go viral in 5 seconds." "That's not how it works because you have to learn the intricacies of attention and psychology and you have to practice so many times to get feedback from the market on your post so that pattern recognition over time builds in your head." "It doesn't matter if Claude tells you that a piece of content is going to go viral because do you understand how attention and value shifts over time? Content is subjective. Code is more objective." AI can write working code because the value criterion is "does this work?" With content, writing, creativity, art, "the value changes over time according to culture and market sophistication and how much an idea has been ran through to the point where everyone thinks it's just basic or cliche." He says he could easily build a system that makes you go viral once, "but that would be freaking useless to you"; he'd rather build a tool you use consistently.
+- **ejemplos:** "Go viral in 5 seconds" apps; Claude predicting virality; code vs. content.
+- **cita:** "Content is subjective. Code is more objective."
+- **terminos:** market sophistication, pattern recognition
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-021-210
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 17:08–18:39, 2026-08-09
+- **tension:** ninguna
+
+## U-021-212
+- **tipo:** ejemplo
+- **titulo:** Learning guitar: pick a song, learn chord by chord, pick up hacks (tuning, capo), song after song, then create — "just do things"
+- **desarrollo:** "Do you immediately go and study music theory? Probably not. You simply choose the song that you want to play and then you learn the first chord ... and then the second and then the third and then eventually you pick up other things like, 'Hmm, this doesn't sound right ... I need to tune the guitar ... add a capo.'" You learn one song, then the next, then feel confident enough to try your own simple song, "and then years later ... You're a master. That is how you learn." Summary: "it's literally just do things. For all the people that want a bullet point summary, go and do things."
+- **ejemplos:** Learning a song on guitar.
+- **cita:** "it's literally just do things"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-209
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 19:25–20:32, 2026-08-09
+- **tension:** ninguna
+
+## U-021-213
+- **tipo:** historia
+- **titulo:** The author's second-brain journey: Roam Research as preparative research for newsletters, Cortex, and its painful evolution into Eden
+- **desarrollo:** He has tried all the systems. He started with Roam Research, which "completely changed how I write my newsletters. I built a knowledge base of very potent ideas, and then I was able to pull from those when it was time to write, because the research was already there. My note-taking was essentially like preparative research." A few years ago he built Cortex, not meant as a second brain but it became one, because he tried to put his writing process into software, needing notes, connections and tags. "Cortex inevitably failed ... it didn't really fail, but it very painfully evolved into the version of Eden it is today" — why he hadn't been posting much.
+- **ejemplos:** Roam Research; Cortex; Eden.
+- **cita:** "My note-taking was essentially like preparative research."
+- **terminos:** second brain, preparative research
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 20:32–22:04, 2026-08-09
+- **tension:** ninguna
+
+## U-021-214
+- **tipo:** advertencia
+- **titulo:** Second brains aren't useless, they're misused: bookmarks and notes never seen again waste time you could spend engaging with reality
+- **desarrollo:** People capture ideas, take notes, hit bookmark or save "and then never looking at them again" — there's "a lot of gold that's just sitting there." "I'm not here to say that second brains are completely useless. I just think that they are misused." "Organizing your entire life inside of Notion is not going to help you very much, because you bookmark and you take notes just for them to never be seen again. So, you quite literally wasted your time thinking you were learning, when you could have actually been learning in the first place, and engaging with reality and trial and error." (He also crudely dismisses hoarded second brains early in the video.)
+- **ejemplos:** Notion life organization.
+- **cita:** "you quite literally wasted your time thinking you were learning"
+- **terminos:** second brain
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-213
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 1:34, 20:32, 22:04–22:45, 2026-08-09
+- **tension:** ninguna
+
+## U-021-215
+- **tipo:** concepto
+- **titulo:** The commonplace book tradition: Marcus Aurelius, da Vinci, Twain, Lovecraft, Jefferson, Reagan, Rick Rubin — their collections fueled creations
+- **desarrollo:** Before popularized second brains, people "had a commonplace book." Marcus Aurelius's Meditations "is essentially a private commonplace book with notes to himself and digested philosophy, and it was never meant to be published." Leonardo da Vinci "filled thousands of notebook pages with sketches, observations, questions, and borrowed ideas." Mark Twain, H.P. Lovecraft, Thomas Jefferson, Ronald Reagan, Rick Rubin and more had variations. The major difference from "your second brain productivity bro": "Their collection of ideas was the fuel for their creations." He would go as far as saying you wouldn't know who they are without some variation of a commonplace book, while clarifying a digital commonplace book "isn't like an absolute requirement to success, but it definitely helps."
+- **ejemplos:** Marcus Aurelius's Meditations; da Vinci's notebooks; Twain, Lovecraft, Jefferson, Reagan, Rick Rubin.
+- **cita:** "Their collection of ideas was the fuel for their creations."
+- **terminos:** commonplace book
+- **origen:** propia (historical examples)
+- **nivel:** intermedio
+- **prerrequisitos:** U-021-214
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 22:45–23:38, 2026-08-09
+- **tension:** ninguna
+
+## U-021-216
+- **tipo:** término-acuñado
+- **titulo:** Second subconscious: an external store that resurfaces relevant ideas when you create, compensating for the subconscious's limits
+- **desarrollo:** "Rather than this being a second brain, I like to think of it as a second subconscious. Because when you create something, your subconscious spits out relevant ideas that contribute to the quality of the creation, but it's still limited in processing power. And sometimes it decides to just not help you at all, leaving you in a creative rut." What second-brain systems miss: "they don't have a project to apply the ideas to. It doesn't spit out ideas when the time is right." Later: used correctly, it is "an externalization" of the web of ideas composing your worldview, "fuel for the things that you put in public ... a layer between you and your published work."
+- **ejemplos:** ninguno
+- **cita:** "I like to think of it as a second subconscious."
+- **terminos:** second subconscious, creative rut
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-215
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 23:38–24:15, 34:57, 2026-08-09
+- **tension:** ninguna
+
+## U-021-217
+- **tipo:** fuente-de-tercero
+- **titulo:** Seneca's bees: gather pollen from many flowers and digest it into your own honey — the antidote to writer's block
+- **desarrollo:** "A metaphor from Seneca was to gather pollen from many flowers and then digest it into your own honey. That's his way of saying steal like an artist" — the author jokes the "Steal Like an Artist" author may have stolen it from Seneca. "This is the antidote to writer's block. You don't have ideas for your writing content or videos because you don't have a repository of ideas to pull from." "Every single thing I've said in this video is from other articles, videos, social posts, random ideas, and highlights that I've saved before."
+- **ejemplos:** The video itself built from saved ideas.
+- **cita:** "gather pollen from many flowers and then digest it into your own honey"
+- **terminos:** steal like an artist, repository of ideas
+- **origen:** de-tercero:Seneca (linked to Steal Like an Artist)
+- **nivel:** intermedio
+- **prerrequisitos:** U-021-216
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 23:38–24:15, 2026-08-09
+- **tension:** ninguna
+
+## U-021-218
+- **tipo:** fuente-de-tercero
+- **titulo:** Devon Eriksen on AI: "dumber than a sack of wet hammers" — leverage its rapid input/output on simple tasks over large data
+- **desarrollo:** Quote from "Devon Erickson": "Don't get breathless about how smart AI is. It's dumber than a sack of wet hammers. Leverage instead its ability to do rapid input and output for simple tasks on large data sets." The author criticizes Instagram voices claiming that using AI once makes everything you've done useless ("the whole Hank Green situation"), refers to his video on how to "think five-dimensionally," and announces a video on "everything is a religion": nuanced thinkers picking "an absolute side in the AI religion either anti or pro AI" can't think for themselves — "this isn't all bad or all good as all things in life."
+- **ejemplos:** The Hank Green situation; anti-AI and pro-AI camps.
+- **cita:** "It's dumber than a sack of wet hammers."
+- **terminos:** AI religion, think five-dimensionally, everything is a religion
+- **origen:** de-tercero:Devon Eriksen (transcribed "Devon Erickson")
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 24:15–25:44, 2026-08-09
+- **tension:** ninguna
+
+## U-021-219
+- **tipo:** principio
+- **titulo:** The most useful application of a knowledge system: make sure ideas don't disappear into the void and resurface at the right time
+- **desarrollo:** Use AI to aid creativity without taking from it. "Most note-taking and second brain software still require manual upkeep. Some of them have an AI chat tacked on ... but they're missing the most useful application of them all which is make it so your ideas don't disappear into the void because your creative work depends on your ability to resurface them at the right time." Goal: "just be able to drop an idea in and then find it when we need it when we're writing creating or just working on a project." Two options: (1) Claude Code + Obsidian; (2) a modern software like MyMind or Eden that auto-tags, categorizes and embeds knowledge "in meaning space so it can connect seemingly unrelated ideas to birth novel insights."
+- **ejemplos:** ninguno
+- **cita:** "your creative work depends on your ability to resurface them at the right time"
+- **terminos:** meaning space
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-021-216
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 25:44–26:32, 2026-08-09
+- **tension:** ninguna
+
+## U-021-220
+- **tipo:** metáfora
+- **titulo:** The AI-usage bell curve: the simpleton and the master both "just tell it what to do," but the master knows what to do
+- **desarrollo:** Many people "swapped their obsession for collecting Notion templates to an obsession of collecting Claude skills." He plans a bell-curve meme of AI usage: the low end ("the stupid guy") says "you just tell it what to do"; the middle has "all the crazy skills and stuff"; the top says "just tell it what to do." "But the thing there is that in order to be this guy, you need to know what to do, which most people don't."
+- **ejemplos:** Notion template collectors; Claude skill collectors.
+- **cita:** "in order to be this guy, you need to know what to do, which most people don't"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 26:32–27:41, 2026-08-09
+- **tension:** ninguna
+
+## U-021-221
+- **tipo:** proceso
+- **titulo:** Claude + Obsidian second brain: point Claude at the vault, create "save an idea" and "process my inbox" skills, define a taxonomy
+- **desarrollo:** Steps: (1) download Obsidian and Claude; (2) open Claude Code or Claude Cowork and select your Obsidian vault folder (Obsidian stores files locally); (3) to create prompts or skills, "just ask it, 'Hey, how do I create a skill? ... a good prompt'" — you're "not trying to one-shot things. Working with AI is as close to working with the process of trial and error itself ... you still have to refine, refine, refine. And if you settle for slop or mediocrity, that's what creates slop or mediocrity"; (4) create a "save an idea" skill: creates a note in an inbox folder with a clear title whenever you drop an idea, link or post; (5) create a "process my inbox" skill: goes through the inbox, adds tags, moves notes to the right folder, adds backlinks to related notes; the two work in tandem so the second brain grows and organizes; then ask "what other ideas could work with this?" while writing; (6) ask Claude to help define your taxonomy (tags, categories), which you review, approve and iterate. Then just drop ideas from phone or desktop: "add this to my brain." Scope: idea capture for creative projects.
+- **ejemplos:** ninguno
+- **cita:** "if you settle for slop or mediocrity, that's what creates slop or mediocrity"
+- **terminos:** save an idea skill, process my inbox skill, taxonomy
+- **origen:** propia (summarizing a popular setup)
+- **nivel:** intermedio
+- **prerrequisitos:** U-021-219
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 27:41–30:10, 2026-08-09
+- **tension:** ninguna
+
+## U-021-222
+- **tipo:** concepto
+- **titulo:** Embeddings find novel connections without keyword matching: 1,500+ numbers as GPS coordinates for an idea
+- **desarrollo:** Keyword search finds most ideas, "but good writing and creative work come from novel connections ... not keyword search or that AI brainstorming synonyms." Tools like MyMind and Eden categorize, tag and embed everything (searchable without spending Claude usage; Eden also connects via MCP). They "can show you what's nearby ... the novel connections or the novel relations. And that's because each item is embedded with 1,500 plus numbers that act as GPS coordinates for an idea. They don't need to keyword match." That allows you to "drop an idea in, forget about it, and then be able to surface it while you're writing." Building it yourself means maintaining "a vector database, an embedding API, indexing scripts, re-embedding when notes change, keeping the index in sync when files are renamed, and caching" — "everyone just thinks, 'Oh, I'm going to build my own app.' ... No, you're not," except for simple local apps; an outlier search would cost "10 to 20,000 dollars" to store and maintain. The author notes these Eden features are free (promotional context).
+- **ejemplos:** MyMind; Eden; outlier search database cost.
+- **cita:** "1,500 plus numbers that act as GPS coordinates for an idea"
+- **terminos:** embedded, meaning space, novel connections
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-021-219
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 30:10–33:09, 2026-08-09
+- **tension:** ninguna
+
+## U-021-223
+- **tipo:** principio
+- **titulo:** When AI can create anything, curation matters more: capture the ideas that best represent your ideal mind
+- **desarrollo:** Step two of building the system: "capture the ideas that best represent your ideal mind. Because when AI can create anything, curation matters more than ever. You need a curated space for ideas that spark inspiration. The opposite of an endless fire hose of noise we call a social media feed." What to capture: things "that form your worldview or are powerful enough to eventually form your worldview" — "you listen to that podcast and you're like, 'Oh, wow, that's a really good idea.' ... That's what you save." "That's what your fancy note-taking system was meant to be ... You just never got around to solidifying those ideas as a part of yourself, usually through the act of thinking, writing, and sharing in public so that you can receive feedback from the market and let the best ideas win."
+- **ejemplos:** Saving an idea from a podcast.
+- **cita:** "when AI can create anything, curation matters more than ever"
+- **terminos:** ideal mind, curation
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-216
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 33:09–35:46, 2026-08-09
+- **tension:** ninguna
+
+## U-021-224
+- **tipo:** argumento
+- **titulo:** People don't follow you for content anymore but for your point of view, downstream of the ideas composing your worldview
+- **desarrollo:** For writers and creators building audiences, "people don't follow you for your content anymore. There's Google, AI, and plenty of information that can be found at the click of a button. People follow you for your point of view, your opinion, your interpretation, your personality, your story. And all of those things are downstream of the ideas that compose your worldview. The ideas you use to make sense of the world." Example: in a conversation about the nature of reality, his mind jumps to history, integral theory, Spiral Dynamics, "because I've deemed these the most useful lens ... It makes the most sense out of the other ideas I've heard that tend to fall flat."
+- **ejemplos:** The author's lenses on the nature of reality: history, integral theory, Spiral Dynamics.
+- **cita:** "all of those things are downstream of the ideas that compose your worldview"
+- **terminos:** point of view, worldview
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-223
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 33:09–34:18, 2026-08-09
+- **tension:** ninguna
+
+## U-021-225
+- **tipo:** concepto
+- **titulo:** "You are the niche" doesn't mean posting about you: it means placing your mind — your web of interconnected ideas — in public
+- **desarrollo:** Responding to critics of his "you are the niche" idea who think it means "posting about you, you, you": "No, you're documenting, you're placing your mind in public for people to explore. Your mind is not just your personality traits and ... your story and the things about you. It's the ideas that create this web of interconnections that make how you say the ideas unique." The second subconscious, used correctly, is an externalization of that web used as fuel for public work.
+- **ejemplos:** ninguno
+- **cita:** "you're placing your mind in public for people to explore"
+- **terminos:** you are the niche
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-224
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 34:18–34:57, 2026-08-09
+- **tension:** Clarifies/corrects a common misreading of his earlier "you are the niche" teaching.
+
+## U-021-226
+- **tipo:** método
+- **titulo:** How to curate: read more books, follow curiosity, reject doomscrolling for curated thinkers, make time for research (80% of a creator's job)
+- **desarrollo:** "You read more books. You let your curiosity guide you. You reject doomscrolling and embrace curated lists of authors and thinkers who are dedicated to producing good ideas. You make time for research, because as a writer or creator, that's 80% of your job." On AI: "I'm not choosing one side ... I'm not saying, 'Oh, you touch AI and then you're just brain dead.' ... But, I also didn't say that you shouldn't read or that you should outsource your creativity ... It's just a tool. Stop ... overexaggerating it in your head. You still need to do the things that lead to a good mind and life ... And if AI is taking away from that, then stop using AI for that specific use case or change how you use it."
+- **ejemplos:** ninguno
+- **cita:** "You make time for research, because as a writer or creator, that's 80% of your job."
+- **terminos:** doomscrolling
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-021-223
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 35:46–36:30, 2026-08-09
+- **tension:** ninguna
+
+## U-021-227
+- **tipo:** principio
+- **titulo:** Build your ideal mind through creation: close the loop with a project so captured knowledge isn't wasted
+- **desarrollo:** "Step three is to build your ideal mind through the act of creation ... We need to close the loop. We have the system for capturing and retrieving knowledge, but now we need the project to apply it to so that it doesn't go to waste." Without a project "we still aren't capturing specific knowledge because we don't have a reason to learn. We aren't giving our mind the frame from which it can effectively signal that ideas are important enough to capture." The goal: be smarter, retain what we learn, sound articulate — "for superficial reasons, maybe, but also because the outcome of our lives depend on the decisions that we make and our level of smartness and ability to articulate our own value." The project can be anything (image, design, Photoshop); he gives his writing process.
+- **ejemplos:** ninguno
+- **cita:** "We need to close the loop."
+- **terminos:** ideal mind, close the loop
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-223, U-021-205
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 36:30–37:17, 2026-08-09
+- **tension:** ninguna
+
+## U-021-228
+- **tipo:** método
+- **titulo:** Choose topics at the intersection of performance (proven to do well) and excitement (what you're curious about)
+- **desarrollo:** For a Substack article (long-form is growing "because they're tired of brainless short-form"), YouTube script or X article: step one, choose a topic at "the intersection of performance and excitement." Performance = "topics that have already proven to do well" — save viral posts or use an outlier research tool to study creators' top posts; "this is just what you do." Do musicians become famous "by just making little sounds, or did they have a structure ... 'How will the market respond?'" "A lot of artists skip the business part, and that's why they become starving artists ... that is their downfall." Using proven principles "isn't sacrificing your voice ... because it still runs through your taste filter." Example: this video's title includes "how to remember everything you read" because hundreds of such videos went viral — yet it says the opposite. Excitement = "topics and ideas that you want to explore more out of curiosity"; "pair the topic you want to write about that probably wouldn't do well on social media with a topic that has already proven to do well."
+- **ejemplos:** This video's title; musicians thinking about the market; starving artists.
+- **cita:** "it still runs through your taste filter"
+- **terminos:** performance, excitement, taste filter, starving artists, outlier content
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-021-227
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 37:17–39:41, 2026-08-09
+- **tension:** ninguna
+
+## U-021-229
+- **tipo:** proceso
+- **titulo:** Brain dump, outline (problem, insight, solution), then draft by synthesizing
+- **desarrollo:** "You don't just start writing the draft. Writers don't just open one page and then expect all the ideas to linearly fall into place." (1) Brain dump: write all potential ideas under the topic; look through your notes, ideas and links and add them (he uses an Eden board: searches the library, asks the AI chat for ideas in it, adds them so research is open while writing). (2) Outline: fit the ideas into "a general storytelling framework, which usually falls within problem, insight, solution" — what falls under the problem; "the main insight ... usually the exciting idea"; and "the solution or the step-by-step." (3) Draft: with an empty draft, brain dump, research and outline, "all you need to do is synthesize them together and actually turn them into sentences."
+- **ejemplos:** The author's Eden boards.
+- **cita:** "problem, insight, solution"
+- **terminos:** brain dump, outline, problem insight solution
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-228
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 39:41–40:23, 2026-08-09
+- **tension:** ninguna
+
+## U-021-230
+- **tipo:** concepto
+- **titulo:** "Don't use AI to write for you" means don't use it to articulate your opinions and beliefs — factual third-party material is fine (his viral X article)
+- **desarrollo:** "When I say, 'Don't use AI to write for you,' what I'm actually saying is 'Don't use AI to articulate your opinions and beliefs.'" Someone asked whether he used AI in "my viral Twitter article, the most viewed article on Twitter." Yes: a section of bullet points with short descriptions of the nine stages of ego development, "from Susan Cook-Greuter. It's not my ideas." Any writer would Google them; "I don't want to mess it up. I want it to be as close to Susan Cook-Greuter's version ... as possible." "It doesn't take away from the value of the article." Rewriting them would be "what you do in school for the sake of memorization" — tying back to "if you need to remember it, it's not important." He reserves effort for "the ideas that I love ... because I understand the value of articulating them myself and how it improves my mind." "There is value in struggling to articulate your own thoughts and opinions because it creates a gap that you can then go learn and fill."
+- **ejemplos:** The author's most-viewed X article and its nine-stages section.
+- **cita:** "Don't use AI to articulate your opinions and beliefs."
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-192
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 40:23–42:24, 2026-08-09
+- **tension:** Clarifies his earlier "AI can't write for me" (U-021-152) and "I don't recommend having AI write for you" (U-021-189).
+
+## U-021-231
+- **tipo:** método
+- **titulo:** Use AI to remove friction like a course, mentor or editor: structures, possible directions, research — and you decide what's published
+- **desarrollo:** "Use AI to remove friction, not write for you ... like you would use a course or a mentor or an editor while you are learning the skill because AI is good at scanning through large swaths of information." It can hallucinate; "do you think everyone just accepts that as law or do they question it?" — same as Instagram "human experts" giving opinions people soak up, "and that's exactly what happened to the anti-AI people's brains"; "the all 100% pro-AI people are also dumb as rocks." Applied: if you don't know how to structure, "ask for a list of structures that your ideas could fit into, something that a course would give you anyways"; if you don't know what to write next, "ask for a few directions ... and then choose your own or choose none"; if you don't understand something, research it like writers always did, more efficiently (the internet also gives false info). "You are ultimately the one who decides what gets published ... If it doesn't represent the values, ideas, and beliefs you want it to, then refine it until it does, or don't post it."
+- **ejemplos:** Asking AI for structures or directions.
+- **cita:** "You are ultimately the one who decides what gets published"
+- **terminos:** remove friction
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-021-230
+- **fuente:** How To Learn Anything 10x Faster Than Anyone.md, 40:23, 42:24–44:35, 2026-08-09
+- **tension:** ninguna
+

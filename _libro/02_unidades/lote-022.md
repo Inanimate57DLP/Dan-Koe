@@ -2389,3 +2389,644 @@
 - **fuente:** You're Not Boring How To Become An Original Thinker (Fast).md [27:48]-[28:34] (2025-01-19)
 - **tension:** ninguna
 
+# Fuente: How To Articulate Your Thoughts Intelligently (Talk Like This).md (2025-12-07)
+
+## U-022-184
+- **tipo:** historia
+- **titulo:** The author never thought he could be articulate; test-taking ability differs from stringing together coherent thoughts.
+- **desarrollo:** As a youth he was drawn to people who "sounded intelligent" — Alan Watts, Jordan Peterson, Daniel Schmachtenberger — "who could explain deep ideas in an exciting yet palatable way. Most of the time I didn't understand what they were saying, either because I was too young and dumb or they were just overcomplicating… but they sounded smart and articulate. So I gave them my respect." He believed they were inherently more intelligent. "I was a smart kid in school, but being good at taking tests is a lot different from being good at stringing together coherent thoughts and articulating them to someone else. I felt like I had to memorize entire books worth of information so that I could recite it on the spot because I was trained to learn that way." Over a decade later, "without really trying to become articulate, people ask me how I write and speak so well." Over 6 years, "millions of people have chosen to hit the follow or subscribe button." "I'm not an entertainer. I'm not that funny. I'm actually quite boring, which I like… I wouldn't even say that my content is eloquent or revolutionary." He attributes success "to being able to articulate valuable ideas in a way that people are drawn to, and that's not very difficult to do."
+- **ejemplos:** Watts, Peterson, Schmachtenberger.
+- **cita:** "Being good at taking tests is a lot different from being good at stringing together coherent thoughts."
+- **terminos:** articulate
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** How To Articulate Your Thoughts Intelligently (Talk Like This).md [0:00]-[1:24] (2025-12-07)
+- **tension:** ninguna
+
+## U-022-185
+- **tipo:** término-acuñado
+- **titulo:** The "inner album of greatest hits": a pool of 8–10 big ideas you've thought through hundreds of times and can connect to almost any topic.
+- **desarrollo:** Before methods, "you need something to articulate. So first we need to build our inner album of greatest hits. If you want to articulate yourself intelligently, you need a pool of 8 to 10 of your biggest ideas that can be connected to almost any topic. Then when it's time to write or speak in any situation, you have a starting point that you've already thought through hundreds of times before." The author: two books, hundreds of newsletters and YouTube videos, thousands of social posts — "It's obvious which ideas have led to the most DMs of people telling me that that idea changed their life. It's obvious that I really only have eight to 10 big ideas that illustrate the value that my brand provides." He writes 2 hours every morning and "it usually has something to do with those 8 to 10 big ideas. Those are the ideas people want to hear… that introduce new listeners to who I am." Use cases: new creator standing out, podcasts without a script, company meetings, sales calls, CVs, arguments, "or… just want to be a more interesting person."
+- **ejemplos:** The author's 8–10 ideas.
+- **cita:** "You need a pool of 8 to 10 of your biggest ideas that can be connected to almost any topic."
+- **terminos:** inner album of greatest hits; big ideas
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How To Articulate Your Thoughts Intelligently (Talk Like This).md [1:24]-[4:17] (2025-12-07)
+- **tension:** ninguna
+
+## U-022-186
+- **tipo:** historia
+- **titulo:** Big-league podcasts: the author's mental hurdle of not wanting to repeat himself makes his mind go blank.
+- **desarrollo:** As a beginner, podcasts were with friends building their shows — a way to make connections. Now he's invited to "the big leagues" where hosts spend "thousands to tens of thousands of dollars on the production quality" and "hundreds of thousands of people may be tuning in": nerve-wracking. "I'm not the best podcast guest yet. Not by a long shot." His YouTube videos are more articulate because "Devon's in control of the editing… I'm in control of the key points… It's kind of premeditated," whereas on podcasts "you're just riffing." Listening back, "I'm just kicking myself because I knew that I could have responded to certain questions better." "That's my biggest mental hurdle. I don't want to sound like I'm repeating myself. So… I avoid saying the things that I've already said, [and] my mind kind of goes blank and I feel like I have to force something out just to avoid having an awkwardly long pause… I want to somehow have this mind-blowing idea on the spot when I know that's not how ideas work. Ideas require time to dissect and explore. They have to be a part of you."
+- **ejemplos:** Podcast appearances.
+- **cita:** "Ideas require time to dissect and explore. They have to be a part of you."
+- **terminos:** riffing
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-185
+- **fuente:** How To Articulate Your Thoughts Intelligently (Talk Like This).md [2:07]-[4:17] (2025-12-07)
+- **tension:** ninguna
+
+## U-022-187
+- **tipo:** principio
+- **titulo:** Articulation requires a body of work that keeps being refined and growing (the Peterson example).
+- **desarrollo:** "Jordan Peterson, regardless of your opinion, is known for his articulation. It's captivating when you listen to him. Why? If you look at his body of work, it's obvious he has a body of work. If you wish to articulate yourself and you do not have a body of work that is continuing to be refined and continues to grow, then you have a lot of work to do before you can actually be naturally articulate."
+- **ejemplos:** Jordan Peterson.
+- **cita:** "If you wish to articulate yourself and you do not have a body of work… you have a lot of work to do."
+- **terminos:** body of work
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-022-185
+- **fuente:** How To Articulate Your Thoughts Intelligently (Talk Like This).md [4:17]-[5:00] (2025-12-07)
+- **tension:** ninguna
+
+## U-022-188
+- **tipo:** metáfora
+- **titulo:** Your favorite musician: a recognizable sound with slight variations — you must repeat yourself because important ideas deserve repetition.
+- **desarrollo:** "Why do you listen to your favorite musician? Because they have a specific sound or style that you enjoy. Most of their music sounds the same with slight variations… You can listen to a few seconds of their song and know exactly which artist plays it. If an EDM artist immediately decided to switch to country music, their first track would be horrible, as most first iterations are, and most of their audience would not like it." Same for creators, speakers, writers: "You need to write or speak thousands of times until your best ideas are obvious. By nature, you must repeat yourself because the most important ideas deserve to be repeated. And how else are you going to refine them?"
+- **ejemplos:** EDM artist switching to country.
+- **cita:** "The most important ideas deserve to be repeated."
+- **terminos:** specific sound or style
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-022-185
+- **fuente:** How To Articulate Your Thoughts Intelligently (Talk Like This).md [5:00]-[5:33] (2025-12-07)
+- **tension:** ninguna
+
+## U-022-189
+- **tipo:** caso
+- **titulo:** The author's content pillars, each with a handful of market-validated tweets as big ideas.
+- **desarrollo:** "You can think of these big ideas as tweets." His content pillars: the one-person business model, lifestyle design, how to get what you want in life, how to master your mind, and now more AI. "For each of those content pillars, I have just a handful of tweets that I've written that hit hard and have been validated by the market. They get a lot of engagement and they're just good ideas."
+- **ejemplos:** Pillars listed.
+- **cita:** ninguna
+- **terminos:** content pillars; validated by the market
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-185
+- **fuente:** How To Articulate Your Thoughts Intelligently (Talk Like This).md [5:33]-[6:17] (2025-12-07)
+- **tension:** ninguna
+
+## U-022-190
+- **tipo:** heurística
+- **titulo:** The best podcast guests don't answer the question directly: they state their best related idea with confidence, then expand with supporting points.
+- **desarrollo:** Studying how guests respond: "the best speakers don't answer the question that the podcast host asks directly. They don't say 'Um, well, good question. Let me think about this for a bit.'… Instead, they just speak their best idea, the best idea that relates to that question, with confidence, and then they expand on it with a few supporting points." Benefits: keeps the listener engaged → the podcast does better → more podcasts want you → more success; it's "a clippable moment," and if the idea has already gone viral/been validated, the clip will again, compounding success.
+- **ejemplos:** Alex Hormozi (U-022-191).
+- **cita:** "They just speak their best idea… with confidence, and then they expand on it with a few supporting points."
+- **terminos:** clippable moment
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-185
+- **fuente:** How To Articulate Your Thoughts Intelligently (Talk Like This).md [6:17]-[7:01] (2025-12-07)
+- **tension:** ninguna
+
+## U-022-191
+- **tipo:** ejemplo
+- **titulo:** Hormozi answers "greatest skill to learn" with his viral tweet about staying in a great mood — a pattern interrupt and a re-viral clip.
+- **desarrollo:** Asked "What's the greatest skill that someone can learn right now?", Hormozi could say "learn sales or offer creation," "but he understands that there are levels to this game. So he would probably respond with his literal second most viral tweet: 'The single greatest skill you can develop is the ability to stay in a great mood in the absence of things to be in a great mood about.'" It "has nothing to do with actual skill acquisition that's on people's mind. So that's a pattern interrupt as well." It sets him and the host up "for a very interesting conversation on a topic that he's probably very fresh on and can talk about non-stop." The tweet has 105,000 likes; when clipped it "is going to pay back tenfold because it's going to go viral again." (The author presents this as a hypothetical "would probably respond.")
+- **ejemplos:** Hormozi's tweet (105,000 likes).
+- **cita:** "The single greatest skill you can develop is the ability to stay in a great mood in the absence of things to be in a great mood about."
+- **terminos:** pattern interrupt; levels to this game
+- **origen:** de-tercero:Alex Hormozi (tuit) + propia (análisis)
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-190
+- **fuente:** How To Articulate Your Thoughts Intelligently (Talk Like This).md [7:01]-[8:32] (2025-12-07)
+- **tension:** ninguna
+
+## U-022-192
+- **tipo:** principio
+- **titulo:** If you don't know what to learn, start writing: writing teaches you how to think, learn, and inspire people to care.
+- **desarrollo:** "If you don't know what to learn, start writing. Not because writing is some shortcut you can't stop looking for, but because writing teaches you how to think, how to learn, and how to inspire people to care about what you do." "Writing is so much more than writing. It's not only just putting letters on a page." "You should start writing intentionally because you already write every single day": texting family, emailing prospects/clients/co-workers, project outlines, feedback, proposals.
+- **ejemplos:** Texts, emails, proposals.
+- **cita:** "Writing teaches you how to think, how to learn, and how to inspire people to care about what you do."
+- **terminos:** writing intentionally
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How To Articulate Your Thoughts Intelligently (Talk Like This).md [8:32]-[9:42] (2025-12-07)
+- **tension:** ninguna
+
+## U-022-193
+- **tipo:** opinión
+- **titulo:** Not caring about grammar, cleverness or polish helps the author's articulation and helps him stand out against AI.
+- **desarrollo:** "I call myself a writer, but I wouldn't actually consider myself one. I don't care about grammar. I don't care about how clever I sound most of the time. And when I start paying too much attention to being more clever, my articulation tends to suffer a lot. I also don't care if my sentences run on or if I don't say something the best way it could be said. This actually helps me stand out against AI. My writing isn't that polished." Yet millions follow because "they found some form of value."
+- **ejemplos:** ninguno
+- **cita:** "When I start paying too much attention to being more clever, my articulation tends to suffer a lot."
+- **terminos:** polish
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** How To Articulate Your Thoughts Intelligently (Talk Like This).md [8:57]-[9:42] (2025-12-07)
+- **tension:** ninguna
+
+## U-022-194
+- **tipo:** argumento
+- **titulo:** Writing is the foundation of media — how your work gets in front of people and persuades them so you get paid; go where the attention is.
+- **desarrollo:** "The foundation of media, which is how you or your employer gets your work in front of other people and persuades them to care about your work so you can survive and get paid, is writing." "If you want to succeed in any venture, you must go where the attention is. Right now, most of the attention is on social media, YouTube, podcasts, and advertisements like Facebook ads. All of which require you to articulate persuasively in the form of video scripts, posts, sales copywriting, post captions… which is nearly everything." That's why the author writes 1–2 hours every morning: "that's the foundation of literally my survival… If I don't write… how am I going to ever get a customer for my own work?" (Why he created 2 Hour Writer.)
+- **ejemplos:** Scripts, posts, sales copy, captions.
+- **cita:** "The foundation of media… is writing."
+- **terminos:** foundation of media; go where the attention is
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-022-192
+- **fuente:** How To Articulate Your Thoughts Intelligently (Talk Like This).md [9:42]-[10:29] (2025-12-07)
+- **tension:** ninguna
+
+## U-022-195
+- **tipo:** proceso
+- **titulo:** Write → refine → practice speaking it; posting in public gives engagement feedback on which ideas are most impactful.
+- **desarrollo:** "By writing, that's how you practice articulating your ideas from the start. It's like a first draft. And then you refine it and then you practice speaking it. And then you get really good at it. And as a bonus, by posting your ideas in public, you get direct feedback in the form of engagement so that you know which ideas are the most impactful. And building an audience from that also doesn't hurt." The three frameworks given are also "frameworks for tweets or social posts or something that could potentially go viral."
+- **ejemplos:** ninguno
+- **cita:** "By posting your ideas in public, you get direct feedback in the form of engagement."
+- **terminos:** first draft; feedback; engagement
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-192
+- **fuente:** How To Articulate Your Thoughts Intelligently (Talk Like This).md [8:32], [10:29]-[11:04] (2025-12-07)
+- **tension:** ninguna
+
+## U-022-196
+- **tipo:** framework
+- **titulo:** Beginner framework — the micro story (PAS): problem, amplify, solution; the foundation of story is transformation.
+- **desarrollo:** "The human mind is a story engine; humans can't help but pay attention to a story, especially if it's short and impactful. Once you learn how to do it well, you can effectively short-circuit someone's brain into being interested." "The foundation of a story is transformation. This does not have to be a transformation about a specific person. A transformation can be as simple as introducing a problem and giving a solution." Structure: (1) Problem — "state a relatable problem or pain point that you've observed or experienced"; (2) Amplify — "illustrate how that problem leads to a negative outcome if it is not solved"; (3) Solution — one sentence or short bullet list in a short post; in a long newsletter or script, all the key points with explanations. "The problem and amplification would account for the hook." "If you've studied copywriting at all… It's called the PAS framework. And after six years… that's still my go-to when… I'm just lost."
+- **ejemplos:** This video section is itself the solution part.
+- **cita:** "The foundation of a story is transformation."
+- **terminos:** micro story; PAS framework; problem; amplify; solution; story engine; hook
+- **origen:** adaptada-de:PAS (copywriting)
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How To Articulate Your Thoughts Intelligently (Talk Like This).md [11:04]-[12:49] (2025-12-07)
+- **tension:** ninguna
+
+## U-022-197
+- **tipo:** ejemplo
+- **titulo:** A PAS tweet worked live: "You don't know how to articulate yourself" → won't get the girl/job/business, mom's basement → use PAS.
+- **desarrollo:** "What's a problem? You don't know how to articulate yourself. Okay, how do you amplify that? What does that lead to down the road? You won't get the girl. You won't land the job. You won't be able to start your own business. You're going to live in your mom's basement for the rest of your life. Okay, what's the solution? Use the PAS framework. That's a tweet. It would actually probably do pretty good. You could expand that into a newsletter… a YouTube video or… say it on a podcast. When someone says 'What's the greatest skill to learn?' You say 'Articulation.' Why? Because most people don't know how to articulate themselves." Then amplify, solve.
+- **ejemplos:** The tweet itself.
+- **cita:** ninguna
+- **terminos:** PAS
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-022-196
+- **fuente:** How To Articulate Your Thoughts Intelligently (Talk Like This).md [12:13]-[13:10] (2025-12-07)
+- **tension:** ninguna
+
+## U-022-198
+- **tipo:** método
+- **titulo:** Hunting for ideas: listen intently for "an idea you wish you wrote," jot it down, re-articulate it in your own words via frameworks.
+- **desarrollo:** If you don't have an idea: "you need to hunt for them. You need to read old books, go down rabbit holes on a topic, listen to a new podcast, or just sit with your thoughts and follow them until you reach a compelling insight. When you hunt for an idea, you aren't just letting the information go in one ear and out the other. You are listening intently for an idea that you wish you wrote. Then you jot it down so you don't lose it. Then you articulate it in your own words using these frameworks so it takes a new shape."
+- **ejemplos:** ninguno
+- **cita:** "You are listening intently for an idea that you wish you wrote."
+- **terminos:** hunt for ideas; idea you wish you wrote
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-196
+- **fuente:** How To Articulate Your Thoughts Intelligently (Talk Like This).md [13:10]-[13:49] (2025-12-07)
+- **tension:** ninguna
+
+## U-022-199
+- **tipo:** framework
+- **titulo:** Intermediate framework — the pyramid principle: answer first (main idea), 3–5 key arguments, detailed evidence.
+- **desarrollo:** "A communication framework that structures ideas in a hierarchical logical way to make information more palatable and persuasive." (1) Main idea — the key conclusion or recommendation; (2) key arguments — usually three to five; (3) detailed evidence — data, examples, analysis. "Unlike most content today that waits to give you the answer until the end… this takes an answer-first approach." Applied to Hormozi: the "great mood" line is the top of the pyramid; "you're not starting with a problem… you're starting with the idea, the conclusion, the answer." Then key arguments: "All you have to do is ask why three to five times and come up with a compelling answer." Then examples from his life, data/statistics, anecdotes from clients. Seen in YouTube titles too: some state the problem, others a big idea — "once you understand these frameworks, you can just see them everywhere."
+- **ejemplos:** Hormozi's answer as pyramid top; YouTube titles.
+- **cita:** "All you have to do is ask why three to five times and come up with a compelling answer."
+- **terminos:** pyramid principle; answer first
+- **origen:** adaptada-de:pyramid principle (marco de comunicación; autor no nombrado)
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-196
+- **fuente:** How To Articulate Your Thoughts Intelligently (Talk Like This).md [13:49]-[15:08] (2025-12-07)
+- **tension:** ninguna
+
+## U-022-200
+- **tipo:** framework
+- **titulo:** Advanced framework — cross-domain synthesis: problem + amplify, a concept from another interest, then a unique process/solution from your own contemplation.
+- **desarrollo:** "My favorite because I have multiple interests… I want to weave things in." He studies psychology, philosophy, health, business, design, tech; this is how he structures most newsletters (except purely tactical ones). Structure: (1) Problem and amplify — intro states a relatable problem and what happens if unsolved. (2) Cross-domain synthesis — "patterns or concepts from your other interests that help support your argument." Example: deep work + entropy from physics to illustrate how distractions work; "this teaches my audience something new and I can sleep well knowing that all other deep work content out there does not do this." (3) Unique process or solution — a list of ideas or steps solving the problem, "solidifying the transformation. These should come from your own contemplation rather than someone else's prescription," not "I watched this YouTube video… I'm going to take that and put it in mine." In practice (newsletter, article, thread, carousel, script for 10–20 minutes): title, intro with problem, a section teaching a concept from another discipline, then multiple sections each describing a key point of the unique solution. Helps with writer's/speaker's block.
+- **ejemplos:** Deep work + entropy.
+- **cita:** "These should come from your own contemplation rather than someone else's prescription."
+- **terminos:** cross-domain synthesis; unique process; transformation
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-022-196, U-022-176
+- **fuente:** How To Articulate Your Thoughts Intelligently (Talk Like This).md [15:08]-[17:39] (2025-12-07)
+- **tension:** ninguna
+
+## U-022-201
+- **tipo:** metáfora
+- **titulo:** Writing is Legos with ideas: ideas come in predictable forms you can cycle through when stuck.
+- **desarrollo:** Long pieces leave beginners staring at a blank screen not knowing how to fill sections. "Writing is like Legos with ideas. And ideas come in predictable forms. If you understand those forms, you can guide your mind to brainstorming what to write next." The forms: pain point (start a section with one and ideas flow); example (anywhere; grounds what you're saying); personal story (a time in your life that relates); statistic (a truthful one adding authority); metaphor ("explain a complex idea as if you're talking to a child. Alan Watts is incredible at this"); quote ("easy because they're almost always great ideas"); reframe (a different perspective on the point just discussed); or ask what, how, or why — "because when all else fails, writing and speaking are just thinking and thinking is questioning." "If I don't know what to write or what to say next, I tend to cycle through those in my head or latch on to the closest one." With practice it becomes second nature "and your thinking process starts to evolve."
+- **ejemplos:** Alan Watts' metaphors.
+- **cita:** "Writing and speaking are just thinking and thinking is questioning."
+- **terminos:** Legos with ideas; predictable forms; pain point; example; personal story; statistic; metaphor; quote; reframe
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-200
+- **fuente:** How To Articulate Your Thoughts Intelligently (Talk Like This).md [17:39]-[18:53] (2025-12-07)
+- **tension:** ninguna
+
+# Fuente: If you've lost your creative genius, watch this.md (2026-03-28)
+
+## U-022-202
+- **tipo:** historia
+- **titulo:** The author's yearly "brain fried" cycle: cognitive (not emotional) burnout where no ideas come.
+- **desarrollo:** "Over the past few weeks, I've just felt completely brain fried… It feels like it happens in cycles for me. Like once a year I go through this period where things just pile up, the stressors, the business fires." "You feel like you're thinking about everything and nothing at the same time… when you try to have a good idea… nothing comes to mind. And it's not like a normal burnout where you're just emotionally fried, it's just cognitive. You can't think, you can't generate ideas." A month earlier, writing a newsletter or article "was a breeze… ideas were flowing… arguably one of the best feelings." The longer it lasted, the more it compounded: "Why can't I write?… I have all of these ideas… but why can't I remember them?… How do I get that back?" The video is "more for myself than I am for you."
+- **ejemplos:** ninguno
+- **cita:** "It's not like a normal burnout where you're just emotionally fried, it's just cognitive."
+- **terminos:** brain fried; cognitive burnout
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** If you've lost your creative genius, watch this.md [0:00]-[1:51] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-203
+- **tipo:** principio
+- **titulo:** Your most valuable asset as a creator or business owner is your ability to think and be creative; creativity is now the scarcest resource.
+- **desarrollo:** "If you're starting a business or you're running a business… your most valuable asset is your ability to think… the ability to be creative." "In today's world, your creativity is the most scarce resource. Anyone can build anything today. Anyone can think anything. Anyone can write anything. The people who will win in business, writing, art, and just general quality of life, as always, will be those who can take the most creative path, the path that nobody else considered to take."
+- **ejemplos:** ninguno
+- **cita:** "In today's world, your creativity is the most scarce resource."
+- **terminos:** most creative path
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** If you've lost your creative genius, watch this.md [0:50], [2:40]-[3:32] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-204
+- **tipo:** concepto
+- **titulo:** The creative state: like flow but more potent — noticing things for the first time, like a dog seeing grass for the first time.
+- **desarrollo:** "Even if you think you aren't a [creative] person, you can tap into this incredibly enjoyable state of consciousness. It's similar to the flow state, but it's potentially more potent. You aren't focused on breezing through a set of tasks; you're more so noticing things for the first time. You're seeing a deeper layer of reality that you either forgot was there or you didn't know was there in the first place. And it's like a dog who sees grass for the first time… 'What is going on?' Their dopamine is going crazy." Contrasted with "narrow state stressed focus": "we're trying to accomplish this open state creativity."
+- **ejemplos:** Dog seeing grass for the first time.
+- **cita:** "You're seeing a deeper layer of reality that you either forgot was there or you didn't know was there in the first place."
+- **terminos:** creative state; open state creativity; narrow state stressed focus; deeper layer of reality
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** If you've lost your creative genius, watch this.md [1:51]-[2:40] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-205
+- **tipo:** principio
+- **titulo:** Your state of consciousness is a reflection of your behavior over time — undoing accumulated habits is simple but hard and painful.
+- **desarrollo:** The 7-day protocol is "very simple. Many people may scoff at it and think that it's too simple, and then they'll close their minds off to it, which is the opposite of what we're trying to accomplish." "While I say it's simple, it's actually incredibly difficult to do because you've accumulated these habits over time that are keeping you in this state. Your state of consciousness is a reflection of your behavior over time. And so we need to undo that, which can be painful." Later: "people are going to think that they're above it, and that's an enemy of creativity. So no matter how simple you think this is, just… do it."
+- **ejemplos:** ninguno
+- **cita:** "Your state of consciousness is a reflection of your behavior over time."
+- **terminos:** state of consciousness
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** If you've lost your creative genius, watch this.md [2:40], [18:20] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-206
+- **tipo:** definición
+- **titulo:** Creativity is a natural, open, relaxed state — "noticing the unnoticed" — not creating something from nothing; "I'm not a creative person" means you haven't practiced returning to it.
+- **desarrollo:** Point one: "you don't have ideas because there's too much interference." The author is annoyed by "I'm not a creative person" (he used to say it) because it makes creativity seem like just talent; "in a way" it is a skill: "It's a skill to be able to sustain a creative state over an extended period of time. So if you aren't in that creative state… you just haven't practiced the skill of getting back to that state." "At its core, creativity is just a natural way of being. It's a state of consciousness. It's a capacity that everyone has. But that capacity gets buried over time… with anything that narrows your mind." "Creativity is a very open, relaxed state where you see connections, patterns, and possibilities that aren't immediately obvious. It's the act of noticing the unnoticed, which is not… creating something from nothing. That nothing is already there. It's already raw material. You're creating with what's in reality, and that's a lot of stuff."
+- **ejemplos:** ninguno
+- **cita:** "It's the act of noticing the unnoticed."
+- **terminos:** noticing the unnoticed; interference; creative state; raw material
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-022-204
+- **fuente:** If you've lost your creative genius, watch this.md [3:32]-[4:41] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-207
+- **tipo:** término-acuñado
+- **titulo:** The "three narrowers of the mind": conditioning, productivity as a priority, and infinite input with zero processing time.
+- **desarrollo:** "In my eyes, there are three narrowers of the mind. We'll call these the three narrowers of the mind. That one's difficult, but that's what we're calling it." (1) Conditioning; (2) productivity as a priority; (3) infinite input with zero processing time. Each buries the natural creative capacity by narrowing the mind. Details in U-022-208 to U-022-212.
+- **ejemplos:** ninguno
+- **cita:** ninguna
+- **terminos:** three narrowers of the mind
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-206
+- **fuente:** If you've lost your creative genius, watch this.md [4:41]-[5:19] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-208
+- **tipo:** concepto
+- **titulo:** Narrower 1 — conditioning is the enemy of wonder: negative feedback steers everyone onto the default path; by 20 everyone is the same.
+- **desarrollo:** "Conditioning is the enemy of wonder." We associate creativity with children "because children see the world through such fresh eyes. They haven't received the negative feedback yet from their parents or teachers or peers." Example: a kid asking ChatGPT to build a teleportation device to go to Pluto — "Oh, you're so silly"; if an adult did it, "they'd think you're an idiot… You need to be more mature." The point is "receiving negative feedback for thinking about imaginary things." "The typical feedback that people receive is just guidance down the default path… created during industrialization and past generations… you go to school and you receive grades so that you correct your behavior to fit into society more… the entire system is just meant to keep you on this one path turning everyone into the same person": school, high-paying job, "praise this God… if you disobey, you're going to hell." "By the time most people turn 20 years old, they're the exact same as everyone else… going down the life path that was assigned to them, not the one they chose or created." "Creativity requires holding beliefs loosely and entertaining an idea without immediately rejecting or demonizing it as everyone does on social media because it drives engagement and facilitates groupthink."
+- **ejemplos:** Kid's teleportation-to-Pluto request.
+- **cita:** "Conditioning is the enemy of wonder."
+- **terminos:** conditioning; wonder; default path; groupthink
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-022-207
+- **fuente:** If you've lost your creative genius, watch this.md [5:19]-[6:51] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-209
+- **tipo:** concepto
+- **titulo:** Narrower 2 — productivity as a priority: since the 9-to-5, productivity "became God" and workers became specialists knowing one puzzle piece.
+- **desarrollo:** "Productivity as a priority… is a losing game." "The concept of the 9-to-5 job became a thing just a few hundred years ago during industrialization." "Before, people directed their own work. They were artisans, farmers, apprentices." With the 9-to-5, "productivity became the highest value. It became God. And then everyone became a specialist in a factory that knew one piece of the puzzle… because if they understood how to create the entire image themselves, they would be an entrepreneur, not an employee."
+- **ejemplos:** Artisans, farmers, apprentices vs factory specialists.
+- **cita:** "If they understood how to create the entire image themselves, they would be an entrepreneur, not an employee."
+- **terminos:** productivity as a priority; specialist; one piece of the puzzle
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-207
+- **fuente:** If you've lost your creative genius, watch this.md [6:51]-[7:49] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-210
+- **tipo:** argumento
+- **titulo:** Always feeling behind (the AI speed tunnel) is an invisible permanent deadline that keeps the mind stressed and narrow; the only way out is creativity.
+- **desarrollo:** "The trap that I fall into and… everyone falls into is that they just feel like they're falling behind." Anthropic/Claude "just pushing out updates… this speed tunnel… you just can't keep up." His software company "made the mistake of competing with AI companies in general" and constantly felt it had to keep up; "so we're taking a step back and looking at what's going to be here no matter what. What are the human things that we need to help facilitate, like creativity, so that we aren't just constantly stuck in this hype cycle." "If you're being real, you're never going to catch up… So what's the only way out? Creativity." Mechanism: a deadline is "a productivity hack if you choose it, if you implement it yourself. But if there's just this invisible deadline in your life all the time, that just leads to a constantly stressed and narrowed mind."
+- **ejemplos:** AI update pace; the author's software company.
+- **cita:** "If there's just this invisible deadline in your life all the time, that just leads to a constantly stressed and narrowed mind."
+- **terminos:** speed tunnel; hype cycle; invisible deadline
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-209
+- **fuente:** If you've lost your creative genius, watch this.md [7:49]-[8:35] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-211
+- **tipo:** principio
+- **titulo:** Creativity demands useless wandering and true boredom; people who schedule every hour don't stumble onto anything.
+- **desarrollo:** "If your life isn't centered around efficiency and optimization in today's world, everyone just thinks you're useless… In other words, if you aren't a robot, you're useless. But that's exactly what creativity demands. It demands useless wandering, true boredom, or creating space for the right idea to emerge that will take you much further than the productivity bros stuck in the same race as everyone else. People who schedule every hour of their day don't stumble onto anything."
+- **ejemplos:** Productivity bros.
+- **cita:** "People who schedule every hour of their day don't stumble onto anything."
+- **terminos:** useless wandering; true boredom; productivity bros
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-209
+- **fuente:** If you've lost your creative genius, watch this.md [8:35]-[9:11] (2026-03-28)
+- **tension:** Tensión con la regla de Musashi "do nothing useless" que el autor promueve en "The Art of Strategic Thinking" (U-022-122); aquí lo "inútil" (wandering, aburrimiento) es lo que exige la creatividad.
+
+## U-022-212
+- **tipo:** metáfora
+- **titulo:** Narrower 3 — infinite input, zero processing: the mind has a metabolism; overconsuming information makes you mentally "fat."
+- **desarrollo:** "Think about fitness or health… your metabolism can only go so fast." Niche groups try to speed it up, "but there's a limit. You aren't just going to burn 10,000 calories a day without running or doing cardio for that amount of time… If you eat over that… you get fat," over an extended period. "Most people don't realize that this applies to the mind as well. You have a set amount of information that you can digest and metabolize and actually use." People feel they must listen to 10 podcasts a week to keep up. Nuance: "there's a time for consuming… a curated set of information that helps spark more ideas. But if it isn't kept under tight control, then you overeat. You overconsume." Later he calls this being "mentally overweight or mentally bloated or overstimulated."
+- **ejemplos:** 10,000 calories; 10 podcasts a week.
+- **cita:** "You have a set amount of information that you can digest and metabolize and actually use."
+- **terminos:** infinite input with zero processing time; metabolize; mentally overweight; mentally bloated
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-207
+- **fuente:** If you've lost your creative genius, watch this.md [9:11]-[10:34], [17:09] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-213
+- **tipo:** proceso
+- **titulo:** The author's writing loop: capture ideas, internalize, think, research, strengthen, stress-test, publish, get feedback, refine.
+- **desarrollo:** "I write content… newsletters… tweets. That's like my foundation… If I don't write in the morning, my day kind of sucks. And I know that I shouldn't bank everything on being able to write good ideas in the morning, but that's just kind of how it is." "I love the process of capturing ideas, internalizing them, thinking about them, researching them, strengthening them, stress testing them, and then putting them out into the world to see if they help people, and then getting feedback so it refines it further." "Isn't that just incredible that you can talk about your interests and other people can find it interesting. And then, if you do the right things, you can turn that into a source of income."
+- **ejemplos:** ninguno
+- **cita:** "I love the process of capturing ideas, internalizing them, thinking about them, researching them, strengthening them, stress testing them."
+- **terminos:** stress testing
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** If you've lost your creative genius, watch this.md [10:34]-[11:22] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-214
+- **tipo:** principio
+- **titulo:** Creativity is rarely an input problem: "you can only cook with what's in the fridge," but most fridges overflow with junk.
+- **desarrollo:** "The way I used to think is that I need to consume information in order to have ideas… So if I struggle to write or to have ideas, I felt like I just wasn't consuming good information, which is kind of true. But creativity is rarely an input problem. I love the saying that you can only cook with what's in the fridge, but most people's fridges are just overflowing with like candy and ice cream and trash."
+- **ejemplos:** Fridge full of candy and ice cream.
+- **cita:** "Creativity is rarely an input problem."
+- **terminos:** cook with what's in the fridge
+- **origen:** propia (el dicho del refrigerador se presenta como saying conocido)
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-212
+- **fuente:** If you've lost your creative genius, watch this.md [11:22]-[12:07] (2026-03-28)
+- **tension:** Matiza su consejo en otros videos de "hunt for ideas" en libros poco conocidos (U-022-174): el input importa, pero el cuello de botella suele ser el exceso y la falta de procesamiento.
+
+## U-022-215
+- **tipo:** opinión
+- **titulo:** AI prompts should refine thinking, not write posts; long-form writing is a moat AI can't replicate.
+- **desarrollo:** Within the promotion of his "build a 2-hour content system in 14 days" challenge (14 AI prompts, one a day): "These aren't AI prompts that write posts for you or write newsletters for you. We're not that desperate yet. They help refine your thinking. They help stress test ideas. They help you learn. They help you gain clarity on what you actually want to do… They help you learn how to structure your ideas in a way that captures attention… so that you don't just put out fortune cookie tweets and act like you're Marcus Aurelius when nobody's going to care about you because you're not Marcus Aurelius." "In order to be creative, you need something to create." "Long-form writing is a moat in today's world because AI can't really replicate it. It's never been a better time to start writing, especially authentically." (X articles "doing really well right now.")
+- **ejemplos:** Fortune-cookie tweets / Marcus Aurelius.
+- **cita:** "Long-form writing is a moat in today's world because AI can't really replicate it."
+- **terminos:** fortune cookie tweets; non-slop; moat
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** If you've lost your creative genius, watch this.md [12:07]-[13:39] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-216
+- **tipo:** concepto
+- **titulo:** "You're not bored, you're overstimulated": chronic overstimulation is the farthest point from true boredom.
+- **desarrollo:** Point two. "Boredom is how you really tap into creativity and a creative state. It's how you get ideas to just pop into your head. But then people say that they're bored all the time and they're not creative." "Being chronically over-caffeinated and overstimulated is not boredom. You're so fried mentally that you've gone all the way off the deep end, and then you associate that with boredom because things that would previously give you euphoria or enjoyment don't even impact you anymore… you quite literally can't go any further away from true boredom. You have to go back." True boredom comes "after you go through your withdrawal period."
+- **ejemplos:** ninguno
+- **cita:** "Being chronically over-caffeinated and overstimulated is not boredom."
+- **terminos:** true boredom; overstimulated; withdrawal period
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-022-212
+- **fuente:** If you've lost your creative genius, watch this.md [13:39]-[14:34] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-217
+- **tipo:** fuente-de-tercero
+- **titulo:** Boredom as a gateway to novelty, linked to Jung's shadow work: sitting with boredom confronts what we avoid and triggers breakthrough insights.
+- **desarrollo:** First effect of true boredom: "boredom is a gateway into novelty, novel ideas, new things." "Carl Jung, OG psychologist… harped on the importance of shadow work, which is confronting the uncomfortable aspects of ourselves that we typically avoid. And sitting with boredom does just this. It activates breakthrough insights when the rational mind stops trying…" — the transcript is cut/edited at this point (the sentence jumps to "you're trying to be creative or just trying to get out of a rut"), so the exact claim is ambiguous.
+- **ejemplos:** ninguno
+- **cita:** ninguna
+- **terminos:** shadow work; gateway into novelty
+- **origen:** adaptada-de:Carl Jung
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-216
+- **fuente:** If you've lost your creative genius, watch this.md [13:39]-[14:34] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-218
+- **tipo:** concepto
+- **titulo:** True boredom sets the scene for three flow triggers: deep embodiment, novelty, unpredictability — "maybe you should do nothing."
+- **desarrollo:** True boredom makes you "more likely to enter this intense period of flow, like this monk mode… where you're just making progress nonstop. Because in order to do that, you do need a creative idea… idea flow… something to build." Three flow triggers: (1) deep embodiment — "being present with discomfort"; (2) novelty — "boredom forces you to seek new, healthier stimulation"; (3) unpredictability — "not knowing what will emerge from the void." "So if you don't know what you should do with your life, maybe you should do nothing. And I mean actually nothing. Not the default nothing that everyone else falls into." (The term "flow triggers" is used without attribution.)
+- **ejemplos:** Monk mode.
+- **cita:** "If you don't know what you should do with your life, maybe you should do nothing."
+- **terminos:** flow triggers; deep embodiment; novelty; unpredictability; monk mode; the void
+- **origen:** propia (concepto de "flow triggers" sin atribución)
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-216
+- **fuente:** If you've lost your creative genius, watch this.md [14:34]-[15:25] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-219
+- **tipo:** concepto
+- **titulo:** Hedonic adaptation as a thermostat and the hedonic treadmill; deprivation causes a "hedonic reversal" — simple pleasures become electric again.
+- **desarrollo:** Second effect of boredom: "the brain upregulates dopamine receptors when it's deprived." "Hedonic adaptation is your psychological thermostat. No matter how high or low the temperature goes, it always tries to return to the set point." This creates "what psychologists call the hedonic treadmill… you're always running toward the next source of pleasure, but the satisfaction never lasts. Each experience becomes your new normal, requiring more intense stimulation to achieve the same emotional high. But when you deprive yourself of pleasure, the opposite happens. It's a hedonic reversal. So slowly, then rapidly, simple pleasures become enjoyable again." You notice detail in the sky again; with a well-cooked meal "you can pick apart the flavors… 'Is that a hint of rosemary?'" "Life becomes electric, as it should be." You've noticed this before "you just haven't registered it as something that you can actually do and control."
+- **ejemplos:** Sky detail; rosemary in a meal.
+- **cita:** "Hedonic adaptation is your psychological thermostat."
+- **terminos:** hedonic adaptation; hedonic treadmill; hedonic reversal; set point
+- **origen:** adaptada-de:psychology (hedonic treadmill); "hedonic reversal" propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-216
+- **fuente:** If you've lost your creative genius, watch this.md [15:25]-[16:21] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-220
+- **tipo:** fuente-de-tercero
+- **titulo:** Third effect of boredom — you don't need motivation, you need clarity; boredom creates space for sense-making (quote attributed to Naval).
+- **desarrollo:** "You don't need motivation, you need clarity." Quote "from Naval": "All of humanity's problems stem from man's inability to sit quietly in a room alone." (The author attributes it to Naval; the transcript gives no other source.) "Boredom creates space for sense-making. That is, processing and integrating experience. So if you're consuming too much information, you just need to stop."
+- **ejemplos:** ninguno
+- **cita:** "All of humanity's problems stem from man's inability to sit quietly in a room alone."
+- **terminos:** sense-making; clarity
+- **origen:** de-tercero:Naval (según el autor)
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-216
+- **fuente:** If you've lost your creative genius, watch this.md [16:21]-[17:09] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-221
+- **tipo:** principio
+- **titulo:** True change is behavior change; design a system against the problem — and you can't ask ChatGPT what you don't know to ask.
+- **desarrollo:** "How do you actually prioritize this thing? And it's the same way you get results in anything. We look at the problem, which is being mentally overweight or mentally bloated or overstimulated, and then we design a system that results in the alleviation of those things. And true change is behavior change. The only way to solve a problem for good is to change your own behavior." "A lot of the times you don't notice your own problems. So that's why a video like this can be helpful because it can shine a light of awareness on something you were blind to before. And sure, you can ask ChatGPT for this stuff, but you can't ask ChatGPT what you don't know to ask." Not a full dopamine detox (as in a previous video), but a 1-week commitment.
+- **ejemplos:** ninguno
+- **cita:** "You can't ask ChatGPT what you don't know to ask."
+- **terminos:** behavior change; dopamine detox
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** If you've lost your creative genius, watch this.md [17:09]-[18:20] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-222
+- **tipo:** método
+- **titulo:** 7-day protocol, days 1–2 ("reduce input fast" — intermittent fasting for the mind): strict work time blocks, cut your primary input source, walk without headphones.
+- **desarrollo:** (1) Impose strict time blocks: "If you can, you want to limit work to 4 hours a day for this next week. And if you can't… just set an alarm that marks the end of your work. And when it goes off, you're done. You're not doing one last task. Your job is to not think about work or productivity when you're not working. You're practicing the skill of letting something feel unfinished without anxiety." (2) Cut out your primary input source: "like the junk food in the cabinet at night, you want to pick the one source you reach for the most mindlessly and then eliminate that" — commute podcast, scroll before bed or in the morning, morning news — "and just replace it with nothing. Sit in silence. Listen for an idea." (3) Go on a walk — "because ideas are caught in motion. So don't use any headphones and even leave your phone at home… just trust the process." Mechanism: "removing constant input allows your brain's default mode network, which is the brain's wandering system, to fire. This is the network responsible for random insight, self-reflection, and imagining the future. It cannot be active while you're consuming."
+- **ejemplos:** Commute podcast; bedtime scroll; morning news.
+- **cita:** "Ideas are caught in motion."
+- **terminos:** reduce input fast; intermittent fasting for your mind; default mode network; primary input source
+- **origen:** propia (default mode network: concepto de neurociencia citado)
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-212
+- **fuente:** If you've lost your creative genius, watch this.md [18:20]-[19:49] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-223
+- **tipo:** método
+- **titulo:** 7-day protocol, days 3–4 (digest): read one chapter way too slowly and stop at lines that hit; sit with nothing for 10 minutes; walk and actually see things.
+- **desarrollo:** With space created, "it may feel like a flood of ideas… kind of chaotic because your mind is opening up": unfinished thoughts, memories, suppressed feelings, random connections, forgotten ideas. Goal: digest and "notice the deeper layers of reality." (1) Read one chapter slowly, "like way too slowly… You're not even trying to learn something. You're just trying to simply notice when a sentence makes you stop and think… When it does, you just put the book down. You sit with why that line hit you." "In my eyes, this is the best way to read in general… you don't have to finish books… Just get what you need and put the book down. That one idea will impact you more than the entire book if you actually think about it." Once a day, in the morning. (2) Stack right after: sit with nothing for 10 minutes — "call it meditation, sure, but I don't want you to use a meditation app or any guided breathing technique. Just sit… let your mind do whatever it wants. It will be chaotic at first, but that's the digestion happening." (3) Keep walking, same rules, "but this time try to actually see things": detail in the sidewalk, tree branch structure, vastness of the sky — "I bet you didn't even look up the last walk." Purpose: "release the grip that you have on your subconscious, which is… responsible for… processing background tasks and surfacing those aha moments," best done by "stepping away from task-oriented work." "If those moments of insight… allow you to do less but higher leveraged work… aren't you being more productive by not trying to be productive?"
+- **ejemplos:** Sidewalk, tree branches, sky.
+- **cita:** "That one idea will impact you more than the entire book if you actually think about it."
+- **terminos:** digest; deeper layers of reality; aha moments; subconscious
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-222
+- **fuente:** If you've lost your creative genius, watch this.md [19:49]-[22:58] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-224
+- **tipo:** método
+- **titulo:** 7-day protocol, days 5–6 (become interested in life again): romanticize things, don't take notes ("if it's important it will come back"), have one real conversation, extend the walk.
+- **desarrollo:** Intention: "become interested in life again." As a kid he'd say he wasn't really interested in anything; now: "haven't you looked around?" Example: the camera — "this piece of technology is just incredible. I don't know anything about it. I don't know how to recreate one. It's a work of art… genius… mass-produced at scale, and it allows me to talk to you asynchronously." If he lets his mind go down that rabbit hole without letting beliefs ("this is just an immature line of thinking") stop him, he gets to ideas: how was it done, how to replicate it, how to apply something in it to his business — "or even that's… going down the productive line of thinking, but just let yourself go crazy." "All of life is interesting." By now fog lifts, colors are more vivid, "small things feel meaningful again… When was the last time you enjoyed a breath of fresh air?" Three actions: (1) "Trust that ideas will come back… resist the urge to take notes on everything. If it's important, it will find its way back to you." With his co-founders building idea-capture software, he notes ideas older than 7 days he won't go back to; "if it's important, it will find its way back to the top of my notes." "Practice not writing something down… stay in the stream of consciousness… learn to trust your own mind." (2) "Have one real conversation. No catching up for 5 minutes before your next meeting. No networking… that feels fake… We're trying to remove the performative act." Listen and be present; "your brain may just light up." (3) Extend the walk; "you might find that you don't want to stop."
+- **ejemplos:** The camera; 7-day-old notes.
+- **cita:** "If it's important, it will find its way back to you."
+- **terminos:** romanticize; stream of consciousness; real conversation; performative act
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-223
+- **fuente:** If you've lost your creative genius, watch this.md [22:58]-[26:14] (2026-03-28)
+- **tension:** Contrasta con su consejo en "You're Not Boring" y "How To Articulate…" de anotar ideas para no perderlas (U-022-198) y con el cuaderno de "The Art of Strategic Thinking" (U-022-145); aquí es temporal: "for now… for the 7-day protocol".
+
+## U-022-225
+- **tipo:** concepto
+- **titulo:** Essay vs article: an essay figures out the conclusion as you write; an article starts with the conclusion and fills in a structure.
+- **desarrollo:** Day seven connects to the next video on "why writing an essay is such a powerful practice." "An essay doesn't start with a conclusion. You figure out the conclusion as you write. It's a way of figuring out what you think about things. An article, on the other hand… while these things can overlap in many ways, it starts with the topic. It starts with the conclusion. You map out the structure and you fill it in, and it's informative in a sense."
+- **ejemplos:** ninguno
+- **cita:** "An essay doesn't start with a conclusion. You figure out the conclusion as you write."
+- **terminos:** essay; article
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** If you've lost your creative genius, watch this.md [26:14]-[26:45] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-226
+- **tipo:** método
+- **titulo:** 7-day protocol, day 7 (create from abundance): make something with no plan, then don't share it for at least 24 hours.
+- **desarrollo:** "Why we waited for 7 days to actually create something is because most people try to create from a depleted state… or just an overstimulated state, and then everything just feels forced." The author has created content consistently for 5 years (long-form; short-form longer), and this last month "it just felt forced"; many times in his career he tried "to force it out anyways, because I wasn't in this creative way of living." After 6 days "creating space, processing information, and letting connections form, we can actually create from a place of abundance." (1) "Make something with no plan. Write, draw, record a 20-minute voice note, or cook without a recipe. The only rule is no rules. No strategic thinking or trying to find the perfect angle… Just start a thread and follow it." (2) "Don't share it. I know this is antithetical to everything that I preach, but we need to remember what it's like to not have silent opinions influencing your direction. Notice how it feels to have made something that's yours." After at least 24 hours you may share it.
+- **ejemplos:** 20-minute voice note; cooking without a recipe.
+- **cita:** "We need to remember what it's like to not have silent opinions influencing your direction."
+- **terminos:** depleted state; place of abundance; silent opinions
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-224
+- **fuente:** If you've lost your creative genius, watch this.md [26:45]-[28:22] (2026-03-28)
+- **tension:** El propio autor señala que "don't share it" es "antithetical to everything that I preach" (publicar en público para obtener feedback, U-022-195).
+
+## U-022-227
+- **tipo:** principio
+- **titulo:** Separate generative thinking from evaluative thinking: critiquing while generating suppresses novel ideas.
+- **desarrollo:** "What we're doing on that seventh day is we're separating generative thinking from evaluative thinking. Normally this happens in tandem. When you're writing an article or a newsletter intentionally, you're trying to produce novel ideas and criticize them and edit them at the same time. But when you do that, you suppress the generative thinking's potential. The level of novel and creative ideas you can have is kind of suppressed by the part of your mind that is critiquing them and judging them and telling you that they're worthless."
+- **ejemplos:** ninguno
+- **cita:** "You suppress the generative thinking's potential."
+- **terminos:** generative thinking; evaluative thinking
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-226
+- **fuente:** If you've lost your creative genius, watch this.md [28:22]-[29:10] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-228
+- **tipo:** concepto
+- **titulo:** The reticular activating system is the single most important catalyst for creativity: a heat-seeking homing mechanism driven by what's important to you.
+- **desarrollo:** Point four: "to be creative, you need something to create." Stories: spelling tests — after learning a new word, "I would just start hearing it everywhere" (passersby, overheard conversations, on his computer in video games); seeing a new car, looking it up, and the next day seeing "like 10 of them"; making it an actual prioritized goal to start a business → noticing more business opportunities he didn't know existed "because I was made to believe that getting a 9-to-5 job was my only option." "This phenomenon is the single most important catalyst for creativity. It's the reticular activating system in our brains… like a homing mechanism… a heat-seeking missile going towards the heat. And it's based on what's important to you… the unconscious and conscious goals that… occupy the frame in your mind." On the default path, "you're really only going to notice things that help support you going down the default path. But if you change direction, you truly change direction, and it's not as simple as just saying 'I'm going to change direction,' then you start to notice things that aid in you going that direction."
+- **ejemplos:** Spelling-test word; new car; business opportunities.
+- **cita:** "It's like a heat-seeking missile going towards the heat."
+- **terminos:** reticular activating system; homing mechanism; frame
+- **origen:** adaptada-de:neurociencia (RAS)
+- **nivel:** fundamental
+- **prerrequisitos:** U-022-011
+- **fuente:** If you've lost your creative genius, watch this.md [29:10]-[30:34] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-229
+- **tipo:** argumento
+- **titulo:** You need a meaningful project: it creates a lens that reprograms your mind and turns everything into creative fuel.
+- **desarrollo:** "You need a meaningful project to work on. You need a problem to solve… a business to build… an essay, a design, whatever. You're creating a lens by which you reprogram your mind." Chain: "if you are the culmination of the ideas you've accepted into your head, and the ideas you accept are based on what you deem important, and the only things that were important to you were the school, job, and retirement that industrial culture permeated into your parents, teachers, and peers, then the primary way to pursue a rare life is to simply question and choose what is important to you." With a project, "even a conversation you overhear on the street becomes creative fuel. You read a book, and a sentence pops out to you, but when another person reads it, they don't get the same effect."
+- **ejemplos:** Overheard conversation; a sentence popping out of a book.
+- **cita:** "You're creating a lens by which you reprogram your mind."
+- **terminos:** meaningful project; lens; creative fuel; rare life
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-022-228
+- **fuente:** If you've lost your creative genius, watch this.md [30:34]-[31:39] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-230
+- **tipo:** metáfora
+- **titulo:** Without a project your mind is a drifting boat: the protocol calms the storm, but a calm sea without direction just floats.
+- **desarrollo:** "Without a project, it's like your mind is a boat just drifting in water. The 7-day protocol we just did helped calm the storm that was previously there rocking your boat. But even if the sea is calm now, and you don't have a direction, you're just a boat floating. You're just going to stay there. It's nice, but at some point, you're probably going to want to do something."
+- **ejemplos:** Drifting boat in a storm vs calm sea.
+- **cita:** "Without a project, it's like your mind is a boat just drifting in water."
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-229
+- **fuente:** If you've lost your creative genius, watch this.md [31:39] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-231
+- **tipo:** heurística
+- **titulo:** Criteria for a good frame/project: unsolved for you, matters to you emotionally, and shareable (takes form in reality).
+- **desarrollo:** "What makes a good frame? What makes a project worth creating?" (1) Unsolved for you: "It doesn't have to be completely original or novel, but it must be a challenge. There must be something you don't know the answer to yet, which allows your subconscious to become a magnet for relevant and useful ideas." (2) It has to matter to you: "Your pattern recognition is powered by emotional investment. So a project you chose because it looks good on paper, like a high-paying degree that you don't actually care about, won't activate the same radar as the one that genuinely keeps you up at night." (3) Shareable: "it has to take some form. It has to exist in reality. It can be words, visuals, code, a conversation, a business, or a meal. You have to take the abstract thoughts in your head, ground them in reality, and test their worth." Nuance: for thinking, let the mind be "like a kid again who wants to build a teleportation device"; when put into reality, "it has to be useful. But don't let that stunt how creative you can think."
+- **ejemplos:** High-paying degree you don't care about.
+- **cita:** "Your pattern recognition is powered by emotional investment."
+- **terminos:** frame; unsolved; shareable; magnet; radar
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-229
+- **fuente:** If you've lost your creative genius, watch this.md [31:39]-[33:00] (2026-03-28)
+- **tension:** ninguna
+
+## U-022-232
+- **tipo:** método
+- **titulo:** Find a meaningful project by inversion: list the meaningless projects, tasks and activities you tolerate; awareness of what you don't want creates the frame.
+- **desarrollo:** "How do you find this meaningful project…? Honestly, it just takes a bit of floundering, which is very unpleasant, but it does help if you flip the problem on its head, you invert it. So what you do is you think deeply about all of the meaningless projects, tasks, and activities you currently tolerate to fill your time. Because if you aren't engaged in something meaningful, where do you think your life will end up? If you cultivate this deep awareness of what you don't want in life, that starts to create your frame. You start to see it everywhere. And once you see it, it's much easier to start moving in the opposite direction."
+- **ejemplos:** ninguno
+- **cita:** "If you cultivate this deep awareness of what you don't want in life, that starts to create your frame."
+- **terminos:** invert; floundering; frame
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-022-231
+- **fuente:** If you've lost your creative genius, watch this.md [33:00]-[33:48] (2026-03-28)
+- **tension:** ninguna
+
