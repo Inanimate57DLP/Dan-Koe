@@ -2170,3 +2170,971 @@
 - **fuente:** The Cure To A Mediocre Life (Become Multidimensionally Jacked).md, 18:46–20:11, 2023-08-30
 - **tension:** ninguna
 
+# Fuente: If Your Life Sucks, Here's How To Reprogram Your Mind.md (2023-10-22)
+
+## U-027-167
+- **tipo:** historia
+- **titulo:** Koe's darkest college period: 10 AM McDonald's, binge-watching The Office, overeating, 5–7 hours of League of Legends nightly
+- **desarrollo:** One of his darkest periods didn't feel dark at the time—it was his normal; "my good days then are my terrible days now." Many people don't realize their normal state is "bottom of the barrel." In college, taking online classes, he'd start at 10 AM, drive to McDonald's for two Sausage and Egg McMuffins and a large iced coffee with cream and sugar, feel like garbage, lie back down and binge The Office until hungry, then overeat again (eating out or frozen burritos). He saw online classes' freedom as an excuse for self-destructive habits; barely did schoolwork, logged in last minute, still passed with A's and B's ("that says a lot about the education system"). At night 5–7 hours of League of Legends, with or without friends—numbing his mind to escape whatever he was hiding from.
+- **ejemplos:** McDonald's; The Office; League of Legends; online classes.
+- **cita:** "my good days then are my terrible days now"
+- **terminos:** normal state; bottom of the barrel
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** If Your Life Sucks, Here's How To Reprogram Your Mind.md, 0:00–1:30, 2023-10-22
+- **tension:** ninguna
+
+## U-027-168
+- **tipo:** argumento
+- **titulo:** Video games offer fake risk and fake progress; life requires real risk, pain, fear and sacrifice—the things that let pleasure, love and results exist
+- **desarrollo:** The difference between video games and real life is fake vs. real risk—real pain, fear, sacrifice, which allow pleasure, love and results to exist. In games you fail without repercussion and respawn; in life you can't hide behind a screen hoping to avoid the failure necessary for growth. Games trick the mind into thinking it's progressing—levels, skills, traits, unlocked dungeons and quests—triggering the reward system so we enjoy "diving into the fake unknown" for a false reward; "it's just all backwards." He was hiding from necessary failure and from pushing into the unknown that brings true progress, getting reward externally from games and food. Sleeping in, fast food and Netflix binges kept him in "a drip fed dopamine sedation" so he felt no need to pursue anything greater. "Everything was fine because I let it be fine my life sucked because I let it suck."
+- **ejemplos:** leveling and quests in games.
+- **cita:** "my life sucked because I let it suck"
+- **terminos:** fake risk; real risk; fake unknown; drip fed dopamine sedation
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-167
+- **fuente:** If Your Life Sucks, Here's How To Reprogram Your Mind.md, 1:30–2:24, 2023-10-22
+- **tension:** ninguna
+
+## U-027-169
+- **tipo:** principio
+- **titulo:** Your life sucks because of thousands of tiny choices over the past year; excuses are another choice to close your mind
+- **desarrollo:** You didn't make the choices leading to a purposeful career, fulfilling relationships, a healthy aesthetic body. Genetics, birthplace, a job without time—these play a role, "but you just made another choice to close your mind off" to potential choices that would slowly get you out—freeing time, moving environments. "Choices come after choices": you don't quit your job without prior choices enabling it. You're not a special case; thousands or millions in similar situations chose their way out. If your business isn't growing, that's your fault—you haven't zoomed out or developed the mental capacity or skill to register the problem; same for relationships and life situation. Push into the unknown to discover the skill/mindset that lets you return from a higher level of mind to solve it.
+- **ejemplos:** quitting a job requires prior choices.
+- **cita:** "choices come after choices"
+- **terminos:** tiny choices; mental capacity; push into the unknown
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** If Your Life Sucks, Here's How To Reprogram Your Mind.md, 3:11–5:24, 2023-10-22
+- **tension:** ninguna
+
+## U-027-170
+- **tipo:** fuente-de-tercero
+- **titulo:** Greg McKeown (Essentialism): the ability to choose can only be forgotten
+- **desarrollo:** Koe cites "Greg Macau" (Greg McKeown) from his book Essentialism on the ability to choose: it cannot be taken away (the transcript garbles it as "can be taken away or even given away"), "it can only be forgotten." Used to support that you always retain the ability to choose differently.
+- **ejemplos:** ninguno
+- **cita:** "it can only be forgotten"
+- **terminos:** ability to choose
+- **origen:** de-tercero:Greg McKeown (Essentialism)
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-169
+- **fuente:** If Your Life Sucks, Here's How To Reprogram Your Mind.md, 3:51–4:36, 2023-10-22
+- **tension:** transcripción ambigua de la cita
+
+## U-027-171
+- **tipo:** fuente-de-tercero
+- **titulo:** Einstein: you cannot solve a problem from the same mind that created it—so increasing mental capacity comes first
+- **desarrollo:** Koe attributes to Einstein: "you cannot solve a problem from the same mind that created it." So increasing mental capacity comes first, and it comes from pushing into the unknown, cultivating new skills, understanding new knowledge, and leaving "the known the comfortable routine and cycle that you have dug yourself into."
+- **ejemplos:** ninguno
+- **cita:** "you cannot solve a problem from the same mind that created it"
+- **terminos:** mental capacity; the known
+- **origen:** de-tercero:Einstein
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-169
+- **fuente:** If Your Life Sucks, Here's How To Reprogram Your Mind.md, 5:24, 2023-10-22
+- **tension:** ninguna (en U-027-048 la misma idea aparece sin atribuir)
+
+## U-027-172
+- **tipo:** argumento
+- **titulo:** The chain from mistakes to purpose: no risk → no failure → no improvement → no aim → meaninglessness
+- **desarrollo:** The quality of your life a year from now depends on tiny choices that compound. You don't need perfect choices; it's better to make mistakes. "The greatest risk is no risk at all," because without risk you can't fail; without failure improvement is impossible; without improvement you have no aim for your life; without an aim everything becomes meaningless. "Becoming a better person is how you live with purpose."
+- **ejemplos:** ninguno
+- **cita:** "the greatest risk is no risk at all"
+- **terminos:** tiny choices; aim
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-169
+- **fuente:** If Your Life Sucks, Here's How To Reprogram Your Mind.md, 5:24–6:15, 2023-10-22
+- **tension:** ninguna
+
+## U-027-173
+- **tipo:** argumento
+- **titulo:** Broke people are okay being broke until catastrophe, then equalize back to comfort—an infinite "I should have started sooner" cycle
+- **desarrollo:** Broke people are okay being broke until something catastrophic happens—more likely for them: an old unmaintained car blows up; a break-in in a bad neighborhood; sick parents they can't help on low income. Then they're motivated, but think it's too late, do nothing, and wait for the next catastrophe. They lacked foresight and couldn't break out of the narrow mind produced by their narrow routine, trapped in "an infinite cycle of I should have started sooner." Things equalize: stress comes down, it becomes normal, survival isn't at stake, they're comfortable again, and do nothing "to reverse entropy." Successful people use such events to change who they are; who they are determines their standards and values, which determine their tiny choices.
+- **ejemplos:** car blowing up; break-in; sick parents.
+- **cita:** "they don't do anything to reverse entropy"
+- **terminos:** reverse entropy; narrow routine; standards and values
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-169
+- **fuente:** If Your Life Sucks, Here's How To Reprogram Your Mind.md, 6:15–7:47, 2023-10-22
+- **tension:** ninguna
+
+## U-027-174
+- **tipo:** principio
+- **titulo:** Big standards: problems frame your perception—$5 vs. $100,000 in the bank
+- **desarrollo:** "If you're okay with having $5 in your bank account you won't see that as a problem; if you're okay with $100,000 you'll see anything less as a problem." "Problems frame your perception" (he has a chapter on this in his book). With an open mind and "intelligent limitations" (standards) that create "smart problems" requiring creativity, you notice more, e.g., money-making opportunities. With $5 and no standard, it isn't on your mind, so you notice nothing. If not okay with less than $100,000, even $50,000 feels like survival at stake—good stress—and "the universe starts to conspire in your favor," which is just the logical outcome of a problem you want to solve creatively: you absorb information unconsciously, your Google searches change ("how to make an extra $1,000 a month"), you talk about money with friends; tiny choices compound into results. You rewire thinking patterns through intentional search for information about your problem.
+- **ejemplos:** $5 vs. $100,000; $50,000; "how to make an extra $1,000 a month".
+- **cita:** "problems frame your perception"
+- **terminos:** big standards; intelligent limitations; smart problems; good kind of stress
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-173
+- **fuente:** If Your Life Sucks, Here's How To Reprogram Your Mind.md, 7:02–8:37, 2023-10-22
+- **tension:** ninguna
+
+## U-027-175
+- **tipo:** argumento
+- **titulo:** The information you consume shapes identity and thus standards; your environment (physical or digital) sets what feels normal
+- **desarrollo:** Information consumed highly influences identity and thus standards—conditioning, programming, training your mind (as in his "mental bodybuilding" video). If surrounded by "Internet Hustlers" saying you need to make X a month—goods and bads—and you adopt it as a standard, the likelihood of reaching it is "a thousand times higher" than for someone without that standard, who doesn't receive, store and use information crossing their mind and stays stuck scrolling. If you surround yourself (physically or digitally) with people who make it seem okay to be 100 lb overweight, have zero money, work a hated job, stay with a despised partner, get drunk nightly—how will your life end up? "If your standards require you to eat from Whole Foods you are going to look at McDonald's in disgust"; if you don't, those aren't hard standards.
+- **ejemplos:** internet hustlers; Whole Foods vs. McDonald's.
+- **cita:** "if you don't then those aren't hard standards"
+- **terminos:** hard standards; conditioning; mental bodybuilding
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-174
+- **fuente:** If Your Life Sucks, Here's How To Reprogram Your Mind.md, 8:37–10:13, 2023-10-22
+- **tension:** ninguna
+
+## U-027-176
+- **tipo:** ejemplo
+- **titulo:** Standards intertwine with identity: the bodybuilder finds some foods disgusting; a CEO standard makes grunt work a problem to outsource or automate
+- **desarrollo:** A bodybuilder naturally gravitates to certain foods and finds others disgusting; one becomes a bodybuilder only through education, pushing into the unknown (transcript: "known"), seeing progress in practice, and adopting the actions and standards necessary—or no results. Beyond bodybuilding: wanting to make money or change your life means adopting the identity of the person who will reach that future. "If your standards require you to work like a CEO you will see low-level gruntwork as a problem" to outsource, automate or hand to software. This explains AI and automation taking jobs: people in those jobs lack standards that bridge understanding and action to a higher identity.
+- **ejemplos:** bodybuilder; CEO; AI and automation.
+- **cita:** "if your standards require you to work like a CEO you will see low-level gruntwork as a problem"
+- **terminos:** standards; identity; higher identity
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-175
+- **fuente:** If Your Life Sucks, Here's How To Reprogram Your Mind.md, 10:13–11:03, 2023-10-22
+- **tension:** ninguna
+
+## U-027-177
+- **tipo:** fuente-de-tercero
+- **titulo:** Nietzsche: happiness is the feeling that power increases, that resistance is being overcome
+- **desarrollo:** You can't solve all problems or escape your situation immediately—you need a plan and an aim. By sticking to it, Koe promises the journey will be more enjoyable than the outcome, citing Nietzsche: "happiness is the feeling that power increases that resistance is being overcome."
+- **ejemplos:** ninguno
+- **cita:** "happiness is the feeling that power increases that resistance is being overcome"
+- **terminos:** plan; aim
+- **origen:** de-tercero:Nietzsche
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-174
+- **fuente:** If Your Life Sucks, Here's How To Reprogram Your Mind.md, 11:03, 2023-10-22
+- **tension:** ninguna
+
+## U-027-178
+- **tipo:** heurística
+- **titulo:** Adopt the standards of who you want to become; reject the bare-minimum approach—"the easier you try to make your life the harder it's going to be"
+- **desarrollo:** Most take the bare-minimum approach: quick money, quick sex, quick pleasure, no commitment, no depth, no failure. "The easier you try to make your life the harder it's going to be." The way out of mindless living is adopting the standards of who you want to become: how much money; what work brings fulfillment; ideal relationship with friends or a partner; how you want to look and feel. Go beyond the bare minimum of survival; commit to having a reason behind your actions—"if you don't know why you're doing something why are you doing it and if you do know why why are you ignoring it."
+- **ejemplos:** ninguno
+- **cita:** "the easier you try to make your life the harder it's going to be"
+- **terminos:** bare minimum approach; mindless living; standards of who you want to become
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-174
+- **fuente:** If Your Life Sucks, Here's How To Reprogram Your Mind.md, 11:03–12:41, 2023-10-22
+- **tension:** ninguna
+
+## U-027-179
+- **tipo:** ejercicio-del-autor
+- **titulo:** Interrogate your "why": work, food, body, partner
+- **desarrollo:** Questions he poses: Are you advancing humanity handing out quadruple-pumped caramel macchiatos at Starbucks, or making humanity sick and overweight? Why haven't you begun a more purposeful career or business? Do you know why you're putting that food in your mouth; do you understand how nutrients interact to create health? Why haven't you educated yourself on nutrition and training—"if you live in your body it should be your full-time job to learn about it." Why are you going through the motions with a partner who was easy to get—do you see 40 more years with them? Why haven't you improved social skills and personal development to attract a better partner? Many become "incels" because they don't see the tiny choices toward an ideal outcome and close their minds. "You only have one shot"; only you can stop yourself from a meaningless existence.
+- **ejemplos:** Starbucks barista; nutrition; long-term partner.
+- **cita:** "if you live in your body it should be your full-time job to learn about it"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-178
+- **fuente:** If Your Life Sucks, Here's How To Reprogram Your Mind.md, 11:54–13:24, 2023-10-22
+- **tension:** ninguna
+
+## U-027-180
+- **tipo:** definición
+- **titulo:** The Matrix is a web of expectations passed down, creating identical identities that know the same 0.1% of information
+- **desarrollo:** "Learning is the fundamental human drive." At birth you're an information sponge; parents, friends, society, teachers and bosses project their worldview, which they got from the same sources unless questioned. By 12–18 you know less than 1%, he'd say less than 0.1%, of the world's information—"the same .1% that every single other person knows" because it was passed down. "That's what the Matrix is it's a web of expectations," creating identities the same as everyone's, locked into the same routines and cycles, "the known", as slaves to it.
+- **ejemplos:** ninguno
+- **cita:** "that's what the Matrix is it's a web of expectations"
+- **terminos:** the Matrix; web of expectations; information sponge; the known
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** If Your Life Sucks, Here's How To Reprogram Your Mind.md, 13:24–14:11, 2023-10-22
+- **tension:** ninguna
+
+## U-027-181
+- **tipo:** argumento
+- **titulo:** Identity limits what information you notice: you can't understand intermediate without beginner information—the goth example
+- **desarrollo:** Because you've only learned so much, you won't notice things without the information that bridges "what it is with what you know." You won't understand intermediate information without beginner information; you can't go from level one to three. You miss "99% of life" this way—"I don't want to do that thing" when it's exactly what leads to doing what you want. If exposed to the environment and information making him a goth, he'd notice particular likes/dislikes in music, people, clothing, work opportunities, outlooks, and a certain cycle of emotional states. If he drowns himself in information leading to the identity he wants, over time he'd spot opportunities related to that identity.
+- **ejemplos:** goth identity.
+- **cita:** "you can't advance from level one to three"
+- **terminos:** identity; bridges
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-180
+- **fuente:** If Your Life Sucks, Here's How To Reprogram Your Mind.md, 14:11–14:59, 2023-10-22
+- **tension:** ninguna
+
+## U-027-182
+- **tipo:** metáfora
+- **titulo:** Digital garden vs. digital swamp; unwanted tenants partying like a frat house—your awareness is the parents coming down
+- **desarrollo:** The internet lets you "tend a digital Garden or be thrust into a digital swamp." With unprecedented information access, he believes it's creating identities for the worse rapidly. On social media the default is to follow entertainment and meme accounts rather than value creators; almost all subject your mind to "unwanted tenants that party like it's a frat house." When the parents come down they're devastated—"your awareness is the parents coming down to see the swamp that you've created in your mind."
+- **ejemplos:** frat house party.
+- **cita:** "you can tend a digital Garden or be thrust into a digital swamp"
+- **terminos:** digital Garden; digital swamp; unwanted tenants
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-181
+- **fuente:** If Your Life Sucks, Here's How To Reprogram Your Mind.md, 14:59–15:50, 2023-10-22
+- **tension:** ninguna
+
+## U-027-183
+- **tipo:** proceso
+- **titulo:** Curate your feed: unfollow anyone not conditioning better standards; slowly follow valuable accounts; follow one, let the algorithm work, follow its repliers
+- **desarrollo:** (1) Unfollow anyone who doesn't serve the conditioning of better standards, however you justify it—the people you follow influence your actions "slowly then all at once you become someone you may hate." (2) Take your time following valuable accounts—ones that challenge your worldview, make you think outside the box, and educate you on skills for a higher quality of life. Not overnight; you may not find info useful at first—it takes time to bridge ideas into understanding; it'll probably be boring "until it's one of the most interesting things in the world." Follow one account, let the algorithm work, follow accounts that reply to the first account's posts; over time you create an environment conducive to growth. "The only difference between you and the person more successful than you is the consistent intention behind the information they consume."
+- **ejemplos:** ninguno
+- **cita:** "slowly then all at once you become someone you may hate"
+- **terminos:** valuable accounts; conducive environment; consistent intention
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-182
+- **fuente:** If Your Life Sucks, Here's How To Reprogram Your Mind.md, 15:50–16:38, 2023-10-22
+- **tension:** ninguna
+
+## U-027-184
+- **tipo:** argumento
+- **titulo:** You're already acting every day: your identity, forged by information, determines what you perceive as an opportunity to act
+- **desarrollo:** "What about taking action?" You act every day because your mind is programmed with information conducive to those actions. "Your identity is forged by the information you've been fed and that alone determines what you perceive as an opportunity to act." Surround yourself with the right people and you can achieve anything.
+- **ejemplos:** ninguno
+- **cita:** "your identity is forged by the information you've been fed"
+- **terminos:** identity; opportunity to act
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-183
+- **fuente:** If Your Life Sucks, Here's How To Reprogram Your Mind.md, 16:38, 2023-10-22
+- **tension:** ninguna
+
+## U-027-185
+- **tipo:** concepto
+- **titulo:** The consumer is used by the internet rather than using it; you can fight the new world or flow with it
+- **desarrollo:** Why do people keep doing things they hate? Koe doesn't claim immunity—he's escaped and sees from higher on the mountain "until he inevitably falls back down after crossing the peak." The consumer's life: praying for the weekend, dreading Monday, hiding who you are to talk to people you don't like working with, using the internet as escape—scrolling, clicking, shutting your mind off because when it's on you don't like what it's doing. "This is the life of the consumer the person who is used by the internet rather than the one who uses it." There's no escaping the new world; fight it or flow with it. The internet is a big problem and also the solution.
+- **ejemplos:** dreading Monday.
+- **cita:** "the person who is used by the internet rather than the one who uses it"
+- **terminos:** consumer; value Creator
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-182
+- **fuente:** If Your Life Sucks, Here's How To Reprogram Your Mind.md, 16:38–17:25, 2023-10-22
+- **tension:** ninguna
+
+## U-027-186
+- **tipo:** analogía
+- **titulo:** Social media is like a bar you're free to leave—and you can visit one on the other side of the world
+- **desarrollo:** People email asking if they must use social media, since it's bad for your mind. Yes, "if you let it be", if you can't control yourself and whom you follow. Otherwise it's "the greatest way to make friends in the world." Saying social media forces bad experiences is like going to a bar and acting like you must stay though you dislike the people; you're free to leave anytime—and on social media you can go to a bar on the other side of the world.
+- **ejemplos:** bar.
+- **cita:** "on social media you can go to a bar on the other side of the world"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-027-185
+- **fuente:** If Your Life Sucks, Here's How To Reprogram Your Mind.md, 17:25–18:50, 2023-10-22
+- **tension:** ninguna
+
+## U-027-187
+- **tipo:** argumento
+- **titulo:** The last reason your life sucks: you don't contribute—because you ignore problems, lack clarity on goals, and have nothing to build
+- **desarrollo:** Chain (backwards): you don't contribute to humanity → because you don't have something so valuable you can't help but share it → because you ignore problems in your life that beg a solution → because you lack clarity on how to achieve the goal that solves them → because you have nothing to build, nothing to frame and guide learning.
+- **ejemplos:** ninguno
+- **cita:** "you don't have something so valuable that you can't help but share it"
+- **terminos:** contribute to humanity
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** If Your Life Sucks, Here's How To Reprogram Your Mind.md, 18:08–18:50, 2023-10-22
+- **tension:** ninguna
+
+## U-027-188
+- **tipo:** definición
+- **titulo:** A value creator has intention behind inputs and outputs: identify problems, self-educate, test on self, distribute via writing, package into product/service
+- **desarrollo:** "A value Creator is someone who has intention behind their inputs and outputs." They treat life like a science project (he notes this list mirrors his book's chapters): (1) identify problems in their life; (2) educate themselves with the internet's infinite resources; (3) test the solution on themselves; (4) distribute their experiences through writing; (5) package the most helpful, streamlined solutions as a product or service—how they make a living by living with purpose. "Becoming a Creator is the cure for overconsumption"; "writing is the vessel for Distributing value."
+- **ejemplos:** ninguno
+- **cita:** "becoming a Creator is the cure for overconsumption"
+- **terminos:** value Creator; inputs and outputs; science project; vessel for Distributing value
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-187
+- **fuente:** If Your Life Sucks, Here's How To Reprogram Your Mind.md, 18:50–19:32, 2023-10-22
+- **tension:** ninguna
+
+## U-027-189
+- **tipo:** historia
+- **titulo:** It's all writing: Koe writes on all platforms; his YouTube videos are written scripts he talks through
+- **desarrollo:** He writes on all platforms and doesn't care to compete with designs or images; YouTube is the only place with videos (aside from animations he rarely does now), and "this is just a written script it's all writing"—he stands and goes over his script's points. He gains deep fulfillment using the internet to curate, organize and share good thoughts, with the upside of doing what he enjoys for a living, under his control. It isn't about fame or a mass following (though possible) but about distributing your value somewhere that can reach anyone.
+- **ejemplos:** YouTube scripts.
+- **cita:** "this is just a written script it's all writing"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-027-188
+- **fuente:** If Your Life Sucks, Here's How To Reprogram Your Mind.md, 19:32–20:56, 2023-10-22
+- **tension:** ninguna
+
+## U-027-190
+- **tipo:** método
+- **titulo:** Join the online party without a course: write, talk, don't be a ghost; reverse-engineer accounts you've long followed and emulate
+- **desarrollo:** You don't need a step-by-step course: write what you want, talk to whom you want, "get your name in front of people by not being a ghost", get eyes on your writing so it spreads. For an extra push: look at people you've followed a long time; observe what they write about, how they write it, who they interact with, what they sell to make a living; piece the dots together and begin emulating them. If you lack an answer, look it up; you won't get all answers instantly—be okay with that. "If you know you are meant for more start acting like it." Writing is "the fundamental mode of communication that has survived throughout human existence," a great starting point to discover what you truly want.
+- **ejemplos:** ninguno
+- **cita:** "if you know you are meant for more start acting like it"
+- **terminos:** not being a ghost; emulate; online party
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-188
+- **fuente:** If Your Life Sucks, Here's How To Reprogram Your Mind.md, 20:17–21:35, 2023-10-22
+- **tension:** ninguna
+
+# Fuente: How To Make The Greatest Comeback Of Your Life.md (2024-12-15)
+
+## U-027-191
+- **tipo:** principio
+- **titulo:** Don't focus on one thing; focus on one mission that requires learning many things—focusing on one thing makes you replaceable
+- **desarrollo:** Most people feel trapped: narrow mind, a bubble of repetitive negative thoughts, no clarity. They don't know "that one thing" to commit to because the self-help space yells "focus on one thing"—which misses the point. "You don't focus on one thing you focus on one Mission which requires you to learn many things." Focusing only on one thing makes you dependent on it, unable to adapt, and therefore replaceable.
+- **ejemplos:** ninguno
+- **cita:** "you don't focus on one thing you focus on one Mission which requires you to learn many things"
+- **terminos:** one Mission; replaceable
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How To Make The Greatest Comeback Of Your Life.md, 0:00–0:46, 2024-12-15
+- **tension:** coherente con U-027-155 (focus on one thing only if it's a massive goal)
+
+## U-027-192
+- **tipo:** argumento
+- **titulo:** Random ambitions and the default loop: you're trying to achieve freedom with a mind conditioned to be a servant
+- **desarrollo:** People latch onto random ambitions for direction—some followers, a random online business, getting a girl out of loneliness. Building a business seems worthwhile because at least it differs from the dead-end path "our botched culture" set; no wonder most fail to start, question everything, and struggle. They start accepting they were meant to be average: snooze four times, walk the dog, commute, pretend to enjoy coworkers and care about tasks, commute home, argue with a significant other, TV, pass out, repeat. What's missing: "you're trying to achieve Freedom with a mind that was conditioned to be a servant"—like a square block in a circular hole.
+- **ejemplos:** daily routine loop; square block in a circular hole.
+- **cita:** "you're trying to achieve Freedom with a mind that was conditioned to be a servant"
+- **terminos:** conditioned to be a servant; meant to be average
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-191
+- **fuente:** How To Make The Greatest Comeback Of Your Life.md, 0:00–1:35, 2024-12-15
+- **tension:** ninguna
+
+## U-027-193
+- **tipo:** principio
+- **titulo:** The greatest skill you can develop is the ability to figure it out—humans are natural generalists who build tools to adapt to any niche
+- **desarrollo:** What you want can't come from someone else—not even Koe. Why: "humans are natural generalists." Humans build tools to adapt to different niches and environments; animals like lions in the Sahara or polar bears in Alaska wouldn't survive in a different niche. Beyond physical tools, humans invented mental tools—language, culture, religion, stories—to build, adapt and acquire skills and knowledge for any niche. This ability makes us unique and is what most people have lost.
+- **ejemplos:** lions in the Sahara; polar bears in Alaska; language, culture, religion, stories as mental tools.
+- **cita:** "the greatest skill you can develop is the ability to figure it out"
+- **terminos:** ability to figure it out; natural generalists; mental tools
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How To Make The Greatest Comeback Of Your Life.md, 1:35–2:28, 2024-12-15
+- **tension:** ninguna
+
+## U-027-194
+- **tipo:** argumento
+- **titulo:** Children learn by real mistakes until learning becomes about traits parents and teachers dislike—conditioning you for their generation's single path
+- **desarrollo:** As children we love adventure, discovery, figuring things out; we make mistakes and learn ("we touch fire"). Then learning stops being about real mistakes and becomes about traits parents and teachers dislike—annoying, "uncivilized", not leading to the version of success they were conditioned to believe is the one true path. There is never only one true path; that supposed path is why you feel lost, overwhelmed, anxious, confused. The world changes: you're conditioned with the mind of parents from the last generation who, unless top 1%, probably didn't get great results even then—advice for their generation, not ours. You feel lost because you know better—learning online, reading books—and you battle "18 years of code being wired into your brain," which is painful. "The path that was supposed to be safe and secure was the complete opposite."
+- **ejemplos:** touching fire; parents' generational advice.
+- **cita:** "there is never only one true path"
+- **terminos:** one true path; 18 years of code
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-193
+- **fuente:** How To Make The Greatest Comeback Of Your Life.md, 2:28–4:08, 2024-12-15
+- **tension:** ninguna
+
+## U-027-195
+- **tipo:** argumento
+- **titulo:** School trains specialists without agency; the goals composing your worldview determine your mind's potential
+- **desarrollo:** You were placed in front of "a government trained expert trained by government trained experts" who aren't doing what you want in life, six hours a day, told what to learn and how to act, prodded toward the status symbols of a job and degree. The goals composing your worldview (fancy degrees, high-paying jobs) determine your mind's potential development and freedom. You were trained to be a specialist—doctor, lawyer, artist, designer, engineer—a "self-limiting identity" shaping what you could perceive and learn. You failed to develop agency—to explore, make mistakes, discover and build by your own desire—the "singular trait of a free individual." In the past free people were expected to act in their own interest, explore, navigate, discover, and thus learn many things. Focusing on one skill/degree/job limits learning to a narrow box, and "your mind becomes that"—though your mind can render reality, "the fastest supercomputer in the world."
+- **ejemplos:** doctor, lawyer, artist, designer, engineer identities.
+- **cita:** "you failed to develop agency"
+- **terminos:** agency; free individual; self-limiting identity; government trained Specialist
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-194
+- **fuente:** How To Make The Greatest Comeback Of Your Life.md, 3:17–5:45, 2024-12-15
+- **tension:** ninguna
+
+## U-027-196
+- **tipo:** principio
+- **titulo:** The greatest designers, artists and writers were great because of experience in other domains—what makes a great designer isn't Photoshop
+- **desarrollo:** The greats weren't great from a high-status school or studying the same curriculum better than everyone; studying the same things as everyone you may have different insights but still study the same things. "What makes a great designer is not how well they understand Photoshop." A free individual is the opposite of a government-trained specialist, someone viewed as "a machine for labor a useful worker or a slave."
+- **ejemplos:** designer and Photoshop.
+- **cita:** "what makes a great designer is not how well they understand Photoshop"
+- **terminos:** free individual
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-195
+- **fuente:** How To Make The Greatest Comeback Of Your Life.md, 5:45–6:40, 2024-12-15
+- **tension:** ninguna
+
+## U-027-197
+- **tipo:** definición
+- **titulo:** "Slave" as metaphor: we're all mental slaves in some area; being a slave is being average
+- **desarrollo:** Koe notes about 1% of people get upset when he uses this language—proving his point by closing their minds. He's no different; "we're all slaves in our own regard it's not physical it's mental." He isn't trying to make you feel bad; you make yourself feel bad by how you perceive it; his intention is awareness. He's exaggerating: you're not in physical chains, but metaphorically you could be one in some area. "Most slaves don't know they're slaves because it's just the norm"—"if we want to Define what a slave is it's being average." Awareness of what you don't want (being average and its ramifications) is necessary because "you need to move away from something in order to move towards something."
+- **ejemplos:** ninguno
+- **cita:** "if we want to Define what a slave is it's being average"
+- **terminos:** slave; average; awareness of what you don't want
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-195
+- **fuente:** How To Make The Greatest Comeback Of Your Life.md, 6:40–8:12, 2024-12-15
+- **tension:** ninguna
+
+## U-027-198
+- **tipo:** principio
+- **titulo:** The greatest mistake is not making mistakes; you need to build to contribute, connect to something greater, and end robotic living
+- **desarrollo:** "The greatest mistake is not making mistakes." You're different: aware, observant, maybe quiet and afraid to speak because "they won't listen anyway"—but that silence is killing you. You tried to fit in, trusted others with your future, demonized money and success because people said you don't need it. But you need to build—that's how you contribute, connect to something greater, and embark on a unique journey that ends robotic living, because money removes your dependency on that robotic living.
+- **ejemplos:** ninguno
+- **cita:** "the greatest mistake is not making mistakes"
+- **terminos:** robotic living; build
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-197
+- **fuente:** How To Make The Greatest Comeback Of Your Life.md, 8:12–8:57, 2024-12-15
+- **tension:** ninguna
+
+## U-027-199
+- **tipo:** concepto
+- **titulo:** Money is a multiplier and catalyst, a piece of paper with the meaning you assign; test whether you're a slave to the word
+- **desarrollo:** Money wasn't necessary to explore and discover in the past and still isn't in many regards, but "it is a multiplier it is a catalyst" for discovering, building, exploring, making mistakes, connecting to something bigger, contributing. "Money is simply a piece of paper it has the meaning that you assign to it." People who assign it negative meaning from lack of understanding become slaves to it (transcript: "swword", likely "slave"). Test: when Koe mentions money or that it can be good, do you react? Why does a word have so much control over your mind?
+- **ejemplos:** ninguno
+- **cita:** "money is simply a piece of paper it has the meaning that you assign to it"
+- **terminos:** multiplier; catalyst
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-198
+- **fuente:** How To Make The Greatest Comeback Of Your Life.md, 8:57–9:48, 2024-12-15
+- **tension:** ninguna
+
+## U-027-200
+- **tipo:** ejemplo
+- **titulo:** The vacation that becomes normal: novelty fades, and without focus you seek discovery in your phone and decay
+- **desarrollo:** There's no one true path—or we'd have found it and everyone would be rich, happy, healthy. Things will never always be happy because happy doesn't make sense without sad; "a hand doesn't exist without an arm"; physical, biological, mental and spiritual planes contain this pattern. On a 2–3 week vacation, the new place gives dopamine, but after three weeks it's normal, boring, like home but with no work, business, purpose or project. You want to return to something allowing exploration. If you don't focus, you search for that discovery in your phone, social media, video games, Netflix—novelty at a click, short-term dopamine that keeps you the same. You feel like you're discovering but stay the same—and per entropy you're not staying the same; "you are slowly decaying into chaos."
+- **ejemplos:** 2–3 week vacation.
+- **cita:** "you are slowly decaying into chaos"
+- **terminos:** entropy; novelty; polarity
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-199
+- **fuente:** How To Make The Greatest Comeback Of Your Life.md, 9:48–11:23, 2024-12-15
+- **tension:** ninguna
+
+## U-027-201
+- **tipo:** principio
+- **titulo:** Mistakes are nature's compass; on the conventional path mistakes only lead to self-pity, on your own path they are your light in the dark
+- **desarrollo:** "You aren't where you want to be because you're afraid of making mistakes." If there were one sentence to orient your life: "mistakes are nature's Compass." If happiness can't exist without sadness, success can't exist without failure—a universal law, "because something can't exist without nothing" (transcript ambiguous). On the conventional path (school, jobs) mistakes still serve the narrow goal and don't lead to a new path—only to feeling sorry for yourself. When you reject the goals assigned at birth that made you think small, "your mistakes are your light in the dark."
+- **ejemplos:** ninguno
+- **cita:** "mistakes are nature's Compass"
+- **terminos:** nature's Compass; light in the dark
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-198
+- **fuente:** How To Make The Greatest Comeback Of Your Life.md, 11:23–12:10, 2024-12-15
+- **tension:** ninguna
+
+## U-027-202
+- **tipo:** principio
+- **titulo:** You'll never know what you want—it's in the future; failure is the refinement and purification of your character
+- **desarrollo:** The problem: you don't know what you want, and you don't realize you never will—it's in the future, imaginary; what you want now will differ tomorrow and next decade. But you'll never begin "this process of refinement and purification" because you can't allow yourself to fail; "failure and mistakes are the process of refinement and purification of your character." What you want becomes clearer when you realize what you don't want and work the other way. Without mistakes on your own path, of course you don't know what you want.
+- **ejemplos:** ninguno
+- **cita:** "failure and mistakes are the process of refinement and purification of your character"
+- **terminos:** refinement and purification
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-201
+- **fuente:** How To Make The Greatest Comeback Of Your Life.md, 12:10–12:57, 2024-12-15
+- **tension:** coherente con U-027-028
+
+## U-027-203
+- **tipo:** heurística
+- **titulo:** Agency: do what you want without permission—denying desires binds you to them—but recognize when they become mistakes
+- **desarrollo:** "Do what you want without permission from someone else that's agency": go to the party, get drunk, start the business, scroll all night—"denying those desires is only going to bind you to them." The catch: you must realize when those things are mistakes. Getting drunk nightly isn't a mistake if you have no meaningful responsibilities; it doesn't hurt a goal. Managing parties, alcohol and vices becomes much easier when they impact something more important. Since school or a job isn't more important to you, you don't care about going out and showing up hungover—meaning you're not happy in your job, however you justify it ("I like the structure"). Per psychology, you're unfulfilled because you haven't poured your heart and soul into something so it becomes your purpose and passion—then you wouldn't want to harm performance on it, the source of fulfillment.
+- **ejemplos:** partying and hangovers vs. a job you don't care about.
+- **cita:** "denying those desires is only going to bind you to them"
+- **terminos:** agency; vices; purpose
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-202
+- **fuente:** How To Make The Greatest Comeback Of Your Life.md, 12:57–14:42, 2024-12-15
+- **tension:** ninguna
+
+## U-027-204
+- **tipo:** principio
+- **titulo:** If you don't create a purpose, you will be assigned one; how to figure out what you want is trial and error
+- **desarrollo:** You need your own goals, not assigned ones; "if you don't create a purpose you will be assigned one," and only self-created goals keep you from being susceptible to goals society tries to assign "at every waking second." Get absolutely fed up with where you are, reject everything you thought true, start from scratch. How to figure out what you want: "it's trial and error"—mistakes give direction. Latching onto someone else's prescription, you expect their results but often won't get them—unless the results are mediocre and easy, like a job or degree everyone gets, which isn't fulfilling because you're not unique. You know how to pave the way; you're just afraid to start and enter the unknown.
+- **ejemplos:** job, degree.
+- **cita:** "if you don't create a purpose you will be assigned one"
+- **terminos:** trial and error; assigned goals
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-203
+- **fuente:** How To Make The Greatest Comeback Of Your Life.md, 14:42–15:31, 2024-12-15
+- **tension:** ninguna
+
+## U-027-205
+- **tipo:** fuente-de-tercero
+- **titulo:** Krishnamurti: tradition becomes our security, and a secure mind is in decay—entropy; you cannot make discoveries in the known
+- **desarrollo:** Koe quotes Krishnamurti: tradition becomes our security, and when the mind is secure "it is in Decay." Koe connects it to entropy: when you feel stable or "just chilling", you're slowly decaying—like the vacation becoming normal; you don't notice until you realize you're in a much worse situation, and it's much harder to dig out the longer you wait. "You cannot make discoveries in the known." You can't live a full, open, non-robotic life operating by what parents and teachers planted. You can be happy at times, but deep fulfillment is different; most haven't experienced it, so don't search, and project insecurities by claiming fulfillment working "as a robot would"—"the lines of code are engraved on their brain."
+- **ejemplos:** vacation analogy.
+- **cita:** "when the mind is secure it is in Decay"
+- **terminos:** tradition; security; Decay; entropy; the known
+- **origen:** adaptada-de:Krishnamurti
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-200
+- **fuente:** How To Make The Greatest Comeback Of Your Life.md, 15:31–17:03, 2024-12-15
+- **tension:** ninguna
+
+## U-027-206
+- **tipo:** principio
+- **titulo:** You can't perceive mistakes without a goal; launch into the unknown, feel like you're drowning, and learn to swim
+- **desarrollo:** "You can't perceive what is a mistake if you don't have a goal that allows you to," so your current life is fine to you until you set and cultivate a new goal, develop reasons, understand what you don't want—then you have a frame to fix lifestyle mistakes. "You must launch into the unknown feel as if you are drowning and learn how to swim"—how you learn anything, and why most learn nothing: they jump in the deep end, complain it's hard as if it should be otherwise or as if hard means bad rather than reality, and blame anyone but themselves for being unable to do anything without it being given to them.
+- **ejemplos:** drowning and learning to swim.
+- **cita:** "launch into the unknown feel as if you are drowning and learn how to swim"
+- **terminos:** the unknown; frame
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-204
+- **fuente:** How To Make The Greatest Comeback Of Your Life.md, 17:03–17:49, 2024-12-15
+- **tension:** ninguna
+
+## U-027-207
+- **tipo:** proceso
+- **titulo:** Comeback step 1: get mad—fabricate a mental rock bottom by writing everything you don't want; flip the switch overnight
+- **desarrollo:** The best periods of his life came after being fed up with lack of progress; he'd try anything—what others call desperation, he calls "a mind that's hungry to learn grow and evolve." The goal isn't immediately finding something that eases the pain, but accepting a radical shift in how you live: your actions compounded to where you are; keep doing them and you stay. "The only real change is behavior change." Say goodbye to what you hold tightly that you think "aren't that bad"—you clearly can't manage them. Become disgusted; "fabricate a mental Rock Bottom": write down everything you don't want—"the stupid mind the pudgy body the sluggish energy the dead-end relationships"—and reject them. Be extremely negative (negative energy is more potent than positive) but channel it into forging a new identity. Not soft habit changes—"completely flip the switch overnight." If you gain absolute awareness of what you don't want, you'll never do those things again; if you want to, you lack absolute awareness of where they lead.
+- **ejemplos:** stupid mind, pudgy body, sluggish energy, dead-end relationships.
+- **cita:** "you must fabricate a mental Rock Bottom"
+- **terminos:** mental Rock Bottom; absolute awareness; flip the switch; behavior change
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-206
+- **fuente:** How To Make The Greatest Comeback Of Your Life.md, 17:49–20:23, 2024-12-15
+- **tension:** contrasta con la metáfora de "small precise taps" (U-027-132): aquí propone un cambio radical de la noche a la mañana.
+
+## U-027-208
+- **tipo:** proceso
+- **titulo:** Disappear for three months minimum: cut the anchors; channel negative energy into a vision that starts as an educated guess, or suffer psychic entropy
+- **desarrollo:** After reaching absolute awareness through contemplation, "you disappear for three months minimum"—cut all anchors holding you in your situation. Without a vision you're lost; negative energy has nowhere to go, gets trapped and wreaks havoc: "psychic entropy." Without a meaningful path, system or goal to invest energy in, you decay. A vision doesn't start clear—"it starts as an educated guess" ("I think I want to try this business", "I think I want to read this book"), enough to begin reprogramming. Map it: write what you don't want, what you want, break into weekly goals and priority tasks (he offers a document for his Cortex app). Then laser in: fix your physical diet, fix your mental diet, more walks, learn a skill, gym, talk to someone new. It's uncomfortable, but "a mediocre life is the most uncomfortable thing in the world."
+- **ejemplos:** "I think I want to try this business"; Cortex document.
+- **cita:** "a mediocre life is the most uncomfortable thing in the world"
+- **terminos:** disappear for three months; anchors; psychic entropy; educated guess; mental diet
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-207
+- **fuente:** How To Make The Greatest Comeback Of Your Life.md, 20:23–21:51, 2024-12-15
+- **tension:** ninguna
+
+## U-027-209
+- **tipo:** heurística
+- **titulo:** Give yourself three months, not two weeks: like a song that becomes your favorite, skill matching challenge makes the game addicting
+- **desarrollo:** You need enough time to invest energy until you see the thing as important—"like a song you don't like but when you listen to it enough it becomes your favorite song." The gym and a new skill aren't fun or easy the first time, but as skill matches challenge "you begin to find the game extremely addicting." People learning new things say "this is overwhelming"—yes, it's unknown, scary, dark. "Overwhelm and struggle and mistakes... are signals that you're moving in the right direction." If it were comfortable it wouldn't be worth doing or push you to grow.
+- **ejemplos:** song that becomes favorite; gym first time.
+- **cita:** "give yourself 3 months not 2 weeks"
+- **terminos:** skill matches the challenge
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-208
+- **fuente:** How To Make The Greatest Comeback Of Your Life.md, 21:51–22:31, 2024-12-15
+- **tension:** ninguna
+
+## U-027-210
+- **tipo:** historia
+- **titulo:** Koe's massive "mistakes": 2018 maxed out first credit card; 2019 sold everything and flew abroad; 2020 signed a lease at 2x what he could afford
+- **desarrollo:** "If it wasn't a mistake you didn't learn a thing." His best decisions are ones most people think were stupid; he gives himself permission to do "stupid things" and discovers much (many are smart to hold back if they can't pull through or are ruining their lives—"be smart"). Most massive mistakes led to most growth: 2018, maxed out his first credit card to make a business work; 2019, got rid of everything except a bag of clothes and his laptop and flew to a different country; 2020, signed a lease on an apartment 2x what he could afford, forcing his business to work. These start as risks; "the payoff of that risk is the mistake," because if a risk only led to success you'd learn nothing and couldn't replicate it.
+- **ejemplos:** 2018 credit card; 2019 moving abroad; 2020 lease.
+- **cita:** "the payoff of that risk is the mistake"
+- **terminos:** calculated risk
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-201
+- **fuente:** How To Make The Greatest Comeback Of Your Life.md, 22:31–24:05, 2024-12-15
+- **tension:** ninguna
+
+## U-027-211
+- **tipo:** advertencia
+- **titulo:** Calculated stress, not quick fixes: you need a shred of self-belief and no option but success
+- **desarrollo:** He's not telling you to do something absolutely stupid you know you shouldn't; you need "at least a shred of self-belief" you can make it work. Don't double your rent thinking it'll magically 10x your business—that's the quick-fix mindset. Understand the process of putting yourself in a stressful situation: "it has to be calculated to the point where you know that you don't have any other option but success."
+- **ejemplos:** doubling rent.
+- **cita:** "it has to be calculated"
+- **terminos:** Quick Fix mindset; calculated
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-210
+- **fuente:** How To Make The Greatest Comeback Of Your Life.md, 24:05, 2024-12-15
+- **tension:** ninguna
+
+## U-027-212
+- **tipo:** argumento
+- **titulo:** Why calculated risk works: goldfish grow to fit the tank, Parkinson's law, and going full circle—a real deadline leverages survival instincts
+- **desarrollo:** Reason 1: "goldfish grow to fit the tank you put them in but if you keep them in a small bowl they never grow"—same for your mind. Reason 2: Parkinson's law—"work expands so as to fill the time available for completion"; launching into the unknown threatens survival and gives less time to succeed. Reason 3: going full circle—the black-to-white gradient line bent into a circle flips instantly: the joke so unfunny it's funny, someone so dumb they become insightful, "someone who is in so much pain that they have no option but to find enjoyment." Psychology: a challenging goal you know deep down you can achieve creates a real deadline, eliminating distractions and leveraging survival instincts to learn what's needed to stay alive; the mind focuses only on important things.
+- **ejemplos:** goldfish tank; Parkinson's law; full-circle examples.
+- **cita:** "goldfish grow to fit the tank you put them in"
+- **terminos:** Parkinson's law; full circle; real deadline; survival instincts
+- **origen:** propia (Parkinson's law de tercero sin nombrar autor)
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-211, U-027-062
+- **fuente:** How To Make The Greatest Comeback Of Your Life.md, 24:05–25:35, 2024-12-15
+- **tension:** ninguna
+
+## U-027-213
+- **tipo:** proceso
+- **titulo:** The comeback summary: feel into your situation, launch into the unknown, learn and build like a mad scientist with emotional alchemy
+- **desarrollo:** (1) Feel into your situation; become brutally aware of the life you don't want; "let your mind simmer with negativity." (2) Launch into the unknown; make a stupid decision; force yourself to pursue the dream (transcript: "stream") you've postponed; sink or swim, knowing you can learn to swim. (3) Learn and build like a mad scientist; perform "emotional Alchemy" with stress, pain and overwhelm; channel everything into one meaningful goal; study while your mind is primed to store relevant information. And whatever course, book or tool you get: build the project and supplement with education—don't go through the course and forget it.
+- **ejemplos:** ninguno
+- **cita:** "learn and build like a mad scientist"
+- **terminos:** emotional Alchemy; sink or swim; mad scientist
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-207, U-027-212
+- **fuente:** How To Make The Greatest Comeback Of Your Life.md, 25:35–26:43, 2024-12-15
+- **tension:** ninguna
+
+# Fuente: The Fastest Way To Ruin Your Life (Avoid This While You're Young).md (2025-01-12)
+
+## U-027-214
+- **tipo:** principio
+- **titulo:** The fastest way to ruin your life is to follow someone else's plan—because the mind craves order and seeks comfort
+- **desarrollo:** "The fastest way to ruin your life is to follow someone else's plan." Problem: the mind craves order; without thinking we seek security, safety and comfort. When young, his fate was in parents' and teachers' hands; too young to trust his own thinking, he followed them—the only path he knew—and that's where things go wrong. "The path of least risk is the greatest risk of all"; "a life of comfort is the most uncomfortable thing in the world." So we loop: seek comfort, become uncomfortable, seek more comfort, become more uncomfortable, until deep in a hole hard to dig out of. "If it's so comfortable why do you have to numb the pain with quick pleasure?"
+- **ejemplos:** ninguno
+- **cita:** "the fastest way to ruin your life is to follow someone else's plan"
+- **terminos:** comfort loop; path of least risk
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 0:00–0:48, 2025-01-12
+- **tension:** ninguna
+
+## U-027-215
+- **tipo:** argumento
+- **titulo:** New Year's resolutions fail because they're conformity without an "iceberg of whys"; the fix is equipping your mind to think for yourself
+- **desarrollo:** Getting out isn't as simple as a new goal or resolution: resolutions are often conformity—doing it because everyone is or tells you to—not for an intrinsic reason; without "an iceberg of whys" creating intrinsic motivation it's easy to quit. The new goal motivates for a few hours, then you forget or get trapped in the same "cloud of distractions." To avoid a robotic, predetermined life, "equip your mind with the right tools to think for yourself"—the fastest way to change your life. The journey may and probably will be painful.
+- **ejemplos:** New Year's resolutions.
+- **cita:** "you don't have an iceberg of whys"
+- **terminos:** iceberg of whys; intrinsic motivation; Conformity; cloud of distractions
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-214
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 0:48–1:36, 2025-01-12
+- **tension:** ninguna
+
+## U-027-216
+- **tipo:** fuente-de-tercero
+- **titulo:** Jordan Peterson: "what you aim at determines what you see"—goals shape perception
+- **desarrollo:** Koe quotes Jordan Peterson—"what you aim at determines what you see"—saying it aligns with what he's discussed over the past year: how goals shape your perception.
+- **ejemplos:** ninguno
+- **cita:** "what you aim at determines what you see"
+- **terminos:** aim; perception
+- **origen:** de-tercero:Jordan Peterson
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 1:36, 2025-01-12
+- **tension:** ninguna
+
+## U-027-217
+- **tipo:** definición
+- **titulo:** A plan is not a list of things that won't happen; it's an evolving blueprint that structures your mind to notice ideas that lead to progress
+- **desarrollo:** "You need a plan there isn't any other way because if you don't have one Society does and they've been planning your life for decades." A plan "is an evolving blueprint that structures your mind to notice ideas that lead to progress." Later: a plan isn't just a list of steps, it's "a surface area for luck a surface area for discovery" and a frame. Problem: people conform to the goals of parents or society and stop there.
+- **ejemplos:** ninguno
+- **cita:** "a plan is not a list of things that won't happen it is an evolving blueprint"
+- **terminos:** plan; evolving blueprint; surface area for luck; surface area for discovery; frame
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-216
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 1:36–2:34, 5:42–6:29, 2025-01-12
+- **tension:** ninguna
+
+## U-027-218
+- **tipo:** argumento
+- **titulo:** Children adopt parents' beliefs as a survival instinct—so as not to be cast out of the tribe; the need for approval shapes upbringing
+- **desarrollo:** As a child you have no choice but to trust parents and teachers. You adopt much of your parents' beliefs "so that you don't get cast out of the tribe"—a survival instinct: their values, becoming Christian, Muslim, Republican, Democrat. You can rebel, and some parents accept it, but often it's unwise to lose parents' trust because your survival is in their hands. Not everyone, but the need for approval is a massive influence. Once out on your own, you no longer must pursue those goals to survive.
+- **ejemplos:** Christian, Muslim, Republican, Democrat.
+- **cita:** "so that you don't get cast out of the tribe"
+- **terminos:** need for approval; survival Instinct
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-217
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 2:34–3:17, 2025-01-12
+- **tension:** ninguna
+
+## U-027-219
+- **tipo:** definición
+- **titulo:** A goal is an aim, a tool to identify a problem, a point of view—not a static point in time
+- **desarrollo:** In productivity/self-help, you've heard "systems are greater than goals" and "clear specific / SMART goals", but most don't understand what a goal is: "a goal is an aim"; not a static point where you achieve something; "a goal is simply a tool to identify a problem it's a point of view." Most pursue goals for acceptance, status and survival rather than "the happiness that stems from resistance being overcome or problems being solved." Later: goals can and should evolve with better information; not to be achieved at all costs; a problem requires a solution arrived at creatively by making guesses and correcting errors; "goals are points of view that must be refined on a consistent basis."
+- **ejemplos:** SMART goals.
+- **cita:** "a goal is simply a tool to identify a problem it's a point of view"
+- **terminos:** goal; aim; point of view; resistance being overcome
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-216
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 3:17–4:08, 19:16–20:49, 2025-01-12
+- **tension:** ninguna
+
+## U-027-220
+- **tipo:** framework
+- **titulo:** Goals → mind/identity → perspective (concentric circles) filter what you perceive: the student and the entrepreneur read the same book differently
+- **desarrollo:** The goals composing your mind, identity and perspective—"often in that order like a set of concentric circles"—filter what you perceive. Someone with the goal of school-then-job won't notice an opportunity to start a business and pursue life's work; someone starting a business won't notice ideas for good grades because they don't need grades. Both can read the exact same book and read it differently—skipping different paragraphs, sentences, lessons; each unconsciously extracts what reinforces the system leading to their goals. Identity shapes everything you perceive.
+- **ejemplos:** student vs. entrepreneur reading the same book.
+- **cita:** "they're reading it from a different mind"
+- **terminos:** concentric circles; filter; identity; perspective
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-219
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 4:08–4:56, 2025-01-12
+- **tension:** ninguna
+
+## U-027-221
+- **tipo:** método
+- **titulo:** Reverse-engineer your hidden goals by noticing what sparks dopamine: excitement is an arrow pointing to the goal your mind runs on
+- **desarrollo:** Your goals are a set of conscious and unconscious goals, often programmed in childhood. Notice them by observing what sticks out or sparks dopamine, because "dopamine signals what's important for your survival in the future." A hint of excitement or a novel insight in a book or on social media "is an arrow pointing to the goal that your mind is operating on" to notice that information.
+- **ejemplos:** novel insight in a book or social post.
+- **cita:** "that is an arrow pointing to the goal that your mind is operating on"
+- **terminos:** dopamine; conscious and unconscious goals
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-220
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 4:56–5:42, 2025-01-12
+- **tension:** ninguna
+
+## U-027-222
+- **tipo:** principio
+- **titulo:** We don't want conformity, we want creativity: goals can trap or help us
+- **desarrollo:** Conformity is the default state; we want creativity—to be different, unique, create our own lives, make new discoveries rather than past generations' results, because most people around you don't have anything close to the future you want. Goals can trap us or help us.
+- **ejemplos:** ninguno
+- **cita:** "we don't want Conformity we want creativity"
+- **terminos:** Conformity; creativity
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-219
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 5:42–6:29, 2025-01-12
+- **tension:** ninguna
+
+## U-027-223
+- **tipo:** metáfora
+- **titulo:** Order of operations: the goal is the answer, the problem is the equation; in life you don't have the equation, only a guess at the answer
+- **desarrollo:** There's an order of operations to achieve anything within reality's bounds. Consider 4 + 6 × (5 + 3 − 2): the answer is the goal; the equation is the problem; you must add, subtract, multiply in a specific order or get the wrong answer. Simple equations like 1 + 1 = 2 are like tying shoes; achieving goals in the unknown (lots of money, a thriving relationship, being more social) are much longer, more complex equations. In life "you don't have the equation you don't even know the answer all you have is a guess for what you want the answer to be" plus the ability to create an equation—knowledge—through experimentation and error correction. That equation is valuable to you and others: "specific knowledge" that can take the form of a product, service, book, or advice to your children, contributing to humanity's progress.
+- **ejemplos:** 4 + 6 × (5 + 3 − 2); 1 + 1 = 2.
+- **cita:** "all you have is a guess for what you want the answer to be"
+- **terminos:** order of operations; equation; specific knowledge; error correction
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-219
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 6:29–8:13, 2025-01-12
+- **tension:** ninguna
+
+## U-027-224
+- **tipo:** principio
+- **titulo:** Happiness comes from overcoming resistance and connection to something greater; creativity is the vessel for both (why Koe builds Cortex)
+- **desarrollo:** "If happiness comes from overcoming resistance and a connection to something greater than yourself creativity is the vessel for both." That's why he writes and does this over business models that would make far more money; why he builds Cortex, a note-taking app—though most note/to-do apps fail, he feels they're pulling it off—over a niche vertical SaaS or agent model that could make more and grow 10x faster: he enjoys the creative challenge. Later restated: enjoyment = resistance being overcome + connection to something greater; solving problems gives the first (flow state), and passing down knowledge through any product or service ("this water bottle is a deposit of knowledge") contributes to humanity's cumulative progress, giving purpose—the other end of the equation.
+- **ejemplos:** Cortex app; water bottle as deposit of knowledge.
+- **cita:** "this water bottle is a deposit of knowledge"
+- **terminos:** overcoming resistance; connection to something greater; creativity is the vessel; deposit of knowledge; Flow State
+- **origen:** propia (eco de Nietzsche en U-027-177)
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-223
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 8:13–9:02, 15:06–16:05, 2025-01-12
+- **tension:** ninguna
+
+## U-027-225
+- **tipo:** argumento
+- **titulo:** Bad habits aren't problems unless they prevent a goal: the known path lets you be a degenerate; your own vision demands you show up
+- **desarrollo:** A goal or problem—one doesn't exist without the other—but most don't know what goal to pursue or have assigned goals, making problems hard to notice. Partying, sleeping in and bad habits aren't problems unless they block a goal. The known path's goals (school, job, retire at 65) don't require much effort or creativity, "so you can afford to be a degenerate": show up hungover, minimal effort, because the goals aren't demanding. With your own strong plan/vision acting as a frame, you notice problems in your lifestyle: getting drunk wrecks your morning's work, loses progress, misses the weekly goal (newsletter, content, product, productive meeting). "You have to show up for your vision you don't have to show up for the life you were assigned."
+- **ejemplos:** hangover vs. newsletter deadline.
+- **cita:** "you have to show up for your vision you don't have to show up for the life you were assigned"
+- **terminos:** known path; frame; vision
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-219
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 9:02–10:36, 2025-01-12
+- **tension:** coherente con U-027-203
+
+## U-027-226
+- **tipo:** ejercicio-del-autor
+- **titulo:** If lost, start with radical honesty: "Are you content with life?"—a trick question; any discontent is the first problem in an infinite string
+- **desarrollo:** Koe found this video hard to think through: how do you know what problem to solve without a goal, or set an impactful goal if lost "in the middle of nowhere"? His answer: be extremely honest about where you are. Ask "are you content with life?"—a trick question, because nobody is: "show me someone who is happy at every second of the day and I'll show you a liar." Life comes in waves, cycles, highs and lows; without lows no creativity and no life as we know it. Humans make sense of the world in stories, which mirror reality's structure; nature cycles birth and death (a forest has dead things everywhere; rubbing your arm kills cells). Eternal happiness doesn't exist, so you aren't content with every aspect—"in lies the problem," the starting point of the infinite string of problems toward your vision. Find where you aren't content and start there.
+- **ejemplos:** forest with dead things; skin cells.
+- **cita:** "show me someone who is happy at every second of the day and I'll show you a liar"
+- **terminos:** honest with yourself; infinite string of problems
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-219
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 10:36–13:39, 2025-01-12
+- **tension:** ninguna
+
+## U-027-227
+- **tipo:** concepto
+- **titulo:** Psychic entropy: once you identify a problem, thoughts splinter without constraints—the overweight-in-the-mirror example
+- **desarrollo:** Then it gets scary: "the unknown creeps nearer your knee deep in the water and want to Sprint back to shore." The thought of the problem multiplies because the mind has lost constraints and boundaries—"psychic entropy or disorder in the mind." Example: you see you're a bit overweight; then you think about not taking off your shirt at the pool, what friends or partner think and how it impacts the relationship, all the hard things to cut weight, foods to give up, exercise to do, and what happens if you keep gaining—heart disease, chronic disease. Without a structure to order your mind—a plan, broken down—that uncertainty is hard to bear; most shy away and quit.
+- **ejemplos:** overweight in the mirror.
+- **cita:** "psychic entropy or disorder in the mind"
+- **terminos:** psychic entropy; constraints and boundaries
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-226
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 13:39–14:20, 2025-01-12
+- **tension:** ninguna
+
+## U-027-228
+- **tipo:** concepto
+- **titulo:** Between problem and goal lies the plan: a hierarchy of goals enabling flow and cumulative progress that keeps chaos at bay
+- **desarrollo:** "A problem implies a goal"—realizing a problem gives you a goal; make it conscious. Between problem (now) and goal (the polar end) is the opportunity for "a plan a strategy a hierarchy of goals" that lets you enter flow and make cumulative progress, keeping chaos at bay as you trek into the unknown. It's painful because you're creating not just a new life but a new identity—"expanding your mind to house more complexity that allows you to solve more valuable problems."
+- **ejemplos:** ninguno
+- **cita:** "a problem implies a goal"
+- **terminos:** hierarchy of goals; Flow State; cumulative progress; house more complexity
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-227
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 14:20–15:06, 2025-01-12
+- **tension:** ninguna
+
+## U-027-229
+- **tipo:** principio
+- **titulo:** Discipline is a feature of identity: you're already disciplined at everything compatible with your current identity
+- **desarrollo:** It's not as simple as a goal or resolution because you lack the identity that would achieve it. Bodybuilders have no problem eating, training and recovering—"every decision is a vote toward their future." Writers have no problem generating ideas and publishing. Gamers have no problem staring at a screen for 8 hours. "It's not that you aren't disciplined": you have no problem eating, partying, going to bed late and eating "brain fogging Totino's Pizza Rolls" because it doesn't clash with your identity's goals—"you're already disciplined in every single thing that you do." A bodybuilder without access to required food would be in chaos. "Discipline is a feature of identity." When becoming a new person, who you are fights who you want to become—painful growing pains until the new identity solidifies; take it gradually.
+- **ejemplos:** bodybuilder; writer; gamer; Totino's Pizza Rolls.
+- **cita:** "discipline is a feature of identity"
+- **terminos:** discipline; identity; growing pains; every decision is a vote
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-228
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 16:05–17:42, 2025-01-12
+- **tension:** ninguna
+
+## U-027-230
+- **tipo:** concepto
+- **titulo:** Create your own little world: successful people program their own video game—a frame that repels distractions and constrains entropy
+- **desarrollo:** First, create "our own little world a frame a perspective a little mental boundary to operate within." Koe notices the most successful people he knows "live in their own little world": walking down the street, not paying attention to others, not living in other people's heads or wondering what people think—focused. "They've programmed their own video game": addictive, enjoyable, a logical sequence of steps yielding experience; it tells them what's worth attention and learning; "a frame for their mind that repels distractions and constrains entropy." Build it by setting the foundations of your new identity—"a full circle" frame of reference, a lens to notice opportunities, make better decisions, and sense when off track to course-correct. It took decades to become who you are; expect at least 12 months to expand into the new mold.
+- **ejemplos:** walking down the street in one's own head.
+- **cita:** "they've programmed their own video game"
+- **terminos:** your own little world; frame; constrains entropy; new mold
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-229
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 17:42–19:16, 2025-01-12
+- **tension:** ninguna
+
+## U-027-231
+- **tipo:** método
+- **titulo:** Write five things on paper: anti-vision, vision, constraints, 10-year goal, 1-year goal
+- **desarrollo:** (1) Anti-vision: your picture of the life you despise. (2) Vision: your picture of your ideal future. (3) Constraints: what you aren't willing to sacrifice to reach your vision. (4) A 10-year goal. (5) A one-year goal. (He offers a worksheet via newsletter welcome email.) It's not typical goal-setting because goals are aims that evolve. You're creating an outline for the story you plan to write: if you have the ideas, start writing; most people don't have ideas top of mind and need the outline/structure to navigate creatively.
+- **ejemplos:** ninguno
+- **cita:** "you are creating an outline for the story that you plan to write"
+- **terminos:** anti-vision; vision; constraints; 10-year goal; one-year goal; outline
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-230
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 19:16–20:49, 2025-01-12
+- **tension:** ninguna
+
+## U-027-232
+- **tipo:** principio
+- **titulo:** Constraints breed creativity: absolute freedom leaves a blank page; "build a business without sacrificing family time" forces creative structure
+- **desarrollo:** With absolute freedom you stare at a blank page and don't act. Writing with a topic, a goal, a story, quotes to include, a framework—that boundary breeds creativity. Constraints = sacrifices you won't make: "I want to build this business but I don't want to sacrifice family time." The person who just wants the business needn't be creative the way the constrained person must—paying far more attention to structuring days, taking meetings, when to stop working.
+- **ejemplos:** business without sacrificing family time.
+- **cita:** "constraints breed creativity"
+- **terminos:** constraints; blank page
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-231
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 20:49–21:32, 2025-01-12
+- **tension:** ninguna
+
+## U-027-233
+- **tipo:** concepto
+- **titulo:** An outline acts as a magnet for ideas; without a project, opportunities pass you by because there's no dopamine signal for its survival
+- **desarrollo:** In writing a story, the outline acts "as a magnet for ideas or a frame from which you view life." When Koe writes a newsletter, script or book, on walks, in conversations or thinking, his ideas magnetize toward it—that's why Cortex has "capture." "That's how you notice ideas in reality is by having a project to apply those ideas to." Without the project or goal, many ideas and opportunities pass you by because your mind doesn't care—"there's no dopamine signaling for the survival of that project." Life isn't a finished book; it's an infinite story—reaching a goal is a chapter; you write a new one. Goals aren't final peaks: once at one mountain peak you see another, visible only from the first.
+- **ejemplos:** Cortex capture; mountain peaks.
+- **cita:** "that's how you notice ideas in reality is by having a project to apply those ideas to"
+- **terminos:** magnet for ideas; capture; infinite story; chapter
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-231
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 21:32–22:58, 2025-01-12
+- **tension:** ninguna
+
+## U-027-234
+- **tipo:** principio
+- **titulo:** You don't learn skills, you build projects: skills like degrees are useless in isolation; a project is a quest in your game
+- **desarrollo:** Progress comes from investing energy in a series of projects—"you aren't interested in a project until you invest energy into it." "You don't learn skills you build projects"; "skills like degrees are practically useless in isolation." "If you want to receive you must give": keeping knowledge in your head "is a Surefire way to become bitter about how smart you are and how little people care." "A project is a quest in your game"; building puts experience into your traits, profession, character, abilities; you learn techniques to solve a problem and achieve a result. A project is something you build that enables interest-based education. It must be a stepping stone toward your vision and solve the problem identified (where you aren't content); if it's your body, the gym—"your project is your body."
+- **ejemplos:** body as project.
+- **cita:** "you don't learn skills you build projects"
+- **terminos:** series of projects; quest; interest based education; stepping stone
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-233
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 22:58–24:35, 2025-01-12
+- **tension:** ninguna
+
+## U-027-235
+- **tipo:** ejemplo
+- **titulo:** Money problem + vision of a successful business + constraint of 4 hours/day → a one-person business project (if your environment lets you see it)
+- **desarrollo:** If you struggle with money, fabricate a project aligned with, e.g., a vision of a successful business with the constraint of working 4 hours a day for family/relationships—drastically narrowing the project. But without the right environment and beliefs you won't notice a one-person business as an option; you'll believe business requires brick-and-mortar, startup capital for software, or lots of skills and leadership experience. Up to date with tech and business, you'd know freelance and creator work exist and anyone can post and have it spread to potential customers. That's why he presents the one-person business as a starting point: it removes most limiting beliefs and gets people learning skills and building projects that can evolve into something else.
+- **ejemplos:** one-person business; brick and mortar belief.
+- **cita:** "it removes most of the limiting beliefs they have"
+- **terminos:** one-person business; limiting beliefs; environment
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-234
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 24:35–25:24, 2025-01-12
+- **tension:** ninguna
+
+## U-027-236
+- **tipo:** proceso
+- **titulo:** You don't learn skills, you acquire techniques: the newsletter project and the Photoshop example—stack techniques around a specific thing
+- **desarrollo:** Create a project like starting a newsletter; don't get trapped in tutorial hell learning about newsletters; start; search for techniques—how to choose a topic, write a headline—then stack more—how to structure persuasive writing—until you have newsletter writing as a skill, though not in a way taught linearly; you're a step closer to being irreplaceable. Then the next project after identifying a problem (newsletter not growing or not making money). Photoshop: you have an image/vision of what to create; start with what you know; hit a problem ("how do I select and mask this?"), look it up, learn a few techniques; then "how do I change the colors?"—another technique. "You learn a skill by stacking techniques on a specific thing." Courses are extremely valuable once you have the project and goal.
+- **ejemplos:** newsletter; Photoshop select-and-mask.
+- **cita:** "you learn a skill by stacking techniques on a specific thing"
+- **terminos:** stacking techniques; tutorial hell; Irreplaceable
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-234
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 25:24–27:33, 2025-01-12
+- **tension:** coherente con U-027-164
+
+## U-027-237
+- **tipo:** método
+- **titulo:** Build an iceberg of whys: search the benefits of what you want and the harms of what you don't—"polar in-betweenness"
+- **desarrollo:** For lack of motivation, create a stack of reasons, "an iceberg of whys." His big life changes started with being fed up and disgusted with where he'd let himself go, which made him search for reasons out. Method: Google "what are the benefits of" a diet or food you want; then do the opposite—find reasons not to do things ("what is so bad about fried foods") to make yourself fear them, creating "polar inbetweenness" that pushes you toward the positive end. Nobody does one thing for one reason: critics say a creator does it "only for the money", but it's part of their life—Koe does it because he enjoys it more than the alternative. Become aware of this to reverse-engineer your own stack of reasons for things not immediately gratifying.
+- **ejemplos:** diet benefits; fried foods; "only for the money".
+- **cita:** "nobody does one thing for one reason"
+- **terminos:** stack of reasons; iceberg of whys; polar inbetweenness
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-215
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 27:33–29:02, 2025-01-12
+- **tension:** ninguna
+
+## U-027-238
+- **tipo:** concepto
+- **titulo:** Document your life: the protégé effect—we learn better by teaching; consumer vs. contributor
+- **desarrollo:** The protégé effect: "a concept in learning that suggests we learn more effectively by teaching information to others even if those others aren't necessarily any less knowledgeable." Koe has noticed it personally. There are two options online: consumer or contributor (he prefers "contributor" to "content creator"). The consumer takes, gets "mentally overweight", never pieces things together or shares a perspective. Sharing returns tenfold: you actually learn, get direct feedback on beliefs, and are encouraged to challenge and reshape thoughts. "The teacher learns more than the student": he learns far more writing and making videos—synthesizing his own worldview and sharing it—than by consuming, forced to solve his own problems and help others, approaching problems from a different perspective. When you solve problems, think how to pass it down uniquely.
+- **ejemplos:** Koe's writing and videos.
+- **cita:** "there's two options there's consumer or contributor"
+- **terminos:** Protege effect; consumer; contributor; mentally overweight
+- **origen:** adaptada-de:protégé effect (concepto de aprendizaje)
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-234
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 29:02–31:24, 2025-01-12
+- **tension:** ninguna
+
+## U-027-239
+- **tipo:** argumento
+- **titulo:** The internet gives everyone the one-on-one education once reserved for Greek upper classes like Marcus Aurelius
+- **desarrollo:** In ancient Greek societies the upper class (e.g., Marcus Aurelius) had the best teachers one-on-one in mathematics, strategy, philosophy, literature. That disappeared for a while, especially with schools where we sit before "a government trained expert" and are encouraged to memorize, conform, get good grades. With the internet that changed, though most don't realize it: you can look up the greatest thinkers of our time and get technically one-on-one education from them. (Koe disclaims being Marcus Aurelius but believes his videos have value.)
+- **ejemplos:** Marcus Aurelius' teachers.
+- **cita:** "you can go and look up the greatest thinkers of our time and get technically one-on-one education from them"
+- **terminos:** government trained expert
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-027-238
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 29:53–31:24, 2025-01-12
+- **tension:** ninguna
+
+## U-027-240
+- **tipo:** principio
+- **titulo:** Document your journey publicly as a creator (not merely a content creator): media is top of funnel; turn projects into products and let the market tell you
+- **desarrollo:** What do you do with projects once built? Not a portfolio-as-resume for an employer—did you build it to be unique and achieve something great? "You don't need permission to publish your work." The best way to increase success odds: document your journey where anyone can discover it; become a creator who uses content to spread work. Jordan Peterson is a creator, not a "content creator": he writes books, tours, and understands social media "because that's where the attention is"—media is top of funnel, paid or organic; most lack money for ads, and building leverage through an audience around your work is better anyway. Content creation alone narrows focus too much for your life's work. Share thoughts, opinions, problems, vision and learnings; "turn your projects into products and test their value." In public, the market tells you if they suck—which they will at first: "good you've identified a problem that you couldn't have before" if you kept quiet.
+- **ejemplos:** Jordan Peterson (books, tours).
+- **cita:** "turn your projects into products and test their value"
+- **terminos:** document your journey; Creator vs. content creator; top of funnel; leverage
+- **origen:** propia (Jordan Peterson como ejemplo)
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-238
+- **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 31:24–33:41, 2025-01-12
+- **tension:** ninguna
+

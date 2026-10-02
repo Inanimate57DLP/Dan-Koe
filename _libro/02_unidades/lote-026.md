@@ -2571,3 +2571,969 @@
 - **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 16:35, 2024-05-30
 - **tension:** ninguna
 
+# Fuente: A Dangerous (But Effective) Strategy To Get Out Of A Rut.md (2023-10-02)
+
+## U-026-198
+- **tipo:** opinión
+- **titulo:** The best decisions the author has made are the ones other people think are stupid
+- **desarrollo:** Reflecting during the week, "I realized that the best decisions that I've made in my life are the ones that other people think are stupid". This frames the chronological list of risky decisions that follows and the concept of tactical stress.
+- **ejemplos:** The 2018-2023 decisions (U-026-199).
+- **cita:** "the best decisions that I've made in my life are the ones that other people think are stupid"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 0:00, 2023-10-02
+- **tension:** ninguna
+
+## U-026-199
+- **tipo:** historia
+- **titulo:** The author's chronology of "stupid" decisions: savings into e-commerce, selling everything, quitting the job, a lease twice his means, moving every six months
+- **desarrollo:** 2018: "I wasted my life savings and maxed out my first credit card in hopes that my dreams of building a massive e-commerce business would work." 2019: "I got rid of everything I owned because of the situation that I was in", flew across the country, stayed a bit, realized it wasn't for him (no Wi-Fi, client Zoom calls not working), flew back and moved into a place; during that time he also quit his job, knowing every freelance client that let him quit "could disappear at any time" (not a huge possibility, but it sat in the back of his mind). 2020: "I signed a lease that was two times more anything that I've ever paid before and anything that I thought that I could afford", forcing the mindset that he had to make his business work. 2021 to present: moved about every six months, not consciously planned, each time "into a place that was just a bit above my comfort zone in terms of what I could afford", okay with it "because I knew that the only limits in the digital world in terms of business were the ones that I believed".
+- **ejemplos:** Maxed credit card; no Wi-Fi for Zoom calls; lease at 2x.
+- **cita:** "the only limits in the digital world in terms of business were the ones that I believed"
+- **terminos:** comfort zone
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-026-198
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 0:00-1:36, 2023-10-02
+- **tension:** The 2022 lease story (U-026-017) describes a step-up lease leading to his first 50k month; here the 2020 lease is "two times" anything he'd paid, consistent but framed with a different magnitude.
+
+## U-026-200
+- **tipo:** concepto
+- **titulo:** After about six months in a new place everything becomes normal, and comfort quietly limits your progress
+- **desarrollo:** Moving was "a great way to push myself into the unknown": "around every six months is when things start to really become normal to you you fall into a routine you know the friend group ... the places you can eat the places you can walk ... you've pretty much explored everything physical to you". While the mental realm can be explored infinitely with the internet, "you can get into a comfortable spot with the place that you're living and it can really impact how far you progress in life simply because you just become comfortable without knowing it". People think comfort is good because it lowers everyday stress ("which is a good thing"), "but you're not pushing yourself into the unknown in every domain that you can whether it be physical or mental or financial".
+- **ejemplos:** Knowing all the restaurants and walks after six months.
+- **cita:** "you just become comfortable without knowing it"
+- **terminos:** the unknown; comfortable
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-199
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 1:36-2:20, 2023-10-02
+- **tension:** ninguna
+
+## U-026-201
+- **tipo:** dato
+- **titulo:** Pushing into the unknown took his business from $50k to $100k to $200k+ a month, with surges up to about $700k; no single course gets the credit
+- **desarrollo:** Moving and "knowing that I couldn't afford certain things" forced him to grow the business "from 50 000 a month to a hundred thousand a month to 200 000 a month plus and having surges here and there of upwards of seven hundred thousand dollars a month". "It would be hard for me to credit any of this to any single business video or book or podcast or ... course where people think that they can just get all of the information that's not how it works you need experience you need something that pushes you forward you need to figure things out for yourself." "You can't just acquire knowledge and then ... sit and do nothing with the knowledge because you're comfortable."
+- **ejemplos:** ninguno
+- **cita:** "you need experience you need something that pushes you forward"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-026-200
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 2:20-3:08, 2023-10-02
+- **tension:** ninguna
+
+## U-026-202
+- **tipo:** historia
+- **titulo:** Six months in Austin with JK Molina, Dakota Robertson and his editor Devin, then breaking the lease for Scottsdale
+- **desarrollo:** He moved to Austin, Texas "with people like JK Molina and Dakota Robertson and my editor Devin"; they were there six months, "figured out the location we got what we needed out of it and we made a ton of progress in business especially being around those right people". Then they broke their lease in Texas "just because we wanted to get out we wanted to experience something new" and he moved to Scottsdale, Arizona, which he'd always perceived "as like too high above me". At filming he's in a temporary spot (previously Phoenix) and will sign a nine-month lease, "but honestly I'll probably break it in six".
+- **ejemplos:** Austin, Scottsdale, Phoenix.
+- **cita:** "we made a ton of progress in business especially being around those right people"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-026-200
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 3:08-3:52, 2023-10-02
+- **tension:** ninguna
+
+## U-026-203
+- **tipo:** argumento
+- **titulo:** A threatened bank account forces output, and a singular goal makes life meaningful by making signal easy to filter from noise
+- **desarrollo:** "This is where I thrive this is where I make the most progress it forces me to publish anything that I've been putting off or act on the ideas that I've had in my mind." If he's moving and knows his bank account will fall below his standard, "my survival is going to be threatened I'm going to be put in this state of stress and I'm going to have to work to survive". Condition: without a way of creating resources, "like having a business", it's very hard to progress or achieve autonomy/freedom. In this time he's super productive: flow of information, idea generation, focused output "because I have that singular goal in the back of my mind". "Life becomes so much more meaningful because it's easy to filter the signal from noise in the day-to-day situations ... because you're so dead focused on accomplishing a goal that you're forcing yourself to hit by throwing yourself into the unknown doing something that you can't back out of like signing a lease."
+- **ejemplos:** Signing a lease you can't back out of.
+- **cita:** "it's easy to filter the signal from noise"
+- **terminos:** signal from noise; singular goal; survival
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-200
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 3:52-5:19, 2023-10-02
+- **tension:** ninguna
+
+## U-026-204
+- **tipo:** metáfora
+- **titulo:** If life feels meaningless, you aren't training your responsibility muscle: add emotional weight to the bar
+- **desarrollo:** "If life feels meaningless it's because you aren't training your responsibility muscle you haven't lifted the emotional weight to add more to the bar and see progress on a deeper level than muscle."
+- **ejemplos:** Lifting weights.
+- **cita:** "if life feels meaningless it's because you aren't training your responsibility muscle"
+- **terminos:** responsibility muscle; emotional weight
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-203
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 5:19, 2023-10-02
+- **tension:** ninguna
+
+## U-026-205
+- **tipo:** metáfora
+- **titulo:** A goldfish only grows as large as its tank
+- **desarrollo:** To preface tactical stress: "a goldfish only grows as large as the tank that it is put in so if you put it in a small tank it will only grow to a certain amount if you put it into a large tank it will grow to fit that". Tactical stress is "quite similar": your environment (the tank) sets the size you grow into.
+- **ejemplos:** Goldfish tank.
+- **cita:** "a goldfish only grows as large as the tank that it is put in"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 6:08, 2023-10-02
+- **tension:** ninguna
+
+## U-026-206
+- **tipo:** fuente-de-tercero
+- **titulo:** Parkinson's law: work expands to fill the time available, which is why true deadlines matter
+- **desarrollo:** "Parkinson's law which states that work expands so as to fill the time available for its completion so if you give yourself 10 minutes to do a task it's going to take 10 minutes if you give yourself a week to do a task it's going to take a week." It "stresses the importance of deadlines and how to set a true deadline that actually forces you into action". Tactical stress is "quite similar" to Parkinson's law and the goldfish.
+- **ejemplos:** 10 minutes vs a week for the same task.
+- **cita:** "work expands so as to fill the time available for its completion"
+- **terminos:** Parkinson's law; true deadline
+- **origen:** de-tercero:Parkinson's law
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 6:08, 2023-10-02
+- **tension:** ninguna
+
+## U-026-207
+- **tipo:** término-acuñado
+- **titulo:** Tactical stress (2023 formulation): a forced do-or-die situation, with the skill to make it work, producing a season of intensity; a tool to force your way out of a rut
+- **desarrollo:** "Tactical stress is the conscious decision to force yourself into a Do or Die situation knowing that you have the skill to make it work and have no choice but to overcome your fears the result is a season of intensity that propels you into the next level of your life." He calls it "the secret to abnormal results" and "a very extreme and potentially dangerous strategy", based on a pattern noticed multiple times in his life. Use: when you identify being in a rut ("things are getting very stagnant"), you now have a tool; normally you'd feel stuck and wait until "life happens and you eventually get out", "but this is a way to force your way out".
+- **ejemplos:** Leases, moves, launches (strategies U-026-218 onward).
+- **cita:** "the result is a season of intensity that propels you into the next level of your life"
+- **terminos:** tactical stress; do or die situation; season of intensity; rut
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-205, U-026-206
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 5:19-7:30, 2023-10-02
+- **tension:** Refines the 2022 definition (U-026-016: "will accept nothing less from success") by replacing that clause with "have no choice but to overcome your fears" and adding the "season of intensity" outcome.
+
+## U-026-208
+- **tipo:** opinión
+- **titulo:** Understand the philosophy and psychology before the how-to, or you'll miss things and fail to notice your mistakes
+- **desarrollo:** He explains why tactical stress works before giving strategies "because this is a huge problem with just general how-to advice is people don't have the depth they don't have the true understanding of why it works and so they miss certain things when they actually go to act or they don't have the mindset or the perspective available to them to note patterns when they are acting to realize oh this was a mistake now I need to make a better decision".
+- **ejemplos:** ninguno
+- **cita:** "people don't have the depth they don't have the true understanding of why it works"
+- **terminos:** big picture understanding
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-026-207
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 7:30, 2023-10-02
+- **tension:** ninguna
+
+## U-026-209
+- **tipo:** advertencia
+- **titulo:** Launch into the unknown, but not too far: excess novelty can't be metabolized, like overeating
+- **desarrollo:** "The purpose of tactical stress is to launch yourself into the unknown or the land of infinite potential." But "if you launch too far you become overwhelmed with information it becomes difficult to metabolize that information" (referencing his previous video on "mental Aesthetics or mental bodybuilding"). Push too far out of your comfort zone and "you're exposed to all this chaotic information that you don't yet know how to order in your mind or actually make use of ... you can't filter it", like your body when you eat so much you feel bad. The magic happens "when you do this consciously and you know that you can acquire the skill and education necessary to make this goal work".
+- **ejemplos:** Overeating.
+- **cita:** "if you launch too far you become overwhelmed with information it becomes difficult to metabolize that information"
+- **terminos:** land of infinite potential; metabolize information; mental aesthetics; mental bodybuilding
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-207
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 7:30-8:58, 2023-10-02
+- **tension:** ninguna
+
+## U-026-210
+- **tipo:** heurística
+- **titulo:** Aim just above your level (level two aims for level four, not 100), then transmute the stress into study and action
+- **desarrollo:** "Of course I'm not going to be able to buy like a billion dollar house and expect myself to reach that point in business it has to be just above your level if you're a level two then you need to aim for level four not level 100." "When you do this you're forced to create Clarity from chaos it's gonna feel a bit chaotic at first you're going to feel that stress." "So you set a goal that is borderline impossible force yourself to achieve it and transmute the stress to study and act your ass off until it becomes reality."
+- **ejemplos:** Billion-dollar house as the wrong target.
+- **cita:** "if you're a level two then you need to aim for level four not level 100"
+- **terminos:** clarity from chaos; borderline impossible goal; transmute the stress
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-209
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 8:19-8:58, 2023-10-02
+- **tension:** ninguna
+
+## U-026-211
+- **tipo:** concepto
+- **titulo:** Psychological effect one, a frame of reference: you're always pursuing a goal, conscious or assigned, so set a conscious one to filter signal from noise
+- **desarrollo:** First, tactical stress "creates a frame of reference your goal has to stay top of mind the entire time": launching into the unknown must be "out of the pursuit of a goal that is in the unknown". "At any given moment we are acting towards a goal whether you're conscious of it or not." Most people act "towards the unconscious goals that Society assigns to them like going to school getting a job retiring at 65", marrying someone they don't enjoy because they're supposed to, or staying a doctor because it's expected. "Even right now I'm clearly pursuing a goal of making a YouTube video", "unless you're doing absolutely nothing you're pursuing a goal". So set a conscious goal: it gives a frame of reference to "filter signal from noise" and the important information.
+- **ejemplos:** School, job, retiring at 65, unwanted marriage, the expected doctor; making a YouTube video.
+- **cita:** "at any given moment we are acting towards a goal whether you're conscious of it or not"
+- **terminos:** frame of reference; unconscious goals; signal from noise
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-207
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 8:58-10:34, 2023-10-02
+- **tension:** ninguna
+
+## U-026-212
+- **tipo:** ejemplo
+- **titulo:** With a $100k business goal, scrolling filters memes for value, the algorithm follows, and "character begets action"
+- **desarrollo:** If he sets a conscious goal to make $100,000 in business and acts on tactical stress (moving, buying something he can't afford), "everything I see is going to be through the lens of how is this going to serve my goal". Scrolling with the goal of entertainment, "I'm going to ignore any valuable information that could benefit my future"; building a business, "I'm going to filter through the memes ... and get to the value". You condition yourself into "that state of being an education": you see a valuable account, watch more of their videos, "their algorithm [the algorithm] is going to start to feed me more videos and then eventually character begets action it's going to shape who you are over time the information that's circulating in your head and is top of mind and it will influence your actions".
+- **ejemplos:** Scrolling for entertainment vs for a business goal.
+- **cita:** "eventually character begets action"
+- **terminos:** character begets action; lens; algorithm
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-211
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 10:34-11:19, 2023-10-02
+- **tension:** ninguna
+
+## U-026-213
+- **tipo:** concepto
+- **titulo:** Psychological effect two, a true deadline: most deadlines aren't real, but an empty bank account abroad is
+- **desarrollo:** "It creates a deadline a true deadline and everyone knows that deadlines are useful in productivity but most deadlines aren't real." "When you fly across the country or invest your life savings in coaching the deadline is as real as it gets you only have so much time to make it work." If you fly across the country to become a digital nomad, "how much time do you have until your bank account hits zero and you become homeless in a country where you don't even know the language you either make it work or you let it fall apart".
+- **ejemplos:** Digital nomad running out of money abroad.
+- **cita:** "most deadlines aren't real"
+- **terminos:** true deadline
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-206, U-026-207
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 11:19-12:04, 2023-10-02
+- **tension:** ninguna
+
+## U-026-214
+- **tipo:** advertencia
+- **titulo:** Prerequisite: without a track record of ambition and action, do not use tactical stress
+- **desarrollo:** "That's the prerequisite here is if you don't have a track record of being ambitious and taking action on certain things this strategy isn't for you dude do not please do not do this because I know it's going to come back and it's like oh Dan told me to fly across the country and waste my entire life savings and now I'm homeless so don't do that."
+- **ejemplos:** ninguno
+- **cita:** "if you don't have a track record of being ambitious and taking action on certain things this strategy isn't for you"
+- **terminos:** track record
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-207
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 12:04, 2023-10-02
+- **tension:** ninguna
+
+## U-026-215
+- **tipo:** concepto
+- **titulo:** Psychological effect three, narrowed focus: with clarity, education, resources, a plan and a deadline, distractions can't get in
+- **desarrollo:** "It Narrows your focus", similar to the frame of reference. When working on something, e.g., writing a newsletter, "you know exactly what to do you have the clarity to act you have the education to understand the prior resources and a plan to actually make it work and especially with a deadline like me posting a newsletter every Saturday I need to get that done and when your mind Narrows in distractions can't really block it". "This is another way to end just being a slave to distractions."
+- **ejemplos:** His Saturday newsletter.
+- **cita:** "when your mind Narrows in distractions can't really block it"
+- **terminos:** narrowed focus; slave to distractions
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-211
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 12:04-12:46, 2023-10-02
+- **tension:** ninguna
+
+## U-026-216
+- **tipo:** argumento
+- **titulo:** Remove your money limits: a 5-10% raise in four years vs going from $100k a year to $100k a month in business
+- **desarrollo:** "At a certain point you will have to start a business or become an entrepreneur to get to where you want to be in life unless you settle for something less which of course there's nothing wrong with if you're actually happy with that", though his audience wants more. He could repeat tactical stress over four years only because "I had a business that I had control over". In a corporate job, in four years "maybe you can get like a five to ten percent boost in salary if that I bet that's extremely rare": $100,000 becomes $110,000. If you focus that work on a business, "I don't see why in four years you couldn't go from a hundred thousand a year to a hundred thousand a month if not more". "All that it takes is a proper strategy the right skill set a compelling offer and enough traffic to sell one hundred thousand dollars worth of a product." "I'm aware that's an oversimplification but that doesn't mean it's wrong."
+- **ejemplos:** $100k to $110k salary vs $100k/month business.
+- **cita:** "a proper strategy the right skill set a compelling offer and enough traffic"
+- **terminos:** money limits; compelling offer; traffic
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-203
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 12:46-14:19, 2023-10-02
+- **tension:** ninguna
+
+## U-026-217
+- **tipo:** advertencia
+- **titulo:** The tactical stress strategies are touchy, not exhaustive, and only those that worked for him; discover your own
+- **desarrollo:** "This is where things get touchy so I would encourage you to keep an open mind throughout this but ... these are not the only things you can do to implement this strategy there's quite a few things and I encourage you just to discover your own but these are just the ones that have worked for me." The list: (1) launching a product before building it, (2) location hopping, (3) investing in education, (4) material items, (5) degeneracy, (6) emotional transmutation.
+- **ejemplos:** ninguno
+- **cita:** "I encourage you just to discover your own"
+- **terminos:** tactical stress strategies
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-026-207
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 14:19, 2023-10-02
+- **tension:** ninguna
+
+## U-026-218
+- **tipo:** método
+- **titulo:** Tactical stress strategy 1: launch a product before building it, set a launch date, and let the first sale force delivery of an MVP
+- **desarrollo:** Problem: creators and freelancers "take forever to build the product and then they never end up launching it and they never end up making money". Instead: "build the landing page build how you're going to sell it and accept pre-orders for it not even pre-orders but just set a launch date". Example: launch date January 1st; "I start promoting three weeks out every week up until then and once I make the first sale ... then the pressure's on I have to deliver I have to build the product before January 1st and that's an MVP that I can continue to iterate on". "That's what a minimum viable product means is something that you get out and you test and you iterate with customer feedback." Condition: it requires marketing and sales skills.
+- **ejemplos:** January 1st launch, promoting weekly from three weeks out.
+- **cita:** "once I make the first sale ... then the pressure's on I have to deliver"
+- **terminos:** MVP; minimum viable product; launch date; landing page
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-217
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 14:19-15:49, 2023-10-02
+- **tension:** ninguna
+
+## U-026-219
+- **tipo:** método
+- **titulo:** Tactical stress strategy 2: location hopping every six months or so, when you've become too acclimated and things stagnate
+- **desarrollo:** He moved "every six months or so if not less if not more", once he "became way too acclimated to the location I became too comfortable I wasn't making much progress my income stagnated my business stagnated my ideas stagnated". The cause: he wasn't in "the both physical and mental [environment] they play into each other a lot" that would be conducive. He knew all the restaurants, most people he'd run into, whether making friends with certain people would benefit his future; his walks weren't new anymore. "That's a great way to generate ideas is just walk down A New Path throw yourself into the unknown take a different route to work." "There was no further room for discovery for me."
+- **ejemplos:** New walking paths; a different route to work.
+- **cita:** "walk down A New Path throw yourself into the unknown take a different route to work"
+- **terminos:** location hopping; acclimated; physical and mental environment
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-200
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 15:49-16:38, 2023-10-02
+- **tension:** ninguna
+
+## U-026-220
+- **tipo:** heurística
+- **titulo:** In a job, job hop every six months to a year to raise your salary; in a business you control how far into the unknown you push
+- **desarrollo:** The same concept applies to business vs a job: "with a job I think it's good practice to like job hop every six months to a year to increase your salary if you can but you can also get stuck in a job and just get trapped in this robotic anti-human state of living". In business "you can do that too but you have full control you can throw yourself out there by launching a product and force your business to grow you have full control over how far into the unknown you push".
+- **ejemplos:** ninguno
+- **cita:** "you have full control over how far into the unknown you push"
+- **terminos:** job hop; robotic anti-human state of living
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-219
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 16:38-17:21, 2023-10-02
+- **tension:** ninguna
+
+## U-026-221
+- **tipo:** historia
+- **titulo:** The course hoarder: about 50 software development courses that built knowledge but no tangible results
+- **desarrollo:** Strategy 3 is investing in education, prefaced by a warning story: "I used to be a course hoarder ... I think I purchased like 50 software development courses when I was learning programming and I would just hoard them and I'd watch them and I'd build projects along with them but I didn't really learn anything." They built knowledge "to an extent but they never really led to any tangible results especially in terms of income which is the main reason we're all really learning things".
+- **ejemplos:** 50 programming courses.
+- **cita:** "I used to be a course hoarder"
+- **terminos:** course hoarder
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-026-217
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 17:21, 2023-10-02
+- **tension:** ninguna
+
+## U-026-222
+- **tipo:** argumento
+- **titulo:** Why he went all in on social media: an infinitely growing readership lets you build and sell anything (the origin of 2 Hour Writer)
+- **desarrollo:** After seeing some success with freelance web design, he wanted to go all in on social media "because I saw the potential to infinitely grow my readership over time if I could get one follower then I could get a million and if I could get a million then I could get 10 million and so if I had 10 million or 1 million followers I was kind of set for life if I had a product that sold". "Building an audience with valuable writing that they wanted to read would allow me to build and sell anything I wanted to make a living as long as the customer wanted it as well." "This is the driving force behind why I created 2 Hour Writer": writing and building an infinite readership lets you sell according to your interests; for people who want to "monetize what they enjoy learning about and improving their self with and improving others with that's how you make money".
+- **ejemplos:** 1 follower to 1 million to 10 million.
+- **cita:** "if I could get one follower then I could get a million"
+- **terminos:** infinite readership; 2 Hour Writer
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-221
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 17:21-18:47, 2023-10-02
+- **tension:** ninguna
+
+## U-026-223
+- **tipo:** historia
+- **titulo:** Tactical stress strategy 3, investing in education: a $3,500 coaching program, one call attended, and the waste that kicked him into action
+- **desarrollo:** When he decided to go all in on social media, "I invested 3 500 in a coaching program". Two camps: one says "these people are charging five to ten thousand dollars for coaching that's insane", because "one you probably don't have the money two you haven't experienced good education before three you don't see the potential you don't believe you don't have the mindset you don't have the awareness ... of opportunity". The second camp enjoys learning, sees the potential, believes they can be part of it, and invests. His outcome: "I only showed up to one coaching call and I'm not mad about it I'm very grateful": "the only thing that kicked me into action was wasting that money 3 500 bucks down the drain I went to the coaching call I realized oh I already know all of this stuff why am I not doing anything about it and I started doing it but if I didn't spend that money I wouldn't have done it".
+- **ejemplos:** $3,500 coaching; one call.
+- **cita:** "the only thing that kicked me into action was wasting that money"
+- **terminos:** investing in education; two camps
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-221
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 18:47-19:34, 2023-10-02
+- **tension:** Contrasts with the course-hoarding story (U-026-221): buying education helps here not through the content but through the stress of the sunk cost.
+
+## U-026-224
+- **tipo:** historia
+- **titulo:** Tactical stress strategy 4, material items: "money doesn't buy happiness" is a half truth; the $40,000 watch returned the next day
+- **desarrollo:** "Money doesn't buy happiness ... you don't need a fancy car a fancy watch a fancy house ... that's a half truth I agree to an extent but there is utility behind those things as long as they aren't like shallow surface level Pursuits." "A lot of the good things in my life came from being what other people would perceive as materialistic and they taught me about the thing that I purchased." He bought a $40,000 watch, got home, put it on "and just hated what I saw", returned it the next day (it had a return policy). Lesson: never buy a fancy watch again unless it really means something, he knows its history, he truly enjoys it, it's a hobby like watch collecting, or he has so much money he doesn't have to worry.
+- **ejemplos:** $40,000 watch.
+- **cita:** "there is utility behind those things as long as they aren't like shallow surface level Pursuits"
+- **terminos:** material items; half truth
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-217
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 19:34-21:03, 2023-10-02
+- **tension:** Nuances U-026-024 (you don't want the mansion, you want the experience) by granting material items real utility.
+
+## U-026-225
+- **tipo:** heurística
+- **titulo:** Think holistically about someone's situation before judging a purchase as coping or impressing
+- **desarrollo:** "You need to think holistically about an individual situation they're in before you judge them on oh like they just bought that car because they're coping or they just bought that watch because they're trying to impress people."
+- **ejemplos:** ninguno
+- **cita:** "think holistically about an individual situation they're in before you judge them"
+- **terminos:** think holistically
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-026-224
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 21:03, 2023-10-02
+- **tension:** ninguna
+
+## U-026-226
+- **tipo:** argumento
+- **titulo:** Status games knowingly played open networks and opportunities: the matte black Mercedes GT63 S, dressing well, nice locations
+- **desarrollo:** "I drive a fairly nice car that's the one thing that I allow myself to like splurge on": "a Mercedes gt63 S it's pretty fast it sounds good it's matte black so it's on brand but it is a status game and I'm aware of that and I feel like if people are aware that they're playing status games then it helps you not become a slave to those things." The car, the way you dress, nice locations, living somewhere nice give "access to these this network and opportunities that are just given to you if you look good". Contrast: if you look "like a homeless guy because you don't care in your hyper-spiritual hippie but you're struggling to make money and survive and deep down you actually hate your life nobody's going to come up and talk to you". If you're presentable and "show that you invest in how people perceive you", people approach; "if a billionaire comes up and talks to you and gives you a million dollar opportunity that's available to you now". "That's more of a luck game but it is a game and it affects your mindset it's abundance being able to spend this money knowing that you have the resources and knowledge and education to make it back."
+- **ejemplos:** Mercedes GT63 S; billionaire approaching; hyper-spiritual hippie.
+- **cita:** "if people are aware that they're playing status games then it helps you not become a slave to those things"
+- **terminos:** status game; abundance; luck game
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-224
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 21:03-22:38, 2023-10-02
+- **tension:** ninguna
+
+## U-026-227
+- **tipo:** advertencia
+- **titulo:** Don't let materialism consume you; it's different when the object is what you've built your expertise and meaning around (the mechanic's Ferrari)
+- **desarrollo:** "Just don't let materialism consume you mechanics can enjoy cars because that's their entire life ... I'm not going to judge a mechanic for buying the most fancy Ferrari in the world because that's what they love that's what they've spent so much time developing their mind and expertise around that's what makes life meaningful to them."
+- **ejemplos:** A mechanic buying a Ferrari.
+- **cita:** "just don't let materialism consume you"
+- **terminos:** materialism
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-026-226
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 22:38, 2023-10-02
+- **tension:** ninguna
+
+## U-026-228
+- **tipo:** opinión
+- **titulo:** Tactical stress strategy 5, degeneracy: against the "Huberman cult" and straight-edge absolutism; neurotic health stress may be worse than a drink
+- **desarrollo:** "Strategy number five is another touchy one but it's degeneracy." "A lot of the huberman cult and straight edge people" think nobody should ever drink alcohol or do any recreational drug: "I don't think that in the slightest", while acknowledging addiction and the excuses people can make. He asks you to set aside "your narrow identity and ideology about alcohol" and realize some people can have a drink with dinner "or go out and get screwed up occasionally". Personally: he drank a decent amount in college and a bit after; now "like one two drinks a week at dinner with friends". He mentions how "some people in foreign countries like Italy or whatever ... smoke and they drink excessively and they live longer than the biohackers and people that are overly stressed about their health", reasoning that "the stress is more unhealthy than smoking a cigarette all the time". "If you're so neurotic about just having a drop of alcohol ... that's probably more unhealthy than the guy that's having a drop of alcohol." (These health claims are offered as his impression, without sources.)
+- **ejemplos:** Italians who smoke and drink vs biohackers.
+- **cita:** "if you're so neurotic about just having a drop of alcohol like you're that's probably more unhealthy"
+- **terminos:** degeneracy; Huberman cult; straight edge; neurotic
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-026-217
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 22:38-24:18, 2023-10-02
+- **tension:** ninguna
+
+## U-026-229
+- **tipo:** método
+- **titulo:** How degeneracy works as tactical stress: let loose (even too much), feel the cost of not progressing, then attack with the rebound surge
+- **desarrollo:** "If you feel all pent up and you feel like you aren't making progress but you're working towards a goal then maybe you need to go out maybe you need to have some fun maybe you need to let loose maybe you need to let loose a little bit too much because the next day when you wake up and you feel like [ __ ] and you really see what it's like to not be able to make progress towards your goals you feel the struggle that it takes you don't have ideas ... you're just sitting there stuck and you're like why did I do that and then the next day or two days after when you're feeling better that surge of energy allows you to attack at full force." Condition: you're already working toward a goal and feel pent up.
+- **ejemplos:** The hangover day followed by a surge.
+- **cita:** "that surge of energy allows you to attack at full force"
+- **terminos:** degeneracy; pent up; let loose
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-026-228
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 24:18-24:59, 2023-10-02
+- **tension:** ninguna
+
+## U-026-230
+- **tipo:** método
+- **titulo:** Tactical stress strategy 6, emotional transmutation: allow anger and negative emotions, feel into them, bounce out the other side as eustress
+- **desarrollo:** "Emotional transmutation or allowing yourself to be angry allowing yourself to have those negative emotions and feel into them and bounce back out the other side to use stress in a good way you stress EU stress [eustress] that's a thing a good stress where you are channeling it into a better future."
+- **ejemplos:** ninguno
+- **cita:** "a good stress where you are channeling it into a better future"
+- **terminos:** emotional transmutation; eustress
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-217
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 24:59, 2023-10-02
+- **tension:** ninguna
+
+## U-026-231
+- **tipo:** principio
+- **titulo:** Regret is a necessary part of life: treat regrets as cracks sealed by better future decisions, not as ugly stains
+- **desarrollo:** "Regret is a necessary part of life you can't avoid it and those that try to avoid regrets end up regretting their decisions more because they're like I wasn't supposed to do that", whereas the person who knows regrets are part of life says "I regret that I'm gonna change". "Most people dwell on their regrets as if they can change them when they can't they can only change the choices that they make right now." Two options: "view them as ugly stains that make life worse or view them as cracks that can be sealed with better future decisions".
+- **ejemplos:** ninguno
+- **cita:** "view them as cracks that can be sealed with better future decisions"
+- **terminos:** regret; cracks; ugly stains
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 24:59-25:49, 2023-10-02
+- **tension:** ninguna
+
+## U-026-232
+- **tipo:** principio
+- **titulo:** The pain of where you are must outweigh the pain of what other people think
+- **desarrollo:** "There is one pattern that I've noticed and everyone that is trying to improve their life the pain of where you are must outweigh the pain of what other people think." People will think you're stupid for "stupid decisions" and talk about you when making big changes; "most of the time they just want to entertain themselves they don't want the information behind your decisions and you will learn to ignore them with time". The alternative: "let your dreams die on the Shelf because people say something you don't like that's a great way to end up like everyone else".
+- **ejemplos:** ninguno
+- **cita:** "the pain of where you are must outweigh the pain of what other people think"
+- **terminos:** dreams die on the shelf
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-198
+- **fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md, 25:49, 2023-10-02
+- **tension:** ninguna
+
+# Fuente: Happiness Is A Skill (How To Get Out Of A Rut).md (2023-02-26)
+
+## U-026-233
+- **tipo:** concepto
+- **titulo:** We are slaves to "what should be", and our "should be" is easy: the hot walk vs the sauna shows the difference is expectation and intention
+- **desarrollo:** "We live in a delusion that we want to make progress without it being hard so we become slaves to what should be and our should be is easy." Example: people "go insane at the thought of going on a walk outside when it's too hot but then they will go into a sauna without complaint and the difference here is expectation and intention". He grants the two are different, but "you can go and walk in hot weather without complaining and causing unnecessary pain for yourself". Same with cold: the automatic reaction is to fight, shiver and complain, which makes sense because cold is uncomfortable, "so we focus on the compulsive negative thoughts that flood our brain and we get stuck in this Loop of thinking".
+- **ejemplos:** Hot walk vs sauna; going out into the cold.
+- **cita:** "the difference here is expectation and intention"
+- **terminos:** what should be; expectation; intention; compulsive negative thoughts
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 0:00-0:48, 2023-02-26
+- **tension:** ninguna
+
+## U-026-234
+- **tipo:** principio
+- **titulo:** Align expectations with reality and flow with it: discomfort is part of the human experience, and your interpretation of thoughts causes the suffering
+- **desarrollo:** "If you were to change your expectations to actually align with what reality is and what is happening in the situation that you are in and be with it flow with it you would then start to realize that discomfort is a part of the human experience and you would also find that the interpretation of your thoughts is the culprit of your suffering."
+- **ejemplos:** ninguno
+- **cita:** "the interpretation of your thoughts is the culprit of your suffering"
+- **terminos:** expectations; flow with it; interpretation
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-233
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 0:48, 2023-02-26
+- **tension:** ninguna
+
+## U-026-235
+- **tipo:** historia
+- **titulo:** Three turmoil episodes: a marijuana arrest on campus, a failed e-commerce business funded by debt in his fifth year of college, and the Costa Rica breakup
+- **desarrollo:** He learned the lesson many times. (1) "I got arrested for the possession of marijuana in a college parking garage and they don't take that lightly on campus." (2) "After I'd borrowed two thousand dollars from my dad maxed out my first credit card and took out loans to fund my fifth year of college while I was trying to make multiple businesses work but primarily an e-commerce business work at the time and it failed miserably." (3) In Costa Rica: after hitting a new monthly high in business, with a brand-new girlfriend, "riding the money high", he impulsively decided to fly to Costa Rica for two weeks; "we ended up breaking up the first day we got there and flew back the next day". It seemed a stupid decision, but he only realized it after making the mistake and exposing himself to the experience.
+- **ejemplos:** The three episodes.
+- **cita:** "we ended up breaking up the first day we got there and flew back the next day"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 0:48-2:32, 2023-02-26
+- **tension:** ninguna
+
+## U-026-236
+- **tipo:** principio
+- **titulo:** Some lessons can't be taught: only doing it yourself lets you internalize them
+- **desarrollo:** From the Costa Rica mistake he "learned a very valuable lesson that someone else couldn't teach me someone else could tell me oh don't do that all day long but unless I go and do it myself and learn the actual lesson that's the only way I'm going to internalize it".
+- **ejemplos:** The Costa Rica trip.
+- **cita:** "unless I go and do it myself and learn the actual lesson that's the only way I'm going to internalize it"
+- **terminos:** internalize
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-235
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 2:32, 2023-02-26
+- **tension:** ninguna
+
+## U-026-237
+- **tipo:** concepto
+- **titulo:** Mental turmoil: stress so high attention narrows, small tasks become mountains, every thought an enemy; these moments carry lessons received only by a shift in direction
+- **desarrollo:** All three experiences shared "mental turmoil not just a slight increase in stress but a huge increase in stress to the point of where your attention Narrows and you feel trapped the smallest tasks turn into a mountain of impossibility every thought becomes an enemy that is trying to keep you trapped in this mental game and there ceases to be a light at the end of the tunnel". These phases "aren't fun clearly but these moments in life are the ones that offer a lesson that can only be received with a shift in Direction".
+- **ejemplos:** ninguno
+- **cita:** "the smallest tasks turn into a mountain of impossibility every thought becomes an enemy"
+- **terminos:** mental turmoil; mental game; shift in direction
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-235
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 2:32-3:19, 2023-02-26
+- **tension:** ninguna
+
+## U-026-238
+- **tipo:** proceso
+- **titulo:** The common arc of his struggles: progress-happiness stripped like an abrupt scene cut, feeling lost, inward and outward experimentation, then clarity and a new season of intensity
+- **desarrollo:** "All progress-induced happiness was stripped from me like an Abrupt transition to a new movie scene after the climax I felt lost had little desire to sustain the progress of my previous purpose I'd achieved it and had to move forward I experimented both Inward and outward I tried techniques for inner peace while creating new goals with accompanying education and practice with time the pieces of the puzzle came together brought Clarity and launched me into a new season of intensity."
+- **ejemplos:** ninguno
+- **cita:** "all progress-induced happiness was stripped from me like an Abrupt transition to a new movie scene after the climax"
+- **terminos:** progress-induced happiness; experimented inward and outward; season of intensity
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-237
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 3:19, 2023-02-26
+- **tension:** ninguna
+
+## U-026-239
+- **tipo:** metáfora
+- **titulo:** Knowing your place in the story lets you break the thought bubble and avoid treading water until you're too tired to reach shore
+- **desarrollo:** Why it matters: "so you can identify the point in life that you were at you can break out of this thought bubble you can zoom out see where you're at in the story of your life see the light at the end of the tunnel and avoid treading water for too long before you're too tired to get to shore".
+- **ejemplos:** Treading water.
+- **cita:** "avoid treading water for too long before you're too tired to get to shore"
+- **terminos:** thought bubble; zoom out; story of your life
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-238
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 3:19-4:07, 2023-02-26
+- **tension:** ninguna
+
+## U-026-240
+- **tipo:** concepto
+- **titulo:** Two types of happiness, from achieving goals and from achieving nothing, balanced as peace and progress and upheld by a sense of mastery
+- **desarrollo:** "There are two types of Happiness one is derived from achieving goals the second is derived from achieving nothing but this balance of peace and progress has to be upheld by a sense of mastery otherwise it becomes a shallow Pursuit that will leave you disappointed."
+- **ejemplos:** ninguno
+- **cita:** "this balance of peace and progress has to be upheld by a sense of mastery"
+- **terminos:** peace and progress; sense of mastery; shallow pursuit
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 4:07, 2023-02-26
+- **tension:** ninguna
+
+## U-026-241
+- **tipo:** principio
+- **titulo:** Happiness is a skill: not given but created, and like all skills refined, practiced and adopted into your life
+- **desarrollo:** "Happiness is a skill it is not given but it is created and as with all skills it must be refined practiced and adopted as a part of your life."
+- **ejemplos:** ninguno
+- **cita:** "happiness is a skill it is not given but it is created"
+- **terminos:** happiness is a skill
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-240
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 4:07, 2023-02-26
+- **tension:** ninguna
+
+## U-026-242
+- **tipo:** argumento
+- **titulo:** Happiness isolated stops making sense: it needs an unhappy reference point
+- **desarrollo:** "When we try to isolate and sustain and make sense of this thing called Happiness it ceases to make sense because it can't make sense without an unhappy reference point." "I wouldn't be able to set a goal for the future without having a previous experience like breaking up with my girlfriend in Costa Rica and wasting a lot of money and having to fly back."
+- **ejemplos:** The Costa Rica breakup as a reference point.
+- **cita:** "it can't make sense without an unhappy reference point"
+- **terminos:** unhappy reference point
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-241
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 4:07-4:56, 2023-02-26
+- **tension:** ninguna
+
+## U-026-243
+- **tipo:** argumento
+- **titulo:** The problem with the new age positivity movement: every positive thought holds a negative seed
+- **desarrollo:** "This illustrates the problem with the new age positivity movement you can think positive thoughts all day long but what people fail to realize is that every positive thought holds a negative seed and this is why almost every great success comes after great failure."
+- **ejemplos:** ninguno
+- **cita:** "every positive thought holds a negative seed"
+- **terminos:** new age positivity movement; negative seed
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-242
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 4:56, 2023-02-26
+- **tension:** Complements U-026-182 (2024): goal focus as positive thinking but not delusional positivity.
+
+## U-026-244
+- **tipo:** concepto
+- **titulo:** Being and doing (peace and progress, stillness and movement): full attention in either modality of pure living puts you in the present moment
+- **desarrollo:** "There are two states of mind to become aware of being and doing on a similar note or ... from another perspective that is peace and progress or Stillness and movement and so when your attention is focused on either of these modalities of Pure Living you tap into the present moment so pure peace or pure progress where your attention is fully engaged in either the task at hand or no task at hand."
+- **ejemplos:** ninguno
+- **cita:** "your attention is fully engaged in either the task at hand or no task at hand"
+- **terminos:** being and doing; peace and progress; stillness and movement; pure living; pure peace; pure progress
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-240
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 4:56, 2023-02-26
+- **tension:** ninguna
+
+## U-026-245
+- **tipo:** advertencia
+- **titulo:** Material pursuits without a philosophy or sense of mastery lead to a rude awakening: many change outside but not inside
+- **desarrollo:** "Everyone wants money muscles and a desirable partner the act of achieving those goals feels incredible at the start if you don't have a philosophy or sense of Mastery behind your material Pursuits you're in for a rude awakening even if your actions don't change the why behind them can." Example: "a bodybuilder that got started after a tough breakup can shift his Focus to find meaning in the microcosm of life that training is if they allow their mind to see beyond the identification with the material world". Those who don't, "often acquire their material desires change on the outside but not on the inside many people turn physical 60 years old while still having the mind of a 12 year old going through an emotional puberty".
+- **ejemplos:** Post-breakup bodybuilder; the 60-year-old with a 12-year-old's mind.
+- **cita:** "even if your actions don't change the why behind them can"
+- **terminos:** sense of mastery; microcosm of life; emotional puberty
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-240
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 4:56-5:52, 2023-02-26
+- **tension:** ninguna
+
+## U-026-246
+- **tipo:** fuente-de-tercero
+- **titulo:** Buddhist impermanence: identification with ideology, dogma and static mental constructs is the source of suffering
+- **desarrollo:** "The main Buddhist teaching is that of impermanence that is nothing can be isolated and held static by the mind this includes ideas feelings emotions people locations and everything else that we try to latch onto and expect to stay the same forever." His application: "the identification with ideology dogma and other static mental constructs is the source of our suffering when those things are threatened or attachment to them is threatened like the string is plucked then we are physically threatened".
+- **ejemplos:** A plucked string.
+- **cita:** "the identification with ideology dogma and other static mental constructs is the source of our suffering"
+- **terminos:** impermanence; identification; static mental constructs; attachment
+- **origen:** adaptada-de:Buddhism (impermanence)
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 5:52-6:48, 2023-02-26
+- **tension:** ninguna
+
+## U-026-247
+- **tipo:** concepto
+- **titulo:** The cause of unhappiness: the undisciplined mind latches onto past or future to make the impermanent permanent
+- **desarrollo:** "Thinking is not bad ... especially when it is critical but when gone unchecked compulsive thoughts can create a personal reality of inescapable turmoil." "When one is still their mind wants to move when one is moving their mind wants to be still without deliberate practice the mind will try to latch on to the past or the future in an attempt to make the impermanent permanent this is the cause of unhappiness."
+- **ejemplos:** ninguno
+- **cita:** "the mind will try to latch on to the past or the future in an attempt to make the impermanent permanent this is the cause of unhappiness"
+- **terminos:** compulsive thoughts; deliberate practice; make the impermanent permanent
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-246
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 6:48, 2023-02-26
+- **tension:** ninguna
+
+## U-026-248
+- **tipo:** método
+- **titulo:** Don't demonize unhappiness: observe it, lean into it, let it point a finger at the moon, and lean into the coming high
+- **desarrollo:** Unhappiness "is not to be demonized because that is against the point when you feel unhappy observe that feeling lean into it let it point a finger at the moon and present the lesson that life is trying to teach you from that low lean into the coming high". (The "finger at the moon" image is used without attribution.)
+- **ejemplos:** ninguno
+- **cita:** "let it point a finger at the moon and present the lesson that life is trying to teach you"
+- **terminos:** finger at the moon; lean into it
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-247
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 6:48-7:36, 2023-02-26
+- **tension:** ninguna
+
+## U-026-249
+- **tipo:** método
+- **titulo:** The activities that bring blissful being or doing are personal: find them by observe, hypothesize, experiment, fail, learn, repeat, forever
+- **desarrollo:** "The activities that launch you into these Blissful states of mind either being or doing are personal you must observe hypothesize experiment fail learn and repeat this never-ending process that is even once you've reached some form of objective success because even that isn't permanent."
+- **ejemplos:** ninguno
+- **cita:** "you must observe hypothesize experiment fail learn and repeat"
+- **terminos:** blissful states; being or doing
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-244
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 7:36, 2023-02-26
+- **tension:** ninguna
+
+## U-026-250
+- **tipo:** heurística
+- **titulo:** If you aren't tired at bed and excited when you wake up, you need intensity and goals
+- **desarrollo:** "If you aren't tired when you go to bed and excited when you wake up you need intensity and goals."
+- **ejemplos:** ninguno
+- **cita:** "if you aren't tired when you go to bed and excited when you wake up you need intensity and goals"
+- **terminos:** intensity
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 7:36, 2023-02-26
+- **tension:** ninguna
+
+## U-026-251
+- **tipo:** principio
+- **titulo:** The secret: engage the mind with the impermanence of life and flow with it, instead of forcing it into a permanent structure
+- **desarrollo:** "The secret is to engage the mind with the impermanence of life and flow with it rather than the mind trying to fit the impermanence of life into some form of permanent structure."
+- **ejemplos:** ninguno
+- **cita:** "engage the mind with the impermanence of life and flow with it"
+- **terminos:** impermanence; flow
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-247
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 7:36, 2023-02-26
+- **tension:** ninguna
+
+## U-026-252
+- **tipo:** concepto
+- **titulo:** The season of intensity: everything clicks, absolute clarity, not enough hours, pure progress laying bricks toward your vision
+- **desarrollo:** He speaks of "the cyclical seasons of intensity and experimentation". A season of intensity: "the universe aligns everything clicks and you act on an idea that makes perfect sense you have Clarity on your goals reaching new levels of skill and enjoying the process you feel a sense of purpose and it seems like there isn't enough time in the day but you wouldn't change it for a thing the feeling of pure progress is unmatched no distractions absolute Clarity placing one two three bricks down to build your vision for the future". It makes sense to fill days with activities that sustain this; when we can't, we resort to peace, balancing peace and progress.
+- **ejemplos:** ninguno
+- **cita:** "the feeling of pure progress is unmatched"
+- **terminos:** season of intensity; season of experimentation; pure progress
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-244
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 7:36-8:33, 2023-02-26
+- **tension:** ninguna
+
+## U-026-253
+- **tipo:** argumento
+- **titulo:** The real problem is the season of feeling lost, not seen as opportunity; mastering your mind there expedites the next season of intensity
+- **desarrollo:** Seasons of intensity "aren't really the problem" because they happen after a season of feeling lost; "that is exactly the problem here is those seasons of feeling lost because people don't perceive that situation as an opportunity". In them "you don't really have a purpose to work towards you don't have progress to be made you're just in this grind of trying to gather pieces and preparing yourself for that next season of intensity". The mind opens to mental turmoil "when either a massive shift happens or you just gradually decline after a season of progress into this low point where you have the possibility to get stuck in a rut". "If you can master your mind in these periods of struggle then the negativity ceases to be so negative", you engage attention in the right things, gain a better feeling and more sense of control, and "it expedites the process to reaching another stage or season of intensity".
+- **ejemplos:** ninguno
+- **cita:** "people don't perceive that situation as an opportunity"
+- **terminos:** season of feeling lost; rut; mental turmoil; season of intensity
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-252
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 8:33-10:18, 2023-02-26
+- **tension:** ninguna
+
+## U-026-254
+- **tipo:** principio
+- **titulo:** Self-experimentation is the only way to solve problems for good; prescribed solutions are a guessing game and not tailor-fit
+- **desarrollo:** "During these seasons of feeling lost or really at any time self-experimentation is the only way to solve your problems for good people can diagnose and prescribe a solution to your problems but that's usually a guessing game of back and forth of trying to align goals and figure out what the best solution for you is but even a prescribed solution can be given to anyone it's not tailor fit to your situation meaning that it isn't going to be sustainable and that you're going to have to find a new anyway so it's better to just self-experiment from the start."
+- **ejemplos:** ninguno
+- **cita:** "it's better to just self-experiment from the start"
+- **terminos:** self-experimentation; prescribe; tailor fit
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-253
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 10:18, 2023-02-26
+- **tension:** ninguna
+
+## U-026-255
+- **tipo:** ejemplo
+- **titulo:** The vegan convert: results attributed to the ideology came from nutrient-dense food, identity-driven actions, and the clarity of a regimen
+- **desarrollo:** Imagine you're in a season of struggle with low energy, a problem you want to solve, so "you're subconsciously in search for a solution". Someone pops onto your timeline "with confidence and conviction saying something like the vegan diet is going to solve all of these specific problems", "because that's what marketers do and there's not a problem with this", but you must think critically and holistically, "and not just latch on to this diet ideology". Common path (he has done similar, "not specifically with veganism"): "from this unenlightened state you clean up your diet you follow their advice as if it were law and you see the results", then you "attach to that diet ideology and become a prophet of it", attribute results to that method, and "defend that ideology or that identity ... like their life depended on it ... since their identity is threatened". Reality: "what happened is independent of veganism": you ate more nutrient-dense foods; "your actions work to survive your vegan identity"; "you had Clarity not chaos by following a disciplined nutrition regimen". "Yeah if you clean up your diet you're going to have a bit more energy but most of it is psychic energy being freed up so you actually have the space and open focus and you're not so narrowed in and stressed on solving the problem."
+- **ejemplos:** Veganism.
+- **cita:** "most of it is psychic energy being freed up"
+- **terminos:** diet ideology; prophet; identity; psychic energy; clarity not chaos
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-254
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 10:18-12:48, 2023-02-26
+- **tension:** ninguna
+
+## U-026-256
+- **tipo:** método
+- **titulo:** Rotate approaches (vegan, carnivore, flexible, keto, a month each) to reveal fundamentals, then refine a system fit to your nature
+- **desarrollo:** If you weren't attached and tried "veganism for a month carnivore for another month flexible dieting for another month keto for another month you would make connections between the diets to reveal the fundamentals of Health pattern recognition equals dopamine it would feel good doing this you'd pick and choose certain methodologies that you enjoy meaning they will bring sustainable results next you'd refine A system that fits your individual nature to Perfection". "You're adopting these different perspectives and seeing them for what they are which are impermanent and good guidelines and then you would test them out and pull the things that work best for you."
+- **ejemplos:** One month each of vegan, carnivore, flexible dieting, keto.
+- **cita:** "pattern recognition equals dopamine"
+- **terminos:** fundamentals; pattern recognition; impermanent good guidelines
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-255
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 12:48-13:36, 2023-02-26
+- **tension:** ninguna
+
+## U-026-257
+- **tipo:** método
+- **titulo:** In lost periods, experiment inward (for peace) and outward (for progress), starting inward so you can act without fearing the world will end
+- **desarrollo:** "What we need to do now is separate two again right so there's being and becoming or being and doing or peace and progress", and "in these periods of feeling lost we need to experiment Inward and we need to experiment outward". Start inward, "experimenting for the sake of peace", "so you can actually gain perspective and then be able to experiment outward without just worrying that the world is going to end".
+- **ejemplos:** ninguno
+- **cita:** "we need to experiment Inward and we need to experiment outward"
+- **terminos:** experiment inward; experiment outward; being and becoming
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-244, U-026-254
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 13:36, 2023-02-26
+- **tension:** ninguna
+
+## U-026-258
+- **tipo:** argumento
+- **titulo:** First reason you feel lost: no system to maintain a baseline of clarity; in a new chapter, clarity creation is top priority
+- **desarrollo:** "You feel lost because you don't have a system to maintain a baseline level of clarity in your life and when you enter a new chapter of life that is when the page turns or the movie scene cuts to a sad point in life clarity creation should be a top priority that alone will order Consciousness to the point of you gaining a sense of control over your future."
+- **ejemplos:** ninguno
+- **cita:** "clarity creation should be a top priority"
+- **terminos:** baseline level of clarity; clarity creation; order consciousness
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-257
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 13:36-14:30, 2023-02-26
+- **tension:** ninguna
+
+## U-026-259
+- **tipo:** método
+- **titulo:** Inward experimentation techniques: reading, meditation, observation, self-inquiry, contemplation, long walks
+- **desarrollo:** "To go inward the main techniques that you're going to be experimenting with are immaterial philosophy spirituality or emotional intelligence techniques the techniques you can experiment with include but are not limited to reading meditation observation self-inquiry contemplation long walks these activities engage your attention with the present moment." The goal: incorporate the ones that work best (or create your own) to "sustain this inner peace throughout your day": "you need something every single day to help with your mental health and Clarity".
+- **ejemplos:** ninguno
+- **cita:** "you need something every single day to help with your mental health and Clarity"
+- **terminos:** experiment inward; immaterial; self-inquiry; contemplation
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-257
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 14:30-16:10, 2023-02-26
+- **tension:** ninguna
+
+## U-026-260
+- **tipo:** método
+- **titulo:** Progressive overload for inner skills: raise the challenge as skill grows (meditation 5, 10, 20 minutes) to avoid anxiety or boredom
+- **desarrollo:** "As with all skills you improve with Progressive overload like you would weights in a gym and that is by gradually increasing the level of challenge as your skill increases so that you don't get anxious or bored if the challenge is too high then you get anxious and you're not going to do it if the challenge is too low then you get bored and you're not going to do it." Meditation: "you don't start with an hour-long meditation right you start with five minutes you go to 10 minutes you go to 20 minutes because if you sit there for an hour it may be beneficial but you're not going to want to do it the next day you're not working the system into your day you're not making it habitual".
+- **ejemplos:** Meditation 5 -> 10 -> 20 minutes; gym weights.
+- **cita:** "you improve with Progressive overload like you would weights in a gym"
+- **terminos:** progressive overload; anxious or bored; habitual
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-259
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 14:30-16:10, 2023-02-26
+- **tension:** ninguna
+
+## U-026-261
+- **tipo:** proceso
+- **titulo:** The author's inward practice: about 20,000 steps a day, walking for everything, writing newsletters on his phone
+- **desarrollo:** "I walk like 20 000 steps a day sometimes less sometimes more ... I go on walks all the time if I'm bored go on walk if I'm not bored go on a walk if I have nothing to do go on a walk if I need to take a business call if I need to write an article go on a walk pull out my phone I literally write my newsletters on my phone." He adds that this isn't instant: "this is going to take time we're forming a foundation here for life".
+- **ejemplos:** Writing newsletters on his phone during walks.
+- **cita:** "I literally write my newsletters on my phone"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-026-259
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 16:10, 2023-02-26
+- **tension:** ninguna
+
+## U-026-262
+- **tipo:** argumento
+- **titulo:** Second reason you feel lost: you lost connection with a purpose, goal or routine that ordered your life (the move-to-a-new-city example)
+- **desarrollo:** "The second reason that you feel lost is that you lost connection with a purpose goal or routine that brought order to your life." Example: you flip into a new chapter and move location, "now you're completely out of routine": you lack the mental system of "I'm gonna walk to the coffee shop in the morning I'm going to take this exact path"; you ask which coffee shop, which way today, and "slowly form this habit that ... frees up more mental space". "But that's just the thing you open yourself up to potential chaos."
+- **ejemplos:** Choosing a new coffee shop and route after moving.
+- **cita:** "you lost connection with a purpose goal or routine that brought order to your life"
+- **terminos:** routine; order; potential chaos
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-258
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 16:10-16:52, 2023-02-26
+- **tension:** ninguna
+
+## U-026-263
+- **tipo:** método
+- **titulo:** Outward experimentation: stay mindful of hints of a new purpose and set a new goal to perceive life through its lens (the get-fit example)
+- **desarrollo:** Still in the lost period, "trying to get ourselves out by pursuing a new goal", "you need to stay mindful of hints at a new purpose and don't let the lessons of life pass you by you need to set a new goal that you can perceive life situations through the lens of that goal again this leads to pattern recognition dopamine collecting puzzle pieces until the image is clear". Example: with the goal "I want to get fit", you notice "there's a gym right there", "there's a yoga studio right there", "this tweet ... has given me some great ideas for getting fit"; without that conscious goal, you wouldn't register them as important.
+- **ejemplos:** Noticing a gym, a yoga studio, a fitness tweet.
+- **cita:** "collecting puzzle pieces until the image is clear"
+- **terminos:** experiment outward; lens of that goal; pattern recognition; puzzle pieces
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-262
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 16:52-17:37, 2023-02-26
+- **tension:** ninguna
+
+## U-026-264
+- **tipo:** ejercicio-del-autor
+- **titulo:** Identify the gap and your most pressing problem within the eternal markets (health, wealth, relationships, happiness)
+- **desarrollo:** "Identify the gap between you and your goals and note problems standing in the way then study build and experiment in alignment with that goal." "Zoom out and think what is the most pressing problem in your life right now." If it's unhappiness, lack of peace or mental turmoil, refer to inward experimentation. Otherwise, unless you've transcended these things, it falls "within the Eternal markets of health wealth relationships and happiness". Questions: Is it self-esteem? Do you need to get in the gym? Do you feel physically sluggish all the time? No money in your bank account? Not fulfilled in your work? "You can sit with this and contemplate."
+- **ejemplos:** The diagnostic questions.
+- **cita:** "what is the most pressing problem in your life right now"
+- **terminos:** gap; eternal markets; most pressing problem
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-263
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 17:37-18:22, 2023-02-26
+- **tension:** ninguna
+
+## U-026-265
+- **tipo:** heurística
+- **titulo:** Check for a problem that begets your problem: you can't go from zero to five, only from zero to one
+- **desarrollo:** "When you identify this problem are you actually able to work towards this problem right now or is there another problem that begets that problem that you have to solve first." Money: the goal might be starting a business, but "do you have time ... do you have the bandwidth to start a business possibly possibly not". If not, experiment with other techniques first: "starting a budget learning about financing learning how to get a better job studying a new skill so that you can eventually start a business or get a better job right you can't go from zero to five you have to go from zero to one".
+- **ejemplos:** Budget, financing, better job, new skill before a business.
+- **cita:** "you can't go from zero to five you have to go from zero to one"
+- **terminos:** problem that begets that problem; bandwidth; zero to one
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-264
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 18:22-19:09, 2023-02-26
+- **tension:** ninguna
+
+## U-026-266
+- **tipo:** ejemplo
+- **titulo:** Relationships: be honest about whether you're financially or spiritually positioned for a lifelong partner; sleeping around just veils the current problems
+- **desarrollo:** With self-esteem or relationships as the problem, wanting a boyfriend or girlfriend: "does that even make sense right you have to step back and think be honest with yourself are you in the financial or even spiritual position to be able to sustain a lifelong partner". "If your goal is different and you just want to sleep around go ahead try it out you learn from your mistakes as I have in the past but that does not take away from the fact that if you do that and you eventually want a lifelong partner ... you're putting a veil in front of your current problems and you're still going to have to solve it." Once you identify the goal, "research and experiment with techniques that allow you to reach it".
+- **ejemplos:** ninguno
+- **cita:** "you're putting a veil in front of your current problems"
+- **terminos:** lifelong partner; veil
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-265
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 19:09-19:53, 2023-02-26
+- **tension:** ninguna
+
+## U-026-267
+- **tipo:** concepto
+- **titulo:** A season of experimentation is a reframe of a season of struggle: clarity culminates gradually, then the last puzzle piece clicks at once
+- **desarrollo:** "As you progress through this season of experimentation which is a reframe of a season of struggle Clarity begins to culminate right it isn't immediate even though when that last puzzle piece clicks into place it is immediate and then that's when you launch into a season of progress."
+- **ejemplos:** ninguno
+- **cita:** "this season of experimentation which is a reframe of a season of struggle"
+- **terminos:** season of experimentation; season of struggle; season of progress; last puzzle piece
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-263
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 19:53-20:41, 2023-02-26
+- **tension:** ninguna
+
+## U-026-268
+- **tipo:** concepto
+- **titulo:** The progress curve: all highs come down a bit, but each new low and high sit above the last, raising your baseline
+- **desarrollo:** In seasons of progress you hit new highs; experimenting outward and inward "you're going to reach new baselines of happiness in either direction like hitting a new monthly high in business Revenue but you have to understand that all highs come down a bit". Progress is "a curve where it's like up and then down but higher than last time and then up higher than last time". The aim is to sustain a certain baseline, keeping in mind "the importance of systems". (The transcript also says "down lower than last time" at one point, which appears to be a slip.)
+- **ejemplos:** New monthly revenue highs.
+- **cita:** "all highs come down a bit"
+- **terminos:** baseline; progress curve; systems
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-267
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 20:41, 2023-02-26
+- **tension:** ninguna
+
+## U-026-269
+- **tipo:** metáfora
+- **titulo:** Bulking and cutting with mental fat: without a proper system, cutting loses the muscle you built
+- **desarrollo:** "It's like bulking and cutting and bodybuilding when you bulk ... at the start you're like I'm eating more food my lifts are going up and then you put on a bit too much fat and in this case we're talking about mental fat and then you start to feel sluggish groggy" and want to cut back "and just start from scratch but from a place of Newfound muscle ... the new Baseline level of muscle that I've built". "When it comes time to cut without a proper system in place you're going to lose a lot of that muscle you can't just cut super quick and try to reach this other Baseline especially in like business revenue", and similar connections apply in relationships.
+- **ejemplos:** Bulking and cutting; business revenue; relationships.
+- **cita:** "when it comes time to cut without a proper system in place you're going to lose a lot of that muscle"
+- **terminos:** bulking; cutting; mental fat; baseline
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-268
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 20:41-22:16, 2023-02-26
+- **tension:** In the later 2023 video (U-026-115) cutting maps to the clarity phase and maintenance to consistency; here cutting is the transition out of progress, where systems protect gains.
+
+## U-026-270
+- **tipo:** método
+- **titulo:** At a new high, separate signal from noise: identify the levers getting results and systemize them into habits to sustain higher baselines
+- **desarrollo:** "As you're turning the final page ... from a season of progress into a season of experimentation when you hit a new monthly high and you know it's going to come back down you need to be able to separate signal from noise what are the levers that you have been pursuing in your day and what just doesn't belong there and when you focus on the levers that are actually getting you results and you're able to systemize and make those habitual in your day make them a part of your life then you can start to sustain those higher baselines."
+- **ejemplos:** ninguno
+- **cita:** "what are the levers that you have been pursuing in your day and what just doesn't belong there"
+- **terminos:** signal from noise; levers; systemize; higher baselines
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-269
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 22:16, 2023-02-26
+- **tension:** ninguna
+
+## U-026-271
+- **tipo:** principio
+- **titulo:** The whole loop (experiment, gain clarity on a new chapter, push to new highs, systemize) is the essence of life and another view of the scientific method
+- **desarrollo:** "The entirety of this process of experimenting to solve your problems gaining Clarity on a new chapter in life pushing to new highs and systemizing the process to maintain results is the essence of life itself people have just lost touch with it and in fact it's just another perspective on the scientific method." He closes: "I am but another human that pursued a goal figured it out and in passing down my lessons I would encourage you to do the same."
+- **ejemplos:** ninguno
+- **cita:** "is the essence of life itself people have just lost touch with it"
+- **terminos:** essence of life; scientific method
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-270
+- **fuente:** Happiness Is A Skill (How To Get Out Of A Rut).md, 22:16-23:00, 2023-02-26
+- **tension:** ninguna
+

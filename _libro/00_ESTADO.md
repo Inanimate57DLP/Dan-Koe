@@ -3,7 +3,7 @@
 - **CORPUS_PATH resuelto:** `.` (raíz del repositorio). La ruta configurada `Transcripts YouTube Referentes/Dan Koe` no existe; los transcripts están en la raíz.
 - **Directorio de trabajo:** `_libro/` (en la raíz)
 - **Rama de trabajo:** `libro-maestro-dan-koe` (creada desde `origin/main`, commit 1396995)
-- **Último commit:** dcd0ae7 Fase 2 (preparación): taxonomía de trabajo; avance parcial de lotes en curso
+- **Último commit:** 51467dd Fase 1: extracción del lote 025
 - **Fase actual:** Fase 1 en curso (extracción con subagentes, 4 en paralelo)
 
 ## Números
@@ -35,7 +35,8 @@
 - lote-023: 273 unidades ✔
 - lote-024: 244 unidades ✔
 - lote-025: 225 unidades ✔
-- **Total parcial:** 5552 unidades en 25/27 lotes
+- lote-026: 271 unidades ✔
+- **Total parcial:** 5823 unidades en 26/27 lotes
 
 ## Fase 4 — capítulos escritos
 (ninguno todavía)
