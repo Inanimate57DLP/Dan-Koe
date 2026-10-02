@@ -204,7 +204,7 @@ Sin hallazgos. Las 27 entradas del Anexo C están bien atribuidas:
 - Einstein, con la tabla de atribución.
 - La teoría de las ventanas rotas, con el 50 % no rastreable.
 - WWJD y Christ Consciousness.
-- La declaración de Koe de haber acuñado "anti-vision", verificada en U-024 ("one concept that I've coined").
+- La declaración de Koe de haber acuñado "anti-vision", verificada en U-024-082 ("one concept that I've coined").
 
 ### 7. Argumentos por capas reducidos a su conclusión
 
