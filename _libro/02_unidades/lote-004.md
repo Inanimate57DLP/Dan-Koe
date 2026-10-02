@@ -1696,3 +1696,343 @@
 - **fuente:** How To Grow An Audience If You Have 0 Followers (It's Only 2 Habits).md, 37:18-38:02, 2026-05-14
 - **tension:** ninguna
 
+# Fuente: How To Build An Audience With Zero Followers (What They Don’t Tell You).md (2023-10-15)
+
+## U-004-131
+- **tipo:** principio
+- **titulo:** Learn to gain followers from someone who has done it; we wrongly assume big creators were always big because we can't zoom out.
+- **desarrollo:** Dan opens with "a bit of narcissism" ("I have a lot of followers") to frame the conversation: "it's important that you learn how to gain followers from someone that's gained followers rather than someone who has zero followers" — "theory and practice, you need both and you need results as well." He didn't always have a large readership, but "human nature is human nature": when we see someone with many followers or authority (people we idolize, authors, people on TV), "we assume that they've always been like that... we can't fill in the rest of the story because most people don't have the ability or haven't trained the ability to zoom out and actually see that other people are human."
+- **ejemplos:** ninguno
+- **cita:** "most people don't have the ability or haven't trained the ability to zoom out and actually see that other people are human"
+- **terminos:** zoom out
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 0:00-0:46, 2023-10-15
+- **tension:** ninguna
+
+## U-004-132
+- **tipo:** historia
+- **titulo:** Dan's first social media attempt: as a photographer spamming Instagram hashtags, he gained no followers.
+- **desarrollo:** "My first attempt at social media was as a photographer. I would post images on Instagram and just spam hashtags and hope and pray that I would someday gain 100,000 followers." "I did what people told me to do and I gained no followers," even though he thought his images were at least decent compared to others who were growing — "so obviously there was a problem there."
+- **ejemplos:** ninguno
+- **cita:** "I posted my images I used the hashtags I did what people told me to do and I gained no followers"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 0:46-1:38, 2023-10-15
+- **tension:** ninguna
+
+## U-004-133
+- **tipo:** historia
+- **titulo:** Shiny object syndrome led Dan from photography to photo editing and surreal digital art, inspired by Visuals of Julius.
+- **desarrollo:** "As shiny object syndrome goes," Dan became more interested in editing photos than taking them, binge-watching Lightroom and Photoshop tutorials. About five years earlier he found an Instagram creator, Visuals of Julius, who posted surreal images — "eye candy," galaxies, mountains and clouds, clearly art but fairly realistic, scroll-stopping. He wanted to do that; he borrowed Adderall from his roommate and sat in his room blending stock and his own images, "6, 7, 8 hours in my room forgetting to eat, obsessed with what I was creating."
+- **ejemplos:** Visuals of Julius' surreal composites.
+- **cita:** "I would spend 6 Seven 8 hours in my room forgetting to eat obsessed with what I was creating"
+- **terminos:** shiny object syndrome
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-004-132
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 0:46-2:31, 2023-10-15
+- **tension:** ninguna
+
+## U-004-134
+- **tipo:** principio
+- **titulo:** The one and only principle of social media growth: your content means nothing on its own; it must be put in front of people, shared by larger audiences — "people, people, people, eyeballs."
+- **desarrollo:** With digital art, "this is when I started to understand how to actually grow": "my beautiful images... meant absolutely nothing on their own. I couldn't just post and hope that our Lord and savior the algorithm would save me. I had to get my content in front of people. I had to get my content shared by people with larger audiences than me." "When you zoom out this is the one and only principle for social media growth," even for X/Twitter Spaces or being hosted on someone's podcast: "people people people, eyeballs eyeballs eyeballs."
+- **ejemplos:** Twitter Spaces; being a podcast guest.
+- **cita:** "I couldn't just post and hope that our Lord and savior the algorithm would save me"
+- **terminos:** eyeballs; get eyes on your content
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-004-133
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 2:31-3:20, 2023-10-15
+- **tension:** ninguna
+
+## U-004-135
+- **tipo:** argumento
+- **titulo:** "There's writing and there's people": writing won't get seen without people, and introversion is no excuse.
+- **desarrollo:** Because Dan teaches writing, he teaches social media ("that's how you share your writing"). "You can't just post your writing; this is what I try to hammer in people's heads... getting eyes on your content." It angers him that people neglect it: "there's writing and there's people. Your writing will not get seen without people, and people think they're so introverted that they can't get in front of people. You have to use the strategies that get your writing in front of people."
+- **ejemplos:** ninguno
+- **cita:** "there's writing and there's people your writing will not get seen without people"
+- **terminos:** writing and people
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-004-134
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 3:20, 2023-10-15
+- **tension:** ninguna
+
+## U-004-136
+- **tipo:** framework
+- **titulo:** Three things you need for success: (1) what you do and whether it's valuable, (2) how many people know what you do, (3) whether it's valuable to the people who know.
+- **desarrollo:** Written in his notes after an idea at the gym: "three things that you need for success are one what you do — what do you make, what do you do, is it valuable; two how many people know what you do; three is the thing that you do valuable to the people that know what you do, and if it's not how do you make it valuable to the people that know what you do — that's where marketing and sales comes in." "With consistency and effort and improving the thing that you do and increasing the amount of people that know what you do, that's success."
+- **ejemplos:** ninguno
+- **cita:** "is the thing that you do valuable to the people that know what you do and if it's not how do you make it valuable... that's where marketing and sales comes in"
+- **terminos:** marketing and sales
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-004-135
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 3:20-4:00, 2023-10-15
+- **tension:** ninguna
+
+## U-004-137
+- **tipo:** caso
+- **titulo:** Curation accounts in digital art grew by sharing others' best art (leverage without creating); artists got featured via their hashtag, comments, or networking.
+- **desarrollo:** In digital art (and still in business niches, e.g., "business mindset" quote pages on Instagram), curation accounts shared other people's art and grew; "since they were choosing the best art to post they grew faster because they didn't really have to create art, they had a lot more leverage to build an audience" — though "that doesn't necessarily equal monetization unless the artists are paying them." Ways to get seen by them: use their specific hashtag (e.g., "#agameoftones," an account), consistently comment on their account, or network — DM them, use "the non-needy networking process."
+- **ejemplos:** A Game of Tones; business mindset quote pages.
+- **cita:** "they didn't really have to create art they had a lot more leverage to build an audience"
+- **terminos:** curation accounts; non-needy networking process; leverage
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-004-134
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 4:00-4:51, 2023-10-15
+- **tension:** ninguna
+
+## U-004-138
+- **tipo:** dato
+- **titulo:** In two months of getting shared (10-20 times by 100K-500K accounts), Dan gained about 2,500 followers.
+- **desarrollo:** He was consistent "for around 2 months," and "if I remember correctly" his posts got shared by many small accounts "but maybe 10 to 20 times on big massive accounts that had 100K to 500K followers," all digital art pages. "In my first two months by doing that and getting eyes on my content I gained around 2,500 followers."
+- **ejemplos:** ninguno
+- **cita:** "in my first two months by doing that and getting eyes on my content I gained around 2500 followers"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-004-137
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 4:51-5:38, 2023-10-15
+- **tension:** ninguna
+
+## U-004-139
+- **tipo:** argumento
+- **titulo:** The first followers are the hardest: no social proof, authority or content bank, and people don't follow low-count accounts.
+- **desarrollo:** "Those first however many followers are the hardest. You don't have any social proof, you don't have any authority, you don't have any content built up and people just don't like to follow people that have a low follower count." "It's a heavy grind that you have to overcome with certain strategies." Visiting a 100-follower account, "even if it's the best content in the world," people think "he probably hasn't been doing this long enough, maybe that was a one-off post... he's not that important." With 100,000, "they could post something terrible" and visitors think "he must be important and then they follow without even questioning it."
+- **ejemplos:** 100 vs. 100,000 follower profile visits.
+- **cita:** "people just don't like to follow people that have a low follower count"
+- **terminos:** social proof; authority
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-004-138
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 5:38-6:20, 2023-10-15
+- **tension:** ninguna
+
+## U-004-140
+- **tipo:** advertencia
+- **titulo:** Dan burned out at 2,500 followers: daily composites took too long, and he had no vision, no marketing and sales skills, and no product.
+- **desarrollo:** "At 2,500 followers I burnt out and quit because it took so long to create daily Photoshop composites and I just didn't really have a vision for the account and I didn't know marketing and sales, I didn't know how to create a product." In hindsight: "If I would have just emulated Visuals of Julius... I would have created a course just based around my top images... and showed people how to create them," enough to monetize and expand.
+- **ejemplos:** A course on how to create his top images.
+- **cita:** "I just didn't really have a vision for the account and I didn't know marketing and sales I didn't know how to create a product"
+- **terminos:** vision
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-004-139
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 6:20-7:05, 2023-10-15
+- **tension:** ninguna
+
+## U-004-141
+- **tipo:** heurística
+- **titulo:** Lesson to artists: start monetizing with the low-hanging fruit (tutorials, premium tutorials as a course) to free up time to refine and grow.
+- **desarrollo:** "When you go and look at most artists they usually just have a bank of tutorials and premium tutorials as a course and that's how they monetize." Artists think "I have to monetize my music, I have to monetize this this and this" — "just start with the low hanging fruit, like get a product out there and monetize so you can free up time to actually spend refining and growing your business."
+- **ejemplos:** Tutorial banks and premium tutorial courses.
+- **cita:** "just start with the low hanging fruit like get a product out there and monetize so you can free up time"
+- **terminos:** low hanging fruit
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-004-140
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 7:05, 2023-10-15
+- **tension:** ninguna
+
+## U-004-142
+- **tipo:** definición
+- **titulo:** "Writing" on social media: anything written — captions, text-on-image posts, tweets, LinkedIn posts, reel and YouTube scripts — a way to grow without posting your body or designs.
+- **desarrollo:** The video belongs to Dan's "digital writer series" (after "how to make a million dollars as a digital writer"). "By writing I mean anything that is written on social media: captions, Instagram posts with text on the image, tweets, LinkedIn posts, reel scripts, YouTube scripts, etc." — "how you can start writing on social media and growing an audience without having to post pictures of your body or images or designs."
+- **ejemplos:** ninguno
+- **cita:** "by writing I mean anything that is written on social media"
+- **terminos:** digital writer
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 8:32-9:18, 2023-10-15
+- **tension:** ninguna
+
+## U-004-143
+- **tipo:** concepto
+- **titulo:** Three ways creators fail: posting and blaming the algorithm, "art pieces that never get purchased," and not doubling down on their best ideas.
+- **desarrollo:** "Social media growth is so straightforward that everyone overcomplicates it or they don't pay attention to it at all." (1) "Some people post and post and post just to get mad at the algorithm for not spreading their content." (2) Others "know how to grow and they are intelligent individuals but their posts are like art pieces that never get purchased: the artist thinks they are the best thing in the world but the market couldn't care less." (3) Others "grow a bit but they don't know how to double down on their best ideas and continue that growth — they forget the levers that allowed them to grow in the first place."
+- **ejemplos:** ninguno
+- **cita:** "their posts are like art pieces that never get purchased the artist thinks they are the best thing in the world but the market couldn't care less"
+- **terminos:** double down; levers
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-004-134
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 9:18, 2023-10-15
+- **tension:** ninguna
+
+## U-004-144
+- **tipo:** framework
+- **titulo:** The big-picture four steps to grow on social media: (1) write persuasive content, (2) get eyes on it, (3) iterate on ideas with data, (4) create depth with long form.
+- **desarrollo:** Order and relationships: Step 1 — persuasive content (capture, hold, deliver value on attention). Step 2 — get eyes on your content: "your content is meaningless unless you attempt and put effort into getting eyes on your content"; writing into the void is "okay... for practice but eventually you have to just get out there." Step 3 — iterate with data: "you can only reach this step if you have eyes on your content," since you don't know what performs best otherwise. Step 4 — "down the road a bit": create depth and span with your best ideas through long-form content. Each step depends on the previous.
+- **ejemplos:** See U-004-145 to U-004-148.
+- **cita:** "your content is meaningless unless you attempt and put effort into getting eyes on your content"
+- **terminos:** persuasive content; get eyes on your content; iterate; depth and span
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-004-134
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 9:18-13:47, 2023-10-15
+- **tension:** In the 2026 video (U-004-097) Dan compresses growth into two levers (validated content + networking).
+
+## U-004-145
+- **tipo:** definición
+- **titulo:** Persuasive content = content that captures, holds and delivers value on attention.
+- **desarrollo:** "The key word here is persuasive: you have to capture, hold and deliver value on attention. You can't just write whatever you want and expect it to capture, hold and deliver value on attention." He reuses this phrase as the standard everywhere (replies, quote posts), e.g., a reply must "capture, hold and deliver value on attention to the point where they click on your profile."
+- **ejemplos:** ninguno
+- **cita:** "you have to capture hold and deliver value on attention"
+- **terminos:** capture, hold and deliver value on attention; persuasive
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-004-144
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 9:18-10:03, 2023-10-15
+- **tension:** ninguna
+
+## U-004-146
+- **tipo:** framework
+- **titulo:** Six elements of persuasive content — hook, big problem, clear solution, big benefit, confidence/polarization, novel perspective — check at least 3-4 per post.
+- **desarrollo:** (1) Hook: "be mindful as to whether or not your first sentence will grab their attention"; beyond words, "the structure and design of the post can do this, even on X." (2) Big problem: "imply or state a problem that people can relate to, don't make it too high level." (3) Clear solution: "an actionable way to overcome the problem, preferably with a unique way of doing so from personal experience." (4) Big benefit: "imply or state a desirable benefit that people will receive from your advice." (5) Confidence or polarization: "stand firm in your beliefs but be willing to change them; nobody wants to follow someone who doesn't sound confident or can't choose a side... you will get hate like everyone else." (6) Novel perspective or big idea: "this is why reading or consuming content is important"; explaining an idea in a non-normal way "will give your readers a dopamine hit and advance their understanding." Use: screenshot/save these; when writing "check the box of at least three to four of them at the start," then develop the skill and "create your own rules of the game."
+- **ejemplos:** ninguno
+- **cita:** "if you can find a way of explaining an idea that isn't normal it will give your readers a dopamine hit and Advance their understanding"
+- **terminos:** hook; big problem; clear solution; big benefit; confidence or polarization; novel perspective; big idea; rules of the game
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-004-145
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 10:03-11:31, 2023-10-15
+- **tension:** ninguna
+
+## U-004-147
+- **tipo:** método
+- **titulo:** Iterate with data: monthly, review your highest-performing posts and rewrite them from different angles to raise your baseline and find your product angle.
+- **desarrollo:** "With time month after month — this is going to take 6 months to a year as all good things." "Every month review your highest performing content: just go scroll through, see which does the best, copy paste the link to another browser... and then start to rewrite them from different angles: make some short, make some long, make some lists, make some the big idea, make a better hook, make a more clear big problem, make a certain actionable list." This is how "you gradually sustain an increase in engagement," "increase your baseline of the persuasiveness and impact of your writing." "It's not about just writing whatever you want, it's about iterating on the best ideas that your audience actually likes," which "points to a product that you should create with that specific angle": you can create any product, "but you need the angle that performs best in order to catch attention and actually sell it."
+- **ejemplos:** ninguno
+- **cita:** "it's about iterating on the best ideas that your audience actually likes that points to a product that you should create"
+- **terminos:** baseline; angles; iterate
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-004-144
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 11:31-13:03, 2023-10-15
+- **tension:** ninguna
+
+## U-004-148
+- **tipo:** argumento
+- **titulo:** "Modern power belongs to those who hold the most attention in their lifetime": turn your best short ideas into long form to build trust, authority and attribution.
+- **desarrollo:** Step 4: "you want to create depth with your best ideas, depth and span." You can do well on one platform, "but eventually you either choose to become a slave to that platform or you diversify." A lesson from his book (The Art of Focus), "The Vessel" chapter (on the one-person business, the shift in education, skill acquisition): "modern power belongs to those who hold the most attention in their lifetime." "A short post that holds 10 seconds of attention is nothing compared to a video, podcast or newsletter that holds 15 to 60 minutes." Turning your best ideas into longer content is "how you get your name spread without you trying," "build the roots of your brand deep into the collective psyche," and build "trust and authority orders of magnitude higher." Evidence: "you will almost always attribute the results in your life to a book or an author who taught you how rather than someone you saw post about the same idea on Twitter" — "I bet 90% of you that have read Atomic Habits by James Clear... will think of James Clear" when someone posts about habits; "you're giving the authority to someone else because they chose to write long form."
+- **ejemplos:** James Clear / Atomic Habits attribution.
+- **cita:** "modern power belongs to those who hold the most attention in their lifetime"
+- **terminos:** depth and span; slave to that platform; collective psyche; The Vessel
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-004-147
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 13:03-14:31, 2023-10-15
+- **tension:** ninguna
+
+## U-004-149
+- **tipo:** principio
+- **titulo:** Understand the traffic mechanisms and human nature, and you're in direct control of growth instead of a slave to the algorithm.
+- **desarrollo:** "Traffic mechanisms" = how people get eyes on content on every platform. Understanding them lets you "pick and choose and create a strategy that works best"; "test them all and see what works." "Don't fall for the trap of social media gurus telling you one is any better than the other because the algorithm changed" — "the hot topic of the day is always the algorithm." Dan: "I don't even have to post reels anymore... because I understand human nature... what's going to capture or hold and generate attention. I don't need the algorithm to share my content when I'm in direct control of it." Otherwise you're "a slave to the algorithm, always having to study the latest and greatest tactics and never being able to develop a system or feel to your brand." His Instagram has "an obvious feel"; those posting memes then a carousel then a video show they're "hopping on the bandwagon."
+- **ejemplos:** Dan's Instagram brand feel vs. bandwagon accounts.
+- **cita:** "I don't need the algorithm to share my content when I'm in direct control of it"
+- **terminos:** traffic mechanisms; slave to the algorithm; feel to your brand; direct control
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-004-144
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 14:31-15:56, 2023-10-15
+- **tension:** ninguna
+
+## U-004-150
+- **tipo:** método
+- **titulo:** Traffic mechanism 1, replies — and three things people miss: boring posts don't get replies read, boring replies don't get clicks (talk about yourself), small accounts give few impressions.
+- **desarrollo:** Replies are "the most obvious one... low hanging fruit and you have to do it": people read comments, and if yours captures, holds and delivers value on attention, they click your profile and follow. Misses: (1) "boring content doesn't make people read the replies" — a tweet can get huge likes but only 100 people open replies "because there's nothing sparking controversy or conversation"; (2) "boring replies don't make people click on your profile. Stop repeating what was said in the original post. Talk about yourself, tell people how you've experienced the same thing in your life. Talking about yourself leads to the most profile clicks"; (3) "small accounts get fewer impressions overall" — still network with accounts your size, but "be sure you are replying to the bigger accounts with interesting content."
+- **ejemplos:** ninguno
+- **cita:** "Talking about yourself leads to the most profile clicks"
+- **terminos:** replies; traffic mechanism
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-004-149
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 15:56-17:24, 2023-10-15
+- **tension:** Contrasts with Vitali's advice in the 2025 interview (U-004-016) that "me me me" content fails; here, talking about yourself in replies is recommended because it shows shared experience.
+
+## U-004-151
+- **tipo:** heurística
+- **titulo:** Spam replies over months so your name gets known: "there's that guy again" — and replies with personal stories build trust.
+- **desarrollo:** "Not only does replies help you increase your followers, just spam replies, go reply to everyone. You need to get your name in people's mouths... known over the course of months." "This isn't a one-day thing... this is compounding nature where I see someone in the replies multiple times over the course of a month and I'm like oh there's that guy again... maybe I should DM him, maybe I should follow him... oh he's replying to this other guy that I really like too." Creators who spend time in their replies start to notice you. "Things just get better when you reply with a personal story so people trust you more."
+- **ejemplos:** "There's that guy again."
+- **cita:** "oh there's that guy again there's that guy again maybe I should DM him"
+- **terminos:** compounding
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-004-150
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 16:39-17:24, 2023-10-15
+- **tension:** ninguna
+
+## U-004-152
+- **tipo:** método
+- **titulo:** Traffic mechanism 2, quote posts: add engaging commentary (talk about yourself), target accounts that may actually see it — huge accounts make it a lottery.
+- **desarrollo:** Quote posts = reposting someone's content with commentary (X's repost/quote; on Instagram, sharing someone's post to your story with commentary and a tag). You write something that captures, holds and delivers value; the creator may see it and repost it, sending traffic. Problem: "you think you can just post something and be like oh this is great" — there's no reason for them to repost, and even if they do (to show their audience validation), "other people aren't going to click on your profile, it's boring." "Again talk about yourself." Nuance: "this one is more like a numbers game and luck" — quote-posting someone with 500,000 followers, they probably won't see it, and if they do "it's just by dumb luck." "If you're going to do some quote posts make sure it's targeted and actually worth your time." Test all mechanisms over 6-12 months.
+- **ejemplos:** ninguno
+- **cita:** "if you're going to do some quote posts make sure it's targeted and actually worth your time"
+- **terminos:** quote posts; numbers game
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-004-149
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 17:24-19:30, 2023-10-15
+- **tension:** ninguna
+
+## U-004-153
+- **tipo:** principio
+- **titulo:** Be persuasive at any given moment — DMs, replies, quote posts, emails, videos — by transferring your consciousness to your reader.
+- **desarrollo:** "Learn how to write persuasive content and do not not write persuasive content in every single situation you're in on social media. I don't care if you're in the DMs... writing your own post... in the replies... in a quote post... in an email... in a YouTube video... be persuasive at any given moment." Method: "you have to transfer your consciousness to your reader and understand: are they going to read this, are they going to continue reading this, are they going to click off."
+- **ejemplos:** ninguno
+- **cita:** "you have to transfer your Consciousness to your reader"
+- **terminos:** transfer your consciousness; persuasive
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-004-145
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 18:52-19:30, 2023-10-15
+- **tension:** ninguna
+
+## U-004-154
+- **tipo:** método
+- **titulo:** Traffic mechanism 3, reposts: people share what they want their audience to see them agree with — ask before posting "will people share it, and why?"
+- **desarrollo:** Reposts (X repost, YouTube/Facebook share, Instagram share to story). "Your content has to be good enough and sharable enough for people to share to their feed." Why people repost — "self-awareness here": "when I repost something it's usually because I want my audience to see what it is that I agree with or resonate with"; "someone's not going to retweet you if they don't want their friends to see what they like." So make it relatable, attention-catching and "something they want to identify with or be known for." Checklist "before hitting post": "will people share it? why should they share it? do I identify with anything I'm saying? is it polarizing enough to spark discussion and get comments and boost engagement further?"
+- **ejemplos:** ninguno
+- **cita:** "someone's not going to retweet you if they don't want their friends to see what they like"
+- **terminos:** reposts; sharable
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-004-149
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 19:30-21:03, 2023-10-15
+- **tension:** ninguna
+
+## U-004-155
+- **tipo:** método
+- **titulo:** Traffic mechanism 4, manual DMs: slow but powerful; don't be a corporate robot (the "Zapier automations virtual coffee" anti-example).
+- **desarrollo:** "The fourth traffic mechanism is just manual DMs. This one is more difficult and slow but I highly recommend networking in general," also a strategy to get reposts (see the non-needy networking video). "DMs work best when you're not a corporate robot like most people are on LinkedIn." Anti-example: "hey great to connect, I love your stuff, we should have a virtual coffee and talk about the complexity of Zapier automations to enhance the overall experience of your loyal email subscribers so that you can build an incredible digital presence." "You can make friends online to the point where they're happy to just share whatever you ask them to share."
+- **ejemplos:** The corporate LinkedIn DM.
+- **cita:** "DMs work best when you're not a corporate robot like most people are on LinkedIn"
+- **terminos:** manual DMs; corporate robot; non-needy networking
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-004-149
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 21:03-21:49, 2023-10-15
+- **tension:** ninguna
+
+## U-004-156
+- **tipo:** concepto
+- **titulo:** DM effort has diminishing returns by payoff: best for high-ticket services; a post is also an offer whose conversion is engagement.
+- **desarrollo:** DMs can be used for lead generation, "but obviously there's diminishing returns": "your effort is much better spent when you're selling a high ticket service when you're doing cold outreach because that's a lot of time invested and the payoff is a lot better." Selling a $2,500 service with a decent number of DMs beats sending the same DMs to sell a $150 product, which beats sending them for "one impression on my post" — "if I treat my post as my offer in the DMs because technically a post is an offer... and the conversion of that offer is engagement."
+- **ejemplos:** $2,500 service vs. $150 product vs. one impression.
+- **cita:** "technically a post is an offer that and the conversion the conversion of that offer is engagement"
+- **terminos:** a post is an offer; diminishing returns
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-004-155
+- **fuente:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md, 21:49-22:38, 2023-10-15
+- **tension:** ninguna
+
