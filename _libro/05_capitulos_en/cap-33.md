@@ -208,7 +208,7 @@ Koe gives his own version of the same idea in September 2023, with a time frame 
 
 Signals 3 and 4 are Hugh's point, stated as a method. Signals 1 and 2 add something his version lacked: evidence that exists before anyone asks, in the performance of ideas and in the market's existing products. The phrase "under your own name and world view" is what keeps signal 2 from becoming plain copying. What is copied is the demonstrated demand; what is added is the perspective of the seller, which Chapter 31 showed to be part of the value itself.
 
-The six-to-twelve-month timeline sits in tension with other parts of the corpus. Section 29.4 presented Koe's advice to launch immediately, to build before having an audience and to sell before building, and Koe himself launched with very few followers (see below). The book's reading of the evolution file is that the tension is never resolved but that both pieces of advice can apply at once. A first product launched immediately teaches you how products work; a later, data-driven product is designed from what the first period revealed. Authority is built while something small is being sold. The reason Koe gives for both positions is the same: data and feedback only exist in public.
+The six-to-twelve-month timeline sits in tension with other parts of the corpus. Section 29.4 presented Koe's advice to launch immediately, to build before having an audience and to sell before building, and Koe himself launched with very few followers (see below). Read across the corpus, the tension is never resolved, but both pieces of advice can apply at once. A first product launched immediately teaches you how products work; a later, data-driven product is designed from what the first period revealed. Authority is built while something small is being sold. The reason Koe gives for both positions is the same: data and feedback only exist in public.
 
 #### Build the product you want to see in the world
 
@@ -471,3 +471,396 @@ The second concerns the billing period of communities. Welsh started with yearly
 
 The two ideas complement Koe's. Impulse-buy pricing explains why the bottom of the ladder is cheap: the first purchase must not require a level of trust the audience has not yet built. The quarterly community is a structural answer to Koe's warning about monthly recurring work. It protects the seller's freedom to stop and the buyer's chance to experience the community long enough to value it. Welsh's "hotel" (a community people check into and out of quickly) is the opposite of what both of them want: buyers committed to a change.
 
+### 33.5 Systems Are the New Product
+
+Section 33.2 split the creator's problem in two: not knowing what to sell, and not knowing how to make it unique. This section addresses the second half. Koe's answer, stable in substance from 2022 to 2026 and renamed several times, is that the product's uniqueness lies in a *system*: a set of steps, created through your own trial and error, that reliably takes someone from a problem to an outcome. What changes over the years is the vocabulary, and then, in 2026, the vessel in which the system is delivered.
+
+#### The unique system
+
+In March 2023 Koe states the condition: the system must be created, not copied. If your product is, for example, a gym program, it must be one you created for yourself. You have to figure it out for yourself so that you have something to bring to market. "If you just copy what everyone else is doing and never zoom out and create something of your own then you aren't going to succeed in this game." You have to test, experiment, fail and create a system that resonates with you, "because you are attracting people that resonate with you."
+
+**Source:** The Future Of One-Person Businesses (Take Advantage Now).md (2023-03-12)
+
+The last clause carries the argument. The system is not only a method; it is an expression of the person who made it, and it attracts the people who share that person's problems and preferences. A copied system attracts no one in particular.
+
+In July 2024 Koe turns the idea into a statement about the future. He gives examples of systems for different goals: to make money, "a system for writing content every day to generate traffic," which he teaches in 2 Hour Writer; to get fit, "a system for training and eating, preferably one that you find enjoyable and sustainable"; for a better relationship, "a system for communication and connection." "Understand that one system doesn't fit all." Then: "The path to full control over your future is to solve your own problem with a unique system and sell the solution over and over again, evolving as society's personal and collective problems do. That's how you adapt."
+
+**Source:** Learn This Skill If You Want To Be Relevant In 10 Years.md (2024-07-13)
+
+*Unique system* is Koe's term for this. The sentence joins three ideas the book has developed separately: solving your own problem (Section 28.2), the system as the core of value (Section 31.3, where value is the reversal of entropy through systems), and adaptation to changing problems (Section 30.5, iteration as the life of a business). "One system doesn't fit all" is what makes the market for systems infinite. If one method worked for everyone, there would be one product per problem; because it does not, there is room for every person whose method fits a group of people like them.
+
+#### "People can't teach you what to do"
+
+A March 2024 passage supplies the philosophical ground of the unique system. "People can't teach you what to do; they can teach you what they do." Koe insists this is not bad but "beautiful": on the internet you can research what many people do. Subscribing to one method as the best and only one, like an ideology, probably will not give you the best results. Instead, experiment, take pieces of each method, create your own and get your best results: "then you have a unique system." Passing it down contributes to humanity and can get you paid.
+
+**Source:** The Value Equation How To Become A High-Status Individual.md (2024-03-17)
+
+Koe describes this as the way humanity progresses: "one person innovating, the next imitating, and then innovating with their own, and then passing down." He applies it to himself, telling viewers to take what is useful from his writing course and sell their own. He also connects it to value: distributing value is distributing something that helps people transform, which he calls a story.
+
+The principle reconciles the two pieces of advice that Section 33.2 found in tension. Imitation is not opposed to originality; it is its first stage. You imitate several methods, keep what works for you and produce a combination that did not exist. This is the "intelligent imitation" of Section 1.4 and the "collect, connect, create" process of Section 18.2, applied to products. It also explains the warning against treating a method like an ideology, which repeats the critique of the closed mind (Section 1.7) and of paradigm traps (Section 30.4).
+
+#### The personal system product
+
+In February 2025 the same idea receives a new name and a new justification. "What is a personal system product? In my eyes, it's the safest option to take that can not be replaced by AI." AI can help you build the thing, but it will not do the thing for you and take your audience or customers. A *personal system product* can be delivered as a freelance service, as a coaching service, as an education product or as software; the system is the constant, the delivery varies.
+
+**Source:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md (2025-02-10)
+
+His example is his most popular course. 2 Hour Writer does not teach "writing." "That's just super basic... it's a commodity. It would be very low price." He teaches "my system for how I write because I came up with it": he experimented, started from zero, planned how to get better results and put the pieces together. "That's what makes it valuable," together with every other piece of offer creation. *Commodity* here has a specific sense in Koe's vocabulary: generic teaching, interchangeable with everyone else's, which can only compete on price.
+
+Within the 2025 offer structure, the personal system is element 4. "The personal system is the thing that takes you from point A to point B. It's the thing that sparks the transformation." Koe makes a provocative observation: you could copy someone else's product, swap in your own personal system, and it would probably sell well, though you probably should not, because you would be copying a lot else. It helps, however, to study products that did well and ask: what is my personal system for this, what burning problem am I helping to overcome, what is the desired outcome, how do I structure it so people want it? "Your personal system is the thing that makes people think this could finally solve my problem, because it probably will." He gives examples of popular personal systems: intermittent fasting, and StrongLifts 5x5, the go-to program for gym beginners. If you bake marketing elements like the time frame into the system, you get something like 2 Hour Writer, whose inner system is the 2 Hour Content Ecosystem.
+
+**Complementary context:** StrongLifts 5x5 is a beginner strength program built on five sets of five repetitions of a few compound barbell lifts. Intermittent fasting is a family of eating schedules that restrict food to certain hours or days. Both are popular partly because they are simple, named and easy to follow, which is the quality Koe points to.
+
+The 2 Hour Writer example shows how the elements combine. The time frame ("2 Hour") is part of the product's name; the system inside it (the content ecosystem: a weekly newsletter condensed into threads and posts and repurposed across platforms, described in Section 24.3) is what produces the outcome.
+
+#### How to create a personal system
+
+The guide then gives the procedure. Experiment on yourself, or on someone willing who fits your target persona; the second option also gives you beginner social proof.
+
+1. Open something like Cortex to write the system down.
+2. Remember the problem and the outcome.
+3. Write a list of the steps people need to take over the time frame.
+4. Make sure the steps involve everything related to reaching the outcome. Weight training, for example, also requires nutrition.
+5. Test the steps on yourself or your persona for the duration of the time frame.
+6. Write down where the system can be improved.
+7. Rewrite the steps and test again.
+8. Repeat until it gets results for more people.
+
+Then "slap a name on your system." Koe restates the logic in simpler terms: take the burning problem (point A) and the desired outcome (point B), and write as many steps as possible in between, including what people need to know, which skills they need to acquire and which actions they need to take. Test, notice what is not getting results, and change it until it does. The system could be a training program, a nutrition protocol, a writing system, a video editing system, "how to weave a basket," "how to grow plants." "If those are accompanied by a burning problem and a desired outcome that people actually care about, then you can sell anything. If they don't sell, then the problem isn't burning enough and the outcome isn't desirable enough."
+
+**Source:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md (2025-02-10)
+
+The last sentence is a diagnostic rule. When a product fails, the failure is located in the problem and the outcome, not in the system or the format. This moves attention back to the persona and to awareness (Section 32.3): a system for weaving baskets can sell, provided the buyer experiences the problem it solves as urgent and wants the result.
+
+Step 4.5 adds the second part of the product. "Step 4.5 is education." You have the personal system and its steps, but what accompanying knowledge do people need in order to perform it? "That's where your curriculum comes into place." Koe compares it to writing a book outline: what nuance lies between all the pieces of education people need to understand? Write it out. *Curriculum*, in his usage, is therefore not the product itself but the knowledge that accompanies the system. The system says what to do; the curriculum explains what you need to understand to do it. The 2022 SOP process (Section 33.1) ended at the same place: a procedure refined "until it is valuable enough to offer in a product and create a curriculum around."
+
+#### One core, several names
+
+The material of this section and of Section 33.1 shows the same concept appearing under a sequence of names. Koe gives no reason for the renamings, and the book treats them as one idea that gains emphasis and context over time.
+
+| Period | Name | Emphasis |
+|---|---|---|
+| 2022 | SOPs (standard operating procedures) | A procedure written from your results and iterated until it is worth a curriculum |
+| 2023 | Unique mechanism | A system with a compelling name that differentiates the offer (Section 27.5) |
+| 2023–2024 | Unique system | Created through testing and failing, not copied; built from pieces of others' methods |
+| 2025 | Personal system / personal system product | The element that takes people from A to B; the safest option against AI |
+| 2024–2026 | Systems are the new product / systems economy | People want *your* solution; from 2026, delivered as software |
+
+The table also shows how Koe's view of AI shifts. In 2025 the personal system is defined against AI, as the thing AI cannot replace. In 2026 AI becomes the means of delivering the system.
+
+#### The systems economy
+
+The phrase *systems are the new product* first appears in October 2024. "We're in the systems economy. People don't want a solution to their problems, they want your solution to their problems." There are many writing products, Koe says. What makes 2 Hour Writer special is that "it's a system that I created through experience," novel and original. He pulled and learned from other people's teachings, but the way he created it through his own experience sets it apart. It excludes "academic writing nonsense" and the things that did not help him.
+
+**Source:** The Death Of The Personal Brand (& The Future Of Creative Work).md (2024-10-06)
+
+In January 2026 Koe repeats the formula as the seventh idea of a long video and extends it to his software. "We are in a systems economy. People don't want a solution to their problems. They want your solution to their problems." What makes 2 Hour Writer or Eden stand out among so many writing products? He recounts a YouTube comment on the channel of Matt and Ari, Eden's co-founders, which said they had no competitive edge against Google Drive. Koe answers that the commenter does not use Eden or understand where they are going: "That's in our head." They could be replaced by Google, "but the difference is that these are hyper-specific systems that I made for myself," and, more deeply, "for people with the same problems as me, and no big conglomerate corporation is going to pay attention to as much detail and effectiveness." Eden is more general, but it is built for creatives who want to synthesize, resurface and connect ideas and work on a project without "10 browser tabs open." Google's Docs, Slides and Sheets are isolated in different tabs, "and Google Drive, frankly, just has a terrible UX."
+
+**Source:** If you have multiple interests, do not waste the next 2-3 years.md (2026-01-20)
+
+The argument about Google is a version of the saturation argument of Section 27.6. A large company builds for everyone and therefore for no one in particular. A small builder who is also a user can build for a narrow group of people with the same problems, with a level of attention to detail that a conglomerate has no reason to match. The competitive edge is not technology but specificity, and specificity comes from the builder's identity. The claim is Koe's, made about his own company in response to criticism, and it should be read as a defense of his strategy rather than as a demonstrated outcome.
+
+#### "If I give everything away, what do I sell?"
+
+In June 2026 Koe answers the question he says he hears most often as a brand advisor: "If I write about all these ideas and interests, what do I sell? People won't have a reason to buy my product if they already know it all." He first explains why people ask it. They "just love getting in their own heads." Stressed, they pick an answer, "that answer becomes law, and then it prevents you from taking any further action." He admits that he does this too.
+
+**Source:** If You Have Multiple Interests, Start A One-Person Business.md (2026-06-13)
+
+His simple answer is empirical: "People just buy things. They probably don't remember everything they read from you, and they're even more likely to never implement it." His better answer reframes the product. Products are "tools or systems that help people get from point A to point B on my map." A tweet or a newsletter is not the best medium for teaching a whole system through modules, worksheets and templates. 2 Hour Writer was "the complete system for implementation," "a daily set of actions backed with education." It has since evolved into Eden, where one finds validated ideas, makes them one's own, writes and posts; "the Writing Hub is the content strategy hub."
+
+The answer closes the loop opened by the map metaphor of 2022 (Section 33.1). Content gives out pieces of the map; the product is the map. In 2026 the map is specified further: it is a route from A to B, delivered as a system for implementation rather than as information. Content can contain all the ideas and still leave the product untouched, because what the buyer pays for is not the ideas but the structured, daily practice that turns them into results.
+
+Koe adds a warning for those who would rather build software than sell info products. "If you don't care to sell an info-product because everyone told you they were a scam and you were dumb enough to not think or question, then you can build a software. But again, and I've learned this through 3 years of failure so far, it needs to be a system." Small-scale software can be built well with vibe coding, he says, "if you have agency and understand the iterative process and you love learning." The phrase "three years of failure" refers to his own experience building software (Chapter 37 treats the story of Cortex and Eden). The lesson he draws from it is that the format does not rescue a product without a system at its core.
+
+#### Transcending info products (2026)
+
+The most significant change in Koe's thinking about products comes in a January 2026 video titled "How I'd build a one-person business (if I started over in 2026)." It is also the most internally contradictory passage of the chapter, and the contradiction should be shown rather than resolved.
+
+**Source:** How I'd build a one-person business (if I started over in 2026).md (2026-01-03)
+
+*The premise: a new paradigm.* Koe opens by observing that business, the internet, social media, coding and art are all changing, and what worked last year does not seem to work anymore. Everyone makes "best business model to start in 2026" videos ("I am too, for the views"), mostly repeating 2025, which was fine before because not much changed. He will not tell viewers to start an agency, freelancing, an info product, coaching, consulting or a community; those are covered in his one-person business playlist. Instead he will describe the model he thinks makes sense for the next two to three years. His motivation is that online claims, also made for views, that value-based content, info products or coaching are dead make people feel they should not start as creators. "That's just kind of how things go when a new paradigm starts to emerge, because it's not like that paradigm is figured out yet." Nobody can simply tell you what to do; you have to try new things and experiment until you create the new thing.
+
+*Info products are not dead, but the vessel has changed.* Something deeper is at play, Koe says. You still pursue your curiosities and share them, "but the vessel is no longer a static PDF, a course or a community." *Vessel*, one of Koe's most polysemous words, here means the format in which the product reaches the buyer. He insists that he is "not on the jaded side" that thinks all info products are scams; they are life-changing in many ways, although some are scams. "I think they are the antidote to the negative aspects of traditional education": conformity, being trained for a job you hate, not seeing another option, "the default path" of Chapter 2. He does not think info products are going away for good, and he notes that what he says will not apply to every industry or niche.
+
+*Transcend, do not abandon.* The select few who are smart enough to transcend info products will win. "Transcending doesn't mean that you just leave them behind. It means that you evolve to the next level and integrate them," because education and learning will never go away. The formula echoes the "transcend and include" principle that Koe takes from Ken Wilber (Chapter 38): each new level contains the previous one instead of discarding it.
+
+*Static courses don't cut it.* The diagnosis is threefold. The general sentiment toward static courses is burnt out (they do not go to zero, Koe says, but the market is tired of them): a ten-hour video library feels slow, and people know something more efficient exists. "90% of people that buy a course don't actually go through it and don't even get results from it." And with AI, anyone can generate the information if they know what to ask. Koe immediately qualifies the last point: knowing what to ask is unlikely, since a person who knew what to ask would not want the info product in the first place.
+
+*The next level up: knowledge base plus chatbot.* Koe's proposal applies the concept of a help center to courses, coaching or info products. The course material becomes a knowledge base, and a chatbot is attached to it, not for customer support but to help people learn, practice and implement the material. The course is no longer something people go through on the front end; it is learned interactively. Koe calls this "something small scale that is the next level up from an info product," something "relatively beginner level," not a billion-dollar software company, that a one-person business can sell to a specific person on a specific topic. An AI that helps you write a newsletter or social content, "kind of like a coach that's sitting next to you and correcting you," would be far more effective than the course itself.
+
+He draws a distinction. Everyone thinks they should build the agent that does it all for you, for example one that writes all your social content. Koe disagrees. "We're still talking about education products," which are inherently more valuable because people have the drive to learn, and thinking AI will make learning irrelevant "is kind of silly." The product helps the buyer learn and implement; it does not replace the buyer.
+
+*A hypothetical example: 2 Hour Writer as an app.* If he were still a one-person business (he says he is building two companies and has not done this), Koe would take 2 Hour Writer and turn its modules into the knowledge base. That part already exists, since the course exists, and "you don't skip that process." Then he would build a small interactive chatbot application. It would take him a while, since he is not a programmer, and he warns that vibe-coding tools still require learning, so that you do not hit a mistake you cannot solve and have to hire someone or quit. The app would have three tabs:
+
+- *Learn:* a learning prompt, or several prompts clicked in order, working as interactive lessons;
+- *Practice:* prompts drawing on the lessons that tell people to try something and then grade them;
+- *Create:* a similar mechanism for producing the actual work.
+
+He considers an interactive chatbot "one of the simpler things that you can do."
+
+*Other evolved info products.* Koe gives three more examples. A business friend created an offer-creation app that helps identify your best ideas, turn them into a compelling offer and go beyond. Instead of a "how to talk to girls" ebook, course or coaching program, a chatbot that simulates the conversation or teaches how to text; Koe calls this "a copout example" from "one very profitable industry, which is unfortunate." Instead of a productivity course, an AI that helps you identify your vision, outlines your priority tasks and sends notifications when things are not complete, possibly integrated into a simple to-do app. "That's just much more enticing than something like buy my course."
+
+*Info products will look more like software.* In the same video's fifth part, on building a micro SaaS (a small software-as-a-service product), Koe repeats that info products will not die completely anytime soon, because education is too important to the brain. "Choosing what to be educated on based on goals you derived for yourself is still one of the last moats," and "learning is too foundational to the human experience to ever be fully commoditized." Still, over the next few years info products will look more like software: rather than an ebook to download, a website to visit or an app to install. He adds a side idea: course platforms are adding agents to help creators build courses, but what about the end user? How will AI bring value to the learner? Someone building a course platform should solve that.
+
+*The internal contradiction.* In this same video Koe alternates between saying that info products are "dead" or "dying" and saying they are "not dead." In one passage he says "since value-based content and info products are dead," and moments later that they are not. Elsewhere in the same video he says that info products have reached "the final stage of market sophistication" (the term from Eugene Schwartz used in Section 32.3) and that "it's never been easier to start a mediocre one-person business." The most coherent reading, which Koe's own qualifications support, is that what is "dead" is the average static format, not education as a function: the very good will still do well, the course remains the knowledge base, and learning cannot be commoditized. But Koe does not state this reconciliation himself, and the reader should note that his language in this video is unstable.
+
+#### Small-scale software as the new info product (mid-2026)
+
+By June 2026 the position has settled into a clearer thesis. Koe recommends building software, which he finds fun and "addictive" with Claude Code, "because this is where products are going, especially for solopreneurs, creators, one person businesses. It used to be info products. I think small-scale software will be the new info product."
+
+**Source:** How To Become So Valuable AI Can Never Replace You.md (2026-06-28)
+
+He explains the analogy. Info products dominated for two reasons: the barrier to entry was low, and their structure is valuable. Education is valuable "no matter how much of a scam you think info products are." Software now has the same two properties. Its structure packs a lot of value, and AI has lowered its barrier: "it's just this clay that you get to mold." He also states the limit. Not everyone will build their own apps. His analogy is Uber Eats: if you do not cook your own food, why would you build an app without a reason to? The old problem remains under the new conditions. You can build anything, but what you build may not be worth building, people may not care, and you may lack the ability to iterate and persist according to feedback until it is worth it.
+
+In the same month, Koe connects this to multiple interests. The business model for someone with many interests is: "You teach your interests. That's what you do. You teach. Or, you turn what you would have taught into an implementation tool," the more modern route, which involves "the vibe coding or programming aspect of things." An *implementation tool* is his name for software that does what a course would have taught.
+
+**Source:** If You Have Multiple Interests, Start A One-Person Business.md (2026-06-13)
+
+The same video gives the clearest statement of the 2026 meaning of "systems economy." "The creator economy, when it comes to monetization, is a systems economy. You don't have to build the next note-taking tool. I've tried that. You build the software that helps them do what your info product would have helped them do." His example is a third party, a creator whose name the transcript gives as "Paul Musso" (the spelling is uncertain), who "has built a modern philosophy school on Substack. He quite literally just teaches philosophy on Substack. That's the paid tier of his Substack. He does weekly lectures that people can attend." Koe has written about him in his book *Purpose and Profit*, available for free on his Substack. He speculates that this teacher could build a philosophy learning app and share his teachings there, but adds that he does not need to, since what he does already works. In the same passage Koe refers viewers to his own paid Substack guide to creating a profitable digital product ("you don't need to take any other marketing course").
+
+**Source:** If You Have Multiple Interests, Start A One-Person Business.md (2026-06-13)
+
+The Substack case is important as a counterweight. Koe's 2026 thesis points toward software, but the example he chooses to illustrate the single-interest model is a plain education business (weekly lectures, a paid tier) that works without any software. The implementation tool is an option, not a requirement.
+
+#### How the position moved
+
+The evolution of Koe's position on info products and software can be summarized as follows. The phrase "systems economy" itself changes meaning along the way.
+
+| Date | Position |
+|---|---|
+| 2022–2025 | The information business is the best model; info products are "the greatest product one can sell"; for an absolute beginner, an education product beats AI-built software, which has a "higher chance of failure" |
+| October 2024 | "Systems economy": people want your solution, a system built from experience, sold as a course (2 Hour Writer) |
+| January 2026 | Static courses "don't cut it"; info products are said to be both dying and not dead; the next level is a knowledge base plus a chatbot for learning, practice and implementation |
+| June 2026 | "Small-scale software will be the new info product"; "systems economy" now means building the software that does what the info product would have taught |
+
+Koe's stated reasons for the change are the saturation of the market, the 90% non-completion rate of courses, AI's ability to generate information and to lower the barrier to building software, and the shortening of paradigms. What does not change is the core. In every version the product is a system that takes someone from A to B, built from the seller's own experience. In 2022 it was written as an SOP and taught as a curriculum; in 2026 it may be coded as a tool. The format is the variable, and the system is the constant. Koe's own warning, that software "needs to be a system," states this directly.
+
+### 33.6 Your Own Product
+
+The previous sections assumed that the creator wants a product. This section presents Koe's argument for why they need one. The argument has three parts: an empirical comparison between platform income and product income, a logical chain from interests to products, and two benefits of products beyond money, namely authority and focus.
+
+#### Platform income versus product income
+
+"Making money online is not sponsorships or ad revenue." In January 2024 Koe supports the statement with his own numbers. His Instagram account, with 1.6 million followers, pays him "a measly 300 bucks" for viral reels. X pays him about $300 a month. YouTube pays about $10,000 a month, with 500,000 subscribers and hundreds of thousands of views per video on business topics, which carry higher RPMs (revenue per thousand views) because that is where advertisers are. That is life-changing for many people, he concedes, but it took about four years. In roughly the same five years, his business made a little over $5 million in revenue, of which he took home 90%, and $4 million of it was made in 2023 alone, which shows how exponential the growth is. The comparison is direct: "$4 million a year versus $10K times 12, $120,000 a year... because it's the same traffic." He started on Twitter in November 2019 as a web designer, and in 2020, on Twitter alone, he made $100,000 from freelance web design, some marketing consulting and courses. "Try making that with just YouTube alone in your first year off ad revenue."
+
+**Source:** The 7 Best Internet Business Models (From Zero Experience To Advanced).md (2024-01-21)
+
+The phrase "it's the same traffic" is the core of the argument. The audience is identical; what differs is what the creator does with it. Platform monetization pays a fraction of a cent per view. A product converts a small share of the same viewers into buyers at full price.
+
+Koe repeats the comparison with updated figures several times. In June 2024, presenting step four of a process ("monetize with a portfolio of digital products"), he says an audience almost guarantees some income, through sponsorships, YouTube ad revenue, a paid newsletter or a paid tier, but most of these are not optimal or profitable. That is why there are stories of people with millions of followers making little; his example figure is transcribed as "$110,000 a month," possibly a mistranscription of "$10,000," and its meaning is ambiguous. His own data at that date: monetizing Instagram Reels, using the viral animations that built his audience, earned about $400 in a month; X monetization about $400 a month with a huge audience; YouTube "a lot more than that," undisclosed. From digital products, "upwards of 6 million" in a few years, $4 million of it in the previous year, and about $300,000 in the past month.
+
+**Source:** Ideas Are The New Oil (How More People Get Rich In The Digital Age).md (2024-06-09)
+
+In March 2026 he gives a third set of figures, framed as the second mistake beginners make. "They just don't understand how everything fits together. They get good at writing content or creating reels... but they feel like it's pointless because they don't know how to make money from it." So they cater to the algorithm, or have AI do everything, "just so they can get the dopamine hit of likes and engagement," without realizing "that doing that decreases their ability to monetize well," or they try to "game the platform monetization system." Koe's numbers: "I have a few million followers and subscribers." The Instagram Reels bonus would be "like $300 to $500 a month"; "on Twitter I think I get maybe like 2,000 now"; "on YouTube I get around 10,000 a month." "I could live off of that if I really wanted to, but I have businesses to run." Selling "my own product or service," he makes "10 to 20X that amount."
+
+**Source:** How To Build A $1M One-Person Business Faster With AI.md (2026-03-15)
+
+The figures differ between versions (X pays $300, $400 or $2,000 a month depending on the date; total product revenue is "a little over $5 million" in January 2024 and "upwards of 6 million" in June 2024). These are updates and imprecisions in spoken accounts, not contradictions in the thesis, which never changes: products earn many times more than platforms from the same audience.
+
+| Date | Instagram | X | YouTube | Own products |
+|---|---|---|---|---|
+| January 2024 | ~$300 per viral reel (1.6M followers) | ~$300/month | ~$10,000/month (500K subscribers) | A little over $5M in ~5 years; $4M in 2023 |
+| June 2024 | ~$400/month from Reels | ~$400/month | "A lot more" (undisclosed) | "Upwards of 6 million"; ~$300,000 in the past month |
+| March 2026 | ~$300–500/month | ~$2,000/month | ~$10,000/month | 10–20 times platform income |
+
+The 2026 passage adds a mechanism to the numbers. Optimizing content for engagement, by catering to the algorithm or automating it with AI, makes monetization worse, because it attracts attention without building the trust and specificity that make people buy. This links the product question back to the content strategy of Chapter 26: validated content that reflects your perspective builds a buying audience; engagement bait builds a non-buying one.
+
+#### Sponsorships: the strongest alternative, and still second
+
+Koe does not claim that platform-related income is always small. In April 2023 he presents two third-party cases in which sponsorships pay well. Sean Puri ("I believe that's how you say his name") started a newsletter business with about 100,000 subscribers that makes $50,000 a month from sponsorships. If you build a newsletter, you reach out for sponsorships, "and they pay a lot of money, I promise," especially in a decent niche, and if you film the newsletter as a YouTube video and grow there, you can accept sponsorships on that platform too. The second case is a fitness YouTuber the transcript calls "Max tuning" (the name is unclear). Koe heard that he gets a good number of views per video but makes only about $100,000 a year from AdSense and monetization, while sponsorships bring him $1 million a year.
+
+**Source:** The Micro Education Business Model (How To Monetize Your Knowledge).md (2023-04-23)
+
+Koe's conclusion is his own: sponsorships can make a lot of money, "but creating your own products or service will always make you the most money." The cases establish a ranking rather than a dichotomy. Ad revenue is the weakest form of monetizing an audience, sponsorships are much stronger, and your own product is the strongest. The "always" is Koe's generalization from his experience and from the cases he knows; he offers no systematic comparison.
+
+#### "Shoot for the stars and land on the moon"
+
+In October 2023 Koe gives an arithmetic version of the argument aimed at beginners who see YouTubers earning large AdSense sums and assume it is the only way to monetize. More creators now disclose their product income, he notes. He has talked with YouTubers making $1,000, $5,000 or $10,000 a month, and "$10,000 a month for a channel that has 250k to 500k subscribers, depending on your niche, it's still not enough." If something like 50 cents to $1 per follower per month is a valid estimate of what a product can earn, then relying on AdSense means "you're wasting a ton of money." Instead, "create a product that sells, iterate until it sells, and potentially make 250 to 500k per month." Even if the product is only 50% as good as perfect, taking $500,000 a month as the perfect case, "you shoot for the stars and land on the moon": "you're still making like 50 to 100K a month rather than 10K a month from relying on AdSense."
+
+**Source:** How To Make $1 Million A Year As A Digital Writer.md (2023-10-08)
+
+The arithmetic in the transcript is loose: half of $500,000 would be $250,000, yet Koe says $50,000 to $100,000. The book records the figures as he states them. The point of the passage does not depend on the exact numbers. Its structure is an argument from asymmetry: aiming at the product's ceiling and falling far short still beats the ceiling of ad revenue. The phrase "iterate until it sells" also matters. The product is not expected to work on the first attempt (Section 29.4); it is expected to be improved until it does.
+
+#### Waiting for an imaginary follower count
+
+In February 2025 Koe identifies two ways creators avoid building a product. Most of them "wait to monetize until they hit some imaginary follower count," and are disappointed when nobody buys. Others count on platform monetization, such as YouTube, until their views plummet for two months. To control your income, you sell a product or service: "that's what your employer does." In a job you earn by playing a role in the marketing, sales and operations of someone else's product. A one-person business requires building a product or service of your own.
+
+**Source:** Don’t Quit - How To Get Ahead Of 99% Of Personal Brands.md (2025-02-02)
+
+The comparison with the employer reframes the product as the normal structure of income, not as an optional extra. Every salary is paid out of the sale of some product. The employee performs part of the work of selling it and receives a fixed share; the one-person business performs all of it and keeps the whole. The "imaginary follower count" is imaginary because the audience never tells you that it is large enough. Buyers are found by offering something, not by waiting.
+
+#### The logic of monetizing interests
+
+In January 2026 Koe states the argument as a chain of necessary conditions. "To make money from your interests, you need other people to become interested in them, too. That part is trivial because if you became interested in something, other people can, too. You simply must learn to persuade." (He suggests reading a few books on persuasion: it will catch on if you are creating.) Next, "you need a way for these people to pay you," which usually means selling a product, because you probably will not find a job that lets you express your interests, and investing in stocks or real estate effectively requires a good amount of capital. "So, in other words, you need attention."
+
+**Source:** If you have multiple interests, do not waste the next 2-3 years.md (2026-01-20)
+
+The chain explains the order of the book's practical chapters. Interests (Chapter 20) must become shared interests, which requires persuasion (Chapter 32). Shared interests must become payment, which requires a product (this chapter). Both require attention (Chapter 25). Each link is necessary; none is sufficient alone. The two alternatives Koe rules out, employment and investing, are excluded on practical grounds: a job rarely pays you to express your interests, and investing requires capital you probably do not yet have.
+
+#### Mental monetization
+
+In September 2023 Koe gives the same idea a name that places it at the end of a sequence of concepts developed earlier in the book. He recaps: we have understood the *mental body* (the identity as a structure of ideas, Chapter 3), *mental bodybuilding* (how to build a valuable mind, Section 15.7) and *mental real estate* (how to occupy other people's attention with the mind you built, Section 21.3). "Now you have people attracted to you, now you need to give them something worth paying money for. That's called business. That's how you monetize your mind." *Mental monetization* is the name of this last step. Koe adds that in 2023 the resources exist to revamp your education, enhance your skill set and change your source of income "in less time than it would take to get a college degree."
+
+**Source:** How To Reprogram Your Mind & Build Your Intelligence.md (2023-09-24)
+
+The term reappears in 2024 as the name of one of Koe's courses (Section 33.7), which shows how his concepts often become product names.
+
+#### Independent income and the highest form of leverage
+
+Several passages state the conclusion in terms of control. "If you want to earn an independent income, you need to sell a product." Koe adds: "We're not here to rely on ad platform revenue that's completely out of your control." You started your own creative work because you wanted to control your income, even if only as a salary replacement that lets you live well. A product lets you do that and control your lifestyle.
+
+**Source:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md (2025-02-10)
+
+In October 2023 he describes the structure of that control. "If you have control of the product and you have control of the traffic and you are consistently growing the traffic that is being sent to the product, that bar can go up forever." "At a job you aren't in control of this, and you aren't in control of this; you're in between and you're just being given a set amount." The image is a diagram with two controls: the product and the traffic. The employee sits between them, controlling neither and receiving a fixed amount. The one-person business owns both ends, so its income has no ceiling other than the growth of traffic.
+
+**Source:** How To Make $1 Million A Year As A Digital Writer.md (2023-10-08)
+
+In May 2024 Koe states the strongest version. "Everyone should have a digital product that replaces their income and covers their living expenses." The digital product is "the highest form of leverage," because "all you need is knowledge": it requires no extra time or fulfillment work, and "you don't need a fulfillment center, you don't need physical products." "With digital products in general you build it once and sell it as many times as you want, or as many times as your skill allows." He adds a rule of sequence: "You need to build cash flow before you go and invest in whatever business you dream of building." (The passage is part of the promotion of his course *Mental Monetization*, then available for pre-order.)
+
+**Source:** How Smart Creatives Work Less & Earn More LEVERAGE.md (2024-05-26)
+
+Two details deserve attention. The qualification "as many times as your skill allows" places the limit of leverage in the seller's marketing and distribution skill, not in the product; this is the warning about beginner hell (Section 33.1) in another form. And the cash-flow rule explains the shape of Koe's own path: info products first, financing the later, riskier software (Sections 30.3 and 33.7). *Cash flow* here has his specific sense: income that funds the next investment, not merely revenue.
+
+There is a tension in the corpus on this point. In a 2023 video on escaping wage slavery, Koe lists "sometimes digital products" among the beginner models that can enslave you if you do not evolve, while other passages call them "the highest form of leverage" or the "most holistic option." He does not reconcile the two valuations. They are compatible if the risk lies in stagnating with a single product rather than in digital products as such, which agrees with his principle, from Section 10.7, that stagnation equals death.
+
+In June 2026 Koe gives a modest version of what "enough" means. "What if a thousand people pay you a certain amount of money per month? You're set. You're not a mega millionaire because you don't have to be, but you've effectively replaced your salary and probably then some more." It is still possible: social media has evolved and the market has become sophisticated, but you are a learner, and "you can acquire the skill, and you can create the strategy through dedicated learning and research that allows you to do this, because most people won't do that."
+
+**Source:** If You Have Multiple Interests, Start A One-Person Business.md (2026-06-13)
+
+**Complementary context:** The figure of a thousand paying people echoes Kevin Kelly's essay "1,000 True Fans" (2008), which argued that a creator can make a living from a thousand people who buy everything they produce. Koe discusses Kelly's idea in Section 25.4; here he uses the number without naming the source.
+
+The passage scales the ambition down deliberately. The million-dollar figures of Section 33.1 and Section 30.6 are meant to break frames; this one is meant to make the goal feel reachable. Section 34.5 develops Koe's thinking on "enough."
+
+#### Products are authority catalysts
+
+The last part of the argument is that a product benefits the creator beyond its revenue. In September 2023 Koe names the idea: after building for yourself comes "distributing a purposeful product," and "most people don't realize that products are authority catalysts." They think that selling a product means selling out, but they do not realize that it adds perceived authority to their brand and that they gain more loyal followers.
+
+**Source:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md (2023-09-17)
+
+*Authority catalysts* is Koe's coinage, and *purposeful product* its companion: a product made from your own purpose and path, not a random monetization device. The fear of "selling out" is treated in the same video as a sign of inner work still to be done, and Chapter 32 (Section 32.2) treats the ethics of selling at length.
+
+In February 2025 Koe explains the two benefits in detail.
+
+**Source:** Don’t Quit - How To Get Ahead Of 99% Of Personal Brands.md (2025-02-02)
+
+*The first benefit: authority and impact.* People see you as an authority, and engagement rises because you have something worth buying, which is visible even to people who do not buy. Most creators build audiences that stay "surface level": "you can't go deep on social media," and people must invest in you before they care. "People aren't on social media to adopt new habits, they're there to entertain themselves. When they buy a product they're investing in their behavior change." Koe gives a thought experiment. Put a course's worth of content on YouTube for free, and it will get views, because people feel they are learning; but they will not act, because they do not value what is free. Put the same material in a product and make related content that fuels it, and you make more money and you also affect people more, because they are serious. More impact produces more trust and authority, which produces more likes and follows. "Social media growth isn't only about content or networking, it's also about having a product that changes lives."
+
+The argument depends on the definition of value from Section 31.4: value is behavior change. If behavior changes mainly when people invest in the change, then the product is not a monetization layer on top of the content but the place where the content's value is realized. Payment becomes part of the mechanism, because it marks the buyer's commitment.
+
+*The second benefit: a frame for content.* A product "gives you a frame, a pillar to return to when writing content." Without one you jump between interests and ideas, which Koe says is fine in itself, but "you have no anchor": when you do not know what to write, you have no offer to write around and nothing in which to build authority or expertise. The product can change (you can launch a new one and talk about something else), but you must understand how authority is built.
+
+*Frame* is a word Koe uses in several senses; in this one it means the axis to which content returns. The idea connects to the project as an anchor (Section 9.3): just as a project gives a life a center of gravity, a product gives a body of content one. For the multi-interest creator of Chapter 20, the product resolves the apparent conflict between breadth and authority. The content can range widely, as long as it keeps returning to the offer.
+
+### 33.7 The Author's Product Line
+
+Koe's own product line is the case on which most of this chapter's advice is based, and he tells its history often. Section 33.3 used his first products as evidence for "productize yourself." This section follows the line as a whole: how the offers accumulated, how they were arranged into a ladder, and how they evolved toward software. Chapter 37 places the same history within his full trajectory.
+
+#### The cliff notes
+
+In December 2022, and again word for word in the 2024 compilation, Koe gives what he calls the "cliff notes" of his story with info products.
+
+**Source:** You Have A $100,000 Product In Your Head (One Person Business Series).md (2022-12-04); The One-Person Business Model (How To Productize Yourself Full Guide).md (2024-02-06)
+
+He tried many business models and failed because he lacked "compound knowledge and experience," losing a lot of money. He got a job as a web designer, then freelanced with web design and funnels. Three years before the 2022 video, he started his creator journey on Twitter, pivoted his freelance service and created his first info product, then three info products within a year. He also pivoted his freelancing toward consulting for service-based creators (funnel consulting, marketing and offer creation) instead of building web design and funnels for service businesses.
+
+In his second year, profitable with all of this and growing on social media, he started the community Modern Mastery and bundled his existing courses inside it as bonuses and as a launch incentive, which he calls "a very important point." The move solved two problems at once: the older products gained a new life inside the community, and the community launched with an obvious amount of value attached.
+
+In his third year, after a night out drinking in which he lost his phone, he had a burst of ideas on the drive home (as he tells it, someone else drove) and rebuilt his entire "offer stack": Modern Mastery, the 2 Hour Writer course, a cohort, "and that's it," plus a lead magnet, Seven Days to Genius Ideas, which taught his note-taking system. An *offer stack*, in Koe's usage, is the set of offers arranged for an audience, from free to most expensive; elsewhere he calls it a product stack or value ladder.
+
+He concludes: "I've made six figures with almost every online business offer there is: done for you, done with you, do it yourself," including info products, consulting, coaching and freelancing, and six figures in his first year with info products alone. The sentence connects his history to the taxonomy of Section 33.4. He has tested each type and kept the ones that scale.
+
+#### The lineage: each product grows out of the previous one
+
+In August 2023 Koe describes the line as a genealogy. "My web design service evolved into funnels; my funnel knowledge evolved into three digital products; those digital products evolved into a community; my experience along the way created two more digital products; my 10-plus lead magnets evolved into a planner, which is now being relaunched with my book in late September; all of the above are evolving into the software that I'm building. It never ends; that's what makes it meaningful."
+
+**Source:** I Had To Learn These High-Income Skills (If I Wanted To Make Money).md (2023-08-16)
+
+The passage is the practical form of the principle that a business is iteration for life (Section 30.5), and of the 2022 formula of Section 33.1 in which every product is the next version of a process. No product appears from nowhere: each one is built from the knowledge, the audience and often the material of the previous one. Even the free lead magnets are not discarded; they become the planner, and everything flows into the software. "It never ends; that's what makes it meaningful" is also a statement about motivation. The meaning lies in the continuing evolution, not in reaching a final product, which echoes the infinite game of Section 10.7.
+
+#### The ladder in 2023: Modern Mastery, 2 Hour Writer, Digital Economics
+
+In January 2023 Koe lists his offers as context on how his business is structured:
+
+- *Digital Economics*, to "productize yourself": systems for learning every skill and applying it through a one-person business;
+- *2 Hour Writer*, persuasive writing in a practical setting, meaning starting a personal brand;
+- *Modern Mastery*, a community for fitness, business, self-development and some spirituality and philosophy, with a strategy library, at $5 for the first month;
+- the free *7 Day Genius* creative ideas challenge, which taught his note-taking system and how he ideates content;
+- the *Power Planner*, to bring order to your life.
+
+**Source:** The $1 Million Dollar Skill Stack (Learn In This Order).md (2023-01-08)
+
+In March 2023 he explains how these offers relate as a ladder. The 2 Hour Writer course helps people get their ideas out in a persuasive and impactful way and distill their philosophy into "a public school through writing." The higher-ticket Digital Economics masterclass is for people serious about making it work, "to productize yourself." Some people dabble in Modern Mastery or 2 Hour Writer; those who are serious and committed to his philosophy of creating their own sign up for Digital Economics. After creating content and products, letting them evolve and treating the work as your life's work, "you'll be able to do whatever you want."
+
+**Source:** The Future Of One-Person Businesses (Take Advantage Now).md (2023-03-12)
+
+The ladder sorts buyers by commitment. The community and the writing course are low-priced entry points; the masterclass is for the minority who want to build what Koe built. This is the beginner-heavy market of Section 33.4 reflected in his own offers: a cheap product for the many, an expensive one for the few.
+
+#### Digital Economics and Solopreneur Sprints
+
+Two smaller units give the details of Koe's highest-priced program in 2023. *Solopreneur Sprints* was a 14-day cohort that started on February 7, 2023. Its content: creating your *niche of one* as a personal brand (Section 19.2), writing more than twenty foundational pieces of content with Koe on screen, outlining a growth strategy and learning how to repurpose content. He described it as building "the base of your one-person business in 14 days." The price was $150, compared with past cohorts at "9.99 or even 2000," presumably $999 and $2,000. After enrollment closed, access was through the Masters tier of Digital Economics, which included all future Solopreneur Sprints.
+
+**Source:** The Most Profitable Niche Is You (Create Your Niche Of One).md (2023-01-29)
+
+In April 2023 Koe announced that Digital Economics, which "houses" Solopreneur Sprints, would double in price around the start date of the next cohort, May 15, because he had been told it was underpriced. "I've been told to increase the price so many times. It was $999, it's already expensive, so I don't know, we're gonna try doubling the price and see what happens." He described Solopreneur Sprints as "a two-week cohort, sprint style," and Digital Economics as a masterclass, the two intertwined.
+
+**Source:** The Micro Education Business Model (How To Monetize Your Knowledge).md (2023-04-23); Solve Your Own Problems And Sell The Solution (Your Niche Is You).md (2023-04-30)
+
+The episode applies Koe's own pricing principle from Section 33.4: prices go up, not down, and an announced increase is a sales event. It also shows the experimental attitude of the same section: "we're gonna try... and see what happens." Price is tested, not deduced.
+
+#### 2024: 2 Hour Writer at $150 and Mental Monetization
+
+By June 2024 the line had changed. Koe describes 2 Hour Writer as his exact system for writing newsletters, threads and other content and dispersing it across all platforms, a course priced at $150. *Mental Monetization*, launched the week before, teaches how to monetize creative work and his growth strategy. He also promotes his book *The Art of Focus*.
+
+**Source:** Ideas Are The New Oil (How More People Get Rich In The Digital Age).md (2024-06-09)
+
+The course *Mental Monetization* takes its name from the concept of Section 33.6, which shows a recurring pattern: an idea developed in content becomes the name of the product that teaches it. 2 Hour Writer, at $150, sits exactly at the middle rung of the beginner ladder in Section 33.4 ($27, $150, $399), and its description as "my exact system" is the personal system product of Section 33.5 in practice.
+
+#### The distribution network around the products
+
+In the 2024 guide Koe shows an image of his distribution network. The image itself is not in the transcript; its components are reconstructed here from his narration. He thinks of a brand as having three pillars: growth, authenticity and authority.
+
+**Source:** The One-Person Business Model (How To Productize Yourself Full Guide).md (2024-02-06)
+
+| Pillar | Position in the image | Channels | Function |
+|---|---|---|---|
+| Growth | Top | Twitter, Instagram, LinkedIn | Top of funnel; short-form content on platforms where growth is easier to control through shares |
+| Authenticity | Bottom right | Podcast, YouTube, newsletter, blog/SEO | Where he talks more, gives more actionable advice and works in his own language; these grow more slowly, so he grows on the short-form platforms and transfers people over |
+| Authority | Bottom left | Course, cohort, community (and the book he was writing) | For others, any product that lets people buy from and invest in you through a meaningful exchange |
+| Center | Middle | Interest, expertise, experience | The overlapping core around which the brand revolves |
+
+Koe adds a remark about the authority pillar: people who have not started a business think "sales is bad," while they buy things they love every day. Section 27.4 discusses the same framework (the Trust Matrix) as a theory of branding. Here its relevance is that the products occupy one of the three pillars. They are the channel through which authority is built, which is the "authority catalyst" claim of Section 33.6 represented as a structure. The products are not attached to the end of a funnel; they are one of three legs of the brand.
+
+#### The portfolio over time
+
+The offers change from year to year, and the corpus records several snapshots.
+
+| Date | Offers named |
+|---|---|
+| June 2022 | Modern Mastery (community), Digital Economics (cohort), consulting for one-person service businesses |
+| December 2022 | Rebuilt offer stack: Modern Mastery, 2 Hour Writer, a cohort, the lead magnet Seven Days to Genius Ideas |
+| January–May 2023 | Digital Economics (with Solopreneur Sprints inside its Masters tier), 2 Hour Writer, Modern Mastery, the free 7 Day Genius challenge, the Power Planner |
+| August 2023 | The planner to be relaunched with his book; everything "evolving into the software that I'm building" |
+| June 2024 | 2 Hour Writer ($150), Mental Monetization, the book *The Art of Focus* |
+| 2026 | 2 Hour Writer's system evolved into Eden's Writing Hub (Section 33.5) |
+
+Later in 2024 Koe removed several of these courses and kept 2 Hour Writer and Kortex University; Chapter 37 covers that phase. Across all the snapshots, two things persist: a writing system at the center (from the two-hour writing habit to 2 Hour Writer to the Writing Hub) and a higher-level program for those who want to build a business like his. The lineage Koe described in 2023, from service to products to community to software, is the chapter's argument made biographical. The product is never finished; it is the current version of a system that keeps evolving with its maker.
+
+### Exercises
+
+1. **Inventory the map in your head.** Apply both of Koe's question sets (the three questions plus the bonus from 2024, and the four questions about problems solved, domains mastered, subjects you love and life-improving skills). Write down every candidate product idea they produce. Then choose one and explain, in a paragraph, why it is a piece of knowledge others would pay to skip discovering themselves, using Koe's argument about why people buy information.
+
+2. **Build an offer on paper.** For the idea you chose, write out all the elements of the 2025 offer: big problem and negative outcome (in the buyer's own voice), desired outcome, believable time frame, a first draft of the personal system as a list of steps between A and B, the education the system requires (step 4.5), and at least five features each bridged to a benefit with "so you can" or "without." Use The Attention Marathon as a model, and identify one piece of external evidence that could serve as validation, as the 14-million-view video did for Koe.
+
+3. **Diagnose a failing product.** Koe says that if a product does not sell, "the problem isn't burning enough and the outcome isn't desirable enough." Take a product you know that failed, or one of your own, and test this rule. Was the failure really located in the problem and the outcome? Identify at least one other possible cause that the chapter discusses (format, price, distribution, lack of marketing, beginner hell) and argue whether Koe's rule is complete or whether it oversimplifies.
+
+4. **Copy or create.** Koe advises studying and selling "what's already selling," and also says "we don't want to take what's free and make it paid" and that the system must be created, not copied. Write a short defense of a specific product decision (real or hypothetical) that shows exactly which layers you would replicate from existing products and which you would create yourself. Then state where, in your example, the line between legitimate "intelligent imitation" and copying would be crossed.
+
+5. **Choose the delivery and the price.** For the same product, choose one delivery mechanism from Koe's list of six and defend the choice against the two strongest alternatives, using the trade-offs in the table. Then design a pricing path for its first year that follows Koe's rule (free for testimonials, low, then raised) and explain where Justin Welsh's impulse-buy pricing would or would not apply to your audience.
+
+6. **Static course or implementation tool?** Koe's 2026 position is that static courses "don't cut it" and that the next level is a knowledge base with a chatbot for learning, practice and implementation, yet his own example of a working single-interest business is a philosophy teacher giving weekly lectures on Substack. Decide whether your product should be a static course, a course with worksheets, or an implementation tool. Justify the decision with at least two of the reasons Koe gives for the shift and at least one of the limits he acknowledges (such as the Uber Eats analogy or the risk of building something nobody cares about).
+
+7. **Question the revenue comparison.** Koe compares platform income with product income using his own figures and concludes that your own product "will always make you the most money." Identify what his comparison does not show: for example, what conditions made his product revenue possible, how representative his case is, and what the costs of building and selling products are compared with accepting sponsorships. Under what circumstances might a creator reasonably prefer sponsorships or platform income, at least for a period?
+
+8. **Trace your own lineage.** Koe describes his product history as a genealogy in which each offer grows out of the previous one ("it never ends; that's what makes it meaningful"). Map the skills, services, content and projects you have produced so far as a similar lineage, and project the next two steps it could take. Identify which existing piece could be bundled, as Koe bundled his old courses into Modern Mastery, to launch the next one.
+
+<!-- COBERTURA: U-001-041, U-001-048, U-001-103, U-001-104, U-001-108, U-001-111, U-001-114, U-001-121, U-001-124, U-001-136, U-002-022, U-002-123, U-002-127, U-002-131, U-004-005, U-004-033, U-005-031, U-005-041, U-006-167, U-007-028, U-007-034, U-007-113, U-007-166, U-007-170, U-007-177, U-007-185, U-007-187, U-008-030, U-008-037, U-008-038, U-008-065, U-008-071, U-008-086, U-008-121, U-008-152, U-008-168, U-008-172, U-008-176, U-008-180, U-008-184, U-008-186, U-008-187, U-008-188, U-009-035, U-009-036, U-009-039, U-009-056, U-009-077, U-009-139, U-009-140, U-009-146, U-009-148, U-009-158, U-009-159, U-009-160, U-009-161, U-009-162, U-009-165, U-009-173, U-009-174, U-009-175, U-009-176, U-009-177, U-009-178, U-009-179, U-009-180, U-009-181, U-009-221, U-009-238, U-010-042, U-010-052, U-010-058, U-010-066, U-010-202, U-010-287, U-010-325, U-010-335, U-010-338, U-010-342, U-010-361, U-010-362, U-010-364, U-011-036, U-011-084, U-011-085, U-011-206, U-012-075, U-012-076, U-012-112, U-012-115, U-012-216, U-013-071, U-013-100, U-014-047, U-015-080, U-015-122, U-015-123, U-015-124, U-016-078, U-016-133, U-016-135, U-016-286, U-016-287, U-016-296, U-019-067, U-019-085, U-019-089, U-019-141, U-021-037, U-021-045, U-027-255 -->

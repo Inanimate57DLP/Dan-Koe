@@ -105,7 +105,7 @@ Koe himself tells his audience to read such titles metaphorically, as a way of "
 
 How does persuasion show up in a single post? In an October 2023 video on building an audience from zero, Koe gives a standard he would repeat everywhere: "The key word here is persuasive: you have to capture, hold and deliver value on attention. You can't just write whatever you want and expect it to capture, hold and deliver value on attention." The phrase has three verbs, and each names a stage: capture (the reader stops), hold (the reader keeps going), deliver value (the reader leaves with something). He applies the same standard to replies and quote posts: a reply must "capture, hold and deliver value on attention to the point where they click on your profile."
 
-**Source:** How To Build An Audience With Zero Followers (What They Don't Tell You).md (2023-10-15)
+**Source:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md (2023-10-15)
 
 He then lists six elements to check in every post:
 
@@ -120,7 +120,7 @@ He then lists six elements to check in every post:
 
 The instruction for use is as important as the list. Save it, and when you write, "check the box of at least three to four of them at the start." Then develop the skill and "create your own rules of the game." The list is a beginner's scaffold, not a formula to satisfy completely in every post. The four middle elements (problem, solution, benefit, confidence) reproduce in miniature the structure the chapter returns to again and again: a problem, a path, a desirable outcome, stated by someone who believes it. The last element explains why Koe insists on reading: novelty comes from input, and a "dopamine hit" here means the small reward of seeing something familiar from a new angle (Chapter 11 discusses dopamine as the signal of something relevant to a goal; Chapter 18 develops novel perspective).
 
-**Source:** How To Build An Audience With Zero Followers (What They Don't Tell You).md (2023-10-15)
+**Source:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md (2023-10-15)
 
 This six-element checklist is a predecessor of the Ten Commandments of Engagement reconstructed in Chapter 23. Between 2022 and 2025 Koe's engagement checklists grew from three psychological hooks (problems, numbers and statistics) to six elements and then to ten commandments; "confidence or polarization" became "confidence and conviction." He gives no reason for the change, and the lists were always meant to be used selectively, never all at once.
 
@@ -128,7 +128,7 @@ This six-element checklist is a predecessor of the Ten Commandments of Engagemen
 
 The same video adds a rule and a method. The rule is to be persuasive everywhere: "Learn how to write persuasive content and do not not write persuasive content in every single situation you're in on social media. I don't care if you're in the DMs... writing your own post... in the replies... in a quote post... in an email... in a YouTube video... be persuasive at any given moment." The method is a mental act: "you have to transfer your consciousness to your reader and understand: are they going to read this, are they going to continue reading this, are they going to click off."
 
-**Source:** How To Build An Audience With Zero Followers (What They Don't Tell You).md (2023-10-15)
+**Source:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md (2023-10-15)
 
 *Transferring your consciousness* is a coined phrase that recurs in the corpus with related meanings: adopting another person's perspective in a situation, empathizing with someone while holding both versions of the truth, and, here, imagining oneself into the reader's mind in order to predict whether they will keep reading. The persuasive version is the most operational. It turns empathy into a test applied sentence by sentence. It also explains why Koe can say that practice happens everywhere: every message is a chance to run the test and see the result.
 
@@ -601,3 +601,421 @@ He illustrates with his own inbox. He gets about a hundred DMs and emails a week
 
 The bottom feeder belongs in this section because it is the persuader operating from the survival tension *in himself*. The ethics of Section 32.2 said that survival-mode values produce unethical persuasion; the bottom feeder shows that they also produce bad persuasion. His pitch names a threat ("do you want more views?") but mirrors no identity, paints no specific transformation and offers nothing that differs from the hundred others; it is generic because its author's attention is on the money rather than on the reader. The result is what market sophistication (Section 32.3) predicts: a flooded market in which nobody believes the claim. The value creator works the same tensions from the other side, from a life's-work perspective, getting good before getting paid.
 
+### 32.5 Promoting Yourself
+
+#### "For the love of God, promote yourself"
+
+After the theory of persuasion, Koe's most frequent practical diagnosis is almost embarrassingly simple. In December 2024, as step five of a guide to building a one-person business: "For the love of God, promote yourself." The only reason people do not make money, he says, is that they do not promote. They write content, wonder why they are not earning, and nowhere in their profile or their newsletters have they linked a product or service, or hit the pain points that make people want to pay. He tells his audience to do it even with zero followers or subscribers, to show that they have value, and he claims that more people follow you if you sell something. "People think selling is bad when it's the thing that builds your authority."
+
+**Source:** Build A One-Person Business As A Normal Person (From $0 To $10K).md (2024-12-01)
+
+He gives three reasons to start promoting early. The first is *incentive*: without a linked product you have no incentive to improve your writing; you will come to see it as pointless and go back to the comfortable job. His own case: he wrote his first ebook when he had about 40 followers and had made $3,000 from it by the time he reached 500, because he wanted it and drove as much traffic to it as he could. (The transcript renders the first figure as "$40"; the context indicates followers.) The second reason is that people *will not know they can pay you*: followers of three years tell him they did not know about his program 2 Hour Writer, and buyers, half the time, are not paying attention, so you have to promote consistently. The third is that otherwise *you will never get over your fear of selling*.
+
+**Source:** Build A One-Person Business As A Normal Person (From $0 To $10K).md (2024-12-01)
+
+The September 2024 version of the diagnosis is more psychological. Step four of a sequence for meaningful wealth is "to systemize the promotion and delivery of the solution to that audience." "People will ask me why they aren't making money from their creative work, and 99% of the time it's because they just don't do the things that make the money: they don't promote themselves, or they used to and they stopped; they don't have a schedule or a system; they stopped trying to get customers." They knew it subconsciously, Koe says, but needed someone to tell them, because "they secretly want it to fail so that they don't have to continue doing the hard thing." His way out: "just create a repeatable weekly process for promoting your solution or your product or service."
+
+**Source:** You Won't Look At Money The Same Again (How To Build Meaningful Wealth).md (2024-09-29)
+
+The claim that some people secretly want their business to fail is an interpretation, not a measurement, and the 99% is rhetorical. But it connects promotion to the theory of identity: a person who has not yet become someone who sells will find reasons not to, and the failure of the business protects the old identity (Chapter 4). The remedy is the one Koe proposes throughout the book: replace a decision that must be made every day with a system.
+
+In the June 2023 version of his one-person business model, marketing is the fourth pillar, which Koe calls *selling to yourself*. People ask him, stressed and overwhelmed, why they are not making money; it is because they do not self-promote. They are not giving themselves a chance, and they focus on everything that does not result in money. "You won't make a single penny if you never self-promote." Marketing exists across the whole brand, he adds, but it is most visible in four places: landing pages for products and services, emails promoting them, content promoting them, and outreach messages checking whether others are a fit. (He says the exact systems are in his programs Two Hour Writer and Digital Economics.)
+
+**Source:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md (2023-06-25)
+
+#### Followers do not know what you sell
+
+An October 2023 video supplies the definition and the evidence. The fourth principle of that video is "promotions, which is the destroyer of brands," a phrase Koe says with an ambiguous tone (it reads as ironic, given what follows). He had talked about his book *The Art of Focus* for close to three years, the time it took to write, "and I still have people message or comment that they didn't know I was writing a book, even if they've been following me for three years." The lesson: "just because someone has followed you for a certain amount of time does not mean that they know what you sell or how they can pay you, even if they're a perfect fit. You have to promote." And the definition: "promoting means that you're telling people about your product or service and sending them to a landing page with a payment link."
+
+**Source:** How To Make $1 Million A Year As A Digital Writer.md (2023-10-08)
+
+Koe uses the common word "promotion" in this precise sense. Promotion is not content about a topic near the product, and not brand-building in general. It is the explicit act of naming what you sell and sending people to where they can pay. Much content that creators think of as promotion fails this definition.
+
+#### The vocal 1%
+
+What stops people, besides fear, is the visible hostility of some commenters. Koe's December 2024 answer is that they are a minority. There is a vocal 1% who despise ads and self-promotion and who, while claiming to support independent artists, would rather you begged for donations or sponsorships than pitched your own product. Ignore them. You will see them in the comments and think nobody buys, but "for every one negative comment I get, 50 to 100 people buy my product. They just don't say anything, because they aren't idiots."
+
+**Source:** Build A One-Person Business As A Normal Person (From $0 To $10K).md (2024-12-01)
+
+He adds a fairness note. Not all products are good, but you do not need to hate a product simply because it is not for you. You see value in spending $10 a day on food, but not in something else costing $10 that could benefit another area of your life. If a product is genuinely bad, "go crazy," but you are still wasting your time. The 50–100 ratio is Koe's report of his own experience, not a general statistic.
+
+#### You are the marketing and sales department
+
+The October 2023 video also locates the problem in the calendar. "Whenever people come to me with problems with their marketing, it's usually just a lack of promotion, and good promotion: getting people to click and then guiding them down the page." "They can't monetize consistently because they don't promote consistently. They don't have a schedule or system in place to promote every single day. They don't have that block on their calendar that says go and make some money." The reason is structural: "You don't have a marketing and sales department like the job you work at. You are the marketing and sales department."
+
+**Source:** How To Make $1 Million A Year As A Digital Writer.md (2023-10-08)
+
+This is the "sales equals survival" of Section 32.2 turned into an organizational fact. In a company, promotion is someone's job; in a one-person business it is a block of time the owner either schedules or does not.
+
+#### The opposite trap: cashing in goodwill and short-term money games
+
+Koe's insistence on promotion is balanced by two warnings against the opposite excess.
+
+The first, from November 2023, is a trap he lists first among several: people focus too much on promotions, or only talk about their products. Instead, talk about your beliefs and opinions and educate people, 80% of the time, on the information necessary to become above average in your interests and skills. "Promote sparingly; it's like cashing in goodwill with your audience." The coined phrase *cashing in goodwill* treats the audience relationship as an account: education deposits goodwill, promotion withdraws it.
+
+**Source:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md (2023-11-26)
+
+The second, from the same October 2023 video that defines promotion: "The main trap I see is people playing short-term money games, blasting their audience with promotions on a crappy product and never improving what they offer." The remedy: "evolve over time, evolve what you write about, diversify platforms, create new products." Koe refuses to give "tactics and hacks": "this is a very long-term game; this is preferably something that you're doing for life."
+
+**Source:** How To Make $1 Million A Year As A Digital Writer.md (2023-10-08)
+
+The emphasis shifts across the years, and the shift is worth seeing whole.
+
+| Period | Koe's stance on promotion |
+|---|---|
+| 2022 | Rarely promotes on the timeline except at launches (though linking the newsletter under posts was already indirect promotion); promotes once a week at the end of a long newsletter |
+| October 2023 | In one video: promotions are "the destroyer of brands" (ambiguous tone), blasting a crappy product is the main trap, and yet you must promote because followers do not know what you sell |
+| November 2023 | Educate 80% of the time; promote sparingly ("cashing in goodwill") |
+| August–September 2024 | An explicit promotion schedule with a diagnostic; "it's better to promote bad than not at all" |
+| December 2024 | "For the love of God, promote yourself" |
+
+The direction is from nearly invisible promotion to scheduled promotion. Koe's own explanation, implicit in the passages, removes the apparent contradiction: what he criticizes is promoting a bad product that never improves, or promoting without giving more value than you ask for. Consistent promotion of a product that keeps improving, inside content that educates most of the time, is what he recommends. The 2024 schedules are also addressed to beginners who already have a product and are not selling it.
+
+#### The monetization lever: promotion built into content creation
+
+What does systematic promotion look like? Koe's earliest account, from November 2022, calls it the *monetization lever*. You must promote consistently; one thread will not do it. You need "a systemized, consistent promotion schedule" (he made the program Two Hour Writer partly to share his). At that time he promoted his products once a week, at the end of his newsletter, which was long enough that once a week was not too much: "I'm delivering more value than I am promoting." If he did not put offers in front of people every day, week and month, he did not make money. "Systemized" means worked into content creation: if you write three tweets a day, plug your product under one of them, every day. And iterate on the product according to customer feedback.
+
+**Source:** 11 Lessons From Growing A 7-Figure One Person Business.md (2022-11-06)
+
+In May 2023 he explained where promotion works best. The newsletter or blog post is "the best place to promote your products or services... the most trustworthy and authoritative place to promote them." His counterexample: a one-liner tweet saying "go live your best life," followed by "buy my course on how to live your best life." "You're not gonna make too many sales." Instead, write a longer piece, upload it to the blog with "a good call to action to your product or service," and link the blog under related tweets every week. "That's how my revenue shot up."
+
+**Source:** I Made $800,000 In One Year Writing 2 Hours A Day.md (2023-05-05)
+
+The reasoning ties back to Section 32.3. A one-liner sits at levels 1–3 of awareness and cannot carry a reader to a purchase. A long piece can walk the reader through several levels, and it builds the trust that makes the call to action credible. The tweet's job is to send people to the long piece, not to sell.
+
+#### Two schedules and a diagnostic
+
+In August 2024 Koe proposes separating the two activities. "Separate the two things, content, product." Make a *content creation schedule*, for example three social posts a day, one newsletter a week and one thread a week, "maybe maximum." Then make a *content promotion schedule*, for example promoting twice inside the newsletter and three times a week under a social post. "Create a system and then you test it and then you try it out and then you change it. You put it on your calendar and you actually do the thing."
+
+The separation makes diagnosis possible, because each schedule answers a different question. If you are not making sales, increase promotions; if that still does not work, make the promotions better. If you are not growing on social media, change your content schedule; if that still does not work, make the content better. "It's pretty freaking simple."
+
+**Source:** Don't Find A Niche. Become The Niche.md (2024-08-25)
+
+| Symptom | First adjustment | Second adjustment |
+|---|---|---|
+| No sales | More promotions (promotion schedule) | Better promotions |
+| No growth | Change the content schedule | Better content |
+
+A month later Koe gave a sample weekly system: promote your product, service, lead magnet or newsletter every day under one post (in the comments or in your story); send a weekly newsletter that promotes your product or service; and actively talk to five to ten people a week in your DMs about your product. "That's just one example, one option," but it gets many eyes on the offer, gives you the confidence that "you are at least trying," and gives you "data points to improve." "If you don't even promote your product then there's no way to improve; it's better to promote bad than not at all." Delivery of a digital product, he adds, "is relatively simple": usually a course platform or a coaching service.
+
+**Source:** You Won't Look At Money The Same Again (How To Build Meaningful Wealth).md (2024-09-29)
+
+"It's better to promote bad than not at all" is the promotional version of the build-to-learn principle of Chapter 14: feedback exists only for what is put into the world. A bad promotion produces data; no promotion produces nothing to improve.
+
+#### Evergreen pieces and the educating landing page
+
+The same August 2024 video explains how long-form material lightens the load of promotion. You can write one newsletter, post it as a blog article, turn it into a YouTube video, break it into content ideas, and plug those things under posts, "because then those are evergreen pieces of information." Social posts disappear, so it is wise to keep writing them to attract more people. Along the way you occasionally write about what you sell and plug a newsletter, an article, a video, a free download or the product's landing page. And the key point: "If my product landing page actually educates people to the point of trusting me and knowing that this is valuable for their life, then I don't really need to write about that thing too much, because it already lives on the internet and all I have to do is link to it."
+
+**Source:** Don't Find A Niche. Become The Niche.md (2024-08-25)
+
+*Evergreen pieces* are long-form assets that keep working after the post that links to them has disappeared. The educating landing page is the most important of them, which is why Section 32.6 treats its structure in detail.
+
+#### Baking promotions into the system
+
+A January 2023 video, from the period when Koe was developing the "niche of one," explains what systematic promotion buys beyond revenue: freedom of topic. "If you can create a system that bakes in promotions, then you have much more free space in your mind to talk about whatever you want." Promotion becomes scheduled and structural, so the rest of the content can follow interest. The coined phrase *bakes in promotions* names the idea.
+
+**Source:** The Most Profitable Niche Is You (Create Your Niche Of One).md (2023-01-29)
+
+His example: if you offer web design, you can talk about whatever you want (fitness, business, self-improvement, philosophy) throughout the week, and every Tuesday and Thursday write a web-design and business-specific thread with a promotion of your offer at the bottom. "That's a system that I can milk endlessly." If those threads are good, tackle a common problem and give value ("you understand persuasion"), that is how you make sales.
+
+**Source:** The Most Profitable Niche Is You (Create Your Niche Of One).md (2023-01-29)
+
+In the same passage he describes a sequence for selling a product or service while still talking about whatever he wants. The transcript numbers the steps unevenly, and the fourth is not clearly labeled, so the reconstruction below is partly interpretive.
+
+1. Talk about whatever you want in an interesting way that leads to growth.
+2. Craft a three-week strategy based on the topics and on the product or service. This builds authority. He was doing it at the time with the launch letters for Solopreneur Sprints, and asks his audience to check: "did I talk about business in the last letter, or did I talk about whatever I wanted?"
+3. Start at beginner level "for the sake of customer awareness" and increase to advanced as the launch approaches.
+4. (Presumably) Produce long-, medium- and short-form content "from the top down," at which point "the promotions write themselves."
+5. Systemize what worked and incorporate promotions throughout the week to keep sales high, such as the twice-weekly threads on a topic related to the offer.
+
+**Source:** The Most Profitable Niche Is You (Create Your Niche Of One).md (2023-01-29)
+
+Step 3 is the levels of awareness of Section 32.3 applied to a launch calendar: the sequence walks the audience up the scale as the sale approaches. "The promotions write themselves" describes the effect: when the content has already raised awareness of the problem and the solution, the promotion only has to name the product.
+
+#### Testing angles: one validated thing, a thousand ways
+
+How do you make promotions better, as the diagnostic demands? Koe's method, stated in December 2022 and repeated in February 2024, is to test *angles*. Put out a promotion with a specific angle; his example, for a writing product, is "here's a skill you can learn in your free time," which he calls "a crappy angle." If it sells nothing, dig in: how many clicks did it get? How many people reached the landing page? Which tweet was it under, and what was I talking about that day? Change things day after day until you hit an angle that sells well, then make *spin-offs* of it, because "content and promotions is about saying one validated valuable thing 1,000 different ways from 1,000 different angles."
+
+**Source:** You Have A $100,000 Product In Your Head (One Person Business Series).md (2022-12-04); The One-Person Business Model (How To Productize Yourself Full Guide).md (2024-02-06)
+
+The 2024 version places this inside a model of the business's moving parts. The brand changes little once it is solidified. The product gets updated a few times, few and far between. Content and promotions change the most. Content builds distribution (an audience, an email list, a community if you like); marketing distributes the product through promotions (plugs in social posts, newsletter promotions, changes of angle and message). Success requires "testing, persistence and iteration."
+
+Both versions describe the same time scale. It is a game of time and consistency: in the first year you hit wall after wall unless you have prior experience; within one to three years, with validated ideas and angles solidified in your head, growth becomes exponential as you consistently put out top content and promotions, and you can rely on self-awareness and intuition. The 2024 version ends with encouragement. Start writing, building and promoting; if you are anxious, "the unknown becomes known with time." Koe's analogy is being thrown into the ocean without knowing how to swim: if you could still breathe and live, you would eventually learn. He admits the analogy is imperfect. Lean into it: "it might as well be now."
+
+**Source:** The One-Person Business Model (How To Productize Yourself Full Guide).md (2024-02-06)
+
+The formula "one validated thing 1,000 ways" is the same instruction Koe gives for level 5 of awareness (Section 32.3): the most aware reader needs the right reason, and different angles are different reasons. Validation comes first (an angle that has sold), variation second.
+
+#### Long-form and short-form promotions
+
+In November 2023 Koe distinguishes two sizes of promotion. *Long-form promotions* are like a full sales page: you fill the page by guiding people through the structure of problem, outcome and solution; the introduction of the video he was recording was itself an example. *Short-form promotions* are like a call to action in an email. He then performed one live, for his program Digital Economics: "If you've tried the latest and greatest business models without any success and are considering accepting your fate at a day job, it's because you are falling for tactics. In Digital Economics I teach the principles of building a purposeful business (brand, content, product and promotion) so you can talk about your interests and earn a creative income." And then: "You see what I did there."
+
+**Source:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md (2023-11-26)
+
+The example is worth dissecting with the tools of Section 32.4. "If you've tried the latest and greatest business models without any success" mirrors an identity and names a threat. "Considering accepting your fate at a day job" amplifies the threat into a negative outcome. "It's because you are falling for tactics" gives a diagnosis that is also a novel perspective. "I teach the principles..." names the solution and its mechanism. "So you can talk about your interests and earn a creative income" paints the transformation. Three sentences contain problem, cause, solution and benefit.
+
+#### Magnetic content
+
+In September 2024 Koe names the content that surrounds an offer once it exists. "Magnetic content is short or long posts that are written on pain points, benefits, the ideal lifestyle, quick tips, personal takes on common advice, rewrites of high-performing content from other accounts, and actionable steps to overcome pain points, all relating to your offer." Once you have an offer, he says, writing around it is relatively simple. And the posts do a second job: "the people who comment or share these posts are people expressing interest in that topic," so they are "perfect to reach out to on a warm note."
+
+**Source:** The Fastest Way To Build A One-Person Business (Beginner Guide).md (2024-09-15)
+
+Magnetic content is the bridge between content and direct selling. It sits at levels 1–3 of awareness (pain points, tips, steps), it is anchored to the offer rather than to whatever the writer feels like discussing, and it generates a list of warm prospects for the DM process described below.
+
+#### The ecosystem behind promotion
+
+Promotion is one part of a connected system, and in July 2024 Koe described both the system and the technical skills that operate it. He separates future-proof skills from the "technical know-how" needed in "this digital Renaissance environment": "this is what's relevant right now, but it may not be relevant in the future." People worry about the technical skills, he says, "because they don't have the previous future-proof skills that allow them to adapt and learn the technical skills of the time." The technical skills are five:
+
+| Technical skill | Koe's description |
+|---|---|
+| Social media | "Building a name for yourself as your storefront for the value you create, the command center for your business" |
+| Content | Writing, design or video "to educate, entertain and inspire people to see your value," attracting an audience that wants to buy |
+| Email marketing | Newsletters or sequences "to nurture the audience you acquire" |
+| Visual design | "Illustrating the vibe of your brand to spark emotion in your viewers" |
+| Funnel building | "The inner sections of landing pages, websites and how you fuel them with the audience" |
+
+The skills matter only as an *ecosystem*: "you need to understand the ecosystem." The flow is: attract people with social media → get them onto your newsletter → send them to a landing page → they purchase the product → "then you talk to them about buying a service from you." And he expects the requirements to change: "The requirements to learn these skills are going to change as AI shakes the industry; they're going to be easier to learn because AI is going to be able to do these specialized tasks faster."
+
+**Source:** The Future Of Work (Avoid Learning These Skills).md (2024-07-28)
+
+Note the order of the flow: product before service. In this version the service is the higher-priced step offered to people who have already bought; elsewhere (Section 32.6, Chapter 29) Koe recommends building the service first to make money faster. The two are not contradictory: one is the order of building, the other the order of a mature customer's path.
+
+Later in the same video, as pillar 4 (marketing) of his business model, Koe lays out a concrete system. "If you don't promote yourself you're not going to make money, it's as simple as that." People who ask why they are not making money (anymore) often "stop promoting yourself and you don't realize it; you cut off a certain channel... and you didn't realize how much it was contributing to your revenue." The system:
+
+1. Content: "promote yourself every single day under one of your posts."
+2. A lead magnet or free download "based on the basics around what it is that you sell." For a web designer: how to set up WordPress or a landing page, or a checklist.
+3. People who download it enter your newsletter; promote the lead magnet every day to get subscribers.
+4. Write a weekly newsletter with details, insights and valuable advice on the topic.
+5. Promote your product or service in the newsletter.
+6. Refine over time: "if you aren't making as much money as you want, then you change something, you try a new strategy... it's just trial and error until you get there."
+
+He closes with a remark about courses that also applies to this chapter: you do not take one course in your lifetime and get cured; "life is a course and most people aren't paying attention to it."
+
+**Source:** The Future Of Work (Avoid Learning These Skills).md (2024-07-28)
+
+#### The qualifying questionnaire: a landing page for one-to-one offers
+
+For a beginner selling a one-to-one service, Koe proposes in September 2024 a substitute for the landing page: the *qualifying questionnaire*, "a replacement for a landing page or a website," easier to build and doing the same job, since most clients come from content anyway. Link it in your bio and in your content, promote it under your content almost daily, and when someone fills it out, reach out, answer their questions and send the payment link. Use JotForm, Typeform or Google Forms (free and well known).
+
+**Source:** The Fastest Way To Build A One-Person Business (Beginner Guide).md (2024-09-15)
+
+The form has a title, a description and six questions.
+
+| Element | Content | Function Koe assigns to it |
+|---|---|---|
+| Title | "Work with me one-on-one" | — |
+| Description | "Implement [your unique process] so you can reach [desired outcome]": the offer in one or two sentences | — |
+| Q1–Q3 | Name; email; social media handle | Contact |
+| Q4 | "What are your biggest struggles?" (multiple choice, relevant to your topic and offer) | Makes the prospect aware of their problem |
+| Q5 | "Where do you want to be 30 days from now?" (multiple choice) | Sparks the desire to change |
+| Q6 | "This is not a free service. Are you serious about working together to achieve [desired outcome]?" (yes/no) | Plants the idea of payment |
+
+"Question four makes the prospect aware of their problem, question five sparks the desire to change, question six plants the idea of payment in their head." The questionnaire is, in miniature, a persuasive sequence: it raises awareness of the problem (lever 1), paints the destination (lever 4) and qualifies by commitment (a mild form of lever 3). On YouTube, where there are no DMs, the same process runs differently: create content around pain points, pitch the offer with its benefits, put the questionnaire in the description, and email the people who fill it out.
+
+**Source:** The Fastest Way To Build A One-Person Business (Beginner Guide).md (2024-09-15)
+
+#### Selling through DMs: the four-step script
+
+The same September 2024 guide gives the script for the conversation that follows, whether the prospect came from magnetic content or from the questionnaire.
+
+**Step 1: pick up the conversation where it left off.** If they commented on or shared a post, send them the link to the post and respond to their comment in the DMs. If they submitted the questionnaire, briefly walk them through its questions: "Hey [name], I saw you submitted the form to work with me. Can you tell me more about why you filled it out? What are you looking to get out of working with me?"
+
+**Step 2: ask how their endeavors are going.** This lets you understand their goals and struggles, and it also makes them aware of a problem or blocker. For fitness: "How's the weight-loss journey going? Is there anything I can help with?" The question reminds them of the lifestyle they want and of their sticking points. For questionnaire replies, ask what they have already done to fix the pain points they listed.
+
+**Step 3: give novel advice and mention your offer.** Start with free value, to prove authority, and make it non-basic: "telling them to drink water is going to make them think you aren't worth working with; prove you know your stuff." End with the offer and its price: "I actually offer a pack of four sessions to help with this. I help you implement [unique process]... The total cost is on par with a good personal trainer: $1,000 for the four sessions." For questionnaire replies, explain the next steps instead: what each session covers, scheduling, projects, and the $1,000 invoice. "Just state the price in the message."
+
+**Step 4: handle objections and send the invoice** (through Stripe or PayPal). They pay or they don't, and you move on.
+
+**Source:** The Fastest Way To Build A One-Person Business (Beginner Guide).md (2024-09-15)
+
+The script's logic is the logic of the chapter applied to a conversation. Step 1 re-establishes context. Step 2 raises awareness of the problem, and does so by asking rather than telling. Step 3 earns the right to sell by demonstrating competence (the "novel advice" is the novel perspective of Section 32.1, now as proof of authority), and anchors the price to a familiar comparison. Step 4 is deliberately short.
+
+#### "Bad at sales, good at sales": content as the sales call
+
+Koe's comment on step 4 reveals his whole view of selling. "I am not a sales expert. I'm actually fairly bad at sales, but I am good at sales because I'm good at content and I'm good at giving education and value to make people trust me." He does little objection handling and has not studied it. When people say "can I talk to my wife about it?" or "can I answer in seven days?" he does not push back: "yeah, no problem, and things tend to work out." A sales call can help but is not necessary, "especially if you write content: people trust you, and people have already been through four sales calls with you because they've been following you for a month, your sales calls being the content that you write."
+
+**Source:** The Fastest Way To Build A One-Person Business (Beginner Guide).md (2024-09-15)
+
+The *four sales calls* image summarizes the content strategy of Part IX from the point of view of selling. Every piece of content a follower has read has already done what a salesperson does on a call: raised awareness, answered objections, demonstrated competence, built trust. By the time the DM arrives, the sale is mostly made. This is also why Koe can say he is bad at sales without contradiction: he is bad at the *call*, and good at the system that makes the call unnecessary.
+
+#### The beginner's route: 100 DMs and the ROI
+
+For someone without an audience, Koe's 2026 advice is blunter. "You absolutely can send 100 DMs today, ask AI how to send a good DM, and if you have a decent offer that people want, they may be willing to pay you." The argument concerns business buyers: "If you aren't a business owner you may not understand that yet, because you don't understand that businesses want to grow, and if you can help them grow or make more money, they're going to want to pay you." He offers his own behavior as evidence: "The amount of people that I have hired for 1, 5, 10, 50,000 dollars after starting a business is absurd, but if the ROI is there, the ROI is there."
+
+**Source:** How To Build A $1M One-Person Business Faster With AI.md (2026-03-15)
+
+This is outreach without warmth: no content history, no four sales calls. It works, on Koe's account, for a different reason: the buyer is a business evaluating a return on investment, not a person evaluating trust. Chapter 29 places this route among the ways to get a first client.
+
+#### The simplest first-offer process
+
+Finally, a January 2025 passage, given during a promotional mention of the platform Stan (which he likes because on login you see five or six options: digital product, coaching call, community), compresses the whole section into a beginner's process. Find something you want to create and name it (a coaching call, for example). "Write the copy for it, just pain point, what I offer," and "start testing the waters." "Don't overcomplicate it"; if you need help, "just Google copywriting frameworks, try it out, experiment." Then, for "the main interest that you're talking about," you need to "teach more around that, build authority around that thing, hit pain points around that thing and then pitch." Pitching is hard for many people, "but you just do it and then eventually you get used to it, you get a payment and you're like, oh crap, that worked."
+
+**Source:** How To Grow An Audience With Zero Followers & Build A Profitable Startup.md (2025-01-28)
+
+The four verbs at the end (teach, build authority, hit pain points, pitch) are the section in miniature. Teaching is the 80% of education; authority is what the education buys; pain points are the first lever; the pitch is the promotion that so many creators never make. The last sentence describes the fear of selling from the other side: it disappears with the first payment, which is why Koe tells people to promote even with no audience at all.
+
+### 32.6 Landing Page and Lead Magnet: The Minimal Funnel
+
+The promotion systems of Section 32.5 all point somewhere: a landing page with a payment link, a free download that captures an email, a small product that earns trust. This section assembles those pieces. Together with the newsletter (Chapter 24) they make up what can be called the minimal funnel: the fewest assets a one-person business needs to turn attention into customers.
+
+#### The landing page outline
+
+In a February 2025 guide to making a first profitable product, Koe gives the general outline of a landing page. It runs, from top to bottom: headline; subheadline; a button (possible on a custom page, though not on Stan); an illustration of the problem and its negative outcome; the desired outcome and the personal system; social proof; the offer, with features and benefits; a call to action; and an optional FAQ.
+
+**Source:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md (2025-02-10)
+
+| Part | Content | Purpose |
+|---|---|---|
+| Headline and subheadline | The most potent combination of big problem, desired outcome, personal system, time frame and possibly target persona | "A condensation of all of the value inside of your offer" |
+| Button | A link to purchase, high on the page (custom pages only) | Let the already-convinced buy immediately |
+| The lead | A few short sentences amplifying the problem, then a bullet list of pain points; or a personal story | Raise awareness of the problem; give belief that life can change |
+| Personal system | The turning point and the system that solved the problem; why it is better than most solutions on the market; a graphic if possible | Present the mechanism |
+| Social proof | Testimonials, or your own results | Make the promise believable |
+| Offer introduction | Product name, each feature and how it is structured, each with a benefit | Show what is bought and why each part matters |
+| Call to action | Ask them to buy; a before/after comparison | Restate the problem and the main benefits at the moment of decision |
+| FAQ (optional) | Answers to common questions | Handle objections (omit on Stan) |
+
+#### Headline and subheadline: a condensation of the offer
+
+Koe's rule for the top of the page is that the headline and subheadline "should be a condensation of all of the value inside of your offer." They combine the most potent parts of five ingredients: the big problem, the desired outcome, the personal system, the time frame and, perhaps, the target persona. His example comes from a hypothetical study program. Headline: "Study for 12 hours a day without Adderall with a 14-day program." That combines the desired outcome and the time frame, which he judges the most potent pair. The subheadline adds what is missing: "Use the Attention Marathon system to avoid a low-paying 9-to-5 and conquer cheap dopamine." Here the personal system ("the Attention Marathon system") and the big problem appear, together with a high-performing topic ("cheap dopamine") chosen to capture attention. (He notes that templates are in his program Mental Monetization.)
+
+**Source:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md (2025-02-10)
+
+The example also illustrates the believable goal of Section 32.3: the claim is specific (twelve hours, fourteen days) and names a mechanism, which is what Schwartz's third stage of sophistication requires. Whether "twelve hours a day" is believable is a judgment the reader can make; Koe uses it as an illustration of structure, not as a recommended promise.
+
+#### The lead and the personal system
+
+After the headline comes "a wall of text that's called the *lead*," where you illustrate and amplify the big problem and its negative outcome. "Lead" is a copywriting term that Koe uses in its standard sense: the opening section after the headline. His reason for starting with the problem is the levels of awareness: "When you start with the problem, you increase the reader's awareness around the problem," and you give them the belief that their life can change by using a system that helped you.
+
+His own style, used on all his landing pages, is a few short sentences that state the problem, followed by a bullet list of pain points that stem from it. If you do not know what to write, use a personal story: where did you start, where were you before, why did you want to change, what did you try that did not work? Then transition into the personal system, continuing the story: what was the *turning point*, how did you discover and create the system, why is it better than most solutions on the market? Add a graphic to explain the system if you can.
+
+**Source:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md (2025-02-10)
+
+The lead and the system section together are a long-form promotion in the sense of Section 32.5: a guided walk through problem, outcome and solution. They also apply the first and fourth levers of Section 32.4: naming the threat (the bullet list of pain points) and painting the transformation (the story of the turning point). The personal story is the "tell people why it changed your life, because they will read it as if they were changing theirs" heuristic from Chapter 23.
+
+#### Social proof, the offer introduction and the call to action
+
+After the personal system come results or testimonials: images, text, your own results. If you have no social proof yet, list your own: screenshots, pictures of yourself (a six-pack if that is what you sell; you at a desk). "You need to show something to show that it's believable." Testimonials accumulate as you get customers, and you can also ask friends and your network to go through the product for free in exchange for a testimonial.
+
+Next comes the features-and-benefits section, which Koe calls the *offer introduction*: a headline that introduces the product's name, then each feature and how it is structured, each paired with a benefit. Then the main call to action, asking the reader to buy. Koe likes a comparison of where you were before the program and where you will be after it, which brings up the problem again and reminds the reader of the main benefits at the moment of decision. Finally an optional FAQ. On Stan, he says, "just get straight to the point" and leave it out, because it increases the time it takes to reach payment.
+
+**Source:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md (2025-02-10)
+
+The advice to skip the FAQ shows the page's governing principle: every section must move the reader toward payment, and a section that lengthens the path without moving them is cut. The same principle produced the "time to result" of Section 32.4, applied here to the purchase itself.
+
+#### Learning landing pages with AI
+
+How does a beginner learn to write all this? In March 2026 Koe applies to landing pages the method of learning with AI that he describes for other skills (Chapter 16). "If you're going to create a product or service, then why would you just try to write the landing page yourself without learning anything first? Normally you could take a course, but most people aren't going to do that either. But now you can find a landing page from someone that you like, that you know their stuff is working well, and you can just tell the AI to teach you how it works and then help you write your own landing page like that."
+
+**Source:** How To Build A $1M One-Person Business Faster With AI.md (2026-03-15)
+
+The method is "imitate, then innovate" from Chapter 23, with the AI as tutor: a working example is deconstructed into its structure, the structure is explained, and a new page is written on the same skeleton. It presupposes the judgment to choose a page that works and is in a style one likes, which is where the human-nature foundation of Section 32.1 comes back in.
+
+#### The lead magnet as your first niche
+
+The second piece of the funnel is the *lead magnet*: a free product offered in exchange for an email address. Koe gives the common term a meaning of his own. In July 2023, in a video arguing that "niche down" is bad advice for smart people, he presents the lead magnet as "your first niche." He has built and tested eight to ten of them: an hour-long video on how he creates websites; the basics of marketing; the Power Planner; "Seven Days to Genius Ideas"; "The Internet Profit Starter Pack"; and "The Path to Power," an ebook on his life philosophy.
+
+The argument is about freedom of topic. People with a niche brand "consistently have to talk about the one topic." Take video editing as an example (the same applies to health, nutrition, marketing, sales or philosophy). If you create a lead magnet on the basics of video editing, you do not always have to write content about it. You can branch into something new, sprinkle video-editing content here and there, and plug the lead magnet, and people have "everything I could ever want to say about that thing right in their hands." Along the way you build your newsletter by capturing emails.
+
+**Source:** Niche Down Is Terrible Advice (For Smart People).md (2023-07-04)
+
+The lead magnet thus does for topic what "baked-in promotions" (Section 32.5) does for selling. One concentrated, authoritative asset holds the niche, so the timeline is free to follow the writer's interests, which is the practical mechanism behind "you are the niche" in Chapter 19.
+
+His examples of formats, from the same video: checklists that get results (a web-design checklist); Notion templates for systems such as writing or habit formation; beginner-level ebooks covering the fundamentals, to get people up to speed with your more advanced content; video tutorials or screen recordings of the same beginner fundamentals. Create a lead magnet "to establish authority in the area that you want to monetize, or at least you think you want to monetize, because you can always create another lead magnet; it takes like a day." Over time you build "a niche audience of downloaders under your much broader audience of your brand." If you later want to branch into health or music production, you do the same thing again.
+
+**Source:** Niche Down Is Terrible Advice (For Smart People).md (2023-07-04)
+
+*A niche audience of downloaders* is the coined name for the result: within the broad audience of a personal brand, a set of sub-audiences, each defined by the free product it downloaded and therefore by the problem it has declared. Each sub-audience is a market for a corresponding paid offer. The cost of each experiment, about a day, is what makes the strategy compatible with a multi-interest brand.
+
+#### Authority in one place: plug it often
+
+In June 2024 Koe restates the lead magnet's second purpose as "writing what you want." With all the authoritative information on one subject in one place, you do not need to write about it so much on the timeline. But you must plug the lead magnet often, to maintain the authority. His example: with a writing lead magnet, he can talk about meditation or the power of long walks, and then build a bridge: "If you want to use your walks as a way to generate ideas for your writing, I teach writing; download my free product."
+
+**Source:** Ideas Are The New Oil (How More People Get Rich In The Digital Age).md (2024-06-09)
+
+The bridge sentence is the technique. A post on any topic can end with a link from that topic to the lead magnet's topic, as long as the connection is plausible. This is the short-form promotion of Section 32.5 pointed at a free product rather than a paid one.
+
+#### Education on autopilot, even with a disconnect
+
+A February 2023 passage adds what some creators forget about the lead magnet: it keeps working even when it does not match the content that sent people to it. Suppose Koe talks about emotional management, sells web design, and offers a web-design lead magnet framed as "Do you want to learn a new skill, or do you have a business and want more customers?" There is a bit of a disconnect, but people will still click and become educated "without any of your doing." "Once you write a lead magnet, that content is there and it's going to be educating as many people that go through it." You can pitch your service inside it; or the downloaders are on your email list and will eventually buy once you talk more about web design "and hit the right pain point."
+
+**Source:** How To Write Authentic Content (Social Media Growth 101).md (2023-02-05)
+
+This is the argument from Section 32.3 seen from the funnel's side. The lead magnet sits at levels 2–4 of awareness: it takes a person who has expressed interest in a problem and educates them toward a solution, on autopilot. The disconnect between content and lead magnet is tolerable because the lead magnet's own framing names a broad and desirable problem (a new skill; more customers), which is how Section 32.3 says content should be framed for people who are discovering rather than searching.
+
+#### The micro product: a $10 resume
+
+The third piece is a small paid product. Koe's illustration, told in December 2024 and again in June 2025, concerns John Hu (rendered "John Hugh" in the transcripts), a co-founder and the CEO of Stan, the creator platform for hosting digital products that Koe recommends as affordable and well-rounded (he mentions that Steven Bartlett, of *The Diary of a CEO*, became a co-owner). Hu got his start on TikTok after working at Goldman Sachs, making career-advice videos. His audience kept hinting that they wanted his resume, the document that got him the Goldman job; he mentioned it here and there, then realized he could put it up "for 10 bucks as a template" and "see how it does." It made $1,000 in a short time, and thousands of dollars in total. "He didn't overcomplicate it."
+
+**Source:** Build A One-Person Business As A Normal Person (From $0 To $10K).md (2024-12-01); How To Build A Better Personal Brand Than 99% Of People.md (2025-06-08)
+
+According to the Stan team, Koe says, many people do this on the platform: some have made millions, some thousands, some hundreds, depending on their audience, their traffic from social media and newsletters, their promotion, and how they improve based on results. His lesson for the viewer: "You probably already have something you can upload to the internet, put a small price tag on, create content around and build a side income." It may be on your hard drive, in your notes, or still in your head, waiting to be written as a short ten-page ebook or guide. Koe calls this a *micro product*.
+
+**Source:** Build A One-Person Business As A Normal Person (From $0 To $10K).md (2024-12-01)
+
+The case is also an example of the levels of awareness at work. The audience was asking for the resume: they were at level 5 for that specific product before it existed. Hu's contribution was to notice the demand and attach a price to it.
+
+#### The micro product's job: trust for a bigger purchase
+
+What is the micro product for? Koe's answer in the same December 2024 video is that it builds trust for a higher-priced service. Many more people pay for a higher-priced service once they have already invested in you; some do not want to go all-in on an expensive offer and want to pay something small first to see whether they trust you. So inside the micro product, link to the service, so that people who go through it click and are more likely to buy.
+
+But he sets a priority. You do not strictly need a micro product; it is lower priority than the *micro service* (the small first service of Chapter 29). "I would build the service first so you can make money faster." If you have time and an idea, build the micro product quickly, as another income stream.
+
+**Source:** Build A One-Person Business As A Normal Person (From $0 To $10K).md (2024-12-01)
+
+The order matches the start-up sequence discussed in Chapters 29 and 30: the service makes money fastest; products come as the business grows. The 2024 ecosystem of Section 32.5 (product first, then service) describes a later stage, when the product has become the entry point to a higher-priced service.
+
+#### Trust tripwires: Justin Welsh's term
+
+Koe did not invent the logic of the micro product. In a December 2021 interview, Justin Welsh, the creator and solo-business operator who appears throughout the book as a guest and a case, described his own products in these terms: "Most of my stuff is what I call *trust tripwires*, right? So, it's getting people in with a lower-cost product that delivers incredible value, and having them start to say, like, this is someone we can trust. When I spend money with Justin, I know that I'm going to get significant value from the product." The product's main function is the trust it produces, which feeds later purchases. Welsh ties this to organic growth: "the best way to do that is to continue to go out and build an organic following."
+
+**Source:** Justin Welsh Shows You How To Start & Grow A One-Person Business.md (2021-12-20)
+
+The term is Welsh's, and Koe uses it as a third-party idea. His own "micro product" (2024) is a close relative: Welsh emphasizes the *trust* that a low-cost, high-value product creates; Koe emphasizes the *simplicity* of creating one from what you already have, and its place in a sequence after the service. The two descriptions fit together: what the small product really sells, in Welsh's account, is the expectation of value in future purchases.
+
+**Complementary context:** In direct-response marketing, a "tripwire" is a low-priced first offer designed to turn a prospect into a paying customer, after which larger offers follow. Welsh's phrase keeps the mechanism and renames its purpose: the first purchase is meant to create trust rather than merely to break the buying barrier.
+
+#### Why people buy: trust and perceived benefit
+
+An August 2024 passage states the principle that runs through all three pieces of the funnel. From traffic, you promote a newsletter or a product. People look at your content, then at the product, and buy it if it is good. Then you write emails to *nurture* the audience beyond top-of-funnel content: you get very specific and help people, they trust you more, and they want your product. That, Koe says, is why you buy anything (not always via email): because you trust it, you want it, and it benefits your life. And the corollary for critics: "You're only calling it a scam because it doesn't benefit your life, or you can't see the benefit for your life."
+
+**Source:** Minimalist Productivity Work Less, Do More.md (2024-08-11)
+
+He adds an estimate of what this makes possible. With an audience flow in the hundreds of thousands for six to twelve months, and iteration, he finds it hard to believe you could not convert a fraction of it into buyers. Skilled people do it better, so a possible mindset is to try for three or four years and then make a million in six months. The figure is aspirational framing, of the kind Chapter 30 discusses, not a forecast.
+
+The remark about "scam" uses the word in a sense Koe gives it elsewhere: a scam is promising something you do not deliver and not refunding it, and, in this second sense, it is what people call a product whose benefit they cannot see. The second use returns the chapter to its starting point. Value is perceived, and a person who does not perceive the benefit of a product will not buy it and may condemn it. The job of the landing page, the lead magnet, the micro product and the nurturing emails is the same as the job of persuasion in general: to make the benefit visible to the person for whom it is real.
+
+#### The minimal funnel assembled
+
+The pieces of this section and the previous one form a single path, which can be laid out from the reader's side:
+
+| Stage | Asset | Level of awareness addressed | What it does |
+|---|---|---|---|
+| Discovery | Social posts, including magnetic content | 1–3 | Name problems, offer quick solutions, attract attention broadly |
+| Capture | Lead magnet (or, for one-to-one offers, the qualifying questionnaire) | 2–4 | Concentrate authority on one problem; collect the email or the application |
+| Nurture | Weekly newsletter; emails | 2–5 | Deepen trust; give specific help; promote the product or service |
+| Conversion | Landing page; DMs | 4–5 | Present the system, the proof and the offer; ask for payment |
+| Trust for the next purchase | Micro product (trust tripwire) | 5, for a larger offer | Prove value at low cost; link to the service |
+
+Koe's statements about this path vary in order and emphasis across the years, as the chapter has shown, but the structure is stable: content raises awareness, owned assets concentrate trust, the landing page or the conversation converts, and promotion, scheduled and repeated, connects every stage to the next. Chapter 33 turns from the path to what sits at its end: the product itself.
+
+### Exercises
+
+1. **Diagnose your own resistance to selling.** Koe argues that anyone who dislikes selling is already selling (a worldview, an employer's product, their beliefs) and that the feeling of being a "sellout" signals inner work or a money perspective that needs to change. Write down the strongest objection you hold against promoting your own work. Then analyze it with the chapter's tools: is it a principle you arrived at, or a belief installed by people who do not have the life you want? Does your objection, laid out as an argument, have the structure of problem, amplification, solution and promised benefit that Koe says it would share with a sales page?
+
+2. **Test the line between persuasion and manipulation.** Koe uses two criteria: whether persuasion is conscious, and whether it seeks mutual or selfish benefit. Construct a case in which someone persuades fully consciously toward a selfish end, and another in which someone persuades unconsciously toward an outcome that genuinely benefits the other person. How does Koe's framework classify each? Is his answer (that unethical use comes from survival-mode values and is cured by development) sufficient, or does the first case require a rule his framework does not supply?
+
+3. **Map a real funnel onto the levels of awareness.** Take one creator or business whose content you follow and identify one example of their output for each of the five levels (social posts, newsletter, free download, landing page, product). Where does their material cluster? Which level is missing or weakest? Using Koe's 2024 table of content focus per level, propose one piece of content that would fill the gap, and state which level-5 definition (incentive, felt impact, "the right why," or a nudge) you are applying and why.
+
+4. **Rewrite a pitch with the five levers.** Take a weak promotional message you have received (a cold DM, an ad, a generic email; the "Walmart-quality captions" pitch is a model) and rewrite it so that it pulls all five levers in order: name the threat, mirror the identity, exclude people, paint the transformation, give the first step. Then evaluate your version against the ethics of Section 32.2: at what point, if any, did the rewrite cross from mindful helping into something you would be uncomfortable defending?
+
+5. **Reconcile "exclude people" with "isn't alienating anyone."** In 2023 Koe said that calling out a group intelligently alienates no one; in 2026 he recommends deliberately naming who a message is not for. Write a short argument for the conditions under which each approach is correct, considering the stage of the audience relationship, market sophistication and the size of the creator's audience. Identify one situation in which exclusion would clearly backfire.
+
+6. **Design a promotion system and its diagnostic.** For a product or service you have or could plausibly create, design separate content-creation and content-promotion schedules for one month, including at least one evergreen long-form piece and one baked-in recurring promotion. Specify in advance which data you will look at (clicks, landing-page visits, which post the promotion sat under) and what you will change if you get no sales and if you get no growth. Explain how your plan avoids both of Koe's traps: never promoting, and "cashing in goodwill" on a product that never improves.
+
+7. **Question the market-sophistication verdict.** In January 2026 Koe argued that info products have reached Schwartz's final stage of sophistication, where brand and a tribe with a mission become the differentiator; in the same period he also said they would not die. Choose a market you know well and decide which stage it is in, giving evidence from the claims you see repeated in it. What would a believable goal and a credible mechanism look like in that market? Under what conditions would "your mission is your niche" be bad advice?
+
+8. **Build your minimal funnel on paper.** Draft, for your own work, the headline and subheadline of a landing page (combining at least desired outcome, time frame and personal system), the opening lines of its lead, the title of a lead magnet that could be made in about a day, and one micro product you could price small from something you already have. Then transfer your consciousness to a reader at level 2 of awareness and identify the first sentence at which they would click away.
+
+
+<!-- COBERTURA: U-001-067, U-001-125, U-002-101, U-002-124, U-002-133, U-002-135, U-004-034, U-004-145, U-004-146, U-004-153, U-005-032, U-006-096, U-006-138, U-006-141, U-007-024, U-007-077, U-007-189, U-007-217, U-008-001, U-008-002, U-008-003, U-008-005, U-008-006, U-008-016, U-008-045, U-008-046, U-008-153, U-008-154, U-008-165, U-008-166, U-008-175, U-009-058, U-009-064, U-009-065, U-009-125, U-009-137, U-009-150, U-009-186, U-009-187, U-009-188, U-009-260, U-009-262, U-009-263, U-009-264, U-010-018, U-010-019, U-010-020, U-010-146, U-010-147, U-010-181, U-010-182, U-010-183, U-010-205, U-010-209, U-010-333, U-010-366, U-011-062, U-011-063, U-011-162, U-011-163, U-012-008, U-012-107, U-012-110, U-012-200, U-013-043, U-013-077, U-013-078, U-013-081, U-013-094, U-013-101, U-013-224, U-013-225, U-013-228, U-013-229, U-013-232, U-013-235, U-013-236, U-013-239, U-013-240, U-013-241, U-013-244, U-013-245, U-013-246, U-013-247, U-013-248, U-014-055, U-014-072, U-014-079, U-014-080, U-014-101, U-015-042, U-015-070, U-015-151, U-015-155, U-016-031, U-016-032, U-016-034, U-016-140, U-016-141, U-016-167, U-016-168, U-016-169, U-016-170, U-016-171, U-016-263, U-016-293, U-019-019, U-019-086, U-027-031, U-027-261 -->
