@@ -379,3 +379,421 @@
 - **fuente:** Why You Can’t Change (How To Reinvent Yourself).md, 28:33, 2022-07-02
 - **tension:** ninguna
 
+# Fuente: Most People Won’t Change (How To Recreate Yourself).md (2023-05-19)
+
+## U-024-030
+- **tipo:** principio
+- **titulo:** Life is a game, your character determines the outcome, and your character is malleable
+- **desarrollo:** "Life is a game and your character determines the outcome." The first realization you have to make is that your character is malleable: you can change, "no matter how painful or no matter how much your mind tells you that you can't", no matter how much you want to cling to the current comforts of your life "that are causing more destruction than you think".
+- **ejemplos:** ninguno
+- **cita:** "life is a game and your character determines the outcome your character is malleable"
+- **terminos:** character; game of life
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 0:00, 2023-05-19
+- **tension:** ninguna
+
+## U-024-031
+- **tipo:** definición
+- **titulo:** Character = your concept of self, an amalgamation of ideas, beliefs, experiences and information forming the operating system you interact with reality from
+- **desarrollo:** "Your character is your concept of self, who you think you are, an amalgamation of ideas, beliefs, experiences and information you've processed that compose the operating system from which you interact with reality." For most people, their character "was created for them": every person since childhood has been a product of the environment they were in.
+- **ejemplos:** ninguno
+- **cita:** "an amalgamation of ideas beliefs experiences and information you've processed that compose the operating system from which you interact with reality"
+- **terminos:** character; concept of self; operating system
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-030
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 0:00, 2023-05-19
+- **tension:** ninguna
+
+## U-024-032
+- **tipo:** argumento
+- **titulo:** The default trajectory: the drive to learn makes children absorb inherited societal information, sending them down a track they didn't choose
+- **desarrollo:** Chain: (1) "The fundamental human drive is to learn", which lets us soak up any information around us that aids survival, especially when we know nothing and only have the drive to survive; (2) with this information gathered as children "we are set on the default trajectory for life"; (3) society has evolved to the point it's at — nobody likes every aspect, but "who's to say that Mother Nature is wrong for it being what it is today"; it is what it is and we can change it through conscious choices; (4) societal and cultural information is passed from grandparents to parents (who add the news and information of their time) to you, and the cycle goes on as you learn to operate in the world; (5) "what blows my mind is that this could be completely different". From this default trajectory we were sent "like a train hurling down the tracks", and if we don't learn to conduct our own adventure we may be heading toward a dead end.
+- **ejemplos:** Train hurling down the tracks.
+- **cita:** "we were sent like a train hurling down the tracks and if we don't learn to conduct our own adventure then we may be heading towards a dead end"
+- **terminos:** default trajectory; drive to survive; conduct our own adventure
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-031
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 0:54-1:43, 2023-05-19
+- **tension:** ninguna
+
+## U-024-033
+- **tipo:** argumento
+- **titulo:** Species that live by instinct go extinct; 95%+ of humans live robotically, while conscious individuals carry society
+- **desarrollo:** The fate of humanity is not guaranteed; every life form is fighting to survive in "this little competition", and humans may or may not be on top. If we don't make intelligent, conscious choices we may eradicate ourselves (worst case, but possible). Species go extinct all the time because they don't make conscious decisions or decide their fate; they live by instinct. Humans are different, but a majority live by instinct, in a "narrow-minded mechanical state of stress, robotic, unconscious, mindless" — the same as animals. If "95 plus percent of society" operates robotically, doing what they're told, following the path laid out by society, "being a slave to their programming and conditioning", those masses are "leading us off of the cliff". So "society by my standards is held up by the conscious individuals", who carry the world toward something better by building businesses that contribute to humanity, writing, creating, and putting things out that impact others and wake them up. (The exact percentage is the author's estimate; at the end he says "90 to 95%".)
+- **ejemplos:** Animals living by instinct; conscious individuals as Atlas-like carriers of the world.
+- **cita:** "society by my standards is held up by the conscious individuals it's like they have the world on top of them carrying it towards something better"
+- **terminos:** living by instinct; robotic; slave to their programming and conditioning; the masses; conscious individuals
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-032
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 1:43-3:20, 21:09, 2023-05-19
+- **tension:** ninguna
+
+## U-024-034
+- **tipo:** concepto
+- **titulo:** NPC versus main character: every action of a conscious or unconscious character contributes to the future
+- **desarrollo:** The character playing the game of life is either conscious or unconscious — "either NPC or they are a main character". That character's actions are heavily influenced by their mindless or mindful state, and contribute to society: "every single action you take makes some small contribution towards the future", personal or collective, small or large. Hence the ideas, beliefs and information you hold in mind at all times, aware of them or not, contribute to your actions and lead to that better future (or not).
+- **ejemplos:** ninguno
+- **cita:** "they're either NPC or they are a main character"
+- **terminos:** NPC; main character
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-033
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 3:20-4:15, 2023-05-19
+- **tension:** ninguna
+
+## U-024-035
+- **tipo:** término-acuñado
+- **titulo:** The art of self-architecture: deliberately reinventing yourself; demands holistic development
+- **desarrollo:** Dan Koe names the topic of reinventing yourself "the art of self-architecture". Later he states "the art of self-architecture demands holistic development": pursuing outward goals without the inner work leaves you superficial. The name evokes designing and building your self as a structure (consistent with his house metaphor).
+- **ejemplos:** See U-024-043 (house) and U-024-041 (superficial archetypes).
+- **cita:** "we're here to talk about the art of self-architecture and how to reinvent yourself"
+- **terminos:** art of self-architecture; holistic development
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-031
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 4:15, 10:30, 2023-05-19
+- **tension:** ninguna
+
+## U-024-036
+- **tipo:** framework
+- **titulo:** Two macro games: the external game (life's work) and the internal game (philosophical mastery)
+- **desarrollo:** "Life is a game that houses infinite games", and two macro games are the most fruitful. (1) The external game: what you choose to do with your life, the self-generated goals you pursue that impact humanity, your life's work, what you dedicate time, focus and money to building "as a modality for value creation". (2) The internal game: "if your external pursuits are not backed by a philosophical sense of mastery they will remain superficial and meaningless". "For every goal you pursue outward there is a lesson you must unlock inward."
+- **ejemplos:** ninguno
+- **cita:** "for every goal you pursue outward there is a lesson you must unlock inward"
+- **terminos:** infinite games; external game; internal game; life's work; modality for value creation; philosophical sense of mastery
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-030
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 4:15, 2023-05-19
+- **tension:** ninguna
+
+## U-024-037
+- **tipo:** término-acuñado
+- **titulo:** The Paradox of personal development: the further you push into the world, the further you must dig into yourself
+- **desarrollo:** "The higher you push or the further you push into the world the further you have to dig into yourself to get to your core." Pushing outward while "mending or chiseling inwards" increases your level of mind. At each level of the game, reaching a new goal means you increased your level of mind enough to solve the problem standing in the way of that goal — "that's how you unlock the lesson that life has to offer you" as you move forward and gain experiences. Lesson of the paradox: it "doesn't come in an instant", you have to fight with reality, and you can't let expectations make it seem like the pain isn't supposed to be there.
+- **ejemplos:** See U-024-039 (seven failed businesses).
+- **cita:** "the higher you push or the further you push into the world the further you have to dig into yourself to get to your core"
+- **terminos:** Paradox of personal development; level of mind; chiseling inwards
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-036
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 4:15-5:03, 7:22, 2023-05-19
+- **tension:** ninguna
+
+## U-024-038
+- **tipo:** concepto
+- **titulo:** Level of mind: increasing it lets you see the game's structure from the top down; a season of internal struggle is the requirement
+- **desarrollo:** As you increase your level of mind "you can view the game from the top down and see the structure of the game itself". In business, starting out you have no clue what you're doing until you solve problems and have "all of the pieces that form the structure of business itself"; then you can navigate within it. Give yourself one to two years to accumulate enough business experience to run it well and make enough money, and then it becomes "automatic and seamless". "A season of internal struggle is the requirement to reach your next level of mind": when you acquire the necessary skill or knowledge, you reach the next level of mind that solves the problem you faced.
+- **ejemplos:** Starting a business: 1-2 years to see its structure.
+- **cita:** "a season of internal struggle is the requirement to reach your next level of mind"
+- **terminos:** level of mind; structure of the game; season of internal struggle
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-037
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 5:03-5:51, 2023-05-19
+- **tension:** ninguna
+
+## U-024-039
+- **tipo:** historia
+- **titulo:** Seven failed businesses and crying to his dad, then the avalanche of insight: "nothing happens then everything happens"
+- **desarrollo:** Dan Koe failed at seven different businesses: freelancing, drop shipping, agency work, e-commerce brands, "all of that" with minimal results, trying everything and learning everything he could. He went through mental turmoil, including crying on the phone to his dad asking him not to ruin his life because he had borrowed and lost "however many thousand dollars" from him to order product for an e-commerce store. Then it hit him all at once: "this skill, this skill, this skill, these all piece together, I can see the structure now", he could see the image the puzzle forms and knew how to navigate this new realm. An "avalanche called insight crashed into my psyche". He realized this isn't a singular event: it only solves the current level and sets a new level of mind — "a click click click click click" as you pursue external goals.
+- **ejemplos:** Borrowing money from his dad for e-commerce inventory.
+- **cita:** "as I like to say nothing happens then everything happens"
+- **terminos:** nothing happens then everything happens; avalanche called insight; level of mind
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-024-038
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 5:51-7:22, 2023-05-19
+- **tension:** ninguna
+
+## U-024-040
+- **tipo:** heurística
+- **titulo:** Chip away at who you are (shed beliefs) so you can see reality for what it is
+- **desarrollo:** As you pursue external goals you have to go through inner turmoil and "chip away at who you are so that you can see things for what they are", because who you are "is just a culmination of ideas and beliefs", so you have to shed those beliefs. He clarifies you don't think of it this way while doing it — "this is more of a heuristic" — but you chip away so you can see reality and what you are trying to accomplish.
+- **ejemplos:** ninguno
+- **cita:** "you chip away at who you are so that you can see reality for what it is"
+- **terminos:** chip away at who you are; shed beliefs
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-037
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 7:22, 2023-05-19
+- **tension:** ninguna
+
+## U-024-041
+- **tipo:** opinión
+- **titulo:** Suffering is good when perceived that way; the Buddhist "life is suffering" is often misconstrued
+- **desarrollo:** "Suffering is a very good thing when you perceive it that way." As a side note, Dan Koe says one thing he doesn't like much about Buddhist teachings is "life is suffering" — he knows it's one of their teachings but people misconstrue it all the time. Suffering is a part of life; you aren't trying to get rid of it, you are trying to flow with it, "and that's what some Buddhist teachers are saying". Suffering isn't bad; it's not that it isn't supposed to be there.
+- **ejemplos:** ninguno
+- **cita:** "suffering is a very good thing when you perceive it that way"
+- **terminos:** flow with it
+- **origen:** adaptada-de:Buddhism (crítica a la interpretación de "life is suffering")
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-037
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 7:22-8:09, 2023-05-19
+- **tension:** ninguna
+
+## U-024-042
+- **tipo:** principio
+- **titulo:** The path of the problem solver or value creator escapes replaceability; falling in love with problems is the infinite game
+- **desarrollo:** Quote from Dan Koe's then-finished manuscript "The Art of Focus": "The path of the problem solver or value creator is how you escape the world of replaceability. Fall in love with the challenge that problems present, from superficial to metaphysical, and your ideal future will create itself. This is the infinite game." He mentions talking with publishers and toying with self-publishing; launch sooner than expected (later, pre-sale may start "in a month").
+- **ejemplos:** ninguno
+- **cita:** "fall in love with the challenge that problems present from superficial to metaphysical and your ideal future will create itself this is the infinite game"
+- **terminos:** problem solver; value creator; world of replaceability; infinite game
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-036
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 8:09-8:59, 2023-05-19
+- **tension:** ninguna
+
+## U-024-043
+- **tipo:** principio
+- **titulo:** Strike a balance between peace and progress: a duality that must collapse into one
+- **desarrollo:** "To change who you are you must strike a balance between peace and progress." The duality: progress pushing outward and peace inward; "nothingness, doing and being". This duality "must collapse into one". Why: "certain goals require a certain character to be able to even know that that is a goal and pursue that goal" — like a game where you must be level 50 to enter a dungeon or accept a quest; you have no clue that goal and potential for your life even exists until you reach the level.
+- **ejemplos:** Video game: level 50 to enter a dungeon or accept a quest.
+- **cita:** "you have to be level 50 to go into whatever dungeon or accept whatever quest"
+- **terminos:** peace and progress; duality; doing and being
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-036, U-024-038
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 8:59, 2023-05-19
+- **tension:** ninguna
+
+## U-024-044
+- **tipo:** heurística
+- **titulo:** Just pick something and do it: you only discover the next goal by achieving the current one
+- **desarrollo:** Because goals are only visible at certain levels, Dan Koe is "so big on just pick something and do it". Stop worrying about the little things that can go wrong; "they're gonna go wrong, good, accept it, overcome it". He thought he would be doing web design his whole life, but after accomplishing that goal and "burning through that karma outward, inward", he unlocked the next level and understood what to do next. That's where people get stuck with advice like "only focus on one thing" or "find what you want to do and do it for life": "you don't know unless you start doing".
+- **ejemplos:** Dan Koe's web design phase.
+- **cita:** "you don't know unless you start doing"
+- **terminos:** burn through that karma; unlock the next level
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-043
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 9:49, 2023-05-19
+- **tension:** Matiza el consejo común de "focus on one thing for life", que el autor rechaza aquí.
+
+## U-024-045
+- **tipo:** advertencia
+- **titulo:** Pursuing goals while neglecting inner work makes you superficial: businessman with no health, bodybuilder with no philosophy, pickup artist with no values
+- **desarrollo:** If you pursue goals, you can't neglect the inner work required to reach the next ones, "because then you just end up highly superficial like a businessman with no health or a bodybuilder with no philosophy or a pickup artist with no values". "The art of self-architecture demands holistic development."
+- **ejemplos:** Businessman with no health; bodybuilder with no philosophy; pickup artist with no values.
+- **cita:** "a businessman with no health or a bodybuilder with no philosophy or a pickup artist with no values"
+- **terminos:** holistic development; inner work
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-036
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 9:49-10:30, 2023-05-19
+- **tension:** ninguna
+
+## U-024-046
+- **tipo:** fuente-de-tercero
+- **titulo:** "Man cannot remake himself without suffering, for he is both the marble and the sculptor"
+- **desarrollo:** Dan Koe states the line "man cannot remake himself without suffering for he is both the marble and the sculptor" without attributing it in the transcript (it is unattributed; authorship not stated by the author). He uses it to support that self-architecture involves suffering because you are both the material being chiseled and the one chiseling.
+- **ejemplos:** Marble and sculptor.
+- **cita:** "man cannot remake himself without suffering for he is both the marble and the sculptor"
+- **terminos:** marble and the sculptor
+- **origen:** de-tercero:no atribuido en la transcripción (ambiguo)
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-035
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 10:30, 2023-05-19
+- **tension:** ninguna
+
+## U-024-047
+- **tipo:** metáfora
+- **titulo:** Your concept of self is a house, not a home: when remodeling you don't demolish the foundation, you make small calculated taps
+- **desarrollo:** Think of your concept of self as "an intellectual structure that you have built yourself into over time, a house not a home". When you remodel a house you don't go straight for the foundation or demolish the whole house at once. When you start chiseling, making small changes, chipping away at the wood or the exterior, you don't rip it off; you make "small calculated taps so that it's seamless" and you can piece something back on perfectly.
+- **ejemplos:** House remodeling.
+- **cita:** "a house not a home and when you go to remodel a house do you go straight for the foundation no"
+- **terminos:** intellectual structure; a house not a home; small calculated taps
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-031
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 10:30, 2023-05-19
+- **tension:** Retoma, con otra imagen, la metáfora de la identidad como ciudad (U-024-012, U-024-018).
+
+## U-024-048
+- **tipo:** advertencia
+- **titulo:** Starting with deep spiritual problems before superficial self-help work is a mistake; spirituality as a status hat
+- **desarrollo:** "Most people want to start with the deep spiritual and metaphysical problems that reside in their core." If you haven't done even the slightest self-help work — going to the gym, training, fixing nutrition and habits, acquiring high-value skills and knowledge — "you're in for a bad time". Dan Koe argues that people trying to be spiritual without doing the superficial work needed to reach the inner depths "are doing it for superficial reasons": they wear it "as a status hat" and use "spirituality as a nobility card to avoid making any form of contribution to humanity by pursuing goals".
+- **ejemplos:** ninguno
+- **cita:** "they use spirituality as a nobility card to avoid making any form of contribution to humanity"
+- **terminos:** status hat; nobility card; superficial work
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-047
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 10:30-11:21, 2023-05-19
+- **tension:** ninguna
+
+## U-024-049
+- **tipo:** fuente-de-tercero
+- **titulo:** Csikszentmihalyi's flow: when all skills are needed for a challenge, attention is fully absorbed — the path to maximum enjoyment
+- **desarrollo:** Dan Koe quotes Mihaly Csikszentmihalyi's book "Flow": "when all a person's relevant skills are needed to cope with the challenges of a situation that person's attention is completely absorbed by the activity there is no excess psychic energy left over to process any information but what the activity offers all the attention is concentrated on the relevant stimuli". He adds: "this is the path to maximum enjoyment in life". Used to justify pursuing a goal that is challenging enough.
+- **ejemplos:** ninguno
+- **cita:** "there is no excess psychic energy left over to process any information but what the activity offers"
+- **terminos:** flow; psychic energy
+- **origen:** de-tercero:Mihaly Csikszentmihalyi (Flow)
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 11:21-12:11, 2023-05-19
+- **tension:** ninguna
+
+## U-024-050
+- **tipo:** proceso
+- **titulo:** Four-step process to recreate yourself: challenging goal, acquire the skill, hunt and stack whys, turn pursuits into contributions
+- **desarrollo:** Dan Koe's process: (1) Pursue a goal that is challenging enough — start small and superficial (health, finances, mindset), put one foot into the unknown. (2) Acquire the skill necessary to achieve the goal — self-education, immersing the mind in information that programs a new identity. (3) Hunt and stack whys, or reasons, to cultivate a personal philosophy. (4) Turn your valuable pursuits into contributions (tie to the creator economy). Each step is detailed in the following units.
+- **ejemplos:** ninguno
+- **cita:** "so here is a process to follow"
+- **terminos:** hunt and stack whys; personal philosophy; contributions
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-036
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 12:11-18:52, 2023-05-19
+- **tension:** ninguna
+
+## U-024-051
+- **tipo:** método
+- **titulo:** Step 1: pursue a challenging goal, start small and superficial, put one foot into the unknown to feel the necessary stress
+- **desarrollo:** Pursue a goal that is challenging enough. Start small and superficial: fix your health, finances and mindset. "One foot into the unknown, take the first step" — the only thing nobody else can do for you ("I can't grab your foot and step it out there for you"). Put one foot in the unknown "so that you can feel the stress required to continue". This gives you "a lesser purpose to actualize".
+- **ejemplos:** ninguno
+- **cita:** "put one foot in the unknown so that you can feel the stress required to continue"
+- **terminos:** one foot into the unknown; lesser purpose
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-050
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 12:11, 2023-05-19
+- **tension:** ninguna
+
+## U-024-052
+- **tipo:** framework
+- **titulo:** Concentric circles of purpose: lesser purpose, greater purpose, life's purpose — break through from the outside in
+- **desarrollo:** People who attack their core first are trying to solve their life's purpose "without breaking through the concentric circles inward from lesser purpose to greater purpose to life's purpose". When you can't even see your life's purpose, you have no clue; so you start with the lesser purpose, "which is just a superficial goal". Order: lesser purpose (superficial goal) → greater purpose → life's purpose, inward. The greater purpose is not further defined in this transcript.
+- **ejemplos:** ninguno
+- **cita:** "breaking through the concentric circles inward from lesser purpose to greater purpose to life's purpose"
+- **terminos:** concentric circles; lesser purpose; greater purpose; life's purpose
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-051
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 12:55, 2023-05-19
+- **tension:** ninguna
+
+## U-024-053
+- **tipo:** método
+- **titulo:** Step 2: acquire the skill via self-education — follow goal-specific social media accounts, then devour 1-3 books
+- **desarrollo:** It's silly to think you can achieve self-generated goals without self-education. "Immerse your conscious mind in the information that will program a new identity and give you the knowledge to attack your goals." Concretely: follow social media accounts that give specific information related to your goals; then purchase one to three books on the topic and devour them. To those who object to social media: they don't understand how integrated and powerful it is; people see it as bad (news, toxicity) but you can curate your experience; it's woven into society, "necessary", part of our lives whether you like it or not.
+- **ejemplos:** ninguno
+- **cita:** "you purchase one to three books on the topic and you devour them"
+- **terminos:** self-education; program a new identity; curate your experience
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-050
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 12:55-13:41, 2023-05-19
+- **tension:** ninguna
+
+## U-024-054
+- **tipo:** principio
+- **titulo:** Intention equals what you are stretching towards: with a goal top of mind, information becomes relevant and pulls you out of mindless consumption
+- **desarrollo:** "When you have a goal that is top of mind you begin to perceive situations with intention." "Intention equals what you are stretching towards." Information becomes more relevant and applicable to your life, and (the transcript is slightly garbled here) it takes you out of "the mindless distraction and consumption cycle".
+- **ejemplos:** ninguno
+- **cita:** "intention equals what you are stretching towards"
+- **terminos:** intention; top of mind; mindless distraction and consumption cycle
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-053
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 13:41, 2023-05-19
+- **tension:** ninguna
+
+## U-024-055
+- **tipo:** método
+- **titulo:** Step 3: hunt and stack whys — if you struggle to act, you lack a compelling personal and intrinsic reason
+- **desarrollo:** "Hunt and stack whys or reasons to cultivate a personal philosophy." "If you struggle to act it's because you don't have a compelling personal and intrinsic reason to act." The first step is difficult but you must take it; then, as you experience life, "keep an eye out for reasons you can collect". Reasons accumulate around an action until it becomes self-motivating.
+- **ejemplos:** See U-024-056 (walking).
+- **cita:** "if you struggle to act it's because you don't have a compelling personal and intrinsic reason to act"
+- **terminos:** hunt and stack whys; collect reasons; personal philosophy
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-050
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 13:41-14:30, 2023-05-19
+- **tension:** ninguna
+
+## U-024-056
+- **tipo:** caso
+- **titulo:** How Dan Koe stacked reasons to go from hating walks to ~20k steps a day
+- **desarrollo:** He used to hate walking and saw no point (who wants to walk in the Arizona heat?). Now he walks "like 20 to 25k steps a day"; he shows a monthly average of 18,500 steps. Reasons stacked: (1) he was bulking, got too heavy, wanted to cut weight but disliked cardio; he read or saw online "if you want to lose weight just pick up a walking habit" — reason one; he started walking around his complex. (2) He can take calls on a walk, so do business on a walk. (3) He can write content on a walk by looking at his phone. (4) He listens to audiobooks and YouTube lectures (YouTube Premium in his ears) — that's how he runs through so many. (5) He generates ideas for content: walking is "a creativity block", distinct from productivity, a dedicated time to generate ideas with no distractions. (6) He likes breaks from work: blocks of ~60 minutes of work, then a walk, in time blocks. (7) When bored, lacking creativity, or needing the store, he walks (20 minutes to Whole Foods and back with groceries; to the coffee shop). (8) This influenced where he lives: he will never live in a non-walkable city; contrasting "trad red pill" guys who want to live off-grid on a farm — sounds nice, but he won't drive 30-60 minutes to the grocery store or to have contact with humans. Point: actions shape your future and decisions, even something as simple as walking; this applies to every habit in his lifestyle.
+- **ejemplos:** Monthly average 18,500 steps; 60-minute work blocks; 20-minute walk to Whole Foods.
+- **cita:** "it's a creativity block it's where I'm just blocked out it's not productivity where I'm actually doing the work it's creativity where I'm generating ideas"
+- **terminos:** creativity block; time blocks; stack reasons
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-055
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 14:30-17:22, 2023-05-19
+- **tension:** ninguna
+
+## U-024-057
+- **tipo:** principio
+- **titulo:** Leisure habits are not bad if you are conscious of the reason; the problem is not noticing the destruction your habits cause
+- **desarrollo:** "If you don't know why you are doing something, if you don't have a reason, then why are you doing it? Why are you putting the food in your mouth?" He is not saying drinking alcohol, Netflix or video games are bad. If you're conscious of why — to take a break, to reset, to gain creativity for the week, or "just have a forced low in life" — there's no problem. "The problem is when you don't notice the destruction that your habits are causing." When you're conscious of it and allow that bit of destruction, knowing you'll do the things that reverse it and keep progressing, that's not bad. (He mentions a video "a week from now" going deeper.)
+- **ejemplos:** Drinking, Netflix, video games as conscious breaks.
+- **cita:** "the problem is when you don't notice the destruction that your habits are causing"
+- **terminos:** forced low; reasons behind actions
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-055
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 17:22-18:07, 2023-05-19
+- **tension:** ninguna
+
+## U-024-058
+- **tipo:** principio
+- **titulo:** Reasons behind actions culminate into a larger life philosophy
+- **desarrollo:** "When you start developing reasons behind your actions you start to cultivate a philosophy", not only for those actions but they "culminate into a larger life philosophy that you have for yourself". This is the internal game's output that later becomes marketing (see step 4).
+- **ejemplos:** Walking reasons forming part of his philosophy.
+- **cita:** "when you start developing reasons behind your actions you start to cultivate a philosophy"
+- **terminos:** life philosophy; personal philosophy
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-055
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 18:07, 2023-05-19
+- **tension:** ninguna
+
+## U-024-059
+- **tipo:** método
+- **titulo:** Step 4: turn your valuable pursuits into contributions — social media as a public forum to exchange knowledge for value
+- **desarrollo:** Tying to the creator economy. Social media is intertwined with our lives and opportunities. Most people limit themselves to college or local opportunities until they get online and realize "this is infinite". Social media is "a public forum where you can share your knowledge online and share products and services in exchange for other value". For most people value means money until "the superficial money problem" is solved; but value can be anything — you can exchange interests or expertise for something you want. Example: with a million followers he could DM a retreat or resort offering promotion in exchange for a free week, as they do with influencers (he says he hasn't done it and it feels weird).
+- **ejemplos:** Exchanging promotion for a free resort stay.
+- **cita:** "social media in this case is a public forum where you can share your knowledge online and share products and services in exchange for other value"
+- **terminos:** creator economy; public forum; value exchange
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-050
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 18:52-19:42, 2023-05-19
+- **tension:** ninguna
+
+## U-024-060
+- **tipo:** principio
+- **titulo:** Start a business by solving your own problems and selling the solution; your marketing is the intrinsic philosophy formed by your reasons
+- **desarrollo:** "Start a business as I always do by solving your own problems and selling the solution that you pick up along the way and your marketing is the intrinsic philosophy that you form with your reasons." Example: he could "100%" sell a walking program, "30 days of walks", with all the reasons he listed on the landing page — he guarantees what he just said was persuasive and some viewers will start walking. A 30-days-of-walks digital product or a book. "That's the most meaningful style of business model anyways": "you're changing people's lives by changing your own".
+- **ejemplos:** "30 days of walks" digital product with the walking reasons as landing page copy.
+- **cita:** "you're changing people's lives by changing your own"
+- **terminos:** solve your own problems; intrinsic philosophy as marketing
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-058, U-024-059
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 19:42-20:23, 2023-05-19
+- **tension:** ninguna
+
+## U-024-061
+- **tipo:** opinión
+- **titulo:** Raising the collective consciousness of the 90-95% matters more than exploring other planets
+- **desarrollo:** Exploring other planets is done out of passion ("Musk is doing that out of passion"); it's "not an absolute necessity for our species". We can evolve, transcend and self-actualize by solving the meaningful problems in our lives first. "We need to raise the collective consciousness of that 90 to 95% of the masses so that we don't head off a cliff" — bringing the video full circle to its opening argument.
+- **ejemplos:** Elon Musk and space exploration.
+- **cita:** "we need to raise the collective consciousness of that 90 to 95 of the masses so that we don't head off a cliff"
+- **terminos:** collective consciousness; the masses; self-actualize
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-024-033
+- **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 20:23-21:09, 2023-05-19
+- **tension:** ninguna
+
