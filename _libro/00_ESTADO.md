@@ -4,7 +4,7 @@
 - **Directorio de trabajo:** `_libro/` (en la raíz)
 - **Rama de trabajo:** `libro-maestro-dan-koe` (creada desde `origin/main`, commit 1396995)
 - **Último commit:** 18c7f46 Fase 2: etiquetado temático (avance)
-- **Fase actual:** Fase 2 — consolidación por tema COMPLETA (29 bloques en `02d_consolidacion/`: 1106 clústeres, 6087/6087 unidades asignadas, 233 líneas de fusión, 260 unidades absorbidas). En curso: síntesis de 03_mapa, 03b, 03c (léxico en 4 partes → `02e_sintesis/lexico-parte-N.md`), 03d.
+- **Fase actual:** Fase 2 COMPLETA (03_mapa: 9 áreas; 03b: 307 entradas EV + 67 renombres; 03c: 2764 términos; 03d: 338 fuentes; 1106 clústeres; 260 unidades absorbidas en 233 fusiones). Fase 3 (arquitectura) en curso.
 
 ## Números
 - Archivos: 164 · Palabras del corpus: 1.095.022 · Lotes: 27 (ver `01b_lotes.md`)

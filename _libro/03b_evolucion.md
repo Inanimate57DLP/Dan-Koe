@@ -1868,3 +1868,725 @@ Las entradas de evolución del corpus muestran varios ejes de cambio. El primero
 - **Razón que da el autor:** no la da.
 - **¿Ambas pueden aplicar a contextos distintos?:** Sí: el riesgo está en estancarse con un solo producto ("stagnation equals death").
 - **Tipo:** contradicción no resuelta.
+
+---
+
+## 12. Nueva economía y futuro del trabajo
+
+### EV-228 — El empleo: "worst outcome", esclavitud, peldaño o destino
+- **Antes:** las habilidades que generan ingresos se pueden ejercer también en un empleo; el emprendimiento es un camino, "not the only one" (U-014-021, 2022-05-28); la escuela es "a blessing and a curse" (U-011-054, 2022). Si al perder el empleo no puedes pagar las cuentas eres "by definition a modern slave", y la habilidad de ganar dinero "solo" se cultiva emprendiendo (U-011-186, U-011-188, 2023-04-16); el título "a stepping stone at best... a financial chain at worst" (U-011-123, 2023-02-19); los 9-to-5 son stepping stones peligrosos para la psique, salvo para quienes son felices en ellos (U-017-061, 2023-06-18); "I'm not anti-nine to five" (U-016-183) y, en el mismo video, "95 percent of nine to five workers are slaves" (U-016-202), con el empleo como trampolín (U-016-196, 2023-08-01); "The Future Of Work Is Play" (2023-12-31): se condicionó a ver el 9-to-5 como "the bane of my existence", "the worst outcome", y minutos después: "I see 9 to five jobs as a stepping stone; my problem with them is that they breed complacency" (U-012-004, U-012-006).
+- **Intermedio:** "the fastest way to ruin your life", escuela y empleo como "life of the masses" (U-026-120, 2024-03-10), y en el mismo video "I see schools and jobs as a stepping stone... not something to avoid or absolutely evil", aclarando que muchos le atribuyen la postura contraria (U-026-131); el empleador "controls your entire life" (U-016-018), matizado por "there's degrees to this" (U-016-019), con "entrepreneurship is the only path" al control total (2024-03-31); el empleo es un juego finito (U-026-193, 2024-05-30); con el 1% feliz y autónomo, "keep the job" (U-006-158, 2024-07-13); "jobs are an absolutely incredible stepping stone" (U-019-038, 2024-08-11); trabajo y descanso significativos "never ever" se encuentran en un empleo asignado, matizado por "not all jobs are bad" (U-019-006, 2024-08); con Devon Eriksen se admite que alguien tiene que hacer tareas que cualquiera puede hacer (U-006-052, 2024-12-08).
+- **Después:** "entrepreneurship is the only logical option" para quien quiere control, pero "not never work a job" (U-012-137, 2025-02-16); no está en el bando de "all 9-to-5s are bad" (U-010-239, 2025-02-23); "a great stepping stone, but often a death sentence" (U-023-272, 2025-05-08); "do everything in your power to not get a job" (U-025-178, 2025-07-27); unirse a una startup o aspirar a un rol ejecutivo figuran entre las "things I will do" (U-016-246, 2025-08-03); los empleos son "very worthy stepping stones", pero la wage slavery es real (U-012-203, 2026-06-28).
+- **Cambio exacto:** no hay giro cronológico; oscila el tono entre el rechazo total y el peldaño, con una tendencia de "único camino" (2023–2024) a admitir vías dentro de organizaciones (2025). La condena absoluta se presenta como creencia autocondicionada y el problema pasa a ser la permanencia y la complacencia.
+- **Razón que da el autor:** las assignments dan dirección, pero el destino que prometen decepciona y hay que quitarse las ruedas de entrenamiento; el problema es la falta de desafío y de evolución personal, no el empleo en sí; habla a quienes tienen "that desire for more"; el "95%" es una impresión de observación.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: el empleo como etapa de aprendizaje de habilidades (él trabajó en una agencia) y para el 1% que ya está bien, frente al empleo como destino permanente; el rechazo es su regla personal y su consejo para quien quiere autonomía.
+- **Tipo:** contradicción no resuelta.
+
+### EV-229 — Empleado y emprendedor: de trayectorias opuestas a estados mentales
+- **Antes:** "The Future Of Work Is Play" (2023-12-31) contrapone la employee mindset a los rasgos del emprendedor y aconseja salir pronto del empleo para evitar más condicionamiento (U-012-033).
+- **Después:** "you can still be an employee that has high agency" (U-018-047, 2024-11-24); Sahil Bloom: ser "enterprising" se puede hacer dentro de un 9-to-5, "you don't have to burn the boats" (U-005-097, 2025-01-30, como capa sobre la creencia del autor de que todos deberían emprender, U-005-096); "entrepreneurship is not a role or a title, it's a state of mind" (U-012-138, 2025-02-16; U-010-236, 2025-02-23); "stop thinking of employee and entrepreneur as titles, think of them as states of mind" (U-024-230, 2025-09-14).
+- **Cambio exacto:** el emprendimiento deja de ser solo una trayectoria y pasa a ser una disposición compatible con el empleo.
+- **Razón que da el autor:** no lo presenta como corrección, sino como redefinición de palabras que se volvieron "dirty words".
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: el estado mental es condición; el negocio propio sigue siendo, para el autor, la vía al control total.
+- **Tipo:** refinamiento.
+
+### EV-230 — La jubilación
+- **Antes:** "I don't plan on retiring... maybe my views on this will change" (U-020-036, 2022-11).
+- **Después:** la jubilación como "such a silly concept" (U-012-011, 2023-12).
+- **Cambio exacto:** posición estable, con el matiz anunciado de que podría cambiar.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** No aplica.
+- **Tipo:** cambio de énfasis.
+
+### EV-231 — ¿Desaparece el empleo? De la "complete removal" al empleo de élite
+- **Antes:** freelancers al 90%+ (U-009-004, 2023-04); "we are on the horizon of complete removal" del trabajo laboral (U-011-182, 2023-04); no hace falta un gran seguimiento: se puede trabajar para grandes creadores, que son negocios con cientos de creadores (U-010-115, 2023-07); programadores y content marketers pueden trabajar para creadores, startups o cualquier empleo moderno (U-013-092, 2023-08); "employers… hire creators" (U-009-191, 2023-12); "maybe in our lifetime those jobs won't exist" (U-008-118, 2024-02); "I don't see employment going away", se descentraliza (U-012-090, 2024-06).
+- **Después:** "the jobs of the future will be reserved for the elite, the top 1%, the NBA of jobs... the entry level is going extinct"; para ambiciosos con múltiples intereses la única vía es emprender (U-010-238, 2025-02); el "permissionless launchpad" mantiene que se puede pasar luego a trabajar para otros (U-019-143, 2025-05); el futuro del trabajo son emprendedores "or elite employees" (U-024-229, 2025-09); "you aren't going into a specific career" (U-012-196, 2026-02).
+- **Cambio exacto:** de la desaparición del empleo a su transformación y elitización; el empleo dentro de la creator economy deja de ser ruta principal.
+- **Razón que da el autor:** la IA y la automatización convierten el entry level en senior (U-019-003); para el cambio de 2024 responde a la objeción de las megacorporaciones, sin más explicación.
+- **¿Ambas pueden aplicar a contextos distintos?:** Parcialmente: horizontes temporales distintos (largo plazo laboral frente a corto plazo corporativo).
+- **Tipo:** corrección (implícita) y cambio de énfasis.
+
+### EV-232 — El skill stack: de habilidades de mercado a rasgos humanos
+- **Antes:** "$1 million skill stack": evergreen skills (message, medium, result-oriented skill) + intereses + experiencia + internet (U-013-040, U-013-042, 2023-01-08); meta skills code y content, evergreen skills (writing, speaking, marketing, sales), results-oriented skills e intereses (U-013-056, U-013-075, U-012-031, 2023-01 a 2023-12); las evergreen pasan a ser marketing, ventas, escritura y oratoria, con modern skills y el "profitable problem" (U-011-137, U-011-140, 2023-02-19); "where jobs, work and customers will be" (U-013-092); future-proof skill stack: marketing y ventas, escritura y pensamiento, emprendimiento (U-013-171, U-016-069, 2024-03/05), con technical know-how (U-013-175), cinco ítems (U-016-007) o cinco pasos que agregan "learn to build" (U-016-017); entrepreneurship como meta skill (U-006-091, 2024-07); writing + sales = persuasion como micro stack (U-009-242, 2024-09).
+- **Después:** tres superpowers: learning, persuasion, execution (U-025-201, 2025-08); jerarquía post-IA agency → taste → perspective → persuasion → technical know-how, "more of a skill hierarchy than... a list of skills", que reemplaza o abstrae el stack de U-012-031 (U-012-196, 2026-02); "five ingredients": agency, taste, persuasion, persistence, iteration (U-012-212, 2026-06); "human nature" como la meta-skill que nunca pasa de moda (U-013-224, U-013-248, 2026-07).
+- **Cambio exacto:** el énfasis pasa de habilidades externas y orientadas a carrera a rasgos y criterio no ligados a una carrera.
+- **Razón que da el autor:** en 2024, las habilidades son "the result and balance of those traits" (U-016-007); la IA asume la capa técnica, que cambia cada pocos años, y lo que persiste son los principios humanos ("persistent principles", U-006-191); los ingredientes permiten hacer trabajo significativo aunque se reemplacen los empleos (U-012-212).
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: el stack dice qué aprender; los ingredientes, qué rasgos permiten desplegarlo. La jerarquía de 2026 incluye las evergreen skills en "persuasion" y las results-oriented en "technical know-how".
+- **Tipo:** refinamiento.
+
+### EV-233 — ¿Cuál es "the greatest skill"?
+- **Antes:** la escritura en 2022 (según la tensión de U-013-101 y U-013-224); simplificar temas complejos será la mayor habilidad "of the next century" (U-011-101, 2022-10) y "of the 21st century" (U-011-232, 2023-07); "the ability to order consciousness" (U-011-048); "decreasing the time between idea and execution" (citado en U-013-118, 2023-11); la comunicación persuasiva, "the base layer" bajo copywriting, marketing y ventas (U-013-101, 2023-11-05); la escritura como "high-income skill that will make you irreplaceable" (U-013-137, 2024-01).
+- **Después:** "persuasion is the greatest skill of the 21st century" (U-014-079, 2024-09-08); agency (2025, ver EV-234); persuasión como "the ability to make people care about what you do" (U-012-200, 2026-02-12); "human nature" (U-013-224, 2026-07).
+- **Cambio exacto:** la habilidad suprema declarada cambia: escritura → comunicación persuasiva → agency → human nature, con otras candidatas en paralelo.
+- **Razón que da el autor:** esas frases deben leerse metafóricamente ("getting the point"), no literalmente (U-013-117, U-013-118).
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: énfasis retórico según el contexto; la escritura es el vehículo y la persuasión, la función.
+- **Tipo:** cambio de énfasis.
+
+### EV-234 — La agency como "la" habilidad: de meta-skill a un ingrediente más
+- **Antes:** "the most important skill… now, in 10 years, and until you die, is agency" (U-013-188, 2025-12), y en el mismo video "not a skill or a trait, but an art form" (U-013-219), mientras el título y secciones previas la llaman "the most important skill"; "agency, the meta-skill" (U-012-197, 2026-02).
+- **Después:** "high agency" es un buzzword de los tech bros, "it's not the only one thing" (U-012-213, 2026-06); agency como uno de cinco ingredientes (U-012-212); "Agency is only so much" (U-013-223, 2026-07).
+- **Cambio exacto:** de la centralidad absoluta a un ingrediente entre cinco; además, habilidad o arte en el mismo video.
+- **Razón que da el autor:** no la desarrolla; remite a la lectura metafórica de las "most important skill" (U-013-118).
+- **¿Ambas pueden aplicar a contextos distintos?:** No se precisa.
+- **Tipo:** cambio de énfasis (con contradicción interna en 2025-12).
+
+### EV-235 — Definición de agencia: de actuar sin permiso a iterar sin permiso
+- **Antes:** "the difference between an employee and an entrepreneur is agency": identificar y resolver problemas sin pedir permiso (U-006-175, 2024-07-13); Devon Eriksen: "the tendency to initiate action to achieve your goals" y la creencia de que eventualmente tendrás éxito (U-006-007, 2024-12-08); "do what you want without permission from someone else, that's agency" (U-027-203, 2024-12-15); crear tus propias metas sin permiso y culparte de cada problema (U-010-237, 2025-02-23); "Agency is the ability to act without permission" y "Agency isn't just taking action, it's deciding what actions are worth taking" (U-023-221, 2025-10-05).
+- **Después:** "agency is the ability to iterate without permission", presentada como redefinición "útil" de la popular (U-013-189, 2025-12-21).
+- **Cambio exacto:** el foco pasa de la acción inicial a la iteración sostenida.
+- **Razón que da el autor:** mucha gente empieza un negocio y fracasa porque abandona a las dos semanas; falta reflexionar, ajustar y reintentar sin volver a la "comforting conformity".
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: la de 2025-12 incluye la anterior.
+- **Tipo:** refinamiento.
+
+### EV-236 — La tipología fácil / imposible / difícil: de Devon al autor
+- **Antes:** Devon Eriksen (2024-12-08): la agencia como "belief in the existence of hard problems", con tres categorías; "imposible" es aquello en lo que no sabes cómo cerrar la distancia (U-006-013).
+- **Después:** "You're Stuck In The Matrix…" (2025-10-05): "three buckets" de metas sin nombrar a Devon; las imposibles son las que "no puedes hacer o están fuera de las leyes de la física" (U-023-221).
+- **Cambio exacto:** apropiación sin atribución y estrechamiento de lo "imposible", que agranda la categoría de lo difícil.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: la de Devon describe una creencia psicológica; la del autor, una clasificación de metas.
+- **Tipo:** renombre (con pérdida de atribución).
+
+### EV-237 — ¿Cuán drástico será el cambio por la IA?
+- **Antes:** "I only see good" en la automatización (U-011-194, 2023-04); "pretty worried", "deep in the AI and AGI rabbit hole" (U-013-163, 2024-03).
+- **Después:** "indifferent" ante los pronósticos de los 36 meses, de los que espera que la mayoría estén equivocados (U-025-197, 2025-08); el futuro de la IA "probably not going to be as drastic as many people made it out to seem, myself included" (U-024-232, 2025-09); en 2026-06 no discute si habrá pérdidas de empleo (U-012-202).
+- **Cambio exacto:** autocorrección explícita de su propio dramatismo.
+- **Razón que da el autor:** no la detalla, más allá de la incertidumbre.
+- **¿Ambas pueden aplicar a contextos distintos?:** Podrían: la urgencia de prepararse se mantiene aunque cambie la magnitud estimada.
+- **Tipo:** corrección.
+
+### EV-238 — La AGI
+- **Antes:** "AGI is not AI; AI is what we have right now"; la AGI real elegiría sus propias metas (U-018-157, 2024-12); Devon Eriksen: la persona artificial consciente es teóricamente posible (U-006-026, 2024-12).
+- **Después:** cita sin respaldar las ASIs de los "36 months" (U-025-197, 2025-08); "Will we not be AGI? Are we not already AGI?" y la AGI no parece poder superarnos en las cinco capacidades (U-013-211, U-013-212, 2025-12); "AGI may provide a basic foundation for survival" (U-010-288, 2026-01).
+- **Cambio exacto:** de separar AGI e IA a especular sobre los límites humanos y admitir efectos económicos de la AGI.
+- **Razón que da el autor:** no la da; lo llama "fun speculation".
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: distinguen la IA presente de una AGI hipotética.
+- **Tipo:** cambio de énfasis.
+
+### EV-239 — Code y media; ¿hay que aprender a programar?
+- **Antes:** entender ambos, media como front end y code como back end (U-011-022, 2022-05); no hablará de código pese a haber sido desarrollador web (U-013-008, 2022-08); el creativo necesita solo no-code (U-013-050, 2023-01); "you don't need to learn to code" (U-013-087, 2023-08); empezar por uno y luego sumar, "full stack creator" (U-013-092, 2023-08); aprende content salvo que programar sea tu pasión (U-027-114, 2023-08-08); a partir de Balaji, aprender código y contenido "is not optional" (U-012-013, 2023-12); "content route, code route, or both" (U-012-027, 2023-12-31); "learn to build" como paso 5 (U-016-017, 2024-03); "web development course… will come in handy" (U-026-143, 2024-03); se aparta explícitamente del énfasis que percibe en Naval por el code: media primero (U-019-069, 2024-06-02); clip "I would be telling my grandchild not to go study coding" (U-006-103, 2024-07).
+- **Después:** "philosopher builder", fusionar los polos (U-025-217, 2025-08); la IA democratizó el código (U-010-337, 2026-06); "media matters more than code" porque el valor del contenido es subjetivo y su skill cap sube (U-012-225, 2026-06); content como vessel, aunque también construir software (U-012-216, U-012-227, 2026-06).
+- **Cambio exacto:** oscilación entre "no hace falta programar" y "el know-how técnico es necesario", y de una complementariedad simétrica a la primacía de media, sin abandonar el código (ahora vía IA).
+- **Razón que da el autor:** los no-code tools y luego la IA reducen la barrera; el código se vuelve accesible y "relatively objective"; la distribución sigue siendo el cuello de botella.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: no hace falta ser programador, pero sí entender lo suficiente para construir con herramientas; para quien domina el contenido, el código es multiplicador. La diferencia con Naval es de énfasis para principiantes.
+- **Tipo:** contradicción no resuelta (con cambio de énfasis hacia media).
+
+### EV-240 — ¿"Become a creator" es un dogma?
+- **Antes:** "if you don't have a personal brand you lose" (U-011-182, 2023-04); "start an education business, I don't care who you are" (U-009-012, 2023-04); "the creator economy is the most true model" (U-026-150, 2024-03).
+- **Después:** "am I just like promoting this dogma?… the more I break it down, the more it seems like the one true way" (U-010-303, 2026-01).
+- **Cambio exacto:** autocrítica explícita que no abandona la tesis, pero reconoce las objeciones ("not everyone can do this") y la reformula como "anyone ambitious can".
+- **Razón que da el autor:** al desglosarlo, le sigue pareciendo el camino.
+- **¿Ambas pueden aplicar a contextos distintos?:** La fuente señala la tensión con su crítica a las ideologías de negocio (U-010-023, U-010-160).
+- **Tipo:** refinamiento (autocrítica sin cambio de tesis).
+
+### EV-241 — Saturación y salud de la creator economy
+- **Antes:** crecimiento "exponencial" (U-009-191, 2023-12); la creator economy no se satura (U-008-019 a U-008-022, 2023); "the Creator economy cannot get saturated because being a Creator is an extension of yourself" (U-010-251, 2025-02); video "The creator economy is dying thanks to AI" (2025-02), cuya tesis real es que la IA solo hizo más fácil el mal contenido (U-012-128); "this isn't a winner takes all market" (U-012-189, 2026-02).
+- **Después:** "things can become saturated quite quickly" al competir como una persona; los ciclos de paradigma se acortan y la IA facilita copiar a los pioneros (U-008-177, 2026-01).
+- **Cambio exacto:** del optimismo y la imposibilidad de saturación del mercado en conjunto a la segmentación (una "lower class" de la creator economy) y la saturación rápida de cada modelo o táctica.
+- **Razón que da el autor:** la velocidad de iteración y la copia facilitada por la IA; la abundancia generada por la IA.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: el mercado de identidades e intereses es insaturable; los modelos y formatos, saturables (de ahí el consejo de "escape velocity").
+- **Tipo:** refinamiento.
+
+### EV-242 — ¿Quién es reemplazado y con qué tono?
+- **Antes:** "people that are worried about AI taking their creative jobs are the ones that weren't going to make it anyways" (U-016-005, 2024-03); "computers will only replace those who deserve to be replaced" (U-006-105, 2024-07).
+- **Después:** "AI isn't only coming for the jobs, it's coming for the meaning" y reconocimiento de los medios de vida en juego (U-012-171, U-012-173, 2026-02); habla a un individuo concreto, "not people in circumstances with less control" (U-012-202, 2026-06).
+- **Cambio exacto:** de la culpabilización del reemplazado a un encuadre más amplio (crisis de sentido) y matizado.
+- **Razón que da el autor:** no la explicita.
+- **¿Ambas pueden aplicar a contextos distintos?:** No se precisa.
+- **Tipo:** cambio de énfasis.
+
+### EV-243 — La "moneda" de la nueva economía
+- **Antes:** "attention isn't the new currency, information is" (U-007-160, 2022-12; U-001-098, 2024-02); "ideas are the new currency", "capture hold and nurture their attention with ideas" (U-017-065, 2023-06); el "mental real estate" (la atención colectiva) es "the most valuable resource" (U-021-026, 2023-09); "ideas are the new oil" (U-012-087, 2024-06).
+- **Después:** "intelligence is no longer a differentiating resource" (U-010-229, 2025-02); "taste is the new intelligence" (U-025-205, 2025-08); en la meaning economy se compra la perspectiva y la curación de alguien (U-012-187, 2026-02); "meaning is the scarcest commodity in civilization right now" (U-014-127, 2026-04).
+- **Cambio exacto:** el acento se desplaza de información → ideas/atención → taste → meaning a medida que lo anterior se abarata.
+- **Razón que da el autor:** el abaratamiento de los modelos y la abundancia de información ("everyone has all the answers... yet 99% of people don't realize or utilize it").
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: capas de una cadena válidas en contextos distintos.
+- **Tipo:** cambio de énfasis.
+
+### EV-244 — El value creator y las tácticas de atención
+- **Antes:** los value creators educan "instead of memes, drama or commentary" (U-011-088, 2022-10); el direct response es "so shallow so fast" (U-017-065, 2023-06); el synthesizer frente a los "general influencers who attract the masses with looks" (U-012-020, 2023-12); "creator, not an influencer" (U-016-073, 2024-05). En paralelo, los memes son válidos como un pilar de la marca (U-011-218, 2023-07).
+- **Después:** el value creator de nivel 3 sabe que "if they don't capture attention, that meaning won't be transmitted" (U-015-175) y la solución es "merging level one with level two" (U-015-171, 2025-09).
+- **Cambio exacto:** de oponer educación a entretenimiento y tácticas virales a integrar la mecánica de la atención al servicio del sentido.
+- **Razón que da el autor:** sin atención el sentido no se transmite; los "brilliant nobodies" tienen ideas útiles "but you don't really exist".
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: lo rechazado es la atención sin sentido (nivel 1), no la atención en sí.
+- **Tipo:** refinamiento.
+
+### EV-245 — Definición del value creator
+- **Antes:** investigador de un "crevice of reality" que educa y vende conocimiento agregado (U-011-087, U-023-031, 2022-10/11); intención en inputs y outputs, la vida como proyecto científico (U-027-188, 2023-10).
+- **Después:** "fountainhead of value" (U-016-073, 2024-05); usuario estratégico de la atención con through-line, frame y mission (U-015-175, 2025-09); "ordinary people who make sense of their own minds and document them in public", núcleo de la meaning economy (U-014-130, 2026-04).
+- **Cambio exacto:** de un rol de carrera (educador de nicho) a un rol civilizatorio (proveer "the root" de la identidad y la conducta: "a greater cascade").
+- **Razón que da el autor:** la escasez de sentido y la IA que abarata la información.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: capas acumulativas del mismo término.
+- **Tipo:** refinamiento.
+
+### EV-246 — Cómo nombrar la época: renacimiento, golden age, dark ages
+- **Antes:** "digital dark ages" (U-017-070); "we are living through what seems to be a second Golden Age" (U-017-178, 2024-01, libro); "you are living through the second Renaissance" (U-006-086, 2024-07).
+- **Después:** el renacimiento solo para "conscious and intentional individuals" (U-018-027, 2024-11); el paralelo de la imprenta como "prediction... speculation... better than doing nothing" (U-010-284, 2026-01).
+- **Cambio exacto:** de afirmación a hipótesis útil, y de época para todos a época condicionada a la consciencia.
+- **Razón que da el autor:** nadie sabe cómo será el futuro; la programación social mantiene inactiva a la mayoría (U-010-227).
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: "dark ages with a renaissance on the horizon" (nota de U-017-178).
+- **Tipo:** cambio de énfasis.
+
+### EV-247 — Los "7 billion companies" de Naval y el UBI
+- **Antes:** no entendía la cita ("not everyone can have a business") y uno o dos años después la creyó (U-011-035, 2022-05); la usa como tesis del futuro del trabajo (U-006-079, 2024-07); la llama "just speculation" y dice que incluso con UBI la gente querrá trabajar (U-015-062, 2024-10).
+- **Después:** habrá "an acclimation period" de pérdida de empleos sin redes como el UBI (U-012-162, 2025-05); el UBI lleva a la excelencia o a la mediocridad según elección personal, y el 99% elegirá la mediocridad (U-025-220, 2025-08); con Shapiro, las transferencias son políticamente inestables y el futuro pide "broadening capital participation"; él no encontraría sentido cobrando en el sofá (U-012-174, 2026-02).
+- **Cambio exacto:** del UBI como hipótesis lejana a un análisis económico explícito de sus límites, sin cambiar la idea de que el ser humano necesita trabajar o crear para tener sentido.
+- **Razón que da el autor:** la IA rompe el bucle salario → gasto → empleo.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: lo presenta todo como teoría que "may not happen".
+- **Tipo:** refinamiento.
+
+### EV-248 — ¿Cuánto puede hacer la IA por uno?
+- **Antes:** aprenderla aunque "it's not there yet" (U-012-149, 2025-05); con IA la gente "will soon be able to operate at the level of large teams" (U-025-200, 2025-08).
+- **Después:** los agentes sin habilidad no producen nada (U-016-259, 2026-03); "AI, frankly, still, and probably for the foreseeable future, isn't that good yet... It's missing something" (U-016-299, 2026-03); "when everyone has superpowers, nobody has superpowers" (U-004-094, 2026-05).
+- **Cambio exacto:** de enfatizar el poder de la IA a enfatizar que sin habilidad, taste e iteración ese poder no diferencia.
+- **Razón que da el autor:** si algo funciona para todos al instante, es un commodity o un exploit.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: la IA multiplica a quien "knows what good looks like".
+- **Tipo:** cambio de énfasis.
+
+### EV-249 — Vibe coding
+- **Antes:** el pánico de "anyone can vibe-code it" es exagerado; la gente quiere conveniencia (U-010-289, 2026-01).
+- **Después:** defiende el término y a los vibe coders con marketing y ventas (U-010-343, 2026-06); muestra que crecen las apps pero no su uso (U-012-215, 2026-06); se burla de "everyone else vibe coding apps they'll never get traction on" (U-013-223, 2026-07).
+- **Cambio exacto:** tensión aparente entre defender y ridiculizar, no un cambio de posición.
+- **Razón que da el autor:** lo que falla no es el código sino taste, persistencia, iteración y distribución ("Agency is only so much").
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: defiende la herramienta y critica su uso sin los cinco ingredientes.
+- **Tipo:** contradicción no resuelta (aparente).
+
+### EV-250 — ¿La tecnología libera o amplía la brecha?
+- **Antes:** la automatización y la IA asumirán el trabajo mecánico "against human nature" y la gente sobrevivirá en el "mental plane" (U-002-044, 2023-03, adaptado de Naval); en el mismo diálogo Dickie Bush replica que la tecnología amplía la brecha (U-002-047).
+- **Después:** reconoce turbulencia y que "many won't benefit" (U-025-213, 2025-08), y que el 99% elegirá la mediocridad (U-025-220).
+- **Cambio exacto:** primero una tensión entre interlocutores; después el autor incorpora la idea de que muchos no se beneficiarán.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: la liberación es posible para una minoría deliberada.
+- **Tipo:** cambio de énfasis.
+
+### EV-251 — Qué diferencia a un humano frente a la IA
+- **Antes:** "authenticity" como factor diferencial; "if you think you're going to get replaced by AI you're going to get replaced by AI" (U-014-040, 2023-02).
+- **Después:** la experiencia personal como único moat (U-010-259, 2025-02); "you are the niche", the ultimate wrapper (U-012-144, 2025-02); crítica a los "brilliant nobodies" que usan "authenticity" vagamente (U-015-169, 2025-09); la opinión como moat final (U-010-281, 2026-01); el "swap test" (U-012-193, 2026-02); "situated point of view" (U-014-124, 2026-04).
+- **Cambio exacto:** de un criterio vago (autenticidad) a uno operativo (si el valor está atado a quien lo hizo).
+- **Razón que da el autor:** el abaratamiento de la inteligencia hace que solo lo no intercambiable conserve valor.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: la autenticidad queda subsumida en el swap test.
+- **Tipo:** refinamiento.
+
+### EV-252 — Formas de leverage: renombres sucesivos
+- **Antes:** "If You Want To Secure Your Future…" (2022-05-21): cita a Naval: el leverage viene del capital, las personas y los productos sin costo marginal de replicación (code y media) (U-011-037). "Change Your Life In 365 Hours" (2024-06-02): labor, capital y productos sin costo marginal, con los productos digitales como la forma más alta (U-019-059, U-019-064).
+- **Después:** "Harsh Truth…" (2025-05-04): la tercera forma es "permissionless leverage" (code, media, libros, podcasts, newsletters, cursos), con los contras de cada forma (U-019-139); "code and media are permissionless leverage" (U-010-332, 2026-06-13); "old leverage" (activos físicos, lineales y locales) frente a "new leverage" ("media, data and code") (U-014-173, 2026-07-27).
+- **Cambio exacto:** "people" pasa a "labor"; la tercera forma se renombra dos veces y se amplía (se suma "data"); aparece el eje histórico old/new.
+- **Razón que da el autor:** no da razón del renombre; explica que hoy el leverage ya no exige capital.
+- **¿Ambas pueden aplicar a contextos distintos?:** Son compatibles.
+- **Tipo:** renombre.
+
+### EV-253 — Estadísticas sin fuente sobre el trabajo
+- **Antes / Después:** "36 percent of the workforce are freelancers" (U-009-004, 2023-04) y "increased from 36% of the workforce to 46.6% since 2020" (U-006-073, 2024-07): la misma cifra base se presenta primero como actual y luego como punto de partida de 2020. En la compilación de 2024-02-06 cita "a projected 62% of jobs being threatened by Automation" (U-001-137) y, antes en el mismo video, "60% of new jobs have yet to be created".
+- **Cambio exacto:** cifras que no cuadran, sin fuente citada.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** No aplica.
+- **Tipo:** inconsistencia de datos.
+
+### EV-254 — Proporción de la vida que consume el trabajo
+- **Antes / Después:** ~30% (U-011-003, 2022); "work consumes about 25 percent of your life" (U-011-191, 2023-04-16); "a third of your life is work" (U-008-084, 2024-01-21); "one-third of life doing unchosen work, one-third mentally exhausted, one-third asleep" (U-012-203, 2026-06-28).
+- **Cambio exacto:** encuadres distintos de la misma cuenta.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** No aplica.
+- **Tipo:** inconsistencia de datos.
+
+---
+
+## 13. Dinero
+
+### EV-255 — ¿Espiritualizar el dinero?
+- **Antes:** "Money as spiritual energy" (U-008-116, 2024-02-25); "realizing that money is much, much more spiritual than you think" (U-016-118, 2024-09-29).
+- **Después:** "the people who endlessly moralize or spiritualize money can't fathom a life where they aren't bound to it" (U-016-226, 2025-08-03).
+- **Cambio exacto:** de afirmar la dimensión espiritual del dinero a criticar a quienes lo espiritualizan; la propia U-016-226 registra el contraste.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Probablemente: dar al dinero un uso con propósito (2024) frente a usar un marco espiritual para justificar el rechazo del dinero (2025, en línea con U-016-159).
+- **Tipo:** contradicción no resuelta.
+
+### EV-256 — "You make money to create": de tweet propio a cita de Walt Disney
+- **Antes:** "Dan's tweet: you don't create to make money, you make money to create" (U-010-055, 2023-04-30).
+- **Después:** "one quote that I'm going to butcher by Walt Disney: you start creating to make money, and then you start making money to create" (U-005-111, 2025-01-30).
+- **Cambio exacto:** la idea se atribuye a un tercero y se reformula como secuencia temporal en vez de oposición.
+- **Razón que da el autor:** no explica el cambio de atribución.
+- **¿Ambas pueden aplicar a contextos distintos?:** Misma idea.
+- **Tipo:** renombre (cambio de atribución y de formulación).
+
+### EV-257 — "Enough" frente a la obsesión por hacerse rico
+- **Antes:** el "target creative" no se interesa por ganar miles de millones, sino por ganar más que suficiente, con descanso, tiempo libre y trabajo con sentido, sin el hustle (U-016-046, 2024-05-26); con Sahil (2025-01-30), Dan duda de si querría apagar el feedback del dinero (U-005-113) frente al "enough life" (U-005-114), y Sahil lo resuelve: perseguir más está bien si se ancla en un propósito (U-005-115).
+- **Después:** quien solo quiere "lo que necesita" limita el nivel de desafío (U-025-191, 2025-07-27); "the concentration of force is the only way to get rich", la obsesión como condición (U-016-236, U-016-237, 2025-08-03), con la excepción de un espectro entre rico y acomodado: "both goals are fine" (U-016-240, U-016-242).
+- **Cambio exacto:** de un énfasis en lo suficiente y el estilo de vida a la legitimación explícita de la obsesión por hacerse rico.
+- **Razón que da el autor:** hacerse rico es convertirse en mejor persona y el viaje importa más que el resultado (U-016-238, U-016-240).
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: metas distintas que declara igualmente válidas.
+- **Tipo:** cambio de énfasis.
+
+### EV-258 — Diversificar (small bets) frente a concentrar la fuerza
+- **Antes:** Justin Welsh, siguiendo a Daniel Vassallo, rechaza el "go all in" y prefiere "10 $50,000 businesses" a "one $500,000 business" (U-005-059, 2021-12-20); Dan reintroduce parcialmente el "all in" (U-005-060).
+- **Después:** "concentration of force is the only way to get rich" y "give yourself no other option" (U-016-236, U-016-247, 2025-08-03); "build your own thing and commit to it and accept no other option" (U-012-209, 2026-06-28); para los jóvenes, cubrirse con un "depression apartment" para arriesgar sin nada que perder (U-022-136, 2026-08-19).
+- **Cambio exacto:** tensión entre diversificar el riesgo y concentrar.
+- **Razón que da el autor:** no hay resolución explícita.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: el operador con varios negocios pequeños frente a quien busca hacerse rico o sobrevivir al reemplazo.
+- **Tipo:** contradicción no resuelta.
+
+### EV-259 — Invertir: del rechazo a los umbrales, y la tensión con "invest in the physical"
+- **Antes:** con la "sovereign lens", "the idea of investing in the market goes completely away"; las únicas inversiones a prueba de recesión son tus habilidades (U-002-065, 2023-03-16).
+- **Intermedio:** invertir pronto es escasez para principiantes; solo con $20k–$50k/mes de facturación tiene sentido pensar en invertir; "build the digital, invest in the physical" (U-019-065, U-019-078, U-012-080, U-012-081, 2024-06-02/09); invertir en bolsa durante 40 años puede dar algo de riqueza, pero quien quiere hacerse rico puede lograrlo 30 años antes (U-016-242, 2025-08-03).
+- **Después:** los activos físicos son lo primero que los gobiernos encontrarán, gravarán y confiscarán si la IA colapsa los salarios; una lista de email es más difícil de confiscar (U-014-175, 2026-07-27).
+- **Cambio exacto:** de la negación de la inversión tradicional a un orden de prioridades (primero flujo de caja, luego activos físicos) y, en 2026, una advertencia que tensiona "invest in the physical".
+- **Razón que da el autor:** no reconcilia ambas ideas.
+- **¿Ambas pueden aplicar a contextos distintos?:** No se precisa.
+- **Tipo:** contradicción no resuelta.
+
+### EV-260 — Labor theory of value → "the old paradigm"
+- **Antes:** "the labor theory of value" (U-016-002, 2024-03-31); "labor theory of value frame" (U-019-009, 2024-08-11).
+- **Después:** "the old paradigm": "my time equals how much I earn" frente a "how much I earn equals the value that I provide" (U-016-270, 2026-03-15), con el emprendedor que "caza" clientes y la habilidad de tolerar el riesgo.
+- **Cambio exacto:** renombre de la misma idea con añadidos.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Misma idea.
+- **Tipo:** renombre.
+
+### EV-261 — "Just make more money" (Dickie) frente a "ya tienes los recursos" (Dan)
+- **Antes / Después (mismo diálogo, 2023-03-16):** Dickie propone que la solución casi siempre es ganar más dinero para tener una lente nueva; Dan lo acepta en parte y lo corrige: ya tienes recursos sin saberlo y, si no sabes ganar más, puedes empezar el proyecto y aprender las habilidades (U-002-059).
+- **Cambio exacto:** tensión entre interlocutores.
+- **Razón que da el autor:** no todos tienen la habilidad de ganar más.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: según se tenga o no esa habilidad.
+- **Tipo:** contradicción no resuelta (entre fuentes).
+
+### EV-262 — Ratio seguidores → ingreso
+- **Antes:** 10K seguidores → mes de 10K USD (~1 USD por seguidor) (U-007-147, 2022-12-18; U-001-146, 2024); 0,50–1 USD por seguidor al mes, que se cumplió en sus años 1–3 pero no a escala: 2,8M de seguidores no son 2,8M al mes ("maybe I've just gotten lazy... or a limiting belief") (U-002-122, 2023-10-08).
+- **Después:** 10K seguidores → 3K USD al mes y 100K → 30K, pero 5K seguidores pueden dar 100K al mes con una offer stack optimizada (U-012-039, 2023-12-31).
+- **Cambio exacto:** el ratio ilustrativo baja a ~0,30 USD por seguidor y se desacopla del tamaño de la audiencia.
+- **Razón que da el autor:** U-012-039 lo presenta como ilustración del leverage; U-002-122, como regla que se rompe.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: los números de 2022 son su caso personal; los de 2023-12, una ilustración que depende de la oferta.
+- **Tipo:** corrección (parcial) e inconsistencia de datos.
+
+### EV-263 — "If you can gain one follower…"
+- **Antes:** una versión con "100,000" (U-008-088, 2024-01); "if you can gain one follower you can gain $1,000; if you can make $1 you can make a million", posible lapsus (U-008-112, 2024-02).
+- **Después:** "if you can make $1 you can make 1 million; if you can gain one follower you can gain 1 million" (U-016-080, 2024-05).
+- **Cambio exacto:** solo cambia la cifra; la idea (escalabilidad lineal) es la misma.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Misma idea.
+- **Tipo:** inconsistencia de datos.
+
+### EV-264 — Ingresos de plataforma frente a ingresos de productos
+- **Antes:** AdSense: unos $10k al mes para canales de 250k–500k suscriptores frente a un producto que podría dar $50–100k o más, con aritmética imprecisa en la transcripción (U-002-127, 2023-10-08); ~$300 por reels virales con 1,6M de seguidores, ~$300/mes de X, ~$10K/mes de YouTube; algo más de $5M en productos en ~5 años y $4M en 2023 (U-008-086, 2024-01).
+- **Después:** ~$400/mes de Reels y ~$400/mes de X; YouTube "a lot more than that"; "upwards of 6 million" en productos y $300.000 el último mes (U-012-112, 2024-06); Instagram $300–500, X unos $2.000 y YouTube unos $10.000 al mes frente a 10–20 veces más con producto propio (U-016-286, 2026-03-15).
+- **Cambio exacto:** actualización de cifras; la tesis (los productos propios superan ampliamente a la monetización de plataforma) se mantiene.
+- **Razón que da el autor:** no aplica.
+- **¿Ambas pueden aplicar a contextos distintos?:** Momentos distintos.
+- **Tipo:** inconsistencia de datos (actualización).
+
+### EV-265 — Bienes materiales y "money doesn't buy happiness"
+- **Antes:** no quieres la mansión, quieres "lo que hay debajo"; mirarla es cheap dopamine (U-025-035, 2023-01-12); una búsqueda superficial es mejor que no hacer nada, pero necesita detrás una búsqueda filosófica de la maestría (U-011-127, 2023-02-19).
+- **Después:** "money doesn't buy happiness" es una media verdad: los bienes materiales tienen utilidad si no son búsquedas superficiales (y el reloj de 40.000 dólares) (U-026-224, 2023-10-02, matiz frente a U-026-024).
+- **Cambio exacto:** matiz que rehabilita el objeto material.
+- **Razón que da el autor:** la utilidad del objeto como vía de experiencia y aprendizaje.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: el deseo superficial como trampa frente al objeto como vía de experiencia.
+- **Tipo:** refinamiento.
+
+---
+
+## 14. Filosofía de vida
+
+### EV-266 — La felicidad: fórmula, atribución y definiciones
+- **Antes:** dos tipos, por lograr metas y por no lograr nada, sostenidos por un sense of mastery (U-026-240, 2023-02), y la felicidad necesita un punto de referencia infeliz (U-026-242, 2023-02); "if happiness is the feeling we get when our attention is distracted from the vast unhappiness in the world", explícitamente hipotética (U-016-203, 2023-08); "If Your Life Sucks" (2023-10-22) atribuye a Nietzsche "happiness is the feeling that power increases, that resistance is being overcome" (U-027-177; también U-016-156, 2023-11).
+- **Después:** la presenta como fórmula propia con un segundo término, "connection to something greater than yourself", y la creatividad como vehículo de ambos (U-027-224, 2025-01-12; U-012-133, 2025-02-16); "happiness is not euphoria" en los 20 (U-025-169, 2025-07); "happiness is being fine... calm... in a good mood. It's not euphoria" (U-016-241, 2025-08); la recuerda como "a niche quote" cuya fuente no logra citar (U-012-180, 2026-02-12) y la integra en los pilares progress/contribution (U-012-179).
+- **Cambio exacto:** la fórmula pasa de cita ajena a pieza central de un framework propio (con conexión/contribución añadida); en paralelo aparece una definición de estado (calma) frente a las definiciones activas (progreso, poder, distracción).
+- **Razón que da el autor:** "this insight isn't anything new. We just need to be reminded of it"; la definición de calma responde a la objeción "¿y salir, disfrutar, ser sociable?" contra la noción occidental de euforia.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: la de Nietzsche corresponde al polo "progress" y la de calma al polo "peace".
+- **Tipo:** refinamiento (con pérdida de atribución).
+
+### EV-267 — ¿Perseguir la felicidad? Habilidad o falsa métrica
+- **Antes:** "Happiness Is A Skill" (2023-02-26) y "Focus Is A Superpower" (2023-07-11): la felicidad es una habilidad que se crea y practica (U-026-241, U-017-098).
+- **Después:** "happiness is kind of a false metric to pursue", porque la felicidad constante se vuelve homeostasis y sube la línea base (U-013-105, 2023-11-05).
+- **Cambio exacto:** tensión entre entrenar la felicidad y desaconsejarla como métrica.
+- **Razón que da el autor:** el sentido viene de los altibajos (U-002-110).
+- **¿Ambas pueden aplicar a contextos distintos?:** Pueden convivir si "happiness is a skill" se entiende como manejar altibajos e impermanencia (U-026-248, U-026-251) y "false metric" como rechazo a buscar un estado constante; el autor no lo reconcilia.
+- **Tipo:** contradicción no resuelta.
+
+### EV-268 — El sentido de la vida: de formulaciones sueltas a los meaning generators
+- **Antes:** sistema de dos pasos: elevar la consciencia propia y la colectiva (U-007-033, 2022-10; U-001-043, 2024-02); "responsibility muscle" (U-026-204, 2023-10); "the meaning of human existence is to create" (U-012-015, 2023-12); el estatus "no es malo si es consciente" (U-014-081, 2024-09).
+- **Después:** "meaning is generated from struggle, status, and curiosity" (U-008-178, 2026-01-03); anatomía del sentido con dos killers, dos pillars y los mismos tres generators con funciones asignadas (motor, dirección, prueba de contribución) (U-012-179) y una historia del sentido en cuatro actos (U-012-172, 2026-02-12); struggle, curiosity y status/recognition como base de una historia (U-012-182 a U-012-185, 2026-02).
+- **Cambio exacto:** sistematización; el estatus pasa a motor explícito de sentido, rebautizado como recognition.
+- **Razón que da el autor:** en 2026 se enmarca en el futuro del trabajo con IA: lo que la gente buscará cuando no esté en modo supervivencia.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: los dos pasos de la consciencia se corresponden con struggle/curiosity (elevar la propia) y con status/contribución (elevar la colectiva).
+- **Tipo:** refinamiento (con renombre).
+
+### EV-269 — Equilibrio: contención, polaridad o colapso de la dualidad (peace and progress)
+- **Antes:** el equilibrio es "a conscious effort to prevent either extreme from taking over" (U-027-021, 2022-11-13); being/doing como modalidades puras (U-026-244, 2023-02-26); "the balance peace and progress", ni workaholic ni monje (U-002-034, 2023-03-16), frente a Dickie Bush, que propone buscar el equilibrio "through extremes" porque en el medio "all the horrible results come" (U-002-035); en la misma conversación, "everything in moderation, even moderation": moderar la exposición a cada extremo (U-002-036).
+- **Después:** "this duality must collapse into one" (U-024-043, 2023-05).
+- **Cambio exacto:** del punto medio a la alternancia entre extremos y luego a la unificación.
+- **Razón que da el autor:** U-002-036 se presenta como reconciliación con Dickie; U-024-043 se justifica porque ciertas metas exigen cierto carácter (nivel 50).
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: escalas distintas (la contención describe el resultado agregado; la polaridad, el modo de operar en cada bloque) o etapas (equilibrar, alternar, integrar).
+- **Tipo:** refinamiento.
+
+### EV-270 — Libertad, soberanía y autonomía
+- **Antes:** con Justin Welsh, la filosofía "to do what I want with whom I want whenever I want" y la "personal sovereignty that everyone's after" (U-005-003, 2021-12-20); "people don't want freedom, they want autonomy" (U-024-068, 2023-07-25); "the most dangerous threat to society is someone who isn't reliant on it" (U-023-088, 2023-05-08); "a free man is defined as someone who acts on their interests and does many things throughout their life", sin atribuir la fuente (U-012-051, 2024-05-19).
+- **Después:** "absolute freedom... is synonymous with absolute chaos" (U-024-204, 2025-09-14); el "free individual" además "doesn't need permission to identify and solve a problem to create value" (U-025-203, 2025-08-17); la tríada self-education, self-interest y self-sufficiency, y el ciclo del que emerge el generalista (U-010-270 a U-010-276, 2026-01-20).
+- **Cambio exacto:** de celebrar el hacer lo que uno quiere a matizar que lo deseable es crear las propias reglas y estructura; la definición de libertad incorpora la agencia (sin permiso) y luego tres componentes.
+- **Razón que da el autor:** la necesidad de atención ordenada (ejemplo de las vacaciones cuya novedad se agota).
+- **¿Ambas pueden aplicar a contextos distintos?:** Son compatibles: la soberanía de 2021 ya implicaba elegir las propias reglas.
+- **Tipo:** refinamiento.
+
+### EV-271 — Disfrute frente a placer
+- **Antes:** el disfrute es profundidad y expansión de consciencia (U-024-009, 2022-07-02); "enjoyment" como palabra para el amor de los místicos (U-027-010, 2022-11-13).
+- **Después:** investing vs spending attention (U-024-079, 2023-07-25); "enjoyment is found in progress" y el ego que corta el hilo (U-018-134, 2023-11-19; U-023-175, 2024-07-21).
+- **Cambio exacto:** el criterio se desplaza de la profundidad perceptiva a la inversión de atención y luego al progreso hacia metas.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Son capas complementarias.
+- **Tipo:** cambio de énfasis.
+
+### EV-272 — El ejemplo del converso vegano
+- **Antes:** los resultados vienen de comida más densa, acciones identitarias y claridad; gran parte de la energía es psychic energy liberada (U-026-255, 2023-02-26).
+- **Después:** añadir reglas a un juego, propósito de la jerarquía de metas (U-020-084, 2023-12-17); las fad diets son "finite games" cuya energía viene de la claridad de la rutina prestada (U-026-195, 2024-05-30).
+- **Cambio exacto:** el mismo caso se reencuadra en tres marcos (psicológico, de metas, de juegos finitos).
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Todos son compatibles.
+- **Tipo:** refinamiento.
+
+### EV-273 — Postura ante la salud
+- **Antes:** con Dickie Bush (2023-03-16): los detalles de la dieta casi no importan (U-002-085), la autooptimización excesiva es un "destructive self-improvement game" (U-002-087) y el estilo de vida se arma como Legos (U-002-089); defensa de la "degeneracy" frente al "Huberman cult" (U-026-228, 2023-10-02).
+- **Después:** cuidar el cuerpo debería ser "tu trabajo de tiempo completo" (U-019-171, 2025-06-29); la moda de la longevidad como "status game" (U-024-133, 2025-10-19); datos fisiológicos detallados del ejercicio (BDNF, BMR, mitocondrias) y una dieta de eliminación concreta (U-018-066, U-018-067, 2025-10-26).
+- **Cambio exacto:** de relativizar los detalles a dar protocolos concretos, manteniendo la crítica al dogmatismo.
+- **Razón que da el autor:** no la da explícitamente; U-018-067 dice que es no dogmático pero que todos deberían hacer una dieta de eliminación.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: los protocolos se presentan como "baseline", no como ideología.
+- **Tipo:** cambio de énfasis.
+
+### EV-274 — Espiritualidad y negocio; definición de espiritualidad
+- **Antes:** lo místico no puede articularse y el bodhisattva de Watts equilibra lo místico y lo material (U-023-024, U-023-028, 2022-11-20); los espirituales que creen que el negocio no es necesario para la autorrealización fracasarán sin saberlo (U-017-052, 2023-06-18); la espiritualidad es "understanding your part in the whole of the universe", sentida al revertir la entropía; no es irse al bosque (U-016-155, 2023-11).
+- **Después:** "discovering your part in the whole, transcending that whole to the next, and then the next, until you reach your life's purpose of contribution", ligada a resolver problemas (U-016-121, 2024-09); las metas prácticas "are not anti-spiritual, they are spirituality" (U-021-059, U-021-060, 2024-11-03).
+- **Cambio exacto:** de equilibrar dos planos a integrarlos; se añade la trascendencia sucesiva y el vínculo propósito-problemas.
+- **Razón que da el autor:** la conexión con un todo mayor y el dolor como corrector.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: la de 2022 sigue valiendo como experiencia contemplativa; la de 2024 la subordina a una meta teleológica.
+- **Tipo:** refinamiento.
+
+### EV-275 — Dominios de la vida: nombres cambiantes
+- **Antes:** "mind, body, spirit with business as your vessel" (U-005-001, 2021-12-20); "physical mental spiritual and financial reps" (U-026-044, 2022-06); los "eternal markets" salud, riqueza, relaciones y felicidad (U-026-264, 2023-02-26; U-010-071, 2023-04-30); cuerpo, mente, negocio (U-005-125, 2023-04-20; U-003-148, 2024-03); skill tree Mind/Body/Spirit/Business (U-017-052, 2023-06-18); mente, cuerpo y negocio (U-027-115, 2023-08) y mente, cuerpo, espíritu y finanzas como rasgos del videojuego de la vida (U-027-146, 2023-08); mind/body/spirit/business con las relaciones dentro de spirit (U-027-161, 2023-08; U-020-074, 2023-12); "four pillars of the good life" = mente, cuerpo, negocio, relaciones, identificados con los eternal markets (U-018-133, 2023-11-19).
+- **Después:** "the only things that matter in life: health, wealth, relationships, happiness" (U-026-140, 2024-03-10); business/health/mind/connection, y en la misma unidad "mind, body, spirit and business" (U-023-174, 2024-07); cuadrantes (U-024-134, U-024-136, 2025-10).
+- **Cambio exacto:** la lista oscila entre incluir "spirit", "happiness" o "relationships", y "negocio" sustituye a "finanzas".
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: recortes equivalentes según el contexto (negocio, rutina diaria, juventud); la de tres pilares es plan de acción y la de cuatro, visión general.
+- **Tipo:** inconsistencia de datos (renombres sin explicación).
+
+### EV-276 — Sentirse perdido: ¿normal o peligroso?
+- **Antes:** sentirse perdido entre capítulos es normal y hay que sentarse con ello (U-023-066, 2023-01-15).
+- **Después:** "If You're Lost" (2023-06-04): la fase perdida es "the most disastrous", "extremely dangerous" y una "eternal struggle" para la mayoría (U-026-088, U-026-089, U-026-101), aunque "there is wisdom in feeling lost" y hay que abrazarlo (U-026-106); la gente queda atrapada en limbo precisamente porque interpreta el sentirse perdido como mala señal (U-023-255, 2025-05-08); estar perdido es un punto de decisión (U-022-125, 2026-08).
+- **Cambio exacto:** el énfasis oscila entre normalizar el estado y advertir de su peligro.
+- **Razón que da el autor:** el peligro está en quedarse dentro de una "mental bubble" sin exponerse.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: es normal entrar y peligroso quedarse.
+- **Tipo:** cambio de énfasis.
+
+### EV-277 — Sufrimiento: de necesario y bueno a capa evitable
+- **Antes:** "suffering is a very good thing when you perceive it that way"; no se trata de eliminarlo sino de fluir con él, con crítica a la lectura habitual del budismo (U-024-041, 2023-05); la lucha y el sufrimiento son necesarios para progresar (U-026-094, 2023-06); el sufrimiento nace de comparar expectativas con realidad (U-017-145, 2024-01).
+- **Después:** "pain is a feature of life. Suffering is the identity's refusal to accept the event"; la consciencia no quita el dolor sino la "second layer" (U-024-175, 2026-05).
+- **Cambio exacto:** "suffering" pasa de designar la dificultad inevitable (que hay que aceptar) a designar solo la capa añadida por la identidad (que puede reducirse); la parte inevitable se llama ahora "pain".
+- **Razón que da el autor:** no la da; la versión de 2026 se apoya en el marco de identidad y en el espacio entre impulso y respuesta.
+- **¿Ambas pueden aplicar a contextos distintos?:** Son compatibles si el "suffering" de 2023 se lee como el "pain" de 2026; la propia unidad de 2026 dice que complementa a U-024-041.
+- **Tipo:** renombre (redefinición terminológica).
+
+### EV-278 — Desapego: de respuesta consciente a advertencia contra la trascendencia prematura
+- **Antes:** separar las olas inevitables de una respuesta consciente: "your emotions do not have to match those waves" (U-024-003, 2022-07); Alan Watts, relajarse ante el frío (U-024-004, 2022-07); radical acceptance (U-017-145, 2024-01).
+- **Después:** "you can't try to be unbothered": quien decide desapegarse de los resultados convierte el desapego en el resultado al que se apega; hay que jugar el juego y apegarse profundamente antes de poder trascenderlo (U-024-173, U-024-174, 2026-05).
+- **Cambio exacto:** no se niega el desapego; se añade que no puede forzarse ni imitarse leyendo un libro de espiritualidad y que requiere años de práctica y pasar por el apego.
+- **Razón que da el autor:** es una "huge spiritual trap" y la mayoría busca un "cheap dopamine hit".
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: la versión temprana describe la práctica; la tardía advierte sobre su versión impostada.
+- **Tipo:** refinamiento.
+
+### EV-279 — Lo desconocido: preparación frente a lanzarse
+- **Antes:** "you can't just hurl yourself into the middle of the ocean if you don't know how to swim and expect to survive"; la noción del yo no sobreviviría (U-023-027, 2022-11).
+- **Después:** "if you feel lost... throw yourself into the unknown and become even more lost"; "it is impossible to change in the known" (U-017-171, 2024-01).
+- **Cambio exacto:** de la prudencia a la inmersión.
+- **Razón que da el autor:** no la explica.
+- **¿Ambas pueden aplicar a contextos distintos?:** Probablemente: la advertencia de 2022 se refiere a disolver la identidad (místicos, "no self"); la de 2024, a cambios concretos (mudarse, libros, habilidades, negocio).
+- **Tipo:** cambio de énfasis.
+
+### EV-280 — Los 20 años: de "make or break" a "tutorial phase"
+- **Antes:** a los 26 años: cómo pasas los 20 hace o rompe tu futuro; a los 30 "life hits you like a truck"; tres trampas (conditioning, dopamina, comodidades) y tres pasos de future proofing (U-005-121, U-005-122, U-005-124, 2023-04; U-003-147, U-003-148, 2024-03).
+- **Después:** a los 28 años: los 20 son "the tutorial phase", "make them your worst"; repetir "the same 6 months"; las peak experiences deberían ser los picos más bajos; la juventud como moneda frente al capital; plateau a los 23 (U-025-168, U-025-169, U-025-172, U-025-175, 2025-07); anuncia que apaga "the nuance of my normal videos".
+- **Cambio exacto:** de la urgencia por lo que se pierde a los 30 a la preparación para un juego principal que mejora con la edad ("even when your youth is no longer on your side").
+- **Razón que da el autor:** estuvo atrapado repitiendo 6 meses y su vida mejoró al decidir parar.
+- **¿Ambas pueden aplicar a contextos distintos?:** Son compatibles.
+- **Tipo:** cambio de énfasis.
+
+### EV-281 — Meditación: de desapego a forma de vida
+- **Antes:** liberar la mente, disminuir el apego a los pensamientos, walking meditation contando respiraciones (U-019-100, U-019-102, 2024-06).
+- **Después:** "one meditation" como forma de percibir con asombro y gratitud, 10 minutos al día notando la realidad en detalle, para escapar de la shallow living (U-019-169, 2025-06).
+- **Cambio exacto:** ampliación del concepto.
+- **Razón que da el autor:** el trabajo puede ser espiritual pero no sustituye un hábito que mantenga la conexión con la realidad.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: la segunda incluye la primera.
+- **Tipo:** refinamiento.
+
+### EV-282 — Lo superficial antes que lo profundo
+- **Antes:** "selflessness requires selfish values" (U-027-023, 2022-11); empezar por lo espiritual sin el trabajo superficial es usar la espiritualidad como "status hat" (U-024-048, 2023-05); resolver primero los problemas superficiales y egoístas, anunciando su filosofía ("kism") (U-019-044, U-001-039, 2024).
+- **Después:** "the deepest and most meaningful things come from the pursuit of materialistic or shallow things" (U-025-184, 2025-07).
+- **Cambio exacto:** la idea se radicaliza de requisito previo a fuente de lo profundo.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** No hay contradicción.
+- **Tipo:** refinamiento.
+
+### EV-283 — El deseo
+- **Antes / Después (en paralelo):** "most people tell you desire is bad but not if the outcome is positive", matizando la visión espiritual común (U-003-243, 2024-02), en coexistencia con el elogio del flow como pérdida del yo.
+- **Cambio exacto:** matiz frente a la espiritualidad convencional.
+- **Razón que da el autor:** el criterio es el resultado positivo.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí.
+- **Tipo:** refinamiento.
+
+### EV-284 — Tensiones menores: "marinating" y las emociones negativas
+- **Antes / Después:** (a) "Marinating" es un estado pasivo que causa dolor en U-003-135 (2024-03), frente al uso aprobatorio (sentarse con el dolor) en U-003-133. (b) Las emociones negativas se usan como combustible (U-025-006, 2022-12) o se sueltan como obstrucción para que se revele el amor (U-027-080, 2023-06); ambas versiones rechazan reprimirlas.
+- **Cambio exacto:** usos opuestos de un mismo término o recurso.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí, según el momento.
+- **Tipo:** contradicción no resuelta (menor).
+
+---
+
+## 15. Biografía y productos del autor
+
+### EV-285 — La historia del rapado
+- **Antes:** tras perder algo de pelo tuvo una "existential crisis" por estar "overly identified with my glorious hair" y se rapó para probar si sus preocupaciones tenían peso (U-003-226, 2024-02).
+- **Después:** primero se rapó por miedo a quedarse calvo, luego descubrió que no lo estaba, y el rapado se convirtió en símbolo de entrar en un alter ego y "lock in" (U-025-091, 2025-03).
+- **Cambio exacto:** de prueba contra la sobreidentificación a ritual de identidad elegida; se corrige el diagnóstico del pelo.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** No hay contradicción de hechos salvo el diagnóstico.
+- **Tipo:** cambio de énfasis (con inconsistencia de datos).
+
+### EV-286 — Las horas reales que trabaja el autor
+- **Antes:** el 90% de los días bajo 4 horas durante 3 años, pero ~6 horas al día en ese momento, vistas como un "problem" (U-017-002, 2023-01; U-003-056); 1–2 horas al día (U-017-039, 2023-06); 4–5 horas "aun con una carga excesiva" (U-018-148, 2023-11); 90–95% de los días ≤ 4 horas, hasta 12 al construir (U-003-218, 2024-02); ~90% de sus días como emprendedor fueron de 2–4 horas o menos (U-019-053, 2024-06-02).
+- **Después:** trabaja "mucho más" porque construye Cortex (U-006-144, 2024-07); "over 50% right now", antes más, y con el lanzamiento de Cortex trabajará mucho más (U-019-024, 2024-08-11); "técnicamente trabajo 24 horas" si se cuentan las entradas creativas (U-018-168, 2024-12); le gustan los días de 16 horas, aunque no para toda la vida, y tras dos meses de sobretrabajo por la carrera de la IA su escritura sufrió (U-019-131, U-019-142, 2025-05-04).
+- **Cambio exacto:** la cifra fluctúa según la etapa del negocio y la regla de las 4 horas se relativiza al construir una startup.
+- **Razón que da el autor:** el principio de impermanencia, los lanzamientos y la construcción de Cortex; construir un sistema exige más tiempo que mantenerlo (U-019-053).
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: mantenimiento frente a building.
+- **Tipo:** inconsistencia de datos (explicada por fases).
+
+### EV-287 — Cifras de ingresos que se actualizan y no siempre cuadran
+- **Antes:** $40–60k al mes con dos horas de escritura (U-013-014, 2022-08-28; U-001-085); ~$100.000 al mes (U-007-091, 2022-11-06); dos meses de $100.000 con base incierta (U-023-034, 2022-11-20).
+- **Intermedio:** $800k en 2022, $1,5M a mitad de 2023 y proyección de $2,5M (U-010-056, 2023-04-30; U-002-092, 2023-05-05); $2,5–3,5M generados en total y millonario líquido a los 26 (U-027-136, 2023-08-23); $100–250k sostenidos con picos de $500–750k, aclarando que es revenue y no beneficio (U-013-142, 2024-01-28); de $800.000 a $4,1M "haciendo lo mismo" (U-018-184, 2024-04-02).
+- **Después:** serie ~$10K, ~$100K, ~$150K, ~$800K, ~$4M y ~$2M "porque los ingresos se repartieron con Cortex" (U-009-143, 2025-02-10).
+- **Cambio exacto:** actualización ascendente y luego un descenso; unas cifras son ingresos y otras "lo que hizo".
+- **Razón que da el autor:** el reparto con la startup.
+- **¿Ambas pueden aplicar a contextos distintos?:** Momentos distintos; la serie de 2025 es la única completa.
+- **Tipo:** inconsistencia de datos.
+
+### EV-288 — Detalles variables del arresto
+- **Antes:** programa de 12 semanas y ~$5.000 (U-020-189, 2022-04-23); clase de desviación de seis meses con textos diarios y $5.000–10.000 (U-007-099, 2022-06-18); ~$10.000 y pruebas semanales (U-020-002, 2022-11-27).
+- **Después:** "a few thousand bucks", pruebas semanales en día aleatorio y el detalle del café en el patio (U-020-120, 2024-08-04).
+- **Cambio exacto:** cifras y formato del programa; el núcleo (arresto, carta, no contarlo a los padres, The Power of Now) es estable.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** No aplica.
+- **Tipo:** inconsistencia de datos.
+
+### EV-289 — Detalles variables del empleo y de la deuda
+- **Antes:** salario de "$60,000–70,000" (U-007-111, 2022-06-18); "front-end web developer, $50–55k" (U-013-001, 2022-08-28); préstamo del padre de $3.000 para las gafas de luz azul (U-007-109, 2022-06-18) frente a $2.000 (U-026-235, 2023-02-26).
+- **Después:** "entry-level web designer, $55,000" (U-013-133, 2024-01-28); "$2,000 in loans even with a full-ride scholarship" (U-017-179, 2024-01-18) frente a $20.000 en préstamos estudiantiles (U-016-041, 2024-05-26; U-004-088, 2026-05-14) y $8.000 de deuda total como estudiante de tercer año (U-015-132, 2025-06-08); préstamo del padre de $2.000 (U-015-132).
+- **Cambio exacto:** variaciones de memoria del relato; los $2.000 de U-017-179 podrían ser un error de transcripción frente a los $20.000 (no se puede confirmar).
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** No aplica.
+- **Tipo:** inconsistencia de datos.
+
+### EV-290 — La lista de los siete negocios fallidos
+- **Antes:** YouTube de fitness, segundo canal, fotografía/arte, agencia de Facebook ads, dropshipping rave, gafas de luz azul, carteras, más agencias de contenido y SEO (U-007-097 a U-007-111, 2022-06-18); duración de 4–5 años (U-011-007, 2022-05-21).
+- **Después:** 2–3 años (U-026-142, 2024-03-10); añade imprenta, "2-hour agency" de drop servicing y agencia de videos animados (U-014-135, 2024-10-20); casi 5 años de "beginner hell" y agencia de Facebook ads y de contenido SEO (U-015-088, 2025-02-02) frente a agencia SEO y de content marketing (U-015-132, 2025-06-08); arte digital, fotografía, agencias, dropshipping dos veces y un e-commerce (U-004-087, 2026-05-14); Facebook ads, SEO, dropshipping, diseño web, arte digital "y algunos más" (U-022-106, 2026-08-19).
+- **Cambio exacto:** el número "siete" es estable; la composición y la duración, no.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** No aplica.
+- **Tipo:** inconsistencia de datos.
+
+### EV-291 — De "one-person business guy" a fundador con equipo
+- **Antes:** con Dickie Bush reconoce que el software desafía su etiqueta (U-002-033, 2023-03-16); en "The One Person Business Model 2.0" dice querer volver a ser una persona con un VA aunque bajen sus ingresos (U-007-211, 2023-06-25).
+- **Después:** construye equipo y startup (U-009-237, 2024-09-15; U-008-133, 2024-12-01; U-004-046, 2025-01-28; U-010-248, 2025-02-23; U-019-142, 2025-05-04); "CEO of a small scrappy startup" (U-025-183, 2025-07-27).
+- **Cambio exacto:** de defender el modelo solo a cuestionar su apego a él y construir un equipo.
+- **Razón que da el autor:** quiere ciclos, intensidad y desafío; el negocio como "vessel for personal growth"; no sabía contratar y eso lo retuvo.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: recomienda el negocio de una persona como punto de partida y la startup como etapa posterior financiada por él (U-019-017).
+- **Tipo:** cambio de énfasis (cambio biográfico).
+
+### EV-292 — Cortex → Kortex → Eden
+- **Antes:** Cortex, "second brain software", versión cero para Cortex University (U-012-041, 2023-12-31); "a bit better" que Notion, con un piso de fracaso de ocho cifras anuales (U-009-237, 2024-09-15).
+- **Después:** Eden como "AI canvas and drive" (U-008-196, 2026-01-03); Eden como "AI content strategist", pivote "from Cortex to Eden to this Eden" (U-010-340, 2026-06-13; U-012-234, 2026-06-28); "Cortex inevitably failed… it didn't really fail, but it very painfully evolved into the version of Eden it is today" (U-021-213, 2026-08-09).
+- **Cambio exacto:** renombre y redefinición del producto (de app de notas y escritura a estratega de contenido con IA) y reconocimiento parcial de fracaso.
+- **Razón que da el autor:** la evolución dolorosa del producto (ver EV-302).
+- **¿Ambas pueden aplicar a contextos distintos?:** No aplica.
+- **Tipo:** renombre.
+
+### EV-293 — Hacerlo "al revés"
+- **Antes / Después:** recomienda publicar contenido antes de tener resultados (U-007-013, U-007-026; U-001-033, U-001-040), pero él obtuvo resultados con el freelance antes de publicar (U-007-028, 2022-10-02; U-001-041, 2024-02-06).
+- **Cambio exacto:** tensión entre consejo y trayectoria propia.
+- **Razón que da el autor:** no la da; lo presenta con humildad ("I'm just a regular dude").
+- **¿Ambas pueden aplicar a contextos distintos?:** No se precisa.
+- **Tipo:** contradicción no resuelta.
+
+### EV-294 — El fitness en la marca
+- **Antes:** deja de hablar de fitness por dogmatismo y porque tendría que hacerlo toda su marca (U-002-010, U-002-038, 2023-03-16).
+- **Después:** lanza Superhuman 90, un producto de entrenamiento, nutrición y detox, tras encontrar cómo integrarlo sin la estética "beast mode" (U-024-108, 2025-10-19).
+- **Cambio exacto:** del abandono a la reintegración como producto separado del dominio de negocios.
+- **Razón que da el autor:** siempre tuvo la obsesión por la salud, pero no sabía cómo encajarla en una marca de productividad y negocios.
+- **¿Ambas pueden aplicar a contextos distintos?:** No aplica.
+- **Tipo:** cambio de énfasis.
+
+### EV-295 — El alquiler "irresponsable" como estrategia
+- **Antes:** un alquiler "way above my level" que llevó al primer mes de $50k (U-026-017, 2022-06-12); fechado en 2020 como "dos veces más que cualquier cosa que hubiera pagado" (U-026-199, 2023-10-02; la fuente señala la diferencia de magnitud); las compras superficiales en la etapa de estatus son algo que hay que "realizar rápido" y corregir (U-016-100, 2024).
+- **Después:** el alquiler al doble de lo que podía pagar como imposición deliberada de una fecha límite, no como lifestyle creep (U-016-249, 2025-08-03).
+- **Cambio exacto:** el mismo hecho se cuenta con magnitudes distintas y se separa de la compra de estatus.
+- **Razón que da el autor:** la compra que obliga a desarrollar habilidades frente a la compra de estatus; advierte usar el sentido común.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí.
+- **Tipo:** inconsistencia de datos (con matiz).
+
+### EV-296 — La nicotina
+- **Antes / Después:** "The Power Of Walking" (2024-06-16) presenta dejar la nicotina de golpe en 2019 como historia de origen del hábito de caminar, pero admite que sigue usándola en menor medida (U-019-092).
+- **Cambio exacto:** tensión dentro del mismo relato.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** No aplica.
+- **Tipo:** inconsistencia de datos.
+
+### EV-297 — Libros anunciados y publicados
+- **Antes:** lanzamiento esperado en Q3 o Q4 de 2023 (U-002-076, 2023-03-16); libro terminado y "going on pre-sale soon" (U-026-090, 2023-06-04); relanzamiento del planner con el libro a fines de septiembre (U-013-100, 2023-08-16).
+- **Después:** dos libros publicados (U-025-183, 2025-07-27), con tensión frente a otro libro anunciado que dejó de escribir (U-025-128); "A Full Guide To Reinvent Your Entire Life" nombra Purpose and Profit (U-024-097, 2025-10-19).
+- **Cambio exacto:** las narrativas sobre los libros difieren.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Ambas cosas pueden ser ciertas.
+- **Tipo:** inconsistencia de datos.
+
+### EV-298 — Cuándo empezó en el gimnasio y cuánto tiempo estuvo sin Twitter
+- **Antes / Después:** gimnasio: tras su primera ruptura (U-023-064, 2023-01-15; U-003-134, 2024-03-21), en octavo grado con el profesor Mr. Schroeder (U-008-078, 2024-01-21), desde los 15 años (U-019-091, 2024-06-16), en secundaria con Nutrient Timing (U-018-116, 2025-08-24). Twitter: borrado "for like 10 years" desde 2011 (U-015-004, 2023-02-12) frente a "about eight years" (U-010-100, 2023-07-04).
+- **Cambio exacto:** variaciones narrativas compatibles.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** No aplica.
+- **Tipo:** inconsistencia de datos.
+
+### EV-299 — Autodefinición profesional: ¿escritor o no?
+- **Antes:** no conoce su título, "maybe… brand advisor" (U-011-045, 2022-06-25); "I'm not a writer" (U-001-085, 2024-02-06).
+- **Después:** fue brand advisor durante uno o dos años y se define como escritor y brand adviser (U-015-135, 2025-06-08; U-010-360, 2026-06-13); "I still don't call myself a writer" (U-014-171, 2026-07-27).
+- **Cambio exacto:** tensión entre definirse y no definirse como escritor.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Puede depender de si se refiere a la identidad profesional o al estereotipo del escritor académico.
+- **Tipo:** contradicción no resuelta.
+
+### EV-300 — Cifras sueltas que no cuadran: seguidores de Instagram y Black Friday
+- **Antes / Después:** en la compilación "The One-Person Business Model (Full Guide)" (2024-02-06) cita 240.000 seguidores de Instagram en 45:36 y 230.000 en 1:46:15, de segmentos de fechas distintas (U-001-082); la cifra del hilo de Digital Economics ("$45,2[xx]/month") está incompleta en la transcripción (U-013-108). Black Friday de 2 Hour Writer: $130.000 en tres días (U-007-186, 2022-12-04; U-001-123, 2024-02-06) frente a $139.000 en 3–4 días en otro pasaje de la misma compilación (U-007-126).
+- **Cambio exacto:** discrepancias numéricas registradas por las propias unidades; probablemente el mismo evento o momentos distintos.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** No aplica.
+- **Tipo:** inconsistencia de datos.
+
+### EV-301 — La presión de los plazos: de motor individual a prueba de estrés que rompe al equipo
+- **Antes:** confía en la presión de plazos y los "bursts of intensity" como motor de acción individual (U-015-107).
+- **Después:** "Kortex The $3 Million Dollar Mistake" (2025-11-24): los plazos agresivos aplicados al equipo hicieron que "todo el auto se cayera a pedazos" (U-015-195); los principios individuales deben refinarse hasta su verdad de fondo antes de aplicarse a un equipo (U-015-210); añadir unas dos semanas de colchón a cualquier fecha pública (U-015-198).
+- **Cambio exacto:** no abandona los plazos, sino su transferencia uno a uno al equipo.
+- **Razón que da el autor:** con un equipo "no sabes cómo va a funcionar"; al fallar hay que preguntarse si el marco de trabajo propio está mal en su conjunto. Matt asume la culpa y presenta el experimento como útil para descubrir qué se rompe.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: individuo (controla todas las variables) frente a equipo.
+- **Tipo:** refinamiento.
+
+### EV-302 — La estrategia de software "educación primero" (2023) frente al balance de Kortex (2025)
+- **Antes:** "Micro Education Businesses Are The Future…" (2023-09-17): saltarse la fase "sink or swim" del software; meta de 5–10 millones el primer año gracias a un curso cohort-based con 95% de margen, de modo que no importe si el software es rentable (U-009-040).
+- **Después:** Kortex como "the $3 million mistake", una serie de errores necesarios; el producto no era convincente, Dan dedicó demasiado tiempo a justificarlo y se vieron "forzados" a detenerse y pivotar a Eden (U-015-184, U-015-192, U-015-193, 2025-11-24).
+- **Cambio exacto:** de resolver el negocio con distribución y producto educativo a reconocer que el problema central era de producto y de product-market fit.
+- **Razón que da el autor:** los errores de fundadores primerizos (estructura del equipo, infraestructura propia, producto poco convincente).
+- **¿Ambas pueden aplicar a contextos distintos?:** Las unidades no conectan ambos momentos ni dicen si la estrategia educativa se ejecutó.
+- **Tipo:** cambio de énfasis.
+
+### EV-303 — El equipo de Kortex: de contratistas autónomos a estructura problemática y trabajo presencial
+- **Antes:** "Learn This Skill If You Want To Be Relevant In 10 Years" (2024-07-13): celebra un equipo de alta agencia de contratistas, "negocios de una persona colaborando con negocios de una persona", y el rediseño completo no solicitado de Ian ("nos retrasó un poco, pero la app está mucho mejor") (U-006-176).
+- **Después:** con Stan (2025-01-28): "si vas a construir una organización de éxito hay que estar en persona buena parte del tiempo"; Dan añade que su equipo en Toronto trabaja alrededor de la mesa de una cocina (cuatro son compañeros de piso) (U-004-079). En "Kortex The $3 Million Dollar Mistake" (2025-11-24): el primer error fue estructurar el equipo como big tech, compartimentado por tecnología (Ian aparece como quien construyó el editor); Dan admite que no sabía gestionar un equipo y que se conformaba con ver "alguna forma de progreso"; el equipo era lento y "tiró" la única ventaja de la startup (U-015-189, U-015-190, U-015-191); no sabe si el equipo quiere la mentalidad de dueño (U-015-211); Matt y Ari hacen el rebuild juntos en Japón (U-015-196).
+- **Cambio exacto:** de presentar la autonomía de contratistas como fortaleza a diagnosticar la estructura como causa de la lentitud y a reconocer el valor del tiempo presencial.
+- **Razón que da el autor:** la experiencia acumulada y el rebuild de Japón, que demostró que podían avanzar mucho más rápido; para lo presencial, Vitali y John (las mejores ideas nacen del tiempo ambiental); Dan no da una razón propia.
+- **¿Ambas pueden aplicar a contextos distintos?:** Parcialmente: la agencia individual y la estructura del equipo son dimensiones distintas; contratistas en fase temprana frente a organización en crecimiento.
+- **Tipo:** corrección (parcial).
+
+### EV-304 — Persistir y darle tiempo frente a abandonar antes
+- **Antes / en paralelo:** con Stan (2025-01-28), Vitali defiende encontrar lo que funciona y darle tiempo (U-004-085), John describe el emprendimiento como "a persistence game" (U-004-083) y el PMF como iteración larga (U-004-081); en 2025-11, Ari pone la persistencia por encima de la habilidad técnica (U-015-187) y "until you actually try, giving up is meaningless" (U-015-208).
+- **Después / en paralelo:** en Kortex (2025-11-24): "deberíamos haber desechado las cosas mucho antes" (U-015-196) y Dan: "I spent too much time justifying that… we should have called it quits earlier" (U-015-193).
+- **Cambio exacto:** tensión interna, no cambio cronológico.
+- **Razón que da el autor:** Vitali condiciona la persistencia a una creencia "fundada en datos e insights"; en Kortex, Dan sostenía una "imagen en su cabeza" contra lo que decían los comentarios.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: persistir en la misión o el canal validado frente a no aferrarse a una implementación concreta (ver también EV-052).
+- **Tipo:** contradicción no resuelta.
+
+### EV-305 — Construir para uno mismo (founder-market fit) frente al riesgo de cegarse
+- **Antes:** Vitali (2025-01-28): construir para ti mismo permite "sentir" lo correcto sin investigar tres meses (U-004-085) y "usa tu propio producto" (U-004-044), aunque exige además una opinión de lo bueno y mucho tiempo con clientes (U-004-042), y métricas de resultados del cliente (U-004-080).
+- **Después:** Dan (2025-11-24): "hago toda mi escritura en él… no me veo viviendo sin él", y aun así el producto no era convincente para el mercado ni parecía una startup; las amigas de Matt decían que no lo usarían (U-015-193, U-015-200).
+- **Cambio exacto:** tensión no resuelta entre el usuario-fundador como brújula y su posible sesgo.
+- **Razón que da el autor:** no se explicita; se atribuye a la dificultad de enfrentar lo que señalaban los comentarios.
+- **¿Ambas pueden aplicar a contextos distintos?:** Posiblemente: Stan combina founder-market fit con tiempo intensivo con clientes.
+- **Tipo:** contradicción no resuelta.
+
+### EV-306 — Equipo pequeño frente a crecimiento de plantilla (Stan)
+- **Antes / Después (mismo diálogo, 2025-01-28):** Vitali: el crecimiento es inversamente proporcional a la plantilla tras un umbral (U-004-051), meta de 10 ingenieros (U-004-039) y no está ansioso por crecer (U-004-074); John: Stan tiene ~40 empleados y pasará a 100 en áreas operativas (U-004-052), y ~50 personas es donde se rompe la red (U-004-072).
+- **Cambio exacto:** contradicción aparente entre cofundadores.
+- **Razón que da el autor:** la resuelven con el modelo de cuellos de botella: tecnología mínima, plantilla en lo humano (soporte, contenido, alianzas) (U-004-052, U-004-054).
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: ingeniería frente a funciones de conexión humana.
+- **Tipo:** contradicción no resuelta (aparente, resuelta por las fuentes).
+
+### EV-307 — La IA en la organización (tensión entre los cofundadores de Stan)
+- **Antes / Después (mismo diálogo, 2025-01-28):** John: con agentes de IA podrían existir negocios de una persona de mil millones (U-004-052), y propone el experimento del agente que "simplemente te hace ganar dinero" para priorizar la hoja de ruta (U-004-045). Vitali desconfía de las "opiniones desinformadas" de que la IA resolverá muchos problemas: el soporte con IA resuelve preguntas que los clientes que importan no hacen (U-004-054); rechazan "un agente de IA torpe o un call center" aunque fuera más rentable (U-004-053).
+- **Cambio exacto:** no hay cambio en el tiempo; son matices complementarios.
+- **Razón que da el autor:** la IA amplifica el apalancamiento del código, pero la conexión humana es el diferenciador que no escala.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: producto y tecnología frente a servicio al cliente.
+- **Tipo:** contradicción no resuelta (entre fuentes, complementaria).
+
+---
+
+## Tabla de renombres de términos y frameworks
+
+| # | Término antiguo | Término nuevo | Fechas | EV |
+|---|---|---|---|---|
+| 1 | conceptual survival / law of conceptual survival | psychic body → mental body → memetic level / "memes instead of genes" → psychological survival, survival strategies | 2023-01 → 2023-08 → 2024-02 → 2025-08 → 2025-10/2026-05 | EV-022 |
+| 2 | nueve etapas de Cook-Greuter (conformist, expert, achiever…) | cuatro macroetapas (premodern, modern, postmodern, second tier) → Human 1.0 / 2.0 / 3.0 (conformista, individualista, sintetista) | 2024-11 → 2025-07 → 2025-09/10 | EV-017 |
+| 3 | intelligence (etapas del ego) | perspective | 2024-11 → 2024-12 (y 2026) | EV-141 |
+| 4 | level of consciousness | level of mind → level of development | 2023-03 → 2024-11 | EV-026 |
+| 5 | beginner / intermediate / advanced (pre/trans) | bible thumper / atheist / mystic → level 1 / 2 / 3 → + trans-rational | 2023-07 → 2024-11 → 2025-10 → 2026-02 | EV-027 |
+| 6 | holons | units of mind | 2023 → 2023-07 | EV-032 |
+| 7 | transcend and include | tools in the toolbox | 2024-11/2025-10 → 2025-12 | EV-032 |
+| 8 | rock bottom | mental rock bottom → psychological rock bottom | 2022-07 → 2024-12 → 2025-08 | EV-020 |
+| 9 | creation hierarchy | creation pyramid → purpose/process/priority (Focus Formula) → The Formula → hunting skill set → the code | 2022-06 → 2023-09 → 2024-01 → 2024-07 → 2025-09 | EV-040 |
+| 10 | anti-goals | constraints → rules of the game → anti-standards | 2024-05 → 2025-01 → 2025-05 → 2025-09 | EV-038 |
+| 11 | Rule 4 (estándares) | Rule 3 | 2024-04 → 2025-09 | EV-030 |
+| 12 | premortem | post-mortem | 2025-03 → 2026-08 | EV-041 |
+| 13 | meta project | infinite project | 2023-07 → 2024-01 | EV-049 |
+| 14 | Steven Kotler's five intrinsic drivers | five intrinsic motivators → the five drivers of the flow state | 2022-05 → 2025-06 → 2026-06 | EV-087 |
+| 15 | psychic entropy | psychic entropy + psychic negentropy | 2022-04 → 2026-04 | EV-058 |
+| 16 | waves of life / capítulos | cyclical seasons → clarity–intensity–consistency–lost → lost–curious–obsessed → curiosity–intensity–consistency–feeling lost → perplexity–curiosity–intensity–consistency → limbo–vision–flow–resistance | 2022-07 → 2023-02 → 2023-06 → 2024-03 → 2024-07 → 2024-08 → 2025-05 | EV-066 |
+| 17 | repetitive focused action / consistency | persistent focused action / persistency and iteration | 2023-03 → 2023-07 | EV-067 |
+| 18 | Fill–Empty–Use | read to expand, write to organize, build to focus → clear, consume, create, connect | 2023-06 → 2024-07 → 2024-12 | EV-069 |
+| 19 | priority ladder | long-term / short-term / immediate → leverage / entropy (low → high entropy) | 2023-03 → 2024-04 → 2024-08/2025-05 | EV-080 |
+| 20 | Koe's Law: "work evolves…" | "creative work evolves…" → "leveraged work evolves…" | 2024-02 → 2024-07 → 2024-08 | EV-079 |
+| 21 | rest (cima de la vida civilizada, griegos) | leisure | 2024-08 → 2025-05 | EV-086 |
+| 22 | good dopamine | meaningful dopamine / expensive dopamine → earned dopamine (centropy) | 2022-06 → 2023-04/07 → 2024-11 | EV-091 |
+| 23 | hedonic treadmill reversal | hedonic reversal | 2025-10 → 2026-03 | EV-098 |
+| 24 | tactical stress | calculated stress → paso 1 del war mode | 2022-06 → 2024-12 → 2025-03 | EV-092 |
+| 25 | disappear / monk mode | war mode / holistic monk mode ("Warrior and Monk") | 2022-12 → 2025-03/06 | EV-093 |
+| 26 | information fat / metaphorically obese / mental bulking and cutting | mental metabolism → mental aesthetics → digestive system of reality → mental nutrition → mentally overweight / bloated → intellectual obesity | 2022 → 2023-03 → 2023-09 → 2023-10 → 2023-12 → 2024-01 → 2025-01/2026 | EV-116 |
+| 27 | nothing happens then everything happens | slowly then all at once → la estrella que explota | 2023-01 → 2024-02 → 2024-08 | EV-123 |
+| 28 | dissect and distill (7 campos) | Core Notes (6 elementos) | 2022-05 → 2024-10 | EV-112 |
+| 29 | second brain | false god / second subconscious | 2023–2024 → 2026-07/08 | EV-111 |
+| 30 | Cortex | Kortex → Eden ("AI canvas and drive" → "AI content strategist") | 2023-12 → 2025 → 2026-01/06 | EV-292 |
+| 31 | skill stacking | technique stacking | 2022–2023 → 2025-08 | EV-121 |
+| 32 | shallow thinking | stupid thinking | 2022 → 2025-07/2026-02 | EV-129 |
+| 33 | deep thinking / Critical Thinking 101 | genius thinking | 2022/2023 → 2026-02 | EV-130 |
+| 34 | strategic intent; SWOT | vision; research | 2025-03 → 2026-08 | EV-131 |
+| 35 | fifth dimension = cognitive dimension | fifth dimension = historia/tiempo (cuarta = cuadrantes) | 2025-03 → 2026-02 | EV-132 |
+| 36 | first tier / second tier (etapas) | niveles 1–2 / 3–4 (escala de pensamiento 0–4) | 2025 → 2026 | EV-133 |
+| 37 | discern, not judge | judge = observation and discernment | 2022–2024 → 2025-09 | EV-138 |
+| 38 | content pyramid | topic tree → content map / content pillars | 2023-02 → 2024–2026 | EV-144 |
+| 39 | two hour content ecosystem | content ecosystem → content stack → one person media company | 2022 → 2023 → 2024 | EV-145 |
+| 40 | three hooks (problemas, números, estadísticas) / seis elementos | 10 Commandments of Engagement / Ten Commandments of Engagement | 2022-10 / 2023-10 → 2023-11 / 2025-02 | EV-152 |
+| 41 | problema → experiencia → pasos | pain and process | 2022–2024 → 2024-09 | EV-158 |
+| 42 | engagement group | mastermind → tribe ("not an engagement pod") | 2022-08 → 2023-10 → 2024-10 | EV-167 |
+| 43 | inspired compliment, lead with value, follow up with value, ask | simple praise, show you're useful, faint connection, ask con brutal honesty | 2023-02 → 2026-05 | EV-170 |
+| 44 | personal brand "is not a business model" | meta business model → traffic source → layer of trust | 2023-08 → 2024-07/08 → 2025-06 → 2026-03 | EV-165 |
+| 45 | mental monetization / the business of self | one person business | 2022-10 | EV-181 |
+| 46 | niche of one / I am my own niche / most profitable niche is you | infinite niche → anti-niche → become the niche / nicheless → mission as niche → your mission is your niche | 2023-01 → 2023-07 → 2023-11 → 2024 → 2025-09 → 2026 | EV-181 |
+| 47 | personal monopoly = mental monopoly (sinónimos) | personal monopoly / mental monopoly (dos niveles) | 2022-12 (mismo video) | EV-183 |
+| 48 | specialized generalism | generalized specialists → specialized generalist → master / strategist | 2023-02 → 2024-03 → 2025-08 → 2026-08 | EV-182 |
+| 49 | pilares: brand, content, monetization / marketing / offer / promotion(s) | three pillars: brand, content, product (u offer) | 2022-10 → 2026-01 | EV-193 |
+| 50 | growth, nurture, monetization | writing, promotion, iteration → two levers (contenido→tráfico, calidad del producto) | 2022-11 → 2024-05 → 2026-01 | EV-199 |
+| 51 | minimum viable offer (MVO) | micro offer → micro service | 2022–2023 → 2024-09 → 2024-12 | EV-201 |
+| 52 | etapas low / medium / high leverage | beginner / intermediate / advanced → etapas de Koe's Law (client work → hybrid → productize) | 2022-12 → 2023-03 → 2024-02/07 | EV-202 |
+| 53 | SOP | unique mechanism → unique system → personal system (product) → systems economy | 2022-12 → 2023 → 2024-03 → 2025-02 → 2026-01/06 | EV-225 |
+| 54 | $100,000 product in your head | $1 million trapped in your head | 2022-12 → 2025-02 | EV-219 |
+| 55 | eight human desires ("safety of community") | three tensions + five psychological levers ("safety of tribe") | 2023 → 2026 | EV-211 |
+| 56 | market sophistication (definición propia) | cinco etapas de Eugene Schwartz | 2023 → 2026 | EV-210 |
+| 57 | manipulation (neutro: manipular el entorno) | manipulation = persuasión inconsciente o no mutua ("mindfully helping") | 2023-08 → 2024-03/09 | EV-220 |
+| 58 | Naval: capital, people, products (code, media) | labor, capital, products → permissionless leverage → old vs new leverage (media, data, code) | 2022-05 → 2024-06 → 2025-05 → 2026-06/07 | EV-252 |
+| 59 | labor theory of value | labor theory of value frame → the old paradigm | 2024-03 → 2024-08 → 2026-03 | EV-260 |
+| 60 | "you make money to create" (tweet propio) | cita de Walt Disney, en secuencia temporal | 2023-04 → 2025-01 | EV-256 |
+| 61 | meaning: two steps, create | struggle, status, curiosity → struggle, curiosity, status/recognition (meaning generators) | 2022-10/2023-12 → 2026-01 → 2026-02 | EV-268 |
+| 62 | happiness (cita de Nietzsche) | fórmula propia: progreso + "connection to something greater than yourself" | 2023-10 → 2025-01 | EV-266 |
+| 63 | suffering (dificultad inevitable) | pain (inevitable) / suffering (capa añadida por la identidad) | 2023-05 → 2026-05 | EV-277 |
+| 64 | employee / entrepreneur (trayectorias) | states of mind | 2023-12 → 2025-02/09 | EV-229 |
+| 65 | agency = act without permission | agency = iterate without permission | 2024-07/2025-10 → 2025-12 | EV-235 |
+| 66 | Devon Ericson | Devon Eriksen (grafía) | 2024-03 → 2024-07 | EV-124 |
+| 67 | "The creative man doesn't work at all" (Pang) | frase sin atribución | 2024-02 → 2024-12 | EV-086 |
