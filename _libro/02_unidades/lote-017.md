@@ -900,3 +900,1777 @@
 - **prerrequisitos:** U-017-054
 - **fuente:** The 4 Hour Workday (How Creatives Work Less & Earn More).md, 24:39–25:30, 2023-06-18
 - **tension:** ninguna
+
+# Fuente: Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md (2023-01-22)
+
+## U-017-070
+- **tipo:** término-acuñado
+- **titulo:** The "digital dark ages": an era of distraction, close-mindedness and cheap dopamine, analogous to the Middle Ages before the Renaissance.
+- **desarrollo:** The Middle Ages ("Dark Ages") were a time of war, famine and pandemics; what came after — the Renaissance — set the scene for modern civilization and birthed many thinkers and artists. "History repeats itself and the digital dark ages are among us, but there is a light on the horizon." The digital dark ages are "a time of distraction, close-mindedness and cheap dopamine." We've lost touch with, and lost trust in, the belief systems that used to give individuals certainty and a positive outlook. If we don't take it on ourselves to create our own sense of purpose and order our lives in alignment with it, it will be hard to maintain "the little sanity that we have left." The implied "light on the horizon" is a new renaissance (stated metaphorically, not elaborated).
+- **ejemplos:** Middle Ages → Renaissance.
+- **cita:** "the digital dark ages are a time of distraction close-mindedness and cheap dopamine"
+- **terminos:** digital dark ages, cheap dopamine
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 0:02–0:57, 2023-01-22
+- **tension:** ninguna
+
+## U-017-071
+- **tipo:** principio
+- **titulo:** An endless source of good dopamine comes from endlessly solving the right problems, framed by a vision and a hierarchy of goals.
+- **desarrollo:** You need a vision or purpose for your future and a structure or hierarchy of goals to frame your attention toward it and eliminate distractions. "That is how you create an endless source of good dopamine: by endlessly solving the right problems." (Refers to a video from "two videos ago.")
+- **ejemplos:** ninguno
+- **cita:** "that is how you create an endless source of good dopamine is by endlessly solving the right problems"
+- **terminos:** good dopamine, hierarchy of goals, vision
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-020
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 0:57, 2023-01-22
+- **tension:** ninguna
+
+## U-017-072
+- **tipo:** framework
+- **titulo:** Without a vision you find solace in three things: the societal machine, momentary pleasures, and modern distractions.
+- **desarrollo:** (1) The societal machine: the clear path of school → job → retiring happily is enticing, so most people relinquish their freedom to choose, free agency and autonomy, and do what they're told. (2) Momentary pleasures: deep down we know we aren't making the right choices; "our future self is looking down on us"; it makes us feel bad, but we don't know how to change, get trapped in a mental loop of not knowing what to do, and to numb that pain we drown it in momentary pleasures — bingeing Netflix, going out drinking — to escape confronting our problems. There's nothing wrong with these things per se, but much can be wrong if you aren't conscious of your choices. (3) Modern distractions: not just digital — "distractions are every single thing that does not align with your purpose or vision for the future"; without a vision you can't filter distraction from what's worth focusing on. The catalyst of all three is you: your thoughts, beliefs and identity forged over time keep the mind narrow and focused on the known rather than the unknown.
+- **ejemplos:** Netflix, drinking; school-job-retirement.
+- **cita:** "distractions are not just digital distractions are every single thing that does not align with your purpose or vision for the future"
+- **terminos:** societal machine, momentary pleasures, modern distractions, future self
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-071
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 0:57–2:37, 2023-01-22
+- **tension:** ninguna
+
+## U-017-073
+- **tipo:** definición
+- **titulo:** Close-mindedness — the greatest trap of the 21st century — is the inability to see beyond your narrow perspective in any situation.
+- **desarrollo:** The three solaces (U-017-072) are grouped under "the greatest trap of the 21st century: close-mindedness." "The most dangerous habit young people can form is close-mindedness; you are capable of more than you've been told you are." Definition: "your inability to see beyond your narrow perspective in any situation," and worse if that perspective only shines a negative light. Close-mindedness seeks to prove others wrong rather than prove yourself wrong and doesn't seek common ground. It is "another embodiment of the quick fix mindset," which is why it encapsulates distractions and momentary pleasures.
+- **ejemplos:** See U-017-074.
+- **cita:** "the most dangerous habit young people can form is closed mindedness"
+- **terminos:** close-mindedness, greatest trap of the 21st century, quick fix mindset
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-072
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 2:37–4:17, 2023-01-22
+- **tension:** ninguna
+
+## U-017-074
+- **tipo:** ejemplo
+- **titulo:** Social media comment sections show close-mindedness: miss the point, cherry-pick, spin negatively, prove others wrong for a quick hit.
+- **desarrollo:** On Reddit or Instagram, it's common for someone to completely miss the point, misinterpret, cherry-pick something, spin it negatively, and leave a comment that creates negativity and turns people away from the true message. E.g., someone reads a polarizing political post, gets offended, and comments in a way that conveniently leaves out the perspective that would prove themselves wrong; perspectives clash; no common ground. It's a quick fix: you get "that quick hit of whether it's dopamine or just a bad feeling that you are addicted to" — "that's why you're making the post, why else would you make it?" Zoom out: your post does nothing in the grand scheme; you're wasting time, and time is important.
+- **ejemplos:** Political post comment wars on Reddit/Instagram.
+- **cita:** "you seek to prove others wrong rather than proving yourself wrong"
+- **terminos:** quick fix
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-073
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 2:37–4:17, 2023-01-22
+- **tension:** ninguna
+
+## U-017-075
+- **tipo:** metáfora
+- **titulo:** The universe as "one song": life has a story structure, and close-mindedness takes the smallest story (one low point) and ignores the arc.
+- **desarrollo:** "The universe is an infinite song: uni-verse, one song." Songs are symbolic of stories with story-like structure, reflected also in games — the highs, lows, conflict, rising action, climax, falling action, happy ending. We find interest and meaning in that; it's why people get obsessed with video games, why those who see business as a game get obsessed with business, and why those who can zoom out and create a game from a situation find enjoyment in most of life. Close-mindedness fails to see the overarching story; it takes "the smallest story possible," like a current conflict, ignores the universal perspective, and expects it to make sense on its own. If you're at a low point and your mind sees only that, not understanding that after a low comes a high (and before a low, a high), with a climax eventually, you get trapped in a negative thought loop.
+- **ejemplos:** Video games; business as a game; life's low points.
+- **cita:** "the universe is an infinite song UNI verse Universe one song"
+- **terminos:** one song, overarching story, smallest story possible, negative thought loop
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-073
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 4:17–5:55, 2023-01-22
+- **tension:** ninguna
+
+## U-017-076
+- **tipo:** principio
+- **titulo:** Awareness begets improvement, and improvement begets awareness of the next, better problem.
+- **desarrollo:** Opening the mind doesn't happen overnight; you won't have "a monk-like perspective" after being close-minded for a while; "that's why it's called development, it's because it takes time." First you must understand the signs of close-mindedness, to become aware of them and improve. "Awareness begets improvement" because you need awareness to improve, "and then improvement begets awareness of the next but better problem to solve."
+- **ejemplos:** ninguno
+- **cita:** "awareness begets Improvement ... and then Improvement begets awareness of the next but better problem to solve"
+- **terminos:** awareness begets improvement
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-073
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 5:55–6:41, 2023-01-22
+- **tension:** ninguna
+
+## U-017-077
+- **tipo:** concepto
+- **titulo:** Sign 1 of close-mindedness: negative assumption and expectation — your conditioning sets limits on what you think is possible.
+- **desarrollo:** First sign: assumption and expectation, "very much so in the negative sense." A vision is a kind of positive assumption/expectation; negative ones can be extremely dangerous. "Your reality is determined by your conditioning, that is, your identity houses your perspective and your perspective houses your beliefs, thoughts and prior experiences" that you hold as truth; for most, this worldview is shared with parents, teachers and others. If all you know is school → work → retirement, behavior follows because conditioning limits what you think possible; you won't act to actualize a possibility you don't know. These are expectations you'll work in alignment with. Even a vision you think is positive, if you haven't zoomed out to see the consequences of that path, is "a masquerade": negative and not conducive to what you want. The web of expectations eventually leads to behavior that actualizes them.
+- **ejemplos:** School-work-retirement.
+- **cita:** "your identity houses your perspective and your perspective houses your beliefs thoughts and prior experiences"
+- **terminos:** conditioning, negative assumption and expectation, masquerade, web of expectations
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-076
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 6:41–8:19, 2023-01-22
+- **tension:** ninguna
+
+## U-017-078
+- **tipo:** concepto
+- **titulo:** Sign 2 of close-mindedness: an overly selfish perspective — everyone acts toward a goal, usually to survive their identity.
+- **desarrollo:** Everyone acting is acting toward a goal (conscious, subconscious or unconscious), mostly aligned with survival. Since humans survive on a conceptual level, they work to survive their identity or maintain their narrow perspective, acting to preserve their self-image. Examples: die-hard Republicans or Democrats arguing online, some willing to die over a split black-and-white party rather than pulling truth from both for a holistic perspective. Same in business: people arguing which business model is best; freelancers say freelancing is best because that's what they've done; same for agency owners, e-commerce, startups, software. He admits being a victim of this himself, though he tries to make clear the one-person business model is for someone with a specific set of goals.
+- **ejemplos:** Republicans vs. Democrats; freelancers vs. agency owners vs. e-commerce.
+- **cita:** "they're going to act in a way that preserves their self-image"
+- **terminos:** selfish perspective, survive on a conceptual level, self-image
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-009, U-017-076
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 8:19–9:58, 2023-01-22
+- **tension:** He admits he does this too with the one-person business model.
+
+## U-017-079
+- **tipo:** método
+- **titulo:** Overcome selfish perspective: transfer consciousness into the other, assume a positive goal behind their actions, and try to prove yourself wrong.
+- **desarrollo:** For a more holistic version of truth: (1) "practice transferring consciousness into that person" — have empathy, or at least piece together a positive assumption about the goal they're acting toward; (2) be willing to prove yourself wrong: if you push ideas as law, study the opposite perspective and empathize with someone pushing the opposite. Then you hold both versions of truth and "unlock this wisdom or intelligence that allows you to navigate between those two domains." Collecting more perspectives aligned with others' goals gives you "so much more firepower" to make your own thing work holistically. Also: some Western beliefs would get you executed in other countries — they don't care how right you think you are. From the universe's perspective (division, unity and self-reflection), "everyone is right and everyone is wrong, it's all relative; this reality is subjective."
+- **ejemplos:** Beliefs punishable by execution in other countries.
+- **cita:** "everyone is right and everyone is wrong it's all relative this reality is subjective"
+- **terminos:** transferring consciousness, holistic version of truth, both versions of truth
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-078
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 9:58–11:33, 2023-01-22
+- **tension:** ninguna
+
+## U-017-080
+- **tipo:** concepto
+- **titulo:** Sign 3 of close-mindedness: missing the point, often from literal interpretation of words or taking a lyric out of the song.
+- **desarrollo:** Missing the point often comes from literal interpretation. If, as a non-Christian, he reads the Bible literally (word-for-word "this is what happened"), it'll turn him off; read metaphorically, as symbolic of some truth, he can learn something. It also relates to taking one piece of the story/game/universe ("one song"): you wouldn't take one lyric out of a song, or one sentence he says, out of context and expect it to make sense alone. You must understand the goal people are working toward; e.g., this video's goal is to open your mind, so taking something and closing your mind misses the point.
+- **ejemplos:** Reading the Bible literally vs. metaphorically; lyric out of a song.
+- **cita:** "you wouldn't take one lyric from a song ... take it out of context ... and expect it to make it Sense on its own"
+- **terminos:** missing the point, literal interpretation, metaphorical perspective
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-075
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 11:33–13:06, 2023-01-22
+- **tension:** ninguna
+
+## U-017-081
+- **tipo:** historia
+- **titulo:** Reading Eckhart Tolle's "The Power of Now" as an atheist: working past the discomfort with the word "God."
+- **desarrollo:** When he first read The Power of Now he identified as an atheist; whenever the book mentioned the concept of God, he got "this weird feeling." He tried hard to overcome it because he knew something in the book could help him, tried to see past it, and over time dissolved or worked past that problem. Illustrates overcoming literal interpretation / missing the point.
+- **ejemplos:** The Power of Now.
+- **cita:** "whenever he would mention the concept of God per se then I would get this weird feeling in me but I really tried to overcome that"
+- **terminos:** ninguno
+- **origen:** de-tercero:Eckhart Tolle (book referenced)
+- **nivel:** complementario
+- **prerrequisitos:** U-017-080
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 11:33–12:21, 2023-01-22
+- **tension:** ninguna
+
+## U-017-082
+- **tipo:** concepto
+- **titulo:** Sign 4 of close-mindedness: vision avoidance — repressing potential to avoid uncertainty.
+- **desarrollo:** A vision isn't clear in an instant; you need a constant reminder, and it's an uncertain path. People don't want uncertainty, so they repress their potential: they know there's something more but never go down "the rabbit hole of curiosity," never break out of what they're told to learn or what's handed to them, scrolling memes rather than searching for something that can help. Instant gratification "feels good now but hurts later," whereas your vision is the opposite: "it hurts now and feels good later." You want to flip this switch.
+- **ejemplos:** Scrolling memes.
+- **cita:** "the instant gratification of that feels good now but hurts later when your vision is the opposite where it hurts now and feels good later"
+- **terminos:** vision avoidance, rabbit hole of curiosity
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-071
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 13:06–13:49, 2023-01-22
+- **tension:** ninguna
+
+## U-017-083
+- **tipo:** fuente-de-tercero
+- **titulo:** Bruce Lee's "be water": the cup is the perspective that structures consciousness; peak experiences come from either a fitting cup (flow) or no cup (openness).
+- **desarrollo:** "Empty your mind, be formless, shapeless like water; you put water into a cup, it becomes the cup" (Bruce Lee; "there's more to that quote"). Everyone knows it, but how many sat with it for a practical application? His interpretation: the cup is the perspective, and your consciousness is structured by it. Why it works: peak experiences are most notable in two forms — (a) flow state, when consciousness is ordered and you have clarity: "the proper structure or cup to fill your consciousness with"; (b) when you open your mind beyond all limitation, form or belief, as in meditation, where you try to increase the gap between thoughts and open yourself to the world. Later extension: you should be "like water and the cup and the water": able to flow and pour into different cups and understand them without "freezing into one cup."
+- **ejemplos:** Flow; meditation.
+- **cita:** "the cup is the perspective and your Consciousness is being structured by that perspective"
+- **terminos:** be water, the cup, peak experiences, freezing into one cup
+- **origen:** adaptada-de:Bruce Lee
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-073
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 13:49–14:33, 19:34, 2023-01-22
+- **tension:** ninguna
+
+## U-017-084
+- **tipo:** framework
+- **titulo:** Open-mindedness comes in stages: belief → rejection → seeing truth in all (religion and business examples).
+- **desarrollo:** Example "in no specific order" (as he says, though presented sequentially): Religion — stage 1: religion is the only path to salvation; stage 2: religion is mind control; stage 3: religion has deep truths when interpreted metaphorically. Business — stage 1: freelancing is the best business model; stage 2: business models are scams; stage 3: all business models hold truths that can be used to improve the one aligned with your interests. More open-minded stages lead to more success. Benefits of open-mindedness: deeper intelligence, heightened creativity, less reactivity, fulfilling relationships, novel content ideas (for creators), artful navigation of polarizing domains like politics. (Includes a self-aware plug for Digital Economics as a holistic business course.)
+- **ejemplos:** Religion and business model stages.
+- **cita:** "stage three you believe that all business models hold truths that can be used to improve the one that aligns with your interests"
+- **terminos:** stages of open-mindedness
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-080
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 14:33–16:19, 2023-01-22
+- **tension:** He says "in no specific order" yet the stages read as a progression (ambiguous).
+
+## U-017-085
+- **tipo:** principio
+- **titulo:** Practical step 1, Critical Thinking 101: hold all ideas in the realm of possibility until filtered through direct experience.
+- **desarrollo:** "Hold all thoughts, ideas and opinions in the realm of possibility until filtered through direct experience." You don't have to prove something right or wrong instantly; you can let things marinate without identifying with any side, regardless of how urgent others make picking a side seem.
+- **ejemplos:** ninguno
+- **cita:** "you are allowed to let things marinate in your mind without identifying with any side of the argument"
+- **terminos:** critical thinking 101, realm of possibility, direct experience
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-073
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 16:19, 2023-01-22
+- **tension:** ninguna
+
+## U-017-086
+- **tipo:** argumento
+- **titulo:** Practical step 2: work toward a more holistic identity — the mind expands only as much as what you identify with.
+- **desarrollo:** Chain: identity houses perspective; perspective houses beliefs; beliefs influence thoughts, emotions and actions. If you adopt an identity greater than you, your mind/perspective fills and expands to it, and "it can only expand as much as the things that we identify with." This is how you develop the ego over time: slowly adopting a higher identity. Since the ego works to survive on a conceptual level, identifying with something higher (your highest self and what they'd do) means you'll work to survive that higher self, and thoughts, emotions and actions follow.
+- **ejemplos:** ninguno
+- **cita:** "it can only expand as much as the things that we identify with"
+- **terminos:** holistic identity, higher identity, highest self, ego
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-017-009, U-017-077
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 16:19–17:11, 2023-01-22
+- **tension:** ninguna
+
+## U-017-087
+- **tipo:** fuente-de-tercero
+- **titulo:** "You are God" (Alan Watts and others), reinterpreted as adopting the perspective of the universe/Brahman/the absolute, not the Christian man-in-the-sky.
+- **desarrollo:** He's reluctant to discuss it because it confuses "biblical ideologues." Alan Watts (and many others) said "you are God," which gets closed-minded backlash ("God is all-knowing and omnipotent"). His approach: adopt the perspective of God as a Creator — not the Christian notion of "a man in the sky" but the universe and its processes: consciousness and form, division and unity, creation and destruction, understanding and seeing the world from a big picture "while acting from this vessel that you are." Equivalent to Brahman, the absolute, infinity, source. Consequence: if you adopt the universe's perspective mentally, "your petty human problems tend to lose their weight" and you act from a better perspective — "think big, act small." Purpose is not nobility or status (selfish) but improving decision-making to benefit more than yourself, seeing beyond your survival and "thinking twice about going from one pleasurable distraction to the next."
+- **ejemplos:** ninguno
+- **cita:** "if you are the universe right you adopt that perspective from a mental level then your petty human problems tend to lose their weight"
+- **terminos:** perspective of God, Brahman, the absolute, source, vessel, think big act small
+- **origen:** adaptada-de:Alan Watts (and Hindu concept of Brahman)
+- **nivel:** avanzado
+- **prerrequisitos:** U-017-086
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 17:11–20:23, 2023-01-22
+- **tension:** ninguna
+
+## U-017-088
+- **tipo:** ejemplo
+- **titulo:** Collective identities (sports team, corporate job, family) form a collective ego; be aware, and identify in mind/spirit, not physicality.
+- **desarrollo:** Non-religious examples: on a sports team (e.g., "the Snowbirds"), identifying as a Snowbird forms a collective ego the team works to survive; that spirit spreads to fans and affects how the game goes when the team acts in that energy. Same with a corporate job (perspective limited to that job) or a family. These aren't bad; become aware of them; be like water able to pour into different cups. Clarification: identifying "in mind or spirit here, not physicality or intellect" — if you want to identify as something "hyper limiting" like a toaster oven or an Apache attack helicopter (memes), "be my guest," or revisit the part about intentionally missing the point — unless the point is humor, which is useful and harmless unless people intentionally miss the point.
+- **ejemplos:** Snowbirds team; corporate job; family; toaster/Apache helicopter memes.
+- **cita:** "the spirit of that team will form a collective ego that the the team Works to survive"
+- **terminos:** collective ego, spirit
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-086, U-017-083
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 18:48–20:23, 2023-01-22
+- **tension:** ninguna
+
+## U-017-089
+- **tipo:** ejemplo
+- **titulo:** The beer lover's brewery: seeing your life's work as spreading a passion, not just a means of income.
+- **desarrollo:** If you love beer and it's your life's work, it makes sense to start a brewery, create the best beer, pass it to customers who pass it along, and everyone is happy at your place. That's a worthy thing even though alcohol is involved: you're spreading a positive message and vibe and seeing your work as more than a means of income. Likewise if you love philosophy or self-development (benefited in the creator economy): how will you spread that passion through your writing rather than treat it as just income?
+- **ejemplos:** Brewery; writing about philosophy/self-development.
+- **cita:** "you are seeing your work for more than just like a means of income"
+- **terminos:** life's work, creator economy
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-017-087
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 20:23–21:12, 2023-01-22
+- **tension:** ninguna
+
+## U-017-090
+- **tipo:** opinión
+- **titulo:** Think on a decade-long time scale; the author is not an almighty guru.
+- **desarrollo:** "Think of it on like a decade-long time scale; this isn't for the quick fix people." That's why his videos are longer and sometimes rambly: people who get value won't click off "simply because I didn't stroke their little ego or pleasure reward center for five minutes." He adds he's not "an almighty guru that knows everything" giving 100% accurate advice; it's his level of understanding and what he's working toward.
+- **ejemplos:** ninguno
+- **cita:** "think of it on like a decade-long time scale this isn't for the quick fix people"
+- **terminos:** quick fix
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 21:12–21:56, 2023-01-22
+- **tension:** ninguna
+
+## U-017-091
+- **tipo:** término-acuñado
+- **titulo:** "Collecting consciousness" via "transferring consciousness": seek to understand, not judge — like a predator assuming its prey's moves.
+- **desarrollo:** Practical step 3. To collect consciousness you must transfer consciousness and "seek to understand, not judge." Not unique to humans: a predator can transfer consciousness into its prey and assume its next moves — not planning, just knowing what mistakes it'll make and positioning itself. If a predator can, a marketer or you can. Marketers and content creators are good at it because they understand human psychology; study human psychology, marketing and sales to understand others' minds and help them beneficially with your content, product, services, life's work. Writer hack (taught in The 2 Hour Writer): transfer consciousness into the reader/viewer — will they engage and share? If not, how can you make it better? Everyday example: the driver who cut you off — assume something positive: what if their mother is in the hospital and they're trying to reach the exit, while you worry about your comfort ("oh my God I'm gonna die")?
+- **ejemplos:** Predator and prey; reader engagement; driver who cut you off.
+- **cita:** "to collect Consciousness you need to be able to transfer Consciousness and seek to understand not judge"
+- **terminos:** collecting consciousness, transferring consciousness
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-079
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 21:56–24:08, 2023-01-22
+- **tension:** ninguna
+
+## U-017-092
+- **tipo:** concepto
+- **titulo:** Understanding vs. knowledge: transferring consciousness seeks essence, patterns and action-outcome links, not words or facts; "all understanding is metaphorical."
+- **desarrollo:** Focus on the big picture; people get wrapped up in technical details. We don't transfer consciousness to steal someone's knowledge, words or articulation; we want to understand the essence or experience of the situation, note patterns, understand their actions and observe outcomes. Collected over time, decision-making improves "tenfold." Clarification: transferring consciousness into someone who speaks another language won't teach you the language — "we're talking about understanding here not knowledge." Knowledge is built up, "a mental construction"; understanding is "an inherent part of human consciousness"; we seek the essence beyond mere human existence. Example: strength reflects not only in a bodybuilder but in the universe holding up the world via a gravitational constant, the strength of a bear, the strength of a mother — patterns understood through a metaphorical lens. "All understanding is metaphorical."
+- **ejemplos:** Language; strength in bodybuilder, gravity, bear, mother.
+- **cita:** "all understanding is metaphorical"
+- **terminos:** understanding, knowledge, essence, patterns
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-017-091, U-017-080
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 24:08–24:53, 2023-01-22
+- **tension:** ninguna
+
+## U-017-093
+- **tipo:** ejercicio-del-autor
+- **titulo:** Pause and question: study the exact opposite of your beliefs, wait for the ego reaction, then walk through six questions.
+- **desarrollo:** Practical step 4. Challenge: study the exact opposite of your beliefs — vegan → study carnivore; freelancer → study a creator/personal brand and how they get clients; Christian → study atheists — trying to prove yourself wrong. It's very difficult; you'll have an ego reaction and even "a physical threat response" while reading; become aware of that and how absurd it is. This forces a reaction so you can become aware of it, seek to understand it, improve and overcome it. "Questions are how you deepen understanding." Pick a business, religion or political ideology you disagree with, study it, wait for the reaction, then ask: (1) Is there something I can learn in this situation? (2) What goal are they working to achieve? (3) Does that align with my goals, and does it matter if not? (4) What is the context they're saying this from? (5) What is the essence or lesson of what they're saying? (6) Can I incorporate an aspect of their beliefs into my own? Over time these birth "incredible insights"; those who work through it get results and more peace.
+- **ejemplos:** Vegan/carnivore; freelancer/creator; Christian/atheist.
+- **cita:** "you will feel physically threatened you will have a physical threat response as you are reading these things become aware of that too"
+- **terminos:** pause and question, ego reaction, physical threat response
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-079
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 24:53–26:31, 2023-01-22
+- **tension:** ninguna
+
+## U-017-094
+- **tipo:** principio
+- **titulo:** Step 5, the most important: think macro, act micro — the art of zooming out; you are a perspective vessel with ripple effects.
+- **desarrollo:** "Think macro act micro or the art of zooming out." "You are a perspective vessel and your actions, whether you are conscious of it or not, have a ripple effect on the world." He half-remembers a "fun fact" (butterfly effect) that a butterfly flapping its wings in a certain location could cause enormous destruction (he says "destroy an entire iceberg or something" — imprecise recollection, ambiguous). As you open your mind to embody a holistic perspective, your actions should follow: think big picture, forget petty details, and act. Expect resistance and problems when opening your mind; become aware, solve them, make mistakes — that's how you improve.
+- **ejemplos:** Butterfly effect (loosely recalled).
+- **cita:** "you are a perspective vessel and your actions whether you are conscious of her or not has a ripple effect on the world"
+- **terminos:** think macro act micro, art of zooming out, perspective vessel, ripple effect
+- **origen:** propia (with loose reference to the butterfly effect)
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-087
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 26:31–28:16, 2023-01-22
+- **tension:** ninguna
+
+## U-017-095
+- **tipo:** ejercicio-del-autor
+- **titulo:** This week: define what you want and who you must become, then view situations from that highest-self perspective.
+- **desarrollo:** The highest version of each of you — the vision you hold of your highest self — is open-minded. Try to expand your mind to embody that identity this week: first think about what you want in the future and who you have to become to get there; then start viewing situations from that perspective.
+- **ejemplos:** ninguno
+- **cita:** "the highest version of every single one of you ... is open-minded"
+- **terminos:** highest version, identity
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-086
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 28:16, 2023-01-22
+- **tension:** ninguna
+
+## U-017-096
+- **tipo:** método
+- **titulo:** Solopreneur Sprints premise: create your "niche of one," write 20+ pieces of foundational content, and grow by building relationships for free.
+- **desarrollo:** Within a promotion: the first Solopreneur Sprints cohort (starting February 7) aims to help you "create your niche of one," write "20 plus pieces of foundational content" live with him (showing his thought process), and a growth strategy that costs nothing — building relationships "in the new economy which is the digital world"; "it's not an emerging economy, it is the new economy." Also mentions The 2 Hour Writer (his content writing system from six years of marketing/freelancing experience, with a "content ecosystem" letting him do what he enjoys) and Modern Mastery ($5 to join, $27/month after; Discord, strategy library with trainings, articles, roadmaps). Only premises; no detailed method in this transcript.
+- **ejemplos:** ninguno
+- **cita:** "it's not an emerging economy it is the new economy"
+- **terminos:** niche of one, foundational content, content ecosystem, new economy
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md, 28:16–29:42, 2023-01-22
+- **tension:** ninguna
+
+# Fuente: Focus Is A Superpower (Take Back Control Of Your Life).md (2023-07-11)
+
+## U-017-097
+- **tipo:** framework
+- **titulo:** "One meaningful project, one hour of focused work, one day at a time, without waiver" — the simple framework for a better life.
+- **desarrollo:** The opening and closing formula: "one meaningful project, one hour of focused work, one day at a time, without waiver — that's the secret you're looking for." Components detailed later: (1) one meaningful project (turn goals into projects; pick the one solving the most prevalent problem); (2) one hour of focused work (trained like a muscle, scheduled in a high-energy block, usually the first hour of the morning); (3) one day at a time without waiver (persistence and iteration, momentum from small wins).
+- **ejemplos:** ninguno
+- **cita:** "one meaningful project one hour of focused work one day at a time without waiver that's the secret you're looking for"
+- **terminos:** one meaningful project, one hour of focused work, one day at a time, without waiver
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 0:00, 21:31, 2023-07-11
+- **tension:** ninguna
+
+## U-017-098
+- **tipo:** principio
+- **titulo:** Happiness is a skill, and it's easier than ever to practice unhappiness because our environment has changed.
+- **desarrollo:** "Happiness is a skill and it's easier than ever to practice unhappiness." We don't live in our ancestors' world: the physical world is relatively similar (buildings, cities, roads), routines are somewhat different, but the environment has changed so much it could be detrimental to long-term health unless we revert or create a sustainable solution.
+- **ejemplos:** ninguno
+- **cita:** "happiness is a skill and it's easier than ever to practice unhappiness"
+- **terminos:** happiness is a skill
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 0:00, 2023-07-11
+- **tension:** ninguna
+
+## U-017-099
+- **tipo:** opinión
+- **titulo:** Speculation: the next phase of evolution may be chemical enhancement bridging to cyborgs; evolution is an attempt to reverse entropy.
+- **desarrollo:** He's been down rabbit holes; recommends the short story "The Gentle Seduction" (findable by Google search) as opening the mind to the future's potential. He's "not sure what the next phase of evolution is" but "pretty sure" it'll be chemical enhancement (as discussed in the biohacking community) bridging us to being cyborgs and living forever. Currently the goal seems to be prolonging health with longevity practices to the point of reversing aging; "that's all we're doing with evolution is we're trying to reverse entropy and the problems that come with entropy." He sets it aside as a topic for another time.
+- **ejemplos:** The Gentle Seduction; biohacking; longevity.
+- **cita:** "that's all we're doing with evolution is we're trying to reverse entropy and the problems that come with entropy"
+- **terminos:** entropy
+- **origen:** adaptada-de:"The Gentle Seduction" (short story, author not named in transcript); biohacking community
+- **nivel:** complementario
+- **prerrequisitos:** U-017-014
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 0:54–1:43, 2023-07-11
+- **tension:** ninguna
+
+## U-017-100
+- **tipo:** argumento
+- **titulo:** The physical world changed somewhat, but the mental world changed entirely — each physical creation demands 10 to 1,000 ideas and iterations.
+- **desarrollo:** We keep building the physical world and our mind must adapt, evolve and transcend in order to have the ideas that create it; every physical thing created demands "ten a hundred a thousand ideas and iterations" in the mind. This paints the information landscape we access as drastically different from the old world. At the inception of human consciousness we "transcended and included" the physical and biological world (animal life); each stage of evolution holds everything under it, but what's above it is "10 to a hundred thousand to a thousand times" the depth and span (numbers as spoken, garbled). So the mental world is far larger and more chaotic than the physical and biological, but gives much more creative ability.
+- **ejemplos:** ninguno
+- **cita:** "for every single thing that we create in the physical world it demands ten a hundred a thousand ideas and iterations of the ideas in our mind"
+- **terminos:** mental world, transcended and included, information landscape
+- **origen:** adaptada-de:Ken Wilber
+- **nivel:** avanzado
+- **prerrequisitos:** ninguno
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 1:43–2:32, 2023-07-11
+- **tension:** ninguna
+
+## U-017-101
+- **tipo:** fuente-de-tercero
+- **titulo:** Ken Wilber's "A Brief History of Everything" graphic: physics, biology, psychology, theology, mysticism aligned with matter, body, mind, soul, spirit.
+- **desarrollo:** He took the concept/illustration from Ken Wilber's "A Brief History of Everything": connections between physics, biology, psychology, theology, mysticism and how those align with matter, body, mind, soul, spirit. In the mental plane, or plane of soul or spirit, things get increasingly more complex but give more creative ability. Graphic shown on screen; exact layout not fully reconstructible from transcript (the pairing order is presumably physics–matter, biology–body, psychology–mind, theology–soul, mysticism–spirit, but this is inferred from the listing order; ambiguous).
+- **ejemplos:** ninguno
+- **cita:** "you can notice some connections here right between physics biology psychology theology mysticism and how those align with Spirit soul mind body matter"
+- **terminos:** mental plane, plane of soul, spirit
+- **origen:** de-tercero:Ken Wilber
+- **nivel:** avanzado
+- **prerrequisitos:** U-017-100
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 2:32, 2023-07-11
+- **tension:** ninguna
+
+## U-017-102
+- **tipo:** metáfora
+- **titulo:** Old world as an acorn, new world as an oak tree: a core splits into major areas, branches and leaves — and most people are conditioned into a single branch or leaf (the Matrix).
+- **desarrollo:** Oak trees can live 600 to 2,000 years and grow more complex over time. There's a core (which "could be the essence of being"), which splits into three to six major areas and keeps splitting into branches that may live or fall off, and thousands of leaves, each with its own ecosystem similar to the oak's. The oak is "a watered-down description of reality beyond what you can see with your limited perception as a human" — e.g., frogs can see colors we can't; there's more than we perceive, and if not open to that, creativity and spiritual connection are massively hindered. Pruning: at times it's necessary to prune a branch so it can grow better or in a new direction — humans interacting with evolution and shaping where we go. There are infinite branches and leaves to explore, but most people are conditioned into the single branch or leaf of their childhood — go to school, get a job, retire at 65 — and its adopted worldview. You can think of that single branch/leaf as what people coin "the Matrix," trapped in that perspective for life.
+- **ejemplos:** Frogs seeing colors; pruning.
+- **cita:** "most people are conditioned into the singular branch and possibly singular leaf that they were conditioned into throughout their childhood"
+- **terminos:** acorn, oak tree, singular branch, singular leaf, the Matrix, prune
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-100
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 2:32–4:56, 2023-07-11
+- **tension:** ninguna
+
+## U-017-103
+- **tipo:** advertencia
+- **titulo:** Modern man is easily sucked into a mindless trap of mediocrity, degeneracy and roboticism; to find clarity you must battle through chaos.
+- **desarrollo:** The major problem: it's too easy for modern man to get sucked into "a mindless trap of mediocrity, degeneracy and roboticism." When people try to break from the default path into the unknown, they get scared, dip a toe in, realize they're comfortable, and step out: too cold or too hot, too much information to explore, too many opportunities causing overwhelm, too many opinions causing anxiety. "To find clarity you have to battle through the chaos"; you can't shy away at the first sight of struggle.
+- **ejemplos:** Dipping a toe in water.
+- **cita:** "to find Clarity you have to battle through the chaos"
+- **terminos:** mediocrity, degeneracy, roboticism, default path
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-102
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 4:06–4:56, 2023-07-11
+- **tension:** ninguna
+
+## U-017-104
+- **tipo:** ejemplo
+- **titulo:** "For every good thought there are a hundred bad thoughts": how a health goal splits into a holistic negative worldview without focus.
+- **desarrollo:** For every good thought (e.g., achieving good health) there are a hundred bad thoughts because of information marketed to you (e.g., by mainstream media). Without goals, vision and clarity framing your mind so distractions can't penetrate, focus splits: "eggs are worse than cigarettes, they cause cancer" → "I smoke, so that's worse; why even pursue this health goal?" → a "holistic but negative worldview": "I don't have money for quality ingredients; I can't afford a gym membership" → business comes in: without clarity on starting/running a business or fixing money problems, it splits further. People get overwhelmed and anxious because they lack clarity, direction or aim, and haven't educated themselves with quality information enough to confidently focus and make daily progress.
+- **ejemplos:** Eggs vs. cigarettes; gym membership; money for ingredients.
+- **cita:** "for every good thought there is a hundred bad thoughts"
+- **terminos:** holistic but negative world view, splitting focus
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-103
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 4:56–6:25, 2023-07-11
+- **tension:** ninguna
+
+## U-017-105
+- **tipo:** principio
+- **titulo:** The point of focus is to order your mind: create clarity from chaos and feel daily progress to tap into flow.
+- **desarrollo:** People who aren't overwhelmed are taking on a challenge their skill matches (not anxious) and not too low a challenge (a corporate job done over and over → boredom → "I could be doing something better" → negative thought loop). "This is the point of focus: you have to learn to order your mind." You need to create clarity from chaos, have direction every morning, and feel you're making progress to tap into some degree of flow, where you need environmental feedback that you're making meaningful progress. You've felt "how amazing clarity and pure progress feels"; understanding how to recreate it is how you create daily enjoyment.
+- **ejemplos:** Corporate job boredom.
+- **cita:** "you have to learn to order your mind you need to be able to create Clarity from chaos"
+- **terminos:** order your mind, clarity from chaos, flow state, feedback
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-059
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 6:25–7:48, 2023-07-11
+- **tension:** ninguna
+
+## U-017-106
+- **tipo:** principio
+- **titulo:** If you don't program your own mind, it will be programmed by someone else — curate inputs across the digital, mental and physical planes.
+- **desarrollo:** In the age of information "everyone's trying to program you," to condition you — not inherently bad, but you must choose and limit your inputs "from every plane of existence"; that's how you condition yourself: curate the information you allow to condition your mind. Three planes follow (U-017-107 to U-017-109). If you don't hold your future in the back of your mind, it's much easier to get distracted.
+- **ejemplos:** ninguno
+- **cita:** "if you don't program your own mind it will be programmed by someone else"
+- **terminos:** program your own mind, planes of existence, curate
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 7:48, 2023-07-11
+- **tension:** ninguna
+
+## U-017-107
+- **tipo:** método
+- **titulo:** Digital plane: unfollow accounts that don't serve your future; immerse yourself in information that programs you for success.
+- **desarrollo:** Immerse yourself in information that programs you for success: unfollow accounts that don't serve your future; buy books that increase awareness of your potential; subscribe to podcasts, newsletters and blogs that teach what schools won't. "Every single place you turn you need to curate a digital environment that is conducive to the future that you want."
+- **ejemplos:** ninguno
+- **cita:** "unfollow accounts that don't serve your future"
+- **terminos:** digital plane, digital environment
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-106
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 7:48–8:31, 2023-07-11
+- **tension:** ninguna
+
+## U-017-108
+- **tipo:** metáfora
+- **titulo:** Mental plane: treat your mind as a garden; "the nature of the rain is the same, but it makes thorns grow in the marshes and flowers in the gardens."
+- **desarrollo:** Treat your mind as a garden: thoughts can be well kept and beautiful or grow like weeds and lead to a chaotic downward spiral. He quotes an Arab saying: "the nature of the rain is the same but it makes thorns grow in the marshes and flowers in the gardens."
+- **ejemplos:** Garden, weeds; rain on marsh vs. garden.
+- **cita:** "the nature of the rain is the same but it makes Thorns grow in the marshes and flowers in the gardens"
+- **terminos:** mental plane, mind as a garden
+- **origen:** adaptada-de:Arab proverb ("as the Arabs say")
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-106
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 8:31, 2023-07-11
+- **tension:** ninguna
+
+## U-017-109
+- **tipo:** argumento
+- **titulo:** Physical plane: "settlements" of people who settle and justify each other's mediocrity; where you live is the single most important decision.
+- **desarrollo:** In the past people formed settlements; today, people "settle" for where they are and don't pursue more because society said it was enough to operate within and feed the machine. They group into environments that justify each other's mediocre behavior and program themselves to think it's normal or good. If that's what you want, do it. "The unknown is where your potential lies." "The single most important decision you make is where you live": it drives business opportunities, relationships, food and water supply, politics, activities and day-to-day quality of life.
+- **ejemplos:** ninguno
+- **cita:** "the single most important decision you make is where you live"
+- **terminos:** physical plane, settlements, settle
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-106
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 8:31–9:14, 2023-07-11
+- **tension:** ninguna
+
+## U-017-110
+- **tipo:** argumento
+- **titulo:** Standards define problems: low standards in one area (money) cascade into health and relationships — aim for holistic self-improvement.
+- **desarrollo:** Set higher standards. If you're okay with $10,000 in your bank account, you won't see anything at that level as a problem. If you can't afford quality food and complain that wealthy/healthy people are privileged, "it's because your standards across the board for your life are" very low — your standards for your own work ethic and business are non-existent. You isolate health and affording quality food as separate problems when they work together. Aim for holistic self-improvement: health, wealth, relationships, mind, body, spirit, business "all play into each other and come up together." To be healthy you'll have to fix your finances; if you're doing nothing to raise status in your job, start a business or budget ("millions of different techniques to increase your income"), you have no room to complain. Both affect the relationships you can access; with low standards for food, health, business and finances, relationships lower to that standard and "the entirety of your life is going to suck."
+- **ejemplos:** $10,000 bank account; affording quality food.
+- **cita:** "if you're okay with ten thousand dollars in your bank account then you're not gonna see anything less than ten thousand dollars as a problem"
+- **terminos:** standards, holistic self-improvement
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-052
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 9:14–11:23, 2023-07-11
+- **tension:** ninguna
+
+## U-017-111
+- **tipo:** principio
+- **titulo:** You are a product of your environment: thought processes from your environments become habitual, become who you are, and you then work to survive that identity.
+- **desarrollo:** If your standards are low, it's usually because you haven't placed yourself in a digital, physical or mental environment that would program you to raise them or to think high standards are normal. Thought processes created by your environments become habitual and "become who you are"; then you work to survive your identity by justifying your actions, reinforcing beliefs, following people and putting yourself in environments that let you settle. "Most people wake up after 40 years of robotic living wondering where the time went; you don't have to be one of them."
+- **ejemplos:** ninguno
+- **cita:** "most people wake up after 40 Years of robotic living wondering where the time went"
+- **terminos:** product of your environment, robotic living
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-106, U-017-009
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 11:23, 2023-07-11
+- **tension:** ninguna
+
+## U-017-112
+- **tipo:** metáfora
+- **titulo:** The attention spreadsheet: a record of attention invested per area would be a direct indicator of your quality of life.
+- **desarrollo:** Quote from his book The Art of Focus (launch "September 5th I believe"): "Imagine having a spreadsheet that displayed how much attention you've invested in any given area of your life — mind, body, spirit and business — that impact your relationship with the world and those around you. The spreadsheet would be a direct indicator of your quality of life."
+- **ejemplos:** ninguno
+- **cita:** "the spreadsheet would be a direct indicator of your quality of life"
+- **terminos:** attention invested, quality of life
+- **origen:** propia (from The Art of Focus)
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-052
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 11:23–12:08, 2023-07-11
+- **tension:** ninguna
+
+## U-017-113
+- **tipo:** término-acuñado
+- **titulo:** Focus is "the habit of habits": the root of your entire being, how you channel awareness, consciousness and attention toward value or distraction.
+- **desarrollo:** "Focus is the habit of habits; it is the thing that comes before habits, the habit that comes before any other habit in your life. Focus is the root of your entire being; it is how you channel your awareness, consciousness and attention toward value or distraction." Conscious focus on your long- to short-term goals is how you program your own mind for success and daily quality of life.
+- **ejemplos:** ninguno
+- **cita:** "focus is the habit of habits it is the thing that comes before habits"
+- **terminos:** habit of habits, root of your entire being
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 12:08, 2023-07-11
+- **tension:** ninguna
+
+## U-017-114
+- **tipo:** concepto
+- **titulo:** Increase the ratio of expensive to cheap dopamine sources (and signal-to-noise, significance-to-insignificance, meaningful-to-meaningless).
+- **desarrollo:** Goal: "increase the ratio of expensive to cheap dopamine sources in our life," plus the signal-to-noise, significance-to-insignificance and meaningful-to-meaningless ratios. Dopamine makes you feel good, and that's not bad — "it's just a matter of where you actually get it." "Dopamine is the molecule of human behavior" and why we act. Not scrolling and soaking in cheap dopamine doesn't mean you shouldn't leverage this neurotransmitter to achieve success.
+- **ejemplos:** Phone scrolling as cheap dopamine.
+- **cita:** "dopamine is the molecule of human behavior"
+- **terminos:** expensive dopamine, cheap dopamine, signal to noise, significance to insignificance, meaningful to meaningless
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-113
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 12:08–12:56, 2023-07-11
+- **tension:** ninguna
+
+## U-017-115
+- **tipo:** heurística
+- **titulo:** If you don't know what your goals should be, pick something that sounds meaningful and self-correct through experience.
+- **desarrollo:** Start by creating a hierarchy of goals: without conscious meaningful goals you can't place focus on what matters (it won't be top of mind), and "your attention is going to be manhandled" by day-to-day life. It doesn't matter if you don't know what goals should be yet: "just pick something that sounds meaningful." Only by pursuing something you think you want can you realize what you don't want ("oh this wasn't it") — now acting from better experience, you set the next goal and keep self-correcting toward a much better direction. (He suggests The 2 Hour Writer or Digital Economics as a starting direction for many.)
+- **ejemplos:** ninguno
+- **cita:** "it doesn't matter if you don't know what those goals should be yet just pick something that sounds meaningful"
+- **terminos:** hierarchy of goals, self-correcting
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-114
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 12:56–13:43, 2023-07-11
+- **tension:** ninguna
+
+## U-017-116
+- **tipo:** ejercicio-del-autor
+- **titulo:** Step 1, zoom out and gain perspective: spend 30 minutes writing your ideal future across mind, body, spirit and business, then contrast it with your current life.
+- **desarrollo:** Think about your ideal future (have you ever? when last?). Pull out a notebook and describe it in detail: spend 30 minutes writing what you think you want — mind, body, spirit, business — and how those will beneficially impact every area of your life. Then contrast that life with the one you have now. This is your vision: "a big umbrella" (transcribed "big medical"; ambiguous, likely "umbrella") that houses the rest of your goals and gives you a lens or frame to view daily situations and focus attention on the right things. Without vision or goals top of mind, you can't make better decisions because you don't know which decision leads toward the goal.
+- **ejemplos:** ninguno
+- **cita:** "pull out a notebook and describe it in detail spend 30 minutes writing what you think you want"
+- **terminos:** zoom out, vision, lens, frame
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-115
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 13:43–15:04, 2023-07-11
+- **tension:** ninguna
+
+## U-017-117
+- **tipo:** argumento
+- **titulo:** Everything is goal-oriented: without conscious self-generated goals you operate from unconscious goals society projected onto you.
+- **desarrollo:** Without a vision, "every single one of your actions are meaningless," and you view life "from a lens of unconscious goals because everything is goal oriented." If you don't have your own, you operate from goals society projected on you — a better short-term job, quick superficial sex, "every other low conscious problem" people focus on solving that never gets them anywhere. Nuance: you do have to solve these problems, but from a long-term standpoint. E.g., even if you just want sex: expose yourself to the experience, fail a few times — "failures are the foundation for your quality of life" — learn by exposure to reality; "don't just sit around mentally masturbating over things"; reap lessons and channel failures toward your goals.
+- **ejemplos:** Short-term job; dating failures.
+- **cita:** "failures are the foundation for your quality of life"
+- **terminos:** unconscious goals, conscious self-generated goals, low conscious problem
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-116
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 15:04–15:48, 2023-07-11
+- **tension:** ninguna
+
+## U-017-118
+- **tipo:** método
+- **titulo:** Step 2: deconstruct the vision into a 10-year goal, 1-year goal, this month, this week, and today — to bridge the clarity gap, without attaching.
+- **desarrollo:** In the same notebook, write: a 10-year goal; a one-year goal; this month's goal; this week's goal; what you can do today. Purpose: "bridge the clarity gap." "Don't attach to these goals; this is just a practice to generate clarity." Goals evolve; "I can have a different goal tomorrow if I wanted to, as long as I have a goal and I'm making decisions towards a better life."
+- **ejemplos:** ninguno
+- **cita:** "don't attach to these goals this is just a practice to generate Clarity"
+- **terminos:** clarity gap
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-116
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 15:48–16:31, 2023-07-11
+- **tension:** ninguna
+
+## U-017-119
+- **tipo:** método
+- **titulo:** Step 3: zoom in with clarity to act with purpose — habitually bring focus back from distraction to signal; that's how you reap good dopamine.
+- **desarrollo:** Hold the frame in the back of your mind — "the focus channel from which you view daily situations." The habit being formed is: zoom out, gain perspective, act from a place of better decisions and perception, so you can identify problems in the way of your goals. You decrease distraction by "consistently and habitually bringing your focus back from distraction to what you deem as important"; important/signal/significant = what aligns with actualizing your goals. That's how you reap good dopamine: with a goal like "getting absolutely jacked," if you see a helpful tip on social media — "boom, that's meaningful dopamine" — save it and implement it.
+- **ejemplos:** Fitness tip on social media.
+- **cita:** "this is the Habit that we're forming is zooming out gaining perspective and acting from a place where we can make better decisions"
+- **terminos:** zoom in, focus channel, signal, meaningful dopamine
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-118
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 16:31–17:17, 2023-07-11
+- **tension:** ninguna
+
+## U-017-120
+- **tipo:** heurística
+- **titulo:** At your current level, 99% of the information you're exposed to doesn't matter — register it as distraction.
+- **desarrollo:** The modern world is "an infinite web of information, ideas, opportunities, business models, relationship advice, productivity doctrine, conspiracy theories, news and drama" to get lost in if you don't train focus. "At the current level of your life 99% of the information that you are exposed to does not matter; it is a distraction." Get used to registering 99% as distraction and learning to focus on the important things.
+- **ejemplos:** ninguno
+- **cita:** "at the current level of your life 99 of the information that you are exposed to does not [ __ ] matter it is a distraction"
+- **terminos:** infinite web of information
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-119
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 17:17–17:58, 2023-07-11
+- **tension:** ninguna
+
+## U-017-121
+- **tipo:** concepto
+- **titulo:** You are the meta project: turn goals into projects across mind, body, spirit and money; the project is the solution and you become the business.
+- **desarrollo:** Turn the goals from your notebook into projects. "You are the meta project; you are your life's work." You as a project are composed of interconnected planes that make life enjoyable: mind, body, spirit and money. Money is necessary: "the bridge of commerce, the lifeblood of society," how you bring the future you want to life and share it so others benefit and you contribute to humanity. In business there are the eternal markets — health, wealth, relationships, happiness — which connect to mind, body, spirit, business; "this is where burning profitable problems lie." Treat each life domain as a project to identify and solve problems; "the project is the solution"; once you create the project "you turn yourself into the business." Improving your life with conscious effort toward goals and making tangible projects you can pass on creates "a life of impact, money and fulfillment."
+- **ejemplos:** ninguno
+- **cita:** "you are the meta project you are your life's work"
+- **terminos:** meta project, life's work, eternal markets, burning profitable problems, turn yourself into the business, bridge of commerce
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-118
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 17:58–18:47, 2023-07-11
+- **tension:** ninguna
+
+## U-017-122
+- **tipo:** metáfora
+- **titulo:** Projects as video-game quests: they narrow your mind on the hierarchy of goals composing the project.
+- **desarrollo:** View projects as quests in a video game — what makes games enjoyable is that they narrow your mind on the hierarchy of goals composing the quest. You begin to control your attention every morning, move with purpose through the world, "and people notice it in your walk and how you hold yourself." Difference from a video game: the game of life has "actual real pain," but the pleasure derived is much greater.
+- **ejemplos:** Video game quests.
+- **cita:** "you can also view projects as quests and a video game"
+- **terminos:** quests, hierarchy of goals
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-121
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 18:47–19:30, 20:49, 2023-07-11
+- **tension:** ninguna
+
+## U-017-123
+- **tipo:** método
+- **titulo:** Mental lifting: start with four sets of 20 minutes, rest between sets, and progressively overload to four sets of 45 minutes.
+- **desarrollo:** "Focus is a muscle; start with four sets of 20 minutes, rest between sets. Progressive overload still applies to mental lifting: when you get stronger, add more weight; increase to four sets of 45 minutes. Train your focus to hit your ideal financial physique in record time."
+- **ejemplos:** Weightlifting sets.
+- **cita:** "Progressive overload still applies to mental lifting"
+- **terminos:** focus is a muscle, mental lifting, progressive overload, financial physique
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-097
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 19:30, 2023-07-11
+- **tension:** "One hour of focused work" vs. four sets of 45 minutes (3 hours) — the protocol scales beyond one hour.
+
+## U-017-124
+- **tipo:** opinión
+- **titulo:** You don't need 12 hours a day to actualize your dreams; adults with responsibilities couldn't succeed otherwise — but the young have an advantage.
+- **desarrollo:** Anyone saying you need 12 hours a day is "either an idiot or they don't have perspective," or giving their own experience (fine, as long as framed so). If 12 hours were required, nobody with responsibilities would succeed: adults have families, jobs, bills. If you're young you have a huge advantage and should take advantage of it.
+- **ejemplos:** ninguno
+- **cita:** "you don't need 12 hours a day to actualize your dreams"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-123
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 19:30–20:13, 2023-07-11
+- **tension:** Contrasts with "It's actually pretty easy to focus 12 hours a day" (same batch), where 12-hour focus is presented as easy/desirable under the right goals.
+
+## U-017-125
+- **tipo:** principio
+- **titulo:** Your first meaningful project should solve the most prevalent problem in your life — that is your purpose.
+- **desarrollo:** Pick the project that solves the most prevalent problem in your life: "this is your purpose; if you're trying to find your purpose, here it is." Sit with it, contemplate it, create a plan of attack. Questions: are you overweight, broke, stressed all the time, hating your job, lacking energy? "What are you sweeping under the rug so you don't have to face the pain that comes with growth?" "If solved, what problem would unlock the next level of enjoyment in your life?" Then deconstruct that goal into actions to incorporate in each focused hour.
+- **ejemplos:** Overweight, broke, stressed, hating job, low energy.
+- **cita:** "what are you sweeping under the rug so you don't have to face the pain that comes with growth"
+- **terminos:** most prevalent problem, purpose, plan of attack
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-121
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 20:13–21:31, 2023-07-11
+- **tension:** ninguna
+
+## U-017-126
+- **tipo:** método
+- **titulo:** Dedicate the first hour of your day to education and action around your problem (money, fitness, mental health) — for life.
+- **desarrollo:** Your life must change fundamentally: fit this in and prioritize it as "arguably the most important thing in your life" — it has to be the first thing every morning, or so habitual later that distractions and responsibilities don't get in the way. You'll have to wake up earlier. If you need money: first hour on education and action around money; lose weight: fitness; decrease stress: mental health. "Don't look for a shortcut ... this is a lifestyle"; you'll do one hour of focused work every morning for the rest of your life.
+- **ejemplos:** Money, fitness, mental health.
+- **cita:** "if you need money dedicate the first hour of your day to education and action around money"
+- **terminos:** first hour, education and action
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-125
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 20:49–21:31, 2023-07-11
+- **tension:** ninguna
+
+## U-017-127
+- **tipo:** principio
+- **titulo:** Consistency is overrated; persistence and iteration are the requirements. Focus is a currency.
+- **desarrollo:** "Focus is a currency and when you invest it in your own education, work, rest and success the results won't be immediate." He corrects himself: "consistency is a requirement — actually scratch that — consistency is overrated, persistency is underrated." Persistence and iteration are required for projects to lead to a better future. Show up every day intending to build a project that lives into the future.
+- **ejemplos:** ninguno
+- **cita:** "consistency is overrated persistency is underrated"
+- **terminos:** focus is a currency, persistency, iteration
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-097
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 21:31–22:10, 2023-07-11
+- **tension:** Self-correction in real time (consistency → persistence).
+
+## U-017-128
+- **tipo:** argumento
+- **titulo:** Building a project that gives value to others is the unconventional (maybe only) path to self-confidence; people follow those hell-bent on a vision.
+- **desarrollo:** Showing up daily to build a project that lives into the future is how you become confident and interesting. "This is the unconventional if not the only path to self-confidence": having value you can give others, because underneath it shows competence, time invested, and that you acquired the information and perspective to see situations with nuance — it shows experience. "When you are hell-bent on creating your vision for the future people notice and they want to join you, they want to follow you."
+- **ejemplos:** ninguno
+- **cita:** "this is the unconventional if not the only path to self-confidence"
+- **terminos:** self-confidence, value
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-127
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 22:10–22:59, 2023-07-11
+- **tension:** ninguna
+
+## U-017-129
+- **tipo:** fuente-de-tercero
+- **titulo:** Harrington Emerson: principles are few, methods many; lever-moving tasks are the principles behind tactics.
+- **desarrollo:** Make persistent action seamless by scheduling lever-moving tasks into high-energy time blocks. Quote by Harrington Emerson: "As to methods there may be a million and then some, but principles are few. The man who grasps principles can successfully select his own methods. The man who tries methods, ignoring principles, is sure to have trouble." Dan's adaptation: lever-moving actions are the principles behind the methods/tactics people promote (e.g., "start this social media marketing agency to make a million dollars a year" or "use this AI business model"); those are tactics operating from principles the creators understand. Absorb principles by studying multiple perspectives and noting patterns of what lets all of them do better — which he states is his "one million dollar skill stack": writing, speaking, marketing, sales, paired with personal interests, plus tactics learned over time. He refuses to give prescriptions/how-tos that "pigeonhole everyone's perspective" so only 0.01% get results; "you have to go and figure it out for yourself."
+- **ejemplos:** SMMA and AI business model as tactics.
+- **cita:** "the man who grasp principles can successfully select his own methods the man who tries methods ignoring principles is sure to have trouble"
+- **terminos:** principles, methods, tactics, lever moving tasks, one million dollar skill stack
+- **origen:** adaptada-de:Harrington Emerson
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-022
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 22:59–23:45, 24:23–25:04, 2023-07-11
+- **tension:** ninguna
+
+## U-017-130
+- **tipo:** principio
+- **titulo:** The key to persistence is momentum from stacking small wins; if you're not seeing small wins, you're not doing the right things (learn principles before specifics).
+- **desarrollo:** Why keep playing a game that's never fun or shows no progress? This is mostly in the individual's control. People say "just need discipline, stick it out"; but "if you're not seeing small wins then you're not doing the right things." Examples of wrong order: losing weight → foolish to read a book on hyperthyroidism before principles of training and nutrition; starting a business → foolish to buy a course on client acquisition with Facebook ads before principles of traffic and offers; dating → foolish to learn "game" before principles of social, intimate or business relationships. Principles overlap across domains (bodybuilding to business), e.g., progressive overload: you don't try to increase income by $100,000/month in one month; increase by $5,000, then it picks up, "and before you know it you're bench pressing a financial 315 pounds for 10 reps."
+- **ejemplos:** Hyperthyroidism book; Facebook ads course; "game"; financial 315 bench.
+- **cita:** "if you're not seeing small wins then you're not doing the right things"
+- **terminos:** momentum, small wins, progressive overload
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-129
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 23:45–25:04, 2023-07-11
+- **tension:** Pushes back against "just need discipline" advice.
+
+## U-017-131
+- **tipo:** método
+- **titulo:** Schedule lever-moving tasks in a high-energy time block — for most, the first hour of the morning; "go to work tired."
+- **desarrollo:** Midday or afternoon is fine if you want, but for most, block the first morning hour: people have the most time and energy then. Even night owls operate from the default mode network when sleepy, "that's when you're the most creative anyways" — "go to work tired, you'll do better work." Energy may not peak then, but you have limited energy daily; working after draining it all yields low quality. It's difficult: wake up early for a week until somewhat normal, for a month until you enjoy it.
+- **ejemplos:** ninguno
+- **cita:** "go to work tired you'll do better work"
+- **terminos:** high energy time block, default mode network
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-126
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 25:04–25:40, 2023-07-11
+- **tension:** "High energy time block" coexists with "go to work tired" — he acknowledges energy may not be highest; the logic is about remaining daily energy budget.
+
+## U-017-132
+- **tipo:** definición
+- **titulo:** Distractions are subjective: anything is a distraction only if it pulls you away from your one-hour block.
+- **desarrollo:** Hanging out with friends, video games, partying aren't bad; "it's bad if it's pulling you away from that one hour time block." With one meaningful project and one hour a day, anything pulling you away from that is a distraction; once completed, go be "distracted" — at that point it's not a distraction and may be very important for maintaining the other pillars of your life. Work in the morning, knock out priority tasks, enjoy the rest of your day.
+- **ejemplos:** Friends, video games, partying.
+- **cita:** "realize that distractions are subjective"
+- **terminos:** distractions are subjective, pillars of your life
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-097
+- **fuente:** Focus Is A Superpower (Take Back Control Of Your Life).md, 25:40–26:16, 2023-07-11
+- **tension:** Refines U-017-072 (distraction = anything not aligned with vision) into a time-bounded definition.
+
+# Fuente: The Art Of Focus – Official Book Summary By The Author Dan Koe.md (2024-01-18)
+
+## U-017-133
+- **tipo:** definición
+- **titulo:** The Art of Focus is "a practical philosophy to find meaning, reinvent yourself and create your ideal future."
+- **desarrollo:** The author reads his own summarized version of the book to provide correct context before others summarize it. He covers high-level principles and advice but notes much is left out (full teachings in the book). Book structure covered in this summary: Ch.1 Introduction; Ch.2 The Principles; Ch.3 The Three Pillars; Ch.4 The Universe; Ch.5 The Self; Ch.6 The Game; Ch.7 The Lens; Ch.8 The Formula; and further chapters later in the summary.
+- **ejemplos:** ninguno
+- **cita:** "the art of focus is a practical philosophy to find meaning reinvent yourself and create your ideal future"
+- **terminos:** The Art of Focus, practical philosophy
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 0:00, 2024-01-18
+- **tension:** ninguna
+
+## U-017-134
+- **tipo:** ejemplo
+- **titulo:** The modern default day: snooze four times, phone, traffic, eight hours of unfulfilling work, argue, TV, pass out, repeat.
+- **desarrollo:** Chapter 1 opens with the state of the modern world: "wake up, hit snooze four times, stare at your phone, roll out of bed, make coffee, sit in traffic, 8 hours of unfulfilling work, sit in traffic again, argue with your significant other, walk the pet, watch TV, pass out, repeat." Humanity is conditioned to follow a default path set by society; "the 99% of people that do what they're told, question nothing and pass down what they know lead to a population that can't think for themselves," producing "a dull, mechanical and mindless life."
+- **ejemplos:** The default day routine.
+- **cita:** "the 99% of people that do what they're told question nothing and pass down what they know lead to a population that can't think for themselves"
+- **terminos:** default path
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 0:00–0:51, 2024-01-18
+- **tension:** ninguna
+
+## U-017-135
+- **tipo:** argumento
+- **titulo:** If everyone does the same thing they get the same results; a goal implies a problem, and the problem develops skill set, mindset and a more complex identity.
+- **desarrollo:** Childhood observation: "if everyone does the same thing they will get the same results," and most people aren't happy with those results. Few people set, and fewer stick to, their own goals — "yet that is the only way to evolve." Chain: a goal implies a problem → that problem lets you develop your skill set and mindset → which leads to a more complex identity that can find meaning and progress in life.
+- **ejemplos:** ninguno
+- **cita:** "a goal implies a problem and that problem is what allows you to develop your skill set and mindset"
+- **terminos:** complex identity
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-134
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 0:51–1:39, 2024-01-18
+- **tension:** ninguna
+
+## U-017-136
+- **tipo:** principio
+- **titulo:** The default path is the main problem; distractions — everything not filtered with critical thought — lead you away from who you want to become; the solution to a mediocre life is focus.
+- **desarrollo:** The default path is "pronounced in our times; this is the main problem you must overcome." There's an abundance of information, opportunities and convenience; most are labeled distractions "except for the ones you filter with critical thought." "Distractions lead you further away from who you are and who you want to become. The solution to a mediocre life is focus."
+- **ejemplos:** ninguno
+- **cita:** "the solution to a mediocre life is focus"
+- **terminos:** default path, distractions, critical thought
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-134
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 1:39, 2024-01-18
+- **tension:** ninguna
+
+## U-017-137
+- **tipo:** dato
+- **titulo:** Humans can consciously process 10–50 bits of information per second; ~125 billion bits in a lifetime is "your potential."
+- **desarrollo:** "Humans can process 10 to 50 bits of information per second with their conscious attention." The what, how and why behind the information we choose to process determines quality of life: what we hold in attention, how we interpret it, and why we gave it attention. "We can consider the approximate 125 billion bits of information you process through focus in your lifetime as your potential," with a large chunk dedicated to grooming, errands and other "based" (likely "basic") responsibilities. Therefore we must care deeply about where we direct focus. Source of the numbers not named in the summary.
+- **ejemplos:** ninguno
+- **cita:** "we can consider the approximate 125 billion bits of information you process through focus in your lifetime as your potential"
+- **terminos:** bits of information, potential
+- **origen:** propia (figures from unnamed source)
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 1:39–2:28, 2024-01-18
+- **tension:** ninguna
+
+## U-017-138
+- **tipo:** principio
+- **titulo:** Three requests for reading: radically open mind, question/challenge/build on the ideas, don't take the author as law.
+- **desarrollo:** (1) Read with a radically open mind: don't label or judge immediately; seek to understand through direct experience, which may take days, years or decades. (2) Question, challenge and build with the ideas: they'll shape your life like any idea; use, test, iterate and improve them to contribute to humanity. (3) Don't take what he says as law: "I am one perspective out of infinite; none of what I say is absolute truth"; it served his life in certain situations and may or may not resonate with yours.
+- **ejemplos:** ninguno
+- **cita:** "I am one perspective out of infinite none of what I say is absolute truth"
+- **terminos:** radically open mind, direct experience
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 2:28–3:15, 2024-01-18
+- **tension:** ninguna
+
+## U-017-139
+- **tipo:** principio
+- **titulo:** Principles are timeless; tactics are with the times — don't ignore tactics, but know they are temporary.
+- **desarrollo:** Chapter 2. "Principles are timeless, tactics are with the times." That doesn't mean ignore tactics, but know their results are temporary across any domain. The book is written with 27 principles in mind (listed in U-017-140 to U-017-150).
+- **ejemplos:** ninguno
+- **cita:** "principles are Timeless tactics are with the times"
+- **terminos:** principles, tactics
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 3:15, 2024-01-18
+- **tension:** ninguna
+
+## U-017-140
+- **tipo:** framework
+- **titulo:** The 27 principles of The Art of Focus (overview list).
+- **desarrollo:** Rapid-fire list as stated: (1) The supreme law of the universe is entropy; nothing is permanent. (2) Systems thinking — understanding goal, process and problem of any crevice of reality — is how you rig situations in your favor. (3) Psychic entropy: create and maintain order through self-generated goals, a path, and problems to focus on now. (4) The structure of information in consciousness determines quality of life, but information is "in-formation," ever-changing. (5) Zooming out shows negative situations are "not that serious." (6) Self-experimentation is the only way to solve problems for good. (7) Your mind is an information processing machine; intelligent imitation. (8) Close-mindedness vs. radical open-mindedness. (9) Observation and questioning. (10) Judgment vs. discernment. (11) Suffering = expectations vs. reality. (12) Radical acceptance. (13) Knowledge vs. understanding. (14) Novel discoveries require exploring the unknown daily. (15) Holistic synthesizers. (16) Productivity favored over creativity. (17) The mind makes sense through storytelling. (18) Success requires failure. (19) Iteration and persistence > complacency and consistency. (20) The gray area. (21) Perspective determines interpretation; hunt kernels of truth. (22) Develop the ego to oneness with reality. (23) Every problem demands an increase in mind openness/perspective/complexity of self. (24) Humans survive on the mental plane. (25) Mastery sets you apart. (26) Tactical stress. (27) Selfishness as priority until independence. Each detailed in the following units. Number 8 is not explicitly spoken in the transcript but implied by sequence.
+- **ejemplos:** ninguno
+- **cita:** "The Art of focus is written with 27 principles in mind"
+- **terminos:** 27 principles
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-139
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 3:15–7:52, 2024-01-18
+- **tension:** ninguna
+
+## U-017-141
+- **tipo:** principio
+- **titulo:** Principles 1–3: entropy (nothing is permanent), systems thinking (goal, process, problem), and psychic entropy (disorder in the mind).
+- **desarrollo:** (1) "The supreme law of the universe is entropy; nothing is permanent — from emotions to ideas to your health to the systems that the education system relies on to secure your future." (2) "Systems thinking, or understanding the goal, process and problem of any crevice of reality, is how you rig situations in your favor." (3) "Psychic entropy, or disorder in the mind, means that we must create and maintain order in our lives through self-generated goals, a path to achieve them and problems to focus on right now so we don't get consumed by distractions."
+- **ejemplos:** ninguno
+- **cita:** "systems thinking or understanding the goal process and problem of any crevice of reality is how you rig situations in your favor"
+- **terminos:** entropy, systems thinking, psychic entropy, self-generated goals
+- **origen:** propia (psychic entropy is a term also associated with Csikszentmihalyi, but not attributed here)
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-014, U-017-015
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 3:15–4:08, 2024-01-18
+- **tension:** Earlier (2023) system definition was "goal, process, energy"; here "goal, process, problem."
+
+## U-017-142
+- **tipo:** principio
+- **titulo:** Principles 4–6: content of consciousness determines quality of life; "information is in-formation"; zoom out; self-experiment.
+- **desarrollo:** (4) "The structure of the information we focus our attention on, or the content in our consciousness, determines our quality of life, but information is in-formation; it is ever-changing, impermanent. What you focus on must adapt and change on a daily, monthly and yearly basis." (5) "Zooming out to see the big picture of a situation allows you to see negative situations for what they are: not that serious." (6) "Self-experimentation is the only way to solve your problems for good, make novel discoveries in your life and gain true experience."
+- **ejemplos:** ninguno
+- **cita:** "information is inform formation it is everchanging impermanent"
+- **terminos:** content in our consciousness, in-formation, zooming out, self-experimentation
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-141
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 4:08, 2024-01-18
+- **tension:** ninguna
+
+## U-017-143
+- **tipo:** principio
+- **titulo:** Principles 7–8: intelligent imitation, and radical open-mindedness vs. close-mindedness.
+- **desarrollo:** (7) "Your mind is an information processing machine; we imitate the environment around us to survive. Intelligent imitation is how you leverage the benefits of fitting in while not becoming a mindless slave to the systems of society." (8) "Close-mindedness closes you off to discovery, insights and truths that otherwise wouldn't be found; radical open-mindedness allows you to expand as an individual and collect the perspective necessary to succeed."
+- **ejemplos:** ninguno
+- **cita:** "intelligent imitation is how you leverage the benefits of fitting in while not becoming a Mindless slave to the systems of society"
+- **terminos:** information processing machine, intelligent imitation, radical open-mindedness
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-073
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 4:08–5:04, 2024-01-18
+- **tension:** ninguna
+
+## U-017-144
+- **tipo:** concepto
+- **titulo:** Principles 9–10: observation and questioning; judgment vs. discernment.
+- **desarrollo:** (9) "Observation and questioning are how you learn to navigate difficult situations with wisdom and grace." (10) "There is a distinction between judgment and discernment: judgment leads to close-mindedness, but discernment allows you to pull from others' experiences in a way that helps you make wise decisions for your own development."
+- **ejemplos:** ninguno
+- **cita:** "judgment leads to closed-mindedness but discernment allows you to pull from others experiences"
+- **terminos:** judgment, discernment, observation and questioning
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-143
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 5:04, 2024-01-18
+- **tension:** ninguna
+
+## U-017-145
+- **tipo:** principio
+- **titulo:** Principles 11–12: suffering comes from expectations vs. reality; radical acceptance — nothing you think will change the situation.
+- **desarrollo:** (11) "The cause of most people's suffering is the expectations people have compared to the reality of a situation. The present moment isn't supposed to be anything other than what it's being." (12) "When you practice radical acceptance you begin to see situations for what they are; there is nothing you can think that will change the situation."
+- **ejemplos:** ninguno
+- **cita:** "the present moment isn't supposed to be anything other than what it's being"
+- **terminos:** expectations, radical acceptance
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 5:04, 2024-01-18
+- **tension:** ninguna
+
+## U-017-146
+- **tipo:** principio
+- **titulo:** Principles 13–15: knowledge is constructed upward, understanding discovered inward; explore the unknown daily; the world needs holistic synthesizers.
+- **desarrollo:** (13) "One can know a lot but understand very little; knowledge is constructed upward while understanding is discovered inward." (14) "The only way to make novel discoveries is to explore the unknown; reality exploration must become a daily practice; you must puncture the default path you've been conditioned to live." (15) "The world needs more holistic synthesizers: those who explore reality and connect the dots between multiple domains rather than getting stuck in one pocket and basing their entire identity around that."
+- **ejemplos:** ninguno
+- **cita:** "knowledge is constructed upward while understanding is discovered inward"
+- **terminos:** knowledge, understanding, reality exploration, puncture the default path, holistic synthesizers
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-092
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 5:04–5:58, 2024-01-18
+- **tension:** ninguna
+
+## U-017-147
+- **tipo:** principio
+- **titulo:** Principles 16–18: productivity over creativity creates robotic machines; life unfolds as story; failure is a reference point.
+- **desarrollo:** (16) "The modern world favors productivity but neglects creativity; this leads to robotic and efficient machines that are no longer human. Create the efficient systems that your mind loves, but don't hesitate to evolve beyond them and discover the next problem that must be solved." (17) "The mind makes sense of the world through storytelling; life unfolds in chapters and phases; it is an unfolding of problems, calls to adventure, curiosity, exploration of the unknown, struggle, insight, transformation, solution and climax — flow with them all." (18) "Success cannot exist without failure; failure is a reference point that reveals a problem from which you generate a goal to discover a lesson."
+- **ejemplos:** ninguno
+- **cita:** "failure is a reference point that reveals a problem from which you generate a goal to discover a lesson"
+- **terminos:** robotic and efficient machines, storytelling, calls to adventure, failure is a reference point
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-075
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 5:58–6:56, 2024-01-18
+- **tension:** ninguna
+
+## U-017-148
+- **tipo:** principio
+- **titulo:** Principles 19–21: iteration and persistence beat complacency and consistency; magic is in the gray area; hunt for kernels of truth.
+- **desarrollo:** (19) "Iteration and persistence is better than complacency and consistency." (20) "Reality is not black and white but the extremes get the most attention; the magic is found in the gray area that can only be found by questioning everything." (21) "Our perspective determines the positive or negative interpretation of situations; the truth seeker must hunt for kernels of truth to cultivate a more holistic perspective that allows for more positive interpretations."
+- **ejemplos:** ninguno
+- **cita:** "the magic is found in the gray area that can only be found by questioning everything"
+- **terminos:** iteration, persistence, gray area, truth seeker, kernels of truth
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-127
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 6:56, 2024-01-18
+- **tension:** ninguna
+
+## U-017-149
+- **tipo:** principio
+- **titulo:** Principles 22–24: develop the ego rather than kill it; every problem demands more complexity of self; humans survive on the mental plane.
+- **desarrollo:** (22) "You don't get rid of the ego; you develop it to the point of being at one with reality." (23) "Every problem you encounter in life demands an increase in your level of mind openness, of your perspective, or complexity of self." (24) "Humans survive on the mental plane of existence; we survive the idea that is our identity and everything that allows that identity to maintain its form."
+- **ejemplos:** ninguno
+- **cita:** "you don't get rid of the ego you develop it to the point of being at one with reality"
+- **terminos:** ego, complexity of self, mental plane of existence
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-017-086, U-017-009
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 6:56–7:52, 2024-01-18
+- **tension:** ninguna
+
+## U-017-150
+- **tipo:** principio
+- **titulo:** Principles 25–27: mastery sets you apart; tactical stress throws you into the unknown; selfishness must be a priority until independence.
+- **desarrollo:** (25) "Mastery sets you apart in a world that can't see beyond the miserable surface." (26) "Tactical stress is a strategy to throw yourself into the unknown and see what you are capable of; it forces education, skill acquisition and expansion of perspective." (27) "If you need something from another it is nearly impossible to act with authenticity; selfishness must be a priority for those who have not developed themselves to the point of independence."
+- **ejemplos:** ninguno
+- **cita:** "if you need something from another it is nearly impossible to act with authenticity"
+- **terminos:** mastery, tactical stress, selfishness, independence, authenticity
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 7:52, 2024-01-18
+- **tension:** Principle 27 (selfishness as priority) nuances his critique of "selfish perspective" as a sign of close-mindedness (U-017-078).
+
+## U-017-151
+- **tipo:** framework
+- **titulo:** The Three Pillars of the good life: focus, energy and experience.
+- **desarrollo:** Chapter 3. From his exploration, experience and reflection, the three pillars of the good life are focus, energy and experience. Book quote: "The ability to focus your attention on a meaningful goal, holding that in the back of your mind as a distraction repellent, knowing exactly how to achieve it through prior experience, and refocusing on the choice in front of you is a superpower." With ample experience "the feedback loop of focus and energy tightens"; results compound because what you filter from information is more conducive to meaningful action.
+- **ejemplos:** ninguno
+- **cita:** "holding that in the back of your mind as a distraction repellent"
+- **terminos:** three pillars, focus, energy, experience, distraction repellent, feedback loop
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-136
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 7:52–8:45, 11:10, 2024-01-18
+- **tension:** ninguna
+
+## U-017-152
+- **tipo:** concepto
+- **titulo:** Pillar one, focus: a trainable muscle whose frame is perspective, constructed from goals, paths and problems.
+- **desarrollo:** Focus is a muscle that can be trained: like conditioning the body with physical training, you condition the mind with mental training. Focus has a frame called perspective or worldview, conditioned by information processed through life. Perspective restricts what you can perceive and interpret. It is constructed with (a) the goals you plan to achieve, (b) paths you know to achieve them, (c) problems that must be identified to achieve them. If you don't know which goals you pursue, you pursue the one society assigned you. Your focus is limited to aspects of reality your perspective allows "unless you create goals that launch you into the unknown." A problem you consider normal won't reveal itself as a problem, so you'll have nothing to learn, discover or act on. Training method: set and pursue interest-based goals that let your mind become aware of new information leading to your evolution. Hence radical open-mindedness: in constant close-mindedness, stress and narrow focus, opportunities pass you by and you'll blame anything but yourself. Over time the trained mind filters signal from noise, biased toward information that brings prosperity.
+- **ejemplos:** ninguno
+- **cita:** "a problem that you consider a normal part of your life won't reveal itself as a problem"
+- **terminos:** focus is a muscle, perspective, worldview, frame, interest-based goals, signal from noise
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-151
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 8:45–9:32, 2024-01-18
+- **tension:** ninguna
+
+## U-017-153
+- **tipo:** concepto
+- **titulo:** Pillar two, energy: specific goals demand specific mental energy; build and maintain a hierarchy of goals across health, wealth, relationships, happiness.
+- **desarrollo:** "Specific goals demand a specific amount of mental energy to actualize." Locked into the default path, you spend mental energy on society's goals, making it hard to invest in your own. Entropy ("Nature's tax") is the measure of disorder and "the driving force of evolution": everything falls apart unless effort reverses entropy; energy is required to maintain order. "A system has a purpose, a path for achieving that purpose and problems to invest energy in along the way." Society has had years to construct systems for the attention of the masses. To avoid an average life, dedicate time to creating and maintaining systems in all areas; create a hierarchy of goals across health, wealth, relationships and happiness and invest mental energy in them often, if not daily — otherwise you'll focus on the default path "and end up like everyone else; that isn't pretty."
+- **ejemplos:** ninguno
+- **cita:** "specific goals demand a specific amount of mental energy to actualize"
+- **terminos:** mental energy, entropy, Nature's tax, hierarchy of goals, health wealth relationships and happiness
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-014, U-017-151
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 9:32–10:22, 2024-01-18
+- **tension:** ninguna
+
+## U-017-154
+- **tipo:** concepto
+- **titulo:** Pillar three, experience: no idea is law without the filter of direct experience; experience = identify problems, solve them, make the process more efficient.
+- **desarrollo:** "You cannot take ideas, opinions or advice as law without the filter of direct experience, even if that advice is my own." Experience is gained by identifying problems in your life, solving them, and making your process more efficient by evolving the systems your mind operates on. With ample experience, the feedback loop of focus and energy tightens and results compound.
+- **ejemplos:** ninguno
+- **cita:** "you cannot take ideas opinions or advice as law without the filter of direct experience even if that advice is my own"
+- **terminos:** direct experience, feedback loop
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-151
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 10:22–11:10, 2024-01-18
+- **tension:** ninguna
+
+## U-017-155
+- **tipo:** término-acuñado
+- **titulo:** "The Universe" (capital U) as the identity of reality — chosen over God, Brahman or Tao because they point to the same thing.
+- **desarrollo:** Chapter 4. "Struggle is a universal principle; it is silly to think it isn't supposed to be part of your life," yet we expect life to be a certain way. "The universe is the identity of reality." He chooses "Universe" with a capital U instead of cultural labels like God, Brahman or Tao ("teoto" in transcript; presumably Tao) because (1) they all point to the same thing and (2) people get overly emotional about the one they identify with: "they disagree on a conceptual level but agree on an experiential level." The universe is everything; the word is a concept pointing to an experience you've had but may not label so, because conditioning forced you into a narrow perspective unable to integrate truths of a belief system you think you disagree with — "it isn't disagreement, it's misunderstanding." From "a former atheist and heavy skeptic": "get out of your head; no amount of words can prove what allows words to exist."
+- **ejemplos:** ninguno
+- **cita:** "no amount of words can prove what allows words to exist"
+- **terminos:** Universe, identity of reality, conceptual vs. experiential level
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-017-087
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 11:10–12:00, 2024-01-18
+- **tension:** ninguna
+
+## U-017-156
+- **tipo:** concepto
+- **titulo:** The universe is divided into infinite creative parts called ideas; lack of purpose = disconnection from the ideas that reveal it.
+- **desarrollo:** "The universe is divided into infinite creative parts called ideas." Every idea is connected and layered to let you make sense of the world. "You don't have a sense of purpose because you are disconnected from the ideas that allow you to see that purpose"; you haven't explored reality enough to make sense of or create your place. Ideas are impermanent and ever-flowing. The universe, "one song," is a harmony unfolding: highs, lows, problems, solutions, rising and falling actions, climaxes, resolutions — patterns reflected across life, especially in the stories and games that structure most situations, but few people zoom out to observe them. Humans suffer when they can't see the full story or game: they isolate one situation and hold it "like a static image"; "reality is moving forward while you are trapped in the past."
+- **ejemplos:** ninguno
+- **cita:** "reality is moving forward while you are trapped in the past"
+- **terminos:** ideas, one song, static image
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-017-155, U-017-075
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 12:00–13:34, 2024-01-18
+- **tension:** ninguna
+
+## U-017-157
+- **tipo:** argumento
+- **titulo:** Understanding the universe as natural law puts you ahead of 99% because creativity (the key to being irreplaceable) depends on the expansion of your mind — "as above, so below."
+- **desarrollo:** Book quote: "When we harness the creative ability of our minds to view life from above, we can discover, collect and harness profound insights that bring us peace and progress below." Your life feels meaningless because you're not grounded in the present moment. Not about organized religion or a belief system: it's "tapping into the highest perspective there is to become more creative than you ever have." Chain: creativity is the key to becoming irreplaceable → creativity depends on the openness/expansion of your mind → understanding the universe as natural law puts you ahead of 99% of people. "As above, so below."
+- **ejemplos:** ninguno
+- **cita:** "as above so below"
+- **terminos:** view life from above, natural law, irreplaceable
+- **origen:** adaptada-de:Hermetic maxim "as above, so below" (unattributed)
+- **nivel:** avanzado
+- **prerrequisitos:** U-017-156
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 13:34, 2024-01-18
+- **tension:** ninguna
+
+## U-017-158
+- **tipo:** argumento
+- **titulo:** The self: we absorb ideologies like sponges; few people have a self that is a conscious personal creation.
+- **desarrollo:** Chapter 5. Book quote: "You are being attracted to your highest version and the depth of your core can sense it." The external call to evolve requires you to "chisel inward beneath the mental constructs that have been layered through your conditioning"; your internal state must become one with the ever-changing external state. Humans are pattern recognition and learning machines; from birth we absorb ideas like a sponge and adopt ideologies as law, narrowing our minds and limiting what we perceive as important. Society gets to us early because the friends, parents and teachers who condition us were conditioned by theirs. "Few people have a self that is a conscious personal creation through critical thinking, self-generated goals and forging their own path."
+- **ejemplos:** ninguno
+- **cita:** "few people have a self that is a conscious personal creation"
+- **terminos:** highest version, chisel inward, mental constructs, pattern recognition and learning machines
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 13:34–14:23, 2024-01-18
+- **tension:** ninguna
+
+## U-017-159
+- **tipo:** concepto
+- **titulo:** Conceptual survival: having transcended physical survival, we survive and reproduce the idea of who we are — through words and actions.
+- **desarrollo:** At a young age we transcend the need for physical survival; "this is where something more dangerous comes into play: conceptual survival, or surviving the idea of who you are." Visible across religion, politics and niche communities like coffee drinkers. If conditioned into a religious belief system, you feel threatened when challenged; "like a mouse in the binds of a snake" you lash out and try to reproduce the ideas in your head by telling them they're wrong. Republicans and Democrats are in a war of opposing ideas and feel physically threatened. If your sports team loses or someone calls it bad, is your survival at stake? When you gain weight, do you stress about the physical weight or that "the idea of your identity as a healthy individual will die"? "You are surviving and reproducing your identity through words and actions in every situation." "If you did not create yourself you were furthering the spread of mindlessness, evil and destruction without even knowing it."
+- **ejemplos:** Religion, Republicans/Democrats, coffee drinkers, sports team, gaining weight.
+- **cita:** "you are surviving and reproducing your identity through words and actions in every situation"
+- **terminos:** conceptual survival, reproduce the ideas
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-009
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 14:23–15:56, 2024-01-18
+- **tension:** ninguna
+
+## U-017-160
+- **tipo:** metáfora
+- **titulo:** The self as "a house but not a home": remodel with small strategic changes, not by ripping out the foundation.
+- **desarrollo:** Creating an identity that "works less, earns more, enjoys life and has its ideas ripple through the universe to create heaven" will be painful. Book quote: think of your self as an intellectual structure, "a house but not a home." When remodeling a house you don't rip out the foundation and watch it fall; you make small, strategic changes as you become aware of problems that ruin its aesthetic and function. To change who you are, solve problems aligned with goals you create, not those assigned to you — "that's how you live with purpose."
+- **ejemplos:** House remodeling.
+- **cita:** "when you go to remodel a house you don't rip the foundation out and watch it fall"
+- **terminos:** intellectual structure, a house but not a home
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-159
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 15:56, 2024-01-18
+- **tension:** ninguna
+
+## U-017-161
+- **tipo:** principio
+- **titulo:** Start superficial (health, money, relationships) to escape narrow-minded stress; you move from lesser to greater purposes.
+- **desarrollo:** "Start superficial so you can stop living in a narrow-minded state of stress: fix your health, fix your money problems, fix your relationships, and then dive into the depths of your ever-evolving purpose." Most people don't find their purpose because they don't see it "staring them in the face": you must solve the burning problems preventing your mind from expanding beyond surface-level living. "You do not have one purpose; you move from lesser to greater purposes with time, effort and evolution of who you are."
+- **ejemplos:** ninguno
+- **cita:** "you do not have one purpose you move from lesser to Greater purposes"
+- **terminos:** start superficial, burning problems, lesser to greater purposes, surface level living
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-160
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 15:56–16:41, 2024-01-18
+- **tension:** Complements U-017-125 (purpose = solve most prevalent problem).
+
+## U-017-162
+- **tipo:** metáfora
+- **titulo:** Life as World of Warcraft: choose race, class, appearance; learn the mechanics; unlock skills, professions, guilds — and you can restart your game anytime.
+- **desarrollo:** Chapter 6. He spent "a bit too much time" as a teen on the MMORPG World of Warcraft. In the game: you choose race, class, appearance; are launched into a starting zone; taught fundamentals, rules and mechanics; practice, level up, begin as the main character; unlock skills, traits, profession options, dungeons for specific loot, joining a guild, and flight to travel faster. These choices determine opportunities and whether you enjoy playing — you may dislike a support role but love playing a tank and leading. In real life you can restart your game at any point: change who you are and what you pursue and stack resources (skills, network, environment) to achieve that reality.
+- **ejemplos:** World of Warcraft; support vs. tank.
+- **cita:** "in real life we can make the choice to start our game over at any point"
+- **terminos:** main character, starting zone, level up, stack the resources
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 16:41–17:28, 2024-01-18
+- **tension:** ninguna
+
+## U-017-163
+- **tipo:** concepto
+- **titulo:** NPCs: people programmed to simply exist in the game, who never level up — most remain NPCs through social conditioning.
+- **desarrollo:** In video games, NPCs (non-player characters) are programmed to simply exist; zero conscious thought; you can interact with them, but they stay the same for the whole game and never level up. Book quote: "We learn and learn and learn from our parents, teachers and friends who learn from their parents, teachers and friends, who are influenced by their life path, culture and society." Schools, governments and religious institutions rank highest in authority and are often the first sources you consult. To be good in school, society and religion, you must wash your mind with their teachings — "a social fabric that relies solely on itself to make sense; groundless but necessary; a tool, not a master." Through social conditioning most people remain NPCs, playing the game they were programmed to play.
+- **ejemplos:** NPCs in games.
+- **cita:** "groundless but necessary a tool not a master"
+- **terminos:** NPCs, social conditioning, social fabric
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-162
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 17:28–18:13, 2024-01-18
+- **tension:** ninguna
+
+## U-017-164
+- **tipo:** concepto
+- **titulo:** Metagame vs. mind game: macro, society is the metagame; micro, every situation is a mind game of goals, problems and paths.
+- **desarrollo:** "From a macro perspective this metagame is society; from a micro perspective everything is a mind game: every situation has a series of goals, problems and paths in between that every individual perceives according to their identity or perspective." If you mold your mind to see a situation as a game — create your own goal, construct a path, decipher the most advantageous actions — "even mundane situations can become enjoyable." Games are enjoyable because they focus the mind and eliminate distractions that could replicate until boredom or anxiety; games present a descending series of goals, each with a certain challenge.
+- **ejemplos:** ninguno
+- **cita:** "from a macro perspective this metagame is society from a micro perspective everything is a mind game"
+- **terminos:** metagame, mind game, descending series of goals
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-163
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 18:13–19:04, 2024-01-18
+- **tension:** ninguna
+
+## U-017-165
+- **tipo:** principio
+- **titulo:** Skill-challenge balance: when challenge is just above skill and you have absolute confidence, you reach the most enjoyable drug-free state.
+- **desarrollo:** Book quote: "If your skill doesn't match the challenge that the game presents you're in for a bad time. If your skill is high and the challenge low you will get bored. If your skill is low and the challenge is high you will get anxious. When the challenge is just above your skill level but you have absolute confidence in your ability to execute, you tap into what is arguably the most enjoyable point in the human experience that is accessible without drugs, herbs or other external compounds."
+- **ejemplos:** ninguno
+- **cita:** "when the challenge is just above your skill level but you have absolute confidence in your ability to execute you tap into what is arguably the most enjoyable point in The Human Experience"
+- **terminos:** skill, challenge, boredom, anxiety
+- **origen:** adaptada-de:Mihaly Csikszentmihalyi (flow model; not named in this file)
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-059
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 19:04, 2024-01-18
+- **tension:** ninguna
+
+## U-017-166
+- **tipo:** framework
+- **titulo:** Macro game and micro games: vision = goal, life's work = path, micro games = everyday situations to level up; everything else is a distraction.
+- **desarrollo:** To create enjoyment, create macro and micro games. "The macro game of your life is your vision as the goal, life's work as the path, and micro games as the way to level up along the way." Micro games are everyday situations: approach each with an open mind, create your own goal, and try to win the games conducive to your vision. "Everything else is a distraction; do not play those games, and if you do, learn from them fast."
+- **ejemplos:** ninguno
+- **cita:** "the macro game of your life is your vision as the goal life's work as the path and micro games as the way to level up"
+- **terminos:** macro game, micro games, vision, life's work
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-164
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 19:04–19:52, 2024-01-18
+- **tension:** ninguna
+
+## U-017-167
+- **tipo:** metáfora
+- **titulo:** Perspective as a DSLR camera: lenses are ideologies; field of view is field of awareness; zoom in to focus, zoom out to gather truths.
+- **desarrollo:** Chapter 7. Book quote: "You are a perspective vessel in a subjective reality. You have the ability to shift that perspective beyond a narrow identity to view situations from a higher, more holistic perspective that encapsulates the background, foreground and detail of the situation." Perspective is like a DSLR camera: the camera has limits due to how it's programmed; you can attach different lenses to capture a situation in a way that influences how the image is perceived based on your intention. In the real world, lenses are ideologies or perspectives — religious beliefs, diet guidelines, business models, relationship dynamics. Most people have one lens stuck for life and never see the big picture or truth. Your job: be a shape-shifter — study multiple perspectives and collect lenses; this is how you stop reacting so much and take actions best for your future. The field of view is your field of awareness: zooming in on one thing blurs the background — creating focus and eliminating distractions — but staying narrow limits creativity; at times zoom out to gather truths, patterns and creative resources, then zoom back in to apply them.
+- **ejemplos:** DSLR camera and lenses.
+- **cita:** "most people have one lens stuck to their camera for life"
+- **terminos:** perspective vessel, subjective reality, lenses, shape shifter, field of awareness, zoom in, zoom out
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-094
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 19:52–21:28, 2024-01-18
+- **tension:** ninguna
+
+## U-017-168
+- **tipo:** argumento
+- **titulo:** You are a manifestation of past choices; since high-quality decisions come only from improving after low-quality ones, fail hard and often — 100 decisions beat one.
+- **desarrollo:** Book quote: "You at this very moment in time are a manifestation of your past mental, physical, financial and spiritual choices. Who you want to become is a manifestation of the choices you make at this moment and the next until it all comes to an end." To decide better you can't go through life as a mindless robot: pause, gain perspective, perceive from non-reaction, and make the choice that actualizes your ideal future. Chain: if the good life is created by a series of high-quality decisions, and high-quality decisions only stem from improvement after low-quality ones, then "it is in your best interest to fail hard and often with a smile on your face." Given the same time, a person who makes 100 decisions regardless of how they feel makes exponentially more progress than one who makes one decision because "they are a slave to their thoughts."
+- **ejemplos:** 100 decisions vs. 1.
+- **cita:** "it is in your best interest to fail hard and often with a smile on your face"
+- **terminos:** manifestation of choices, non-reaction, high quality decisions
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-167
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 21:28–22:17, 2024-01-18
+- **tension:** ninguna
+
+## U-017-169
+- **tipo:** principio
+- **titulo:** The default state of consciousness is chaos; without purpose, path or priority, thoughts splinter into overwhelm — the way out is the path of mastery.
+- **desarrollo:** "The default state of consciousness is chaos": unless engaged with a thought, task or stimulus, the mind wanders negatively — anxiety or boredom. Allowing randomness increases negativity's potential: "for every good thought there are 100 negative thoughts" without purpose, path or priority aligned with your ideal future to ground attention. Example: fantasizing about making a lot of money without clarity, the mind wanders to bills, work, student loans, splintering until you're drowning in overwhelm. "The path out is the path of mastery: the utter dedication to creating the best life for yourself through self-education, skill acquisition and daily practice."
+- **ejemplos:** Money fantasy → bills, student loans.
+- **cita:** "the default State of Consciousness is chaos"
+- **terminos:** default state of consciousness, purpose path or priority, path of mastery
+- **origen:** propia (resonates with Csikszentmihalyi; not attributed)
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-104
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 22:17–23:07, 2024-01-18
+- **tension:** ninguna
+
+## U-017-170
+- **tipo:** concepto
+- **titulo:** The perception threshold ("runner's high"): sticking through increasing difficulty eventually breaks through into enjoyment; masters embrace difficulty.
+- **desarrollo:** Book quote: "The closed-minded quick fix attitude toward life is the greatest trap of our times and it runs much deeper than the average person believes" — ironically, thinking you're not a victim of close-mindedness is close-mindedness itself. Most people close their minds at the first hint of difficulty; masters embrace difficulty because they've experienced its pattern: "the perception threshold or runner's high" — when you stick through increasing difficulty, you eventually break through to enjoyment, in macro and micro. You didn't need a quick fix to learn to walk, speak or brew your favorite coffee: those came from necessity and interest, though as difficult as any skill. Since you don't treat your ideal future as a necessity or interest, situations become more difficult than they are. "Don't fight with it, flow with it."
+- **ejemplos:** Learning to walk, speak, brew coffee; runner's high.
+- **cita:** "don't fight with it flow with it"
+- **terminos:** perception threshold, runner's high, quick fix attitude
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-073
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 23:07–23:56, 2024-01-18
+- **tension:** ninguna
+
+## U-017-171
+- **tipo:** principio
+- **titulo:** If you feel lost, throw yourself into the unknown and become even more lost — it's impossible to change in the known.
+- **desarrollo:** Chapter 8, The Formula. Most people stop learning after graduation — dangerous: trapped in repetitive tasks, life stays the same, you get bored. The cure: "learn, build and discover your way into an interesting life." "It is impossible to change in the known": same routines, job, physical/mental/digital environments, identity, perspective. If lost, the solution is counterintuitive: throw yourself into the unknown and become even more lost — move locations, read new books, acquire new skills to change careers or build your own business; force yourself into a place where you can gain clarity and interest, then discover your way out. "If you aren't interested in anything it's because you aren't in the unknown."
+- **ejemplos:** Moving, new books, new skills, business.
+- **cita:** "it is impossible to change in the known"
+- **terminos:** the unknown, the known
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-146
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 23:56–24:45, 2024-01-18
+- **tension:** ninguna
+
+## U-017-172
+- **tipo:** framework
+- **titulo:** The Formula: anti-vision and vision create the frame; purpose, path and priority protect the mind from distractions.
+- **desarrollo:** To do this well you need: an anti-vision and vision to create the frame of your perspective; a purpose to provide a lens to perceive situations and identify problems; a path to bring clarity to your education, skill acquisition and building; and a priority to focus on every day and ground your attention. "All of these create a mind that is protected from distractions and expands with each level you reach."
+- **ejemplos:** ninguno
+- **cita:** "all of these create a mind that is protected from distractions and expands with each level you reach"
+- **terminos:** anti-vision, vision, purpose, path, priority
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-171
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 23:56–24:45, 2024-01-18
+- **tension:** ninguna
+
+## U-017-173
+- **tipo:** método
+- **titulo:** Anti-vision first: become brutally aware of what you don't want and where you'll end up; mistakes are your compass.
+- **desarrollo:** Book quote: "First become brutally aware of two things: (1) what you don't want, (2) where you will end up if you keep doing what you've been doing." Observe the masses and see where mindless action leads: "it's not pretty." It's easier to know what you don't want (from reflection and experience) than what you want; understanding what you don't want provides insight into what you do want. It's iterative: what you think you want can change in a year, month or week, but you'll never realize that without making mistakes — "mistakes are your compass toward a better life."
+- **ejemplos:** ninguno
+- **cita:** "mistakes are your compass toward a better life"
+- **terminos:** anti-vision, brutally aware
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-172
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 24:45–25:34, 2024-01-18
+- **tension:** ninguna
+
+## U-017-174
+- **tipo:** ejercicio-del-autor
+- **titulo:** Anti-vision and vision question pairs: day, significant other, look/feel/act, money, environment.
+- **desarrollo:** Questions: What does an unfulfilling day look like to you? What does your ideal day look like? What kind of person would you avoid as a significant other? What is your ideal significant other? How do you not want to look, feel and act? How do you want to look, feel and act? How much money is too little to sustain your lifestyle? Why is it too little? What won't you be able to do with that money? What environment would you hate living in? Why? What is your ideal environment? Get specific; write them in a journal or notebook and add to them as inspiration strikes.
+- **ejemplos:** ninguno
+- **cita:** "how much money is too little to sustain your lifestyle why is it too little"
+- **terminos:** anti-vision, vision
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-173
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 25:34, 2024-01-18
+- **tension:** ninguna
+
+## U-017-175
+- **tipo:** definición
+- **titulo:** Purpose: the most pressing problem in your life right now; life's purpose evolves from superficial to metaphysical and you cannot skip steps.
+- **desarrollo:** "Your purpose is the most pressing problem in your life right now, the one you've been putting off solving." Book quote: "Your life's purpose is the big problem you want to solve in the world, but most people don't have the personal, professional or social development to pursue that. Purpose evolves from superficial to metaphysical and you cannot skip steps." Before solving big problems in the world, solve the big problems in your life: health, wealth and relationships are where burning problems exist. Fixing them opens room for curiosity, creativity and consciousness because your mind isn't plagued with the stress of survival.
+- **ejemplos:** ninguno
+- **cita:** "purpose evolves from superficial to metaphysical and you cannot skip steps"
+- **terminos:** purpose, life's purpose, superficial to metaphysical, burning problems
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-161
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 25:34–26:22, 2024-01-18
+- **tension:** ninguna
+
+## U-017-176
+- **tipo:** definición
+- **titulo:** Path: an evolving hierarchy of goals aligned with purpose — the never-ending path of mastery; priority: a daily dedicated block of learning or building.
+- **desarrollo:** "Your path is a hierarchy of goals that evolves with time in alignment with your evolving purpose." There are skills, education and knowledge you must acquire to reach a new level of mind; "this is a never-ending path, the path of mastery." Deconstruct each domain — health, wealth, relationships — into a path to uncover the small priority actions to create a better life. You don't have to focus on all at once, but you'll need to improve them all eventually: "wealth and relationships can only improve as much as your health and vice versa." "Your priority will involve learning or building for a dedicated time block every day" (developed in the project chapter).
+- **ejemplos:** ninguno
+- **cita:** "wealth and relationships can only improve as much as your health and vice versa"
+- **terminos:** path, priority, hierarchy of goals, path of mastery, level of mind
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-175
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 26:22–27:10, 2024-01-18
+- **tension:** ninguna
+
+## U-017-177
+- **tipo:** framework
+- **titulo:** Four paths to pursue curiosity: appreciation, understanding, mastery, monetization.
+- **desarrollo:** Let curiosity be your guide "into the icebergs of opportunity that life presents"; "curiosity is the fuel along your path." Pushing into the unknown, novel information grabs your attention — "your best friend or worst enemy." Four paths: (1) Appreciation — appreciate ideas, people and opportunities; no need to judge or project; appreciate them for what they are. (2) Understanding — seek to understand deeper by immersing in books, content and information relevant to that area. (3) Mastery — once you understand something, choose to master it; when you feel the pull to go deeper, don't suppress it. (4) Monetization — going all-in on a select few areas, pair those skills and interests with business principles to create a living. Summary formula: dive into the unknown by pursuing your vision-aligned hierarchy of goals; educate yourself to gain clarity; execute the smallest priority task; keep an open mind to discover new potentials.
+- **ejemplos:** ninguno
+- **cita:** "curiosity is the fuel along your path"
+- **terminos:** icebergs of opportunity, appreciation, understanding, mastery, monetization
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-176
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 27:10–27:58, 2024-01-18
+- **tension:** ninguna
+
+## U-017-178
+- **tipo:** argumento
+- **titulo:** The Shift: we're in a "second Golden Age" where formal education, banking and government are being challenged.
+- **desarrollo:** Chapter 9. Book quote: "We are living through what seems to be a second Golden Age." Formal education is challenged by independent educators, journalists, experts and artists who sought to remove the cap from their salary and physical reach; the banking system by decentralized currency programmers; the government by remote work and the desire for multi-nation citizenship to pay less taxes. Formal education has its place but people are losing trust in its ability to secure their future: it's common to invest 4 to 12 years and tens of thousands of dollars after 12 years of public schooling and be left with "close to nothing but a piece of paper." For those wanting fulfilling work and an open schedule, a job won't give it.
+- **ejemplos:** Independent educators; decentralized currency; remote work.
+- **cita:** "we are living through what seems to be a second Golden Age"
+- **terminos:** second Golden Age, remove the cap
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 27:58–29:30, 2024-01-18
+- **tension:** "Second Golden Age" vs. "digital dark ages" (U-017-070) — two framings of the same era (dark ages with a renaissance on the horizon).
+
+## U-017-179
+- **tipo:** historia
+- **titulo:** The author's education story: feeling alone as a child, five years of university, web development self-taught in under a month, high-paying tech job on first interview.
+- **desarrollo:** As a child he felt alone, unable to relate to peers who obeyed parents, teachers and conformed to friends without questioning; they went to school, got a job "and from that point forward you never heard anything interesting from them again." He realized a job wouldn't give fulfilling work after: spending 5 years at university with 2 years left to complete his degree; taking out $2,000 in loans even with a full-ride scholarship; knowing he wanted his own path ("getting a job was the bane of my existence"); discovering his love for web development after an introductory course taken out of curiosity; learning the entire course curriculum through self-education in less than a month; using his self-study to get a high-paying tech job after his first interview, after multiple business failures and accepting he needed a job to survive. Conclusions: "If I could learn more useful skills in 6 months of self-education than I could in 5 years of formal education, why hadn't I done that earlier?" and if self-study got him a higher-paying job than most, which would later transfer into a hyper-profitable business, "why did I waste so much time in college?"
+- **ejemplos:** His university and web development path.
+- **cita:** "if I could learn more useful skills in 6 months of self-education that I could in 5 years of formal education why hadn't I done that earlier"
+- **terminos:** self-education
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-017-178
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 28:48–30:15, 2024-01-18
+- **tension:** ninguna
+
+## U-017-180
+- **tipo:** término-acuñado
+- **titulo:** Deep knowledge: "a zip file for the mind" — information that gradually raises the student's level of mind and solves a sequence of problems toward meaningful goals.
+- **desarrollo:** Book quote: "Curiosity is the path to doing the things you want to do; curiosity is what makes you you, and that is a necessity heading into the future of automated work. If you learn the same thing as everyone else to be trained into the select few jobs that are left, you can be replaced by almost anyone. The solution is deep knowledge." He thinks of deep knowledge "as a zip file for the mind." Definition: "information that gradually raises the level of mind of the student; it helps them solve a sequence of problems toward a meaningful hierarchy of goals." You can create your own career through the acquisition and distribution of deep knowledge "because the future demands that we earn with our mind, not our time." Solve your own problems from superficial to metaphysical to increase the value you offer.
+- **ejemplos:** ninguno
+- **cita:** "I like to think of deep knowledge as a zip file for the mind"
+- **terminos:** deep knowledge, zip file for the mind, level of mind, earn with our mind not our time
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-175
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 30:15–31:00, 2024-01-18
+- **tension:** ninguna
+
+## U-017-181
+- **tipo:** opinión
+- **titulo:** Prediction: the future of schooling is online with creators as teachers — decentralized schools students move through by interest.
+- **desarrollo:** With formal education "nearing its end as all things do," he is convinced the future of schooling will be online with creators as teachers; each student joins the school that best aligns with their interests, values and preferred learning method. One school system wouldn't dominate childhood and early adulthood; students would "evolve from creator to creator according to the deep knowledge they provide in their courses, mentorships and content as decentralized schools."
+- **ejemplos:** ninguno
+- **cita:** "students would evolve from Creator to Creator according to the Deep knowledge they provide"
+- **terminos:** decentralized schools, creators as teachers
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-017-180
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 30:15–31:00, 2024-01-18
+- **tension:** ninguna
+
+## U-017-182
+- **tipo:** metáfora
+- **titulo:** Entrepreneurship is modern survival and the internet is your hunting ground; dopamine is your compass.
+- **desarrollo:** "The internet is one big community." Your ancestors were entrepreneurs within their communities; everyone fulfilled the role they were best suited for. "Entrepreneurship is modern survival and the internet is your hunting ground." You hunt for deep knowledge by pursuing curiosity; "dopamine is your compass," and you'll need to break free of your "drip-fed dopamine sedation of quick pleasures" for this to make sense.
+- **ejemplos:** Ancestral community roles.
+- **cita:** "entrepreneurship is Modern Survival and the internet is your hunting ground"
+- **terminos:** hunting ground, dopamine is your compass, drip-fed dopamine sedation
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-180
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 31:00–31:50, 2024-01-18
+- **tension:** ninguna
+
+## U-017-183
+- **tipo:** argumento
+- **titulo:** Work brings order to the mind and contrast to rest — people with endless free time are arguably the most miserable.
+- **desarrollo:** Chapter 10, The New Rich. Book quote: "Nobody said they wanted to work 40 plus hours a week, numb their mind with mindless entertainment and put off their dreams just to wake up one day wondering where the time went — yet that's what everyone does." The word "work" triggers a cascade of stressful thoughts about tomorrow forever. People don't realize work is a necessary part of life; "it brings contrast to rest." Everyone wants to spend most of life "sipping coconuts on the beach," but with free time they're "arguably the most miserable": they don't realize "work brings order to the mind."
+- **ejemplos:** Sipping coconuts on the beach.
+- **cita:** "they don't realize that work brings order to the mind"
+- **terminos:** the new rich, work brings order to the mind
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-141
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 31:50–32:37, 2024-01-18
+- **tension:** ninguna
+
+## U-017-184
+- **tipo:** concepto
+- **titulo:** Life's work and intentional lifestyle design: create space for your life's work, or the time will be taken from you.
+- **desarrollo:** "The concept of a life's work doesn't cross the minds of the mindless masses." Your life's work is an inherent part of your vision: how you spread the impact of the value you develop over time, and with the internet "it has never been so feasible." You must create space for it through intentional lifestyle design: "if you don't take the time it will be taken from you." In a world encouraging 80-hour weeks, high-pressure environments and little rest and recovery, "you must fight back." He repeats (from 2023) that 4-hour workdays, singular focus and meaningful work are becoming the norm on small internet pockets; ancient Romans/Greeks, Steve Jobs, Charles Darwin and visionaries attribute success to low work times with restful activities like long walks. Most of the world's most impactful creatives worked jaw-droppingly little "because they understood that focus is finite and creativity demands a lack of narrow focus on work." Rest opens focus so the mind registers new ideas and solutions.
+- **ejemplos:** Romans, Greeks, Jobs, Darwin.
+- **cita:** "if you don't take the time it will be taken from you"
+- **terminos:** life's work, intentional lifestyle design, focus is finite
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-063
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 32:37–33:27, 2024-01-18
+- **tension:** ninguna
+
+## U-017-185
+- **tipo:** proceso
+- **titulo:** Lifestyle design process: audit every minute and how you feel, restructure, build a week-long system, iterate.
+- **desarrollo:** Steps: (1) pull out a notebook; (2) write down exactly what you're doing and why at every minute of the day; (3) write how you feel in the morning, afternoon and night; (4) prioritize, remove and restructure your day so you feel better and have more time — "this requires honesty with yourself"; (5) create a week-long system "to reverse entropy in your daily routine": plan morning routine, focus work routine, other tasks and meetings, and nightly routine; (6) over the next week, return to the notebook and iterate on what doesn't work, to ensure maximum mental output, creativity and life enjoyment.
+- **ejemplos:** ninguno
+- **cita:** "create a week-long system to reverse entropy in your daily routine"
+- **terminos:** lifestyle design, week-long system, reverse entropy
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-184
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 33:27–34:14, 2024-01-18
+- **tension:** ninguna
+
+## U-017-186
+- **tipo:** framework
+- **titulo:** Fill, empty, use your mind (book version): education and novel resources → write things down → a vessel to focus efforts.
+- **desarrollo:** Three things to incorporate into daily activities (build your own daily system with time and practice): (1) Fill your mind — you need education, ideas and novel resources to apply toward goals; "this leads to intrinsic motivation." (2) Empty your mind — don't be trapped "in the chaotic bubble of thoughts and useful ideas; that's exactly how you make zero progress; write things down." (3) Use your mind — "you need a vessel to focus your efforts with your ideas and the clarity to execute; build your future." Filling gives "creative firepower," emptying gives "space for creative emergence," then focus that creativity into work. Note: unlike the 2023 version (U-017-069), the book summary does not assign them to afternoon/evening/morning.
+- **ejemplos:** ninguno
+- **cita:** "you don't want to be trapped in the chaotic bubble of thoughts and useful ideas that's exactly how you make zero progress write things down"
+- **terminos:** fill your mind, empty your mind, use your mind, creative firepower, creative emergence, vessel
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-069
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 34:14–35:00, 2024-01-18
+- **tension:** Variant of the time-assigned Fill/Empty/Use framework in U-017-069.
+
+## U-017-187
+- **tipo:** argumento
+- **titulo:** Four hours of focused work beats eight distracted; start with one hour a day if you have a job or family; 4 hours as a deadline frames a game.
+- **desarrollo:** Book quote: "Four hours of focused work is better than 8 hours of distracted work." He retells the Tim Ferriss "4-Hour Work Week" → "4-hour workday" story: he perceived anything over 4 hours as a problem and didn't label the lifestyle impossible, forcing his mind to find creative solutions; he noticed business opportunities allowing 2 hours a day while others worked 8–12 hours doing the same thing. For most, the 4-hour workday isn't possible right now "not because you'll have to work longer at the start but because you'll have to work shorter": with a job, spouse or family, start small — 1 hour a day — and as results come, increase to 4 hours. Why 4: personal experience, scientific studies and anecdotes from respected creatives say 3–5 hours is "a sweet spot for mental energy expenditure." "4 hours as a deadline creates the frame of a game that you can play to win": if you play the character of someone who only works 4 hours and internalize that trait, you feel pressure to finish within that time. Even better, chunking the session into smaller time blocks creates "a powerful environment to narrow your focus into a productive state of good stress." "If you can spend eight hours building someone else's dreams you can spend 1 hour building your own."
+- **ejemplos:** Tim Ferriss title; 2 hours vs. 8–12 hours.
+- **cita:** "if you can spend eight hours building someone else's dreams you can spend 1 hour building your own"
+- **terminos:** 4-hour workday, play the character, good stress, time blocks
+- **origen:** propia (with reference to Tim Ferriss)
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-001, U-017-018, U-017-019
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 35:00–36:28, 2024-01-18
+- **tension:** Here he says he heard of the book "as a kid"; in the 2023 video, "when I was in college." Minor inconsistency in the origin story.
+
+## U-017-188
+- **tipo:** término-acuñado
+- **titulo:** Specialized generalism: become obsessed with one crevice of reality, stack skills to solve burning problems there, and let the skill tree's roots spread into connected domains.
+- **desarrollo:** Chapter 11, The Skill Stack. Book quote: "The state of work is changing. Specialists are out but so are generalists. We live in a time of specialized generalism. You must pursue your curiosity, become obsessed with one crevice of reality, stack skills to solve burning problems within that domain and let the base of your skill tree spread its roots into other connected domains." Becoming a specialist is a great way to get replaced in this "digital renaissance"; pigeonholing into one skill isn't the path to independent success. As a specialist you can work for someone for a pretty paycheck, but "they are the reason you can get paid": you can't create independent income because you haven't learned the skills that let you get paid. Big businesses have marketing, sales, operations and other departments to acquire customers and deliver products; as one person, there are no limits (aside from pleasurable distractions) to what you can learn: individuals can learn design, marketing, writing and video to run a multi-million-dollar business selling the solution to a problem they've solved in their lives.
+- **ejemplos:** Company departments vs. one-person skills.
+- **cita:** "specialists are out but so are generalists we live in a time of specialized generalism"
+- **terminos:** specialized generalism, crevice of reality, skill tree, digital renaissance
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-052
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 36:28–37:16, 2024-01-18
+- **tension:** ninguna
+
+## U-017-189
+- **tipo:** dato
+- **titulo:** With deep knowledge accessible online, you can become top 10% in any skill with 6 to 12 months of focused effort.
+- **desarrollo:** "Thanks to deep knowledge being accessible to those who want to find it on the internet you can become top 10% in any skill with 6 to 12 months of focused effort." Combining the skills discussed (message, medium, results-oriented skills) compounds "your opportunity surface area."
+- **ejemplos:** ninguno
+- **cita:** "you can become top 10% in any skill with 6 to 12 months of focused effort"
+- **terminos:** opportunity surface area
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-188
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 37:16, 2024-01-18
+- **tension:** ninguna
+
+## U-017-190
+- **tipo:** concepto
+- **titulo:** The message: success requires value exchange; a valuable message is relatable, understandable and actionable, crafted for the audience's level of mind.
+- **desarrollo:** "It is impossible to achieve your version of success without value exchange." You must become "a vessel of valuable information" and exchange it for your desired value in relationships, business and life — if you want money, exchange your form of value with someone who has money; "it isn't just going to appear out of thin air." A valuable message communicates in a way that's relatable, understandable and actionable; it requires understanding human nature and psychology — best learned through marketing and sales, which contain practical frameworks for psychology with real-world practice. "Value is determined by perception and perception is influenced by an individual's worldview"; the message must be crafted for a group's or individual's level of mind, identity and conditioning. Certain words capture, hold and deliver value on attention; get people to focus on you or their focus gravitates to something more distracting or valuable.
+- **ejemplos:** ninguno
+- **cita:** "value is determined by perception and perception is influenced by an individual's worldview"
+- **terminos:** value exchange, vessel of valuable information, the message, level of mind
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-188
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 37:16–38:54, 2024-01-18
+- **tension:** ninguna
+
+## U-017-191
+- **tipo:** framework
+- **titulo:** "Your message must mimic the universe": stories, highs and lows, curiosity loop, agitate a problem, relate, imply a goal, provide a path — value is behavior change.
+- **desarrollo:** Components in order as stated: tell stories; lead people through highs and lows; spark emotions like your favorite movies; open a curiosity loop to capture attention; agitate a problem that then shapes their perspective; relate with them through personal experience; imply a goal with a desirable end result; provide a path for them to follow to achieve that result. Conclusion: "value is behavior change."
+- **ejemplos:** Favorite movies.
+- **cita:** "your message must mimic the universe ... value is behavior change"
+- **terminos:** mimic the universe, curiosity loop, agitate a problem, imply a goal, provide a path, value is behavior change
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-190, U-017-156
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 38:54, 2024-01-18
+- **tension:** ninguna
+
+## U-017-192
+- **tipo:** metáfora
+- **titulo:** The medium: content in consciousness mirrors content in the collective consciousness — front end and back end of mind and internet.
+- **desarrollo:** The medium for spreading your message is writing or speaking. "There is content in consciousness and content in the collective consciousness." The front end of your mind is content in your consciousness; the front end of the internet is content in the collective consciousness. The back end of your mind is the unconscious programming that shapes who you are; the back end of the internet is the programmed operating system that houses content. "Putting content into virtual reality is how you contribute to humanity through business."
+- **ejemplos:** ninguno
+- **cita:** "putting content into virtual reality is how you contribute to humanity through business"
+- **terminos:** content in consciousness, collective consciousness, front end, back end
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-017-190
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 38:54–39:43, 2024-01-18
+- **tension:** ninguna
+
+## U-017-193
+- **tipo:** principio
+- **titulo:** Writing, speaking, marketing and sales are the foundational skills that determine the results of any other skill; everything online starts with writing.
+- **desarrollo:** Start by learning to write, harness psychology through marketing and sales, and write a valuable message for the world to discover online. Consistent writing helps your speaking; writing is accessible to anyone. Everything on the internet starts with writing: emails, posts, advertisements, video scripts, captions, DMs. Human psychology applies to all forms of writing wherever you write. "Writing, speaking, marketing and sales are the foundational skills that will determine the results of any other skill you learn."
+- **ejemplos:** Emails, posts, ads, scripts, captions, DMs.
+- **cita:** "writing speaking marketing and sales are the foundational skills that will determine the results of any other skill you learn"
+- **terminos:** foundational skills, evergreen skills
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-190
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 39:43–40:33, 2024-01-18
+- **tension:** ninguna
+
+## U-017-194
+- **tipo:** concepto
+- **titulo:** Results-oriented skills: the changing, currently digital vessels for distributing your evergreen message and medium.
+- **desarrollo:** Book quote: "Results-oriented skills are how you apply your message and medium of choice; they are the vessel for distributing your value. The message and the medium are evergreen while results-oriented skills change with the landscape; you must keep your finger on the pulse of advancements and your interest so that you don't fade out." Currently they're digital (we don't live where the printing press was just invented and profitable skills revolved around it). Examples: email marketing, graphic design, videography, photography, editing, animation, artificial intelligence, social media. Useful for your own business and others' — all brands, creators and students have problems to solve. Stacking results-oriented with evergreen skills lets you practice on your own business or create a product/service to grow someone else's.
+- **ejemplos:** Email marketing, graphic design, video, photo, editing, animation, AI, social media; printing press analogy.
+- **cita:** "the message and the medium are evergreen while results oriented skills change with the landscape"
+- **terminos:** results oriented skills, evergreen skills, message, medium
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-193
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 40:33–41:19, 2024-01-18
+- **tension:** ninguna
+
+## U-017-195
+- **tipo:** argumento
+- **titulo:** Investing a degree's worth of time in a 50,000-reader email list could earn the average US salary in a month.
+- **desarrollo:** If you invest the time it would take to get a degree in building an email list of 50,000 like-minded readers — "twice the capacity of what a professional football stadium can hold" — then craft a persuasive message, write a few emails and promote a product you created as a solution to your own problems, "I would not be surprised if you made the average United States salary in a month minimum."
+- **ejemplos:** Football stadium comparison.
+- **cita:** "I would not be surprised if you made the average United States salary in a month minimum"
+- **terminos:** email list
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-194
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 41:19, 2024-01-18
+- **tension:** ninguna
+
+## U-017-196
+- **tipo:** argumento
+- **titulo:** The source of most people's lack of fulfillment: they've never learned or built something they chose to learn or build.
+- **desarrollo:** Chapter 12, The Project. A pattern in his life: he always carved out time to build something of his own; schoolwork, client work and assigned job projects were necessary but didn't bring fulfillment. "The source of most people's lack of fulfillment is that they've never learned or built something that they chose to learn or build." The inputs and outputs of one's mind were enslaved since birth by the conventional path ("learn this, build that") to the point that people hate the only two things — learning and building — that would free them. "If you don't make a choice, society chooses for you." A perpetual stream of evolving personal projects worked on first thing brought novelty to his days; discoveries, insight and progress across domains were "the source of my zest for life."
+- **ejemplos:** His personal projects vs. school/client work.
+- **cita:** "the source of most people's lack of fulfillment is that they've never learned or built something that they chose to learn or build"
+- **terminos:** personal projects, zest for life
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-121
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 41:19–42:51, 2024-01-18
+- **tension:** ninguna
+
+## U-017-197
+- **tipo:** definición
+- **titulo:** A project is a tangible hierarchy of goals that orders the mind; you are the infinite project, a project that houses projects; a project throws an anchor into the unknown.
+- **desarrollo:** "A project is a tangible hierarchy of goals that orders the mind, and you are the infinite project. You are your life's work. You are a project that houses projects, each with a purpose, path and priority that, when actualized, allows you to evolve." "A project is how you throw an anchor in the unknown and pull yourself through a difficult current of learning experiences to complete the project."
+- **ejemplos:** Anchor in a current.
+- **cita:** "a project is how you throw an anchor in the unknown and pull yourself through a difficult current of learning experiences"
+- **terminos:** project, infinite project, tangible hierarchy of goals, anchor in the unknown
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-196, U-017-121
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 42:02–42:51, 2024-01-18
+- **tension:** "Meta project" (2023) vs. "infinite project" (2024) — same idea, different label.
+
+## U-017-198
+- **tipo:** principio
+- **titulo:** The source of learning is struggle, not memorization; learning turns knowledge into understanding, and lows offer stackable lessons only if applied.
+- **desarrollo:** Book quote: "The source of learning is struggle, not memorization. Learning is the process of turning knowledge into understanding, and the lowest points of your life are those where a stackable lesson presents itself, but only if you apply it in reality." Projects frame what you learn: you pursue a goal, hit a roadblock, and frame your mind from the accompanying problem; only then can you learn something useful that can be instantly applied.
+- **ejemplos:** ninguno
+- **cita:** "the source of learning is struggle not memorization"
+- **terminos:** struggle, stackable lesson, knowledge into understanding
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-146
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 42:51, 2024-01-18
+- **tension:** ninguna
+
+## U-017-199
+- **tipo:** proceso
+- **titulo:** Project-based learning loop: create project → create path/system → build with what you know → teach → identify knowledge gaps → study deep knowledge → repeat forever.
+- **desarrollo:** "To learn information with efficiency, don't start learning first." Steps: (1) create a project for the goal you want to achieve; (2) create a path or system to achieve that goal; (3) start building the project in the real world with what you know; (4) teach people about what you are building (friends, family or internet peers); (5) identify knowledge gaps when you can't build further or articulate your thoughts; (6) study deep knowledge to fill those gaps; (7) return to building and teaching; repeat forever. This process uses novelty, pattern recognition and self-experimentation to maximize the flow of information you experience. Book quote: "Most people learn and learn and learn just to start over when it comes time to build because they realize that everything they've learned has no direct use in the project they began; they don't have a goal-specific lens to interpret their learnings from."
+- **ejemplos:** ninguno
+- **cita:** "to learn information with efficiency don't start learning first create a project"
+- **terminos:** knowledge gaps, goal specific lens, deep knowledge, novelty, pattern recognition
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-198, U-017-180
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 42:51–43:39, 2024-01-18
+- **tension:** ninguna
+
+## U-017-200
+- **tipo:** método
+- **titulo:** Self-experimentation: research a plethora of solutions, test them all without latching on, note principles and patterns, then create your own solution.
+- **desarrollo:** "The only way to solve your problems for good is through self-experimentation" — the opposite of blind trust in a theory, guru, belief system, ideology, how-to advice or dogma; the only way to discover what works for "your infinitely unique needs." For any problem there are dozens or hundreds of options; limiting yourself to the one or two you know may not solve it. Steps: research a plethora of solutions; test them all without latching onto one; note principles, patterns and truths between them; note what gets you results but may not get others results; begin to create your own solution — "this is where true value is cultivated," usable for profit or simply a better life. Don't be discouraged if important problems aren't solved instantly.
+- **ejemplos:** Relationships: retreat, therapist, advice book, working directly with partner. Money: budget, side business, improve skill set for higher-paying job. Health: "fat diets" like carnivore or keto, study nutrition principles, immerse in all sources "until you understand the full puzzle."
+- **cita:** "self-experimentation is the opposite of blind trust in a theory Guru belief system ideology how-to advice or Dogma"
+- **terminos:** self-experimentation, true value
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-142
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 43:39–45:15, 2024-01-18
+- **tension:** ninguna
+
+## U-017-201
+- **tipo:** principio
+- **titulo:** "Everyone is an entrepreneur, some just choose to get paid": self-improvement solves your problems; business solves others' — solve your own problems and sell the solution.
+- **desarrollo:** Chapter 13, The Vessel. Book quote: "Everyone is an entrepreneur, some just choose to get paid for the problems they solve in their personal life. All profitable products start as a project whether the intention to sell is there or not." To generate a creative independent income "to free yourself from society's chains" you need to sell a valuable product — and a personal project solving a burning problem all beings encounter is the best starting point. "Self-improvement is about solving problems in your life; business is about solving problems in other people's lives." Stop overcomplicating making money and "trying to solve creative problems that don't exist"; acquire skills to solve your own problems — "an automatic filter for value" — then turn the solution into a product. Four eternal markets: health, wealth, relationships, happiness — where all burning problems and meaningful goals exist. "Solve your own problems and sell the solution."
+- **ejemplos:** ninguno
+- **cita:** "self-improvement is about solving problems in your life business is about solving problems in other people's lives"
+- **terminos:** everyone is an entrepreneur, eternal markets, automatic filter for value, solve your own problems and sell the solution
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-197
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 44:27–46:02, 2024-01-18
+- **tension:** ninguna
+
+## U-017-202
+- **tipo:** argumento
+- **titulo:** Start as one person: if you can't turn your interests into income, you can't run a business needing 10x the resources — and "niche down" advice leads to work you hate.
+- **desarrollo:** Book quote: "How to start a billion-dollar company? Instead, start as one person. If you can't turn your interests into income, you don't have the skill to start a business that requires 10 times the resources." You as an individual can attract an audience and put a valuable product in front of them. Most people complicate modern business: they say "you need to niche down and target an audience that you probably don't care to work with" — "modern business advice is a surefire way to end up in another line of work that you hate."
+- **ejemplos:** ninguno
+- **cita:** "if you can't turn your interests into income you don't have the skill to start a business that requires 10 times the resources"
+- **terminos:** start as one person
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-201
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 46:02, 2024-01-18
+- **tension:** ninguna
+
+## U-017-203
+- **tipo:** framework
+- **titulo:** "The most profitable niche is you": purpose = brand, path = product, priorities = content.
+- **desarrollo:** "The most profitable niche is you. Your purpose is your brand, your path is your product, your priorities are your content. Your content contains the valuable message that attracts people to your brand; when you occasionally put your product in front of them, that's how you start to generate an independent income." What's more niche than your combination of skills and interests learned on the path toward your goals? Everyone has the same big goals — more money, more sex, more energy, ending existential angst — but the path differs: two people seeking money will research and experiment differently (e-commerce or digital products vs. budgeting and a brick-and-mortar business). By pursuing your goals, solving your problems via self-experimentation, turning personal projects into products and spreading a valuable message to attract people with a similar identity, "I see it as very difficult to not make as much money as you please with time and iteration." "If you are the niche, saturation ceases to exist": everyone will have a unique product serving people at their level of mind and raising collective consciousness.
+- **ejemplos:** E-commerce/digital products vs. budgeting/brick-and-mortar.
+- **cita:** "if you are the niche saturation ceases to exist"
+- **terminos:** most profitable niche is you, purpose is your brand, path is your product, priorities are your content, saturation
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-172, U-017-201
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 46:02–47:32, 2024-01-18
+- **tension:** Consistent with U-017-047 ("be you, which is the most profitable niche").
+
+## U-017-204
+- **tipo:** argumento
+- **titulo:** Turning yourself into a business is how you reproduce on a spiritual level: collective evolution depends on individuals.
+- **desarrollo:** Book quote: "The fate of humanity is not guaranteed. The evolution of the collective is only as powerful as the individuals that comprise it. It is for that reason that our evolution depends on the individuals you and I create through the reproduction of information born from conscious personal progress." "Turning yourself into a business is how you reproduce on a spiritual level"; it shapes the development of selves across the globe and contributes to humanity. While most people spread information that "holistically leads to evil and destruction," you can solve problems from superficial to metaphysical and become a massive value creator.
+- **ejemplos:** ninguno
+- **cita:** "turning yourself into a business is how you reproduce on a spiritual level"
+- **terminos:** reproduce on a spiritual level, collective, value creator
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-017-203
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 47:32–48:23, 2024-01-18
+- **tension:** ninguna
+
+## U-017-205
+- **tipo:** proceso
+- **titulo:** The whole path restated: understand the universe's patterns, experience the full human range, align with your ideal self, pursue a hierarchy of goals, build holistic projects, make the immaterial material.
+- **desarrollo:** Closing reiteration: understand and experience the patterns of the universe; experience the full range of the human experience; align your decisions with the perspective of your ideal self; pursue a hierarchy of goals and solve the true problems in your life from an elevated level of mind; use your creative ability to build holistic projects that contribute to humanity; hunt for ideas and build with your own two hands; "make the immaterial material, turn dirt into gold"; become "a fountainhead of value in a world that is desperate for depth"; at the root, "leave your dent in the world through the art of focus."
+- **ejemplos:** ninguno
+- **cita:** "make the immaterial material turn dirt into gold become a fountain head of value in a world that is desperate for depth"
+- **terminos:** ideal self, elevated level of mind, holistic projects, fountainhead of value
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-140
+- **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 48:23, 2024-01-18
+- **tension:** ninguna
