@@ -1306,3 +1306,1114 @@
 - **fuente:** I Had To Learn These High-Income Skills (If I Wanted To Make Money).md, 24:17, 2023-08-16
 - **tension:** ninguna
 
+# Fuente: The Most Important High-Income Skill To Learn (In The Next 10 Years).md (2023-11-05)
+
+## U-013-101
+- **tipo:** concepto
+- **titulo:** The greatest skill of the 21st century is persuasive communication, the base layer beneath every popular skill
+- **desarrollo:** "The greatest skill of the 21st century is not email marketing, graphic design, web design, artificial intelligence, personal branding, videography, photography, video or photo editing — it is the base layer of all of the skills I just mentioned": persuasive communication. Nobody tells you to learn that specific skill; they say copywriting, marketing or sales, "all somewhat synonymous." He wants you to understand the framework/structure of how all of those work and how they impact human psychology. Reason: we learn skills to give value and therefore acquire value; that exchange between two individuals means you have to understand the other individual.
+- **ejemplos:** ninguno
+- **cita:** "the greatest skill of the 21st century is persuasive communication"
+- **terminos:** persuasive communication, base layer
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 0:00-0:53, 2023-11-05
+- **tension:** In the 2022 video the "greatest skill" was writing; here it is persuasive communication as the layer beneath writing. He also later says such "greatest skill" titles are meant metaphorically (U-013-117).
+
+## U-013-102
+- **tipo:** argumento
+- **titulo:** If value is perception and others can't perceive your value, you won't receive value in return — bar, DM, business alike
+- **desarrollo:** "If value is perception and other people can't perceive what you have to offer as valuable, then you're not going to get the value that you want to receive," which in most cases is money. Whether in a relationship or business, approaching someone at a bar or in the DMs, "it's all the same thing": you have cultivated value to offer and need to persuade the other person to see it so they give you what you want in return. For online writing, creators and one-person businesses, persuasive communication is in everything: writing must be persuasive to be shared — sharing is the value you want from readers in exchange. Landing pages, DMs, a text to a friend, a tweet, an Instagram post, a YouTube video — everything "has to follow a general persuasive structure."
+- **ejemplos:** Approaching someone at a bar vs. in DMs; sharing content as value exchange.
+- **cita:** "if value is perception and other people can't perceive what you have to offer as valuable then you're not going to get the value that you want to receive"
+- **terminos:** value is perception, general persuasive structure
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-101
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 0:53-2:24, 2023-11-05
+- **tension:** ninguna
+
+## U-013-103
+- **tipo:** principio
+- **titulo:** People remember how you make them feel; humans are emotional, and 99% aren't free from their ego
+- **desarrollo:** "People don't remember what you say, they remember how you make them feel" — "worth repeating." Humans are emotional, not logical; "99% of the population have not developed themselves to the point of being free from or in control of their ego." That is "the foundation of capturing and holding attention": poking your reader's ego. You can feed it (make them feel good) or starve it (make them feel bad). If you can take people on an emotional journey — love, hate, excitement, deceit, calmness, any emotion — that eventually ends in a benefit for their life, "you have mastered the art of content creation." He repeats the line later as the root of engagement.
+- **ejemplos:** ninguno
+- **cita:** "people don't remember what you say they remember how you make them feel"
+- **terminos:** ego, poking your reader ego, emotional journey
+- **origen:** propia (the saying is a widely circulated quote; no author named in the transcript)
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-102
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 2:24 y 23:36, 2023-11-05
+- **tension:** ninguna
+
+## U-013-104
+- **tipo:** principio
+- **titulo:** Life is story: the universe follows highs and lows, and stories mimic the natural highs and lows of emotion
+- **desarrollo:** "Life is story, song is story; the universe, or 'uni-verse, one song'" — architecture, music, plant life and everything else follow universal principles of highs and lows, creation and destruction, growth and death. Humans make sense of the world in stories; "your job is to use the power of word to make people feel something; stories mimic the natural highs and lows of emotion." His book The Art of Focus has a chapter on the universe ("big picture understanding of what truth is"), and every other chapter — the new economy, acquiring skills, understanding and reinventing yourself — "mimics universal patterns"; "once you understand that you master yourself and then you can master the world."
+- **ejemplos:** Universe as "one song"; architecture, music, plants.
+- **cita:** "stories mimic the natural highs and lows of emotion"
+- **terminos:** universal principles, highs and lows, Universe one song
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-103
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 2:24-4:10, 2023-11-05
+- **tension:** ninguna
+
+## U-013-105
+- **tipo:** argumento
+- **titulo:** Happiness is a false metric: constant happiness becomes baseline homeostasis
+- **desarrollo:** Emotions with highs and lows give people meaning and feeling. "Happiness is kind of a false metric to pursue": if you're happy all the time, "that's not happiness, you're just kind of stuck there, it's normal equilibrium, homeostasis" — it balances out to normal or boring. At a constant level, "your baseline increases to that and you are no longer happy," so you must pursue more and more. Human understanding is based on highs and lows, and we need to bake that into whatever we write, speak or communicate.
+- **ejemplos:** ninguno
+- **cita:** "happiness is kind of a false metric to pursue"
+- **terminos:** homeostasis, baseline
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-104
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 4:10-4:54, 2023-11-05
+- **tension:** ninguna
+
+## U-013-106
+- **tipo:** método
+- **titulo:** Research instead of consume: while scrolling, ask what caught and held your attention
+- **desarrollo:** "Rather than consuming information, research information." While scrolling, ask: what caught my attention, why am I still reading this, how are they holding my attention? Look for the 10 commandments on the timeline. "Pattern recognition helps with learning": you'll feel a dopamine increase ("oh that's what Dan was talking about") and remember it to use in your own content, writing or speaking.
+- **ejemplos:** ninguno
+- **cita:** "rather than consuming information research information"
+- **terminos:** research information, pattern recognition
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 4:54-5:39, 2023-11-05
+- **tension:** ninguna
+
+## U-013-107
+- **tipo:** framework
+- **titulo:** The 10 Commandments of Engagement (attention capture), with #8 the most potent
+- **desarrollo:** Many ways to capture attention exist, but these are "the most replicable and practical," with number eight most potent: (1) specific numbers; (2) pattern interrupts; (3) negativity bias; (4) group call out; (5) problem call out; (6) potential benefit; (7) social proof; (8) confidence and conviction; (9) active voice; (10) warnings and cautionary advice. They are tools in a toolbox you piece together into something persuasive and attention-grabbing; most items on the list are themselves pattern interrupts. (Accompanied by a free PDF with the commandments and 32 post structures to emulate.)
+- **ejemplos:** See following units.
+- **cita:** "you're supposed to use these as tools like in your tool box"
+- **terminos:** 10 Commandments of Engagement, attention capture
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-103
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 1:40-2:24 y 5:39, 2023-11-05
+- **tension:** ninguna
+
+## U-013-108
+- **tipo:** método
+- **titulo:** Commandment 1: specific numbers — statistics, dollar amounts, metrics, lists; the more specific the better
+- **desarrollo:** Numbers in hooks, headlines or tweets make people stop to see what they relate to. Forms: (1) statistics ("there are 7 billion people on this Earth"); (2) dollar amounts ("Apple's new $1,175 iPhone has this new feature"); (3) metrics ("I sent 322 cold emails," "after 293 days..."); (4) lists ("seven bad habits that are preventing you from..."). "The more specific a number is, the more it catches people's attention." If you can't make one super specific, don't stress: it's one tactic of many. Example: the hook of a thread that led many people to join Digital Economics: "How I turn one piece of content per week into a $45,2[xx]/month creative income and 340,000 followers in 2 hours a day (in five simple steps)" — the dollar figure is garbled in the transcript.
+- **ejemplos:** The Digital Economics launch thread hook.
+- **cita:** "the more specific a number is the more it catches people's attention"
+- **terminos:** specific numbers, hook
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-107
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 5:39-6:29, 2023-11-05
+- **tension:** ninguna
+
+## U-013-109
+- **tipo:** método
+- **titulo:** Commandment 2: pattern interrupts break readers out of conditioned scrolling patterns
+- **desarrollo:** "A pattern interrupt is something that breaks people out of their normal conditioned patterns." If someone scrolling is used to lots of political commentary, a well-formatted list tweet will make them stop. Most of the commandments are pattern interrupts.
+- **ejemplos:** A list tweet in a feed of political commentary.
+- **cita:** "a pattern interrupt is something that breaks people out of their normal conditioned patterns"
+- **terminos:** pattern interrupt
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-107
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 6:29, 2023-11-05
+- **tension:** ninguna
+
+## U-013-110
+- **tipo:** método
+- **titulo:** Commandment 3: negativity bias — spin a positive message as a negative, because identity-threat registers as survival-threat
+- **desarrollo:** "The human brain is wired to notice and pay attention to negativity": that's why you get trapped in comments or on Reddit in drama, and why we watch scary movies on Halloween (it was Halloween when recorded). Likely survival-related: we attend to threats. "Since humans survive on a conceptual level," surviving the identity we attach to and consider who we are ("which we're not, an idea, but that's what we do"), when that idea of who we are is threatened, we feel threatened (also discussed in his book). Tactic: spin a positive as a negative — instead of "you're going to achieve great things," "you will never hit rock bottom again"; the second is more potent though the message is the same. Limit: this doesn't mean making a whole video negative; it's a way to catch attention so people see the value of something "overwhelmingly positive."
+- **ejemplos:** "You will never hit rock bottom again"; Reddit drama; Halloween movies.
+- **cita:** "humans survive on a conceptual level and survive the identity that we attach to"
+- **terminos:** negativity bias, survive on a conceptual level, identity
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-107
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 6:29-8:02, 2023-11-05
+- **tension:** ninguna
+
+## U-013-111
+- **tipo:** método
+- **titulo:** Commandment 4: group call out — name the specific person; others pick a side and compare themselves
+- **desarrollo:** Call out the specific person you're talking to: "if you're in your 20s," "calling all creators, coaches and freelancers," "fathers are a gift to humankind." Even if your audience isn't in that group, it lets them pick a side and compare themselves. Example tweet: "A bodybuilder is happier than the average person when eating bland chicken and rice every day because he is progressing towards a meaningful goal. Things that are often boring and monotonous become enjoyable when you have a reason to pursue fulfillment over pleasure." Non-bodybuilders still relate. A father post still reaches him (maybe a father one day) but attracts more fathers. "When you niche down smart you're not necessarily alienating people... you're just making what you say more potent." Very potent when promoting: call out who your product is for.
+- **ejemplos:** Bodybuilder chicken-and-rice tweet; fathers.
+- **cita:** "things that are often boring and monotonous become enjoyable when you have a reason to pursue fulfillment over pleasure"
+- **terminos:** group call out, niche down smart, fulfillment over pleasure
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-107
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 8:02-9:33, 2023-11-05
+- **tension:** ninguna
+
+## U-013-112
+- **tipo:** método
+- **titulo:** Commandment 5: problem call out — bring subconscious pains to the conscious mind and walk people through levels of awareness
+- **desarrollo:** He's "so big on pains and benefits" (students remind themselves: "remember pains and benefits"). Talking about people's pains makes them aware: people aren't walking around with problems top of mind — they're distracted, scrolling; if they're not getting anywhere, it sits lower in the subconscious, and you bring it to the conscious mind. Levels of awareness in marketing: to sell or catch attention, hit on a problem, make people aware of it, of a solution, and of how the solution benefits their lives — over a landing page, a year of content or a video — until they're ready to buy. "You create customers by educating them on their problems, how to solve it, and you providing a better solution, or a more streamlined, efficient and aggregated solution." Example (curated high-engagement tweet): "You feel terrible because your subconscious knows that you could be doing better"; turned into a thread, it got about 20,000 likes.
+- **ejemplos:** "You feel terrible because your subconscious knows that you could be doing better" (~20,000 likes as a thread).
+- **cita:** "you create customers by educating them on their problems"
+- **terminos:** problem call out, pains and benefits, levels of awareness, subconscious, conscious mind
+- **origen:** adaptada-de:levels of awareness in marketing (no author named)
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-107
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 9:33-11:02, 2023-11-05
+- **tension:** ninguna
+
+## U-013-113
+- **tipo:** método
+- **titulo:** Commandment 6: potential benefit — show now vs. future to open a curiosity gap on the transformation
+- **desarrollo:** The opposite of problem call out (problem is more potent due to negativity bias). When selling a transformation, describe where they are now and where they'll be; "the curiosity gap between those two makes them want to learn more from you on how to achieve that transformation." Example: a YouTube thumbnail with before/after fitness transformation pictures: "how did he achieve that, I relate, I want that potential benefit, I'm going to watch."
+- **ejemplos:** Before/after fitness thumbnail.
+- **cita:** "the Curiosity gap between those two makes them want to learn more from you"
+- **terminos:** potential benefit, transformation, curiosity gap
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-107
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 11:02-11:47, 2023-11-05
+- **tension:** ninguna
+
+## U-013-114
+- **tipo:** método
+- **titulo:** Commandment 7: social proof implies a curiosity gap — works 100x better as a humble flex (Justin Welsh)
+- **desarrollo:** Social proof is authoritative and implies an information or curiosity gap: flex results or credentials and people assume you know more, take you more seriously and read to find the missing information. "This works 100 times better when it's not viewed as a flex": cocky titles ("I made a billion dollars in a day, here's how") trigger a negative feeling. Justin Welsh is "in my eyes the current king" of the humble flex: post — "Sometimes you need to ask people to buy your product. If you don't, you're missing out on 12x days. Simple as that," with a screenshot of his revenue. Use social proof to illustrate a point.
+- **ejemplos:** Justin Welsh's "12x days" post with revenue screenshot.
+- **cita:** "this works a 100 times better when it's not viewed as a flex"
+- **terminos:** social proof, humble flex, information gap
+- **origen:** adaptada-de:Justin Welsh (as example)
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-107
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 11:47-12:30, 2023-11-05
+- **tension:** ninguna
+
+## U-013-115
+- **tipo:** principio
+- **titulo:** Commandment 8: confidence and conviction — you are right about everything right now relative to your perspective
+- **desarrollo:** "By far the most important": you can create highly impactful posts with confidence alone; it lets other attention elements fall into place. "You are right about everything at this very point in time in relation to your goals, visions, beliefs, values and everything else that forms your perspective of reality." Writing is painting a picture of your current perspective. If you're wishy-washy in beliefs, goals and values, you're probably not progressing, don't trust yourself and aren't acting in alignment with your goals. Your job: confidence and conviction in your beliefs, plus a credible or clear argument to back them up if needed. Prerequisite: an educated perspective — your own philosophy/worldview built through self-education outside school, following leaders, filtering their ideas to see what's true to you — "just for general quality of life, or to not be a clone of someone else or of society."
+- **ejemplos:** ninguno
+- **cita:** "you are right about everything at this very point in time in relation to your goals Visions beliefs values"
+- **terminos:** confidence and conviction, perspective of reality, worldview, wishy-washy
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-107
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 12:30-13:56, 2023-11-05
+- **tension:** ninguna
+
+## U-013-116
+- **tipo:** argumento
+- **titulo:** Everyone is on social media to be told what to do confidently; withholding beliefs blocks progress and failing forward
+- **desarrollo:** "Everyone is on social media to be told what to do in a confident way." Nobody is secure in their actions, choices and beliefs; they seek someone to confirm them confidently and give clarity to act. Life hack: you're uncertain, and so is everyone; it's okay to be confident; if feedback challenges your worldview and you agree, change it ("okay, I'll do better next time"). Restricting yourself from saying what you believe restricts progress: you're uncertain in your actions and will never "fail forward" — never confident enough to make the mistake and learn. If you aren't confident now, it will be hard to become more confident and learn more later. Even with possible false information, confident content gives someone certainty to act; wishy-washy content "isn't doing anything." Direct, exaggerated content gives people confidence to make mistakes and learn; blaming him for their mistakes is "a bad outlook on life" — seeing that you made a mistake is "one of the best things you can do."
+- **ejemplos:** ninguno
+- **cita:** "everyone is on social media to be told what to do in a confident way"
+- **terminos:** fail forward, certainty to act
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-115
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 13:56-16:09, 2023-11-05
+- **tension:** Tension with a responsibility standard for accuracy: he accepts the risk of "false information" in exchange for giving certainty, with the safeguard "do not abuse these for the sake of engagement."
+
+## U-013-117
+- **tipo:** método
+- **titulo:** Three tools to sound confident: cut uncertainty words, speak in absolutes, exaggerate for energy
+- **desarrollo:** (1) Eliminate words that imply uncertainty; (2) speak in absolutes when possible; (3) exaggerate your point to add energy. "Do not abuse these for the sake of engagement." Example rewrite: instead of "it may be wise if someone developed their skill set," say "it is crucial that everyone on planet Earth develops their skill set." "Just by being confident my words flow clearer and the writing is more impactful."
+- **ejemplos:** The "may be wise" vs. "crucial that everyone on planet Earth" rewrite.
+- **cita:** "it is crucial that everyone on planet Earth develops their skill set"
+- **terminos:** absolutes, exaggerate
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-115
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 14:41-15:26, 2023-11-05
+- **tension:** ninguna
+
+## U-013-118
+- **tipo:** concepto
+- **titulo:** Metaphorical vs. literal interpretation: words point to something; "getting the point will change your life"
+- **desarrollo:** Example of confidence: "The greatest skill one can develop is decreasing the time between idea and execution." It drew controversy ("that's not the greatest skill, this is"). He finds it funny he titled this video "the greatest skill of the 21st century" too. People read literally and their "brain explodes," but if you interpret metaphorically and grasp the essence — that he's adding impact by saying it that way — you don't conclude "this is the only skill I'm going to learn." "That's the exact thing — getting the point. Getting the point will change your life. Words point to something, they aren't the words themselves." He says he could "rant all day" about metaphorical vs. literal interpretation of life.
+- **ejemplos:** "The greatest skill one can develop is decreasing the time between idea and execution."
+- **cita:** "Words point to something they aren't the words themselves"
+- **terminos:** metaphorical versus literal interpretation, getting the point
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-115
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 16:09-16:52, 2023-11-05
+- **tension:** Explains apparent contradictions among his many "the greatest skill is X" claims (writing, persuasive communication, decreasing time between idea and execution): they are meant metaphorically.
+
+## U-013-119
+- **tipo:** ejemplo
+- **titulo:** "How to get ahead of 99% of people: go quiet for 3 months..." — bursts of intensity
+- **desarrollo:** A more extreme confident example that "worked time and time again" because relatable: "How to get ahead of 99% of people: go quiet for 3 months, laser in on one big goal, self-educate like mad, apply everything you learn, fail as much as possible, every month take a break and have some fun. Bursts of intensity are how you blow past everyone else." It brings followers on all platforms when used occasionally; it became his most popular YouTube video, and afterwards "everyone just swiped the title" to get millions of views ("it's kind of the name of the game").
+- **ejemplos:** The tweet; his most popular YouTube video and title copycats.
+- **cita:** "bursts of intensity are how you blow past everyone else"
+- **terminos:** go quiet, bursts of intensity
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-117
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 16:52-17:34, 2023-11-05
+- **tension:** ninguna
+
+## U-013-120
+- **tipo:** método
+- **titulo:** Commandment 9: active voice implies a story and creates anticipation
+- **desarrollo:** "Active voice implies that there is a story; it eases people into what you were saying." Passive voice is often boring and "gives away the mini story too early" — no anticipation that makes people want to know what happens next. Practice: look up an article on active voice and use it to edit your posts until you get the hang of it. It also helps you be perceived as confident.
+- **ejemplos:** ninguno
+- **cita:** "passive voice is often boring and gives away the mini story too early"
+- **terminos:** active voice, mini story
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-107
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 17:34-18:13, 2023-11-05
+- **tension:** ninguna
+
+## U-013-121
+- **tipo:** método
+- **titulo:** Commandment 10: warnings and cautionary advice about obstacles on the way to your brand's goal
+- **desarrollo:** What should people look out for when trying to achieve something, preferably within your brand or worldview? Your brand has goals (a product or service leads people toward a goal; "you wouldn't attract followers if you weren't a leader"). Can you warn them about something they'll encounter as they try to reach where you are? Example: a tweet hitting a high-engagement topic (dopamine) and warning about another hot topic: "Be careful telling people about your goals. It releases dopamine similar to achieving them. Skip the instant gratification. Go quiet and build." It sparked controversy.
+- **ejemplos:** The dopamine/goals tweet.
+- **cita:** "be careful telling people about your goals it releases dopamine similar to achieving them"
+- **terminos:** warnings and cautionary advice
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-107
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 18:13-18:55, 2023-11-05
+- **tension:** ninguna
+
+## U-013-122
+- **tipo:** ejemplo
+- **titulo:** Refining his own tweet with nuance: don't tell people your goals, tell them what you're doing
+- **desarrollo:** Applying his own advice on refining his worldview from feedback, he'd rewrite or add nuance to the goals tweet: "don't tell people about your goals, tell people about what you're doing." Objection: "if you don't tell people your goals no one can help you." Reply: that misses the point — most people tell others their goals and then do nothing; if you tell people what you're doing, people can still work with and help you. "See through the literal interpretation of words here, get the point."
+- **ejemplos:** ninguno
+- **cita:** "don't tell people about your goals tell people about what you're doing"
+- **terminos:** getting the point
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-121
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 18:55-19:37, 2023-11-05
+- **tension:** Corrects his own earlier tweet (U-013-121) by adding nuance.
+
+## U-013-123
+- **tipo:** principio
+- **titulo:** Holding attention: once a curiosity loop opens, the mind feels committed to finishing the story
+- **desarrollo:** After capturing attention comes holding it. "Once the curiosity loop is open the mind feels committed to figuring out the rest of the story; that is what holds attention." Hence crafting a compelling story: "stories are layers of metaphors, concepts, perspectives and experiences that take people on a journey." People want to understand the entire story — what came before, during and after any given argument.
+- **ejemplos:** ninguno
+- **cita:** "once the Curiosity Loop is open the Mind feels committed to figuring out the rest of the story"
+- **terminos:** curiosity loop, compelling story
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-107
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 19:37, 2023-11-05
+- **tension:** ninguna
+
+## U-013-124
+- **tipo:** concepto
+- **titulo:** Story is structure, not a string of events: a landing page is a story (problems, benefits, solutions; purpose, path, priority)
+- **desarrollo:** "A story is also metaphorical": not "I woke up, made coffee..." He means structure vs. content. Story structure is highs and lows: walk people through setting, problem, rising action, climax, falling action, resolution. "That's what a landing page is — a landing page is a story," even educational content (how to start a copywriting business) guides people through a story with problems, benefits, solutions. Or think "purpose, path, priority" (another chapter of his book, "a universal principle"), or: goal (what people want and associated benefits), problem (where they are now and how it ruins their lives), and path/system/plan in between to reach the next step. "That's a story."
+- **ejemplos:** Landing page; "how to start a copywriting business."
+- **cita:** "a landing page is a story"
+- **terminos:** structure versus content, purpose path priority, goal problem path
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-123
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 19:37-21:14, 2023-11-05
+- **tension:** ninguna
+
+## U-013-125
+- **tipo:** método
+- **titulo:** Structure for readability: bullets/lists, purposeful line breaks, start short and punchy, break sentences with parentheses and em dashes
+- **desarrollo:** "We aren't in high school anymore": long professional paragraphs reduce readability, especially on X, where people log on to escape the professional world. (1) Bullets: numbers, lists and other tactics to break apart what you say; lists create a story in themselves. (2) Line breaks whenever possible, but not for their own sake: use them creatively to emphasize specific sentences and help flow. (3) Start short and concise: shorter sentences/paragraphs at the start, capture attention with short punchy statements, then let loose. (4) Break apart sentences: parentheses and em dashes over commas ("this sentence is too long (until I make people want to know what's in these parentheses)"); he uses parentheses constantly, including in YouTube titles. Example hook: "Most people suck at DMs. 'Hi how are you, please follow back' will probably get you blocked more than it gets responses. Let me make DMs easy for you in seven steps" — he notes "(in seven steps)" could be parenthesized.
+- **ejemplos:** The DMs hook.
+- **cita:** "people log on to that platform to escape the professional world"
+- **terminos:** line breaks, bullets, parentheses, em dashes
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-124
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 21:14-22:01, 2023-11-05
+- **tension:** ninguna
+
+## U-013-126
+- **tipo:** principio
+- **titulo:** Novel perspectives come from long-form inputs; research of 100 to create content of 1
+- **desarrollo:** The second element of holding attention: novel perspectives, which require getting the bulk of your ideas from long-form: newsletters, articles, podcasts, books, talks. In short form it's hard to create a novel perspective because you don't get the whole perspective. Novelty raises dopamine and brings more clarity to an idea talked about over and over. "If you're getting all of your content from Twitter while trying to grow on Twitter, you will probably end up with the same perspective as everyone else." Metaphors, personal experiences and creating new concepts are how you achieve it. "Content consumption or research is as important as creation: you need a research of 100 to create a content of one."
+- **ejemplos:** See U-013-127.
+- **cita:** "you need a a research of 100 to create a content of one"
+- **terminos:** novel perspectives, research of 100
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-123
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 22:01-23:36, 2023-11-05
+- **tension:** ninguna
+
+## U-013-127
+- **tipo:** ejemplo
+- **titulo:** The glass of water and the acre of fog: turning an unrelated fact into a novel perspective
+- **desarrollo:** He read in an article that a glass of water creates an acre of fog; unrelated to mindfulness, business or human potential, but a unique perspective. He asked how to tie it into his topics and wrote: "The amount of water needed to create an acre of fog is one drinking glass. Remember this the next time your mind is fogged with worry — but in reality the problem is as insignificant as a glass of water."
+- **ejemplos:** The tweet.
+- **cita:** "the amount of water needed to create an acre of fog is one drinking glass"
+- **terminos:** novel perspective, metaphor
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-126
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 22:54-23:36, 2023-11-05
+- **tension:** ninguna
+
+## U-013-128
+- **tipo:** fuente-de-tercero
+- **titulo:** Alan Watts: separate the message from the messenger; you remember the feeling of clarity, not the words
+- **desarrollo:** Alan Watts "may have been an alcoholic in his later years and died because of it" — though in the Art of Focus community someone suggested that may be a "scop" [sic, likely "psyop"]; "who knows." Regardless, "his work has changed my life for good"; he won't restrict himself from Watts's message just because the person may have values unlike his "when the message can truly change the way I see the world." Reminder: not watching people we dislike (clickbait titles, thumbnails) may mean missing the one idea that would radically change our lives. He remembers some Watts quotes because of the clarity they gave — "the feeling of having zero worries in the world"; when he wants that again he puts on a Watts lecture. Lesson: "you are but a humble messenger of a life-changing message."
+- **ejemplos:** Putting on an Alan Watts lecture for the feeling of zero worries.
+- **cita:** "you are but a humble messenger of a life-changing message"
+- **terminos:** humble messenger
+- **origen:** de-tercero:Alan Watts
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-103
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 23:36-25:08, 2023-11-05
+- **tension:** ninguna
+
+## U-013-129
+- **tipo:** framework
+- **titulo:** What creates engagement: the feelings of education, inspiration and entertainment — a creator is entertainer, educator and inspirer
+- **desarrollo:** (1) Education: learning something new or gaining clarity raises dopamine; you create clarity through novel perspectives, metaphors, stories, personal experiences (these are elements in his Cortex software, not yet released, which aims to "revolutionize writing and creating for the entire creator economy"). "Your job is to make sense to a specific group of people. You do this by sharing how certain topics make sense to you. That's it." (2) Inspiration — different from motivation: helping people connect the dots on their own, giving clarity to make their own decisions and change behavior; "people feel good when they think they came up with the answer themselves but will still attribute that feeling to you." (3) Entertainment: a joke, meme or interesting point of view; as in a movie — humor, drama, emotional parts, battles that spark excitement. "Entertainment, education and inspiration are the main goals of your content"; a content creator is "a mixture of an entertainer, an educator and an inspiring person."
+- **ejemplos:** Movies (humor, drama, battles); Cortex app.
+- **cita:** "your job is to make sense to a specific group of people you do this by sharing how certain topics make sense to you"
+- **terminos:** education, inspiration, entertainment, Cortex
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-103
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 25:08-26:45, 2023-11-05
+- **tension:** ninguna
+
+## U-013-130
+- **tipo:** concepto
+- **titulo:** Inspiration is not motivation: people connect the dots themselves and attribute the feeling to you
+- **desarrollo:** He distinguishes inspiration from motivation: inspiration helps people connect the dots on their own, giving them clarity to make their own decisions and change their behavior. Mechanism: people feel good when they think they came up with the answer themselves, yet still attribute that feeling to the creator.
+- **ejemplos:** ninguno
+- **cita:** "people feel good when they think they came up with the answer themselves but will still attribute that feeling to you"
+- **terminos:** inspiration, motivation, connect the dots
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-129
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 25:59, 2023-11-05
+- **tension:** ninguna
+
+## U-013-131
+- **tipo:** opinión
+- **titulo:** Social media influencer, personal brand and one-person business are the same thing: everyone writes and communicates value
+- **desarrollo:** Closing: whether you call it learning to write online, building social media, a personal brand or a one-person business, "they're all the same thing: everyone writes, everyone needs to communicate value, everyone wants to do their own thing." Regardless of the "social media influencer" label, "just write online." Also: "this one was very practical but you have to actually practice the theory."
+- **ejemplos:** ninguno
+- **cita:** "everyone writes everyone needs to communicate value everyone wants to do their own thing"
+- **terminos:** one person business, personal brand
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md, 26:45, 2023-11-05
+- **tension:** ninguna
+
+# Fuente: This High-Income Skill Will Make You Irreplaceable (Full Guide).md (2024-01-28)
+
+## U-013-132
+- **tipo:** principio
+- **titulo:** Read, write, build: the progression from no ideas to executed ideas
+- **desarrollo:** Opening lines: "If you don't have ideas, read. If you have ideas but can't articulate them, write. If you have ideas and the clarity to execute, build. Expand, organize and focus your mind until your craziest ideas become reality." Three conditional stages, each solving a different bottleneck: lack of ideas (reading), lack of articulation (writing), and readiness to execute (building).
+- **ejemplos:** ninguno
+- **cita:** "if you don't have ideas read if you have ideas but can't articulate them write if you have ideas and the clarity to execute build"
+- **terminos:** read, write, build
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 0:00, 2024-01-28
+- **tension:** ninguna
+
+## U-013-133
+- **tipo:** historia
+- **titulo:** Retold origin: 5 years of unfinished college, every online business, a $55k entry-level web design job, a dream that stuck
+- **desarrollo:** Retelling (2024 version): he always wanted to do what he loves for a living; family, teachers and even people he followed online "screamed at me to go down other paths," so he went to college and didn't finish after five years, learned creative skills on the side, started "every online business imaginable," learned to code because it was lucrative, dropped out because it was wasting his time, and got a $55,000/year job as an entry-level web designer at a design agency. Throughout, the goal of doing what he loves "stuck in the back of my head"; there was rarely a moment he wasn't working on a personal project, a habit he still maintains.
+- **ejemplos:** ninguno
+- **cita:** "the goal of doing what I love for a living stuck in the back of my head"
+- **terminos:** personal project
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 0:00-1:01, 2024-01-28
+- **tension:** Compared to the 2022 telling (U-013-001), details differ slightly: "front-end web developer, $50-55k" vs. "entry-level web designer, $55,000"; "partied the entire time" vs. "didn't finish after 5 years."
+
+## U-013-134
+- **tipo:** concepto
+- **titulo:** Psychic entropy: the mind tends toward disorder; a project reverses it by ordering the mind
+- **desarrollo:** Working on a personal project "is really the only thing that keeps me sane." When he gets overwhelmed, anxious, has negative emotions, or thinks about meaningless things, it's usually due to "the concept of psychic entropy, or the mind tending toward disorder." He falls into a rut or a "season of overwhelm or anxiety" only because he lost focus, letting focus split to other things. "In order to reverse entropy you need to order your mind; you need to focus on something that brings structure to your mind, and in most cases that is a project." A project isn't just computer work: your relationship, your life, your health, your business and its skill set can all be projects.
+- **ejemplos:** His current projects: Cortex (second brain software), Cortex University (education platform and community for creators, writers, marketers), promoting his book, planning another book to write in Cortex, gaining a few pounds before trimming for summer.
+- **cita:** "in order to reverse entropy you need to order your mind"
+- **terminos:** psychic entropy, order your mind, project
+- **origen:** adaptada-de:psychic entropy concept (no author named in this transcript)
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 1:01-2:43, 2024-01-28
+- **tension:** ninguna
+
+## U-013-135
+- **tipo:** principio
+- **titulo:** A personal project is not optional; otherwise you live by your programming
+- **desarrollo:** He realized most people giving career and life advice hadn't achieved what he wanted; "in their closed mind the reality I wanted to create was impossible," yet he kept looping back to loved projects for his sanity. "Most people don't have a personal project that will create the future they want; most people don't realize a personal project is not optional." The only other option is "to live by your programming": pursue the goals society set for you and work on projects that lead to them. "If you don't spend 1 hour building your dreams, you will spend 8 hours building someone else's for life."
+- **ejemplos:** ninguno
+- **cita:** "if you don't spend 1 hour building your dreams you will spend 8 hours building someone else's for Life"
+- **terminos:** personal project, live by your programming, closed mind
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-134
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 2:43-3:28, 2024-01-28
+- **tension:** ninguna
+
+## U-013-136
+- **tipo:** argumento
+- **titulo:** Ten years ago: monetize any passion project, increase capacity for luck through skill acquisition; school takes 12 years anyway
+- **desarrollo:** His mindset ten years earlier: "If I can monetize any of these passion projects I'll be set. All I need to do is learn and build until one works. I need to increase my capacity for luck with skill acquisition and experience. It may take 10 years, but some people go to school for 12, and even if I fail I'd be in a similar position." Downside-limited reasoning: the time cost compares to schooling and failure leaves him no worse off.
+- **ejemplos:** 12 years of school comparison.
+- **cita:** "I need to increase my capacity for luck with skill acquisition and experience"
+- **terminos:** capacity for luck, passion projects
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-135
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 2:43-3:28, 2024-01-28
+- **tension:** ninguna
+
+## U-013-137
+- **tipo:** opinión
+- **titulo:** The future of media is decentralized, and AI is a tool for writers, not a replacement
+- **desarrollo:** The "secret" is writing ("shocker"); he labels it a secret to capture attention and change behavior. "The future of media is decentralized: people are and will continue to turn to social media for news, courses for education, creators for knowledge." He doesn't "want to hear about AI disrupting writing just yet": hard to believe people will get their media fix all from AI-generated content — "that's just not how humans work." AI is a tool that helps writers become more prolific, "do more but better," with other use cases.
+- **ejemplos:** ninguno
+- **cita:** "AI is a tool that helps writers and humans become more prolific in their work"
+- **terminos:** decentralized media
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 3:28-5:51, 2024-01-28
+- **tension:** ninguna
+
+## U-013-138
+- **tipo:** concepto
+- **titulo:** Writing is the meta skill that breathes life into any other skill, avoided until survival forces it
+- **desarrollo:** "Writing is the skill that breathes life into any other skill you learn. It is the meta skill that people avoid learning until they are forced to because they need to survive." People don't see its importance "because it's just plain old writing, who needs to learn that." A graphic (shown on screen) shows "writing is everything" — he suggests using it as a wallpaper.
+- **ejemplos:** ninguno
+- **cita:** "writing is the skill that breathes life into any other skill you learn"
+- **terminos:** meta skill
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 4:13-5:51, 2024-01-28
+- **tension:** ninguna
+
+## U-013-139
+- **tipo:** argumento
+- **titulo:** Everything your audience sees starts with writing; every businessperson is a writer at their core
+- **desarrollo:** He failed at almost every other model (digital art, SEO, Facebook ads, drop shipping, e-commerce) because he focused on learning the skill and building a website and "forgot I actually had to get customers." How do you get customers? Writing. Content/media is the front end of the internet, how you capture, hold and convert attention "in a sea of self-deprecating memes and valueless content." The foundation of content is writing: tweets, threads, newsletters, blog posts, cold emails, social captions, landing pages, product descriptions, course modules, client communications, customer resources, ads of any form; YouTube videos are best with written scripts; Reels/TikToks are like reading well-written tweets or scripts; Instagram images usually come from a well-written quote. "Everything that your audience, customers and network sees starts with writing." "Every single person in business is a writer at their core; they just don't label themselves as that." About 95% of what he does on his computer to build business is writing: "if you're not typing on the keyboard you're not doing anything online."
+- **ejemplos:** The long list of written formats; his ~95% writing day.
+- **cita:** "every single person in business is a writer at their core they just don't label themselves as that"
+- **terminos:** capture hold and convert attention
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-138
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 5:51-8:16, 2024-01-28
+- **tension:** ninguna
+
+## U-013-140
+- **tipo:** heurística
+- **titulo:** Monetize your intelligence, not your looks, so you can pivot with the times
+- **desarrollo:** If you're a creator, focus on writing rather than posting shirtless pictures (as a fitness guy), "because you need to monetize your intelligence, not your looks; that way you can pivot with the times and you can build a sustainable income." He teaches "high impact digital writing," not academic or technical writing ("not how to write a research paper").
+- **ejemplos:** Fitness creators posting shirtless pictures.
+- **cita:** "you need to monetize your intelligence not your looks"
+- **terminos:** high impact digital writing, monetize your intelligence
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-139
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 6:46-7:33, 2024-01-28
+- **tension:** ninguna
+
+## U-013-141
+- **tipo:** fuente-de-tercero
+- **titulo:** Content is an extension of the personal and collective mind (quote from his own book The Art of Focus)
+- **desarrollo:** He quotes his book The Art of Focus: "Content is an extension of the personal and collective mind. We put out our ideas, beliefs and opinions that form a digital society, cultures and world. Content on the internet is content in the collective consciousness." He calls it "rather esoteric"; the book pairs it with practical advice. He calls himself a writer "because that's what I do every single morning."
+- **ejemplos:** ninguno
+- **cita:** "content on the Internet is content in the collective Consciousness"
+- **terminos:** collective consciousness, digital society
+- **origen:** propia (self-quote from The Art of Focus)
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 7:33-8:16, 2024-01-28
+- **tension:** ninguna
+
+## U-013-142
+- **tipo:** dato
+- **titulo:** $100-250k/month sustained revenue, spiking to $500-750k; 20x his old salary in taxes; growth is 0 -> 10k -> 20k
+- **desarrollo:** He has sustained $100,000-250,000 per month, fluctuating with product launches and content performance up to $500,000-750,000/month (revenue, not profit), by writing tweets, newsletters and threads repurposed into Instagram, YouTube, LinkedIn. "Writing is the force multiplier" that makes him pay 20 times his previous web design salary in taxes each year ("a good problem to have"). It's not all-or-nothing: stripping everything but X and the newsletter, a huge chunk would remain. You don't go from 0 to $1M; you go 0 -> $10,000 -> $20,000 -> more, and can make life-changing money in one to three years, "however long it takes for things to click" and to internalize "the skill of making money, which houses many other skills."
+- **ejemplos:** ninguno
+- **cita:** "writing is the force multiplier"
+- **terminos:** force multiplier, the skill of making money
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 8:16-9:57, 2024-01-28
+- **tension:** Updates the 2022 figures ($40-60k/month, U-013-014).
+
+## U-013-143
+- **tipo:** proceso
+- **titulo:** Six steps to start a one-person writing business (2024 version)
+- **desarrollo:** (1) Choose the topic you can't shut up about — don't overthink; pick a topic and practice writing; if already a creator, use your "topic tree" (see his video "social media content 101"). (2) Brainstorm your unique perspective (U-013-144). (3) Write 500-1,000 words on the topic per week. (4) Deconstruct and simplify ideas for daily posts. (5) Learn how to get your writing shared. (6) Monetize your experience: with writing, a growing audience and traffic, create a product or service (options in his "seven digital career paths" video).
+- **ejemplos:** ninguno
+- **cita:** "pick a topic and practice writing"
+- **terminos:** topic tree, one person writing business
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 7:33 y 9:11-12:22, 2024-01-28
+- **tension:** Revises the 2022 nine-step version (U-013-015): fewer steps, 500-1,000 words weekly instead of 1,000+, and threads on X allowed to substitute for a newsletter at the start.
+
+## U-013-144
+- **tipo:** método
+- **titulo:** Novel perspectives beat actionable platitudes: brain dump problems, benefits, goals, roadblocks, experiences, then explain to a friend
+- **desarrollo:** "Forget everything you know about value": actionable advice and platitudes "don't sell as well as they did when the internet was first budding." Novelty catches attention; attention is a given if you want readers; "novel perspectives are the best and most replicable way to capture attention without using sleazy tactics." Method: brain dump common problems with the topic, benefits of overcoming them, common goals, roadblocks to those goals, and personal experiences. Then piece everything together, order it so it makes sense, and explain it as you would to a friend — using it as a structure.
+- **ejemplos:** ninguno
+- **cita:** "novel perspectives are the best and most replicable way to capture attention without using sleazy tactics"
+- **terminos:** novel perspective, brain dump, platitudes
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-143
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 9:57-10:49, 2024-01-28
+- **tension:** Adds "roadblocks" to the 2022 brain-dump list (U-013-019) and downgrades actionable value in favor of novelty.
+
+## U-013-145
+- **tipo:** método
+- **titulo:** Balance depth and growth: weekly long-form (thread or newsletter) plus 2-3 short posts a day rewritten as standalones
+- **desarrollo:** Step 3: write 500-1,000 words per week; you need a balance of depth and growth — long form and short form. He's big on a newsletter as long form, "but that can wait": at the start focus on one platform like X, write threads as long form once a week, and two to three posts a day. Step 4: deconstruct and simplify ideas for daily posts; long form gives you multiple ideas to pull from; "don't try to copy-paste posts from your newsletters or threads; rewrite them as standalone short posts."
+- **ejemplos:** ninguno
+- **cita:** "rewrite them as Standalone short posts"
+- **terminos:** depth and growth, deconstruct and simplify
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-143
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 10:49-11:35, 2024-01-28
+- **tension:** ninguna
+
+## U-013-146
+- **tipo:** advertencia
+- **titulo:** Writing is 20% of the equation, traffic is 80%: don't wait for "our Lord and savior the algorithm"
+- **desarrollo:** Step 5: learn how to get your writing shared — crucial: "your writing means nothing if nobody sees it." Beginner trap: writing all day hoping "our Lord and savior the algorithm will make them an overnight success." "Writing is 20% of the equation, traffic is 80%." Traffic to your profile and writing comes through replies, networking and shares (detailed in his video on building an audience with zero followers).
+- **ejemplos:** ninguno
+- **cita:** "writing is 20% of the equation traffic is 80%"
+- **terminos:** traffic, beginner trap
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-143
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 11:35-12:22, 2024-01-28
+- **tension:** ninguna
+
+## U-013-147
+- **tipo:** definición
+- **titulo:** Writing as the vehicle for articulated thought; readers adopt the perspective and operate within that reality
+- **desarrollo:** Quote from The Art of Focus: "Writing is the vehicle for articulated thought and communication. It is the medium for putting your message in front of those that can adopt the perspective it presents and operate within that reality."
+- **ejemplos:** ninguno
+- **cita:** "writing is the vehicle for articulated thought and communication"
+- **terminos:** articulated thought, adopt the perspective
+- **origen:** propia (self-quote from The Art of Focus)
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 12:22-13:11, 2024-01-28
+- **tension:** ninguna
+
+## U-013-148
+- **tipo:** argumento
+- **titulo:** Writing frameworks leverage psychology: structure orders the reader's mind and puts them in flow
+- **desarrollo:** People say "I don't know what to write." Are you using a framework that tells you what to write next? If not, "problem number one." Using a writing framework leverages psychology — frameworks "help people focus their mind." Parallel to psychic entropy: just as he gets overwhelmed without a project to order his mind, "if your writing doesn't have a structure that orders the reader's mind then it's not going to be good writing; they're not going to finish it; you're not putting them into the flow state; your writing isn't a game that they're trying to read."
+- **ejemplos:** ninguno
+- **cita:** "if your writing doesn't have a structure that orders the reader's mind then it's not going to be good writing"
+- **terminos:** writing framework, order the reader's mind, flow state
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-134
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 13:11-13:54, 2024-01-28
+- **tension:** ninguna
+
+## U-013-149
+- **tipo:** fuente-de-tercero
+- **titulo:** Common copywriting frameworks to study: PASTOR, AIDA, PAS/PASO — and what they share
+- **desarrollo:** He recommends studying PASTOR, AIDA ("Ada" in transcript), and PAS or PASO ("just Google those"). Shared mechanics: (1) a problem is introduced or implied, making people curious about its cause — "the law of cause and effect": hint at the effect, then dive into the cause; (2) it exposes people to a potential sequence of events, making them want to understand the sequence that led to a resolution or "happy ending"; (3) it creates an information gap implying educational, entertaining or inspiring information the reader desires. Once curiosity is sparked you must deliver: (a) personal, client or other experiences stating or implying a transformation — a before (the problem), an after (resolution and benefits); (b) step-by-step advice to reach the resolution quicker, a unique solution; (c) a crystal-clear call to action leading them deeper into your content or sparking behavior change, so they associate that good behavior with you.
+- **ejemplos:** ninguno
+- **cita:** "hint at the effect and then dive into the cause"
+- **terminos:** PASTOR, AIDA, PAS, PASO, law of cause and effect, information gap, call to action
+- **origen:** de-tercero:standard copywriting frameworks (PASTOR, AIDA, PAS/PASO; authors not named)
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-148
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 13:54-14:46, 2024-01-28
+- **tension:** ninguna
+
+## U-013-150
+- **tipo:** término-acuñado
+- **titulo:** The APAG framework: attention, perspective, advantage, gamify — usable for anything you write
+- **desarrollo:** His own framework, "APAG" (transcribed "apag"/"apack"): attention, perspective, advantage, gamify. Uses: newsletters, podcast or YouTube scripts, threads or medium-form posts, sales pages, landing pages, opt-in pages, book or ebook chapters/sections, course modules, lead magnet modules or other education, ideas for tweets or short posts — "when you go to write anything, think of this framework." Any part can be a single line or an entire section; as long as you hit each part you're fine; if you can't think of more, move to the next part. This part of the video is pulled from his course 2 Hour Writer. Example mapping (daily routine newsletter): Attention — "the daily routine that changed my life"; Perspective — paint the average everyday routine; Advantage — why his routine is better; Gamify — the routine itself (one habit each for mind, body, business, relationships).
+- **ejemplos:** Daily routine newsletter mapping.
+- **cita:** "when you go to write anything think of this framework apag attention perspective Advantage gamify"
+- **terminos:** APAG, attention, perspective, advantage, gamify
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-148
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 14:46-15:38, 21:54 y 24:52-25:39, 2024-01-28
+- **tension:** ninguna
+
+## U-013-151
+- **tipo:** método
+- **titulo:** APAG — Attention: hooks and headlines must deliver relevance, fit the awareness level, and promise low effort
+- **desarrollo:** "The art of hooks and headlines": the most important part of your content; if the hook fails, readers scroll past "leaving your hard work gone unnoticed." Three things make them keep reading: (1) Relevance — how relevant to their everyday life; use resolved pains or potential benefits; "what's in it for the reader." (2) Awareness — is it simple or complex enough for the level of awareness you target; will they understand what you show them. (3) Effort — how fast will they receive the result (education, entertainment or inspiration) and is it easy to get. Not all must be in the headline but all should be considered; the most potent go in a newsletter/article headline (less room than a hook in a thread or LinkedIn post).
+- **ejemplos:** ninguno
+- **cita:** "if the hook doesn't catch their attention are they going to read the rest"
+- **terminos:** hooks, headlines, relevance, awareness, effort
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-150
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 15:38-17:10, 2024-01-28
+- **tension:** ninguna
+
+## U-013-152
+- **tipo:** framework
+- **titulo:** Six building blocks of a hook (and a product): big problem, big benefit, big idea, transformation process, time frame, negative personal experience
+- **desarrollo:** Build hooks from pieces of your outline (problems, benefits, experiences) — "the building blocks of a perfect hook and even a product," since product descriptions and landing pages must also be persuasive; the framework applies to how you structure products. (1) Big problem: summarize all listed problems. (2) Big benefit: summarize all benefits into one. (3) Big idea: summarize the most impactful parts of the post in one sentence. (4) Transformation process: use numbers or a unique name to hint at the process, posing an information gap. (5) Time frame: quantify how long it takes to read or get the result; use numbers. (6) Negative personal experience: imply a low point and its emotion. Not all need to be in the headline; sprinkle them through the hook and the next section. Read titles/headlines/tweets "not as a consumer, read as a researcher."
+- **ejemplos:** ninguno
+- **cita:** "don't read as a consumer read as a researcher"
+- **terminos:** big problem, big benefit, big idea, transformation process, time frame, negative personal experience
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-151
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 16:23-18:40, 2024-01-28
+- **tension:** ninguna
+
+## U-013-153
+- **tipo:** ejemplo
+- **titulo:** "You won't make it without obsession" — problem, benefit and transformation implied in one sentence
+- **desarrollo:** Tweet: "You won't make it without obsession. But nobody starts out obsessed. They start out curious. They experiment. They build things. They break things. They fail. And eventually they can't pull themselves away. Curiosity turns into obsession with time and persistence." Analysis: "you won't make it without obsession" implies an end result (making it), a problem (not making it), and thereby a transformation. It can be as simple as "seven steps to avoid a life you hate." "It's always pains and benefits and a potentially unique process for bridging the gap" — a transformation. Hooks aren't only one sentence: a whole tweet, a carousel's first slide, the LinkedIn text before "read more."
+- **ejemplos:** The obsession tweet; "seven steps to avoid a life you hate."
+- **cita:** "curiosity turns into obsession with time and persistence"
+- **terminos:** hook, transformation, pains and benefits
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-152
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 18:40-19:30, 2024-01-28
+- **tension:** ninguna
+
+## U-013-154
+- **tipo:** método
+- **titulo:** APAG — Perspective: paint the enemy, a common perspective and its pains
+- **desarrollo:** "Painting a picture of the enemy or why a certain perspective is wrong": relate to and amplify the reader's current problems; create the enemy of your story. Best way: paint a common perspective on the topic and place heavy emphasis on its problems and pains, stated directly or implied. This sets up your "advantageous perspective": if everyone in your high school says go to college and get a job, your perspective might be buy courses and learn online. "You're presenting points of views online in your writing... that's all people are reading is points of views from humans."
+- **ejemplos:** College-and-job vs. learning online.
+- **cita:** "this is also where you create the enemy of your story"
+- **terminos:** perspective, enemy, advantageous perspective
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-150
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 19:30-21:05, 2024-01-28
+- **tension:** ninguna
+
+## U-013-155
+- **tipo:** ejemplo
+- **titulo:** The mediocre-day tweet used to open The Art of Focus: "Wake up, hit snooze four times..."
+- **desarrollo:** Perspective example: "Wake up, hit snooze four times, stare at your phone, roll out of bed, make coffee, sit in traffic, 8 hours of unfulfilling work, sit in traffic again, argue with your significant other, walk the pet, watch TV, pass out, repeat. This should scare the [hell] out of you." It paints a mediocre lifestyle; he used it in the introduction of his book to hook people and make them aware of a problem so they want to overcome it and keep reading.
+- **ejemplos:** The tweet; the book introduction.
+- **cita:** "this should scare the out of you"
+- **terminos:** mediocre lifestyle
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-154
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 20:15-20:24, 2024-01-28
+- **tension:** ninguna
+
+## U-013-156
+- **tipo:** método
+- **titulo:** Elements: piece together problems, benefits, examples, metaphors, quotes, stories, comparisons and concepts to start, transition or end a section
+- **desarrollo:** If unsure what to say: "good writing is about piecing together what's available to you." Elements (as named in Cortex): problems, benefits, examples, metaphors, quotes or tweets, personal or popular stories, comparisons, concepts. Any can start, transition or end a section. "You don't just write things out; you have to understand the elements of psychology." Chaining: start with a problem; don't know what's next — use an example; then a metaphor; then a comparison; then a personal experience; then a quote you like "to bring more credibility to your argument" — and go as long as you want.
+- **ejemplos:** The chain problem -> example -> metaphor -> comparison -> personal experience -> quote.
+- **cita:** "good writing is about piecing together what's available to you"
+- **terminos:** elements, Cortex
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-154
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 21:05-21:54, 2024-01-28
+- **tension:** ninguna
+
+## U-013-157
+- **tipo:** método
+- **titulo:** APAG — Advantage: paint the hero/new vision and sell people out of a low-consciousness existence
+- **desarrollo:** "Paint a picture of the hero or the new vision, or why your perspective is right." Persuasive writing presents a credible argument to sell something; "you are always selling, or at least you should be" — products, ideas and better ways of doing things. "Sell people out of a low consciousness existence." Having painted their faulty perspective, provide a better one: how can you educate them to understand your perspective; what do they need to know to understand where you are now; what's missing that prevents understanding? Present novel ideas, concepts, social proof and experiences; quotes, tweets or references add credibility. Example: "Writing is a great skill to learn because it pairs with any other skill or interest. If you can write you can do whatever you want and distribute the value you discover from those pursuits. Writing allows you to make a living from living. The problem is that most people aren't [writing]." Section openings in long form are treated like a tweet: hook, wrap up, get them interested.
+- **ejemplos:** The "make a living from living" tweet.
+- **cita:** "sell people out of a low Consciousness existence"
+- **terminos:** advantage, hero, new vision, low consciousness existence, make a living from living
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-154
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 21:54-24:06, 2024-01-28
+- **tension:** ninguna
+
+## U-013-158
+- **tipo:** método
+- **titulo:** APAG — Gamify: a hierarchy of goals with challenge matched to skill puts readers in flow
+- **desarrollo:** "Gamify, or create a hierarchy of goals or a game for people to follow." A game is a set hierarchy of goals, quests, missions that give clarity on what to do; done correctly, "when you give people a challenge that matches their skill, you put your readers into a flow state of discovering novel ideas that aid in their future." In short: step-by-step advice on achieving the transformation from old problem-ridden perspective to advantageous perspective — clear, concise, actionable, making next steps clear. What steps help overcome the problem from Perspective? What can they implement now? List steps, key points, a list of books. Example tweet (became a daily routine newsletter, could be thread or carousel): "You need four habits: one that builds your mind, one that builds your body, one that builds your business, one that builds your relationships. The good life is the process of becoming everything you could be."
+- **ejemplos:** The four-habits tweet.
+- **cita:** "the good life is the process of becoming everything you could be"
+- **terminos:** gamify, hierarchy of goals, flow state, challenge that matches their skill
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-157
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 23:22-25:39, 2024-01-28
+- **tension:** ninguna
+
+## U-013-159
+- **tipo:** principio
+- **titulo:** Overwhelm is a good thing: practice until structure is digested
+- **desarrollo:** "If this doesn't make sense yet — because it won't, because overwhelm is a good thing, and you're going to feel overwhelmed — you have to actually practice until it's solidified or digested into your mind." You must understand and internalize the structure of most long-form content online, and storytelling; they interconnect.
+- **ejemplos:** ninguno
+- **cita:** "overwhelm is a good thing"
+- **terminos:** internalize
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-150
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 25:39, 2024-01-28
+- **tension:** Contrasts with U-013-134, where overwhelm signals psychic entropy; here overwhelm during learning is framed as good.
+
+## U-013-160
+- **tipo:** framework
+- **titulo:** General persuasive writing structure: hook, lead, body, conclusion, call to action — this is storytelling
+- **desarrollo:** (1) Hook; (2) lead — introducing and agitating the problem; (3) body — key points, numbered or not, separated by headlines, to help learn and understand the topic; (4) conclusion — a summary or step-by-step advice to overcome the problem; (5) call to action — to do something next (not necessary on short posts). "This is storytelling": storytelling is not always a literal story; it can be metaphorical. Stories consist of anecdotes, research, examples, metaphors, quotes, tweets, videos, other content "and anything else you can do to help someone else understand." Hence a second brain like Cortex filled with collected ideas: writing becomes easy as it grows — "you just piece ideas together in infinite ways; you present a problem and guide someone to overcome it."
+- **ejemplos:** ninguno
+- **cita:** "you present a problem and guide someone to overcome it"
+- **terminos:** hook, lead, body, conclusion, call to action, storytelling, second brain
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-150
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 25:39-26:22, 2024-01-28
+- **tension:** ninguna
+
+## U-013-161
+- **tipo:** método
+- **titulo:** The key to short-form writing is emulation: research high performers, recreate their structures as training wheels
+- **desarrollo:** Any part of APAG can structure a tweet, Instagram post, LinkedIn post or reel/video script. How to get better: emulation — he learned to write good tweets through observation. Take ideas from your long-form writing; study quotes from favorite authors; use tools like Tweet Hunter ("twx") to research high-performing posts; "be a researcher, not a consumer"; read social content to study post structures; for every post you see, try to recreate it with your own ideas to train your mind; "drown yourself in good short form writing"; use their sentence structure as "training wheels"; contemplate why it does well — how it makes you feel and why. (He offers a free swipe file of his best ideas.)
+- **ejemplos:** Tweet Hunter; swipe file.
+- **cita:** "use their sentence structure as training wheels to write your own"
+- **terminos:** emulation, training wheels, swipe file, be a researcher not a consumer
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 26:22-27:57, 2024-01-28
+- **tension:** ninguna
+
+## U-013-162
+- **tipo:** argumento
+- **titulo:** If you can write good tweets you can write good threads and newsletters — long form is tweets filling a page
+- **desarrollo:** Why short form matters: every part of a thread is a tweet; "if you know how to write good tweets you know how to write good threads"; likewise newsletters, "because you're just writing tweets until you fill up that long page."
+- **ejemplos:** ninguno
+- **cita:** "you're just writing tweets until you fill up that long page"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-161
+- **fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md, 27:17-27:57, 2024-01-28
+- **tension:** ninguna
+
+# Fuente: The Future-Proof Skill Stack (How Average People Become Millionaires).md (2024-03-24)
+
+## U-013-163
+- **tipo:** concepto
+- **titulo:** Four AI-era questions: what can humans do that machines can't, and how do we secure an above-average future?
+- **desarrollo:** He admits being "pretty worried," deep in "the AI and AGI rabbit hole." Questions on his mind: what can humans do that machines can't; what will the future of work look like; what jobs, if any, will persist over the next 20 years; what can we do to secure an above-average future. He focuses on one worry most people share: "we don't know what to teach children because we don't know what will be relevant in 20 years."
+- **ejemplos:** ninguno
+- **cita:** "we don't know what to teach children because we don't know what will be relevant in 20 years"
+- **terminos:** AGI, future of work
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 0:00, 2024-03-24
+- **tension:** ninguna
+
+## U-013-164
+- **tipo:** fuente-de-tercero
+- **titulo:** Devon Eriksen as the source: a long-form X post and the novel Theft of Fire
+- **desarrollo:** His answers came from a post by "Devin Ericson" (Devon Eriksen) — a long-form post on Twitter he found "extremely good"; he then watched podcasts Eriksen appeared on. Eriksen is "not a huge name yet"; he recently released a fiction book, Theft of Fire, which Dan started reading ("I haven't read a fiction book in so long"). Throughout the video he mixes Eriksen's points with his own thoughts.
+- **ejemplos:** ninguno
+- **cita:** ninguna
+- **terminos:** ninguno
+- **origen:** de-tercero:Devon Eriksen
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 0:00-1:32, 2024-03-24
+- **tension:** ninguna
+
+## U-013-165
+- **tipo:** fuente-de-tercero
+- **titulo:** "Only slaves are expected to perform one task for their entire life": school mirrors slave education
+- **desarrollo:** Eriksen's first point: "Only slaves are expected to perform one task for their entire life"; our education system reflects the education slaves were given — career-specific skills like herding sheep, growing wheat, riding a horse. Dan's expansion: today we're taught to be useful workers; that's what school is designed for and our life trajectory since birth: obey at school, do assignments you don't care about so you can keep doing things you don't care about "so that you never actually get around to the things that you do care about." We're conditioned to get good grades out of fear of punishment; growing up, "you need to speak this certain way or else you're going to be punished"; learn specific skills to perform a specific task so you aren't punished with a bad life of little money; learn to get paid for a specific skill by a specific person "so that they can become your master and you become a wage slave."
+- **ejemplos:** Herding sheep, growing wheat, riding a horse.
+- **cita:** "only slaves are expected to perform one task for their entire life"
+- **terminos:** wage slave, conditioned, useful workers
+- **origen:** adaptada-de:Devon Eriksen
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-164
+- **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 1:32-2:16, 2024-03-24
+- **tension:** ninguna
+
+## U-013-166
+- **tipo:** argumento
+- **titulo:** A free man acts on his interests; if you don't choose a purpose you'll be assigned one, and your learning is limited to assigned goals
+- **desarrollo:** Eriksen's second point: "a free man is expected to act on his interests and do many things throughout his life." Dan connects it to his book: "if you don't create a purpose you will be assigned one" (or "if you don't choose a purpose..."). A purpose is a goal; most people don't set and pursue their own goals. Goals are everything — that's how you survive since birth: given goals by parents, teachers, employer, "and that's usually it" for people who can't zoom out to choose long-term goals. Chain: a goal implies learning the knowledge and skills to achieve it -> assigned goals mean you only learn what's needed for those goals -> you explore nothing outside -> you take the same path others took -> you get the results others have -> and 99% aren't satisfied with those results. "If you don't choose your own goal you do not choose what you learn or what problems you solve; your destiny is decided for you, because the only potential you know is the one you were assigned."
+- **ejemplos:** Parents, teachers, employer as goal assigners.
+- **cita:** "if you don't choose your own goal you do not choose what you learn or what problems you solve your destiny is decided for you"
+- **terminos:** if you don't choose a purpose you will be assigned one, self-generated goals
+- **origen:** adaptada-de:Devon Eriksen
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-165
+- **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 2:16-3:46, 2024-03-24
+- **tension:** ninguna
+
+## U-013-167
+- **tipo:** definición
+- **titulo:** True education: an orientation for how to live, think and learn without dependence — not a clone-producing machine
+- **desarrollo:** Eriksen's third point: the difference between slave and free person is "how to live, how to think and how to learn." Dan: "True education is not a clone producing machine that we call the public school; true education is an orientation for how to live without being dependent on everyone but yourself for your survival." It doesn't teach only career-specific skills (which everyone worries about children learning); it teaches how to become resilient and creative, learn faster, be adaptable, and use technology's new tools "so that you are not used by them."
+- **ejemplos:** ninguno
+- **cita:** "true education is an orientation for how to live without being dependent on everyone but yourself for your survival"
+- **terminos:** true education, clone producing machine
+- **origen:** adaptada-de:Devon Eriksen
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-166
+- **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 3:46, 2024-03-24
+- **tension:** ninguna
+
+## U-013-168
+- **tipo:** definición
+- **titulo:** Creativity is achieving any goal with the knowledge and skill available to you, not fancy art
+- **desarrollo:** Last point: stop worrying about what career skills AI will make obsolete; worry about whether you are training, or being trained, to make "ideal-future-aligned decisions," be open-minded and perceptive, and be self-motivated. "Everyone is creative, and creativity is about achieving any goal with the knowledge and skill available to you, not fancy art or designs." So you must learn to set self-generated goals; use the internet, mentors and abundant information to educate yourself; embrace trial and error, self-reflect and experiment to create your own path. "Creativity gives you the power to do whatever you want in life; those who don't realize this gift are going to be doomed to the assignments of others." (Seven traits of the irreplaceable individual promised for the next video.)
+- **ejemplos:** ninguno
+- **cita:** "creativity is about achieving any goal with the knowledge and skill available to you not fancy art or designs"
+- **terminos:** creativity, self-generated goals, irreplaceable individual
+- **origen:** adaptada-de:Devon Eriksen (mixed with Dan's own framing; boundary ambiguous)
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-167
+- **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 3:46-5:23, 2024-03-24
+- **tension:** ninguna
+
+## U-013-169
+- **tipo:** principio
+- **titulo:** Study human nature, then study whatever you want: immutable principles persist when the future is unknowable
+- **desarrollo:** "Study human nature, then study whatever you want." It's impossible to know the future; all we know is that there will be a way of life that leads to the most satisfaction. You can't depend on school, government, parents or anyone to secure your future — every successful person "by any measure" has taken it into their own hands. An ideal future lifestyle will have unique aspects, but also "immutable principles of human nature that have persisted and will persist," which you must learn. To find them, look at what is not taught in schools: if schools train modern slaves for one task, what do "sovereign individuals" teach themselves?
+- **ejemplos:** ninguno
+- **cita:** "study human nature then study whatever you want"
+- **terminos:** immutable principles of human nature, sovereign individuals
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-167
+- **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 5:23-6:11, 2024-03-24
+- **tension:** ninguna
+
+## U-013-170
+- **tipo:** fuente-de-tercero
+- **titulo:** Devon Eriksen's seven "liberating arts": logic, statistics, rhetoric, research, practical psychology, investment, agency
+- **desarrollo:** Eriksen's version of the Seven Liberal Arts, which he calls "the liberating arts" so as not to be confused with "the ideological monstrosity that is taught in liberal art school." Quoted: logic — how to derive truth from known facts; statistics — how to understand the implications of data; rhetoric — how to persuade and spot persuasion tactics; research — how to gather information on an unknown subject; practical psychology — how to discern and understand the true motives of others; investment — how to manage and grow existing assets; agency — how to make decisions about what course to pursue and proactively take action. With these, technical or career-specific skills "won't matter": you can adapt to and change them at any time.
+- **ejemplos:** ninguno
+- **cita:** "agency how to make decisions about what course to pursue and proactively take action to pursue it"
+- **terminos:** Seven Liberal Arts, liberating arts, logic, statistics, rhetoric, research, practical psychology, investment, agency
+- **origen:** de-tercero:Devon Eriksen
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-169
+- **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 6:11-6:59, 2024-03-24
+- **tension:** ninguna
+
+## U-013-171
+- **tipo:** framework
+- **titulo:** The future-proof skill stack: marketing and sales (rhetoric, psychology), writing and thinking (logic, research), entrepreneurship (statistics, agency, investment)
+- **desarrollo:** Eriksen's post stuck out because Dan had already learned these skills "in a unique way," within his worldview of starting a creator-based business — "because you are naturally a creator," meaning a creator of value distributed as a content creator, viable as a one-person business with technology. His mapping: (1) Marketing and sales — "if you don't know how to attract and persuade you will never get what you want, and your only option will be for an employer or the government to give it to you"; covers rhetoric and psychology. (2) Writing and thinking — the ability to communicate the value in your unique mind, the foundation of getting in front of others; covers logic and research. (3) Entrepreneurship — taking your future into your own hands, "hunting for my survival," building products you want to see that others care about; covers statistics, agency and investment.
+- **ejemplos:** ninguno
+- **cita:** "if you don't know how to attract and persuade you will never get what you want and your only option will be for an employer or the government to give it to you"
+- **terminos:** future proof skill stack, creator of value, creator-based business
+- **origen:** adaptada-de:Devon Eriksen
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-170
+- **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 6:59-8:35, 2024-03-24
+- **tension:** ninguna
+
+## U-013-172
+- **tipo:** definición
+- **titulo:** Any mental process that becomes more efficient with time is a skill — including entrepreneurship
+- **desarrollo:** Some say entrepreneurship isn't a skill but a stack of skills. He argues "any mental process that becomes more efficient with time is a skill. Everything is a skill, but people just aren't showing up to their life as a practice."
+- **ejemplos:** ninguno
+- **cita:** "any mental process that becomes more efficient with time is a skill"
+- **terminos:** everything is a skill, life as a practice
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-171
+- **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 8:35, 2024-03-24
+- **tension:** ninguna
+
+## U-013-173
+- **tipo:** proceso
+- **titulo:** Nobody can teach you to market, sell, think or write — learn by self-experiment in five steps
+- **desarrollo:** "What makes these skills beautiful is that nobody can teach you how to market, sell, think or write; they can only show you how they did it." So you must self-experiment — "the only way to learn them." Steps: (1) research processes others have found success with (a simple internet search); (2) experiment with various techniques — implement and attempt to get results; (3) identify patterns and principles — note similarities and double down on them; (4) create your own process — tailor to your lifestyle and situation; (5) contribute to true education by passing it down — give people education that can't be taught in schools, with fundamental grounding and critical thinking.
+- **ejemplos:** ninguno
+- **cita:** "nobody can teach you how to market sell think or write they can only show you how they did it"
+- **terminos:** self-experiment, true education
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-171
+- **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 8:35-9:18, 2024-03-24
+- **tension:** ninguna
+
+## U-013-174
+- **tipo:** concepto
+- **titulo:** How the stack interlocks: entrepreneurship sets the scene, writing tests value (social media as testing ground), psychology makes it valuable, persuasion not force
+- **desarrollo:** With entrepreneurship as your vessel, "you set the scene for true education and sovereignty." With writing and thinking, you continuously create, test and iterate on your value — "social media as an example is a testing ground for ideas." Both require practical psychology — marketing and sales — to understand readers' and customers' minds so your creations are actually valuable. "You then persuade, not force or deceive, to inspire people to care about the value you have to offer." (These are the foundation of Cortex University, "my school for becoming a synthesizer in 60 days.")
+- **ejemplos:** Social media as testing ground.
+- **cita:** "you then persuade not force or deceive to inspire people to care about the value you have to offer"
+- **terminos:** vessel, sovereignty, testing ground for ideas, synthesizer
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-171
+- **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 9:18-10:07, 2024-03-24
+- **tension:** ninguna
+
+## U-013-175
+- **tipo:** concepto
+- **titulo:** Technical know-how in the digital Renaissance is how you apply the future-proof stack: social media, content, email, visual design, funnels
+- **desarrollo:** To be more irreplaceable, add technical know-how: social media (building a name as "your storefront for the value you create, the command center for your business"); content (writing or video to educate, entertain and inspire people to see your value); email marketing (newsletters or sequences to nurture the audience); visual design (to illustrate the vibe of your brand and spark emotion); funnel building (landing pages, websites, fueled by content and email). Technical know-how is "how you apply the future-proof skill stack" and "these can change and will change with time." Sam Altman says coding will still be around but may take a completely different shape — maybe not the same language, maybe free-written — but "the ability to think through problems is still going to persist." So: balance creative work and specific work — specific domain knowledge to understand inner workings, plus creativity to adapt and change course.
+- **ejemplos:** Sam Altman on coding's changing shape.
+- **cita:** "the ability to Think Through problems is still going to persist"
+- **terminos:** technical know-how, digital Renaissance, storefront, command center, creative work and specific work
+- **origen:** propia (with reference to Sam Altman)
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-171
+- **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 10:07-11:45, 2024-03-24
+- **tension:** ninguna
+
+## U-013-176
+- **tipo:** principio
+- **titulo:** You don't find a profitable niche, you create one through persuasion — interest is programmed
+- **desarrollo:** Third layer: personal interests to make it unique, answering "what do I write about, market, sell, email, design?" Answer, "simpler than you think": use them with the interest you can't help but tell others about — the books you can't put down, the ideas flooding your search history ("not those ones"), the projects you dream of building but can't find time for. "You don't find a profitable niche, you create one through persuasion." Nobody can tell you which niche; only the one they went into. If you understood the future-proof skills and human nature, you'd understand "you control the perception of your interest." "Interest is generated, interest is programmed": you're interested in things because of how you were raised and the information you were exposed to, so others can become interested via well-placed writing on social media — it has happened to you (scroll and see something change your behavior). You spend time, attention and money on interests, so others will spend those on you if you're valuable enough. "Free people don't find a niche, they create one."
+- **ejemplos:** Search history; being persuaded by the timeline.
+- **cita:** "you don't find a profitable Niche you create one through persuasion"
+- **terminos:** interest is programmed, create a niche, perception of your interest
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-171
+- **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 11:45-13:19, 2024-03-24
+- **tension:** ninguna
+
+## U-013-177
+- **tipo:** concepto
+- **titulo:** In the second Renaissance neither generalists nor specialists win — generalized specialists do
+- **desarrollo:** "We are in the middle of a second Renaissance, meaning that the generalists don't win, the specialists don't win, it's the generalized specialists."
+- **ejemplos:** ninguno
+- **cita:** "the general generalist don't win the Specialists don't win it's the generalized Specialists"
+- **terminos:** second Renaissance, generalized specialists
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 13:19, 2024-03-24
+- **tension:** Refines the 2023 claim "skill stacking > being a specialist" (U-013-038): now the winner is a hybrid.
+
+## U-013-178
+- **tipo:** dato
+- **titulo:** Top 5% in 6-12 months of obsessive learning, 30-60 minutes a day; the 95% put in 0% extra effort
+- **desarrollo:** You can become top 5% in the skills that let you control your future "with 6 to 12 months of obsessive learning and building on the internet," enough to make a living, investing no more than a few hundred dollars, if any. Most don't try because they don't realize "the 95% is comprised of people who put 0% effort outside of anything they were told to do by their parents or society." "30 to 60 minutes a day for 6 to 12 months puts you ahead of almost everyone, and even that is too much to ask of most people. There is no competition if you can see it."
+- **ejemplos:** ninguno
+- **cita:** "there is no competition if you can see it"
+- **terminos:** top 5%
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-177
+- **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 13:19-14:06, 2024-03-24
+- **tension:** ninguna
+
+## U-013-179
+- **tipo:** argumento
+- **titulo:** The decentralized education system: learn from people who actually do it, not employed teachers who aren't free
+- **desarrollo:** A decentralized education system is being built "right in front of our eyes": creators forging their own paths and passing down lessons, experiences and new career paths as education on social media. If you don't have a habit of learning online "you probably aren't going to make it": (1) university curricula can't update fast enough; (2) you must be self-reliant — no one will teach it to you. It's "silly to bank your future of education on those who are employed to be teachers" — not general education (useful for getting people on the same page) but further education at "the pivotal moment where you must choose what interest you want to pursue." "It is wise to avoid education by those teaching how to be free but aren't free themselves." STEM makes sense (hard skills), but schools don't teach entrepreneurship, living better, or making more money — so the internet is flooded with those teachers; people call it a scam or grift, "when that's the only place it can be taught." "You can't get credentials from school that make you a business owner; you just have to be a business owner." Learn from those doing it: posts, podcasts, videos, courses, coaching.
+- **ejemplos:** STEM vs. entrepreneurship education.
+- **cita:** "it is wise to avoid education by those teaching how to be free but aren't free themselves"
+- **terminos:** decentralized education system, self-reliant
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-167
+- **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 14:06-15:38, 2024-03-24
+- **tension:** ninguna
+
+## U-013-180
+- **tipo:** heurística
+- **titulo:** Nobody will give you the time: set aside a 30-60 minute non-distracting block and build the habit
+- **desarrollo:** "Nobody is going to give you the time, you must take it." Set aside 30 to 60 minutes in a non-distracting block of your day and build the habit. "It will be difficult at the start, as with anything new; don't expect otherwise."
+- **ejemplos:** ninguno
+- **cita:** "nobody is going to give you the time you must take it"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-179
+- **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 15:38-16:26, 2024-03-24
+- **tension:** ninguna
+
+## U-013-181
+- **tipo:** argumento
+- **titulo:** Mastery is a blend of creative and specific work: specific domain knowledge plus a creative vessel (entrepreneurship) — the IQ-175 coder example
+- **desarrollo:** "Mastery is a blend of creative and specific work. Mastery cannot be trained, it must be practiced. You don't succeed by being smarter and you don't succeed by working harder; you succeed when you possess specific domain-relevant knowledge with a creative vessel for distribution" — know what you're doing, and be an entrepreneur. Example chain: with an IQ of 175, if a bug occurs in a complex code base and I neither know how to code nor know that code base, "my smarts mean nothing" — IQ helps learn faster but doesn't solve the problem. If I have the specific knowledge and am a coder who understands the code base, but am not the one influencing its growth and vision — the entrepreneur — "I am not free and I can be replaced." Replacing such an "A player" is hard but possible; and if replaced, do they have the knowledge and skill to use their skill set to build their own thing?
+- **ejemplos:** IQ 175 and a bug in a complex code base.
+- **cita:** "you succeed when you possess specific domain relevant knowledge with a creative vessel for distribution"
+- **terminos:** domain of Mastery, creative and specific work, creative vessel, A player
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-175
+- **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 16:26-17:12, 2024-03-24
+- **tension:** ninguna
+
+## U-013-182
+- **tipo:** framework
+- **titulo:** Domain of mastery map: entrepreneurship = vessel, marketing/sales = message, writing/thinking = medium, technical know-how = how, interests = what, ideal future = why
+- **desarrollo:** Your domain of mastery contains the future-proof stack and personal interests. Entrepreneurship is your vessel, so you're in full control of your future. Marketing and sales are your message, so you can inspire people to care. Writing and thinking are your medium, to distribute your message in public. Technical know-how is the how, to succeed in the current market. Personal interests are the what — "a craft to pour your heart and soul into." Your ideal future is the why — "so you solve a problem that you have experience with." "An ideal future is born from adversity."
+- **ejemplos:** ninguno
+- **cita:** "an ideal future is born from adversity"
+- **terminos:** domain of Mastery, vessel, message, medium, how, what, why, ideal future
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-181
+- **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 17:12-17:59, 2024-03-24
+- **tension:** ninguna
+
+## U-013-183
+- **tipo:** heurística
+- **titulo:** Successful founders build for one of three reasons: something that helps them better, solves their own problem, or what they want to see — or all three
+- **desarrollo:** Excluding cases of "unconscious competence" (born into success), stories of the most successful entrepreneurs share a theme: they built a product (1) to make something that helped them better, (2) to solve a problem in their life, or (3) to build what they wanted to see in the world — "or even better a combination of them all."
+- **ejemplos:** See U-013-184.
+- **cita:** ninguna
+- **terminos:** unconscious competence
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-182
+- **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 17:59, 2024-03-24
+- **tension:** ninguna
+
+## U-013-184
+- **tipo:** caso
+- **titulo:** The eczema soap founder: problem -> goal -> years of study -> a process that helps others (the value equation)
+- **desarrollo:** A woman with eczema could find nothing but "a boring white piece of soap that didn't smell like anything" that didn't irritate her skin, which stripped the soul out of relaxing in a spa-like shower. Wanting to bring life back into her relaxation, she studied horticulture and botanicals "for years on end" to create soap bars that smelled good, looked good and didn't irritate her skin. Dan ties it to the "value equation" from his previous video: it starts with a problem you face, which reveals a goal and sets a potential process to be created — learning the knowledge and skills to create a process that helps others reach that goal.
+- **ejemplos:** The eczema soap bars.
+- **cita:** ninguna
+- **terminos:** value equation
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-183
+- **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 17:59-18:48, 2024-03-24
+- **tension:** ninguna
+
+## U-013-185
+- **tipo:** advertencia
+- **titulo:** Fearing technology ruins your future: use it, dissect it, let it speed skill acquisition
+- **desarrollo:** "Technology only continues to advance; being scared of it is a great way to ruin your future. The wise decision is to use it, dissect it and understand it; allow it to help you acquire skills faster so that you can take control of your future."
+- **ejemplos:** ninguno
+- **cita:** "being scared of it is a great way to ruin your future"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-163
+- **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 18:48, 2024-03-24
+- **tension:** Resolves the worry voiced at the start of the video (U-013-163).
+

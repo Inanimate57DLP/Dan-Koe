@@ -3860,3 +3860,915 @@
 - **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 24:08-24:54, 2026-01-20
 - **tension:** Dan señala que antes eran cuatro pilares; en este lote no se precisa cuál se eliminó.
 
+## U-010-297
+- **tipo:** advertencia
+- **titulo:** Rejecting "business" as a dirty word closes your mind to the opportunities it would let you see
+- **desarrollo:** Dan speaks to his younger self, "conditioned, very programmed to have a negative outlook on money, a negative outlook on business." Entrepreneurship and business have become "dirty words": "that's for unethical people. That's for talented people. I'm not that talented. That's for people with a lot of money." "The danger in doing that, in closing your mind off to it, is that you're just closing your mind off to the thing that could change your life ... You're not able to see them if you reject the idea that allows you to see them."
+- **ejemplos:** ninguno
+- **cita:** "You're not able to see them if you reject the idea that allows you to see them."
+- **terminos:** dirty words
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 24:54-25:34, 2026-01-20
+- **tension:** ninguna
+
+## U-010-298
+- **tipo:** heurística
+- **titulo:** If you've ever helped anyone with any of your interests, you are qualified to start a business
+- **desarrollo:** Dan's rebuttal to "business is for talented/rich people": "if you've ever helped anyone with any of your interests in any way, then you are qualified to start a business. It doesn't need to go any further than that."
+- **ejemplos:** ninguno
+- **cita:** "if you've ever helped anyone with any of your interests in any way, then you are qualified to start a business"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-297
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 25:34-26:03, 2026-01-20
+- **tension:** ninguna
+
+## U-010-299
+- **tipo:** argumento
+- **titulo:** Entrepreneurship is modern survival and our nature; the barrier to entry collapsed, but it's skill-based and still takes time
+- **desarrollo:** "Entrepreneurship is in our nature. It is modern survival. We are wired to create and distribute value to a tribe of like-minded people. Now, that tribe is on the internet and you have to find them or attract them. We are wired to hunt, to explore the unknown, to seek novelty, and never stagnate. And psychologically, this is the most enjoyable way of life" (per flow psychology). "The barrier of entry has collapsed," but it's not easy: you won't have AI spit out 30 posts and go viral; "it's all skill-based," though multi-interest people have an advantage because they love learning. "I don't care how fast AGI is going to speed up things. It still takes time to get any form of result in life. If you were to just get it immediately, then it would become a commodity" and bring no meaning, like scrolling.
+- **ejemplos:** AI generating 30 posts.
+- **cita:** "If you were to just get it immediately, then it would become a commodity"
+- **terminos:** modern survival, tribe, flow psychology
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-298
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 26:03-26:51, 2026-01-20
+- **tension:** ninguna
+
+## U-010-300
+- **tipo:** framework
+- **titulo:** Path one, skill-based: pick a marketable skill and niche down for profit, which rebuilds a second nine-to-five
+- **desarrollo:** "Two paths that you can take when doing this one-person business thing ... or creating your life's work." Path one is skill-based, "the typical way": pick a marketable skill, create a product or service around it, talk about it online, make money. "The limitation here is the limitation of being a specialist." People niche down because they were told it was most profitable, "so now profit is your main interest," "productivity is still your god and you build yourself into a second nine-to-five working on things you don't care about for people you don't care about."
+- **ejemplos:** ninguno
+- **cita:** "you build yourself into a second nine-to-five working on things you don't care about for people you don't care about"
+- **terminos:** skill-based path, second nine-to-five
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-296
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 26:51-28:19, 2026-01-20
+- **tension:** ninguna
+
+## U-010-301
+- **tipo:** framework
+- **titulo:** Path two, development-based: one massive niche, self-actualization, made unique by the path you take toward it
+- **desarrollo:** Path two is development-based; you can observe it in creators like Dan who aren't pinned to a niche ("In one video, I talk about productivity. In this video ... business"), producing "a synthesis of ideas with one overarching topic." They typically focus on one of the four eternal markets (health, wealth, relationships, happiness), "where all human problems tend to fall, so that's where all human value tends to fall," or all of them, bundled under "self-actualization." "Most of the value creators online right now, they all have one niche. It's just a massive niche. It's self-actualization. What makes it unique is how you reach self-actualization or even get close to it. You don't even have to get there. It's just your aim." You document your journey and "take notes that are disguised as ideas"; everyone pursuing self-actualization takes "infinitely unique paths." These creators pursue their own goals (brand), teach what they learn (content), and help others achieve the goal faster (product). The skill-based path offers "very little path."
+- **ejemplos:** Dan's mix of productivity and business videos.
+- **cita:** "they all have one niche. It's just a massive niche. It's self-actualization."
+- **terminos:** development-based path, eternal markets, self-actualization, notes disguised as ideas
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-300
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 28:19-30:01, 2026-01-20
+- **tension:** ninguna
+
+## U-010-302
+- **tipo:** argumento
+- **titulo:** The skill-based path is encapsulated in the development-based path, since building your own business teaches valuable marketing and sales skills
+- **desarrollo:** "When you take this path ... the skill-based path is encapsulated in it. It's a natural part of it because you're building your own business." You must learn marketing, sales, brand, content and the strategies, "and you just become inherently valuable when you can do that because you're learning the thing that actually gets results. Not all business owners do this. Go and talk to a small business and ask if they understand any of this. They don't." So you become valuable enough to be paid, maybe not yet from your multiple interests, "but it can be a stepping stone."
+- **ejemplos:** Small business owners lacking marketing knowledge.
+- **cita:** "you just become inherently valuable when you can do that because you're learning the thing that actually gets results"
+- **terminos:** stepping stone
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-301
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 30:01-30:42, 2026-01-20
+- **tension:** ninguna
+
+## U-010-303
+- **tipo:** opinión
+- **titulo:** Dan questions whether "become a creator" is dogma: not everyone will, but anyone ambitious can, and it's within your control
+- **desarrollo:** "I really have to sit and ask myself, am I just like promoting this dogma? I tell people, start a personal brand, become a creator ... and I feel like I start to tout it as this one true way. But then ... the more I break it down, the more it seems like the one true way." He acknowledges objections ("not everyone can do this") hold truth. His answer: "anyone can. The ambitious people who want to. Everyone can't do everything," but "this has more opportunity than most of those things, and it's all within your control."
+- **ejemplos:** ninguno
+- **cita:** "am I just like promoting this dogma?"
+- **terminos:** dogma, one true way
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-302
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 30:42-31:45, 2026-01-20
+- **tension:** Autocrítica explícita: reconoce el riesgo de presentar la marca personal como "la única vía", en tensión con su crítica a las ideologías de negocio (U-010-023, U-010-160).
+
+## U-010-304
+- **tipo:** principio
+- **titulo:** You are the customer avatar: your story is your market research, and pursuing your goals validates what you'll offer
+- **desarrollo:** The development path "flips the traditional model on its head." Traditionally "you need a customer avatar, and you need to niche down to that customer avatar. But with this model, you are the customer avatar, and that makes things so much more palatable." "If you need market research, you just look at your story." "You pursue your goals in life and develop yourself, and by doing that, you have already validated the usefulness of what you will offer, and then you help the past version of yourself reach that same goal."
+- **ejemplos:** ninguno
+- **cita:** "if you need market research, you just look at your story"
+- **terminos:** customer avatar, past version of yourself
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-301
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 31:15-31:45, 2026-01-20
+- **tension:** ninguna
+
+## U-010-305
+- **tipo:** fuente-de-tercero
+- **titulo:** Gurus like Alex Hormozi say "sell to the rich"; selling to your past self is an alternative, conscious choice for creatively driven people
+- **desarrollo:** "A lot of the business gurus, like Alex Hormozi" (whom Dan loves) "will tell you to sell to the rich." You may not have been rich in your past, "and that's okay. That doesn't mean that this way doesn't work. It's just an alternative route" for those with "that deep desire to do something more creative and spend a lot of their time on what they deem meaningful," "not to say that the other way isn't meaningful." "It has to be somewhat of a conscious choice," but it doesn't limit you: Dan has "made a lot of freaking money doing this," has been working on a software company and is working on a nootropic company, opportunities he wouldn't otherwise have had.
+- **ejemplos:** Alex Hormozi; Dan's software and nootropic companies.
+- **cita:** "It's just an alternative route"
+- **terminos:** sell to the rich
+- **origen:** de-tercero:Alex Hormozi (contrastado por el autor)
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-304
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 31:45-32:30, 2026-01-20
+- **tension:** ninguna
+
+## U-010-306
+- **tipo:** principio
+- **titulo:** Don't be a YouTuber, personal brand or influencer: be you where your work can be discovered, like Jordan Peterson
+- **desarrollo:** Caveat: "Don't be a YouTube creator. Don't be a personal brand, even though I just said that. Don't be an influencer. Be you, but in a place where your work can be discovered, followed, and supported. Right now, and for the foreseeable future, that's on the internet." Jordan Peterson, "regardless of your opinion, he's not a content creator. He goes on tours. He writes books. He even has like Peterson Academy," but "he leverages social media as his base" to spread his life's work. "He isn't worried about the latest content or idea trend because his own mind transcends any of the growth strategies." "The quality and uniqueness in how he says his ideas is what sets him apart. So, your business has to be a reflection of this uniqueness of your mind."
+- **ejemplos:** Jordan Peterson, Peterson Academy.
+- **cita:** "Be you, but in a place where your work can be discovered, followed, and supported."
+- **terminos:** life's work
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-305
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 32:30-33:12, 2026-01-20
+- **tension:** Matiza sus recomendaciones de "start a personal brand" (U-010-007, U-010-085): lo esencial no es la etiqueta sino ser descubrible.
+
+## U-010-307
+- **tipo:** término-acuñado
+- **titulo:** "Brand is an environment": the little world where people come to transform, built as an accumulation of ideas over 3-6 months
+- **desarrollo:** Idea five: stop thinking of brand as your social profile, bio, profile picture, website and brand colors (Dan's are black and white "simply because it's easy, and that allows me to focus on the ideas"). "Think about brand as an environment where people come to transform. Brand is the little world you are inviting others into. Brand isn't illustrated when a reader first visits your profile. Brand is the accumulation of ideas in your reader's mind after 3 to 6 months of following you." You illustrate your worldview, story and philosophy across every touchpoint: banner, profile picture, bio, link in bio, landing page design, pinned content, posts, threads, newsletters, videos.
+- **ejemplos:** Dan's black-and-white brand colors.
+- **cita:** "Brand is the accumulation of ideas in your reader's mind after 3 to 6 months of following you."
+- **terminos:** brand is an environment, touchpoint
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-296
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 33:12-34:57, 2026-01-20
+- **tension:** En "Don't Find A Niche" (U-010-195) el plazo es 6-12 meses; aquí 3-6 meses.
+
+## U-010-308
+- **tipo:** ejercicio-del-autor
+- **titulo:** Your brand is your story: spend a day or a walk answering where you came from, your lows, beliefs and contrarian takes
+- **desarrollo:** "Your brand is your story." Spend a day or go on a walk and think: Where did you come from? What is the lowest point you've been? What other lows? What have you overcome? What is your actual story? What skills have you learned? What traits have you developed? What are some of your weird and extreme beliefs? What do you think that other people don't? What are your contrarian takes? What makes you different?
+- **ejemplos:** ninguno
+- **cita:** "What are your contrarian takes? What makes you different?"
+- **terminos:** your brand is your story, contrarian takes
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-307
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 34:57-35:23, 2026-01-20
+- **tension:** ninguna
+
+## U-010-309
+- **tipo:** método
+- **titulo:** Become a translator of ideas: filter every idea through your worldview, research what others said, and retie it in your own words
+- **desarrollo:** When thinking of ideas, content or products, "filter them through your story or through your worldview, which kind of comes naturally once you stop trying." "You become a translator of ideas, right? Because no idea is really original. We disguise stealing like an artist as research." Dan's process: pick a topic for the newsletter or video, look at what others have said about it, think about books he's read or is reading, "pick and choose ideas and kind of tie them into something new, and say them in my own words, and that alone is unique enough." Filtering through your story doesn't mean talking about yourself all the time; personal anecdotes (like his tutorial-hell opening) are relatable, "but that's not necessarily what I mean. I mean translating."
+- **ejemplos:** Dan's newsletter research routine; his tutorial-hell anecdote.
+- **cita:** "You become a translator of ideas"
+- **terminos:** translator of ideas, stealing like an artist
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-308
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 35:23-36:26, 2026-01-20
+- **tension:** ninguna
+
+## U-010-310
+- **tipo:** advertencia
+- **titulo:** You'll think your story is boring because you haven't reflected on your growth, but it is worth telling
+- **desarrollo:** "The difficult part for a lot of people, and this was myself included, is that you don't really think your story is worth telling because you think it's boring or you haven't reflected on your growth. But it is, and you'll come to realize that."
+- **ejemplos:** ninguno
+- **cita:** "you don't really think your story is worth telling because you think it's boring"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-308
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 36:26, 2026-01-20
+- **tension:** ninguna
+
+## U-010-311
+- **tipo:** ejemplo
+- **titulo:** Bios, profile pictures and site colors don't matter: Paul Graham's beloved essays live on a plain HTML site in basic text
+- **desarrollo:** "Your bio and your profile picture and your website colors, they do not matter at all." On social media you'll see profile pictures that are weird scribbles or a single color. "You're going to go to Paul Graham's website, and you're going to see that he just has an HTML website, and the formatting doesn't look good at all. His essays that everyone loves are literally just like the most basic Arial text." "The quality of ideas and unique perspective is what matters."
+- **ejemplos:** Paul Graham's website; scribble or single-color profile pictures.
+- **cita:** "The quality of ideas and unique perspective is what matters."
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-307
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 36:26-37:10, 2026-01-20
+- **tension:** ninguna
+
+## U-010-312
+- **tipo:** método
+- **titulo:** Branding: study 5-10 aspirational people for patterns, add your spin, and don't let brand polish block everything else
+- **desarrollo:** "Make a list of five to 10 people you respect online," aspirational people you want to become like. Look at their profile picture, bio and content, take mental notes of patterns between them, then formulate what you should do with your own spin. "In all honesty, I wouldn't overcomplicate this." In his workshops, people "would put off doing anything else until they got their brand right, when it really does not matter, because that's not what a brand is. A brand is what you associate yourself with, the ideas you post over time, the people you talk to, the podcasts you go on ... It's just how people view you." He links his article "How to Build a World, the two-hour content ecosystem expanded."
+- **ejemplos:** Workshop attendees stuck on branding.
+- **cita:** "A brand is what you associate yourself with, the ideas you post over time, the people you talk to"
+- **terminos:** two-hour content ecosystem, How to Build a World
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-311
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 37:10-38:25, 2026-01-20
+- **tension:** ninguna
+
+## U-010-313
+- **tipo:** principio
+- **titulo:** Content is novel perspectives: in an AI firehose of information, trust and signal matter more than ever
+- **desarrollo:** Idea six: "content is novel perspectives." "The internet is just continuing to become more and more of a firehose of information, and AI isn't helping with that. Anyone can generate anything. But what that means is that trust and signal are more important than ever." Signal is the opposite of noise: "Ooh, exciting, important. Need to pay attention to that."
+- **ejemplos:** ninguno
+- **cita:** "trust and signal are more important than ever"
+- **terminos:** novel perspectives, signal, noise, firehose
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 38:25-39:00, 2026-01-20
+- **tension:** ninguna
+
+## U-010-314
+- **tipo:** principio
+- **titulo:** Your content's guiding light is curating the best ideas in one place: your brand is all the ideas you care about, in your words, under one account
+- **desarrollo:** "The guiding light for your content should be to curate the best possible ideas in one place. Your brand is a collection of all the ideas you care about in your own words under one account on the internet."
+- **ejemplos:** ninguno
+- **cita:** "Your brand is a collection of all the ideas you care about in your own words under one account on the internet."
+- **terminos:** curate
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-313
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 39:00, 2026-01-20
+- **tension:** ninguna
+
+## U-010-315
+- **tipo:** heurística
+- **titulo:** The best podcasters and speakers repeat their 5-10 best ideas to new audiences; find yours and turn each into a thousand
+- **desarrollo:** Watching multiple podcasts of the best podcasters or public speakers, "you see that they're kind of just repeating the same five to 10 ideas, and they're just exposing their best ideas to new audiences." "They've refined their ideas enough to know that these are the ones that are the most impactful." "You have to experiment and try until you have those five to 10 ideas and then you have to turn those five to 10 ideas into each a thousand ideas."
+- **ejemplos:** Top podcasters and speakers.
+- **cita:** "they're just exposing their best ideas to new audiences"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-314
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 39:00-39:46, 2026-01-20
+- **tension:** ninguna
+
+## U-010-316
+- **tipo:** término-acuñado
+- **titulo:** "Idea density": the metric of how much high-signal content appears everywhere in your work, rising over time
+- **desarrollo:** "A metric to aim for in your content is idea density, which means that the amount of high signal or really good ideas is just everywhere, and that slowly increases over time with time and effort, and that's what creates a brand that's worth following and paying for because you just hit the mark all the time." He applies the same term to sources (U-010-320).
+- **ejemplos:** ninguno
+- **cita:** "that's what creates a brand that's worth following and paying for because you just hit the mark all the time"
+- **terminos:** idea density, high signal
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-313
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 39:46, 2026-01-20
+- **tension:** ninguna
+
+## U-010-317
+- **tipo:** framework
+- **titulo:** Choose ideas at the intersection of performance (how much others care) and excitement (how much you care): art and business
+- **desarrollo:** "The goal of curating ideas to include under your brand should fall at the intersection of one, performance, which is ideas that have the potential to do well, and this is a measure of how much other people will care, and two, excitement, which is the ideas that give you a sense of excitement to write about them. This is a measure of how much you care." "It's a balance of art and business": Will others care? Has this done well before? Do I have a good hook? And what do I care about? "It's not blatantly copying what works. It's doing something unique, but also taking into account the principles that are actually going to capture attention."
+- **ejemplos:** ninguno
+- **cita:** "It's a balance of art and business."
+- **terminos:** performance, excitement, art and business
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-316
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 39:46-40:33, 2026-01-20
+- **tension:** ninguna
+
+## U-010-318
+- **tipo:** método
+- **titulo:** Step 1: build an "idea museum" (a swipe file) and capture ideas the moment they come to mind
+- **desarrollo:** "Step one is to build an idea museum. This is the most useful thing." It's what marketers call a swipe file: a document or a folder in Eden, Notion or Google Docs. Dan describes Eden (his product; waitlist, cohort rounds) as an intelligent drive storing files, PDFs and videos, searchable, which transcribes and downloads YouTube or social links, makes them referenceable with AI, and lets you work in canvases or projects, replacing Google Drive, some AI apps, or Frame for video review. "The point is that you need somewhere to jot down ideas as soon as they come to mind. This is a critical habit."
+- **ejemplos:** Eden, Notion, Google Docs.
+- **cita:** "you need somewhere to jot down ideas as soon as they come to mind. This is a critical habit."
+- **terminos:** idea museum, swipe file, Eden
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-317
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 40:33-41:51, 2026-01-20
+- **tension:** ninguna
+
+## U-010-319
+- **tipo:** heurística
+- **titulo:** Content pillars are useful, but the whole strategy can be: focus on the ideas important to you and share them
+- **desarrollo:** Others (and Dan in the past, e.g. his "content map," which creates a web of content ideas) teach focusing on two to three content pillars, maybe one, broken down into topics and subtopics. "That's very useful, but if you want to avoid all of that, just focus on the ideas that are important to you and share those. That's it. That's your entire content strategy."
+- **ejemplos:** The content map.
+- **cita:** "just focus on the ideas that are important to you and share those. That's it."
+- **terminos:** content pillars, content map
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-318
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 41:51-42:20, 2026-01-20
+- **tension:** Simplifica su propio método anterior de 2-3 temas y subtemas (U-010-140).
+
+## U-010-320
+- **tipo:** método
+- **titulo:** Step 2: fill the museum from 3-5 high idea-density sources: old books, curated blogs and accounts, heavy-hitting social accounts
+- **desarrollo:** "Have three to five sources of information that have high idea density," where you consistently think "Damn, I wish I wrote that." Do it "without judgment": don't let "it's been said over and over" or "too basic" cloud your mind; jot it down, then reframe and post. Sources: (1) old or little-known books: Dan has five books he rereads over and over; "these are where the timeless principles live. They're untouched by trends." (2) Curated blogs, accounts or books: Farnam Street (curates the best ideas for modern intellectuals), Navalism (curates Naval's best ideas), the Maxwell Daily Reader (Maxwell's best ideas one day at a time for a year); they "do a lot of the heavy lifting" by exposing you to validated ideas. (3) Heavy-hitting social accounts: Dan has a list of about five; when he has nothing to write, he scrolls their pages, finds something he has an opinion on and writes about it. You should also discover ideas yourself (mid-video, while scrolling).
+- **ejemplos:** Farnam Street, Navalism, Maxwell Daily Reader; Dan's five reread books.
+- **cita:** "Damn, I wish I wrote that."
+- **terminos:** idea density, timeless principles
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-318
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 42:20-43:39, 2026-01-20
+- **tension:** ninguna
+
+## U-010-321
+- **tipo:** método
+- **titulo:** Step 3: write one idea 1,000 ways; articulation does more heavy lifting than the idea, which makes you "niche in spirit" versus AI
+- **desarrollo:** "Learn how to write one idea 1,000 different ways because that's all this game is": you have your five to 10, maybe 20, best ideas and rewrite them "from all different angles." This is more effective now because AI can generate all information; people follow you because you don't have all information: you're "niche in spirit compared to AI," even if you talk about many things. "Becoming a good writer or speaker isn't only about the idea, but how you articulate the idea. The idea does a lot of the heavy lifting, but the structure of the idea, how it's articulated, does even more."
+- **ejemplos:** ninguno
+- **cita:** "ideas are cheap, but articulation of the ideas is expensive"
+- **terminos:** one idea 1,000 different ways, niche in spirit, articulation
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-315
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 43:39-44:56, 2026-01-20
+- **tension:** ninguna
+
+## U-010-322
+- **tipo:** ejemplo
+- **titulo:** Same idea, two structures: "One pattern I've noticed in happy people" vs a list ending "In other words..."
+- **desarrollo:** Structure one (a post Dan wrote): "One pattern I've noticed in happy people. They're obsessed about maintaining their mental clarity." Two parts: a hook in the form of an observation, and the delivery of the observation. Structure two, same idea: "Happy people are clear-minded people. They take time for rest. They focus on one singular goal. They ruthlessly eliminate distractions. In other words, happy people are obsessive about maintaining their mental clarity." "Same idea, a different structure, and a different impact." The first will probably do a bit better; the second isn't bad, "it just shows that this is a skill." Recommendation while practicing: write every idea you come across in a few different ways and post them.
+- **ejemplos:** Happy people and mental clarity posts.
+- **cita:** "It's the same idea, a different structure, and a different impact."
+- **terminos:** hook, observation, delivery, structure
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-321
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 44:56-46:29, 2026-01-20
+- **tension:** ninguna
+
+## U-010-323
+- **tipo:** método
+- **titulo:** Build a second museum of structures and practice with a 3x3 matrix, plugging each idea into each structure
+- **desarrollo:** Go to your idea museum, break down the structures of the ideas there, and "create a second idea museum of structures that you can use." Practice: take the first three ideas you note, break down how each is structured, then interchange them "like a 3 by 3 matrix": take idea one, plug it into idea three's structure, and practice writing that way.
+- **ejemplos:** ninguno
+- **cita:** "take idea one, plug it into idea three structure and you practice writing like that"
+- **terminos:** museum of structures, 3 by 3 matrix
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-322
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 46:29, 2026-01-20
+- **tension:** ninguna
+
+## U-010-324
+- **tipo:** método
+- **titulo:** Use AI as a writing tutor, not a writer: Dan's prompt to reverse-engineer why a post works and how to replicate it
+- **desarrollo:** "AI is very good at helping you learn how to do this. It's not very good at writing for you." Prompt: "Do a comprehensive analysis on this social post, the overall idea, how the sentences are structured, and choice of words. Analyze why people engage with it, why it works so well, what psychological tactics are being used, and how I can replicate this style step by step with my own ideas." Paste it into something like Claude with one post, a newsletter or multiple posts; "it's going to create like a little mini course on why those worked and how to replicate it." Then take another idea and practice. "Those are all of my secrets for content." Growth without relying on the algorithm is covered in his previous video on building an audience from zero.
+- **ejemplos:** Claude.
+- **cita:** "It's not very good at writing for you"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-323
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 46:29-47:34, 2026-01-20
+- **tension:** ninguna
+
+## U-010-325
+- **tipo:** principio
+- **titulo:** Systems are the new product: people don't want a solution, they want your solution, built hyper-specifically for people like you
+- **desarrollo:** Idea seven: "we are in a systems economy. People don't want a solution to their problems. They want your solution to their problems." There are tons of writing products; what makes 2-Hour Writer or Eden stand out? A YouTube comment on the channel of Matt and Ari (Eden's co-founders) said they have no competitive edge against Google Drive; Dan says the commenter doesn't use Eden or understand where they're going: "That's in our head." They could be replaced by Google, "but the difference is that these are hyper-specific systems that I made for myself," and, deeper, "for people with the same problems as me, and no big conglomerate corporation is going to pay attention to as much detail and effectiveness." Eden is more general but for creatives who want to synthesize, resurface and connect ideas and work in a project without "10 browser tabs open"; Google's Docs, Slides and Sheets are isolated in different tabs, "and Google Drive, frankly, just has a terrible UX."
+- **ejemplos:** 2-Hour Writer; Eden vs Google Drive.
+- **cita:** "People don't want a solution to their problems. They want your solution to their problems."
+- **terminos:** systems economy, systems are the new product, hyper-specific systems
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-304
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 47:34-49:50, 2026-01-20
+- **tension:** ninguna
+
+## U-010-326
+- **tipo:** caso
+- **titulo:** How 2-Hour Writer was born: a two-hour-a-day constraint, tested week by week, against two content problems
+- **desarrollo:** "This all starts with identifying and solving problems in your life in a unique way." Dan's problems: (1) no endless source of content ideas; (2) not wanting to waste time creating content for every platform. Goal: "write all of my content in 2 hours a day. So, I had a constraint and that bred creativity." For ideas he created swipe files, steps to generate ideas that worked for him, and templates for when he still couldn't think of anything. Then he looked over his week ("a very useful practice if you're going to create a product, is how does an individual's week look"): one newsletter a week, three posts a day (on Twitter), one thread a week seemed reasonable. Questions: must each be unique? Can I talk about one theme per week? Can I write the newsletter and pull social posts from it? Testing on "a week-long timescale," you encounter problems, fix them, "and then things start to flow."
+- **ejemplos:** 1 newsletter/week, 3 posts/day, 1 thread/week.
+- **cita:** "I had a constraint and that bred creativity."
+- **terminos:** 2-Hour Writer, constraint, one theme per week
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-325
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 49:50-50:28, 2026-01-20
+- **tension:** ninguna
+
+## U-010-327
+- **tipo:** heurística
+- **titulo:** Cross-post the same content everywhere: people consume on one platform, so focus on fewer, higher-quality ideas once a week
+- **desarrollo:** Testing, Dan realized he could cross-post to every platform. Most won't try for fear people will be mad at repetition, "but frankly, I haven't noticed anything," maybe one person asks why, "but they still do well because people are usually just consuming it on one platform." "Why would I waste my time to spread my ideas thin and try to create something new for each platform that would result in a decrease in quality, rather than focus on less content with higher quality ideas, and do those once a week? And my hypothesis was correct." The newsletter goes onto his blog, then becomes a YouTube outline, and the YouTube video goes into the podcast: "I literally have all platforms on one piece of content a week that's broken down into the rest." "That's how you stand out in a world of products."
+- **ejemplos:** Newsletter -> blog -> YouTube -> podcast.
+- **cita:** "people are usually just consuming it on one platform"
+- **terminos:** cross-post, one piece of content a week
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-326
+- **fuente:** If you have multiple interests, do not waste the next 2-3 years.md, 50:28-51:59, 2026-01-20
+- **tension:** ninguna
+
+# Fuente: If You Have Multiple Interests, Start A One-Person Business.md (2026-06-13)
+
+## U-010-328
+- **tipo:** historia
+- **titulo:** Dan's obsessive cycles: fitness, spirituality, digital art, photography, web development, psychology, philosophy and business skills
+- **desarrollo:** "I'm a very obsessive person because when I find something that I am interested in, truly interested in, nothing else matters. My focus becomes seamless. I could work 24 hours a day if I didn't value sleep." He has gone through these obsessive cycles multiple times: fitness, then spirituality, digital art, photography, web development, psychology and certain branches of philosophy, and "various high-value skills that I was told to learn like marketing, copywriting, sales," the things required to start a business. Many people share this quality, but few around them display it.
+- **ejemplos:** The sequence of his obsessions.
+- **cita:** "when I find something that I am interested in, truly interested in, nothing else matters"
+- **terminos:** obsessive cycles, high-value skills
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 0:00, 2026-06-13
+- **tension:** ninguna
+
+## U-010-329
+- **tipo:** principio
+- **titulo:** Everything is interesting if you look deep enough; "I'm not interested in anything" means you're distracted and dulled by pleasure-seeking
+- **desarrollo:** Dan thinks obsessiveness and love of learning is "a superpower" that lets him "get very far ahead of other people very quickly," because many people "just can't become interested in things." "If you look deep enough, everything is interesting. Absolutely everything. Just stare at your wall, and then dig deeper. How was it built? What is the process that went into making it? Why is the outlet structured in that way?" "You have an entire learning rabbit hole that you can go down with anything." "I think you're just distracted, and you've engaged in so much pleasure seeking that simple things just don't bring you joy."
+- **ejemplos:** Staring at a wall and an outlet.
+- **cita:** "If you look deep enough, everything is interesting."
+- **terminos:** rabbit hole, pleasure seeking
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-328
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 0:46-1:32, 2026-06-13
+- **tension:** ninguna
+
+## U-010-330
+- **tipo:** argumento
+- **titulo:** Society calls multiple interests a weakness because of the industrial paradigm: specialize, perform mechanical tasks for 40 years, retire too late
+- **desarrollo:** "Society has convinced you that that trait ... of loving learning or having multiple interests is a weakness," and you may believe it because you spend all day in rabbit holes "and frankly you don't really have much to show for it. All you have is a bit of knowledge." It's understandable: "most people still have a worldview influenced by the industrial paradigm. They fully believe that becoming a specialist, getting a job that requires you to perform a mechanical string of tasks for 40 years, and retiring at an age where your money can't be put to great use outside of buying material objects because you were deprived for so long, is still the best route." Dan "can confidently tell you that that is not the best route."
+- **ejemplos:** ninguno
+- **cita:** "most people still have a worldview influenced by the industrial paradigm"
+- **terminos:** industrial paradigm
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-329
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 1:32-2:15, 2026-06-13
+- **tension:** ninguna
+
+## U-010-331
+- **tipo:** framework
+- **titulo:** What multiple interests signal: high agency, a unique point of view, and everything needed for a modern income
+- **desarrollo:** Having multiple interests "is potentially a superpower" because: (1) "it signals that you have high agency"; (2) "it signals that you have unique point of view"; (3) "it signals that you have everything required to turn your interests into a modern source of income," every multi-interest person's dream of pursuing them full time. The video aims to show why learners are ahead of most of the population, how "you already do 80% of the work required to make an income, that is, you already research, you just don't think of it as that," and options for side or full-time income, "preferably by discovering and pursuing your life's work" ("it's a lot better if it's meaningful money").
+- **ejemplos:** ninguno
+- **cita:** "you already do 80% of the work required to make an income, that is, you already research"
+- **terminos:** high agency, point of view, meaningful money
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-330
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 2:15-3:44, 2026-06-13
+- **tension:** ninguna
+
+## U-010-332
+- **tipo:** fuente-de-tercero
+- **titulo:** Naval: code and media are permissionless leverage that works while you sleep; today media means content
+- **desarrollo:** Part one, "why learners and improvers ... have more leverage than ever," starts with Naval: "Code and media are permissionless leverage. They're the leverage behind the newly rich. You can create software and media that works for you while you sleep." Dan explains that media used to be radio, billboards, books, physical mail, newspapers; "today, it's content," and content can work while you sleep: this video links to Eden, some will pay, and it keeps growing and driving traffic. Two things are needed: (1) a source of traffic, media, created on a consistent schedule with a strategy; (2) your offer, what you sell independently instead of selling your boss's product.
+- **ejemplos:** This YouTube video driving traffic to Eden.
+- **cita:** "Code and media are permissionless leverage."
+- **terminos:** permissionless leverage, media, offer, source of traffic
+- **origen:** adaptada-de:Naval
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 2:58-4:33, 2026-06-13
+- **tension:** ninguna
+
+## U-010-333
+- **tipo:** argumento
+- **titulo:** "I don't want to sell an offer": you already sell one, your boss's; just sell one you want and create media to sell it
+- **desarrollo:** "Oh, I don't want to sell an offer. You're already selling one. You're playing the role that your boss gave you to sell the product that they're selling. So, all you need to do is sell a product that you actually want to sell, and then create media to sell it." There's a lot that goes into that, "that's why we're here."
+- **ejemplos:** ninguno
+- **cita:** "You're already selling one."
+- **terminos:** offer
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-332
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 4:33, 2026-06-13
+- **tension:** ninguna
+
+## U-010-334
+- **tipo:** definición
+- **titulo:** Leverage is the multiplier between input and output; technology lets one person reach thousands or millions
+- **desarrollo:** "Leverage, in this context, is the multiplier between input and output. In other words, a small action can create a disproportionately large effect, and technology continues to increase the power an individual holds." With the internet and social media you can write an article, post, tweet or reel that can reach millions, impossible with radio (which you'll probably never get on) or by sending "a million handwritten letters." "The average everyday person now has the potential to reach a lot of people. Maybe not millions, but even thousands is crazy."
+- **ejemplos:** Radio, TV, handwritten letters vs posts.
+- **cita:** "Leverage, in this context, is the multiplier between input and output."
+- **terminos:** leverage
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-332
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 4:33-5:40, 2026-06-13
+- **tension:** ninguna
+
+## U-010-335
+- **tipo:** heurística
+- **titulo:** A thousand people paying you monthly replaces your salary; the market is sophisticated, but learners can acquire the skill
+- **desarrollo:** "What if a thousand people pay you a certain amount of money per month? You're set. You're not a mega millionaire because you don't have to be, but you've effectively replaced your salary and probably then some more." It's still possible: social media has evolved and the market has become sophisticated, but you are a learner, "you can acquire the skill, and you can create the strategy through dedicated learning and research that allows you to do this because most people won't do that."
+- **ejemplos:** ninguno
+- **cita:** "what if a thousand people pay you a certain amount of money per month? You're set."
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-334
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 5:40, 2026-06-13
+- **tension:** ninguna
+
+## U-010-336
+- **tipo:** principio
+- **titulo:** People make excuses for what they don't understand: social media success isn't luck but a domain studied full time
+- **desarrollo:** "People create excuses for things that they don't understand. And if excuses are for the incompetent, then incompetent people will think, 'Oh, social media is just about luck. Everyone's posting content, but only a few get picked to do well.'" In reality, those who do well "treat it as their full-time job to study and understand why that mechanism works." "You just see it as people posting on social media because you're a consumer. You're not in the game. You haven't studied that domain of knowledge. And yes, it's a domain of knowledge, like anything else." Not understanding it, you label it as a simple thing and conclude it's useless or that you can't do it.
+- **ejemplos:** ninguno
+- **cita:** "people create excuses for things that they don't understand"
+- **terminos:** domain of knowledge, consumer
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-335
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 5:40-6:23, 2026-06-13
+- **tension:** ninguna
+
+## U-010-337
+- **tipo:** argumento
+- **titulo:** AI democratized code: one person can build a small digital product and AI-built funnel that once needed a team, if they add personal taste
+- **desarrollo:** "Now AI has become a thing, and the ability to code or program, another form of leverage, has become democratized." You probably won't build the next Notion, Salesforce or social platform without a dev team, "but most average people can absolutely build a small-scale digital product that they can sell, accompanied by a full marketing funnel that they can have the AI build out." Not everything is written by AI: "you have to impress your personal taste on it so that it sounds like you, and so that actually works." Building the prototype is faster than ever: "you can do the thing that used to take a team of 10, 20, 30, 40, 50 people as one person." This was always possible with social media and information products (his old one-person business videos: build an audience, write content 2 hours a day, create a digital product, sell it in your content), "but information products are abundant." He doesn't think they will die.
+- **ejemplos:** Notion, Salesforce as unrealistic targets.
+- **cita:** "you have to impress your personal taste on it so that it sounds like you"
+- **terminos:** democratized, personal taste, one-person business
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-332
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 6:23-7:53, 2026-06-13
+- **tension:** ninguna
+
+## U-010-338
+- **tipo:** caso
+- **titulo:** A modern philosophy school on Substack: a creator teaching philosophy with weekly lectures on the paid tier
+- **desarrollo:** Example to ground the idea for multi-interest or single-interest people: "Paul Musso" (name as transcribed; spelling uncertain) "has built a modern philosophy school on Substack. He quite literally just teaches philosophy on Substack. That's the paid tier of his Substack. He does weekly lectures that people can attend." Dan has written about it in his book "Purpose and Profit," free on his Substack. Later he speculates Paul could build a philosophy learning app, but he doesn't need to, since what he does already works.
+- **ejemplos:** Philosophy school on Substack; Purpose and Profit book.
+- **cita:** "He quite literally just teaches philosophy on Substack."
+- **terminos:** Purpose and Profit
+- **origen:** propia (caso de un tercero)
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 7:53-8:37 y 29:18, 2026-06-13
+- **tension:** ninguna
+
+## U-010-339
+- **tipo:** concepto
+- **titulo:** The good side of the creator economy is a decentralized education system whose business model is "improve yourself, then improve others"
+- **desarrollo:** "I see the good parts of the creator economy as somewhat of a decentralized education system. Passionate individuals dive deep into their interests, pull out the compelling parts, make them useful, and teach them." Most people now get most of their education related to their own goals ("not their parents' goals, not their universities' goals") from YouTube and social media creators they resonate with; you won't learn this video's content in college or high school, so you must supplement and self-educate. "Their entire business model, my entire business model, is improve yourself and then improve others." So if you have interests to talk about, you have a way of building an audience: traffic and leverage. "The difficulty lies in talking about your interests in a way that captures attention and makes people want to follow you."
+- **ejemplos:** ninguno
+- **cita:** "my entire business model, is improve yourself and then improve others"
+- **terminos:** decentralized education system, improve yourself and then improve others
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-338
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 8:37-9:56, 2026-06-13
+- **tension:** ninguna
+
+## U-010-340
+- **tipo:** caso
+- **titulo:** Eden as an AI content strategist: research what performs in your interest, learn your voice, synthesize daily ideas
+- **desarrollo:** Dan built Eden "because it makes it nearly impossible to not generate ideas worth writing about, and then it guides you through actually writing them. It's your AI content strategist" (what they are building it to be). It researches what's popular in your niche or interest, understands who you are, your voice and your existing content, and synthesizes the two into daily ideas "that you can take, make your own, and run with." It's also an "outlier tool," replacing tools content strategists for big creators use. They're working with big creators' content teams; a user reported that two posts from Eden-sourced ideas "in their own voice" got 3 million views each, posted the same day. It also has an "identities" feature that extracts your unique voice through a guided conversation. (Promotional segment; the method behind it is: research what performs, then reframe in your own voice.)
+- **ejemplos:** Two posts at 3M views each.
+- **cita:** "It's your AI content strategist"
+- **terminos:** Eden, outlier tool, identities
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-010-339
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 9:56-11:06 y 15:45, 2026-06-13
+- **tension:** ninguna
+
+## U-010-341
+- **tipo:** definición
+- **titulo:** A business is just getting paid for what you do; don't give the word a negative connotation
+- **desarrollo:** If you know how to package your interests so they get attention, or turn them into a product people pay for, "then you have a way of monetizing your interests, you have a business. And if you don't like the word business, then just think of it as getting paid for what you do. That's what a business is. Don't overcomplicate it. Don't assign any negative connotation to the word business because you think it's not for you."
+- **ejemplos:** ninguno
+- **cita:** "just think of it as getting paid for what you do. That's what a business is."
+- **terminos:** business
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 11:06, 2026-06-13
+- **tension:** ninguna
+
+## U-010-342
+- **tipo:** concepto
+- **titulo:** The business model for multiple interests: teach your interests, or turn what you would have taught into an implementation tool
+- **desarrollo:** Part two: how to turn your love for learning into a business. "You teach your interests. That's what you do. You teach. Or, you turn what you would have taught into an implementation tool," the more modern route that involves "the vibe coding or programming aspect of things."
+- **ejemplos:** ninguno
+- **cita:** "you turn what you would have taught into an implementation tool"
+- **terminos:** implementation tool
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-341
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 11:06-11:36, 2026-06-13
+- **tension:** ninguna
+
+## U-010-343
+- **tipo:** opinión
+- **titulo:** "Vibe coding" is unfairly seen as cheap: vibe coders with marketing and sales knowledge out-build programmers without it
+- **desarrollo:** Dan dislikes the term "vibe coding" because it carries a negative connotation that makes people think they're doing something cheap. "In reality, the people that are vibe coding that also have the knowledge of marketing and sales are doing a lot better than the programmers who don't have the marketing and sales knowledge because [they] are able to create a much better product." "Is it perfectly written code? No. Do I think that's a requirement to a good product? Probably not, especially in the future." Others think building a tool with AI is too easy or cheap, "a tier lower than info products because info products actually require you to have knowledge."
+- **ejemplos:** ninguno
+- **cita:** "Is it perfectly written code? No. Do I think that's a requirement to a good product? Probably not"
+- **terminos:** vibe coding
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-342
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 11:36-12:20, 2026-06-13
+- **tension:** ninguna
+
+## U-010-344
+- **tipo:** caso
+- **titulo:** The coffee-shop videographer: show your artistic edge in your own content and teach filmmaking to personal brands
+- **desarrollo:** At a coffee shop, a viewer asked Dan what to monetize. He did videography for real estate personal brands, had clients and could scale it, but ideally wanted something more artistic: filmmaking. Dan asked if he created content for his own brand: "No." Dan's advice: express the artistic side by using filmmaking and videography in his own videos so they stand out ("a part of his unique edge"), and teach what he's passionate about, videography and filmmaking, to personal brands, where he already has experience. It's "a glaring gap in the market": many personal brands don't know how to edit; Dan gets emails daily from people who think recording video is a high barrier because they don't know which editing tool to use or don't want to learn. This would attract videography/filmmaking clients by positioning him as an authority through teaching, and build a broad enough audience to eventually create a product that sells "while he sleeps" without him fulfilling a service.
+- **ejemplos:** Real estate videographer; personal brands that can't edit.
+- **cita:** "That's a part of his unique edge."
+- **terminos:** unique edge, gap in the market
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-342
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 12:20-14:18, 2026-06-13
+- **tension:** ninguna
+
+## U-010-345
+- **tipo:** principio
+- **titulo:** If you don't feel like an expert, position yourself as a student and researcher who claims no results
+- **desarrollo:** "What if I don't consider myself an expert? ... That's why you position yourself as a student and a researcher rather than an expert. You don't have to claim results. You don't have to claim that your videography skills are going to 10x their views overnight. Learning the skill in and of itself, if the tip is useful, is useful." Later: you can build "a student-style personal brand ... You just learn, research, and share what you found without claiming any results until you actually have results." Experts aren't the only ones who have an audience.
+- **ejemplos:** Videography tips without promising 10x views.
+- **cita:** "you position yourself as a student and a researcher rather than an expert"
+- **terminos:** student-style personal brand, researcher
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-344
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 14:18 y 20:52-21:32, 2026-06-13
+- **tension:** ninguna
+
+## U-010-346
+- **tipo:** proceso
+- **titulo:** The learner's business in four steps: study your interests, learn to package them, weave in your voice, turn yourself into the business
+- **desarrollo:** For people without capital, who don't care to fundraise and want something creative and meaningful: (1) Study your interests. "They are inherently valuable because you value them, meaning someone else can value them, too. And many already value them. And no, people can't just ask AI because they often don't know what to ask." (2) Learn how to package them, "because you aren't Marcus Aurelius. Writing fortune cookie tweets isn't going to get you anywhere. You must understand attention mechanics and engagement psychology. And now that you know what to ask AI, research that." (3) Weave in your unique voice, "because your audience doesn't care if you have new ideas. They want your opinion, your point of view on an idea that works." (4) Turn yourself into the business: "Your brand, content, and product all stem from your interests [and] the transformation they can provide."
+- **ejemplos:** Marcus Aurelius vs fortune-cookie tweets.
+- **cita:** "your audience doesn't care if you have new ideas. They want your opinion, your point of view on an idea that works"
+- **terminos:** attention mechanics, engagement psychology, unique voice
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-345
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 14:18-15:45, 2026-06-13
+- **tension:** ninguna
+
+## U-010-347
+- **tipo:** principio
+- **titulo:** Your sole job is to become a researcher and a vessel: research is a full-time job, as it was for Peterson, Huberman and Marcus Aurelius
+- **desarrollo:** "Your sole job is to become a researcher and a vessel. And I'm serious about this. You must consider it your full-time job to research": reading books, watching YouTube, listening to podcasts, using Eden's discover tab, "because that's what writers, creatives, and visionaries do. That's what Jordan Peterson does. That's what Andrew Huberman does. That's what Marcus Aurelius and all your beloved figureheads of the past did. They probably don't care about being a 'personal brand', but they do care about their interests." So creating content, "which was once just considered writing before it took the specific form of media on the internet, is their chosen vessel for earning an income."
+- **ejemplos:** Jordan Peterson, Andrew Huberman, Marcus Aurelius.
+- **cita:** "You must consider it your full-time job to research."
+- **terminos:** researcher, vessel
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-346
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 15:45-16:28, 2026-06-13
+- **tension:** ninguna
+
+## U-010-348
+- **tipo:** concepto
+- **titulo:** Idea workers hunt and synthesize ideas: 80% of writing is research, 20% is structuring it as only you could
+- **desarrollo:** Such people "read weird books. They find themselves in esoteric rabbit holes on the internet. They curate idea sources they love and save them in a safe place. They question what most people think, gather multiple perspectives, and synthesize a unique one. They jot down thoughts like mad scientists. They are all idea workers. They hunt for ideas and share the best ones because 80% of writing comes from research. The other 20% is structuring and writing it the way that only you could."
+- **ejemplos:** ninguno
+- **cita:** "80% of writing comes from research. The other 20% is structuring and writing it the way that only you could."
+- **terminos:** idea workers
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-347
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 16:28, 2026-06-13
+- **tension:** ninguna
+
+## U-010-349
+- **tipo:** principio
+- **titulo:** Brand is transformation: we admire people who changed our minds, then our actions, and we credit them with the results
+- **desarrollo:** "Your brand is the transformation. Remember that. That's your guiding light." Why do you admire someone? "Because they have changed your life in some fundamental way. Their content or product led to behavior change. They first change your mind, and then they change your actions, and then the results that came from those actions, you associated with that person. You gave them credit for it." Examples: James Clear convinced millions to adopt tiny habits that made big changes; Jordan Peterson "in his prime" convinced millions of young men to take responsibility and pursue meaning; Alan Watts helped people stop taking life so seriously; Naval Ravikant taught the power of digital leverage. If you heard an idea from Naval and noticed its outcome in your life, you'd attribute it to Naval.
+- **ejemplos:** James Clear, Jordan Peterson, Alan Watts, Naval Ravikant.
+- **cita:** "They first change your mind, and then they change your actions, and then the results ... you associated with that person."
+- **terminos:** brand is transformation, behavior change
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-346
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 16:28-18:01, 2026-06-13
+- **tension:** ninguna
+
+## U-010-350
+- **tipo:** principio
+- **titulo:** Your brand is invisible: an image that accumulates through content, products, behavior change and referrals, not a perfect bio
+- **desarrollo:** "Your brand as a person with multiple interests is how you help people change their lives with those interests. The more people you help, the stronger your brand becomes." People get stuck thinking they need the perfect bio, tagline or value proposition; "in reality, you don't really need to say any of those things." Creators you like often have no bio, or nothing of substance; people read your bio once or twice and it's sometimes not even the deciding factor. "Your brand is invisible. It's an image in people's minds that accumulates as they read your content, buy your products, change their behavior, and tell other people about you."
+- **ejemplos:** Creators without bios.
+- **cita:** "Your brand is invisible."
+- **terminos:** brand is invisible
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-349
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 18:01-18:43, 2026-06-13
+- **tension:** ninguna
+
+## U-010-351
+- **tipo:** ejercicio-del-autor
+- **titulo:** Three brand questions: who can you help most, what changed your life most, how can you help others do the same
+- **desarrollo:** "All you really need to do is answer three questions and have them guide most of your content because your content will create your brand." (1) Who can you help the most, and what does their life look like now? (2) What has changed your life the most, i.e. what interest do you see as important? (3) How can you help other people do the same: what about their mind and actions needs to change, and how can you help them change? You don't need to put the answers in your bio (you can) or tell people; "you simply have to write content and create products that help others change," on ideas you deem important that align with the three questions.
+- **ejemplos:** ninguno
+- **cita:** "your content will create your brand"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-350
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 18:43-19:16, 2026-06-13
+- **tension:** ninguna
+
+## U-010-352
+- **tipo:** heurística
+- **titulo:** Help your past self and stay one to three steps ahead: "$100 a day" is believable where "$5 million" sounds like a scam
+- **desarrollo:** If you struggle with the first question, "the person you can help the most is your past self. And there are plenty of other people who are like your past self." You're pursuing your best self, but you don't need to posture as it, "because a lot of the time that doesn't relate to the person down here. Usually if you're one to two to three steps ahead, that's what you want." Example: telling an average person "you want to make 5 million bucks?" sounds dumb or like a scam; "I learned this thing for how to make $100 a day, do you want me to teach it to you?" gets more openness (it could still set off alarms, but it's "a lot closer in proximity to where they are and what they believe is possible"). Questions: what situation were you in, how did you get into the interest that changed you, how can you help people go through the same transformation faster? "You just need like a starting point. You need a direction"; it refines with time.
+- **ejemplos:** $5 million vs $100 a day.
+- **cita:** "The person you can help the most is your past self."
+- **terminos:** past self, best self, steps ahead
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-351
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 19:16-20:52, 2026-06-13
+- **tension:** ninguna
+
+## U-010-353
+- **tipo:** metáfora
+- **titulo:** Content is the map and the world, built over time like the Marvel Cinematic Universe
+- **desarrollo:** "If your brand is the transformation, your content is the map that is built over time. It's the world." Think of the Marvel Cinematic Universe: Iron Man, the Avengers, Spider-Man, "built up over time in this like bingeable fashion," with TV spin-offs, movies, action figures, "an entire lore behind it. That's kind of what you're building over time."
+- **ejemplos:** Marvel Cinematic Universe.
+- **cita:** "your content is the map that is built over time. It's the world."
+- **terminos:** map, world, lore
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-349
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 20:20-21:32, 2026-06-13
+- **tension:** ninguna
+
+## U-010-354
+- **tipo:** advertencia
+- **titulo:** Beginner writers' recurring problems: what to write, how, what makes it different, why anyone would listen
+- **desarrollo:** People who want to start writing have problems that "revolve around the same things. They don't know what to write, and they don't know how to write it. They don't know what makes their writing different from everyone else's. They don't know why people would listen to them over someone else. They don't see themselves as experts, but don't understand that experts aren't the only ones who have an audience." Solution: the student-style personal brand (U-010-345).
+- **ejemplos:** ninguno
+- **cita:** "experts aren't the only ones who have an audience"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-353
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 20:52-21:32, 2026-06-13
+- **tension:** ninguna
+
+## U-010-355
+- **tipo:** metáfora
+- **titulo:** Treat content like programming a video game: any idea is fair game if it moves people from point A (level 1) to point B
+- **desarrollo:** "You treat content like you're the programmer of a video game. You have point A, where your audience is now, level one, and then you have point B, where you can help them get to, which can be level 100, or 50, or 10, or even two, just one level ahead of them. And even if you aren't level 100, you're allowed to grow. You should grow. Actually, you're the leader. That's why you attract followers ... because entrepreneurship is self-improvement in disguise." "Any idea or content is free game if it lands between your point A and point B."
+- **ejemplos:** Video game levels.
+- **cita:** "entrepreneurship is self-improvement in disguise"
+- **terminos:** point A, point B, levels, self-improvement in disguise
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-353
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 21:32-22:05, 2026-06-13
+- **tension:** ninguna
+
+## U-010-356
+- **tipo:** método
+- **titulo:** Draw the map on paper: point A and point B, then 2-3 topics (pillars), 2-3 subtopics each, 2-3 pain points or content styles each
+- **desarrollo:** "Quite literally pull out a piece of paper, draw point A on one side, point B on the other, and then you can start filling in the middle with topics and ideas." Write two to three broad topics, like health, psychology or business: "your content pillars, or your main interests broadened up a bit." For each topic, two to three subtopics. For each subtopic, two to three pain points, principles, how-tos "or other types of content styles that you've seen."
+- **ejemplos:** Health, psychology, business as pillars.
+- **cita:** "these are your content pillars, or your main interests broadened up a bit"
+- **terminos:** content pillars, subtopics, pain points
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-355
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 22:05-22:49, 2026-06-13
+- **tension:** ninguna
+
+## U-010-357
+- **tipo:** método
+- **titulo:** Frame every idea through your mission: Dan asks "how does this help you become future-proof?" (e.g. psychic entropy)
+- **desarrollo:** Dan's brand "is to help people become future-proof ... That's my niche, so to speak." His content goal: find great ideas he wants to talk about "and just frame them through the lens of becoming future-proof." On multiple interests: "how does that help you become future-proof? And this video was born." Studying flow psychology, he finds an idea he loves, "how psychic entropy causes the mind to slowly become disordered with time unless effort is put into maintaining a meaningful hierarchy of goals," and asks "How does this apply to becoming future-proof?" "Through that question alone, I now have a unique piece of content. I'm not copying the idea one-to-one, I'm applying it to a new domain from my own voice and perspective. And that is content creation in a nutshell for people who don't want to dance in front of a camera or be on TikTok." Hunt for ideas in your interests, have a mission, and tie the two together: "you frame the idea through the mission," checking against your map how it helps people get from A to B.
+- **ejemplos:** Future-proof brand; psychic entropy from flow psychology.
+- **cita:** "You frame the idea through the mission."
+- **terminos:** future-proof, frame the idea through the mission, psychic entropy
+- **origen:** propia (idea de psychic entropy tomada de la psicología del flow, sin autor citado)
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-356
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 22:49-24:18, 2026-06-13
+- **tension:** ninguna
+
+## U-010-358
+- **tipo:** método
+- **titulo:** Long-form structure from the map: intro shows point A's problem, middle explains the idea, end gives steps to point B
+- **desarrollo:** In a newsletter or YouTube video: "the introduction is illustrating the problem that point A is at. The middle is explaining the concept or idea that you want to talk about and then the end section or the actionable section is like, 'Okay, here's the steps to get to point B.' And that's how you create a newsletter. That's how you create a YouTube script. That's how you create anything long-form." For short-form, ideate short posts and study how others package and structure posts (e.g. in Eden). This matters because "if you can't get people to click and stay ... who's going to see your product?" and you'd stay in survival mode "selling a product for your boss rather than yourself."
+- **ejemplos:** ninguno
+- **cita:** "That's how you create anything long-form."
+- **terminos:** point A, point B
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-357
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 23:37-25:01, 2026-06-13
+- **tension:** ninguna
+
+## U-010-359
+- **tipo:** framework
+- **titulo:** Brand is the transformation, content is the map, product is the tool
+- **desarrollo:** Dan's summary of the three pillars in this video: "Your brand is the transformation, your content is the map, and your product is the tool."
+- **ejemplos:** ninguno
+- **cita:** "Your brand is the transformation, your content is the map, and your product is the tool."
+- **terminos:** transformation, map, tool
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-349, U-010-353
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 25:01, 2026-06-13
+- **tension:** Variante de las formulaciones del mismo trío en otros videos del lote: "brand is to attract, content is to nurture, product is to implement" (U-010-170) y "brand is goals, content is knowledge, product is process" (U-010-296).
+
+## U-010-360
+- **tipo:** historia
+- **titulo:** Dan's web design clients actually lacked clarity on brand, content and product, which led him to become a brand advisor for two years
+- **desarrollo:** "When I first started on social media, I was a web designer. I started writing on Twitter because I was tired of doing cold outreach all day. It was frankly exhausting," and he knew his next step was building an audience to land clients. As his service and knowledge evolved, many came to him "not because they wanted a website, but because they just didn't have clarity on their brand content product. They thought a website was going to fix everything," when the main funnel that would make them money "just wasn't there." He helped them, pivoted his offer, and for "a 2-year period" considered himself "a brand advisor or a personal brand advisor."
+- **ejemplos:** Clients believing a website was the missing piece.
+- **cita:** "They thought a website was going to fix everything"
+- **terminos:** brand advisor
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 25:01-25:42, 2026-06-13
+- **tension:** ninguna
+
+## U-010-361
+- **tipo:** argumento
+- **titulo:** "If I give everything away, what do I sell?": people just buy, forget and don't implement; products are systems that carry people from A to B
+- **desarrollo:** The biggest question as a brand advisor: "if I write about all these ideas and interests, what do I sell? ... People won't have a reason to buy my product if they already know it all." People ask because "they just love getting in their own heads": stressed, they pick an answer, "that answer becomes law, and then it prevents you from taking any further action" (Dan does it too). Simple answer: "people just buy things. They probably don't remember everything they read from you, and they're even more likely to never implement it." Better framing: products are "tools or systems that help people get from point A to point B on my map." A tweet or newsletter isn't the best medium for teaching a whole system through modules, worksheets and templates; 2-Hour Writer was "the complete system for implementation," "a daily set of actions backed with education," which has evolved into Eden: find validated ideas, make them your own, write, post ("The Writing Hub is the content strategy hub").
+- **ejemplos:** 2-Hour Writer; Eden.
+- **cita:** "people just buy things. They probably don't remember everything they read from you"
+- **terminos:** system for implementation, tools or systems
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-359
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 25:42-27:47, 2026-06-13
+- **tension:** ninguna
+
+## U-010-362
+- **tipo:** advertencia
+- **titulo:** If you'd rather not sell info products, build software, but it must be a system (learned through three years of failure)
+- **desarrollo:** "If you don't care to sell an info-product because everyone told you they were a scam and you were dumb enough to not think or question, then you can build a software. But again, and I've learned this through 3 years of failure so far, it needs to be a system." You can vibe code small-scale software well "if you have agency and understand the iterative process and you love learning."
+- **ejemplos:** ninguno
+- **cita:** "I've learned this through 3 years of failure so far, it needs to be a system"
+- **terminos:** system
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-361
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 27:47-28:12, 2026-06-13
+- **tension:** ninguna
+
+## U-010-363
+- **tipo:** método
+- **titulo:** How to start building an app: ask Claude for a plan, do it step by step while guiding it, accept that v1 will suck, and keep iterating
+- **desarrollo:** "Oh, well, how do I start? Just ask Claude. How do I start building an app? Literally just say that. 'Hey, I've heard about this vibe coding thing. I've heard that you can help with this. How do I do it? Give me a plan.'" It breaks it down; you ask how to start step one, do it, then step two, and so on. "It's not like you're just having Claude do everything because you have to guide it. You still have to understand what's going on." Follow the steps until you have a version one. "Frankly, the version one is going to suck." Then it's up to you: say "this is a vibe coded app so I could only get this far," or keep iterating, asking the question or solving the problem when you encounter it.
+- **ejemplos:** Claude prompt "Give me a plan."
+- **cita:** "Frankly, the version one is going to suck."
+- **terminos:** vibe coding, version one, iterating
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-362
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 28:12-28:47, 2026-06-13
+- **tension:** ninguna
+
+## U-010-364
+- **tipo:** principio
+- **titulo:** Monetization in the creator economy is a systems economy: build software that does what your info product would have taught
+- **desarrollo:** "The creator economy, when it comes to monetization, is a systems economy. You don't have to build the next note-taking tool. I've tried that. You build the software that helps them do what your info product would have helped them do." Example: the philosophy teacher on Substack could build a learning app for philosophy and share his teachings there (though he doesn't need to). Dan refers to his Substack paid tier guide to creating a profitable digital product ("you don't need to take any other marketing course").
+- **ejemplos:** Philosophy learning app idea.
+- **cita:** "You build the software that helps them do what your info product would have helped them do."
+- **terminos:** systems economy
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-361
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 28:47-29:18, 2026-06-13
+- **tension:** ninguna
+
+## U-010-365
+- **tipo:** advertencia
+- **titulo:** A great idea built out isn't necessarily good, wanted or paid for: you have to test all three
+- **desarrollo:** "You just have to build the product and you have to do it in a way that gets results or is good. You can have this great idea and you can build it out, but that doesn't mean it's good and it doesn't mean that other people want to use it and it definitely doesn't mean that they want to pay for it. So, you have to test all of those things."
+- **ejemplos:** ninguno
+- **cita:** "it definitely doesn't mean that they want to pay for it"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-364
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 29:18-29:55, 2026-06-13
+- **tension:** ninguna
+
+## U-010-366
+- **tipo:** principio
+- **titulo:** Learners don't need another step-by-step; they need belief that the path is viable, then they figure out the rest
+- **desarrollo:** Dan says the product section wasn't hyper-practical on purpose, "because I don't think that's what you need. You just need clarity that this path is viable. That's why you came to this video. It's not for the step-by-step how to do it because you can find that anywhere. You just need the belief and once you have that belief, you can figure out the rest because you love learning." The video is meant as "a spark to show you what's possible."
+- **ejemplos:** ninguno
+- **cita:** "You just need the belief and once you have that belief, you can figure out the rest because you love learning."
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-331
+- **fuente:** If You Have Multiple Interests, Start A One-Person Business.md, 29:55-30:28, 2026-06-13
+- **tension:** ninguna
+
