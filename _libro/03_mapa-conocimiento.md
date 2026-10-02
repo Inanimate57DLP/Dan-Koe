@@ -256,3 +256,372 @@ Cada puente se presenta como: **diagnóstico** (capa conceptual) → **práctica
 
 **P18. Del desarrollo holístico a los hábitos de base.** Diagnóstico: el desarrollo es holístico (mente, cuerpo, espíritu, negocio) y no se pueden saltar niveles; primero los problemas superficiales (C-T16a-20, C-T02a-28, C-T16b-24). Práctica: entrenamiento de fuerza, caminar como holistic habit, metas holísticas, "build your body, build your mind, build your business" (C-T16b-29, C-T05b-42, C-T03a-24, C-T16a-21). Por qué: "the destruction of the lower leads to the destruction of the higher" (C-T16a-22); el cuerpo y el dinero son los niveles que sostienen a los demás.
 
+---
+
+## 5. Clústeres que son capas de una misma idea en bloques distintos
+
+La consolidación se hizo bloque por bloque, de modo que una misma idea quedó repartida en clústeres de distintos bloques: a veces por la división alfabética a/b de un tema, y con más frecuencia porque el autor vuelve a la idea desde otro ángulo (la misma noción como diagnóstico en T01, como mecanismo en T04, como herramienta en T05 y como táctica de negocio en T12). Esta sección lista esos grupos para que la arquitectura del libro decida, para cada uno, **una sede** (el capítulo donde la idea se desarrolla completa) y **remisiones** desde los demás capítulos.
+
+**Criterios.** (1) Se agrupan clústeres cuyo núcleo es la misma idea, aunque cambie el ejemplo, la época o el nombre. (2) Cada clúster aparece en un solo grupo. (3) La "sede" propuesta es automática: el clúster de nivel más bajo en la escala fundamental → intermedio → avanzado → complementario y, a igual nivel, el de más unidades; es una sugerencia, no una decisión. (4) Se marcan con *(mismo tema, bloques a/b)* los grupos que solo unen las dos mitades de un mismo tema; el resto cruza temas distintos.
+
+**Resumen:** 240 grupos que reúnen 927 de los 1106 clústeres; 194 cruzan temas distintos y 46 unen solo las mitades a/b de un mismo tema. Por área: Área 1, 27; Área 2, 32; Área 3, 16; Área 4, 25; Área 5, 22; Área 6, 24; Área 7, 55; Área 8, 32; Área 9, 7 (el grupo se asigna al área de su sede conceptual, aunque sus clústeres provengan de varias).
+
+### 5.1 Uniones prioritarias para la arquitectura
+
+Son los grupos que atraviesan más bloques o que, si no se unen, harían repetir el mismo argumento en varios capítulos:
+
+1. **La meta como lente** (C-T03a-06, 17 u.; C-T04-27; C-T07a-07; C-T07a-09; C-T07b-04; C-T08-36): cinco bloques y el clúster con más unidades de todo T03 (17). Sede natural en el Área 3/4; T07 y T08 deberían remitir a ella en lugar de redefinirla.
+2. **Metas asignadas vs autogeneradas** (C-T01a-10, C-T01b-12, C-T01b-13, C-T03a-05, C-T04-26): el mismo concepto es el diagnóstico en T01, la solución en T03 y el mecanismo en T04. Conviene definirlo una vez (T03) y presentarlo como problema en T01.
+3. **Identidad y conceptual survival** (C-T02a-01, C-T02b-01, C-T04-23; C-T02a-07, C-T02a-08, C-T02b-02): T02-a, T02-b y T04 dan tres versiones de la misma teoría ("mental body", "mental/psychic body", "web of conscious and unconscious goals").
+4. **Solve your own problems and sell the solution** (C-T03b-29, C-T11-15, C-T12a-15, C-T12b-13, C-T12b-14, C-T13b-26), junto con build/write/sell to yourself (C-T09b-10, C-T11-12, C-T11-13, C-T13b-27, C-T18-04) y personal growth = business growth (C-T02b-31, C-T12a-02, C-T16b-23): es el principio que une la superación personal con el negocio; sumando los tres grupos, aparece en nueve bloques distintos (T02-b, T03-b, T09-b, T11, T12-a, T12-b, T13-b, T16-b, T18).
+5. **Build to learn y tutorial hell** (C-T07a-13, C-T07a-17, C-T07b-06, C-T07b-11, C-T12a-19; C-T05b-11, C-T06-09, C-T07a-11, C-T07a-15, C-T07b-07 —20 u.—, C-T17-11): la información sin aplicación aparece como cheap dopamine (T06), como minimalismo (T05), como pedagogía (T07) y como causa de los fracasos del autor (T17).
+6. **Imitación consciente** (C-T01a-11, C-T01b-11, C-T02a-38, C-T02b-10, C-T07a-26, C-T08-39, C-T09a-22): siete clústeres en siete bloques; el autor dice haber acuñado "intelligent imitation".
+7. **Autoexperimentación y errores** (C-T03b-27, C-T07a-24, C-T07b-17, C-T07b-18, C-T08-09, C-T12a-14, C-T16b-11; C-T07b-19, C-T16a-16, C-T16b-12, C-T18-07): el método científico aplicado a la vida, al aprendizaje y al negocio (entrepreneurial method).
+8. **Revertir la entropía** (C-T04-04, C-T13b-01, C-T14a-01, C-T16b-35): la misma ley define la evolución, el valor de un producto, el fin del trabajo laboral y la espiritualidad.
+9. **Ciclos y temporadas** (C-T05a-24, C-T05b-35, C-T05b-36, C-T16a-11, C-T16a-12, C-T16b-09, C-T17-28) y **altibajos/impermanencia** (C-T04-06, C-T16a-05, C-T16a-08, C-T16b-01, C-T16b-03): el modelo de fases (perplexity → curiosity → intensity → consistency; clarity → intensity → …) aparece en productividad, filosofía de vida y biografía con nombres distintos.
+10. **Todo es una habilidad** (C-T07a-29, C-T07b-12, C-T10a-14, C-T10b-21, C-T15-27, C-T16a-01): aprender, crecer en redes, ganar dinero y ser feliz se presentan con el mismo argumento.
+11. **Tactical stress** (C-T02b-28, C-T06-31, C-T07b-27, C-T08-28, C-T17-25): misma noción en identidad, disciplina, aprendizaje, estrategia y biografía.
+12. **Agencia** (C-T01a-08, C-T14a-18, C-T15-18 a C-T15-22, C-T18-21): de antónimo de la conformidad (T01) a meta-skill de la era de la IA (T14) y rasgo de equipo (T18).
+13. **Audiencia + producto** (C-T10a-03, C-T12a-04, C-T12a-18, C-T12b-04, C-T12b-10, C-T13a-07, C-T13b-39): "traffic and offers", "people and a product", "something to sell and someone to buy" son la misma definición mínima de negocio en cinco bloques.
+14. **Validación** (C-T09a-43, C-T09b-14, C-T10a-27, C-T10b-27, C-T10b-30, C-T11-28, C-T13b-28) y **el post como MVP** (C-T09b-43, C-T10b-36, C-T12b-28, C-T13a-29, C-T13b-31): el mismo ciclo publicar → medir → duplicar aparece en escritura, crecimiento, nicho y producto.
+15. **Lo mínimo viable** (C-T03b-04, C-T03b-10, C-T12a-23, C-T12a-24, C-T12b-24, C-T13b-33): minimum viable vision, goal, offer, micro offer y micro service son el mismo patrón aplicado a la vida y al negocio.
+16. **Crítica de la especialización y el generalista** (C-T01b-23, C-T11-35, C-T11-36, C-T11-38, C-T11-39, C-T14a-22, C-T14b-08; C-T07b-14, C-T11-34, C-T11-37, C-T11-40): repartida entre el diagnóstico social (T01), el nicho (T11), el aprendizaje (T07) y la IA (T14).
+17. **Holons y transcend-and-include** (C-T02a-27, C-T02b-38, C-T02b-42, C-T04-05, C-T08-22, C-T08-23): un mismo marco de Wilber que sostiene los mapas de desarrollo, la teoría de sistemas y el pensamiento.
+18. **El descanso como mitad del trabajo** (C-T05a-11, C-T05a-12, C-T05a-18, C-T05b-03 a C-T05b-06, C-T16b-18): ocho clústeres de dos bloques de T05 más la polaridad de T16.
+
+### 5.2 Lista completa de grupos
+
+### Área 1 — Diagnóstico
+
+- **G-001 Matrix como red heredada de creencias y expectativas.** C-T01a-01 · C-T01b-01 · C-T01b-02 → sede: C-T01b-02 (fundamental, 8 u.) *(mismo tema, bloques a/b)*
+- **G-002 Condicionamiento e infancia como programación.** C-T01a-02 · C-T01a-04 · C-T01b-06 · C-T01b-07 · C-T02a-03 → sede: C-T01a-04 (fundamental, 8 u.)
+- **G-003 Reprogramar la mente ("who wrote the software").** C-T01b-10 · C-T02a-24 · C-T02b-13 → sede: C-T02a-24 (fundamental, 5 u.)
+- **G-004 Metas asignadas vs autogeneradas.** C-T01a-10 · C-T01b-12 · C-T01b-13 · C-T03a-05 · C-T04-26 → sede: C-T03a-05 (fundamental, 9 u.)
+- **G-005 "If you don't create X, you will be assigned one" (plan, rutina).** C-T03b-15 · C-T05a-27 → sede: C-T03b-15 (fundamental, 4 u.)
+- **G-006 Default path.** C-T01a-13 · C-T15-12 · C-T17-01 · C-T17-05 → sede: C-T01a-13 (fundamental, 8 u.)
+- **G-007 Bucle diario por defecto y anti-visión.** C-T01a-14 · C-T03a-01 · C-T03a-02 · C-T03b-03 · C-T17-37 → sede: C-T03a-02 (fundamental, 16 u.)
+- **G-008 Pirámides: jerarquías de dominio vs de actualización.** C-T01a-20 · C-T01b-18 · C-T01b-19 → sede: C-T01a-20 (fundamental, 3 u.) *(mismo tema, bloques a/b)*
+- **G-009 Atención como poder y como último foso.** C-T01a-21 · C-T10a-01 · C-T10a-41 · C-T14a-20 → sede: C-T10a-01 (fundamental, 6 u.)
+- **G-010 Esclavitud moderna y crítica del empleo.** C-T01a-16 · C-T01b-20 · C-T15-08 · C-T15-09 → sede: C-T15-08 (fundamental, 10 u.)
+- **G-011 Psique cazadora: monkeys in a cubicle → emprender como supervivencia.** C-T01b-28 · C-T06-04 · C-T15-13 → sede: C-T15-13 (fundamental, 8 u.)
+- **G-012 Eternal known vs camino de incertidumbre.** C-T01b-27 · C-T15-14 → sede: C-T15-14 (fundamental, 5 u.)
+- **G-013 Escuela como educación de esclavos vs true education.** C-T01a-17 · C-T01b-22 · C-T01b-24 · C-T01b-25 · C-T07a-02 · C-T07b-01 → sede: C-T01b-25 (fundamental, 6 u.)
+- **G-014 Creadores como sistema educativo descentralizado.** C-T01a-19 · C-T14a-08 · C-T14b-17 · C-T12b-39 → sede: C-T14a-08 (fundamental, 11 u.)
+- **G-015 Crítica de la especialización.** C-T01b-23 · C-T11-35 · C-T11-36 · C-T11-38 · C-T11-39 · C-T14b-08 · C-T14a-22 → sede: C-T11-36 (fundamental, 7 u.)
+- **G-016 Paradigma industrial vs era de la información.** C-T01a-15 · C-T01b-21 · C-T14a-17 · C-T14b-03 → sede: C-T01a-15 (fundamental, 5 u.)
+- **G-017 Entorno informativo y contenido entrópico.** C-T01a-27 · C-T01b-03 · C-T06-07 · C-T06-08 · C-T04-15 → sede: C-T06-07 (fundamental, 8 u.)
+- **G-018 Ideología como identidad y mente cerrada.** C-T01a-29 · C-T01b-29 · C-T02a-09 · C-T02b-03 · C-T16a-23 · C-T17-36 → sede: C-T01a-29 (fundamental, 8 u.)
+- **G-019 Apertura mental, escepticismo y etapas creencia → rechazo → integración.** C-T01a-30 · C-T01b-30 · C-T01b-31 · C-T02b-39 · C-T08-05 · C-T08-07 → sede: C-T08-05 (fundamental, 7 u.)
+- **G-020 Awareness y observación.** C-T01a-31 · C-T01b-15 · C-T02a-18 · C-T08-19 → sede: C-T01a-31 (fundamental, 6 u.)
+- **G-021 Tiempo psicológico.** C-T01a-03 · C-T01b-32 · C-T16b-07 → sede: C-T01b-32 (fundamental, 2 u.)
+- **G-022 Imitación: NPC vs main character, intelligent imitation, create or be created.** C-T01a-11 · C-T01b-11 · C-T02a-38 · C-T02b-10 · C-T07a-26 · C-T08-39 · C-T09a-22 → sede: C-T01b-11 (fundamental, 7 u.)
+- **G-023 "Be yourself".** C-T01a-24 · C-T02b-18 · C-T10a-19 → sede: C-T10a-19 (fundamental, 5 u.)
+- **G-024 Business matrix y niche down.** C-T01a-26 · C-T11-01 · C-T11-02 → sede: C-T11-01 (fundamental, 8 u.)
+- **G-025 Demonización del dinero y del negocio.** C-T01a-33 · C-T15-04 · C-T15-05 · C-T15-06 → sede: C-T15-05 (fundamental, 9 u.)
+- **G-026 Elegir y curar los inputs.** C-T01b-09 · C-T06-10 · C-T06-11 → sede: C-T06-10 (fundamental, 12 u.)
+- **G-027 Estatus.** C-T01a-22 · C-T10b-20 → sede: C-T10b-20 (intermedio, 5 u.)
+
+### Área 2 — Identidad y desarrollo
+
+- **G-028 Qué es la identidad.** C-T02a-01 · C-T02b-01 · C-T04-23 → sede: C-T04-23 (fundamental, 6 u.)
+- **G-029 Conceptual survival.** C-T02a-07 · C-T02a-08 · C-T02b-02 → sede: C-T02a-07 (fundamental, 20 u.) *(mismo tema, bloques a/b)*
+- **G-030 Weaponize your survival / identificarse con el yo futuro.** C-T02a-11 · C-T02b-25 · C-T06-23 → sede: C-T02a-11 (fundamental, 6 u.)
+- **G-031 Disciplina como rasgo de identidad y subproducto de la claridad.** C-T02a-15 · C-T02b-04 · C-T06-22 · C-T05b-10 · C-T17-35 → sede: C-T06-22 (fundamental, 10 u.)
+- **G-032 Todo cambio es cambio de conducta y de identidad.** C-T02a-14 · C-T02a-23 · C-T06-28 → sede: C-T02a-14 (fundamental, 5 u.)
+- **G-033 Identidad y perspectiva como filtro (perspective vessel, cámara).** C-T02a-04 · C-T02b-05 · C-T02b-07 · C-T02b-08 · C-T04-20 · C-T08-15 · C-T08-16 → sede: C-T04-20 (fundamental, 7 u.)
+- **G-034 Las metas componen la identidad; teleología.** C-T02a-05 · C-T02b-06 · C-T04-25 → sede: C-T04-25 (fundamental, 12 u.)
+- **G-035 Estándares.** C-T02a-17 · C-T02b-21 → sede: C-T02b-21 (fundamental, 5 u.) *(mismo tema, bloques a/b)*
+- **G-036 Hartazgo, dolor como señal, alquimia emocional.** C-T02a-20 · C-T02b-20 · C-T06-30 → sede: C-T02b-20 (fundamental, 4 u.)
+- **G-037 Fases del cambio: disonancia → incertidumbre → descubrimiento.** C-T02a-21 · C-T02b-23 · C-T16a-15 → sede: C-T02b-23 (fundamental, 5 u.)
+- **G-038 La identidad como estructura (ciudad, casa, caparazón, mental house).** C-T02a-22 · C-T02b-19 · C-T02b-26 · C-T16b-05 → sede: C-T02a-22 (fundamental, 6 u.)
+- **G-039 Rock bottom vs pequeñas victorias; ser extremo.** C-T02a-26 · C-T02b-22 → sede: C-T02b-22 (fundamental, 6 u.) *(mismo tema, bloques a/b)*
+- **G-040 Inmersión en el entorno del yo futuro.** C-T02a-25 · C-T02b-24 · C-T06-12 → sede: C-T06-12 (fundamental, 7 u.)
+- **G-041 Tactical stress.** C-T02b-28 · C-T06-31 · C-T07b-27 · C-T08-28 · C-T17-25 → sede: C-T17-25 (intermedio, 9 u.)
+- **G-042 Holons, jerarquías y transcend-and-include.** C-T02a-27 · C-T02b-38 · C-T02b-42 · C-T08-22 · C-T08-23 · C-T04-05 → sede: C-T02a-27 (avanzado, 7 u.)
+- **G-043 Etapas del ego (Cook-Greuter).** C-T02a-31 · C-T02a-32 · C-T02a-33 · C-T02b-40 · C-T02b-41 → sede: C-T02a-32 (intermedio, 8 u.) *(mismo tema, bloques a/b)*
+- **G-044 Macroetapas, modelos de etapas, AQAL y dimensiones del pensamiento.** C-T02a-34 · C-T02b-34 · C-T08-20 · C-T08-21 · C-T03a-25 → sede: C-T08-20 (intermedio, 10 u.)
+- **G-045 Human 3.0 y sus aplicaciones (niveles de contenido).** C-T02a-35 · C-T02a-36 · C-T14b-26 → sede: C-T02a-35 (fundamental, 6 u.)
+- **G-046 Horizontal vs vertical; knowing vs understanding.** C-T02a-30 · C-T02b-36 · C-T08-11 · C-T07a-10 → sede: C-T08-11 (fundamental, 5 u.)
+- **G-047 No saltarse niveles: primero lo superficial.** C-T02a-28 · C-T03b-09 · C-T16b-24 · C-T16a-22 · C-T17-03 → sede: C-T16b-24 (fundamental, 6 u.)
+- **G-048 Niveles del propósito (survival → status → creativity → contribution).** C-T02b-32 · C-T03b-20 · C-T03b-21 · C-T15-47 → sede: C-T03b-20 (intermedio, 13 u.)
+- **G-049 Complejidad del yo y leveling up.** C-T02a-29 · C-T02b-17 → sede: C-T02b-17 (fundamental, 4 u.) *(mismo tema, bloques a/b)*
+- **G-050 Level of mind.** C-T02b-14 · C-T02b-15 · C-T02b-16 · C-T05b-19 → sede: C-T02b-14 (fundamental, 9 u.)
+- **G-051 Personal growth = business growth.** C-T02b-31 · C-T12a-02 · C-T16b-23 → sede: C-T02b-31 (fundamental, 5 u.)
+- **G-052 La mente como cuerpo: mental bodybuilding, mind building, metabolismo, overwhelm.** C-T02b-09 · C-T07a-14 · C-T07b-24 · C-T07b-25 → sede: C-T07a-14 (fundamental, 6 u.)
+- **G-053 Permission to suck: lanzar lo imperfecto.** C-T02b-29 · C-T12a-21 · C-T13a-27 · C-T13a-28 · C-T09b-37 · C-T13b-30 → sede: C-T12a-21 (fundamental, 8 u.)
+- **G-054 Empezar de nuevo no es empezar de cero: fracasos que se apilan.** C-T02b-30 · C-T14a-15 · C-T17-12 → sede: C-T02b-30 (fundamental, 5 u.)
+- **G-055 Sombra y ética de la persuasión.** C-T02b-33 · C-T13a-22 · C-T13b-08 → sede: C-T13a-22 (intermedio, 5 u.)
+- **G-056 Self-reliance y soberanía individual.** C-T02b-11 · C-T14b-21 · C-T15-25 · C-T15-26 → sede: C-T02b-11 (fundamental, 6 u.)
+- **G-057 States vs stages (y estados vs línea base).** C-T02b-35 · C-T04-30 · C-T17-24 → sede: C-T02b-35 (intermedio, 4 u.)
+- **G-058 La perspectiva del yo más alto.** C-T02b-12 · C-T03a-21 · C-T03b-07 · C-T08-18 → sede: C-T03a-21 (fundamental, 5 u.)
+- **G-059 Crear la propia filosofía; no tomar consejos como ley.** C-T02a-19 · C-T07a-25 · C-T08-08 · C-T09b-21 → sede: C-T08-08 (fundamental, 9 u.)
+
+### Área 3 — Mente como sistema
+
+- **G-060 No existe quedarse igual.** C-T04-02 · C-T16b-26 → sede: C-T04-02 (fundamental, 9 u.)
+- **G-061 Revertir la entropía: evolución, valor, trabajo y espiritualidad.** C-T04-04 · C-T13b-01 · C-T14a-01 · C-T16b-35 → sede: C-T14a-01 (fundamental, 11 u.)
+- **G-062 Atención como RAM.** C-T04-11 · C-T06-13 · C-T04-17 → sede: C-T06-13 (fundamental, 6 u.)
+- **G-063 Atención sobre horas (foco = atención consciente).** C-T04-19 · C-T05a-05 · C-T05b-02 · C-T05b-08 · C-T18-20 → sede: C-T04-19 (fundamental, 7 u.)
+- **G-064 Zoom out.** C-T04-21 · C-T08-17 · C-T16b-08 → sede: C-T08-17 (fundamental, 10 u.)
+- **G-065 Ordenar la consciencia propia y ajena.** C-T04-12 · C-T04-13 · C-T09a-04 · C-T10b-17 → sede: C-T04-12 (fundamental, 9 u.)
+- **G-066 Mantenimiento del orden: housekeeping, hard reset, plan semanal, reflexión.** C-T04-14 · C-T05a-31 · C-T05b-40 · C-T05b-41 → sede: C-T05a-31 (fundamental, 12 u.)
+- **G-067 Fill-Empty-Use y read/write/build.** C-T05a-22 · C-T05a-23 · C-T05b-21 · C-T07a-21 · C-T07b-28 → sede: C-T05a-22 (fundamental, 5 u.)
+- **G-068 Cibernética, inteligencia y ensayo y error.** C-T04-24 · C-T07a-16 · C-T07a-30 · C-T07b-05 · C-T08-10 · C-T15-24 → sede: C-T08-10 (fundamental, 9 u.)
+- **G-069 La meta como lente y filtro de información.** C-T03a-06 · C-T04-27 · C-T07a-07 · C-T07a-09 · C-T07b-04 · C-T08-36 → sede: C-T03a-06 (fundamental, 17 u.)
+- **G-070 La meta determina el sistema.** C-T03a-16 · C-T03b-14 · C-T04-22 → sede: C-T04-22 (fundamental, 6 u.)
+- **G-071 Sin meta no hay problema (ni mal hábito).** C-T04-28 · C-T06-25 → sede: C-T06-25 (fundamental, 4 u.)
+- **G-072 Vivir en el borde: aburrimiento, ansiedad, equilibrio desafío/habilidad.** C-T03a-31 · C-T03a-32 · C-T03b-36 · C-T03b-37 · C-T04-18 → sede: C-T03a-31 (fundamental, 14 u.)
+- **G-073 Gestión de la entropía: bulking/cutting, building/maintenance, raise the baseline.** C-T04-07 · C-T05a-25 · C-T05a-26 · C-T05b-31 → sede: C-T05a-26 (fundamental, 6 u.)
+- **G-074 Todo es información.** C-T04-16 · C-T03b-31 · C-T08-01 · C-T14b-05 → sede: C-T08-01 (fundamental, 6 u.)
+- **G-075 Altibajos, impermanencia y polaridad.** C-T04-06 · C-T16a-05 · C-T16a-08 · C-T16b-01 · C-T16b-03 → sede: C-T16a-08 (fundamental, 5 u.)
+
+### Área 4 — Dirección
+
+- **G-076 Visión como marco de referencia.** C-T03a-04 · C-T03b-02 · C-T03b-06 → sede: C-T03a-04 (fundamental, 10 u.) *(mismo tema, bloques a/b)*
+- **G-077 Visión de marca (brand vision = brand goal = misión).** C-T10a-35 · C-T11-11 · C-T11-17 · C-T12a-13 · C-T12b-08 → sede: C-T10a-35 (fundamental, 3 u.)
+- **G-078 Lo mínimo viable: visión, meta, oferta, micro service.** C-T03b-04 · C-T03b-10 · C-T12a-23 · C-T12a-24 · C-T12b-24 · C-T13b-33 → sede: C-T03b-04 (fundamental, 13 u.)
+- **G-079 Jerarquía de metas y palancas diarias.** C-T03a-07 · C-T03a-08 · C-T03b-13 · C-T03b-16 · C-T05a-14 · C-T05b-15 · C-T05b-17 → sede: C-T03a-08 (fundamental, 13 u.)
+- **G-080 Big irrational goals.** C-T03a-09 · C-T03b-12 · C-T12a-08 · C-T15-36 → sede: C-T03a-09 (intermedio, 6 u.)
+- **G-081 Claridad sobre motivación.** C-T03a-10 · C-T04-09 · C-T05a-13 · C-T06-14 → sede: C-T06-14 (fundamental, 7 u.)
+- **G-082 Restricciones y anti-goals.** C-T03a-11 · C-T05b-29 · C-T08-34 → sede: C-T05b-29 (fundamental, 3 u.)
+- **G-083 Meta–camino–problema / Focus Formula / Purpose-Path-Priority.** C-T03a-12 · C-T05a-09 · C-T13b-05 → sede: C-T03a-12 (fundamental, 10 u.)
+- **G-084 Pensar, escribir y vender desde el problema.** C-T08-02 · C-T09b-22 · C-T09b-24 · C-T13b-13 · C-T13b-17 → sede: C-T08-02 (fundamental, 10 u.)
+- **G-085 El propósito es el problema más urgente.** C-T03a-17 · C-T03b-18 · C-T03b-19 · C-T14b-10 → sede: C-T03b-19 (fundamental, 11 u.)
+- **G-086 La pasión se crea invirtiendo energía.** C-T03a-18 · C-T03b-11 · C-T06-29 · C-T07b-22 → sede: C-T06-29 (fundamental, 10 u.)
+- **G-087 Nunca sabrás exactamente lo que quieres: exposición y brújula sustractiva.** C-T03a-19 · C-T03b-08 · C-T16b-10 · C-T17-38 → sede: C-T03b-08 (fundamental, 11 u.)
+- **G-088 Traer el futuro ideal al presente.** C-T03a-20 · C-T16a-26 → sede: C-T16a-26 (fundamental, 7 u.)
+- **G-089 El proyecto como unidad práctica.** C-T03a-22 · C-T03b-23 · C-T03b-24 · C-T03b-25 · C-T05b-13 · C-T07a-18 · C-T12b-27 → sede: C-T03b-25 (fundamental, 11 u.)
+- **G-090 Life's work y el negocio/internet como vessel.** C-T03a-23 · C-T03b-28 · C-T12a-01 · C-T14b-25 · C-T16a-29 → sede: C-T12a-01 (fundamental, 9 u.)
+- **G-091 Desarrollo holístico y multi-dimensionally jacked.** C-T03a-24 · C-T16a-20 · C-T16b-25 → sede: C-T16b-25 (fundamental, 6 u.)
+- **G-092 La vida como videojuego.** C-T02a-13 · C-T03a-26 · C-T03b-30 · C-T10b-02 · C-T17-04 → sede: C-T03a-26 (fundamental, 11 u.)
+- **G-093 Marco, reglas y feedback del juego.** C-T03a-27 · C-T03b-34 → sede: C-T03a-27 (intermedio, 8 u.) *(mismo tema, bloques a/b)*
+- **G-094 Por qué los videojuegos atrapan: falso riesgo y quests.** C-T03b-33 · C-T06-15 · C-T06-16 → sede: C-T03b-33 (fundamental, 5 u.)
+- **G-095 Impulsores intrínsecos del flow.** C-T03a-33 · C-T03b-38 → sede: C-T03a-33 (intermedio, 8 u.) *(mismo tema, bloques a/b)*
+- **G-096 Juegos infinitos.** C-T03a-34 · C-T15-15 · C-T16a-32 → sede: C-T03a-34 (intermedio, 6 u.)
+- **G-097 Flow vs presencia; being and doing; peace and progress.** C-T03b-40 · C-T06-05 · C-T16a-09 · C-T16b-16 → sede: C-T16b-16 (fundamental, 7 u.)
+- **G-098 Solve your own problems and sell the solution.** C-T03b-29 · C-T11-15 · C-T12a-15 · C-T12b-13 · C-T12b-14 · C-T13b-26 → sede: C-T12a-15 (fundamental, 8 u.)
+- **G-099 Autoexperimentación: mad scientist, science project, entrepreneurial method.** C-T03b-27 · C-T07a-24 · C-T07b-17 · C-T07b-18 · C-T08-09 · C-T12a-14 · C-T16b-11 → sede: C-T07b-18 (fundamental, 9 u.)
+- **G-100 Los errores como brújula.** C-T07b-19 · C-T16a-16 · C-T16b-12 · C-T18-07 → sede: C-T16a-16 (fundamental, 6 u.)
+
+### Área 5 — Autogobierno operativo
+
+- **G-101 Work less, earn more, enjoy life.** C-T05a-04 · C-T05b-01 → sede: C-T05a-04 (fundamental, 7 u.) *(mismo tema, bloques a/b)*
+- **G-102 4-Hour Workday y el camino al $1M en cuatro horas.** C-T05a-01 · C-T05a-02 · C-T05a-06 · C-T12b-31 · C-T17-26 → sede: C-T05a-01 (fundamental, 8 u.)
+- **G-103 Apalancado, no trabajador duro; ganar con la mente.** C-T14a-16 · C-T15-29 · C-T15-30 · C-T15-32 → sede: C-T15-30 (fundamental, 9 u.)
+- **G-104 Una hora al día; construir lo propio mientras se está empleado.** C-T05a-08 · C-T05b-12 · C-T15-40 → sede: C-T05b-12 (fundamental, 9 u.)
+- **G-105 El descanso como mitad del trabajo.** C-T05a-11 · C-T05a-12 · C-T05a-18 · C-T05b-03 · C-T05b-04 · C-T05b-05 · C-T05b-06 · C-T16b-18 → sede: C-T05b-03 (fundamental, 7 u.)
+- **G-106 Fundamentos aburridos primero.** C-T05a-15 · C-T07a-22 → sede: C-T07a-22 (fundamental, 6 u.)
+- **G-107 Deadlines.** C-T05a-16 · C-T05b-27 · C-T05b-28 → sede: C-T05a-16 (fundamental, 5 u.) *(mismo tema, bloques a/b)*
+- **G-108 La mañana y el orden por entropía.** C-T05a-17 · C-T05a-28 · C-T05b-20 · C-T05b-22 · C-T05b-23 → sede: C-T05b-20 (intermedio, 5 u.) *(mismo tema, bloques a/b)*
+- **G-109 Caminar.** C-T05a-20 · C-T05a-21 · C-T05b-42 · C-T16b-30 · C-T17-34 → sede: C-T05b-42 (fundamental, 8 u.)
+- **G-110 Rutina y lifestyle design.** C-T05a-29 · C-T05a-30 · C-T05b-38 · C-T05b-39 → sede: C-T05b-38 (fundamental, 4 u.) *(mismo tema, bloques a/b)*
+- **G-111 Ciclos, capítulos y temporadas.** C-T05a-24 · C-T05b-35 · C-T05b-36 · C-T16a-11 · C-T16a-12 · C-T16b-09 · C-T17-28 → sede: C-T16a-11 (fundamental, 10 u.)
+- **G-112 Disappear y monk mode.** C-T05b-37 · C-T06-17 · C-T06-18 · C-T17-33 → sede: C-T06-17 (fundamental, 7 u.)
+- **G-113 Persistencia e iteración.** C-T05b-34 · C-T12a-33 · C-T16b-13 · C-T18-14 → sede: C-T12a-33 (fundamental, 7 u.)
+- **G-114 "Nothing happens, then everything happens".** C-T07a-28 · C-T07b-26 · C-T09a-17 → sede: C-T07b-26 (fundamental, 9 u.)
+- **G-115 Koe's Law.** C-T05b-30 · C-T12a-28 → sede: C-T12a-28 (intermedio, 8 u.)
+- **G-116 Sistematizar y automatizar.** C-T05a-03 · C-T05b-32 → sede: C-T05a-03 (intermedio, 8 u.) *(mismo tema, bloques a/b)*
+- **G-117 Foco como músculo, sobrecarga progresiva y technique stacking.** C-T05b-25 · C-T07a-27 · C-T07b-10 · C-T07b-15 → sede: C-T07b-10 (fundamental, 8 u.)
+- **G-118 Dopamina barata vs significativa; disfrute vs placer; felicidad vs euforia.** C-T06-03 · C-T16a-02 · C-T16b-15 → sede: C-T06-03 (fundamental, 9 u.)
+- **G-119 Información como falso progreso y tutorial hell.** C-T05b-11 · C-T06-09 · C-T07a-11 · C-T07a-15 · C-T07b-07 · C-T17-11 → sede: C-T07b-07 (fundamental, 20 u.)
+- **G-120 Consumidor → investigador → creador.** C-T07a-08 · C-T07b-23 · C-T09a-20 · C-T14a-11 → sede: C-T09a-20 (fundamental, 8 u.)
+- **G-121 Detox, aburrimiento verdadero y three narrowers.** C-T06-19 · C-T06-20 · C-T06-21 · C-T08-35 → sede: C-T06-19 (fundamental, 6 u.)
+- **G-122 Deconstruir el deseo material.** C-T06-06 · C-T16b-17 → sede: C-T16b-17 (intermedio, 3 u.)
+
+### Área 6 — Aprendizaje y pensamiento
+
+- **G-123 Aprender a aprender y liberating arts.** C-T07a-01 · C-T07b-03 → sede: C-T07a-01 (fundamental, 6 u.) *(mismo tema, bloques a/b)*
+- **G-124 Autoeducación.** C-T07a-03 · C-T07b-02 · C-T15-28 · C-T17-06 → sede: C-T07a-03 (fundamental, 7 u.)
+- **G-125 Build to learn.** C-T07a-13 · C-T07a-17 · C-T07b-06 · C-T07b-11 · C-T12a-19 → sede: C-T07a-13 (fundamental, 12 u.)
+- **G-126 Aprender y construir en público.** C-T07a-19 · C-T07b-08 · C-T10a-18 · C-T10b-24 · C-T12b-19 → sede: C-T10a-18 (fundamental, 7 u.)
+- **G-127 Enseñar es aprender (protégé effect).** C-T07a-20 · C-T07b-09 · C-T13b-35 → sede: C-T07a-20 (fundamental, 9 u.)
+- **G-128 Todo es una habilidad (también crecer, ganar dinero, ser feliz).** C-T07a-29 · C-T07b-12 · C-T10a-14 · C-T10b-21 · C-T15-27 · C-T16a-01 → sede: C-T15-27 (fundamental, 10 u.)
+- **G-129 Principios sobre tácticas; big picture.** C-T07a-23 · C-T07b-21 · C-T08-25 · C-T08-26 · C-T13a-21 · C-T13b-09 → sede: C-T08-26 (fundamental, 4 u.)
+- **G-130 Reconocimiento de patrones.** C-T07b-20 · C-T09b-17 → sede: C-T09b-17 (intermedio, 5 u.)
+- **G-131 Lectura.** C-T07a-33 · C-T07a-34 · C-T07a-35 · C-T07a-36 · C-T07a-37 · C-T07b-29 · C-T07b-30 · C-T07b-31 · C-T07b-32 → sede: C-T07b-29 (fundamental, 8 u.) *(mismo tema, bloques a/b)*
+- **G-132 Second brain, commonplace book e idea museum.** C-T07a-38 · C-T07a-39 · C-T07a-40 · C-T07b-33 · C-T07b-34 · C-T09a-16 · C-T17-31 → sede: C-T09a-16 (fundamental, 5 u.)
+- **G-133 Productos educativos y por qué se paga por información.** C-T07a-31 · C-T07a-32 · C-T13a-02 · C-T13a-03 · C-T13a-04 · C-T14b-18 → sede: C-T13a-02 (fundamental, 7 u.)
+- **G-134 IA para aprender: tutor, prompts, meta prompts.** C-T07a-41 · C-T07b-35 · C-T07b-36 · C-T07b-37 · C-T14a-33 · C-T14b-35 → sede: C-T14b-35 (intermedio, 11 u.)
+- **G-135 La IA no escribe por ti; potencia el pensamiento.** C-T07a-42 · C-T09a-44 · C-T09b-45 · C-T14a-26 · C-T14a-29 → sede: C-T07a-42 (intermedio, 6 u.)
+- **G-136 El output de la IA depende de la habilidad.** C-T07a-43 · C-T14a-27 · C-T14a-32 · C-T14b-34 → sede: C-T14a-32 (fundamental, 6 u.)
+- **G-137 Cuestionar.** C-T07a-44 · C-T08-06 → sede: C-T08-06 (fundamental, 4 u.)
+- **G-138 La mente como máquina de historias.** C-T03b-32 · C-T08-14 · C-T09a-32 · C-T09b-26 · C-T13b-10 · C-T13b-11 → sede: C-T09a-32 (fundamental, 6 u.)
+- **G-139 Concepto vs experiencia y lo místico.** C-T08-12 · C-T08-13 · C-T16a-34 · C-T16b-37 → sede: C-T08-13 (intermedio, 4 u.)
+- **G-140 El sintetizador / segundo nivel / value creator como sense maker.** C-T08-24 · C-T08-40 · C-T14b-15 → sede: C-T14b-15 (fundamental, 13 u.)
+- **G-141 Estrategia.** C-T08-27 · C-T08-29 · C-T08-30 · C-T15-39 → sede: C-T08-27 (fundamental, 7 u.)
+- **G-142 Naturaleza creadora y verdadera creatividad.** C-T03b-22 · C-T08-31 · C-T14b-14 · C-T16b-22 → sede: C-T08-31 (fundamental, 8 u.)
+- **G-143 Coleccionar, conectar, deconstruir y remezclar ideas.** C-T08-32 · C-T08-33 · C-T09a-18 → sede: C-T08-32 (fundamental, 7 u.)
+- **G-144 Pensamiento original y novel perspectives.** C-T08-37 · C-T08-38 · C-T09a-19 · C-T09b-13 → sede: C-T09b-13 (fundamental, 10 u.)
+- **G-145 Taste.** C-T08-41 · C-T11-32 · C-T14a-19 · C-T14a-25 → sede: C-T08-41 (fundamental, 7 u.)
+- **G-146 Articulación.** C-T08-42 · C-T09a-14 · C-T17-27 → sede: C-T09a-14 (fundamental, 4 u.)
+
+### Área 7 — Creación y distribución
+
+- **G-147 La escritura como habilidad base.** C-T05b-16 · C-T09a-01 · C-T09a-02 · C-T09b-01 · C-T09b-02 · C-T09b-03 · C-T09b-04 → sede: C-T09b-01 (fundamental, 8 u.)
+- **G-148 Escribir es pensar; ensayos.** C-T09a-03 · C-T09a-37 · C-T09b-05 · C-T09b-06 → sede: C-T09b-05 (fundamental, 10 u.) *(mismo tema, bloques a/b)*
+- **G-149 El contenido como imán y pilar.** C-T09a-05 · C-T12a-10 → sede: C-T09a-05 (fundamental, 7 u.)
+- **G-150 Mental real estate.** C-T09a-06 · C-T10a-02 · C-T10b-16 · C-T14b-06 → sede: C-T10a-02 (fundamental, 7 u.)
+- **G-151 El creador como forma de vida; diario público.** C-T09a-07 · C-T09b-07 → sede: C-T09a-07 (fundamental, 9 u.) *(mismo tema, bloques a/b)*
+- **G-152 Brand is what you do; posicionarse como estudiante.** C-T09a-08 · C-T10b-25 → sede: C-T09a-08 (fundamental, 6 u.)
+- **G-153 Valor = ideas desde la lente de una meta; el nicho como cosmovisión.** C-T09a-09 · C-T11-09 → sede: C-T09a-09 (fundamental, 5 u.)
+- **G-154 Topic tree e intereses que se cruzan.** C-T09a-10 · C-T09b-11 · C-T11-21 · C-T11-22 → sede: C-T09b-11 (fundamental, 4 u.)
+- **G-155 Book to brand.** C-T09a-11 · C-T11-18 → sede: C-T11-18 (intermedio, 10 u.)
+- **G-156 Repetición: recordar más que innovar.** C-T09a-12 · C-T09b-18 → sede: C-T09a-12 (fundamental, 4 u.) *(mismo tema, bloques a/b)*
+- **G-157 Materia prima propia e historia.** C-T09a-13 · C-T09b-09 · C-T11-07 → sede: C-T09a-13 (fundamental, 7 u.)
+- **G-158 Caza de ideas e investigación de outliers.** C-T09a-15 · C-T09b-15 · C-T10a-26 → sede: C-T09a-15 (fundamental, 8 u.)
+- **G-159 Plantillas y frameworks como training wheels.** C-T09a-21 · C-T09a-23 · C-T09b-20 · C-T09b-28 → sede: C-T09a-21 (fundamental, 9 u.) *(mismo tema, bloques a/b)*
+- **G-160 Ten Commandments of Engagement.** C-T09a-26 · C-T09b-33 → sede: C-T09a-26 (intermedio, 12 u.) *(mismo tema, bloques a/b)*
+- **G-161 Hooks, packaging y looks before depth.** C-T09a-28 · C-T09b-29 · C-T09b-31 · C-T13a-20 → sede: C-T09a-28 (intermedio, 7 u.)
+- **G-162 Convicción y autenticidad.** C-T09a-27 · C-T10a-38 → sede: C-T09a-27 (fundamental, 6 u.)
+- **G-163 Ganarse el derecho a ser abstracto; contenido de principiante.** C-T09a-29 · C-T09b-19 · C-T10a-28 → sede: C-T09a-29 (intermedio, 5 u.)
+- **G-164 Educar, entretener, inspirar.** C-T09a-30 · C-T10a-37 → sede: C-T09a-30 (fundamental, 5 u.)
+- **G-165 La ficción como ADN cultural.** C-T09a-33 · C-T09b-44 → sede: C-T09b-44 (complementario, 4 u.) *(mismo tema, bloques a/b)*
+- **G-166 Estructuras de long form.** C-T09a-34 · C-T09a-35 · C-T09b-27 → sede: C-T09a-34 (fundamental, 6 u.) *(mismo tema, bloques a/b)*
+- **G-167 Un solo organismo: short atrae, long convierte.** C-T09a-38 · C-T09b-40 · C-T10a-29 · C-T10b-40 → sede: C-T09a-38 (fundamental, 8 u.)
+- **G-168 Ecosistema de contenido y repurposing.** C-T09a-39 · C-T09a-40 · C-T09b-41 · C-T09b-42 · C-T17-22 → sede: C-T09a-39 (fundamental, 8 u.)
+- **G-169 La newsletter como Hub y audiencia propia.** C-T09b-39 · C-T10a-09 · C-T10b-42 → sede: C-T09b-39 (fundamental, 7 u.)
+- **G-170 Contenido vs promoción.** C-T09a-42 · C-T12b-11 · C-T13a-33 · C-T13b-40 · C-T13b-41 → sede: C-T13b-40 (fundamental, 5 u.)
+- **G-171 Validación: make noise, double down on signal, do what works.** C-T09a-43 · C-T09b-14 · C-T10a-27 · C-T10b-27 · C-T10b-30 · C-T11-28 · C-T13b-28 → sede: C-T13b-28 (fundamental, 10 u.)
+- **G-172 El post como MVP y la escalera de validación.** C-T09b-43 · C-T10b-36 · C-T12b-28 · C-T13a-29 · C-T13b-31 → sede: C-T09b-43 (fundamental, 8 u.)
+- **G-173 Proceso semanal y outline.** C-T09a-36 · C-T09b-35 · C-T09b-36 → sede: C-T09a-36 (fundamental, 6 u.) *(mismo tema, bloques a/b)*
+- **G-174 Transformación y cambio de conducta como valor.** C-T09b-08 · C-T10a-36 · C-T13a-11 · C-T13b-21 → sede: C-T10a-36 (fundamental, 8 u.)
+- **G-175 Amplio arriba, específico abajo.** C-T09b-12 · C-T10a-30 · C-T11-27 → sede: C-T11-27 (intermedio, 7 u.)
+- **G-176 Hacer interesantes los intereses; crear clientes educando.** C-T09b-23 · C-T10b-18 · C-T11-23 · C-T13a-15 → sede: C-T11-23 (fundamental, 7 u.)
+- **G-177 Comunicación persuasiva y naturaleza humana.** C-T09b-32 · C-T13a-09 · C-T13b-06 · C-T14b-28 → sede: C-T13b-06 (fundamental, 4 u.)
+- **G-178 Negocio de escritura.** C-T09b-38 · C-T12b-35 → sede: C-T12b-35 (fundamental, 5 u.)
+- **G-179 Audiencia + producto (traffic and offers).** C-T10a-03 · C-T12a-04 · C-T12a-18 · C-T12b-04 · C-T12b-10 · C-T13a-07 · C-T13b-39 → sede: C-T12a-18 (fundamental, 8 u.)
+- **G-180 Distribution equals freedom.** C-T10a-04 · C-T10a-06 · C-T10b-08 · C-T10b-09 · C-T18-05 → sede: C-T10a-06 (fundamental, 10 u.)
+- **G-181 Formas de leverage (built/borrowed/bought, code y media).** C-T10a-07 · C-T10a-08 · C-T14b-24 · C-T15-31 → sede: C-T10a-07 (fundamental, 8 u.)
+- **G-182 La audiencia es confianza; people follow people.** C-T10a-10 · C-T10b-13 · C-T10b-14 · C-T11-25 → sede: C-T10a-10 (fundamental, 6 u.)
+- **G-183 Growth, authenticity, authority.** C-T10a-32 · C-T10b-15 → sede: C-T10b-15 (fundamental, 3 u.) *(mismo tema, bloques a/b)*
+- **G-184 Las redes como nueva sociedad.** C-T10a-13 · C-T10b-01 · C-T10b-03 · C-T14b-04 → sede: C-T10b-01 (fundamental, 9 u.)
+- **G-185 Beginner hell, impostor y "one step behind".** C-T10a-16 · C-T10a-17 · C-T10b-23 · C-T11-16 · C-T12a-20 · C-T12b-17 → sede: C-T12b-17 (fundamental, 7 u.)
+- **G-186 Poner ojos sobre el contenido (audiencias ajenas).** C-T10a-22 · C-T10a-23 · C-T10b-28 · C-T10b-31 · C-T10b-32 · C-T10b-33 · C-T10b-35 → sede: C-T10a-22 (fundamental, 10 u.) *(mismo tema, bloques a/b)*
+- **G-187 Networking como hacer amigos.** C-T10a-24 · C-T10a-25 · C-T10b-37 · C-T10b-38 · C-T17-40 → sede: C-T10b-38 (fundamental, 24 u.)
+- **G-188 Plataformas y concentration of force.** C-T10a-21 · C-T10a-33 · C-T10b-39 · C-T10b-41 · C-T15-44 → sede: C-T10a-33 (intermedio, 8 u.)
+- **G-189 La marca como mundo.** C-T10a-34 · C-T11-19 · C-T12a-31 → sede: C-T10a-34 (fundamental, 8 u.)
+- **G-190 Muerte de la marca personal.** C-T10a-40 · C-T10b-12 → sede: C-T10a-40 (intermedio, 5 u.) *(mismo tema, bloques a/b)*
+- **G-191 La saturación no existe.** C-T10a-39 · C-T10b-22 · C-T11-06 · C-T14b-27 → sede: C-T10a-39 (fundamental, 5 u.)
+- **G-192 Marca personal y public resume.** C-T10b-06 · C-T10b-07 · C-T12b-05 · C-T14b-19 → sede: C-T10b-06 (fundamental, 8 u.)
+- **G-193 Tú eres el diferenciador (unique mechanism, monopoly, moat).** C-T10b-10 · C-T11-04 · C-T11-05 · C-T13b-19 · C-T14b-31 → sede: C-T14b-31 (fundamental, 10 u.)
+- **G-194 Salir del cold outreach.** C-T10a-05 · C-T10b-11 · C-T17-16 → sede: C-T10a-05 (fundamental, 7 u.)
+- **G-195 You are the niche / experience model.** C-T11-03 · C-T11-10 · C-T11-14 · C-T12a-09 → sede: C-T11-03 (fundamental, 16 u.)
+- **G-196 Build, write, sell to yourself (el cliente es tu yo pasado).** C-T09b-10 · C-T11-12 · C-T11-13 · C-T13b-27 · C-T18-04 → sede: C-T11-13 (fundamental, 12 u.)
+- **G-197 Eternal markets y el nicho universal.** C-T11-08 · C-T12a-16 · C-T13a-12 · C-T16a-30 → sede: C-T12a-16 (fundamental, 9 u.)
+- **G-198 Múltiples intereses y segundo Renacimiento.** C-T11-30 · C-T11-31 · C-T11-42 · C-T14a-12 · C-T14b-02 → sede: C-T14a-12 (fundamental, 9 u.)
+- **G-199 El generalista.** C-T07b-14 · C-T11-34 · C-T11-37 · C-T11-40 → sede: C-T11-34 (fundamental, 9 u.)
+- **G-200 Getting paid to play.** C-T11-33 · C-T14a-04 · C-T16a-27 → sede: C-T14a-04 (fundamental, 9 u.)
+- **G-201 Evolución colectiva (creator society, consciencia colectiva).** C-T11-44 · C-T14a-07 · C-T16b-21 → sede: C-T14a-07 (avanzado, 7 u.)
+
+### Área 8 — Economía del individuo
+
+- **G-202 El emprendimiento como estado mental para todos.** C-T12a-03 · C-T15-17 → sede: C-T12a-03 (fundamental, 8 u.)
+- **G-203 Metapath y trampas de paradigma.** C-T12a-05 · C-T12a-06 · C-T12b-36 · C-T13b-42 · C-T15-11 → sede: C-T12a-06 (intermedio, 6 u.)
+- **G-204 Pilares del negocio y sus formulaciones.** C-T12a-11 · C-T12a-12 · C-T12b-07 · C-T12b-09 → sede: C-T12b-07 (fundamental, 7 u.) *(mismo tema, bloques a/b)*
+- **G-205 Rutas skill-based vs development-based.** C-T12a-17 · C-T12b-18 → sede: C-T12b-18 (fundamental, 10 u.) *(mismo tema, bloques a/b)*
+- **G-206 Servicio primero.** C-T12a-26 · C-T12b-22 · C-T12b-23 · C-T17-14 → sede: C-T12b-22 (fundamental, 8 u.)
+- **G-207 El nuevo 9-to-5 y productizar.** C-T12a-27 · C-T12b-25 · C-T13b-29 · C-T14b-11 · C-T15-34 · C-T17-15 → sede: C-T13b-29 (fundamental, 3 u.)
+- **G-208 Roadmap por etapas.** C-T12a-29 · C-T12b-26 · C-T12b-29 · C-T04-29 → sede: C-T12a-29 (fundamental, 5 u.)
+- **G-209 Media primero, software después.** C-T12a-32 · C-T13a-06 → sede: C-T12a-32 (intermedio, 9 u.)
+- **G-210 Más allá del negocio de una persona.** C-T12a-34 · C-T12b-40 · C-T17-30 · C-T18-10 → sede: C-T17-30 (intermedio, 9 u.)
+- **G-211 El one-person business como futuro del trabajo (7 billion companies).** C-T12b-01 · C-T12b-02 · C-T14a-05 · C-T14b-20 → sede: C-T12b-02 (fundamental, 8 u.)
+- **G-212 Intercambio de valor.** C-T12b-03 · C-T13b-03 · C-T14b-13 · C-T15-02 → sede: C-T15-02 (fundamental, 8 u.)
+- **G-213 Sistemas como producto.** C-T12b-15 · C-T13a-36 · C-T13b-18 · C-T13b-20 · C-T14b-36 → sede: C-T13b-18 (fundamental, 5 u.)
+- **G-214 Producto propio frente a ingresos de plataforma.** C-T12b-34 · C-T13b-37 · C-T15-35 → sede: C-T13b-37 (fundamental, 5 u.)
+- **G-215 El mismo proceso potenciado por IA.** C-T12b-38 · C-T14a-34 → sede: C-T12b-38 (fundamental, 2 u.)
+- **G-216 $100,000 in your head.** C-T13a-01 · C-T13b-22 → sede: C-T13b-22 (fundamental, 5 u.) *(mismo tema, bloques a/b)*
+- **G-217 El valor es percepción.** C-T13a-10 · C-T13b-02 · C-T13b-16 → sede: C-T13b-02 (fundamental, 5 u.) *(mismo tema, bloques a/b)*
+- **G-218 Creación de valor: ocho pasos, Value Equation, micronutrientes.** C-T13a-16 · C-T13a-17 · C-T13b-04 · C-T13b-14 · C-T13b-15 → sede: C-T13b-04 (fundamental, 3 u.) *(mismo tema, bloques a/b)*
+- **G-219 Las tres tensiones.** C-T13a-18 · C-T13b-12 → sede: C-T13b-12 (intermedio, 3 u.) *(mismo tema, bloques a/b)*
+- **G-220 PAS y frameworks de copy.** C-T09b-25 · C-T13a-19 → sede: C-T09b-25 (fundamental, 2 u.)
+- **G-221 Sales equals survival.** C-T13b-07 · C-T15-16 → sede: C-T13b-07 (fundamental, 5 u.)
+- **G-222 Tipos de oferta, entrega y precios.** C-T13a-25 · C-T13a-31 · C-T13b-25 · C-T13b-36 → sede: C-T13a-25 (fundamental, 5 u.) *(mismo tema, bloques a/b)*
+- **G-223 Productize yourself desde el propio camino.** C-T13a-26 · C-T17-19 → sede: C-T17-19 (intermedio, 11 u.)
+- **G-224 Lead magnet y micro producto.** C-T13a-34 · C-T13b-32 → sede: C-T13b-32 (intermedio, 5 u.) *(mismo tema, bloques a/b)*
+- **G-225 El trabajo replicable se reemplaza.** C-T14a-03 · C-T14b-07 → sede: C-T14a-03 (fundamental, 7 u.) *(mismo tema, bloques a/b)*
+- **G-226 Skill stacks.** C-T14a-13 · C-T14a-14 · C-T14b-22 · C-T14b-23 · C-T14b-30 → sede: C-T14b-22 (fundamental, 9 u.) *(mismo tema, bloques a/b)*
+- **G-227 Agencia.** C-T01a-08 · C-T14a-18 · C-T15-18 · C-T15-19 · C-T15-20 · C-T15-21 · C-T15-22 · C-T18-21 → sede: C-T15-19 (fundamental, 9 u.)
+- **G-228 La IA necesita dirección (doers vs directors).** C-T14a-21 · C-T14a-31 · C-T14b-32 → sede: C-T14a-21 (fundamental, 7 u.) *(mismo tema, bloques a/b)*
+- **G-229 Meaning economy.** C-T14a-24 · C-T14b-29 · C-T14b-38 · C-T16a-04 → sede: C-T14b-38 (fundamental, 7 u.)
+- **G-230 AI-first vs anti-IA.** C-T14a-28 · C-T14a-30 · C-T14b-33 → sede: C-T14a-28 (intermedio, 7 u.) *(mismo tema, bloques a/b)*
+- **G-231 Value creator.** C-T14a-10 · C-T14b-16 → sede: C-T14a-10 (fundamental, 9 u.) *(mismo tema, bloques a/b)*
+- **G-232 Ocio y trabajo como medio.** C-T05b-07 · C-T14b-09 → sede: C-T05b-07 (intermedio, 3 u.)
+- **G-233 Autonomía, no libertad.** C-T15-10 · C-T16a-19 → sede: C-T16a-19 (fundamental, 6 u.)
+
+### Área 9 — Filosofía de vida y sentido
+
+- **G-234 Expectativa vs realidad; dolor vs sufrimiento.** C-T16a-06 · C-T16b-04 → sede: C-T16b-04 (fundamental, 5 u.) *(mismo tema, bloques a/b)*
+- **G-235 La lucha elegida como fuente de sentido.** C-T16a-07 · C-T16b-02 · C-T16b-20 → sede: C-T16a-07 (fundamental, 6 u.) *(mismo tema, bloques a/b)*
+- **G-236 La fase perdida y lo desconocido.** C-T16a-13 · C-T16a-14 · C-T16b-06 · C-T07a-06 → sede: C-T16a-13 (fundamental, 8 u.)
+- **G-237 Los 20s.** C-T16a-21 · C-T16b-27 · C-T16b-28 · C-T17-41 → sede: C-T16b-27 (fundamental, 8 u.)
+- **G-238 Relaciones y Time Billionaire.** C-T16a-31 · C-T16b-32 · C-T16b-33 · C-T16b-34 → sede: C-T16a-31 (fundamental, 8 u.) *(mismo tema, bloques a/b)*
+- **G-239 Espiritualidad como conexión y como lente.** C-T16a-33 · C-T16b-36 → sede: C-T16b-36 (intermedio, 5 u.) *(mismo tema, bloques a/b)*
+- **G-240 Confianza en uno mismo.** C-T16a-17 · C-T16b-14 → sede: C-T16a-17 (fundamental, 7 u.) *(mismo tema, bloques a/b)*
+
+---
+
+## 6. Conceptos transversales
+
+Son los conceptos que no pertenecen a una sola área, sino que reaparecen como herramienta de explicación en casi todas. Para cada uno se indica su núcleo y dónde aparece (A1–A9 = áreas de la sección 2).
+
+**1. Entropía y orden.** Núcleo: todo sistema decae si no se le invierte energía; el orden (en la mente, en un negocio, en la sociedad) se crea y se mantiene. A3: C-T04-01, C-T04-08, C-T04-12. A1: la mente "segura" que decae y la consciencia ordenada desde fuera (C-T01a-05, C-T01a-23). A4: la anti-visión como deriva entrópica y el flow como orden (C-T03a-02, C-T03a-30). A5: trabajar cuando la entropía es baja y ordenar el día por entropía (C-T05a-17, C-T05b-20); cheap dopamine = entropía, earned dopamine = centropy (C-T06-03). A6: el second brain que sucumbe a la entropía (C-T07b-34). A7: contenido estructurado vs entrópico (C-T04-15, C-T09a-04). A8: el valor como reversión de la entropía (C-T13b-01); la evolución elimina el trabajo detestado (C-T14a-01). A9: no existe quedarse igual y la espiritualidad como revertir la entropía (C-T16b-26, C-T16b-35).
+
+**2. La meta (y la meta como lente).** Núcleo: toda acción está dirigida a una meta, consciente o no; la meta determina qué se percibe, qué se aprende y qué cuenta como problema. A1: la sociedad como sistema de metas (C-T01b-12). A2: las metas componen la identidad (C-T02a-05). A3: goal-striving machine y meta como lente (C-T04-25, C-T04-27). A4: C-T03a-06, C-T03a-07. A5: la dopamina señala lo relevante para la meta; los malos hábitos solo existen frente a una meta (C-T06-02, C-T06-25). A6: la meta filtra la información; RAS (C-T07a-07, C-T08-36). A7: el valor son ideas desde la lente de una meta; el nicho es la meta, no el tema (C-T09a-09, C-T11-11). A8: Purpose-Path-Priority; la anti-visión del cliente como estructura de venta (C-T13b-05, C-T13a-11). A9: "your goals are the axis of your suffering" y las metas en sentido teleológico (C-T16a-07, C-T16a-33).
+
+**3. Identidad y conceptual survival.** Núcleo: el yo es una red de ideas que se defiende como un cuerpo; todo cambio duradero es cambio de identidad. A1: se sostiene la identidad con atención (C-T01a-21). A2: C-T02a-07, C-T02b-02. A3: identidad como red de metas (C-T04-23). A5: weaponize your survival mechanism, 4-hour workday como identidad (C-T06-23, C-T05a-01). A6: leer para reprogramar quién eres (C-T07b-29). A7: los frameworks no deben volverse identidad; "your identity is your niche" (C-T09a-23, C-T11-10). A8: la percepción de valor depende de la identidad del comprador; "don't be a tool" (C-T13b-02, C-T13b-16, C-T14a-22); contratación por encaje de identidad (C-T18-20). A9: ideología dietética y espiritualidad como identidad (C-T16a-23, C-T16b-36).
+
+**4. "If you don't create it, you will be assigned one".** Núcleo: no elegir es aceptar la elección de otro; la fórmula se aplica a casi cualquier objeto. Propósito y educación (C-T01a-17, C-T03a-05), plan (C-T03b-15), proyecto (C-T03b-23), rutina (C-T05a-27), carrera (C-T12a-03), producto ("if you don't sell your own product you will be forced to sell someone else's", C-T13b-07, C-T15-16), mente ("program your own mind, or someone else will", C-T01b-09), juego ("create or be created", C-T01a-11).
+
+**5. Agencia.** Núcleo: la capacidad de actuar, e iterar, sin permiso. A1: conformity vs agency (C-T01a-08). A5: el detox como reinicio de la soberanía y la agencia (C-T06-19). A6: la agencia como última de las liberating arts (puente T07-b, C-T07b-03). A7: las redes como "path of high agency" (C-T10a-13); generalism, taste, agency (C-T11-32). A8: C-T14a-18, C-T15-18 a C-T15-22, C-T14b-30 (primera capa del skill stack post-IA), C-T14a-19; alta agencia en equipos (C-T18-21).
+
+**6. Awareness / consciencia.** Núcleo: no se puede actuar sobre lo que no se percibe; la consciencia es curativa y se retroalimenta. A1: C-T01a-31, C-T01b-15. A2: awareness before action (C-T02a-18). A3: ordenar la consciencia (C-T04-13). A4: brutal awareness (C-T03a-01). A7–A8: los levels of awareness del mercado (C-T13a-13), que el puente de T13-a vincula con las etapas de desarrollo. A9: elevar la consciencia propia y colectiva; meditación (C-T16b-21, C-T16b-31).
+
+**7. Perspectiva y zoom.** Núcleo: cada persona es un perspective vessel; la realidad se percibe a través de una lente que se puede cambiar, ampliar o alejar. A2: C-T02b-07, C-T02b-08. A3: perspectiva vs percepción, zoom in/zoom out (C-T04-20, C-T04-21). A4: escalera de perspectivas (C-T03b-07). A6: C-T08-15, C-T08-16, C-T08-17. A7: people follow people with a perspective; saturation does not exist porque cada uno habla desde su lente (C-T10b-13, C-T10a-39). A8: perspective en el skill stack post-IA (C-T14b-30). A9: zoom out ante el problema y comparison vs connection (C-T16b-08, C-T16a-10).
+
+**8. Value creator / creador.** Núcleo: el ser humano es esencialmente creador; el value creator investiga su "crevice of reality", resuelve sus problemas y enseña la solución. A1: create or be created; consumers vs creators (C-T01a-11, C-T01a-21). A2: arquetipos NPC/player/creator (C-T02a-38). A4: the true creative (C-T03b-22). A6: true creativity, el sintetizador (C-T08-31, C-T08-40). A7: el creador como forma de vida; educate, entertain, inspire (C-T09a-07, C-T10a-37). A8: C-T14a-10, C-T14b-14, C-T14b-15, C-T14b-16. A9: la naturaleza creadora y la Creator philosophy (C-T16b-22, C-T16a-29).
+
+**9. "You are the niche".** Núcleo: el nicho no es un segmento de mercado sino la persona (historia, intereses, cosmovisión, meta). A2: identidad como nicho; units of mind y la marca (C-T11-10, C-T02b-42). A4: "your niche is you" en profit off your purpose (C-T03b-29). A7: C-T11-03, el topic tree con "you" en la cima (C-T09b-11), la marca personal como unique mechanism (C-T10b-10). A8: experience model (C-T12a-09); vender al yo pasado (C-T13b-27); "you are the niche" como ultimate wrapper frente a la IA (C-T14b-31). A9: "everyone's niche is the good life" (C-T16a-30).
+
+**10. Solve your own problems and sell the solution.** Núcleo: la superación personal y el negocio son el mismo proceso en dos escalas. A4: C-T03b-29. A6: la autoexperimentación como única forma de resolver los problemas para siempre (C-T07b-18). A7: C-T11-12, C-T11-15. A8: C-T12a-14, C-T12a-15, C-T12b-13, C-T13b-26. A9: self-improvement is the seed of business (C-T16b-23). Evidencia: los productos del autor nacen de cómo resolvió sus propios problemas (C-T17-19).
+
+**11. El problema como punto de partida.** Núcleo: pensar, escribir, vender y vivir con sentido empiezan por identificar un problema; un problema solo existe frente a una meta. A3: C-T04-28. A4: "a problem creates a goal", el propósito como problema más urgente (C-T03b-18, C-T03a-17). A6: problem-first thinking (C-T08-02). A7: "problem is the inception of gold" (C-T09b-22). A8: frameworks de copy problem-first; los problemas son infinitos; identificar antes de resolver (C-T13b-13, C-T14b-10, C-T15-23). A9: honestidad radical para encontrar el primer problema (C-T16b-10).
+
+**12. Todo es una habilidad.** Núcleo: cualquier proceso mental que mejora con el tiempo es una habilidad; la diferencia entre donde estás y donde quieres estar es habilidad. A6: C-T07a-29, C-T07b-12. A7: crecer en redes es una habilidad (C-T10a-14, C-T10b-21). A8: ganar dinero es una habilidad (C-T15-27); agency se practica (C-T15-22). A9: la felicidad y la confianza son habilidades (C-T16a-01, C-T16a-17). A5: el foco es un músculo (C-T05b-25).
+
+**13. Iteración, ensayo y error y errores como brújula.** Núcleo: la inteligencia es corregir el rumbo hacia una meta; el error es la señal que da dirección. A3: cibernética (C-T04-24). A4: mad scientist (C-T03b-27). A6: Nature's Compass, la vida como science project (C-T07b-19, C-T08-09). A7: publish, fail, refine (C-T09b-37). A8: iteración de productos y del negocio, trial and error como dios (C-T13b-30, C-T12a-33, C-T15-24). A9: el fracaso como refinamiento (C-T16a-16, C-T16b-12). T18: "a series of necessary mistakes" (C-T18-07).
+
+**14. La vida (y todo lo demás) como juego.** Núcleo: los juegos ordenan la atención con una jerarquía de metas, reglas, desafío y feedback; quien no diseña su juego juega el de otro. A1: NPC vs main character; "learn the rules of the game" (C-T01b-11, C-T01b-17). A2: create your character (C-T02a-13). A4: C-T03a-26, C-T03b-30, C-T03b-34. A5: la rutina como reglas del juego (C-T05b-39). A7: las redes como "great modern game"; crecer "como un videojuego" (C-T10b-02, C-T10b-21). A8: el emprendimiento como juego infinito (C-T15-15). A9: los 20s como tutorial phase; "winning the game is how you discover it's the wrong game" (C-T16b-27, C-T16b-19).
+
+**15. Vessel.** Núcleo: algo vale como recipiente o vehículo de otra cosa (de la identidad, del propósito, del aprendizaje). A2: el alter ego como vessel del cambio de identidad (C-T02a-12). A4: el negocio como vessel de la obra de vida (C-T03a-23). A6: el Clarity Catalyst como vessel del aprendizaje; el ser humano como perspective vessel (C-T07a-18, C-T08-15). A7: las redes como "devil or vessel" (C-T10b-03). A8: business as life's work; internet como vessel (C-T12a-01, C-T14b-25).
+
+**16. Imitación inteligente.** Núcleo: no se puede evitar imitar; lo que separa al NPC del main character es imitar de forma consciente. A1: C-T01b-11. A2: C-T02b-10. A6: C-T07a-26, C-T08-39, reverse engineer and emulate (C-T07b-16). A7: plantillas como training wheels (C-T09a-21, C-T09a-22).
+
+**17. Atención.** Núcleo: la atención es el recurso escaso y el único control raíz; quien la captura y la sostiene, gana. A1: attention as power (C-T01a-21). A3: C-T04-11, C-T04-19. A5: attention over hours; attention is the RAM (C-T05a-05, C-T06-13). A7: attention is the root of existence; time under attention (C-T10a-01, C-T10b-16). A8: la atención como uno de los últimos fosos frente a la IA (C-T14a-20).
+
+**18. Leverage.** Núcleo: los que más ganan no trabajan más ni "más inteligente", sino con más palanca (código, medios, producto). A5: minimalismo como leverage; ordenar el día por leverage (C-T05b-11, C-T05b-20). A7: built/borrowed/bought, digital leverage (C-T10a-07, C-T10a-08); la escritura como base de la palanca de los medios (C-T09a-01). A8: C-T15-30, C-T15-31, C-T14b-24, C-T15-35; el código como apalancamiento casi infinito (C-T18-16).
+
+**19. Jerarquías, holons y transcend-and-include.** Núcleo: todo es a la vez un todo y una parte; cada nivel trasciende e incluye al anterior. A1: jerarquías de dominio vs de actualización; lente histórica (C-T01a-20, C-T01b-21). A2: C-T02a-27, C-T02b-38, C-T02b-39. A3: orden desde el caos, whole/parts (C-T04-05). A4: job/career/calling como transcend and include (C-T03b-21). A6: holons e historia como quinta dimensión (C-T08-23, C-T08-22). A8: la smart progression como "evolve, transcend and include" (C-T12b-29).
+
+**20. El borde: desafío, tactical stress y sobrecarga progresiva.** Núcleo: el crecimiento ocurre en el límite entre lo conocido y lo desconocido, con el desafío justo por encima de la habilidad. A2: tactical stress y lobster (C-T02b-28, C-T02b-19). A3: la mente como metabolismo (C-T04-18). A4: living at your edge (C-T03b-36). A5: tactical stress, focus muscle (C-T06-31, C-T05b-25). A6: progressive overload, overwhelm means you're learning (C-T07b-15, C-T07b-24). A8: el empleo donde el desafío se detiene (C-T15-15). A9: lo desconocido y true comfort (C-T16b-06, C-T16b-05).
+
+**21. Polaridad y ciclos.** Núcleo: nada existe sin su opuesto; la vida avanza en olas, capítulos y temporadas. A3: altibajos como oscilador (C-T04-06). A5: polaridad trabajo/descanso, ciclos de progreso (C-T05b-03, C-T05a-24). A7: la historia imita los altibajos del universo (C-T09a-32). A9: C-T16b-01, C-T16a-11, C-T16b-09. Evidencia: las temporadas del autor (C-T17-28) y sus ingresos como estados vs línea base (C-T17-24).
+
+**22. Principios sobre tácticas.** Núcleo: las tácticas caducan, los principios no; la estrategia expone a las tácticas correctas. A6: C-T07a-23, C-T08-25, C-T08-27. A8: direct response por principios, marketing como psicología aplicada, "the quickest fix is the longest path", persistent principles (C-T13a-21, C-T13b-09, C-T13b-42, C-T14b-23); business principles, not business models (C-T12a-04).
+
+**23. Eternal markets (health, wealth, relationships, happiness).** Núcleo: todos persiguen las mismas metas en los mismos dominios; de ahí salen los problemas que vale la pena resolver. A4: metas holísticas (C-T03a-24). A7: everybody's niche is self-actualization (C-T11-08). A8: C-T12a-16, C-T13a-12, C-T13b-21. A9: everyone's niche is the good life; mente, cuerpo, espíritu, negocio (C-T16a-30, C-T16a-20).
+
+**24. Persuasión.** Núcleo: comunicar de forma persuasiva es la capa base de cualquier habilidad moderna y solo es tan ética como quien la usa. A2: integrar la sombra (C-T02b-33). A7: impact causes movement; persuasive content (C-T09b-08, C-T09b-32). A8: C-T13b-06, C-T13a-22, C-T14b-30 (persuasion en el skill stack post-IA).
+
+**25. Horizonte largo y crecimiento no lineal.** Núcleo: "nothing happens, then everything happens"; los resultados llegan después de años de persistencia. A5: commit long enough; persistencia sobre consistencia (C-T06-29, C-T05b-34). A6: path of mastery; 20 años, no dos semanas (C-T07b-26, C-T07a-28). A7: crecimiento no lineal, idea flow (C-T10b-27, C-T09a-17). A8: plazos de tres a cinco años (C-T12b-37). A9: "overnight success takes ten years" (C-T16b-13).
+
+**26. Lo mínimo viable.** Núcleo: empezar con una primera versión imperfecta y mejorarla con datos. A4: minimum viable vision y goal (C-T03b-04, C-T03b-10). A7: el tweet como nuevo MVP (C-T09b-43). A8: MVO, micro service, ship the bad first product, social posts como MVPs (C-T12a-23, C-T13b-33, C-T12a-21, C-T12b-28).
+
+---
+
+## Resumen
+
+- **Áreas:** 9 (Diagnóstico; Identidad y desarrollo; Mente como sistema; Dirección; Autogobierno operativo; Aprendizaje y pensamiento; Creación y distribución; Economía del individuo; Filosofía de vida y sentido), más dos capas sin área propia: T17 (evidencia biográfica) y T18 (extensión a startups).
+- **Dependencia verificada:** la capa práctica depende de la conceptual (73 de 555 clústeres prácticos declaran dependencia de T01–T04; solo 9 de 251 conceptuales dependen de la práctica, y como aplicaciones). La dependencia es directa en autogobierno y aprendizaje (T05–T08), mediada por clústeres ancla en escritura, audiencia, negocio y producto (T09–T13), y recíproca en el bucle identidad ↔ negocio.
+- **Puentes conceptual → práctica:** 18 (sección 4).
+- **Grupos de clústeres equivalentes entre bloques:** 240 (927 clústeres; 194 cruzan temas distintos y 46 unen mitades a/b), con 18 uniones prioritarias (sección 5.1).
+- **Conceptos transversales:** 26 (sección 6).

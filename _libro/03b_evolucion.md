@@ -1054,3 +1054,817 @@ Las entradas de evolución del corpus muestran varios ejes de cambio. El primero
 - **Razón que da el autor:** no la da.
 - **¿Ambas pueden aplicar a contextos distintos?:** Varía según el caso.
 - **Tipo:** contradicción no resuelta / inconsistencia de datos.
+
+---
+
+## 6. Pensamiento
+
+### EV-129 — Shallow thinking → stupid thinking
+- **Antes:** "The Matrix Is Real" (2022): el opuesto del buen pensamiento es shallow thinking, tomar lo que ves como ley y creer que la pieza del rompecabezas es todo (U-023-002, U-023-004). "This mental model will make you think like a strategic genius" (2025-07): stupid thinking es pensar desde un solo cuadrante AQAL y predicarlo como la única vía (U-022-051).
+- **Después:** "How To Think Like A Strategic Genius" (2026-02): "stop thinking too early" y colapsar en lo que sabes, con cuatro rasgos: unidimensional, reduccionista, tribal, no cuestionador (U-022-070, U-022-071).
+- **Cambio exacto:** del contenido de lo pensado (una perspectiva) al proceso (dónde se detiene el pensamiento); la unidimensionalidad pasa a ser uno de cuatro rasgos.
+- **Razón que da el autor:** no la explicita.
+- **¿Ambas pueden aplicar a contextos distintos?:** Son compatibles: una describe el síntoma y otra el mecanismo.
+- **Tipo:** renombre y refinamiento.
+
+### EV-130 — Deep thinking → genius thinking
+- **Antes:** "deep thinking" = conciencia de los límites de la mente + "realm of possibility until filtered with direct experience" + cuestionarlo todo (U-023-006, 2022); "Critical Thinking 101" con la misma fórmula (U-017-085, 2023).
+- **Después:** "genius thinking" = sostener ideas amenazantes en el realm of possibility con intención de entender y no solo de saber; "your ability to continue thinking" (U-022-072, U-022-084, U-022-085, 2026-02).
+- **Cambio exacto:** renombre, con el añadido de la intención (entender frente a saber) y de la dimensión de amplitud y altura.
+- **Razón que da el autor:** no la explicita.
+- **¿Ambas pueden aplicar a contextos distintos?:** Aplican al mismo contexto.
+- **Tipo:** renombre.
+
+### EV-131 — Los siete pilares (2025) y los siete principios (2026) del pensamiento estratégico
+- **Antes:** "How To Take Back Control Of Your Life With Strategic Thinking" (2025-03): strategic intent, self-analysis (SWOT), strategic preparation (entorno/identidad), concentration of force, disciplined execution, adaptability, study general principles (U-022-027, U-022-028 a U-022-036).
+- **Después:** "The Art of Strategic Thinking" (2026-08): vision, research, preparation (recursos, brechas, reservas, riesgo), focus/concentration of force, execution, adaptability, study of principles (U-022-123, U-022-130 a U-022-146).
+- **Cambio exacto:** strategic intent → vision; SWOT → research (intel sobre uno mismo y el dominio); la preparación pasa de inmersión en un entorno a recursos y cobertura de riesgo; study of principles se eleva a "principle of all principles".
+- **Razón que da el autor:** en 2026 dice haberlos extraído de siglos de historia militar, deportiva y empresarial.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: la de 2025 es más práctica e identitaria; la de 2026, más clásica y de gestión de recursos.
+- **Tipo:** renombre y refinamiento.
+
+### EV-132 — Qué es la "fifth dimension" del pensamiento
+- **Antes:** la quinta dimensión es la "cognitive dimension" del estadio construct-aware (U-022-019, 2025-03).
+- **Después:** la quinta dimensión es la historia/el tiempo y la cuarta los cuadrantes: "This isn't the fourth dimension of time. That's actually the fifth dimension" (U-022-079, U-022-088, U-022-093, 2026-02).
+- **Cambio exacto:** reasignación del término.
+- **Razón que da el autor:** no la explica.
+- **¿Ambas pueden aplicar a contextos distintos?:** Son marcos distintos, no necesariamente incompatibles.
+- **Tipo:** renombre (reasignación).
+
+### EV-133 — Escala de niveles de pensamiento frente a las etapas del ego
+- **Antes:** nueve etapas de Cook-Greuter (U-022-014, 2025-03) y cuatro macroetapas premodern/modern/postmodern/second-tier (U-022-062, 2025-07).
+- **Después:** escala propia de cinco niveles, de 0 instinctual a 4 generative (U-022-081, 2026), donde el par first-tier/second-tier se reasigna a niveles 1–2 frente a 3–4 (U-022-082); dice que "esto está documentado" y lo atribuye a Wilber, Cook-Greuter y Spiral Dynamics.
+- **Cambio exacto:** convive otro esquema con numeración distinta y se reasigna "tier".
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: pensar en un dominio frente a desarrollo del ego.
+- **Tipo:** renombre (con inconsistencia de datos).
+
+### EV-134 — "Useless wandering" frente a "do nothing useless"
+- **Antes:** "If you've lost your creative genius" (2026-03): la creatividad exige "useless wandering" y aburrimiento verdadero frente a la cultura de la eficiencia (U-022-211).
+- **Después:** "The Art of Strategic Thinking" (2026-08): el precepto de Musashi "do nothing useless" (U-022-116; U-022-122).
+- **Cambio exacto:** posiciones opuestas a cinco meses.
+- **Razón que da el autor:** no lo reconcilia.
+- **¿Ambas pueden aplicar a contextos distintos?:** Podrían leerse en planos distintos: lo "inútil" para la productividad puede ser útil para la estrategia creativa.
+- **Tipo:** contradicción no resuelta.
+
+### EV-135 — Estudio esotérico frente a arreglar lo inmediato
+- **Antes / en paralelo:** recomienda libros de metafísica y "as above, so below" (U-020-141, U-017-157, 2024); recomienda The Kybalion y la filosofía hermética como fundamentos de la realidad (U-022-036, 2025-03).
+- **Después / en paralelo:** critica a quien estudia "this esoteric crap" en vez de arreglar lo que tiene delante (U-022-181, 2025-01).
+- **Cambio exacto:** tensión de énfasis, no cambio cronológico limpio.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: la crítica apunta a quien evade problemas concretos; la recomendación, a quien ya actúa y busca principios generales.
+- **Tipo:** contradicción no resuelta.
+
+### EV-136 — ¿Existen las ideas originales?
+- **Antes:** "nothing is original but there are original perspectives" (U-011-024, 2022); "nobody has original ideas, absolutely nobody" (U-008-151, 2024); el pensamiento original es "largely a myth" y la originalidad es percepción dependiente de la identidad, aunque ofrece cinco vías para pensar originalmente (U-022-169, U-022-171, 2025-01).
+- **Después:** el nivel 4 "generative" crea "original perspectives that didn't exist before, or you come to ideas without outside influence" (U-022-081, 2026-02).
+- **Cambio exacto:** de negar la originalidad absoluta a admitir un nivel de pensamiento generativo.
+- **Razón que da el autor:** no lo reconcilia explícitamente.
+- **¿Ambas pueden aplicar a contextos distintos?:** Puede leerse que la originalidad es relativa a la perspectiva (2022–2025) y que el nivel 4 es raro y ocasional (2026).
+- **Tipo:** cambio de énfasis.
+
+### EV-137 — Definición de creatividad
+- **Antes:** "creativity = create + clarity", conectar puntos de la experiencia; la true creativity como naturaleza del ser creativo (U-011-051, U-011-052, 2022); entrar al caos y crear claridad (U-023-090, 2023); lograr cualquier meta con el conocimiento y la habilidad disponibles (U-013-168, 2024-03); "collect, connect and create with the dots", que incluye "something from nothing" entre sus transformaciones (U-006-179, 2024-07).
+- **Después:** un estado natural, abierto y relajado de "noticing the unnoticed", que explícitamente "is not creating something from nothing; that nothing is already there" (U-022-206, 2026-03).
+- **Cambio exacto:** de proceso o habilidad orientada a resultados a estado de conciencia, en contradicción literal con la fórmula de 2024.
+- **Razón que da el autor:** "I'm not a creative person" hace parecer la creatividad mero talento.
+- **¿Ambas pueden aplicar a contextos distintos?:** Las definiciones pueden convivir como fases (estado → proceso → resultado).
+- **Tipo:** contradicción no resuelta.
+
+### EV-138 — Juzgar frente a discernir
+- **Antes:** "discern, not judge"; el juicio cierra la mente (U-011-002, U-011-132, U-017-144, 2022–2024); querer pasar "from judgment to discernment" (U-012-002, 2023-12-31).
+- **Después:** "just judge people's posture… let's call it observation and discernment" (U-024-211, 2025-09).
+- **Cambio exacto:** adopta el verbo "judge" que antes rechazaba, aunque lo redefine como discernimiento y lo limita a corregir las propias acciones sin decir nada a los demás.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Mismo contexto, distinta retórica.
+- **Tipo:** renombre (retórico).
+
+### EV-139 — Tribe of mentors frente a diversidad de perspectivas
+- **Antes / en paralelo:** crear una tribu de mentores y "exclusively consume their content" hasta que el subconsciente produzca ideas originales (U-010-029, 2023).
+- **Después / en paralelo:** estudiar lo opuesto a tus creencias, investigar ambos lados, conectar disciplinas y no "decapitar" el pensamiento con una sola perspectiva (U-017-093, U-021-080, U-022-167, U-022-176, 2023–2025).
+- **Cambio exacto:** no se reconcilia explícitamente.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: la tribu sirve para aprender un estilo de expresión (voz, tono); la diversidad, para pensar y formar opinión.
+- **Tipo:** contradicción no resuelta.
+
+### EV-140 — Los problemas: interpretación o punto de partida
+- **Antes:** "problems are only problems if you interpret them as such from your narrow perspective" (U-023-077, 2023), que matiza "problems never go away" (U-023-065).
+- **Después:** pensar empieza por un problema y hay que entrenar la mente para pensar "problem, problem, problem" (U-022-180, U-022-090, 2025–2026).
+- **Cambio exacto:** del zoom out que relativiza al problem-first que da dirección.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: el zoom out relativiza el malestar (no querer levantarse); el problem-first convierte los problemas reales en dirección para pensar.
+- **Tipo:** cambio de énfasis.
+
+### EV-141 — "Intelligence" → "perspective"
+- **Antes:** "How To Become More Intelligent Than 99% Of People" (2024-11-03): relaciona las etapas del ego con la inteligencia, "intelligence can only expand to the level of your mind" (U-021-104; también U-021-079).
+- **Después:** con Devon Eriksen (2024-12-08): "maybe intelligence wasn't the right word for me to use but perspective" (U-006-011); Devon la reformula como "effectiveness". En 2026 equipara perspectiva con ego development (U-012-199).
+- **Cambio exacto:** reemplaza el término; el mapa de etapas se mantiene.
+- **Razón que da el autor:** leer el artículo de Devon sobre la inteligencia como capacidad de contar historias.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: "perspective" nombra la capacidad que se amplía, y "intelligence" sigue en los títulos y en U-021-104.
+- **Tipo:** renombre.
+
+### EV-142 — Definiciones de inteligencia y su peso frente a la agencia
+- **Antes:** dos definiciones coexisten en 2024-11: la pragmática (iterar, persistir, lograr lo que quieres) y la holística (reconocimiento holístico de patrones, zoom out hasta disolver límites) (U-021-055, U-021-107). Devon Eriksen (2024-12-08) sostiene que la inteligencia tipo CI es biológica y no se puede aumentar, y dice expresamente que Dan discrepa porque la define "more broadly" (U-006-010); ambos coinciden en que la agencia, no la inteligencia, es el cuello de botella (U-006-006).
+- **Después:** la definición pragmática según Naval (U-025-149, 2025); "taste is the new intelligence" (U-025-219, 2025-08); el éxito tiene tres ingredientes, agencia, oportunidad e inteligencia, y con baja inteligencia "nunca te beneficiarás del todo" (U-025-150, 2025-12-28).
+- **Cambio exacto:** no hay reemplazo sino capas; tensión entre la inteligencia fija y secundaria de Devon y la inteligencia como ingrediente propio y ampliable del autor.
+- **Razón que da el autor:** no hay resolución explícita.
+- **¿Ambas pueden aplicar a contextos distintos?:** Pueden convivir si se distingue la inteligencia "narrow band" de Devon de la inteligencia amplia del autor.
+- **Tipo:** contradicción no resuelta.
+
+### EV-143 — La comparación
+- **Antes / Después (mismo video, 2023-02):** "comparison can be a very good thing if perceived correctly" (U-011-132), matizado: solo es buena si reconoces la brecha y haces una suposición positiva, y entonces es "connection", aunque la suposición también puede ser mala (U-011-150).
+- **Cambio exacto:** matiz dentro del mismo video.
+- **Razón que da el autor:** la condición de la suposición positiva.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí.
+- **Tipo:** refinamiento.
+
+---
+
+## 7. Escritura y contenido
+
+### EV-144 — Content pillars, topic tree y selección de temas: del mapa a "comparte lo que te importa" (y de vuelta)
+- **Antes:** lo que antes llamaba "content pyramid" ahora es "topic tree": tú → tres intereses → temas → subtemas (U-014-056, 2023-02); el proceso incluye un topic tree dominable en 6–12 meses (U-014-077, 2023-02-05); elegir dos o tres intereses filtrados por la meta del futuro ideal y evitar lo hiperespecífico (U-014-052, U-014-053, 2023-02-05); un paraguas único previo (self-improvement) del que salen los tres intereses (U-021-042, 2023-09); 2–3 intereses divididos en subtemas (U-019-079, U-019-081, 2024-06-02); tres temas grandes y amplios, simplificado a "straight-line to $1,000 in 60 days" (U-009-234, 2024-09).
+- **Después:** los pilares y su "content map" son útiles, "but if you want to avoid all of that, just focus on the ideas that are important to you and share those. That's your entire content strategy" (U-010-319, 2026-01-20; su tensión remite a U-010-140); "ignore niche and content pillars" y empezar por la materia prima (U-012-230, 2026-06-28); "If you find it important, that's unique because you interpreted it and decided to post it. That is all the niching down you need" (U-014-191, 2026-07-27). Pero en 2026-06-13 vuelve a enseñar el mapa en papel con 2–3 pilares, subtemas y pain points (U-010-356).
+- **Cambio exacto:** los pilares pasan de método a opción; el criterio se afloja de una intersección deliberada al juicio personal de importancia.
+- **Razón que da el autor:** evitar complicarse; los humanos se adaptan a cualquier nicho (metáfora del león en Alaska).
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: el mapa como andamiaje para quien necesita estructura para generar ideas; "comparte lo que te importa" para quien ya tiene un idea museum, una meta, una misión y un estilo formado.
+- **Tipo:** renombre y cambio de énfasis.
+
+### EV-145 — El eje del ecosistema de contenido, el cross-posting y la dirección del repurposing
+- **Antes:** "two hour content ecosystem" que parte de una newsletter semanal (U-013-022, 2022-08-28); de la newsletter o de la sección de un capítulo hacia abajo a todos los formatos (U-010-034, 2023-01; U-014-057, 2023-02); siete pasos con tres tweets diarios (U-002-100, U-017-066, 2023); de tweets probados a thread, newsletter y video, con los tweets como testing ground (U-009-021, U-009-027, 2023-04; U-009-244, 2024-09). 2024: empezar en X y construir la newsletter encima (U-016-030, 2024-03-31); la newsletter "can wait", basta un hilo semanal y 2–3 posts diarios, y no copiar y pegar posts de la newsletter sino reescribirlos (U-013-145, 2024-01-28).
+- **Después:** la newsletter vuelve a ser el eje que "splinters into posts" (U-016-289, 2026; su tensión lo contrasta con U-016-030); proyecto semanal top-down (U-014-197, 2026-07); "I literally have all platforms on one piece of content a week" y publicar la misma pieza idéntica en todas las plataformas porque "people are usually just consuming it on one platform" (U-010-327, 2026).
+- **Cambio exacto:** el eje alterna entre newsletter y X; la dirección del repurposing alterna entre bottom-up y top-down (en 2026 domina top-down); el cross-posting pasa de reescribir a copiar idéntico. Renombres: "two hour content ecosystem" (2022) → "content ecosystem" (2023, 2026) → "content stack" (2024) → "one person media company" (2024, U-006-190).
+- **Razón que da el autor:** su hipótesis de calidad sobre cantidad "was correct" (U-010-327).
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: empezar en X es para el principiante sin audiencia; la newsletter como eje, para quien ya tiene distribución. "Reescribir" se refiere a pasar de long a short form dentro de una plataforma; "cross-postear", a copiar la misma pieza entre plataformas. El flywheel de U-009-021 combina ambas direcciones.
+- **Tipo:** cambio de énfasis (con renombres).
+
+### EV-146 — Plantillas: training wheels frente a "resist the template"
+- **Antes:** usar plantillas y frameworks como training wheels (U-007-144, U-013-030, U-008-163, U-013-161, 2022–2025); "organize your writing into a framework until you understand what makes writing impactful" (U-014-088, 2024-09-08); dejar los frameworks y quedarse con los principios (U-014-099, 2024); "templates and frameworks don't make you inauthentic" (U-015-128, 2025-02-02).
+- **Después:** "I'm begging you to start writing essays" (2026-04-05): "write to discover, not to perform", "resist the template... for now just write", "build a body of work, not a content calendar" (U-014-132; su tensión lo señala frente a U-014-088 y U-014-050/U-014-102). En 2026-07: "There's journaling, and then there's writing": escribir es captar la atención con estructuras que funcionan (U-014-192).
+- **Cambio exacto:** el ensayo pone primero el pensamiento y deja la estructura para después; el post pone primero el packaging.
+- **Razón que da el autor:** el ensayo busca cambiar lo que uno cree; el engagement viene sobre todo del packaging, que se aprende más tarde.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: el ensayo (slow content, para pensar) frente al post de distribución (fast/medium content, para captar atención).
+- **Tipo:** refinamiento.
+
+### EV-147 — Convicción frente a duda
+- **Antes:** "you are right about everything at this very point in time" y "everyone is on social media to be told what to do in a confident way" (U-013-115, U-013-116, 2023-11-05), aceptando el riesgo de "false information" a cambio de certeza, con el resguardo "do not abuse these for the sake of engagement" (U-013-117); en 2025 deja "the burden of nuance" al espectador (U-024-099).
+- **Después:** en el ensayo, el paso más difícil es preguntarse "Do I actually believe this?" y "resist acting like you're absolutely right" (U-014-132, 2026-04-05).
+- **Cambio exacto:** de la convicción como herramienta de atención a la duda como herramienta de pensamiento; no lo plantea como corrección.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: la convicción aplica a la pieza publicada; la duda, al proceso de escribir para descubrir. Ambas coinciden en cambiar de opinión si el feedback convence ("okay, I'll do better next time", U-013-116).
+- **Tipo:** cambio de énfasis.
+
+### EV-148 — Short form y long form: puerta de entrada, base y moat
+- **Antes:** el long form construye autoridad y el short form lleva a la lista (U-013-021, 2022-08-28); hace lo contrario de la moda del short form y escribe newsletters largas (U-007-007, 2022-10-02); no le gusta "just keep posting reels" sin long form (U-018-015, 2022-10); "not long form yet", primero short form (U-007-145, 2022-12-18; U-001-144, 2024); "opt out of the short-form rat race" sin dejar de sistematizar el short form (U-001-074, 2022-10/2024-02). 2023: reconoce que sus tweets solo retienen unos cinco segundos y que sin profundidad no te recuerdan (U-017-067, frente a su dependencia de los tweets, U-017-044); el long form debe ser el pilar (U-009-024); 2 Hour Writer enseña a empezar por el long form o incluso un libro (U-004-157, 2023-10-15); casi siempre recomienda empezar por short form (U-009-109, 2023-11-26, en tensión con U-009-022/U-009-071, que recomiendan primero la newsletter); el email es short form y la newsletter long form (U-009-068, 2023-09-17). 2024: "recommend everyone start a newsletter" (U-001-073); organismo de tres capas con el medium form como muestra de competencia (U-014-153, U-014-154); "short posts are your base" (U-009-243, 2024-09); "short form is your base" (U-014-151, 2024-10); "both matter" (U-014-149).
+- **Después:** domina primero los tweets (U-016-290, 2026-03); el long form es "a moat... because AI can't really replicate it" (U-022-215, 2026-03); escribir se justifica por pensar, aprender y distribuir en la era de la IA (U-014-170, 2026), no solo por "media o código" (U-002-093, 2023; U-001-082, 2024). El short form sigue siendo el mecanismo de crecimiento y prueba de ideas (U-009-032).
+- **Cambio exacto:** no hay un cambio cronológico limpio en la puerta de entrada; el long form gana peso y su justificación pasa de la palanca técnica a la cognitiva y a la diferenciación frente a la IA.
+- **Razón que da el autor:** en 2026, que la IA no puede replicar el long form.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: short form para crecer y testear; long form o newsletter para profundidad, propiedad del público y ventas.
+- **Tipo:** refinamiento (con recomendaciones de entrada contradictorias según el programa).
+
+### EV-149 — La IA al escribir
+- **Antes:** "I don't want to hear about AI disrupting writing just yet" (U-013-137, 2024-01); pedir a ChatGPT 100 ideas no sirve porque falta visión y experiencia (U-018-163, 2024-12); "if you aren't a writer… your AI outputs are probably going to disappoint you" (U-018-158, 2024-12); la usa para inspirarse pero no puede replicar lo suyo y le quitaría la alegría (U-004-055, 2025-01); de 100 posts, uno publicable (U-012-127, 2025-02); la IA dispara ideas, pero "I have to come up with the idea" (U-021-153, 2025-04); "it just can't write for me. I don't think it ever will" (U-021-152, 2025-04).
+- **Intermedio:** decide cuándo usarla y cuándo escribir a mano, con prompts que refinan ideas pero no escriben (U-025-222, 2025-08); preguntas de outlining "if you are worried about having AI do all of the writing for you" y prompts de 500–2.000 palabras, incluido su prompt de tweets (U-021-171, U-021-173, U-021-185, 2025-11); el 99% del contenido de IA "goes straight to the bottom of the barrel" (U-013-202, 2025-12).
+- **Después:** escribir con IA está bien "as long as they're in control of the ideas" (U-012-192, 2026-02, que matiza U-012-164); los prompts sirven para refinar el pensamiento, "not write posts" (U-022-215, 2026-03); "the defining factor of an essay is that AI cannot write one" (U-014-122, 2026-04); "still very pro-AI", pero la IA agota la creatividad y destruye la sorpresa (U-014-126, 2026-04); usa la IA para generar iteraciones de buenos posts y elegir un tema, con dos filtros, IA y su mente (U-004-104, 2026-05, extensión de U-004-055); "don't use AI to write for you" significa "don't use AI to articulate your opinions and beliefs"; el material fáctico de terceros sí puede ir con IA, que quita fricción como un curso o un editor (U-021-230, U-021-231, 2026-08, que aclara U-021-152 y U-021-189).
+- **Cambio exacto:** de escéptico a integrador con límites: de "la IA no sirve para generar ideas" a "la IA genera variantes, estructuras y datos; las opiniones son tuyas". Tensión: aceptar la IA como coautora frente a definir el ensayo por lo que la IA no puede hacer.
+- **Razón que da el autor:** su experiencia directa, el placer de crear y el valor de luchar por articular el propio pensamiento ("it creates a gap that you can then go learn and fill").
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: rechaza la IA como fuente de visión u opiniones; la acepta como herramienta de redacción si el pensamiento es propio.
+- **Tipo:** refinamiento (con contradicción no resuelta sobre el ensayo).
+
+### EV-150 — ¿Atención o ideas?
+- **Antes:** "the value inside does not matter until you catch attention" (U-018-011, 2022-10-09); "it's not about catching attention... it's about valuable ideas" (U-007-140, 2022-12-18; en la compilación de 2024, U-001-139, su tensión remite a U-001-069, donde captar atención es "the name of the game"); "the ideas matter the most", no las animaciones ni las estructuras de tweet, aunque en el mismo pasaje atribuye a las animaciones su salto de 250.000 a 1,4 millones de seguidores en Instagram (U-009-025, 2023-04).
+- **Después:** quien abandona los hooks pierde la atención (U-022-038, 2025).
+- **Cambio exacto:** no hay giro cronológico; alterna el énfasis según el error que quiera corregir.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: el hook es la puerta (packaging) y la idea el contenido del regalo (U-014-190); hacen falta ambos.
+- **Tipo:** contradicción no resuelta.
+
+### EV-151 — Repetir y "robar" lo validado frente a la perspectiva propia
+- **Antes:** "people need to be reminded more than they need something new" y todo contenido es tu versión de lo que otros dicen (U-007-019, 2022; U-001-037); robar ideas es válido pero "overused" y la solución es la síntesis de la etapa 3 (U-007-141, 2022-12; U-001-140), con la advertencia de que copiar sin perspectivas no dura (U-001-154). En 2023-05 dice que solía repetir el dicho y que "lo cambió" a "people need to be reminded with something new" (U-002-097). "Take the ideas that already work and post them under your brand" (U-010-193, 2024); para el proceso de un post, "don't even watch the video" y pensar pasos propios (U-014-096, 2024).
+- **Después:** "sell what's already selling with your own twist" (U-022-173, 2025-01); vuelve a citar la versión original "people need to be reminded more than they need something new" para defender la repetición (U-015-096, 2025-02); cubrir las evergreen ideas (U-015-095, 2025); la solución debe salir "from your own contemplation rather than someone else's prescription" (U-022-200, 2025); el validated content es "the secret" (U-004-098, U-004-111, 2026-05), con el límite de que conceptos y categorías únicos sí son de alguien y copiar-pegar te deja como idiota (U-004-102); "nobody needs another person repackaging common sense" (U-012-232, 2026); "nothing is original" (U-022-147, 2026-08).
+- **Cambio exacto:** robar pasa de práctica tolerada con riesgo de commoditización a principio central, mientras crece la exigencia de perspectiva propia; reaparece una formulación que había declarado superada.
+- **Razón que da el autor:** en 2025, la audiencia nueva que no vio lo anterior y la repetición como condicionamiento.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: temas evergreen y validados con ángulo, proceso y perspectiva propios; se roba estructura y tema, no redacción ni conceptos acuñados; "say one thing a thousand ways". El autor reencuadra temas validados con su historia (U-015-147).
+- **Tipo:** cambio de énfasis.
+
+### EV-152 — Checklists de engagement: de tres hooks y seis elementos a diez mandamientos
+- **Antes:** tres hooks psicológicos: problemas, números y estadísticas (U-011-109, 2022-10-31); la misma tríada más Cialdini (U-011-238, 2023-07-19); seis elementos: hook, big problem, clear solution, big benefit, confidence/polarization, novel perspective, de los que se marcan 3–4 (U-004-146, 2023-10).
+- **Después:** "10 Commandments of Engagement", con la confianza como el más potente (U-013-107 a U-013-121, 2023-11-05); seis bloques de construcción del hook (U-013-152, 2024-01); Ten Commandments of Engagement: números, pattern interrupts, negativity bias, target y problem call-out, beneficio, social proof, convicción, ritmo/legibilidad, advertencias (U-015-101 a U-015-108, 2025-02).
+- **Cambio exacto:** ampliación y renombre; los tres hooks originales quedan como mandamientos 1 y 5; "confidence or polarization" pasa a "confidence and conviction / metaphorically impactful".
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Ambos se usan como checklist, no todos a la vez.
+- **Tipo:** renombre y refinamiento.
+
+### EV-153 — Fast content, clickbait y contenido superficial frente al "epistemic commons"
+- **Antes:** el contenido estructurado ordena la consciencia (U-007-162, 2022-12; U-001-100, 2024-02); guardar lo avanzado para cuando haya intención (U-021-043, 2023-09); "clickbait hooks aren't necessarily bad" si la narrativa completa expande la mente, "one stock can be down while the index fund is up" (U-014-146, 2024-10-20); quedarse superficial no es malo, hay que encontrar a la gente en su etapa (U-014-145, 2024-10); títulos superficiales para atraer al "achiever" (U-021-093, 2024-11). Antecedente: escapar de la "social media rat race" creando profundidad (U-011-114, 2022-10).
+- **Intermedio:** el contenido corto y rápido es entrópico (U-012-121, 2025-02; U-015-160, U-015-167, 2025-09), con la excepción del short-form "syntropic" de Clear, Naval y Huberman (U-015-176, 2025-09).
+- **Después:** los creadores optimizan para engagement y no para transformación, y el contenido rápido envenena el epistemic commons (U-014-120, 2026-04); el "fast content" incluye hot takes y "engagement-optimized threads" que dan "the feeling of understanding in 30 seconds" (U-014-121); fast content ("informed but empty") frente a slow content (ensayos) (U-014-129, 2026-04).
+- **Cambio exacto:** de una tesis general (el contenido ordena la consciencia) a una crítica del formato y a un criterio de propósito y esfuerzo de ordenamiento; juicio más crítico sobre lo optimizado para engagement, sin retractar la defensa del hook.
+- **Razón que da el autor:** no la explicita.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: el hook o lo superficial como puerta de una pieza profunda frente a la pieza entera que solo parece cambiar el pensamiento.
+- **Tipo:** cambio de énfasis.
+
+### EV-154 — Filosofía y "fluff" frente a tangibilidad y consejo accionable
+- **Antes:** el how-to es el corazón de la perspectiva (U-013-019, 2022-08; U-001-089); "I love fluff": da el porqué y el matiz que hacen actuar (U-008-017, 2023-03-12); con Dickie Bush dice haber pasado a "pithy big picture stuff" porque lo táctico ya está documentado (U-002-054, 2023-03); "actionable advice is how you build an audience at the start" y "don't try to be too clever when nobody knows who you are" (U-002-098, U-002-102, 2023-05); sus videos plantan semillas no prescriptivas (U-027-094, 2023-06); "forget everything you know about value: actionable advice and platitudes don't sell as well as they did" (U-013-144, 2024-01); justifica sus piezas largas frente al 90% que pide "cut the fluff" (U-020-145, 2024-08).
+- **Después:** con los fundadores de Stan observa que los posts abstractos "sound like a philosophical quote" y no llevan a ventas, y añade "make tangibility tangible" (U-004-008, U-004-011, 2025-01-28); critica los "fortune cookie tweets" de quien "act like you're Marcus Aurelius" (U-022-215, 2026-03); los principiantes no tienen la reputación de Marco Aurelio para escribir frases floridas (U-016-279, 2026-03).
+- **Cambio exacto:** se cruzan dos movimientos: de lo accionable a la perspectiva novedosa como motor de atención (2023–2024) y, después, de la filosofía como sello a exigir atarla a una conducta concreta y a un problema (2025–2026).
+- **Razón que da el autor:** el mercado se saturó de consejos genéricos (2024); lo táctico ya estaba documentado (2023); lo abstracto no vende (2025).
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: lo accionable y tangible para el principiante sin reputación y para el feed; lo pithy y el fluff para el creador con "time under attention" (U-015-144) y el long form para lectores comprometidos. Dickie admite volver a bajar con un ángulo nuevo (U-002-054).
+- **Tipo:** contradicción no resuelta.
+
+### EV-155 — Volumen de publicación frente a escasez
+- **Antes:** 3 tweets al día (U-026-043, 2022-06; U-002-100, U-017-066, 2023); si en dos semanas no hay datos, publica aunque sea malo (U-014-060, 2023-02); 1–3 posts diarios para "sacar los fracasos del camino" (U-011-237, 2023-07); 2–3 posts cortos diarios y 1–2 largos semanales (U-009-245, U-013-145, 2024); 3–5 posts cortos al día en el plan de 60 días, frente a los 1–2 que "normalmente" aconseja (U-009-266, 2024-09-15).
+- **Después:** "one piece of content a week" desglosada en el resto (U-010-327, 2026); contra el volumen de Alex Hormozi y otros, "tone it down", subir la calidad y añadir escasez a la marca para que verte publicar sea un "dopamine hit" (U-014-198, 2026-07, matiz de U-014-060 y U-014-169).
+- **Cambio exacto:** el volumen se concentra en una pieza semanal y se valora la escasez.
+- **Razón que da el autor:** 1–2 es lo que hace él ahora, "it's not what I did, I wrote more", e "ideas beget ideas" (U-009-266); si todos empujan volumen, la ventaja está en hacer algo distinto (U-014-198).
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: el volumen para el principiante que necesita datos y validación; la escasez para quien ya tiene audiencia.
+- **Tipo:** cambio de énfasis.
+
+### EV-156 — Problema primero, answer first, pirámide y ensayo
+- **Antes:** el pyramid principle como punto de partida, "state, argue, back up your point" (U-014-111, 2024-09-08; U-014-110 lo guarda como meta document); "start every piece with a pain point" (U-014-093, 2024-09); "problem is the inception of gold" (U-015-076, 2024-10); el 80% del contenido de principiante debe empezar con un pain point (U-015-093, 2025-02). Ambos frameworks se presentan como complementarios (U-014-091, 2024-09; U-022-179, 2025-01).
+- **Después:** el pyramid principle "takes an answer-first approach... you're not starting with a problem, you're starting with the idea" (U-022-199, 2025-12), con PAS como framework "principiante" y la pirámide como "intermedio"; "articles start with the conclusion; essays figure it out" (U-014-123, 2026; su tensión remite a U-014-091; U-022-225).
+- **Cambio exacto:** no es abandono sino jerarquía; lo que en 2024 era el método general de persuasión queda en 2026 como propio del artículo, no del ensayo.
+- **Razón que da el autor:** los títulos de YouTube muestran ambos enfoques (unos plantean el problema, otros la gran idea).
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: persuadir (pirámide) frente a pensar (ensayo); principiante frente a intermedio.
+- **Tipo:** refinamiento.
+
+### EV-157 — Escribir sobre lo que quieras frente a investigar lo que funciona
+- **Antes:** "post the things that are interesting to you" (U-011-091, 2022-10); "write about whatever you want in a way that's interesting" (U-014-050, 2023-02).
+- **Después:** si tu meta es solo ganar dinero, offer-driven content, sin anular lo anterior (U-008-161, 2024-12); "the best creators don't just post what's on their mind... that's not a strategy" (U-004-108, 2026-05); la intersección performance × excitement (U-010-317, U-021-228, 2026).
+- **Cambio exacto:** del interés propio como criterio suficiente a un equilibrio arte/negocio con investigación de mercado.
+- **Razón que da el autor:** tratar las redes como "life's work" implica estrategia (U-004-108); los artistas que ignoran el negocio terminan "starving" (U-021-228).
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí, según la meta (expresión frente a ingresos); admite que él mismo a veces publica lo que piensa.
+- **Tipo:** cambio de énfasis.
+
+### EV-158 — Estructura del texto largo de 1.000 palabras
+- **Antes:** problema/lead → contexto/beneficios (opcional) → pasos (U-013-020, 2022-08); problema → experiencia personal → pasos (U-002-098, 2023-05); hook → lead → cuerpo → conclusión → CTA (U-013-160, 2024-01).
+- **Después:** "pain and process": dolor con historia personal + lista con what/why/how (U-014-094, 2024-09; U-008-164, 2024-12); en 2025 se declara el origen de "casi todo" (U-022-179).
+- **Cambio exacto:** refinamiento progresivo y renombre como "pain and process".
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Son variantes del mismo esqueleto problema → solución.
+- **Tipo:** renombre y refinamiento.
+
+### EV-159 — Escribir sobre uno mismo frente a escribir para la audiencia
+- **Antes:** en las replies hay que hablar de ti, porque "talking about yourself leads to the most profile clicks" (U-004-150, 2023-10-15); el autor dice escribirse a sí mismo, como public journal (U-020-161, 2024).
+- **Después:** con los fundadores de Stan (2025-01-28), John Hugh propone escribir para tu yo más joven (U-004-002) y superar el "me me me" de la supervivencia (U-004-021); Vitali propone compartir la historia de tu vida (U-004-007) y matiza que el contenido "me me me" fracasa (U-004-016); filtrar por tu historia no significa hablar de ti todo el tiempo sino traducir ideas (U-010-309, 2026).
+- **Cambio exacto:** tensión entre fuentes más que corrección del autor.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: el yo como fuente y puente de identificación; la audiencia como foco.
+- **Tipo:** refinamiento.
+
+### EV-160 — Tiempo diario de escritura del autor y recomendado
+- **Antes:** 30 minutos cada mañana (U-025-013, 2022-12-25); bloque de 90 minutos (2 × 45) (U-017-023, 2023-01); "2 hours a day" y, en el mismo pasaje, "just a few days a week" (U-002-092, U-002-099, 2023-05); 1–2 horas (U-017-044, 2023-06); "two hours in the morning" y 2–3 horas de trabajo al día (U-026-117, 2023-06); "30 minutes every morning", ahora "30 minutes to an hour", porque al principio tardaba más por falta de habilidad (U-027-143, 2023-08); las primeras 2–3 horas del día (U-024-196, 2024-04-14).
+- **Después:** "$6.9 million writing 2 hours a day" (U-015-096, 2025-02); 2–3 días por semana, 1–2 horas, para principiantes (U-015-114, 2025-02); bloque de 30–60 minutos para principiantes (U-021-134, 2025-03); "two hours of writing in the morning, that's my entire routine" (U-024-135, 2025-10); "1–2 hours every morning" (U-022-194, 2025-12; U-014-171, U-014-176, 2026-07); "about 60 minutes a day of writing" (U-014-200, 2026-07); 1–2 horas al día para todo el ecosistema (U-014-197).
+- **Cambio exacto:** cifras distintas en pocos meses, sin cambio de principio (la escritura matinal como base del negocio).
+- **Razón que da el autor:** la eficiencia creciente (U-027-143), coherente con raise the baseline.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: la recomendación para principiantes es menor que la rutina del autor.
+- **Tipo:** inconsistencia de datos.
+
+### EV-161 — Proceso de la newsletter y herramientas
+- **Antes:** golden nuggets → disección → conexión (U-011-116, 2022-10; U-001-074, 2024); herramientas Tweet Hunter, Twemex, Medium (2022–2023).
+- **Después:** outline en Cortex con más de una semana de antelación (U-018-189, 2024-04); outline al inicio de la semana como "frame of reference" y escritura diaria (U-021-119, 2025-03); board semanal en Eden con IA (U-014-199, U-014-200, 2026-07); herramientas Cortex/Kortex (2024–2025) → Eden y 1of10 (2026); Eden "pivoted after they went broke thanks to AI credits" (U-004-110).
+- **Cambio exacto:** refinamiento y cambio de producto propio; la lógica (capturar, delinear, escribir con la investigación al lado) se mantiene.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Misma lógica.
+- **Tipo:** refinamiento (con renombre del producto).
+
+---
+
+## 8. Audiencia y marca
+
+### EV-162 — Taxonomía de la distribución y lugar de los patrocinios
+- **Antes:** "The One Person Business Roadmap" (2022-12; repetido 2024-02): built / borrowed / bought; los patrocinios pagados de podcast van en "bought" y "borrowed" es aparecer como invitado, menciones y shares (U-007-135; U-001-134). "I Had To Learn These High-Income Skills" (2023-08): bajo frente a alto leverage, con "renting others' audiences" por patrocinios entre las formas de alto leverage (U-013-095). "Micro Education Businesses..." (2023-09): manual, bot, borrowed, owned, donde "borrowed" es pagar patrocinios y se añade la distribución manual (cold email, DMs) (U-009-045).
+- **Después:** "You Won't Look At Money The Same Again" (2024-09): vuelve a built/borrowed/bought, con borrowed = networking, podcasts como invitado, guest newsletters, foros, y bought = patrocinios y anuncios (U-016-138).
+- **Cambio exacto:** reclasificación de los patrocinios y alternancia de esquemas.
+- **Razón que da el autor:** no la da; admite que "the lines are blurred" y que omitió cosas como SEO.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: una mide quién posee el canal; la otra, el costo y el control.
+- **Tipo:** inconsistencia de datos (clasificatoria).
+
+### EV-163 — Plataforma para empezar y papel del algoritmo
+- **Antes:** Twitter como "idea platform", subestimada (U-011-105, 2022-10); Threads le recuerda a Twitter en su infancia (U-011-237, 2023-07); newsletter + X para principiantes (U-009-071, 2023-09); empezar en Twitter/X, LinkedIn o Instagram, donde se controla el crecimiento con networking, y no en TikTok ni Shorts porque dependes del algoritmo (U-010-141, U-013-051, U-002-126, U-004-157, 2023); cualquier plataforma de escritura (U-012-114, 2024-06); LinkedIn como "blue ocean" (U-019-016, 2024-08); elegir X, Threads o LinkedIn según con cuál resuenas, porque "picking a platform based off of how easy it is to grow isn't a good long term strategy" (U-008-141, 2024-12).
+- **Después:** X o Substack para ensayos (U-014-133, 2026-04); el mecanismo de recomendación es "the single most fundamental aspect of social media growth on any platform" (U-004-099, 2026-05-14); en Twitter el algoritmo es "kind of non-existent" (U-004-114).
+- **Cambio exacto:** de recomendar la plataforma "subestimada" del momento a un criterio de afinidad y permanencia; el algoritmo pasa de algo que evitar a un mecanismo que se explota con contenido validado, sin abandonar el lever manual. Constante: empezar por una plataforma de escritura.
+- **Razón que da el autor:** la facilidad de crecimiento sube y baja en todas las plataformas; para el algoritmo no da razón explícita.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: plataformas de recomendación (YouTube) frente a plataformas networkables (X).
+- **Tipo:** cambio de énfasis.
+
+### EV-164 — De "start a personal brand" a "the death of the personal brand" (y su recuperación)
+- **Antes:** "starting a personal brand nowadays is non-negotiable" (U-011-071, 2022-06-25); la marca personal es "Dynamic" (U-020-034, 2022-11); "it is the future" y no tiene sentido no empezarla (U-010-007, U-010-008, 2023-01-29); recomienda marca personal frente a ads (U-015-015, 2023-02); "the new wave that won't die out" (U-009-043, 2023-09-17).
+- **Intermedio:** "The Death Of The Personal Brand" (2024-10-06): "personal brands are no longer personal"; arquetipo obsesionado con el dinero, glorified search engines, content creators frente a reality creators; influencer, creator y personal brand cargan connotaciones negativas; "don't be a personal brand... be you, in a place where your work can be discovered" (U-015-036, U-015-040, U-015-041, U-015-043, U-015-049, U-015-051), y se reconoce parcialmente culpable (U-015-047); rechazo del término "content creator" (U-006-059, 2024-12).
+- **Después:** lo repite y reconoce "even though I just said that" (U-010-306, 2026-01); "get over" el cringe de la palabra (U-016-277, 2026-03-15); "it is the future in many ways, especially as a value creator" (U-022-127, 2026-08-19).
+- **Cambio exacto:** no abandona la práctica (publicar, construir audiencia) sino la etiqueta y el modelo "cliché"; critica una deriva (la marca como funnel vacío) y en 2026 la recupera con el matiz del value creator.
+- **Razón que da el autor:** la degradación del término, la saturación de plantillas, el modo supervivencia de los creadores y las prácticas de influencers y del direct response (U-014-148, U-016-129).
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: la crítica apunta a la marca orientada solo al dinero; la recomendación, a la marca como expresión de curiosidad y valor. U-015-049 marca además tensión con su recomendación de elegir un nicho en otros videos, y U-010-306 la anota como matiz de U-010-007 y U-010-085.
+- **Tipo:** cambio de énfasis.
+
+### EV-165 — Qué es la marca personal: no un modelo de negocio, "meta business model", traffic source o capa de confianza
+- **Antes:** Justin Welsh rechaza "personal brand" y prefiere "walking business" (U-005-033, 2021-12); la marca personal "is not a business model", sino cómo muestras tu personaje en el mundo digital (U-016-205, 2023-08-01).
+- **Intermedio:** "meta business model" y el storefront más poderoso de la época (U-006-129, 2024-07; U-019-014, 2024-08-11); "content creator" es una etiqueta miope, social media es un traffic mechanism y "you are already a business" (U-019-013, 2024-08).
+- **Después:** "a personal brand isn't a business, it's a traffic source"; con una marca de confianza la optimización de la landing importa poco (U-015-153, 2025-06, matiz de U-015-125); "a layer of trust" entre producto y personas, vitrina o currículum digital (U-016-275, 2026-03-15).
+- **Cambio exacto:** el rótulo pasa de negar que sea un modelo de negocio a llamarlo "meta" modelo, luego canal de tráfico y finalmente capa de confianza.
+- **Razón que da el autor:** en 2024 es "meta" porque bajo ella se puede vender cualquier producto; en 2026 no da razón (la unidad indica que complementa la de 2023).
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: en todas las versiones la marca no es el producto, sino el vehículo bajo el que se distribuye.
+- **Tipo:** renombre (y refinamiento).
+
+### EV-166 — Relevancia del número de seguidores
+- **Antes:** la escala de 500.000+ seguidores como leverage y burla a quienes dicen que no hace falta ganar seguidores (U-007-126, 2022-12; U-001-128, 2024-02); la gente no sigue cuentas con pocos seguidores y con 100.000 te siguen "sin cuestionar" (U-004-139, 2023-10); preferir 100.000 diversos a 10.000 de nicho (U-012-049, 2024-05).
+- **Después:** con el interest graph "follower count doesn't really matter anymore" y la lista de email es la única medida real (U-014-143, U-014-150, 2024-10); "followers has lost its punch" (U-015-059, 2024-10); creadores de Stan con ~5.000 seguidores entre los que más ganan (U-004-018, 2025-01); "likes ain't cash", aunque "it's not binary" (U-012-226, 2026-06).
+- **Cambio exacto:** del conteo de seguidores como medida de poder a la confianza y la lista propia.
+- **Razón que da el autor:** el cambio de los feeds cronológicos al interest graph.
+- **¿Ambas pueden aplicar a contextos distintos?:** Conviven: sigue usando cifras de seguidores como benchmark y el matiz "not binary" las reconcilia.
+- **Tipo:** corrección (explicada por el cambio de plataforma).
+
+### EV-167 — Engagement groups y pagar por shares
+- **Antes:** "not a huge fan of engagement groups", pero sí de un grupo de 3–5 amigos, y prefiere pagar por shares a los shoutouts (U-013-026, 2022-08; U-001-093); los llama "mastermind", a lo Napoleon Hill (U-004-163, 2023-10).
+- **Después:** "call it an engagement group if you want", criticando a quienes condenan pagar por crecer mientras convierten sus posts en "engagement farms" (U-009-268, 2024-09); los engagement groups como "requisito para el éxito" (U-015-046, 2024-10); pay to play sigue siendo válido, pero no lo hace desde hace tres años, evita enseñarlo y "you don't need to do that" (U-014-163); "it's not an engagement pod" sino una tribu (U-014-164).
+- **Cambio exacto:** de la distancia a la reivindicación de los grupos (con amistad real) y del entusiasmo por pagar shares a un uso opcional.
+- **Razón que da el autor:** no la explicita, más allá de que la colaboración es el patrón natural de cualquier ámbito.
+- **¿Ambas pueden aplicar a contextos distintos?:** No se precisa.
+- **Tipo:** cambio de énfasis (con renombre).
+
+### EV-168 — El sistema de crecimiento: de muchos mecanismos a dos levers
+- **Antes:** "How To Build An Audience With Zero Followers" (2023-10-15): cuatro pasos (contenido persuasivo, ojos, iteración, profundidad), cuatro traffic mechanisms (replies, quote posts, reposts, manual DMs) y tres estrategias de control (short → long, remixing, paid growth) (U-004-136, U-004-143, U-004-144, U-004-149 a U-004-166); seis cosas en 1–2 horas diarias (U-014-159, 2024-10); siete pasos para salir del beginner hell (U-015-091, 2025-02).
+- **Después:** "How To Grow An Audience If You Have 0 Followers (It's Only 2 Habits)" (2026-05-14): validated content y networking; "treat everything else as a distraction" (U-004-097), con nuevo peso del mecanismo de recomendación (U-004-099).
+- **Cambio exacto:** compresión progresiva hacia dos palancas; el núcleo (contenido validado + poner ojos y relaciones) se mantiene.
+- **Razón que da el autor:** no la da explícitamente; presenta los levers como "levers that you pull", no como algo que se adivina.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: la versión de 2023 sirve como desglose táctico de los dos levers de 2026.
+- **Tipo:** refinamiento.
+
+### EV-169 — Paid growth
+- **Antes:** pagar a cuentas grandes por reposts es "10 veces más auténtico" que otras formas pagadas y necesario porque esas cuentas necesitan un filtro (U-004-160, U-004-161, U-004-162, U-004-166, 2023-10-15).
+- **Después:** sigue siendo "a very viable strategy", pero "let's not bank on that"; si eres inteligente puedes llegar gratis a otras audiencias (U-004-115, 2026-05-14).
+- **Cambio exacto:** de estrategia recomendada a opción secundaria.
+- **Razón que da el autor:** "you're only going to grow if you're good"; pagar no sustituye la calidad.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: el pago aplica a cuentas grandes y ocupadas; el networking gratuito, a pares y amigos (la tensión de U-004-161 ya lo indica).
+- **Tipo:** cambio de énfasis.
+
+### EV-170 — Non-needy networking 2023 frente a 2026
+- **Antes:** "The Non-Needy Networking Process" (2023-02-12): inspired compliment, lead with value, follow up with value, follow up with an ask; "subir la escalera": con cero seguidores una cuenta de 100K no te responderá (U-015-019 a U-015-031; U-015-022).
+- **Después:** simple praise, show you're useful (no necesitas tener valor, solo conectar con él), faint connection, ask con "brutal honesty"; grupo curado para crecer juntos 6–12 meses; 5 DMs al día durante 30–60 días (U-004-120 a U-004-130, 2026-05-14).
+- **Cambio exacto:** renombres, más énfasis en la amistad entre pares y métricas de acción.
+- **Razón que da el autor:** no la da explícitamente.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: la escalera sigue valiendo para cuentas mucho más grandes; el proceso de 2026 apunta a pares.
+- **Tipo:** renombre y refinamiento.
+
+### EV-171 — Plazo de formación de la marca
+- **Antes / Después (alternando):** 6–12 meses (U-014-058, 2023-02; U-010-203, 2024-08; U-015-111, 2025-02) frente a 3–6 meses (U-015-071, 2024-10; U-010-307, 2026-01). Las fuentes anotan la diferencia (U-015-111 frente a U-015-071; U-010-307 frente a U-010-195).
+- **Cambio exacto:** dos rangos alternan sin orden.
+- **Razón que da el autor:** no la explica.
+- **¿Ambas pueden aplicar a contextos distintos?:** Podría ser percepción inicial frente a entender plenamente la marca ("until people genuinely understand your brand").
+- **Tipo:** inconsistencia de datos.
+
+### EV-172 — Benchmarks y umbrales de crecimiento
+- **Antes:** 10–20K seguidores el primer año y 50–100K en dos (U-009-047, 2023-09); 100K en un año es "extremely good", casi perfecto (U-009-094, 2023-11); "no esperes resultados insanos en menos de un año" (U-004-165, 2023-10); 1.500–3.000 al mes (18–36K anuales) con menos de 30 minutos diarios, o "algo haces mal" (U-006-146, 2024-07). Umbral para diversificar: ~10 ideas validadas (U-002-106, 2023-05), tras ser rentable (U-012-114, 2024-06), 50.000 seguidores (U-009-246, 2024-09; frente a U-009-112, sin número).
+- **Después:** benchmarks en vistas e impresiones en lugar de seguidores (U-016-269, 2026-03); 2 semanas a 3 meses para los primeros efectos del networking (U-004-130, 2026).
+- **Cambio exacto:** las cifras cambian y la métrica pasa de seguidores a vistas.
+- **Razón que da el autor:** no las presenta como contradictorias; dependen de la habilidad y la etapa.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí.
+- **Tipo:** inconsistencia de datos.
+
+### EV-173 — Anuncios pagados: de evitarlos a secuenciarlos tras la validación orgánica
+- **Antes:** Justin Welsh nunca hizo anuncios y el autor no los consideraba "worth splitting focus" (U-005-030, 2021-12-20); construir audiencia para no "echar dinero a un horno" testeando ideas con ads (U-007-110, 2022-06); "instant versus long term... do both but aim for the long term" (U-013-096, 2023-08); manual, bot y borrowed "son increíbles para testear" (U-009-045, 2023-09).
+- **Después:** ads como "steroids" que van después del "natural bodybuilding" (U-016-023, 2024-03); Cortex "eventualmente necesita comprar distribución" para escalar (U-016-138, 2024-09); las redes como base gratuita para testear antes de gastar en anuncios (U-015-063, 2024-10); los posts orgánicos son pruebas gratuitas de ángulos que luego vuelven rentables los anuncios (U-014-160, 2024-10-20; U-008-139, 2024-12-01).
+- **Cambio exacto:** los anuncios pasan de "para más adelante" a una etapa posterior alimentada por los datos orgánicos.
+- **Razón que da el autor:** el fracaso de 2022 y la escala de los proyectos posteriores.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: principiantes sin capital frente a negocios con ángulos validados.
+- **Tipo:** refinamiento.
+
+### EV-174 — Avatar de cliente frente a ideas amplias
+- **Antes / Después (en paralelo):** el marketing en internet pasa del avatar hipersegmentado a compartir ideas amplias (U-002-009, 2023-03), mientras usa el tipo Myers-Briggs de sus alumnos como avatar (U-002-050).
+- **Cambio exacto:** tensión registrada en la fuente.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: difusión amplia en redes frente a definición del cliente para una oferta.
+- **Tipo:** contradicción no resuelta.
+
+### EV-175 — "Crecer en redes es fácil" frente a "high skill cap"
+- **Antes / Después (mismo video, 2026-05):** abre con "growing on social media is easy" (U-004-087) y luego dice que si fuera tan fácil como publicar funcionaría para todos; hay un "skill cap" muy alto (U-004-113).
+- **Cambio exacto:** matiz dentro del mismo video.
+- **Razón que da el autor:** es fácil para él por la habilidad acumulada.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí.
+- **Tipo:** refinamiento.
+
+### EV-176 — Importancia del perfil, la bio y el banner
+- **Antes:** el branding es la mitad del crecimiento (U-013-025, 2022-08-28); "¿tu perfil parece merecer un millón de seguidores?", con un día dedicado a la foto de perfil (U-013-053, 2023-01-08).
+- **Después:** "they're not following the profile, they're following the content", y el perfil no debe bloquearte, aunque mantiene el test del millón (U-009-239, U-009-241, 2024-09-15); "forget about your bio and banner for now" (U-015-137, 2025-06-08).
+- **Cambio exacto:** el perfil pasa de prioridad a detalle de top of funnel.
+- **Razón que da el autor:** muchos creativos se bloquean en la bio porque es lo primero que enseñan los cursos; la confianza la crea la calidad de las ideas con el tiempo.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: el perfil importa al optimizar; al empezar, no.
+- **Tipo:** cambio de énfasis.
+
+### EV-177 — Qué sigue la gente: contenido, perspectiva, persona o worldview
+- **Antes:** "they're following the content", no el perfil (U-009-239, 2024-09-15); "people don't follow information, they follow perspectives" (U-015-073).
+- **Después:** "they want your perspective on information" (U-022-158, 2025-01-19); "people don't follow ideas, they follow people who share ideas" (U-015-143, 2025-06-08); "people don't follow you for your content anymore", sino por tu punto de vista, que nace del worldview (U-021-224, 2026-08-09).
+- **Cambio exacto:** deslizamiento de "contenido" a "perspectiva" y luego a "persona/worldview".
+- **Razón que da el autor:** (2026) Google y la IA hacen que la información sea accesible con un clic.
+- **¿Ambas pueden aplicar a contextos distintos?:** Son compatibles si el "contenido" de 2024 se lee como opuesto al perfil, no a la persona.
+- **Tipo:** refinamiento.
+
+### EV-178 — La consistencia: ¿garantía o condición necesaria?
+- **Antes:** John Hugh (2025-01-28): publicar cada día durante un año "garantiza" el éxito (U-004-003, U-004-004).
+- **Después:** el autor (2025-02-02): la consistencia sola no es la respuesta; "you aren't making progress because you aren't doing the right things" (U-015-084, U-015-087).
+- **Cambio exacto:** matiz más que contradicción; ambos coinciden en iterar sobre datos y redoblar lo que funciona.
+- **Razón que da el autor:** hay que hacer las cosas correctas.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: la consistencia es condición necesaria, no suficiente.
+- **Tipo:** refinamiento.
+
+### EV-179 — Tiempo en redes del autor frente a la exigencia al principiante
+- **Antes:** el autor pasa menos de 30 minutos diarios en redes (U-027-019, 2022-11-13).
+- **Después:** el principiante debe "reply like a madman" (U-027-144, 2023-08-23) y "spam replies" (U-004-151, 2023-10-15).
+- **Cambio exacto:** práctica personal y exigencia al principiante difieren.
+- **Razón que da el autor:** su sistema actual no se parece al de un principiante; hay que dedicar tiempo a una parte, automatizarla y pasar a la siguiente.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: etapas distintas.
+- **Tipo:** contradicción no resuelta (aparente, por etapa).
+
+---
+
+## 9. Nicho
+
+### EV-180 — Del "niche down toward a goal" al "nicheless"
+- **Antes:** si le dijeran "niche down toward a specific goal", estaría de acuerdo; él prefiere metas amplias y señala la tensión (U-007-081, 2022-11-06); se declara "más de la línea" de nichar hacia una meta que puedes ayudar a lograr (U-027-043, 2023-03-05).
+- **Después:** "Niche Down Is Terrible Advice (For Smart People)" (2023-07-04: U-010-095, U-010-096, U-010-099); "Don't Find A Niche. Become The Niche" (2024-08-25: U-010-158, U-010-173, U-010-175); "you don't need to choose a niche, you need to experiment with ideas until people tell you" (U-015-129, 2025-02-02); "if you find it important... that is all the niching down you need" (U-014-191, 2026-07-27). En el mismo video que lo llama "terrible advice" reconoce que el patrón starving market → niche market "is still it, it still works" (U-010-095).
+- **Cambio exacto:** se pasa de aceptar el nicho como meta específica a rechazar el término y sustituirlo por "mission as niche" (U-015-181) y la identidad cambiante ("nicheless").
+- **Razón que da el autor:** años de dolor con el "niche down" (U-010-152), la experiencia con alumnos (U-010-009) y el carácter aleatorio de la difusión en redes (U-012-097).
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: mantiene en todas las fechas que nichar el producto (no la marca) tiene sentido, que el método tradicional sirve para posicionar o con paid ads y para entender al cliente (U-010-108, U-010-176, U-012-048).
+- **Tipo:** cambio de énfasis.
+
+### EV-181 — Renombres del concepto de nicho
+- **Antes:** para "productizing myself" probó "mental monetization" y "the business of self" antes de quedarse con "one person business" (U-011-111, 2022-10-31); "I am my own niche" (U-013-058, 2023-01-08); "niche of one", "the niche of you", "the most profitable niche is you" (U-010-011, U-010-043, 2023-01-29); "you are the infinite niche" (U-010-099, 2023-07-04); "the anti-niche" anunciado como futuro video (U-009-116, 2023-11-26; U-012-097, 2024-06-09).
+- **Después:** "become the niche" / "nicheless" (U-010-173, U-016-013, 2024); "mission as niche" (U-015-181, 2025-09-07); de "you are the niche" a "your mission is your niche" en el contexto de la market sophistication (U-008-175, 2026).
+- **Cambio exacto:** etiquetas sucesivas de la misma tesis con matices (infinito = progresión de marca; nicheless = evolución; mission = transformación A → B).
+- **Razón que da el autor:** no la da; en 2026 la usa para explicar por qué la marca y la tribu con misión son el diferencial.
+- **¿Ambas pueden aplicar a contextos distintos?:** Misma tesis.
+- **Tipo:** renombre.
+
+### EV-182 — Generalista, especialista y sus híbridos (y la profundidad en una disciplina)
+- **Antes:** "become a generalist, not a specialist... the worst thing you can do" (U-007-046, 2022-10-23; U-001-009, 2024).
+- **Intermedio:** "specialists are out but so are generalists; we live in a time of specialized generalism" (U-011-138, 2023-02-19; U-012-023, 2023-12-31; U-017-188, 2024-01-18); "the generalists don't win, the specialists don't win, it's the generalized specialists" (U-013-177, 2024-03-24); "it's about becoming both" (U-026-146, 2024-03-10); "intelligence stems from generalism, not specialism" (U-020-141, 2024); "The Age Of The Generalist" (U-012-043, U-012-052, 2024-05-19); "most people never master one domain", dominar uno acelera los demás (U-023-199, 2024-07).
+- **Después:** "the peak of human ability lies in being a specialized generalist" (U-025-218, 2025-08-17); "you're meant to be a generalist" (U-013-210, 2025-12-21); generalist / specialist / master-strategist, con el estratega de Musashi que va "so deep into one discipline" que descubre lo universal (U-022-117, U-022-119, 2026-08-19), sin abandonar el valor de conectar dominios (U-022-176).
+- **Cambio exacto:** oscila entre la defensa radical del generalista y un híbrido que cambia de nombre (specialized generalism → generalized specialists → specialized generalist → master/strategist), con énfasis creciente en la profundidad como vía a lo universal.
+- **Razón que da el autor:** en 2023, en el mundo "normal" bailarás entre ambos roles, "but we aren't here to be normal" (U-011-138); en 2025, el riesgo de ser reemplazado o explotado por una credencial (U-025-218).
+- **¿Ambas pueden aplicar a contextos distintos?:** La definición estable de generalista como quien persigue una meta y aprende todo lo necesario (U-012-052, U-010-265) hace que "generalista" y "specialized generalist" designen casi lo mismo: especialización en la visión, generalidad en las habilidades (tensión de U-012-023).
+- **Tipo:** renombre (con oscilación de radicalidad).
+
+### EV-183 — Personal monopoly frente a mental monopoly
+- **Antes:** "The One Person Business Roadmap" (2022-12-18, 10:17): "personal Monopoly or mental Monopoly is how I like to call it" (U-007-129).
+- **Después:** en el mismo video (13:32) define el mental monopoly por separado como "having great ideas that people tie to you" (U-007-136); la compilación de 2024 repite ambos usos (U-001-130, U-001-135).
+- **Cambio exacto:** de sinónimos a dos niveles (el mental monopoly como "the next thing").
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Dos capas: irreemplazabilidad por la persona e historia frente a asociación de ideas con el autor.
+- **Tipo:** renombre (de sinónimo a distinción).
+
+### EV-184 — "Deep generalist" frente a "deep specialist" en la cita de Schmachtenberger
+- **Antes / Después (en paralelo):** "be a deep generalist" (U-006-083, 2024-07-28; U-010-215, 2025-02-23; U-024-226, 2025-09-14) frente a "study the generalized principles of nature and become a deep specialist" (U-012-096, 2024-06-09), usada además para apoyar el niche of one y el personal monopoly.
+- **Cambio exacto:** la última palabra de la cita se invierte.
+- **Razón que da el autor:** no la da; podría ser variación de lectura o de transcripción.
+- **¿Ambas pueden aplicar a contextos distintos?:** La variante "deep specialist" encaja con el "specialized generalism"; la mayoría de las apariciones usa "deep generalist".
+- **Tipo:** inconsistencia de datos.
+
+### EV-185 — Cuánto contenido puede salirse de lo que vendes
+- **Antes:** "if at most 20% of posts have nothing to do with what you sell and 80% do" no afectará los ingresos (U-013-060, 2023-01-08).
+- **Después:** "eighty percent of my content did not revolve around the thing that I was selling and it didn't matter" (U-010-014, 2023-01-29); Vitali (Stan) propone ~70% de expertise más observaciones personales (U-004-029, 2025-01-28).
+- **Cambio exacto:** la proporción se invierte en tres semanas.
+- **Razón que da el autor:** U-013-060 responde a la objeción "¿y si no vendo nada?" como cota prudente; U-010-014 describe su caso con la condición de introducir la importancia de cada tema.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: regla para quien teme perder ventas frente al caso de quien domina la persuasión (cf. U-010-168).
+- **Tipo:** contradicción no resuelta.
+
+### EV-186 — ¿Empezar estrecho o amplio?
+- **Antes:** Dickie Bush recomienda hablar de algo muy específico al inicio y revelar el resto después (U-002-005, 2023-03-16), mientras Dan advierte contra suprimir ideas fuera de nicho (U-002-007); crecer con temas amplios "without niching down too much" (U-008-073, 2023-03); "you clearly have to establish one building first; you can't just build an entire city" (U-010-108, 2023); el lead magnet como "first niche" y luego de-niche (U-010-139, U-010-149, 2023-07).
+- **Después:** John Hugh propone un "in wedge" hiperespecífico y a la vez "you are the niche" (U-004-025, U-004-026, 2025-01-28); Dan responde que su práctica fue "one focus area plus a lot of noise" y que ambos caminos funcionan (U-004-027); Sahil Bloom admite que no nichar "es más lento" y "you get defined by your niche" (U-005-108, U-005-109); "one main skill or interest" como punto de partida (U-008-147, 2024-12); "one skill or interest you plan to monetize" más dos complementarios (U-016-278, 2026).
+- **Cambio exacto:** la postura pública de "no elijas nicho" convive con recomendaciones operativas de un foco inicial.
+- **Razón que da el autor:** el punto de partida del principiante y la velocidad de crecimiento.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: foco inicial para la monetización y el principio; amplitud para la marca y el largo plazo.
+- **Tipo:** contradicción no resuelta.
+
+### EV-187 — Shiny object syndrome: síntoma, señal o etiqueta; y sus siete fracasos
+- **Antes:** "People warn against shiny object syndrome, but… never seen it be the case"; hay que probarlo todo (U-007-119, 2022-06; su tensión remite a U-007-102, "focus long enough to judge interest"); distingue buena y mala shiny object syndrome (U-013-034, U-013-066, 2023-01-08); "I attribute my unique success to shiny object syndrome" (U-016-220, 2023-08-01); no llamar shiny object syndrome a la experimentación (U-026-142, 2024-03-10); fracasos que apilaron habilidades irreemplazables (U-012-054, 2024-05-19). En sentido contrario: los siete fracasos como "una gran trampa", por ser "the architect of the business" (U-016-021, 2024-03-31); "the endless shiny object syndrome you have with finding a niche is a blatant sign that business hasn't clicked for you yet" (U-010-161, 2024-08-25).
+- **Después:** critica a padres, profesores y amigos que dicen "shiny object syndrome is bad" para descalificar los múltiples intereses (U-010-217, 2025-02-23); cada interés deja un residuo y "your shiny object syndrome has been trying to tell you this whole time" que la especialización frena tu desarrollo (U-010-282, 2026-01; su tensión remite a U-010-006 y U-010-161); los negocios fallaron "thanks to shiny object syndrome", aunque le dejaron habilidades (U-004-087, 2026-05-14); eran "hobbies", no negocios (U-022-106, 2026-08-19).
+- **Cambio exacto:** la misma etiqueta se usa como defensa, como diagnóstico negativo y como arma social que se rechaza; la defensa se vuelve más teórica (complejidad del modelo de la realidad).
+- **Razón que da el autor:** no la explicita; la tensión de U-010-217 señala que en 2025 lo criticado es el uso de la etiqueta contra los múltiples intereses.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: saltar de nicho en nicho buscando el más rentable frente a explorar intereses; los fracasos fallaron como negocios (por no adquirir clientes) pero sirvieron como acumulación de habilidades.
+- **Tipo:** contradicción no resuelta.
+
+### EV-188 — Qué significa "you are the niche"
+- **Antes:** tu condicionamiento, personalidad e historia hacen que nadie pueda competir contigo (U-005-047, 2021-12-20; U-010-075, 2023-04-30).
+- **Después:** con la IA igualando el 90% de los productos, eres el diferenciador (U-012-166, 2025-05-25); tu punto de vista exige vivir experiencias nuevas y no estar "on Claude 24/7" (U-014-125, 2026-04-05); "you are the niche doesn't mean posting about you, you, you", sino poner tu mente, la red de ideas interconectadas, en público (U-021-225, 2026-08-09).
+- **Cambio exacto:** de la identidad biográfica a la mente y el punto de vista como activo frente a la IA.
+- **Razón que da el autor:** corregir una mala lectura de críticos (U-021-225) y el contexto de la IA.
+- **¿Ambas pueden aplicar a contextos distintos?:** Es un refinamiento acumulativo.
+- **Tipo:** refinamiento.
+
+### EV-189 — A qué distancia del cliente hay que estar
+- **Antes:** Justin Welsh: 2–3 años detrás de ti (U-005-054, 2021-12-20); "one to two steps behind" (U-007-017, 2022-10-02); "two steps ahead" y crear cursos a 2–3 pasos de quien fuiste (U-008-031, 2023-03-12); basta saber más que alguien "one step behind you" (U-008-060, 2023-03, en tensión con U-008-031); "someone that's right behind you" (U-027-050, 2023-03); "one step behind" (U-009-117, 2023-11).
+- **Después:** "one to two steps behind" (U-008-109, 2024-02-25); "one step behind" (U-006-123, 2024-07-28); "one to three steps behind" (U-010-195, 2024-08-25).
+- **Cambio exacto:** solo cambia la magnitud.
+- **Razón que da el autor:** la cercanía facilita la identificación y evita la ansiedad de la brecha (U-008-109).
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: una es la condición mínima para enseñar; otra, la distancia ideal desde el punto de vista del alumno; la cifra varía según el contexto (curso, contenido, servicio).
+- **Tipo:** inconsistencia de datos.
+
+### EV-190 — Meta amplia frente a meta "niche"
+- **Antes / Después (en paralelo):** lo que debe ser "niche" es la meta, pero él prefiere metas amplias como la libertad financiera; él mismo señala la tensión (U-007-081, 2022-11-06); el futuro ideal es "very big broad" (U-010-022, 2023-01-29); el propósito es "niche" y el método holístico (U-008-014, 2023-03-12).
+- **Cambio exacto:** tensión sin orden cronológico.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Interpretación posible: lo específico es la transformación concreta que ofreces; lo amplio, la visión de vida que la enmarca.
+- **Tipo:** contradicción no resuelta.
+
+### EV-191 — Domain of Mastery 2022 frente a 2024
+- **Antes:** descompone los tres intereses en principios, temas, mentores y conexiones (U-007-062, 2022; U-001-023).
+- **Después:** añade "real world problems", dice que los intereses "overlap" y que todo se filtra por una meta (U-006-135, 2024).
+- **Cambio exacto:** refinamiento sin contradicción.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí.
+- **Tipo:** refinamiento.
+
+---
+
+## 10. Negocio de una persona
+
+### EV-192 — Definición del one-person business
+- **Antes:** Justin Welsh ya separaba one-man business de no-code business (U-005-051, 2021); "The One-Person Business Model" (2022-10): la alternativa a tener empleados, con storefront simple, product stack y jornadas de cuatro horas (U-007-049).
+- **Después:** "The One Person Business Model 2.0" (2023-06): "turning yourself into a business": "it's just a concept… just made up"; se admiten VA, freelancers y contractors porque el autor ya tiene un pequeño equipo (U-007-210). La definición original reaparece en 2024-02 (U-001-012) y 2024 (U-006-116).
+- **Cambio exacto:** de la restricción literal (una persona, sin empleados) a una actitud ("become high value and put yourself out there").
+- **Razón que da el autor:** tener equipo vuelve raro llamarse one-person business.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: la primera describe el arranque; la segunda, el negocio maduro.
+- **Tipo:** refinamiento.
+
+### EV-193 — Los pilares del one-person business: de cuatro a tres y sus metáforas
+- **Antes:** tres cosas: brand, content, monetization (U-007-016, 2022-10-02); "you need to understand marketing content brand and product" (U-026-086, 2022-10); cuatro pilares: goals → brand, problems → content, systems → product, benefits → marketing (U-007-060, 2022-10-23); brand = what, product = how, marketing = why (U-007-169, 2022-12-04); brand = story, content = school, product = map (U-008-025, 2023-03-12); brand = tell a story, content = make a map, product = create a game, marketing = sell to yourself, con el brand como identidad y visión y el producto como public personal projects (U-007-209, U-007-212, U-007-214, 2023-06-25); brand, content, offer, promotion (U-010-116, 2023-07); macronutrients brand/content/product/promotions, brand = character u online character "one step behind", product = "how you achieved a meaningful goal" (U-009-090, U-009-113, U-009-117, U-009-129, 2023-11); "your philosophy is your brand, the way you live is your product" (U-008-101, 2024-01); pilar 1 branding, pilar 3 offer, pilar 4 marketing (U-006-131, U-006-137, U-006-141, 2024-07); attract/nurture/implement y goal/problem/path en tres pilares (U-010-170, U-010-191, 2024-08); four pillars of creative work (U-015-069, 2024-10); "audience + product" o tres principios (U-019-012, U-010-245, 2024–2025).
+- **Después:** brand = you, content = pieces of your mind, products = processes (U-008-169, 2026-01-03); "the three pillars, which used to be four… are brand, content, and product" (brand = goals, content = knowledge, product = process) (U-010-296, 2026-01-20); brand, content, offer (U-016-274, 2026-03); brand = transformation, content = map, product = tool (U-010-359, 2026-06).
+- **Cambio exacto:** el cuarto pilar se llama alternativamente monetization, marketing, offer o promotion(s) y en 2026 desaparece; la metáfora "map" pasa del producto (2023-03) al contenido (2023-06, 2026); el contenido es "school" en una versión y "map" en otra.
+- **Razón que da el autor:** no la da; en 2.0 lo presenta como actualización.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: todas describen la misma arquitectura (atraer, nutrir, monetizar) desde lentes distintas; solo chocan las metáforas.
+- **Tipo:** renombre.
+
+### EV-194 — ¿Cuántos eternal markets hay?
+- **Antes:** health, wealth, relationships y "luego añade" happiness (U-007-011, 2022-10-02); happiness como "bonus" (self-transcendence) frente a las tres basadas en la supervivencia, rotuladas a la vez "survival based" y "self-actualization based" (U-007-128, 2022-12-18); los cuatro como "survival based" (U-008-029, 2023-03-12).
+- **Después:** tres mercados (U-009-254, 2024-09-15) frente a cuatro (U-016-128, 2024-09-29; U-001-018, 2024).
+- **Cambio exacto:** happiness entra y sale de la lista.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: tres cuando busca problemas urgentes y vendibles; cuatro cuando enmarca el propósito y la trascendencia (ver EV-275).
+- **Tipo:** inconsistencia de datos.
+
+### EV-195 — ¿Hay que emprender? ¿Empezar un negocio?
+- **Antes:** "The only way to escape is to build your own thing" (U-016-198, 2023-08); no renunciar al empleo de golpe, "this is a long-term game" (U-024-082, 2023-07); tu proyecto "should probably be a business... entrepreneurship is Modern Survival" y el empleo como el problema que tu identidad debe resolver (U-003-246, U-003-251, 2024-02).
+- **Intermedio:** "I don't even recommend starting a business"; trata todo lo que aprendes como valor que das como obra de vida (U-012-093, 2024-06); "entrepreneurship is the only logical option for long-term thinkers" (U-023-183, 2024-07).
+- **Después:** el emprendimiento como única forma de crear nuevo desafío (U-016-103, 2024-09); en la evolución job → career → calling, tu obra de vida "will require you to start a business", llamado "independent work" si ayuda (U-015-054, 2024-10); Sahil Bloom: el propósito puede ser proveer desde un trabajo de fábrica, sin "burn the boats" (U-005-095, 2025-01).
+- **Cambio exacto:** contradicción de formulación más que de fondo: lo que rechaza en 2024-06 es "empezar un negocio" como acto separado del desarrollo personal documentado; lo que afirma es que la obra de vida termina tomando forma de negocio.
+- **Razón que da el autor:** no la explicita.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: el principiante que documenta su camino frente a la etapa de "calling"; la recomendación general del autor frente a la de su invitado.
+- **Tipo:** contradicción no resuelta (de formulación).
+
+### EV-196 — Client work y freelance: de vía de escape a "new 9-to-5", y de vuelta a paso necesario
+- **Antes:** objeción 3: desarrolla habilidades según tus intereses y ofrécelas como freelance a grandes corporaciones, sin techo y sin ser "a slave to productivity metrics" (U-011-187, 2023-04-16); empezar con un servicio porque controlas el outreach (U-017-003, 2023-01; U-011-208, 2023-04); el freelance es "an incredible option for beginners", aunque solo hacer outreach deja sin activos (U-009-002, U-009-003, 2023-04-23); para escalar prefiere productizar antes que contratar coaches ("sorry, not sorry") y no le gusta el modelo de agencia aunque funciona (U-008-073, U-008-074, 2023-03); freelance y agencia como "the new digital nine to fives" (U-016-204, 2023-08-01); el client work high-ticket es "a loser's game" (U-002-130, 2023-10-08).
+- **Intermedio:** escalar el servicio con equipo es el camino 7 (U-008-099, 2024-01); saltarse el freelance e ir directo a coaching o consultoría (U-008-126, 2024-02-25); "a new 9 to 5 called client work", tantos jefes como clientes (U-016-051, 2024-05-26); "going from one boss to 10 bosses" (U-012-083, 2024-06-09); un curso para saltarse el client work (U-006-147, 2024-07-28); "invoice to invoice" (U-009-141, 2025-02-10); escalar client work con equipo a $1M+ "is actually a very good option… many people do that with great success" (U-009-142, 2025-02); los marketplaces de freelance son "known paths... no different from a job" (U-010-243, 2025-02-23).
+- **Después:** vuelve a recomendar la client route para principiantes: "I hated client work, but it was a necessary step" (U-016-262, U-016-264, 2026-03-15). Puntos de entrada alternativos: trabajar para un creador (U-008-091, U-012-034, U-013-098), afiliados (U-008-095), publicar desde el principio (U-001-033).
+- **Cambio exacto:** el freelance pasa de vía de escape a trampa intermedia y de vuelta a paso necesario; se acepta explícitamente el servicio escalado con equipo.
+- **Razón que da el autor:** la propia experiencia ("I didn't realize I was going from one boss to 10 bosses"); en 2026, que es más fácil vender un servicio de 1.000–5.000 USD a una persona que 100–200 suscripciones.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: el client work es bueno para empezar sin audiencia y malo como destino; todas las versiones piden construir audiencia en paralelo y evolucionar hacia el producto.
+- **Tipo:** cambio de énfasis.
+
+### EV-197 — ¿Debe el autor recomendar un modelo de negocio?
+- **Antes:** prioriza media sobre code (U-009-042, 2023-09-17; U-019-069, 2024-06-02); no quiere dar un modelo paso a paso (U-026-168, 2024-03-10); rechaza los copy-paste business models, "the same thing as just going to school because your parents told you to" (U-016-124, 2024-09-29), y en el mismo video da "what I think is just the best option": productos y servicios digitales (U-016-131).
+- **Después:** propone un metapath y "media based products first, then software" (U-010-244, U-010-246, 2025-02-23); el tipo de primer negocio no importa y conviene elegir algo popular en YouTube (U-025-181, 2025-07-27); "they all work; the first one is just a prototype" (U-016-251, 2025-08-03).
+- **Cambio exacto:** de "la mejor opción son los productos digitales" a la indiferencia sobre el modelo inicial.
+- **Razón que da el autor:** lo que harás en 2–3 años será distinto y solo se aprende haciendo.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: la ruta digital por defecto para quien no tiene capital; la indiferencia para no paralizarse.
+- **Tipo:** cambio de énfasis.
+
+### EV-198 — Caminos de monetización: de tres equivalentes a uno que contiene al otro
+- **Antes:** dos rutas con cero experiencia, skill-based y development-based (U-007-010, 2022-10); el mismo mes, tres caminos con el tercero (ambos) como ideal (U-007-055; U-001-017, 2024); el camino 2 pasa a "value creator within your interests" (U-007-203, 2023-06); el skill-based funciona pero vuelve unidimensional: "do not pigeonhole yourself into one niche" (U-006-120, 2024-07).
+- **Después:** solo dos caminos; el skill-based (especialista, nichar por rentabilidad, "second nine-to-five") queda "encapsulated" en el development-based, cuyo único nicho es la self-actualization, y ofrece "very little path" (U-010-300 a U-010-302, 2026-01).
+- **Cambio exacto:** de tres opciones equivalentes a una jerarquía.
+- **Razón que da el autor:** implícita: el especialista trabaja en cosas que no le importan.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: el skill-based sigue siendo un stepping stone (U-010-302).
+- **Tipo:** refinamiento.
+
+### EV-199 — Las palancas del negocio
+- **Antes:** growth, nurture, monetization ("11 Lessons", U-007-074, 2022-11).
+- **Después:** writing, promotion, iteration como "the only things that you have to do" para $1M ("How Smart Creatives Work Less", U-016-079, 2024-05); "really just those two levers": contenido → tráfico y calidad del producto (U-008-170, 2026-01).
+- **Cambio exacto:** de funciones de embudo a actividades del creador y luego a dos variables de ingreso.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: el mismo sistema con distinto nivel de detalle.
+- **Tipo:** renombre y refinamiento.
+
+### EV-200 — Secuencia de arranque: tráfico, servicio, autoridad y producto
+- **Antes:** "we need traffic before we need an offer" (U-008-051, 2023-03) y, en el mismo video, tutoring con outreach directo antes de tener audiencia, "not banking on the audience" (U-008-067, U-008-069); crear un "data-driven product" después de 6 a 12 meses (U-021-045, 2023); "launch immediately", "ASAP" (lanzó con 500 seguidores), construir antes de tener audiencia y vender antes de construir (U-010-082, U-001-105, U-009-164, 2023–2025); monetizar desde el inicio con cero seguidores (U-009-208, 2023-12), en tensión con "become an authority" antes del producto digital (U-009-147).
+- **Después:** productizar antes de que llegue un pico de tráfico, porque el servicio limitado por tiempo te desborda (U-001-137, 2024-02-06); "you don't need to wait… you need something to iterate on" (U-006-137, 2024-07); "I would build the service first so you can make money faster", con el micro product en menor prioridad (U-008-154, 2024-12-01); fuera del freelance y el coaching solo quedan producto educativo o software, y las comunidades MRR se parecen al trabajo con clientes (U-009-150, U-009-180, 2025-02-10); lanzar ya (U-015-125, 2025).
+- **Cambio exacto:** tensión entre principio (tráfico, autoridad, datos) y táctica (outreach manual, lanzar ya); no hay corrección.
+- **Razón que da el autor:** los datos y el feedback solo existen en público.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: la autoridad se construye mientras se vende algo pequeño; servicio para empezar y producto para escalar; un primer producto inmediato para aprender y otro basado en datos que se itera.
+- **Tipo:** contradicción no resuelta.
+
+### EV-201 — Minimum viable offer → micro offer → micro service; forma y precios
+- **Antes:** freelance de una habilidad o cuatro llamadas por 500–1.000 USD, sin preferencia explícita (U-011-075, 2022-06-25; U-007-065, 2022-10-23), aunque U-007-066 ya considera la consultoría más escalable; freelance high-ticket de 2.000–3.000 (U-007-010, 2022-10); minimum viable offer de 500–1.000 y oferta de etapa dos de 2.500–5.000 a ~10.000 seguidores (U-007-149, 2022-12); freelance inicial a 500–1.000 (U-015-008, 2023-02); "tutoring offer" (U-008-063, 2023-03-19) a 1.000 por cuatro llamadas, subiendo a 2.500+ (U-008-069, U-008-070), o 500–1.000 por cuatro llamadas (U-008-071); cohort de 500–1.500 (U-011-208, 2023-04); 500 por dos llamadas (U-007-218, 2023-06-25); 500–2.000 como paso posterior al lead magnet (U-010-148, 2023-07-04); bootcamp de cuatro llamadas a 1.000–2.500 (U-016-212, 2023-08-01); clientes de 1.000 a 50.000, apuntando a 1.000–5.000 (U-008-093, 2024-01).
+- **Después:** recomienda la versión de enseñanza (U-006-139, U-006-140, 2024-07-28); la renombra "micro offer": 1.000 USD fijos, cuatro sesiones semanales, sin llamarse coach ni freelancer (U-009-250, U-009-251, 2024-09-15); "I called it the micro offer, but in reality it's a micro service", 1.000 por cuatro llamadas (U-008-155, U-008-158, 2024-12-01); un cliente freelance de 5.000 es "a pretty high price point for just starting out" (U-016-261, 2026-03).
+- **Cambio exacto:** de dos opciones equivalentes a priorizar la enseñanza, con renombres MVO → micro offer → micro service; los rangos de precio son estables.
+- **Razón que da el autor:** el comprador de este nivel quiere aprender; enseñar construye un currículo productizable; "anyone can benefit from you teaching them"; no hace falta landing page, logo ni programa, solo poder enseñar. Las cifras dependen del tema, el público y la experiencia.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: la opción freelance sigue siendo válida para quien vende a empresas; los precios aplican a etapas distintas.
+- **Tipo:** renombre y refinamiento.
+
+### EV-202 — Marco de etapas del negocio y Koe's Law por etapas
+- **Antes:** tres etapas por leverage y número de seguidores (low/medium/high) (U-007-142, 2022-12-18); beginner/intermediate/advanced con sus palancas (U-008-062, 2023-03-19).
+- **Después:** las tres etapas de Koe's Law según el modelo de entrega: client work → hybrid/grupo → productize, dentro de 4 horas diarias (U-008-126 a U-008-129, 2024-02-25; U-006-147 a U-006-150, 2024-07-28). La escritura de la etapa 1 es "1 hour/day" (U-008-126) y "1 hour per week" (U-006-147); ambas transcripciones tienen una cifra ambigua ("$110,000", probablemente 10.000 USD).
+- **Cambio exacto:** el criterio pasa de los seguidores al modelo de fulfillment y al tiempo; hay discrepancias de detalle.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: ambos marcos describen la misma progresión de low a high leverage.
+- **Tipo:** renombre (con inconsistencia de datos).
+
+### EV-203 — Horizontes temporales del negocio
+- **Antes:** el primer negocio casi seguro fracasará (U-011-008, 2022-05-21; 2022-06-25); tres años para cifras grandes y cinco para $1M (U-008-075, 2023-03); un año de ejecución para resultados decentes (U-011-200, 2023-04); 3–5 años (U-002-107, 2023-05-05); de problema a oferta productizada en uno a tres años (U-007-214, 2023-06); "hefty income in two to four years" (U-016-210, 2023-08-01); "a year or so" para agarrarle la mano (U-009-079, 2023-09-17); lanzar cada trimestre durante 2–3 años (U-009-218, 2023-12-03).
+- **Después:** "hefty income in 2 to 4 years" (U-023-188, 2024-07); 60 días para los primeros 1.000 USD (U-009-226, 2024-09-15); su audiencia creció en 5–6 años a tiempo completo (U-018-041, 2024-11); 10–100K al mes si te comprometes y no abandonas a las dos semanas (U-025-182, 2025-07-27).
+- **Cambio exacto:** no hay contradicción ni corrección explícita, sino hitos distintos (primer ingreso, dominio, producto, ingreso alto, $1M).
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: son hitos distintos.
+- **Tipo:** inconsistencia de datos (aparente).
+
+### EV-204 — Qué es el MVP
+- **Antes:** "a project that delivers enough value to charge for" y "your minimum viable product was created at birth": tú eres el proyecto (U-020-038, U-020-039, 2022-11).
+- **Después:** la validation ladder (U-014-161, 2024-10) y "social posts are the new MVPs": cada post valida ideas que suben a newsletter, producto y software (U-015-127, 2025-02).
+- **Cambio exacto:** el MVP pasa de ser la persona o el proyecto a la pieza de contenido.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: uno habla de la actitud de empezar imperfecto; el otro, del mecanismo de validación.
+- **Tipo:** refinamiento.
+
+### EV-205 — Pasos del one-person writing business
+- **Antes:** nueve pasos, 1.000+ palabras estructuradas, blog o newsletter antes de los hilos (U-013-015, 2022-08).
+- **Después:** seis pasos, 500–1.000 palabras por semana, topic tree, y los hilos de X pueden sustituir a la newsletter al inicio (U-013-143, 2024-01).
+- **Cambio exacto:** simplificación y menor exigencia de volumen.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Son compatibles; la de 2024 es la vigente.
+- **Tipo:** refinamiento.
+
+### EV-206 — Modelos "sin alma": agencias, dropshipping, print-on-demand
+- **Antes:** "The Best Online Business..." / "The Future Of One-Person Businesses" (2023-03): dropshipping, print-on-demand y agencias con skills que no te importan "no tienen alma", aunque hacerlos "está bien" (U-008-015); los caricaturiza (U-008-001) y llama "bottom feeders" a quienes persiguen tácticas de moda (U-008-045); en el mismo video aclara que no son "all bad" y pueden ser "a decent stepping stone" (U-008-002); no le gusta el modelo de agencia pero funciona (U-008-074).
+- **Después:** el consejo previo a la creator economy puede llevar a montar una agencia que no te importa (U-006-128, 2024-07); un SMMA o dropshipping te encasilla: primero el skill-to-offer y luego, si quieres, pivotar a agencia o e-commerce (U-008-136, 2024-12).
+- **Cambio exacto:** de la tolerancia ("fine to do") a recomendar un orden.
+- **Razón que da el autor:** dice que los usa "to frame a discussion".
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: como peldaño o expansión, sí; como identidad de largo plazo, no.
+- **Tipo:** refinamiento.
+
+### EV-207 — El techo del negocio de una persona
+- **Antes:** "nobody's really pushed the boundary past five, ten million as one person" (U-011-213, 2023-07).
+- **Después:** "one person businesses to make $10 million a year" (U-006-105, 2024-07); la apuesta de Sam Altman por el primero de mil millones (U-008-134, 2024-12); "before AI… you could create a comfortable lifestyle business… you would eventually have to hire a team" (U-016-258, 2026-03).
+- **Cambio exacto:** el techo sube con cada etapa tecnológica; en 2026 reinterpreta el modelo previo a la IA como "lifestyle business".
+- **Razón que da el autor:** la IA permite hacer más como una sola persona.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: épocas tecnológicas distintas.
+- **Tipo:** cambio de énfasis.
+
+### EV-208 — Trabajo manual en un negocio basado en la mente
+- **Antes / Después (mismo video, 2023-11-26):** "earn with my mind not my time" y "those that monetize their mind unlock a luxury unfathomable to those who monetize their time" (U-009-080, U-009-081), frente a "you can't eradicate manual labor from your life altogether... sometimes you regress", por el aumento de su trabajo manual al empezar Cortex (U-009-087).
+- **Cambio exacto:** matiz sobre su propio caso.
+- **Razón que da el autor:** el arranque de Cortex.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: etapas distintas del negocio.
+- **Tipo:** refinamiento.
+
+---
+
+## 11. Productos y ventas
+
+### EV-209 — Info-productos: de "the greatest product" a software e implementation tools
+- **Antes:** el information business es el mejor modelo (U-007-165, 2022-12); los info-productos son "the greatest product one can sell" (U-009-006, U-009-073, 2023; U-016-132, 2024; U-009-152, U-015-182, 2025); "systems are the new product": la gente quiere "your solution", un sistema hecho desde la experiencia (U-015-080, 2024-10); los media-based products "are the education of the future" (U-010-247, 2025-02); la education business como primer producto (U-009-157, 2025-02); para el principiante absoluto el education product supera al software hecho con IA (U-009-151), el software es "higher chance of failure" (U-009-179) y hay que empezar por la versión educativa (U-009-183).
+- **Después:** "How I'd build a one-person business..." (2026-01-03): los info-productos alcanzaron "the final stage of market sophistication" y "static courses don't cut it" (U-008-175, U-008-180); "it's never been easier to start a mediocre one-person business… you must understand why info products are dying" (U-008-173); en el mismo video "no están muertos", hay que "transcend" e integrarlos (U-008-172, U-008-176), con contradicción interna (dead/dying en 5:26, 7:03 y 29:34 frente a not dead en 6:12 y 21:21) y "since value-based content and info products are dead" (U-008-168); no mueren pero se parecerán al software (U-008-187); el siguiente nivel es un chatbot o "implementation tool" sobre el knowledge base del curso, "relatively beginner level" (U-008-184, U-008-186, U-010-342); wrappers y espacios con prompts (U-008-189, U-019-145); "information products are abundant… I don't think they will die" (U-010-337, 2026-06); "small-scale software will be the new info product" (U-012-216, 2026-06); "the creator economy, when it comes to monetization, is a systems economy": construir el software que hace lo que el info product habría enseñado (U-010-364, 2026-06).
+- **Cambio exacto:** el vehículo deja de ser el curso o PDF estático y pasa a ser la herramienta de implementación con IA; "systems economy" pasa de designar un método experiencial vendido como curso a designar software; el software pasa de paso posterior y opcional a evolución recomendada.
+- **Razón que da el autor:** saturación del mercado, que el 90% no termina los cursos, la IA que genera información y baja la barrera para construir software, y paradigmas que duran menos.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: lo "muerto" es el formato estático promedio; los muy buenos "will still do very well"; la educación como función nunca desaparece ("too foundational... to ever be fully commoditized"), el curso sigue siendo el knowledge base ("you don't skip that process") y no todos construirán apps (analogía de Uber Eats).
+- **Tipo:** cambio de énfasis (con contradicción interna en 2026-01).
+
+### EV-210 — Definición de market sophistication
+- **Antes:** "the awareness of the products and services available on the market" (U-008-005, 2023).
+- **Después:** las cinco etapas de Eugene Schwartz (U-008-175, 2026).
+- **Cambio exacto:** de una definición propia y general a un modelo por etapas tomado de un tercero.
+- **Razón que da el autor:** explicar por qué la marca y la tribu con misión son ahora el diferencial.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: la segunda detalla la primera.
+- **Tipo:** refinamiento.
+
+### EV-211 — Eight human desires → three tensions + five levers
+- **Antes:** los eight human desires como ángulos de posicionamiento (U-011-164, enumerados; U-013-083, mencionados sin enumerar, 2023), con "safety of community".
+- **Después:** three tensions (survival, identity, progress) operadas con five psychological levers (U-013-225, U-013-240, 2026), con "safety of tribe".
+- **Cambio exacto:** de elegir un ángulo entre ocho deseos a una secuencia de cinco palancas que generan tensión y luego ofrecen la solución.
+- **Razón que da el autor:** hacerlo accionable para hablar, escribir y vender ("if you practice those five things, you'll be unstoppable").
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: la de 2026 contiene a la de 2023.
+- **Tipo:** renombre y refinamiento.
+
+### EV-212 — Levels of awareness: atribución y nivel 5
+- **Antes:** versión con las etapas 2 y 3 confundidas (U-014-055, 2023-02); sin nombrar autor, el nivel 5 es "sold" y necesita un incentivo o escasez (U-011-162, 2023-04); atribuidos a Eugene Schwartz, con el nivel 5 como estar "aware of the vast impact that problem is having... most ready to buy" (U-009-064, 2023-09).
+- **Después:** sin fuente, el nivel 5 es "ready to change, they just need the right why" (U-010-182, U-014-101, U-027-261, 2024), a veces numerados de 0 a 3 (U-012-107); de nuevo atribuidos a Schwartz, con el nivel 5 como "haven't implemented, need a nudge" (U-013-241, 2026).
+- **Cambio exacto:** oscilan la atribución y la interpretación del nivel 5; la versión de 2023-02 se depura en 2024.
+- **Razón que da el autor:** no la da; declara que su definición de most aware es propia.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: matices del mismo marco.
+- **Tipo:** refinamiento (con atribución variable).
+
+### EV-213 — Excluir a la audiencia
+- **Antes:** el "group call out" al nichar con inteligencia "isn't alienating anyone" (U-013-111, 2023).
+- **Después:** "exclude people": nombrar para quién no es, porque la exclusión crea pertenencia (U-013-245, 2026).
+- **Cambio exacto:** de evitar alienar a excluir deliberadamente.
+- **Razón que da el autor:** filtrar a "the wrong people who weren't going to support you anyways".
+- **¿Ambas pueden aplicar a contextos distintos?:** Posiblemente: una para atraer a un grupo; otra para profundizar la identidad después de reflejarla.
+- **Tipo:** cambio de énfasis.
+
+### EV-214 — El funnel
+- **Antes:** "build a world, not a funnel" (U-015-126).
+- **Después:** "a sales funnel is an education funnel" y "shallow content has a place" (U-015-170, 2025).
+- **Cambio exacto:** rehabilita el funnel entendido como proceso educativo.
+- **Razón que da el autor:** los "brilliant nobodies" no entienden que hay niveles de desarrollo.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: rechaza el funnel manipulador y acepta el educativo.
+- **Tipo:** refinamiento.
+
+### EV-215 — Del direct response a la autenticidad: principios sí, tácticas no
+- **Antes:** recomienda leer Cashvertising, que le abrió "a huge rabbit hole of marketing and sales" (U-005-022, 2021-12-20); aprender direct response y luego pasar a una voz auténtica conservando los principios, porque las tácticas (funnels, countdown timers) se han vuelto "wonky" (U-007-148, 2022-12-18; U-001-147, 2024, en tensión con U-001-112); admite escasez y ofertas limitadas en el nivel 5, "just be careful with those" (U-011-162, 2023).
+- **Después:** los countdown timers y las promesas exageradas te hacen "look like a scammer" (U-008-001, 2023; U-019-086, 2024); gana "10 times more" que cuando seguía "the copy and sales hacks" (U-001-112, 2024-02-06); la customer creation "isn't direct response" (U-012-109, 2024); estudiar direct response "for the principles, not tactics" (U-015-173, 2025).
+- **Cambio exacto:** se conservan los principios psicológicos y se abandonan progresivamente las tácticas.
+- **Razón que da el autor:** la market sophistication creció y esas tácticas hoy "scream that it is a scam".
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: aprender el oficio y luego humanizarlo; la táctica cambia según el mercado.
+- **Tipo:** cambio de énfasis.
+
+### EV-216 — Frameworks de copywriting
+- **Antes:** recomienda AIDA y PASTOR sin desarrollar los acrónimos (U-011-110, 2022; U-001-070, 2024).
+- **Después:** los desarrolla (U-011-177, 2023); analiza su mecánica común (U-013-149, 2024) y propone PASO con la "O" opcional (U-014-097) y PASTOR con "Response" sin explicar (U-014-098).
+- **Cambio exacto:** refinamiento progresivo del detalle.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí.
+- **Tipo:** refinamiento.
+
+### EV-217 — Contenido para principiantes frente a profundidad
+- **Antes:** "90% of the market are beginners" (U-002-131, 2023); "95% of the market are beginners" (U-013-045, 2023; U-001-067, 2024, matizado por U-001-073, "prioritize depth and clarity").
+- **Después:** empezar en la superficie ("vanity") antes de la profundidad ("therapy") (U-009-172, 2025-02-10); "shallow content has a place" y "dumb down your ideas as a creative challenge" (U-015-170, U-015-173, 2025); el 90–95% está en las etapas de supervivencia e identidad y hay que llevarlo "up the ladder" (U-013-236, 2026-07-05).
+- **Cambio exacto:** la misma heurística pasa a formularse en clave de etapas de desarrollo; la cifra varía (90% frente a 95%).
+- **Razón que da el autor:** los niveles de desarrollo del público.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: lo básico en formato corto; la profundidad en el largo y en el producto (U-011-163).
+- **Tipo:** refinamiento (con inconsistencia de datos).
+
+### EV-218 — Curtain language frente a aggregation (Justin Welsh)
+- **Antes / Después (mismo video, 2021):** el copy debe insinuar algo mágico tras la cortina (U-005-036), pero todo lo que hay en el producto "has all been shared for free"; lo que se vende es aggregation (U-005-039).
+- **Cambio exacto:** matiz: la cortina es un encuadre y el valor real es la organización y la velocidad.
+- **Razón que da el autor:** lo dice el propio Justin.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: una describe el copy y otra el producto.
+- **Tipo:** refinamiento.
+
+### EV-219 — De un producto de $100.000 a uno de $1 millón "en tu cabeza"
+- **Antes:** "You Have A $100,000 Product In Your Head" (2022-12-04, U-007-177; U-009-006).
+- **Después:** "you have $1 million trapped in your head" y "you've already purchased a $1 million product" (U-009-139, U-009-146, 2025-02-10).
+- **Cambio exacto:** sube la cifra y se añade que el producto por sí solo no basta (marketing, lanzamiento, promociones; "beginner hell").
+- **Razón que da el autor:** no da razón del cambio de cifra.
+- **¿Ambas pueden aplicar a contextos distintos?:** Misma idea, en una etapa con productos de mayor escala.
+- **Tipo:** cambio de énfasis.
+
+### EV-220 — El uso de la palabra "manipulation"
+- **Antes:** llama estafa a la "exploitation and manipulation toward a non-mutual benefit" (U-007-131, 2022; U-001-131); "you're a survival-based creature and you're manipulating your environment at any given moment", y dice manipular a los espectadores "hopefully in a positive way, mutual benefit" (U-013-081, 2023-08-16).
+- **Después:** persuasión y manipulación son "two separate words"; la persuasión inconsciente es manipulación, y hay que pasar de "mindlessly manipulating" a "mindfully helping" (U-016-034, 2024-03-31; U-014-079, 2024-09-08).
+- **Cambio exacto:** de un uso neutro a uno peyorativo; el criterio del beneficio mutuo se mantiene.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** La diferencia es terminológica.
+- **Tipo:** renombre (terminológico).
+
+### EV-221 — Copiar lo que funciona frente a crear algo propio (producto)
+- **Antes / en paralelo (copiar):** "sell what's already selling", "don't try to be clever, don't try to create something new at least for the first product" (U-007-186, 2022-12-04; U-002-129, 2023-10-08); "replicate their business model, do it under your name" (U-021-046, 2023-09-24); contra los océanos azules (U-008-107, 2024-02-25).
+- **Después / en paralelo (crear):** "you can't take someone else's planner, put your name on it and sell it" (U-010-067, 2023-04-30); si copias exactamente lo de otro "you can't teach it" (U-011-168, 2023-04-09); en Cortex, "creating something better" en todo el espacio del second brain, aun pudiendo fracasar (U-016-136, 2024-09-29); "we don't want to take what's free and make it paid. We want to create something new" (U-009-162, 2025-02-10); podrías copiar un producto ajeno y cambiar el sistema personal, "though you probably shouldn't" (U-009-174).
+- **Cambio exacto:** los dos consejos conviven.
+- **Razón que da el autor:** se toman la estructura y "the why behind why it works" (mercado, titulares, estructura de oferta), no el contenido; el sistema (unique mechanism) debe ser propio.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: el mercado y el marketing se replican; el sistema se crea.
+- **Tipo:** contradicción no resuelta (con reconciliación del autor por capas).
+
+### EV-222 — ¿A quién venderle?
+- **Antes:** venderse a uno mismo para no preocuparse por la competencia; el consejo del starving market "obviously works", pero con cuatro costos (U-009-057, U-009-060, U-009-075, 2023-09-17).
+- **Después:** dos opciones, tú o tu yo pasado, o gente con mucho dinero ("that Alex Hormozi can help you with"); el autor elige la primera por "the soul in my work" (U-009-165, 2025-02-10); "sell to the rich" frente a venderle a tu yo pasado, "just an alternative route" que "has to be somewhat of a conscious choice" (U-010-305, 2026-01-20).
+- **Cambio exacto:** de solución casi universal a elección entre rutas legítimas.
+- **Razón que da el autor:** la elección consciente entre realización creativa e ingresos.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: objetivos distintos.
+- **Tipo:** cambio de énfasis.
+
+### EV-223 — Promoción: casi invisible, "destroyer of brands" o "promote yourself"
+- **Antes:** "you rarely see me promote on the timeline" salvo lanzamientos, aunque el enlace a la newsletter bajo los posts ya era promoción indirecta (U-013-022, 2022); lo criticable es promocionar un producto malo que no se mejora y sin dar más valor que promoción (U-007-077, 2022-11-06); en un mismo video, la trampa es "blasting their audience with promotions on a crappy product" (U-002-124), las promociones son "the destroyer of brands" (tono ambiguo) y aun así hay que promocionar porque los seguidores no saben qué vendes (U-002-133, 2023-10-08); educar el 80% y promocionar "sparingly" (U-009-125, 2023-11).
+- **Después:** calendario explícito de promoción (por ejemplo, tres veces por semana bajo posts y dos en la newsletter) con diagnóstico: sin ventas, más o mejores promociones (U-010-209, 2024-08); "it's better to promote bad than not at all" (U-016-141, 2024-09-29); "for the love of God promote yourself" (U-008-165, 2024-12-01).
+- **Cambio exacto:** la promoción pasa de casi invisible a calendarizada.
+- **Razón que da el autor:** los seguidores no saben qué vendes; lo criticado es el producto malo, no la promoción constante.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: el calendario de 2024 apunta a principiantes con producto.
+- **Tipo:** cambio de énfasis.
+
+### EV-224 — ¿Se pueden garantizar los resultados?
+- **Antes:** una garantía de resultado ("if you don't land five dates in 60 days we refund your money") con condiciones de ejecución, que presiona a entregar (U-011-174, 2023-04-09).
+- **Después:** los productos no resuelven del todo los problemas, "that's on the person that has the problem" (U-015-066, 2024-10-06); "giving out knowledge doesn't guarantee a result", porque sin abordar la causa de fondo (identidad, miedo) ningún producto funciona (U-016-298, 2026-03-15).
+- **Cambio exacto:** de la garantía como herramienta de venta a la advertencia sobre los límites del conocimiento.
+- **Razón que da el autor:** la ejecución del cliente queda fuera del control del producto.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: la garantía de 2023 ya se condicionaba a la ejecución del cliente.
+- **Tipo:** cambio de énfasis.
+
+### EV-225 — Del SOP al "systems economy": el núcleo del producto
+- **Antes:** SOPs que se iteran hasta que valen un currículo (U-007-185, 2022-12-04); "unique mechanism", un sistema con nombre convincente (U-011-168, 2023-04-09; U-009-131, 2023-11-26); "unique system" (U-027-255, 2024-03-17).
+- **Después:** "personal system" y "personal system product", la opción más segura frente a la IA (U-009-148, U-009-174, 2025-02-10); "we are in a systems economy", "systems are the new product" y el software también debe ser un sistema (U-010-325, 2026-01-20; U-010-361, U-010-362, 2026-06-13).
+- **Cambio exacto:** renombre progresivo del mismo concepto, con la IA primero como amenaza (2025) y luego como herramienta (2026). Ver EV-209 para el desplazamiento de "systems economy" hacia el software.
+- **Razón que da el autor:** no la da para los renombres.
+- **¿Ambas pueden aplicar a contextos distintos?:** Mismo concepto.
+- **Tipo:** renombre.
+
+### EV-226 — ¿Qué es el valor?
+- **Antes:** "I don't think anybody knows the real answer to the question of what is value" (U-018-001, 2022-10-09).
+- **Después:** "value equals behavior change" (U-008-100, 2024-01-21); lo útil percibido como útil gracias a la persuasión, sense-making y "reversing entropy" (U-027-247, U-027-248, U-027-262, 2024-03-17).
+- **Cambio exacto:** de pregunta abierta a definición propia en capas.
+- **Razón que da el autor:** implícita: el desarrollo del marco de la entropía.
+- **¿Ambas pueden aplicar a contextos distintos?:** No aplica.
+- **Tipo:** refinamiento.
+
+### EV-227 — Productos digitales: máximo leverage o riesgo de esclavitud
+- **Antes / Después (en paralelo):** "How To Escape Wage Slavery" (2023-08-01) incluye "sometimes digital products" entre los modelos de principiante que pueden esclavizar si no evolucionas (U-016-204), mientras otras unidades los presentan como "the highest form of leverage" (U-016-078), "the most holistic option" (U-016-131) o "impossible to fail" (U-009-182).
+- **Cambio exacto:** valoraciones opuestas en paralelo.
+- **Razón que da el autor:** no la da.
+- **¿Ambas pueden aplicar a contextos distintos?:** Sí: el riesgo está en estancarse con un solo producto ("stagnation equals death").
+- **Tipo:** contradicción no resuelta.
