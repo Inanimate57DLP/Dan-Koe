@@ -28,7 +28,7 @@ Koe had stated the problem more bluntly ten months earlier, in a video about peo
 
 **Source:** How To Thrive With Multiple Interests.md (2025-02-23)
 
-##### Why people conform: psychological survival
+#### Why people conform: psychological survival
 
 Koe's explanation of why conformity is so common draws on the "law of conceptual survival" from Chapter 3. Humans survive not only physically, as animals reproducing genes, but psychologically, "reproducing beliefs, ideas, and information." Whatever your survival depends on becomes a domain in which your agency is low. His first example is employment. "If you work a job, you have low agency in that domain": if the job went away, your survival would be at stake, so you must conform, first to get the job (you conform to what the boss likes) and then on the job (dress code, approved processes, perhaps a 9-to-5 schedule). His second example is ideology. Hard-set beliefs that bind you to a political party or a religious organization also mean low agency, because "your ideas of good and bad originate from your culture, not your own personal investigation or discovery."
 
@@ -76,7 +76,7 @@ The February 2026 video also gives a method of practice that the December video 
 
 The phrase "three generators" is used in this source without a full definition of the framework; the corpus presents it in passing as the means of practicing agency, and the three terms are glossed only by the parenthetical explanations above.
 
-##### Why AI raises the stakes: problems are infinite
+#### Why AI raises the stakes: problems are infinite
 
 The connection between agency and AI had appeared a year earlier, in December 2024, in a different form. Koe imagines an objection to his own business: if AI could teach you exactly how to write, why buy his course? His first answer is that the course contains his process, drawn from experience. His second answer goes further: even if AI could teach writing, "is that going to teach you how to master writing or do you still actually have to do the thing? ... is that the end of your education or does it continue going on, because knowledge creation is infinite." He then generalizes: "Why are you looking at AI as this thing that's just going to solve all problems... when problems never cease to exist? Even when AGI is here and the curve goes exponential, problems are infinite... progress, knowledge, problems are all infinite."
 
@@ -112,7 +112,7 @@ The September 2025 version, from "12 Rules To Change Your Life In 12 Months," re
 
 The final sentence links agency to the entropy model of Part III. If the universe tends toward growth and complexity (Koe reads evolution as the creation of order against entropy, Chapter 31), then a life arranged to avoid uncertainty and challenge is a life arranged against one's own nature. The claim is metaphysical and interpretive; Koe presents it as a worldview, not as an empirical finding.
 
-##### "Are you a slave or are you free?"
+#### "Are you a slave or are you free?"
 
 The question that Koe uses to make the contrast personal appears in a November 2024 video on cheap dopamine. "It's the entrepreneur versus the employee mindset. You don't have to be an entrepreneur to have an entrepreneurial mindset; you can still be an employee that has high agency." The difference between the two "is agency: how often are you doing your own thing and working towards your own goals, whether it's in the company or not." And then: "Are you a slave or are you free is the question that I'm asking and I'm not saying physical slavery I'm saying mental with attention." The alternative is framed as "are you riveted to someone else's dream or are you building your own?"
 
@@ -120,7 +120,7 @@ The question that Koe uses to make the contrast personal appears in a November 2
 
 The clarification "mental with attention" places the question within the theory of attention of Chapter 6: if attention is the only root control a person has, then whoever directs your attention directs your life. The question is not about legal status but about who owns the attention. Its context matters too: the video is about dopamine, and the implication is that a person who spends their free attention on someone else's feed and their working attention on someone else's goals has given away both halves.
 
-##### The employee mindset
+#### The employee mindset
 
 Before these 2024–2025 formulations, a December 2023 video had described the employee mindset as a set of traits. "Most people dream of being the CEO of a billion-dollar company but can't even be the CEO of their own life." The employee mindset is very hard to break, so, the 2023 Koe advises, get out sooner to avoid further conditioning. Its traits are four: you don't pursue anything other than what you know; you don't develop skills beyond assigned work; you wait to be told what to do in work and in life; and "your parents are still your bosses even when you've moved out," because the programming still tugs at your choices. Entrepreneurs, by contrast, have traits "aligned with our ancestors and nature": they push into the unknown and create new paths, build solutions that advance humanity, and never stop acquiring and applying knowledge.
 
@@ -134,7 +134,7 @@ The December 2025 video turns these traits into a diagnostic, which Koe calls th
 
 The term **scientists of their own lives** connects agency to the self-experimentation of Chapter 15.4. The point is not that high-agency people fail less but that they interpret failure differently: as data that narrows the search, not as a verdict on possibility. The low-agency person's response to failure ("it's impossible") will reappear below as the collapse of hard problems into impossible ones.
 
-##### How the contrast changed: from career advice to state of mind
+#### How the contrast changed: from career advice to state of mind
 
 These formulations do not all say the same thing, and the difference is not trivial. In December 2023 the employee mindset was a reason to leave employment early, before more conditioning set in. From November 2024 onward, Koe insists that "you can still be an employee that has high agency," and in 2025 he describes high-agency employees as the most sought-after at top companies and tells his audience to stop thinking of employee and entrepreneur as titles. The change is a refinement rather than a reversal: entrepreneurship stops being only a trajectory (leaving a job to start a business) and becomes a disposition that can exist inside employment. Koe does not present it as a correction; he presents it as a redefinition of words that had become "dirty." The two positions can coexist if one distinguishes the condition (the high-agency state of mind, available to anyone) from the path (one's own business, which for Koe remains the route to full control of time and income, as Section 35.5 will show in the "five steps").
 
@@ -156,7 +156,7 @@ Eriksen gives agency two linked formulations. The first: "agency is the tendency
 
 The two formulations are not redundant. The first describes behavior (initiating action). The second describes the belief that sustains the behavior when the first attempts fail. A person can initiate action without believing in eventual success, and they will stop at the first failure; a person can believe in eventual success without initiating anything, and nothing will happen. Agency, in Eriksen's sense, is the combination.
 
-##### Why raw intelligence is not enough: the missing feedback loop
+#### Why raw intelligence is not enough: the missing feedback loop
 
 Eriksen then explains why intelligence alone does not produce results. His argument is a chain, and its order matters:
 
@@ -175,7 +175,7 @@ The chain is a theory of knowledge in miniature. Intelligence processes data, bu
 
 Step 8 is the bridge to Koe's later redefinition of agency as iteration. "Keep trying until you eliminate all of the errors from your model" is already a definition of agency as sustained iteration; Koe will make it explicit a year later.
 
-##### Koe's reading: Musk's impossible vision
+#### Koe's reading: Musk's impossible vision
 
 During the same conversation Koe offers his own reading of the Musk example, and it shifts the emphasis from intelligence to vision. He contrasts people who like the thought of a very high goal but, because it seems impossible, "write it off as if they can't do it," with Musk, who "has this massive vision. He knows that it's not possible right now, and it wasn't before, but he built the steps." Koe uses this to explain why agency matters: the person with agency does not ask whether the goal is possible now but whether the steps toward it can be built.
 
@@ -183,7 +183,7 @@ During the same conversation Koe offers his own reading of the Musk example, and
 
 The reading connects agency to the "big irrational goals" of Chapter 7.5. A goal that is impossible with present means becomes workable when it is decomposed into steps, each of which is merely hard. This is exactly the typology that Eriksen develops later in the conversation (easy, impossible, hard), and Koe's example anticipates it.
 
-##### Necessity versus sufficiency, and the disagreement about intelligence
+#### Necessity versus sufficiency, and the disagreement about intelligence
 
 Eriksen draws two further conclusions, both polemical. The first concerns education. We constantly produce people with high IQs, he says; when you read a magazine interview with someone whose IQ is 180 or 200, "you never heard of this guy." "The only reason we really care about intelligence is because it's a component of getting things done," and there are other components that civilization could make a much better effort to teach high-IQ children, "instead of just shoving them into government schools and then... postgraduate education," and then wondering why academia produces nothing but criticism of old literature (his polemical examples include Michel Foucault). His conclusion: "we've confused the condition of necessity with the condition of sufficiency." For groundbreaking progress, high IQ is necessary but not sufficient, "and we are not grooming our high IQ children for success."
 
@@ -197,7 +197,7 @@ The second conclusion is about what can be changed. "You can't make yourself mor
 
 Here Eriksen marks a disagreement explicitly. He acknowledges that Koe disagrees with him in some videos and says that Koe is "defining intelligence more broadly than I am." The disagreement is real and unresolved in the corpus. Eriksen means a narrow analytical capacity measured by IQ tests. Koe, in other videos (Chapter 17 and Chapter 38), uses "intelligence" in broader senses: a pragmatic one (iterating, persisting, getting what you want, a definition he associates with Naval Ravikant) and a holistic one (pattern recognition, the capacity to zoom out until boundaries dissolve), which can be widened through perspective. Both men agree that agency, not intelligence, is the bottleneck. They disagree about whether intelligence itself can grow. The two positions can coexist if the reader keeps the two meanings of "intelligence" apart: Eriksen's narrow band is fixed (on his account); Koe's broad sense is developable (on his).
 
-##### Agency does not abolish fear
+#### Agency does not abolish fear
 
 One more element of Eriksen's account prevents a romantic reading of agency. Most people, he says, do not want to take risks: "most people don't want to do greenfield development of something that's never been done before because that's scary, unless you have a whole lot of agency, and then it's still scary but you could stand it." **Greenfield development**, a software term for building something new from scratch rather than modifying an existing system, stands here for any undertaking without precedent. The point is that agency does not remove fear; it makes fear tolerable. Elsewhere in the same conversation, speaking to aspiring authors, Eriksen says that "the fear is constant" even as success begins.
 
@@ -233,7 +233,7 @@ Two coined terms appear in the passage. **Iterate without permission** is the re
 
 The redefinition takes up what Eriksen had said a year earlier in step 8 of his chain ("keep trying until you eliminate all of the errors from your model"). Koe does not cite Eriksen for this point, but the convergence is clear: Eriksen's "belief that you will eventually be successful" is precisely what sustains iteration after the first failure. The change from "act" to "iterate" moves the focus from the initial decision to the sustained process. The later definition includes the earlier one (every iteration begins with an action), so this is a refinement rather than a contradiction. The reason Koe gives is empirical in tone: most of those who act without permission start and then quit.
 
-##### The subject of the sentence
+#### Agency as being the subject of the sentence
 
 In the same video, Koe uses a quotation from the article "The third ingredient of success," attributed in the transcript to Devon Ericson, as the first "tell" of high agency: "To have agency is to be the subject of a sentence rather than its direct object. It is the tendency to act rather than wait to be acted upon." He then extends it with his redefinition: high-agency people "iterate without permission."
 
@@ -241,7 +241,7 @@ In the same video, Koe uses a quotation from the article "The third ingredient o
 
 The grammatical metaphor is compact and precise. In "the company assigned me a project," the speaker is the object; in "I chose a project," the speaker is the subject. The metaphor also clarifies the relation to conformity: the conformist's life is narrated in the passive voice, with society as the implicit agent.
 
-##### Nobody will give you permission
+#### Nobody will give you permission
 
 Several formulations from different years converge on the same psychological point: permission is not coming. In May 2024, in a video on self-discipline, Koe calls it "the first realization that you have to make: nobody is going to give you permission to do what you want." The reason he gives is informational. Others were not exposed to your information; "they don't have the story that you were telling yourself, unless they are developed enough to open their mind to that story." Waiting for others' approval of a direction they cannot see is waiting for something structurally impossible. Hence the image: "You have to jump out of the nest at some point and trust that you can learn to fly."
 
@@ -257,7 +257,7 @@ Eriksen gives the point an economic edge in the December 2024 conversation, spea
 
 The example converts the abstract idea of permission into a price. The author who needs external validation pays for it, and the payment is most of the value they create. This is the same logic as Chapter 25's argument about distribution: whoever does not own the channel to the audience pays whoever does.
 
-##### Doing what you want without permission, and when it becomes a mistake
+#### Doing what you want without permission, and when it becomes a mistake
 
 In December 2024 Koe gives a version of the principle that sounds, at first, like a license: "Do what you want without permission from someone else, that's agency." Go to the party, get drunk, start the business, scroll all night: "denying those desires is only going to bind you to them." The catch follows immediately. You must realize when those things are mistakes. Getting drunk every night is not a mistake if you have no meaningful responsibilities, because it does not hurt any goal. Managing parties, alcohol and vices becomes much easier when they affect something more important. If you do not care about going out and showing up hungover to school or a job, that indicates that the school or job is not more important to you, which means you are not happy in it, however you justify it ("I like the structure"). Koe then draws a psychological conclusion: you are unfulfilled because you have not poured your heart and soul into something so that it becomes your purpose and passion; if you had, you would not want to harm your performance on it, because it would be the source of your fulfillment.
 
@@ -281,7 +281,7 @@ Eriksen's most influential contribution to the corpus is a framework. "I like to
 
 The framework explains much of what came before. The Musk example is a vision placed in the hard category by someone who "built the steps." The person promised a quick business who fails and "deems it impossible" has reclassified a hard problem as impossible after one attempt. And "belief in the existence of hard problems" is a more precise statement of Eriksen's second definition, "the belief that you will eventually be successful": the belief is not general optimism but the conviction that a specific class of problems exists that yields to persistent effort.
 
-##### A long-term hard problem: Eriksen's anarcho-capitalism
+#### A long-term hard problem: Eriksen's anarcho-capitalism
 
 Later in the conversation Eriksen applies the category to his own political goal, and the example shows the scale at which the framework can be used. Calling himself an anarcho-capitalist, he says, "is not about the methods I want to use, it's about my goals": he wants eventually to make government obsolete and to get rid of it. He knows that government currently does certain things that we do not know how to do otherwise, "so I need to build a new tool or I need to help my species build a new tool." "It's a long-term goal. It's a hard problem that we will face and fail and fail and fail at until eventually we learn how to succeed." His illustration: "We as a species recently figured out how to do money without a government, but we haven't yet figured out how to do criminal justice without a government, so we need another tool... I don't know exactly, but let's work at it."
 
@@ -289,7 +289,7 @@ Later in the conversation Eriksen applies the category to his own political goal
 
 Koe connects the example to "we can't do it now but we can build the tool," and adds a point of his own: a goal, "once you achieve it, may change when you realize, okay, this was a mistake." Eriksen agrees ("absolutely"). The exchange is useful precisely because the political content is contentious. The framework does not depend on agreeing with the goal; it describes a stance toward any goal whose means do not yet exist. Koe's addition, that achieved goals may turn out to be mistakes, links the framework to the iterative view of goals in Chapter 8: goals are hypotheses, and their achievement is itself feedback.
 
-##### Koe's version: three buckets of goals
+#### Koe's version: three buckets of goals
 
 Ten months later, in an October 2025 video titled "You're Stuck In The Matrix, Here's How You Escape," the framework reappears as part of Koe's own argument. He presents a third step, "arguably the most important": teach yourself and your children to be high agency. "Agency is the ability to act without permission. Therefore agency is the belief that difficult tasks can become easy, because goals fall into three buckets": easy goals (doable with current knowledge, skill and resources), impossible goals (things you cannot do, or that are "outside the laws of physics"), and difficult goals (things you cannot do right away but eventually can with the right skills and resources).
 
@@ -307,7 +307,7 @@ The two versions can coexist: Eriksen's describes a psychological belief, Koe's 
 
 The gun thought experiment also needs a caution. It is a rhetorical device designed to show that what feels impossible is usually only hard when the motivation is extreme; it is not evidence that any particular goal is achievable in a year. Its function is to expose how quickly the low-agency mind files a difficult goal under "impossible."
 
-##### Two problems in average thinking
+#### Two problems in average thinking
 
 The same October 2025 passage continues with a diagnosis of what Koe calls average thinking. It has two problems.
 
@@ -327,7 +327,7 @@ The first sentence is a redefinition of education that connects to Chapter 2's d
 
 If agency is a skill rather than a fixed trait, it must be trainable, and the corpus contains three methods for training it: Eriksen's method for adults, Koe's five practices of 2025 and Koe's process of December 2025.
 
-##### Eriksen: the belief muscle
+#### Eriksen: the belief muscle
 
 Asked what people can do to practice agency, especially adults who went through conventional schooling, Eriksen gives a short sequence. First, start thinking about your own emotional makeup. Second, try to notice the ways in which you are risk-averse: where you are too afraid to do something although there is something you want on the other side. Third, realize that watching YouTube success stories and motivational videos is not the answer: "belief in your ability to succeed is like a muscle; it has to be trained." Fourth, being aware of this, make a plan with goals that "you can't do right now but they're achievable in steps." The mechanism is cumulative: each successful step trains the belief "that if you work at something you can't do now, you will eventually succeed."
 
@@ -341,7 +341,7 @@ Eriksen's concrete analogy is weightlifting, which he calls "actually excellent 
 
 The analogy works on two levels. Literally, progressive overload in the gym produces measurable progress in a short time, so it is a fast source of evidence for the belief. Figuratively, it describes the structure that every hard goal should be given: small, measurable increments, each just beyond the previous capacity. The same image of progressive overload appears in Chapter 15.2 as a principle of skill acquisition and in the gradual model of identity change in Chapter 4; the corpus also contains the opposite register, the advice to "be extreme" and change everything at once. Koe alternates between the two without resolving them; the agency material sits on the gradual side, with the important exception of the gun thought experiment, which uses extreme pressure as a heuristic.
 
-##### Koe's five practices (October 2025)
+#### Koe's five practices (October 2025)
 
 In the October 2025 video, right after the three buckets, Koe lists five practical steps to practice agency:
 
@@ -359,7 +359,7 @@ Each practice maps onto an element of the theory. Refusing help for as long as p
 
 The first practice deserves a qualification the source does not provide. Taken literally and without limit, refusing all help would contradict other parts of the corpus, which recommend mentors, courses and studying "processes others have found success with" (see the next subsection). The phrase "for as long as possible" suggests that the point is the order of operations: struggle first, so that help, when it comes, lands on a mind that has already engaged with the problem.
 
-##### Koe's process for practicing agency (December 2025)
+#### Koe's process for practicing agency (December 2025)
 
 The December 2025 video closes with a process that reorganizes several earlier ideas. First, you need something to pursue, "and it can be anything, because nobody actually knows what they want. Instead, they deeply understand what they don't want and allow that to create an aim for their future." That gives a direction; then set a goal to make it practical and achievable. Then five steps follow:
 
@@ -423,7 +423,7 @@ Later in the same video he connects self-reliance to teaching. If you pay someon
 
 This is an early form of a thesis that runs through the book: the value a person can sell is the understanding they have built through their own experiments (Chapter 33.3, "productize yourself"). Self-reliance is therefore not only a personal virtue but an economic precondition. Whoever borrows all their methods has nothing original to distill.
 
-##### Self-reliance cannot be taught
+#### Self-reliance cannot be taught
 
 In August 2023, in "I Had To Learn These High-Income Skills (If I Wanted To Make Money)," Koe gives self-reliance a paradoxical definition: "Nobody can teach you self-reliance, otherwise it's not self-reliance." The definition is followed by a practical claim. To become self-reliant in any domain (money, relationships, health), you need the skills that bridge the gap between where you are and what you want. Most people do not know what they want, "and even more don't see where they are as a problem." Koe stresses the word "need": these skills are not optional but fundamental, and you should at least have a big-picture understanding of them and learn them first.
 
@@ -437,7 +437,7 @@ The same video opens with an example that illustrates the definition by its abse
 
 The example is an opinion based on observation, not a study, and Koe qualifies it ("not all"). Its function is to isolate the variable. Rich children have resources, access and opportunity, the ingredients that Section 35.1 discussed, and yet, on Koe's account, many of them lack direction and meaning. What they lack is the self-generated goal and the struggle toward it. The example therefore supports the claim that access was never the issue, and it connects self-reliance to the definition of meaning as progress that Chapter 39 develops.
 
-##### Why only self-reflection can tell you whether an action was good
+#### Why only self-reflection can tell you whether an action was good
 
 In a March 2024 video on deep work and monk mode, Koe gives an epistemological argument for self-reliance. "It is impossible to have 100% certainty in the actions you take now and how they're going to impact your future," because with cause and effect "you don't immediately have the effect of your actions." You can approximate by taking advice or by comparing yourself to others' results, "but the only way you're truly going to know for certain whether they were good or bad actions is through self-reflection, and then pivoting from there." Even good advice comes from someone "operating from a completely different worldview in a completely different environment." His example: taking advice from Socrates, from centuries ago, for a world "where money rules" may not be as practical as you think. "You still need to filter through direct experience."
 
@@ -489,7 +489,7 @@ Two years earlier, in "7 Lessons From 7 Failed Online Businesses (And Making 7 F
 
 The claim that energy can be generated, not just received, is characteristic of the corpus. Energy here is not caloric but motivational, and its sources (purpose, passion, curiosity) are the same internal goals that Chapter 8.7 says create passion. A person who waits for energy to arrive before acting is waiting for permission from their own mood.
 
-##### The catastrophe cycle
+#### The catastrophe cycle
 
 The clearest illustration of what happens without self-reliance comes from an October 2023 video, "If Your Life Sucks, Here's How To Reprogram Your Mind." Broke people, Koe argues, are okay being broke until something catastrophic happens, and catastrophes are more likely for them: an old, unmaintained car blows up; there is a break-in in a bad neighborhood; parents fall sick and cannot be helped on a low income. Then they are motivated, but they think it is too late, do nothing, and wait for the next catastrophe. They lacked foresight and could not break out of the narrow mind produced by their narrow routine, so they are trapped in "an infinite cycle of I should have started sooner." Things equalize: stress comes down, the situation becomes normal, survival is no longer at stake, they are comfortable again, and they do nothing "to reverse entropy." Successful people, by contrast, use such events to change who they are, and who they are determines their standards and values, which determine their tiny daily choices.
 
@@ -540,7 +540,7 @@ The same video ends its sequence of five steps with a quotation: "learn to sell,
 
 The "one hour a day" connects the principle to Chapter 12.2, where Koe's daily architecture begins with a single protected hour, even for someone with a job. The phrase "building projects for someone else" is the agency contrast once more: the employee builds the employer's project; the entrepreneur builds their own.
 
-##### Becoming unemployable
+#### Becoming unemployable
 
 Koe has a word for where self-reliance eventually leads: **unemployable**. In a July 2024 video on the future of work he argues that "entrepreneurship may not be a skill, but it is a meta skill, because it teaches you how to be high agency and how to solve problems, how to create a solution to those problems and sell the solution, and along the way you cultivate the traits that make you unemployable or irreplaceable." He defines the term: "you just could never go back to being employed because it doesn't make sense, because you can make more on your own, you can control your lifestyle on your own." And he insists that "it's all a skill, it's not luck": entrepreneurs do not simply know what to do; "they practice it and they fail and they learn something that you don't really get at a job, outside of a narrow boundary of the context of the work."
 
@@ -562,13 +562,13 @@ The most recent and most structured version of these ideas appears in a January 
 
 The three metaphors form a vehicle: an engine to move, a compass to steer and a foundation (or chassis) that keeps the vehicle from being taken over by someone else. Koe develops each in turn.
 
-##### Self-education: the engine
+#### Self-education: the engine
 
 "Self-education is pretty clear. If you want a different result from the one that traditional education promises, then you must direct your own learning." The definition is conditional and comparative. Traditional education promises a particular result (a credential, a job, a career path); if that is the result you want, follow it. If you want a different one, the institution that produces the standard result cannot produce yours, so the direction of learning must pass to you. Chapter 14 develops what self-directed learning looks like in practice (build to learn, learning in public).
 
 **Source:** If you have multiple interests, do not waste the next 2-3 years.md (2026-01-20)
 
-##### Self-interest: the compass
+#### Self-interest: the compass
 
 Koe acknowledges that the second ingredient "raises some flags because it sounds selfish and short-sighted"; you have been told that everyone should be selfless. "But self-interest simply means concerned with one's own interest. And if that isn't a priority for you, then whose interest are you going to serve? Especially when your survival is dependent on it." The answer to the rhetorical question is that you will serve the interests of schools, jobs and government, "and those interests are not very beneficial to you." "You need to follow your own interest, because your interest is often beneficial to others." He qualifies the claim: whether self-interest benefits others "depends on what level of cognitive development you're at," but he assumes that most people do not want to hurt most people.
 
@@ -584,7 +584,7 @@ To define healthy self-interest, Koe borrows from Ayn Rand: "The truly selfish p
 
 The predator and the doormat are the two failures of self-interest. The predator pursues their interest at others' expense; the doormat sacrifices their interest for others. Koe's compass points between them: one's own interest, pursued without sacrificing others, which (at a sufficient level of development) tends to serve them. The same structure appears in Chapter 32.2's ethics of persuasion: persuasion is as ethical as the person who uses it.
 
-##### Self-sufficiency: the foundation
+#### Self-sufficiency: the foundation
 
 "Self-sufficiency, the last ingredient, is the refusal to outsource your judgment, your learning, and your agency. So, if self-education is the engine and self-interest is the compass, then self-sufficiency is the foundation that prevents your life direction from being hijacked."
 
@@ -592,7 +592,7 @@ The predator and the doormat are the two failures of self-interest. The predator
 
 This definition differs from the 2024 one. In the table of the Irreplaceable individual, self-sufficiency was "the ability to sustain one's ideal lifestyle and acquire the resources necessary to do so," an economic capacity. In 2026 it is "the refusal to outsource your judgment, your learning, and your agency," an epistemic and volitional stance. The two definitions are compatible (the refusal to outsource judgment is what makes it possible to acquire resources independently), but the emphasis has moved inward, from what one can acquire to what one will not delegate. The word **hijacked** recalls the dopamine and attention chapters (Chapters 6 and 11), where the risk is precisely that one's direction is taken over by an algorithm, a feed or another person's goal.
 
-##### The triad as a cycle, and the emergence of the generalist
+#### The triad as a cycle, and the emergence of the generalist
 
 Koe then argues that the three ingredients form a cycle, and that "the generalist naturally must emerge" in someone who develops it. The cycle has three links:
 
@@ -608,7 +608,7 @@ The third link closes the loop in a way that connects back to the beginning of t
 
 The second link is the bridge to Chapter 20. The generalist, in Koe's definition, is the person who learns whatever their goal requires; here the generalist appears as the necessary result of pursuing sovereignty, because sovereignty is bounded by understanding and understanding is bounded by the number of domains one has learned. The remark about being "kept siloed" is a claim about organizational design that Koe offers as interpretation: compartmentalization of knowledge keeps employees dependent. It is not supported in the source by evidence, but it follows from the triad's own logic.
 
-##### How the definition of freedom developed
+#### How the definition of freedom developed
 
 The 2026 triad is the latest stage of a definition of freedom that Koe built over several years.
 
@@ -731,3 +731,424 @@ Koe had stated the stakes of this method six months earlier, in July 2024, right
 **Source:** Learn This Skill If You Want To Be Relevant In 10 Years.md (2024-07-13)
 
 The sentence identifies two distinct failures. The first is perceptual: not spotting problems, which is the low-agency mind that cannot see beyond its assigned goals. The second is volitional: spotting problems but not granting oneself permission to solve them, which is the person who waits to be asked. Bloom's method addresses the first failure; the rest of this chapter addresses the second. And the premise, "problems will always exist," is the same as the December 2024 argument in Section 35.1 ("problems are infinite"). Security, in this account, does not come from having a position that protects you from problems; it comes from the permanent capacity to find and solve them.
+
+### 35.4 The Value Creator
+
+If agency is the disposition to identify and solve problems without permission, Koe has a name for the role it leads to: the **creator**, or, in its more precise form, the **value creator**. This section reconstructs that role. It is not identical to "content creator," and Koe takes care to separate the two. Chapter 18.4 presented a closely related figure, the synthesizer who makes sense of information for others; here the emphasis is on the creator as the alternative to replaceability.
+
+#### What a creator is
+
+Koe's first definitions of the creator come from 2022 and 2023. In June 2022, in "How To Make Money As A Creative On The Internet," he states a principle: "Everyone is a creator, everyone has the potential for creativity if they expand and develop themselves and specifically their mind." Later in the same video he applies it to entrepreneurs: entrepreneurs are creators, and "you are a creator, you're just not putting the content that is in your head online."
+
+**Source:** How To Make Money As A Creative On The Internet.md (2022-06-25)
+
+The principle has a condition: creativity is universal as a potential, but its actualization depends on developing the mind. This places creativity within the developmental model of the book (Chapter 15.7, the mind as a body that can be trained) rather than among innate gifts. The application to entrepreneurs makes the creator a broader category than the content creator: anyone who builds solutions creates, and the only difference between them and a content creator is whether the content in their head is published.
+
+In April 2023, in "Self Improvers Are Creating Their Own Careers (The New Economy)," Koe gives a fuller definition. He admits that he first found the word "creator" cringe, but tied it to "I am a creator, God is a creator" (adding that he is not saying he is God): "you have the gift of creation." Then: "Creators are people that educate, entertain and inspire in the crevices of reality that they choose to explore by their own curiosity." He adds that "unless we rewrite the collective, which hasn't changed for centuries," this will not change, and that robots have a place in increasing creativity and decreasing labor.
+
+**Source:** Self Improvers Are Creating Their Own Careers (The New Economy).md (2023-04-16)
+
+The definition contains three components. The **function**: to educate, entertain and inspire, the same three functions that Chapter 23.4 assigns to engaging content. The **territory**: "the crevices of reality," a coined image for the specific, often narrow areas of reality that a person explores in depth. The **criterion of choice**: the person's "own curiosity," not an assignment. The third component is what links the creator to agency. A creator chooses where to work by curiosity; an employee works where they are assigned. The **gift of creation** grounds the argument in an analogy with a creator God, which Koe uses to elevate the act rather than to make a theological claim.
+
+#### Why the pull to create is human
+
+In December 2023, in a video on the "Build Teach Earn" method, Koe explains why so many people feel drawn to becoming content creators. The big problem, he says, is a lack of understanding of content creation from a big-picture view. Everyone feels the pull "because it's human": people want to do what they want, they have an innate drive to pursue curiosity, and they want to "become a vessel for value and create with their own two hands," the things "schools and jobs stripped from you." Peeling back the layers, he argues, that is where the natural evolution of humanity has been pointing: "since the dawn of time we've been solving problems with technology to rid ourselves of robotic and time-consuming labor work so we can pursue self-actualization and transcendence."
+
+**Source:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md (2023-12-03)
+
+The argument operates at two scales. At the individual scale, the desire to create is the return of drives that institutions suppressed: curiosity, autonomy, the satisfaction of making something with one's own hands. At the civilizational scale, the history of technology is the history of removing robotic labor so that humans can do what is not robotic. The phrase **vessel for value** recurs throughout the corpus: the person, the business or the content as a container through which value passes to others.
+
+**Complementary context:** "self-actualization" and "transcendence" are terms associated with Abraham Maslow, who placed self-actualization at the top of his hierarchy of needs and, in late writings, added self-transcendence beyond it. The source does not cite Maslow at this point.
+
+Six months earlier, in a June 2023 video, Koe had made the same evolutionary argument in a different form, as the third point of what he called the "landscape" of the present: "we have problem-solved our way into doing what you love." Evolution solves problems from small to large so that they become less stressful and require less manpower, which lets us use time for what we enjoy, something visible only on a decade-long reflection. The innate human drive is to pursue curiosity and embrace being, which requires money "to a point, but a hard point in this society." So one's life's work becomes using modern technology to earn by doing what one enjoys: pairing personal interests (what one enjoys studying, one's curiosities, things innately valuable to one's life) with social media and with the psychology-based **umbrella skills** (writing, speaking, marketing and sales), channeling interests through those online until they eventually create income. He refers to his "one million dollar skill stack" video for details.
+
+**Source:** Get Mad At Where You Are In Life (A Deep Explanation).md (2023-06-11)
+
+This passage is the bridge between the creator and the skill stacks of Section 35.5. The creator's raw material is personal interests; the means of turning interests into income are a set of skills that Koe calls "umbrella" skills here and "evergreen" skills elsewhere. The admission that money is necessary "to a point, but a hard point" keeps the argument grounded: the pursuit of curiosity is the aim, but in the present society it requires an income, and the skill stack is how the income is produced.
+
+#### A life philosophy, not a business model
+
+Koe insists that being a creator is not primarily a way of making money. In January 2023, in "The Most Profitable Niche Is You," he says that all his videos are, in effect, reasons to start a personal brand, because "I genuinely don't think that a creator is a business model. It's a life philosophy, right, just applied to the internet."
+
+**Source:** The Most Profitable Niche Is You (Create Your Niche Of One).md (2023-01-29)
+
+In the June 2023 video he makes the point with more color, as the fifth point of the landscape. "Creator" is not a job but a new way of life. Regardless of one's beliefs about a Creator with a capital C, the act of creation is "pure ecstasy," which is a sign to do it more often. When you learn, dissect, reconnect and teach, you flex the creative ability of your mind. He invokes Arnold Schwarzenegger's famous comparison of "the pump" in bodybuilding to sexual pleasure, and then coins his own version: "creativity is mental bodybuilding, creation is spiritual sex." Returning to an image used earlier in the video, he says that orgasm, as an experience, can happen on multiple planes, including the spiritual, through writing, creation and passing along ideas that affect others. And if everyone leans into their nature as a creator, "saturation ceases to exist": your story and identity in what he calls the **Creator's Society** are different from anyone else's, even when you pursue the same high-level goals, such as making more money.
+
+**Source:** Get Mad At Where You Are In Life (A Deep Explanation).md (2023-06-11)
+
+**Complementary context:** Schwarzenegger's comparison comes from the 1977 documentary *Pumping Iron*, in which he describes the muscle "pump" during training in sexual terms. Koe adapts the comparison rather than quoting it in full.
+
+The formula **creativity is mental bodybuilding, creation is spiritual sex** has two halves with different functions. The first describes the process: learning, dissecting, reconnecting and teaching exercise the mind as lifting exercises the body (the "mental bodybuilding" of Chapter 15.7). The second describes the experience: the act of bringing something into existence and passing it to others produces an intense satisfaction, which Koe treats as evidence that it is aligned with human nature. The claim about saturation is developed in Chapter 27.6: if each creator's perspective is unique, the market cannot be saturated by people pursuing the same goals, because each brings a different story. The "learn, dissect, reconnect, teach" sequence is a compact version of the collect–connect–create process of Chapter 18.2.
+
+#### Becoming a creator as the alternative to employment
+
+In January 2026, in the same video that introduced the sovereignty triad, Koe connects the creator directly to the escape from dependence: "You need to become a creator." Not necessarily a content creator, he adds, "even though I kind of do." "The solution to stop creating for someone else because you need them to give you a paycheck is to create for yourself. Humans, by nature, are creators who are convinced that being a machine would lead to the American dream. We are tool builders at our core. We thrive in any niche because we create solutions to problems."
+
+**Source:** If you have multiple interests, do not waste the next 2-3 years.md (2026-01-20)
+
+The sentence "creators who are convinced that being a machine would lead to the American dream" is a compressed diagnosis. It contains the thesis (humans are creators), the program that overrides it (the belief that behaving like a machine, performing a fixed task reliably for someone else, is the route to prosperity) and the irony (the machine-like work is precisely what machines are now taking over). The phrase "we thrive in any niche because we create solutions to problems" connects back to Section 35.2: the irreplaceable individual can "adapt to any environment," and here the reason is given. Adaptation is a consequence of creation; a creature that builds its own tools is not bound to one environment.
+
+#### Maintaining the role of creator in the age of AI
+
+In September 2025, in "12 Rules To Change Your Life In 12 Months," Koe's eighth rule is "become a creator," and he presents it with a short history. "For millions of years, creativity was reserved for the gods." Humans did not know how things worked and did not build tools; then they created fire, then planes, and now AI. "We built tools that allowed us to survive in any environment, harnessed energy and transformed the earth. Humans took over the role of creator, but so many have lost their path. And so many are giving up their role as creator to AI. The entire key to using AI well is to maintain the role as the creator." He adds a qualification about his own earlier predictions: the AI future is uncertain and "probably not going to be as drastic as many people made it out to seem, myself included."
+
+**Source:** 12 Rules To Change Your Life In 12 Months.md (2025-09-14)
+
+The story positions AI as the latest in a series of tools, not as a break in the series. Each tool extended the human role of creator; the risk Koe identifies is that this tool, unlike the earlier ones, can be used to hand the role over. Using AI to produce what one would otherwise have to think through is giving up the role; using it to extend what one has already decided to create is maintaining it. This anticipates the distinction between "doers" and "directors" in Chapter 36.4. The self-correction about drama is explicit: Koe had been "pretty worried" about AI in 2024 and in this 2025 video names himself among those who exaggerated.
+
+The same video then reads an excerpt from Koe's book *Purpose and Profit*, which he says is free on his Substack, and the excerpt is the most complete argument for becoming a creator in the corpus. It proceeds as a syllogism:
+
+> "If happiness or enjoyment is the combination of progress being made and contribution to something greater than yourself, and both are accomplished by solving problems for yourself and others, and problems are solved through creativity, then the only logical and fundamental aim for your future is to embody creativity by becoming a creator. In other words, you find the intersection of purpose and profit by creating solutions to problems you deem interesting, passing on those solutions to contribute to the progress of humanity, and repeating the process when the next set of more complex problems arise. Although problems become more complex, you become more equipped with knowledge, skill, and experience to solve them. Life gets better as problems get harder if you learn to keep chaos at bay, which is a problem within itself."
+
+He adds: "With every problem comes the opportunity to reach a new level of purpose."
+
+**Source:** 12 Rules To Change Your Life In 12 Months.md (2025-09-14)
+
+The structure of the argument can be laid out step by step:
+
+1. Premise (definition of enjoyment): enjoyment = progress + contribution to something greater than oneself.
+2. Premise: both progress and contribution are achieved by solving problems, one's own and others'.
+3. Premise: problems are solved through creativity.
+4. Conclusion: the fundamental aim is to embody creativity, that is, to become a creator.
+5. Corollary (purpose and profit): solving problems one finds interesting and passing on the solutions joins personal meaning (purpose) and economic return (profit).
+6. Dynamic: problems grow more complex, but so does the capacity to solve them; life improves as problems get harder, provided chaos is kept at bay.
+
+The argument is valid as a chain, so its strength depends on the premises. The first is Koe's own definition of enjoyment, which Chapter 39 develops; a reader who defines enjoyment differently (as pleasure, for example) would not reach the conclusion. The second and third are broad claims that Koe treats as nearly self-evident. The syllogism shows the logical position of the creator in his system: it is not a career choice but the conclusion of his theory of happiness. Step 6 connects to the entropy model ("keep chaos at bay") and to the cycle of chapters in Chapter 39.6: each solved problem raises the level of the next.
+
+#### The path of the problem solver
+
+The phrase that best condenses this section appears twice in the corpus with identical wording. In a January 2023 video ("The Most Profitable Niche Is You") and again in May 2023, when Koe reads it from the then-finished manuscript of his book *The Art of Focus* ("Most People Won't Change"), the sentence is: "The path of the problem solver or value creator is how you escape the world of replaceability. Fall in love with the challenge that problems present, from superficial to metaphysical, and your ideal future will create itself. This is the infinite game."
+
+**Source:** The Most Profitable Niche Is You (Create Your Niche Of One).md (2023-01-29); Most People Won't Change (How To Recreate Yourself).md (2023-05-19)
+
+In the January video, the sentence introduces a step of the argument in which Koe explains that every story has an ideal outcome or goal, and that along the path there are highs, lows, emotions, battles, mistakes and solutions to problems found along the way, which are then to be systematized (Chapter 33.5 develops the idea that systems are the new product). In the May reading, the sentence is part of an update on the book: Koe mentions conversations with publishers, toying with self-publishing, and a launch sooner than expected.
+
+**Complementary context:** "infinite game" refers to James P. Carse's distinction in *Finite and Infinite Games* (1986) between games played to win and games played to continue playing. Koe uses the distinction in Chapter 10.7; here it means that problem-solving has no final victory, because each solution opens the next problem.
+
+The sentence contains three claims. The **world of replaceability** is the world of assigned tasks, in which any person who can perform the task can replace any other (and, in later years, a machine can replace both). The **escape** from it is the path of the problem solver, because the problems a person chooses to solve, from their own perspective, are not interchangeable. And the attitude that sustains the path is to **fall in love with the challenge that problems present**, at every level from the superficial (money, status) to the metaphysical (meaning, consciousness), which is the developmental progression of Chapter 9.1 (start with superficial problems; they are portals to deeper ones). "Your ideal future will create itself" is a strong formulation; read in context, it means that a person who keeps solving problems they care about accumulates skills, reputation and understanding that eventually shape their circumstances, not that the future arrives without effort.
+
+#### True value is creative
+
+In an August 2023 video, "How To Escape Wage Slavery (Entrepreneurship Is Modern Survival)," Koe gives the economic reason why the value creator escapes. "The way out is to become a value creator," he says (referring to his video on the topic), "because true value is creative, and creativity allows for change and emergence; it allows for new levels of the hierarchy to be created and for you to create your own hierarchy to advance within." For the idea of hierarchies he refers to his video "niching down is terrible advice for smart people." "If the only value that you have to provide is physical and not creative, then you will get stuck in manual labor jobs," "because that's what all the people at the top are doing: they're creative, and they're using the power of their mind to create things that are valuable and distribute that to other people."
+
+**Source:** How To Escape Wage Slavery (Entrepreneurship Is Modern Survival).md (2023-08-01)
+
+The coined phrase **true value is creative** relies on the distinction between two kinds of value. Physical value (labor, time, performance of a defined task) fits within an existing hierarchy: you can advance within it, but its levels are set by someone else. Creative value can produce **emergence**, something new that did not exist in the system, and therefore new levels, or a whole new hierarchy in which the creator is at the top because they defined it. This is the logic of Chapter 2.5's distinction between hierarchies of dominance and hierarchies of actualization, and of Chapter 19's "niche of one": the creator does not compete for a position in someone else's hierarchy but creates their own.
+
+The same video describes the path as a process: "As we always talk about: you have to push the boundaries of the unknown, learn and discover new potentials along the way, acquire the skills necessary to build a purposeful product, solve your own problems so you create a solution of true value, and start a business as a vessel to actualize your vision for the future." He refers to his one-person business model series for its development.
+
+**Source:** How To Escape Wage Slavery (Entrepreneurship Is Modern Survival).md (2023-08-01)
+
+The process has five stages, and each corresponds to a part of this book:
+
+| Stage of the value-creator path (Aug 2023) | What it involves | Where developed |
+|---|---|---|
+| Push the boundaries of the unknown | Leave the known path; experiment | Chapters 7.4, 10.5 |
+| Learn and discover new potentials along the way | Learning driven by the goal | Chapter 14 |
+| Acquire the skills necessary to build a purposeful product | The skill stack | Section 35.5 |
+| Solve your own problems to create a solution of true value | Solve your own problems and sell the solution | Chapter 28.2 |
+| Start a business as a vessel to actualize your vision | The business as vehicle of the life's work | Chapters 9.4, 28 |
+
+The process is the agency loop of Section 35.1 expressed as a career: identify problems (one's own), acquire the means to solve them (skills), solve them (product), and create the structure through which the solution reaches others (business).
+
+#### Is "become a creator" a dogma?
+
+The claims of this section are strong, and in January 2026 Koe turned on them himself. "I really have to sit and ask myself, am I just, like, promoting this dogma? I tell people, start a personal brand, become a creator... and I feel like I start to tout it as this one true way. But then... the more I break it down, the more it seems like the one true way." He acknowledges that the objections ("not everyone can do this") hold some truth. His answer: "anyone can. The ambitious people who want to. Everyone can't do everything," but "this has more opportunity than most of those things, and it's all within your control."
+
+**Source:** If you have multiple interests, do not waste the next 2-3 years.md (2026-01-20)
+
+The self-criticism is significant because of what it is measured against. In 2023 Koe had stated the thesis without qualification ("if you don't have a personal brand, you lose"; "start an education business, I don't care who you are"), and elsewhere in the corpus he criticizes business ideologies that present one model as the only way (Chapter 30.4 warns against copying business models). His own advocacy of the creator path risks being exactly such an ideology, and in 2026 he names the risk. He does not abandon the thesis; he reformulates it. The claim moves from "everyone should" to "anyone ambitious can," and its justification moves from necessity to comparative opportunity and control. The change is a refinement through self-criticism rather than a change of position. Readers may judge for themselves whether the reformulation answers the objection; the source leaves the tension with Koe's critique of business dogmas visible.
+
+The final phrase of the answer, "it's all within your control," returns the argument to agency. The creator path is defended not because it is guaranteed to succeed but because it is the path on which the variables are most within the individual's reach: no hiring manager, publisher or institution needs to grant permission.
+
+### 35.5 Skill Stacks
+
+The previous sections described a disposition (agency), a condition (self-reliance and sovereignty), a terrain (abundant problems) and a role (the value creator). This section asks the practical question that follows: what should such a person learn? Koe's answer, across four years, is never a single skill but a **skill stack**, a set of skills chosen because they interact. The content of the stack changes almost every year, and the changes are themselves instructive: they move from skills that are useful in the market toward traits that are human and not tied to any career. The section follows the stacks in chronological order and ends with the 2026 hierarchy that places agency at the top.
+
+#### Why a stack and not a skill
+
+Koe's insistence on stacks comes from his own failure. In an October 2023 video on making a million dollars a year as a digital writer, he explains that he "was never able to monetize my creative ability, and it wasn't because I wasn't skilled enough." He had graphic design, coding and other creative skills, "but I didn't have the skill stack that made that thing monetizable." He rejects the common advice "just focus on coding and you'll do absolutely amazing": "if you don't learn marketing, sales, writing, speaking, the evergreen skills that I talk about, then you're not going to see your own success with that thing." The result, after some five or six years of failing at multiple creative ventures, was that he had "to swallow my pride and get a job... just in order to survive."
+
+**Source:** How To Make $1 Million A Year As A Digital Writer.md (2023-10-08)
+
+The lesson is that skill and monetizable skill are different things. A skill produces something; a stack makes the product reach people who will pay for it. "Focus on one thing" is good advice for someone who will be employed by an organization that supplies the rest of the stack (distribution, sales, marketing); it is bad advice for someone building their own thing, because nobody else supplies the missing pieces. The argument restates, at the level of skills, the critique of specialization in Chapter 20, and it explains Koe's later definition of the generalist as the person who learns everything their goal requires.
+
+The turning point in Koe's own story was a course. In January 2023 he describes how an agency course taught him the applicability of copywriting, sales, marketing funnels and paid ads, things he had been learning in a "compartmentalized" way through YouTube research and social media. The course packaged it "clean": here is how it all works, in the form of an agency business model. He kept using that knowledge afterward because it "makes sense for almost any business model": "it's like, I need this piece, I need this piece, I need this piece." He refers viewers to his one-person business playlist and to "the one million dollar skill stack" video for the skills that apply to almost every business model.
+
+**Source:** The Most Profitable Niche Is You (Create Your Niche Of One).md (2023-01-29)
+
+The example shows what a stack is: not a pile of unrelated competences but a set of pieces that fit into a working whole. Each piece (copy, sales, funnels, ads) is incomplete alone; together they form a system that converts attention into revenue. Learning them separately, Koe had not seen how they fit; the course showed him the whole, and the whole was transferable to other business models. This is an instance of the "principles over tactics" argument of Chapter 15.3: what transferred was the structure, not the agency model itself.
+
+In a November 2023 video Koe adds a metaphor for how to think about a stack's risk. "A good way to think about your skill stack here is like a mutual fund: if one stock goes down," if that stock "is an unethical skill, or something that is perceived as unethical or can be used more unethically, because it's neutral until put in the hand of the good or evil, the mutual fund can still be up; your life can still be positive; your skill stack can still be impactful." He gives a second image, a song: "there are bass notes, there are lows, there's those depressing moments, but then there's a chorus and it brings everyone out of it"; "a song can be very good even if there's a slow and sad part of it." And he adds a more provocative claim: "if one skill is unethical, that may be the unlock your business needs to actually see some progress."
+
+**Source:** People Dumber Than You Are Making Millions.md (2023-11-12)
+
+The context of the metaphor is the perception of certain skills, especially marketing and persuasion, as manipulative. Koe's position, stated in the parenthesis, is that skills are morally neutral "until put in the hand of the good or evil" (the same position as Chapter 32.2 on the ethics of persuasion). The mutual fund image adds a portfolio logic: a stack is evaluated as a whole, so a skill that carries reputational risk does not make the whole stack negative, and it may be the piece that makes the others productive. The last claim is the most contestable in the passage. Read in context, "unethical" refers to skills *perceived* as unethical (such as sales), not to skills used to deceive; Koe's own definition of persuasion elsewhere excludes force and deception, as the 2024 stack below will state.
+
+Finally, in a June 2023 video, Koe gives a psychological reason for acquiring such a stack, inside the promotion of two of his courses. If you need something to channel your attention into, "something more big picture, holistic, that actually gets results in these times," learn "a high income skill or a high value skill to be able to channel your creative energy and actually see tangible results that pay 10 times more to you," and learn "how to productize yourself," which "allows you to discover your life's work, create your vision for the future, and have something to actually focus your attention on in the mornings." "It brings so much order and clarity to your life knowing that you are... working towards doing what you love in a way that actually makes sense."
+
+**Source:** If You're Lost - Here's How You Find Clarity For The Future.md (2023-06-04)
+
+The passage is promotional, and the figure "10 times more" is rhetorical rather than measured. Its substantive point connects the skill stack to Part III: a high-value skill and a product built from oneself give attention an object, and an attention with an object is ordered rather than entropic (Chapter 5.3). The stack is therefore not only an economic tool but a source of clarity.
+
+#### The $1M skill stack (January–February 2023)
+
+The first named stack appears in a January 2023 video, "The $1 Million Dollar Skill Stack (Learn In This Order)." Koe contrasts it with typical social-media advice, which is to learn a specific skill or start a specific business model (for example, an agency doing Facebook ads). That advice is "not bad," he says, but he wants a "meta," understanding-based approach. A graphic shown on screen gives the overview: in the top left are evergreen skills; once paired with personal interests, direct experience and the internet, "you culminate and create you, which becomes irreplaceable." The video presents three stacks in order:
+
+1. **Stack evergreen skills for profitability.**
+2. **Stack personal interests for individuality.**
+3. **Stack experience for nuance and navigation.**
+
+**Source:** The $1 Million Dollar Skill Stack (Learn In This Order).md (2023-01-08)
+
+The exact layout of the graphic cannot be fully reconstructed from the transcript; what is clear is the sequence of the three stacks and the claim that their combination, through the internet, produces a person who cannot be replaced. Each layer has a distinct function. Evergreen skills make the person profitable; personal interests make them different from others with the same skills; experience gives them the nuance to navigate situations that no course covers. The endpoint, "you," is the "you are the niche" thesis of Chapter 19 stated in terms of skills.
+
+The evergreen skills for profitability are defined in the same video as three things:
+
+| Evergreen skill (Jan 2023) | Koe's definition | Function |
+|---|---|---|
+| A valuable message | A way to communicate with others that is relevant, understandable or actionable | What you say |
+| A medium for distribution | A way of putting your message in front of people, "or else nobody sees your value" | How it reaches people |
+| A result-oriented skill | A way of delivering a transformation to the people you attracted with the first two | What you deliver |
+
+He summarizes them as "message, medium and applicability," and stresses that "these are skills that interact with one another": without one, you will not get the same results. That interaction is why it usually takes six months or more to see tangible progress. You cannot learn a skill and not put it in front of someone, or put it in front of someone and not be able to get results, and expect a sustainable business.
+
+**Source:** The $1 Million Dollar Skill Stack (Learn In This Order).md (2023-01-08)
+
+The six-month estimate is an observation from Koe's experience, offered as an explanation of why beginners give up: they expect results from one skill, but results appear only when all three are in place.
+
+Later in the same video Koe develops the third element, the **result-oriented skill**. Message plus medium, he says, are valuable in themselves; with them you could already create offers (sales closer, marketing help, content writer, YouTube video editor). But even then you see the need for results-oriented skills: email marketing, sales closing, graphic design, videography, animation, web design. "In short, you need to understand how to apply the medium and the message to the digital landscape," to your own business or personal brand or to someone else's, with technology. Then you deliver specific results: emails that pull in more customers, graphics that pull in more followers, videos that hold more attention. "You unlock a new level of power when you pair marketing, sales and communication with a specific technology," leveraged for what everyone wants: money, followers, reputation, opportunity, freedom and status.
+
+**Source:** The $1 Million Dollar Skill Stack (Learn In This Order).md (2023-01-08)
+
+For those who choose the creative route (media rather than code), Koe adds a practical heuristic in the same video: you still need some technical know-how. Study the no-code tools that fit your situation: website builders, course dashboards, membership dashboards, email marketing software, social media in general, perhaps Discord. "You have to understand technology to an extent, at least how to use it."
+
+**Source:** The $1 Million Dollar Skill Stack (Learn In This Order).md (2023-01-08)
+
+#### The digital Renaissance version (February 2023)
+
+Six weeks later, in "Become A Digital Renaissance Man (And Join The New Rich)," Koe redrew the map. A new graphic, which he connects to the million-dollar skill stack video, shows four inputs: **modern skills**, **evergreen skills**, **life experience** and **personal interests**. They are put toward a **profitable problem** to create an **irreplaceable solution**, yielding an independent income. He calls the graphic "overly optimal": it describes the end state, once you are "set for life," of someone who has the skills to look from the big picture down at a profitable problem in the market, ideally with a name for themselves so that they have traffic to send to the product or service they create around that problem. "That's all that business is." Big-picture understanding of all this, he insists, is "so, so much more important than the technical details" (how to write a Twitter thread, how to land a first client), because without knowing what to learn and push toward, connections are harder to make.
+
+**Source:** Become A Digital Renaissance Man (And Join The New Rich).md (2023-02-19)
+
+Two things change between January and February. First, the stack acquires a target: the **profitable problem**. Skills are no longer stacked in the abstract but aimed at a problem that people will pay to have solved, which links the stack to the agency of Section 35.3 (find the problem) and to the value of Chapter 31 (solve it). Second, the content of "evergreen skills" changes. In the same video Koe says: "Make it your purpose to obsess over marketing, sales, writing and speaking," preferably writing, because you can practice marketing and sales through writing, and what makes writing good is human psychology. "Marketing and sales are just conceptual ways of structuring human psychology into a way that leads to a better exchange of goods." These skills are evergreen: "they will never go out of fashion... never get replaced, no matter what ChatGPT makes you think," if you are a true writer, speaker, marketer or salesperson. They intersect and are necessary for any independent income; "there is no way around them." They let you package the skills and interests you have learned into something profitable. A few YouTube videos suffice for principles and fundamentals, he adds, and speaking comes last, building on writing.
+
+**Source:** Become A Digital Renaissance Man (And Join The New Rich).md (2023-02-19)
+
+The two definitions of "evergreen skills" are not contradictory but are at different levels of abstraction. In January the term names functions (message, medium, applicability); in February it names the skills that perform the first two functions (writing and speaking carry the message through a medium; marketing and sales structure it psychologically). The result-oriented skill, which was evergreen in January, becomes in February a separate, changing category ("modern skills"). This reorganization is the one that persists in later versions: an evergreen core based on psychology, and a changing technical layer.
+
+Koe then adds a warning. Artists, coders and anyone who does not start by learning these skills fail, because they think they can put "their fancy art" in front of people and expect it to do well. Some succeed, but only because they intuited the principles of marketing, sales and writing: "it's unconscious competence at that point," an understanding of how to speak to a human in order to receive something for the value one gives.
+
+**Source:** Become A Digital Renaissance Man (And Join The New Rich).md (2023-02-19)
+
+**Complementary context:** "unconscious competence" is the fourth stage of the "four stages of competence" model used in training and education (unconscious incompetence, conscious incompetence, conscious competence, unconscious competence), in which a skill is performed well without deliberate attention.
+
+The warning answers an obvious counterexample (successful artists who never studied marketing) by reclassifying it: they did learn the skills, just without naming them. The claim cannot be tested from the source, but it is consistent with Koe's biography as he tells it (Chapter 37): a skilled designer and coder who failed for years until he learned the stack.
+
+#### Meta skills: code and content (August–December 2023)
+
+In the August 2023 video on high-income skills Koe introduces the term **meta skills** for the skills he recommends: "these are the meta skills that umbrella every other modern skill that changes every 10 years." Learn them first, so that when you learn any other skill (Photoshop, for example) you maximize its effects. You should understand them regardless of what company you build. With a one-person business you need all of them; even if you hire out or build a team, you need to understand how to get results in the first place, and you should have a big-picture understanding of the skills you hire for "so you can hire correctly."
+
+**Source:** I Had To Learn These High-Income Skills (If I Wanted To Make Money).md (2023-08-16)
+
+The hiring argument is a practical consequence of the stack idea. A founder who does not understand marketing cannot evaluate a marketer; the meta skills are the knowledge required to direct others' specialized skills. This anticipates the "director" of Chapter 36.4, who uses AI as Koe here proposes using hires: with enough understanding of the whole to judge the parts.
+
+By December 2023, in "The Future Of Work Is Play (How To Create A Digital Career)," the meta skills have a name and a structure. **Code and content** are "the meta skills" that umbrella every other skill needed to make it going digital; since everything that can be done on the internet will be, learning them "is not optional." Under them come layers:
+
+- **Results-oriented skills** (under code). You do not need to code, but you need "technical know-how": email marketing, graphic design, video editing, website and funnel building, the tools to establish your foothold as a personal brand. "Code in this sense is digital real estate": landing pages, products, lead magnets, hosted content, social profiles.
+- **Evergreen skills** (under content): writing, speaking, marketing, sales. They provide the impactful message for the results-oriented skills. "Code is the vessel for content": code is structure (a landing page, an email, a video), while content is what people actually see, what catches attention, persuades and changes behavior. You cannot post and expect it to do well; you need mechanics and psychology. "Marketing and sales are applied mechanics and psychology."
+- **Personal interests** (which he calls "the fourth piece"). They set you apart and determine what you sell; they can come from mind, body, spirit or business. "Your job is to use your skills to monetize the interests that make you unique." If you cannot monetize an interest, you have not learned or practiced the skills well enough.
+
+The downside, he admits, is that you have to learn everything that goes into a profitable business. He refers to the million-dollar skill stack video for details.
+
+**Source:** The Future Of Work Is Play (How To Create A Digital Career).md (2023-12-31)
+
+The "fourth piece" wording suggests that Koe counts four components (the meta skills themselves, results-oriented skills, evergreen skills and personal interests), but the graphic he refers to is not recoverable from the transcript, so the exact structure is uncertain. The essential relation is clear: **code is the vessel for content**. Technology provides the container; psychology-based communication provides what fills it; personal interests decide what it is about. The claim that failure to monetize an interest indicates insufficient skill places the burden on the stack, not on the interest, which is the "you are the niche" thesis in its strongest form.
+
+**Complementary context:** elsewhere in the corpus, from the same period, Koe credits the investor and writer Balaji Srinivasan with the argument that learning both code and content "is not optional." Naval Ravikant's description of code and media as forms of leverage that require no one's permission (Chapter 25.3) is the broader background of the code-and-content pair.
+
+In January 2024, in the official summary of his book *The Art of Focus*, Koe reads a passage that states the relation between the evergreen and the changing layers most precisely: "Results-oriented skills are how you apply your message and medium of choice; they are the vessel for distributing your value. The message and the medium are evergreen, while results-oriented skills change with the landscape; you must keep your finger on the pulse of advancements and your interest so that you don't fade out." Today they are digital, he adds: we do not live at the moment when the printing press was just invented and profitable skills revolved around it. His examples are email marketing, graphic design, videography, photography, editing, animation, artificial intelligence and social media. They are useful for your own business and for others', since all brands, creators and students have problems to solve, and stacking them with evergreen skills lets you practice on your own business or create a product or service to grow someone else's.
+
+**Source:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md (2024-01-18)
+
+The printing-press analogy is the key to the distinction. Every era has its results-oriented skills (typesetting once, video editing now), and they are valuable only while the technology lasts. The message and the medium (communicating with humans through writing and speech) persisted across all those eras. A person who invests only in the changing layer must reinvest each time the landscape shifts; a person who invests in the persistent layer carries it into each new technology.
+
+#### Persistent principles applied to a changing landscape (2024)
+
+In July 2024 Koe formulates the same distinction as a general principle: "I'm a fan of basing your success on persistent principles applied to the modern landscape, which will continue to change. Writing, speaking, persuasion, entrepreneurship, creativity: these are things that have been around since the first two humans came into contact with each other, and that means you should bank on them for your success, but apply them to the technology that continues to change. That's how you stay on top: you apply the deep generalized principles of reality and move forward with things like graphic design or email; you learn the skills that come up, and then eventually AI, or just technology in general, helps you do those things faster."
+
+**Source:** Learn This Skill If You Want To Be Relevant In 10 Years.md (2024-07-13)
+
+The coined phrase **persistent principles** generalizes the evergreen skills. The list now includes entrepreneurship and creativity alongside the communicative skills, and the criterion of selection is explicit: what has existed "since the first two humans came into contact" will continue to exist, whatever the technology. The sentence also contains the first explicit placement of AI in the stack: it is a technology that helps you do the changing tasks faster, not a replacement for the persistent principles. The same video, as Section 35.1 showed, defines agency as the difference between employee and entrepreneur; the persistent principles are what the agentic person banks on.
+
+#### The future-proof skill stack (March–May 2024)
+
+The 2024 version of the stack was prompted by a post by Devon Eriksen, nine months before the conversation that Section 35.1 reconstructed. In March 2024, in "The Future-Proof Skill Stack (How Average People Become Millionaires)," Koe says that Eriksen's post stood out because he had already learned these skills "in a unique way," within his own worldview of starting a creator-based business, "because you are naturally a creator," meaning a creator of value distributed as a content creator, viable as a one-person business with technology. He maps the stack as three pairs:
+
+| Pair | What it covers | Koe's justification |
+|---|---|---|
+| Marketing and sales | Rhetoric, psychology | "If you don't know how to attract and persuade, you will never get what you want, and your only option will be for an employer or the government to give it to you." |
+| Writing and thinking | Logic, research | The ability to communicate the value in your unique mind; the foundation of getting in front of others |
+| Entrepreneurship | Statistics, agency, investment | Taking your future into your own hands, "hunting for my survival," building products you want to see that others care about |
+
+**Source:** The Future-Proof Skill Stack (How Average People Become Millionaires).md (2024-03-24)
+
+The stack is adapted, not invented: its skeleton comes from Eriksen's post, and Koe reinterprets it through his creator model. The justification of marketing and sales is an agency argument: without the ability to attract and persuade, you depend on an employer or the state, which is the dependence that Section 35.2 identified as the enemy of sovereignty. Agency appears inside the stack, under entrepreneurship, as one of the competences it covers; two years later, it will move to the top of the hierarchy.
+
+Koe then explains how the three pairs interlock. With entrepreneurship as your vessel, "you set the scene for true education and sovereignty." With writing and thinking, you continuously create, test and iterate on your value: "social media, as an example, is a testing ground for ideas." Both require practical psychology (marketing and sales) to understand readers' and customers' minds, so that your creations are actually valuable. "You then persuade, not force or deceive, to inspire people to care about the value you have to offer." These skills, he adds, are the foundation of Cortex University, "my school for becoming a synthesizer in 60 days."
+
+**Source:** The Future-Proof Skill Stack (How Average People Become Millionaires).md (2024-03-24)
+
+The interlock gives each pair a role in a single process: entrepreneurship sets the stage (the context in which one can educate oneself and be sovereign), writing produces and tests the value (with social media as a laboratory, as in Chapter 24.5's "a tweet is the new MVP"), psychology calibrates it to real minds, and persuasion delivers it. The parenthesis "not force or deceive" fixes the ethical boundary that the mutual-fund metaphor left implicit.
+
+In the same video Koe adds the changing layer, which he now calls **technical know-how**: social media, building a name as "your storefront for the value you create, the command center for your business"; content, writing or video to educate, entertain and inspire people to see your value; email marketing, newsletters or sequences to nurture the audience; visual design, to illustrate the vibe of your brand and spark emotion; and funnel building, landing pages and websites fueled by content and email. Technical know-how is "how you apply the future-proof skill stack," and "these can change and will change with time." He cites Sam Altman: coding will still be around but may take a completely different shape, perhaps not the same language, perhaps written freely, but "the ability to think through problems is still going to persist." The conclusion is to balance creative work and specific work: specific domain knowledge to understand the inner workings, plus creativity to adapt and change course.
+
+**Source:** The Future-Proof Skill Stack (How Average People Become Millionaires).md (2024-03-24)
+
+A week later, in "Working Hard Won't Make You Rich (Do This Instead)," the video that also presented the seven traits of the Irreplaceable individual (Section 35.2), Koe connects the two. He lists the future-proof stack as five items ("writing, thinking, marketing, sales and entrepreneurship") and says that this video focuses instead on "the internal traits that you need to cultivate rather than the external skills that you need to acquire." The skills are "the result and balance of those traits"; the two "go hand in hand." If you do not have the traits, "you're not going to be able to deploy those skills or even learn them in the first place or stick with the process."
+
+**Source:** Working Hard Won't Make You Rich (Do This Instead).md (2024-03-31)
+
+This sentence is the hinge of the whole section. It states, in March 2024, the principle that the 2026 hierarchy will make structural: traits come before skills. Agency, self-reliance and self-education are not additional skills in the stack but the conditions for acquiring and using any skill.
+
+In the same video Koe diagnoses the anxiety about skills: "There is a path to get what you want; you just lack the knowledge, skill and awareness to forge that path; you just lack creativity." You worry about which skills will be relevant twenty years from now "because you are dependent on everyone else but yourself for your success." Successful people "aren't worried, because they understand what makes a person successful."
+
+**Source:** Working Hard Won't Make You Rich (Do This Instead).md (2024-03-31)
+
+Here "creativity" is used in a specific sense, equivalent to the knowledge, skill and awareness to forge one's own path. The diagnosis anticipates, by almost two years, the "opportunity paralysis" of Section 35.3: the anxiety about choosing the right skill is a symptom of dependence. A person who expects someone else to employ their skill must guess which skill others will want; a person who will use their skills toward their own vision chooses by the vision.
+
+Two months later, in May 2024, Koe restated both points in "How Smart Creatives Work Less & Earn More LEVERAGE": "You're worried about what career skills to learn that will be relevant in 20 years because you are focused on the viability of the skill, not the vision." To secure your future you need "a foundational skill stack," and he repeats the three pairs with their justifications (marketing and sales as attraction and persuasion; writing and thinking as "the ability to communicate the value in your unique mind" and "the foundation of getting in front of other people"; entrepreneurship as "the process of taking your future into your own hands, hunting for your survival, and building products that you want to see in the world that others care about"). And he adds the pairing that completes it: "When you pair this foundational skill stack with the interests and skills that you have to learn as you are creating your vision, you become unstoppable."
+
+**Source:** How Smart Creatives Work Less & Earn More LEVERAGE.md (2024-05-26)
+
+The phrase **the viability of the skill, not the vision** compresses the argument. Choosing skills by their market viability makes you dependent on the market's forecast; choosing them by your vision makes the forecast less important, because the vision determines which skills are needed and can be revised as you learn. The stack is foundational (it serves any vision); the interests and specific skills are added as the vision demands.
+
+The five-item list and the three-pair grouping are the same content arranged differently, a small inconsistency of presentation rather than of substance.
+
+#### The five steps to take control of your future
+
+The body of the March 31, 2024 video turns the stack into a sequence of five steps, each building on the previous one. Koe repeats the accumulating chain as he goes ("after learning to sell and learning to write and becoming an entrepreneur and building distribution is number five"):
+
+1. **Become an entrepreneur**: the only path to full control of time and income.
+2. **Build distribution**: become a one-person media company.
+3. **Learn to write**: the greatest skill of the irreplaceable individual and the foundation of media.
+4. **Learn to sell**: sales equals survival.
+5. **Learn to build**: the technical know-how to create what you want.
+
+**Source:** Working Hard Won't Make You Rich (Do This Instead).md (2024-03-31)
+
+The sequence adds an element absent from the three pairs: **learn to build**, the technical capacity to create one's own products, which is introduced with the "learn to sell, learn to build" quotation discussed in Section 35.2. It also orders the stack. Entrepreneurship comes first, as a decision about one's position, before any skill is learned; distribution comes before writing, which is surprising until one notices that "build distribution" names the goal (a media company of one) that writing then serves.
+
+#### The micro skill stack and the medium and message (2024–2025)
+
+For beginners, Koe compresses the stack further. In a September 2024 guide, "The Fastest Way To Build A One-Person Business (Beginner Guide)," he says that to start making income you need two things: a traffic source and a product or service to sell. "The two skills that simplify that process are writing and sales, and if you combine the two together you get persuasion," building on his earlier video "Master persuasion with four frameworks," where "everything's persuasion." Writing is accessible: you need no design or video experience; "you don't even need to write well, you just need to write with impact." "All social media content starts with writing, yes, even video scripts": if you write persuasively, you will speak and make videos persuasively, and you can put writing into designs for Instagram. "Ask anyone that you respect in the social media space and they will say that they write every single day. I don't care if you're not a writer, you are now if you're building a business."
+
+**Source:** The Fastest Way To Build A One-Person Business (Beginner Guide).md (2024-09-15)
+
+The **micro skill stack** maps two skills onto the two components of the minimal business of Chapter 28.5 (audience plus product): writing generates traffic, sales converts it, and their combination is persuasion. It is the smallest version of the stack that still produces income, and it explains why Part VIII treats writing as the base skill.
+
+In February 2025, in "How To Thrive With Multiple Interests," Koe reorganizes the communicative skills around the old pair of "medium" and "message." To attract people to your interests and creative work, "you need a medium and a message." "Writing and speaking are the medium": you write posts, threads, newsletters, products, ads, emails and articles, or speak to a camera. "Psychology, marketing, sales and persuasion help form your message": you need "to write or speak in a way that captures attention, articulates value and builds trust." He refers to his "futureproof skill stack" and "$1 million skill stack" videos, and to the Writer's Bootcamp, a quarterly cohort he ran for Cortex on turning one idea into seven days of content.
+
+**Source:** How To Thrive With Multiple Interests.md (2025-02-23)
+
+The 2025 framework is a clarification of the 2023 one. In January 2023 "message" and "medium" were two of three evergreen skills; in February 2025 the four communicative skills are sorted into them, with writing and speaking as the medium and the psychology-based skills as the message. The three verbs of the message ("captures attention, articulates value and builds trust") summarize Chapters 23, 31 and 27 respectively.
+
+#### The post-AI skill hierarchy (2026)
+
+By 2025 the premise of the earlier stacks had begun to change. In the February 2025 video Koe states: "Intelligence is no longer a differentiating resource. AI models continue to get better and better while the price of those models gets closer and closer to zero. Everyone has all the answers they could ever need, and yet 99% of people don't realize or utilize it, because intelligence has proven to be a poor resource in isolation. There's more to the story of success."
+
+**Source:** How To Thrive With Multiple Interests.md (2025-02-23)
+
+The argument reproduces, at the level of the economy, Eriksen's argument at the level of the individual. Eriksen said that among people, intelligence is necessary but not sufficient; Koe says that now that machines supply intelligence at almost no cost, intelligence has become abundant and therefore cannot differentiate anyone. The phrase **a poor resource in isolation** is the key: intelligence still matters, but only combined with what AI does not supply. The "99%" figure is rhetorical, not measured. The statement belongs to a sequence in Koe's thinking about what is scarce: information in 2022, ideas and attention in 2023–2024, then taste and finally meaning in 2025–2026, each becoming the new "currency" as the previous one is cheapened (Chapter 36.6 develops the meaning economy).
+
+In August 2025 Koe named the next layer. Against the objection that AI will generate "slop" and turn the internet into a wasteland ("the dead internet is accelerating," he says, referring to his own video on the topic), he answers: "The internet's been dead for a while now, AI or not, and there's still very much a living internet." To be on the living side, "taste is the new intelligence."
+
+**Source:** You Have About 36 Months To Make It.md (2025-08-17)
+
+**Complementary context:** the "dead internet theory" is an online idea, circulating since around 2021, that much of the internet's content and activity is produced by bots and automated systems rather than by people. Koe accepts the observation but rejects the pessimistic conclusion.
+
+**Taste is the new intelligence** means that when anyone can generate content, the scarce capacity is judging which content deserves to exist: choosing, curating and refining. Chapter 18.5 develops taste in full; here it matters as the second level of the hierarchy below.
+
+A third element of the 2026 synthesis comes again from Eriksen. In the December 2024 conversation he coined a term: "our research into artificial intelligence has actually discovered **natural stupidity**," because it revealed that "a lot of people are only functioning on the level of ChatGPT," "either because they're dumb or because that's how we've educated them." "We have created an education system that makes human beings into single-purpose tools, and then we feel threatened when we can build computer single-purpose tools." But humans "did not evolve to be single-purpose tools; we evolved to be navigators of an ever-changing environment." The remedy, he says, is to recapture that ability: "stop looking to our society and to our so-called leaders for what we're going to do next," take responsibility for our own lives, and ask what I need to learn, what I need to do, what my goals are and what is important to me. Then AI will not feel so threatening, because AI cannot do any of that.
+
+**Source:** The Most Important Skill To Learn In The Next 10 Years With Devon Eriksen.md (2024-12-08)
+
+"Natural stupidity" inverts "artificial intelligence" to make a point about education rather than about machines. The threat that people feel from AI, on Eriksen's account, measures how far schooling has reduced them to the kind of task a machine can perform. The questions he lists (what to learn, what to do, what my goals are, what matters to me) are the questions of agency, and they are precisely what a single-purpose tool cannot ask. **Navigators of an ever-changing environment** is the positive term: the human is defined not by a function but by the capacity to steer in changing conditions, the cybernetic definition of intelligence in Chapter 6.4.
+
+In August 2026, in a video on strategic thinking, Koe opens a principle with a quotation attributed in the transcript to "Devin Erickson," almost certainly the same Eriksen: "Worry less about which career skills AI will take over and more about whether you are training to be, and training your kids to be, high-agency, perceptive, self-motivated people who can navigate an unknowable future with an adaptable mind."
+
+**Source:** The Art of Strategic Thinking (How to Become Wildly Successful at Anything You Do).md (2026-08-19)
+
+The quotation turns the question of the uncertainty clip in Section 35.3 ("nobody has any idea what to teach young people") into an answer. If the future is unknowable, train the traits that navigate unknowable futures. The list (high agency, perception, self-motivation, adaptability) is a list of traits, not of skills.
+
+#### Agency at the top: the five levels of the post-AI hierarchy
+
+With these premises in place, Koe presented in February 2026 a new stack that he explicitly describes as a different kind of object. In "The Future Of Work (& The New High-Income Skill Stack)," he says that he previously listed marketing, sales, writing and speaking, and now abstracts higher: "this is more of a skill hierarchy than it is just a list of skills." These are not career-specific skills, because "you aren't going into a specific career"; they are human skills, "uncovering what your nature is and how to lean more into it." The order is deliberate: the skills are "umbrelled under one another, and one comes before the other."
+
+**Source:** The Future Of Work (& The New High-Income Skill Stack).md (2026-02-12)
+
+| Level | Skill | Role in the hierarchy | Where developed |
+|---|---|---|---|
+| 1 | Agency | The meta-skill: "the ability to act without permission or prompting"; allows all the others to develop | Section 35.1 |
+| 2 | Taste | Judgment about what deserves to be made; "taste is the new intelligence" | Chapter 18.5 |
+| 3 | Perspective | The unique vantage point from which one sees problems and solutions | Chapters 3.3, 18.3, 27.5 |
+| 4 | Persuasion | Communicating value so that others care; absorbs writing, speaking, marketing and sales | Chapter 32 |
+| 5 | Technical know-how | "The vessel for how you're doing what you're doing"; currently mostly AI tools | Chapter 36.5 |
+
+The source details each level in successive passages; the definitions of agency and technical know-how are quoted from those passages, while the roles assigned to taste, perspective and persuasion in the table summarize how the corpus uses those terms elsewhere, since this chapter's material contains only the list and the order for them.
+
+On the fifth level, Koe says that technical know-how means using the tools available: "the vessel for how you're doing what you're doing," the practical thing to start from the ground up. Right now that means mostly AI tools; he suggests trying Claude, ChatGPT, Claude Code, Manus and others. The passage then becomes a promotion for Eden, his own product: a drive that handles busy work so that you can focus on creative work, where you store files, footage and videos, paste social links to be transcribed, and ask an agent, for example, to pull all of his YouTube videos into a research document, with "projects" for writing a newsletter with sources (comparable, he says, to NotebookLM, but all in one place). His claimed differentiator is that other tools lack the drive foundation needed for team sharing, compared with dragging, copying and pasting files or connecting local files or Google Drive to Claude.
+
+**Source:** The Future Of Work (& The New High-Income Skill Stack).md (2026-02-12)
+
+The promotional content is part of the source and is reported as such: it illustrates what Koe means by technical know-how in 2026, and it also shows that the author's recommendations at this level coincide with a product he sells. The structural point is independent of the promotion: technical know-how is placed last because it is the most changeable and the most dependent on the levels above. Tools change every few years; the human levels persist.
+
+Placing the hierarchy beside the earlier stacks shows what it absorbs. The evergreen communicative skills (writing, speaking, marketing, sales) are contained in "persuasion." The results-oriented skills and technical know-how of 2023–2024 are contained in level 5. Entrepreneurship and agency, which in 2024 were one pair among three, with agency listed only as one of its competences, become level 1. And two levels appear that the earlier stacks lacked as named skills: taste and perspective, the capacities to judge what to make and to see from where one stands. The hierarchy completes the movement that the March 2024 hinge sentence announced ("the skills are the result and balance of those traits"): the traits now sit inside the stack, at its top.
+
+Two qualifications from later in 2026 should be read alongside it. In June 2026, as Section 35.1 showed, Koe called "high agency" a buzzword and said that agency is "not the only one thing," listing five ingredients (agency, taste, persuasion, persistence and iteration) that cannot be learned from a video but only by doing one's own thing. The five ingredients overlap with the hierarchy (agency, taste and persuasion appear in both) but replace perspective and technical know-how with persistence and iteration, and they are presented as a list rather than an ordered hierarchy. The corpus does not say whether the five ingredients replace the hierarchy or complement it; read together, the hierarchy says what to develop and in which order, and the ingredients say what sustains the development over time. And in July 2026, Koe began to call "human nature" the meta-skill that never goes out of fashion, a further abstraction whose development belongs to Chapter 32.
+
+#### Two pillars of becoming futureproof
+
+In a January 2026 video, "How I'd build a one-person business (if I started over in 2026)," Koe states the aim of his whole brand in a form that organizes this chapter and the book. His goal is to help you become **futureproof**, and that rests on two pillars. Pillar one: how do you figure out what you want in life? That is psychology, philosophy and personal development. Pillar two: how do you succeed with that in today's world? That is skill acquisition, business, technology and now AI. Previously, he says, pillar two, especially for one person, was largely handled by a personal brand plus an information product or coaching ("kind of the same thing, just one is one-on-one, the other is mass scale"), and the information product could evolve by levels: a simple ebook, then a course, then a cohort, then a community.
+
+**Source:** How I'd build a one-person business (if I started over in 2026).md (2026-01-03)
+
+The two pillars correspond to the two halves of this book: Parts I–IV and XIV address the first (what one wants, who one is), Parts V–XII the second (how to achieve it in the present world). Agency sits at the junction. It is the capacity that turns the answer to the first question into action in the world of the second. The remark that pillar two was "previously" handled by personal brand plus information product signals that, in 2026, Koe sees the second pillar changing under AI, which is the subject of Chapter 36.
+
+#### How the stack changed, and what stayed constant
+
+The following table summarizes the successive versions reconstructed in this section.
+
+| Date | Name | Components | What it adds |
+|---|---|---|---|
+| Jan 2023 | $1M skill stack | Evergreen skills (message, medium, result-oriented skill) + personal interests + direct experience + internet → "you," irreplaceable | Stacking as layers: profitability, individuality, nuance |
+| Feb 2023 | Digital Renaissance graphic | Modern skills + evergreen skills (marketing, sales, writing, speaking) + life experience + personal interests → profitable problem → irreplaceable solution | A target (the profitable problem); evergreen redefined as psychology-based communication |
+| Aug–Dec 2023 | Meta skills | Code and content; under them results-oriented skills, evergreen skills, personal interests | "Code is the vessel for content"; meta skills as umbrella for skills that change every ten years |
+| Mar–May 2024 | Future-proof skill stack | Marketing and sales; writing and thinking; entrepreneurship (with agency as one competence); plus technical know-how; or five steps (entrepreneur, distribution, write, sell, build) | Adapted from Eriksen; skills as "the result and balance" of internal traits |
+| Jul 2024 | Persistent principles | Writing, speaking, persuasion, entrepreneurship, creativity, applied to changing technology | The criterion of persistence ("since the first two humans") |
+| Sep 2024 | Micro skill stack | Writing + sales = persuasion | Minimum viable stack for traffic and product |
+| Feb 2025 | Medium and message | Writing and speaking (medium); psychology, marketing, sales, persuasion (message) | Sorting communicative skills by function |
+| Feb 2026 | Post-AI skill hierarchy | Agency → taste → perspective → persuasion → technical know-how | Ordered hierarchy of human skills; agency at the top |
+| Jun 2026 | Five ingredients | Agency, taste, persuasion, persistence, iteration | Learned only by doing one's own thing |
+
+Koe gives reasons for the changes at different moments. In 2024 he explained that skills are "the result and balance" of traits; in the same year he argued that persistent principles outlast changing technologies, and that AI takes over the technical layer, which changes every few years; in 2026 he argued that one is no longer preparing for a specific career. The change is best described as a refinement: the emphasis moves from external, market-oriented skills to traits and judgment not tied to any career. The two kinds of list can coexist. The earlier stacks say what to learn; the later hierarchy says which capacities make it possible to learn and deploy it, and it explicitly contains the earlier evergreen skills (in persuasion) and the results-oriented skills (in technical know-how).
+
+Several things remain constant across all versions. First, the stack is always combined with personal interests or perspective, the element that makes each person's version different and connects the stack to Chapter 19. Second, communication with humans through writing, speech and persuasion appears in every version, and it is always ranked above the technical layer. Third, the technical layer is always described as changeable, the "vessel" that must be relearned as the landscape shifts. Fourth, from 2024 onward, the stack is always subordinated to the person who deploys it: traits before skills, vision before viability. The 2026 hierarchy is the formal expression of that fourth constant. Agency, which this chapter began by defining as the refusal to let society set one's direction, ends at the top of the list of what to learn, because without it the rest of the list would be learned for someone else's purposes.
+
+### Exercises
+
+1. **Mapping your own conformity.** Koe argues that whatever your survival depends on, material or conceptual, becomes a domain of low agency. List the three domains of your life in which you depend most on someone else's approval or income (a job, a group, a belief system, a platform). For each, distinguish what you do as *mechanical conformity* from what you do as *conformity used as a tool* for a goal you chose. What evidence would tell you which category a given behavior belongs to?
+
+2. **Easy, impossible, hard.** Write down five goals you have abandoned or never started. Classify each using Eriksen's definition of "impossible" (you do not know how to close the distance) and then using Koe's 2025 definition ("outside the laws of physics"). How many move from impossible to hard when you switch definitions? For one of them, design a sequence of steps in the manner of Eriksen's weight plates, each only slightly beyond your present capacity, and identify the first step you could take this week.
+
+3. **Acting versus iterating.** Koe redefines agency from "the ability to act without permission" to "the ability to iterate without permission." Choose a project you started and quit. Reconstruct the moment you stopped: what failed, how you interpreted the failure, and what "comforting conformity" you returned to. Then explain what a single iteration (reflect, adjust, retry) would have looked like at that moment. Does the redefinition capture something the original definition missed, or does it only add a demand?
+
+4. **Weighing the intelligence debate.** Eriksen holds that IQ-type intelligence is biological and fixed while agency can be taught; Koe defines intelligence more broadly and, in December 2025, restores it as one of three ingredients of success alongside agency and opportunity. Construct the strongest version of each position, identify which disagreement is about facts and which is about definitions, and explain what practical difference it would make, for how you raise a child or train yourself, to adopt one view rather than the other.
+
+5. **Questioning "nobody is coming to save you."** The principle that you must take responsibility for "digging yourself out of the hole," and the catastrophe-cycle argument about people who are broke, both locate the decisive variable in the individual. Identify a situation in which this framing is useful and one in which it would mislead a person or overlook something important. Which features of the situation make the difference? Does Koe's own three-ingredient formula (agency, opportunity, intelligence) help you draw the line?
+
+6. **Opening the aperture.** Apply Sahil Bloom's method to one ordinary day. On a blank sheet, list every point of friction you notice in your own life and in the lives of people around you, without proposing any solution, until you have at least fifteen. Then choose the one that seems most solvable and describe its "kink in the hose," the single limiting factor. Finally, consider whether your solution could be passed on to others, and in what form.
+
+7. **Auditing your skill stack.** Take the 2026 hierarchy (agency → taste → perspective → persuasion → technical know-how) and the 2024 future-proof stack (marketing and sales; writing and thinking; entrepreneurship). For each level or pair, assess where you stand and what evidence supports your assessment. Then identify where your current learning effort actually goes. Are you, in Koe's phrase, choosing skills by "the viability of the skill, not the vision"? Defend or revise the allocation.
+
+8. **Is the creator path a dogma?** Koe asks himself whether "become a creator" has become a dogma, and answers that "anyone ambitious can." Write the objection in its strongest form, using Koe's own criticism of business ideologies and copied models, and then the best reply available from this chapter (the sovereignty triad, the value-creator path, the argument from *Purpose and Profit*). Under what conditions, for what kind of person or at what moment, would the creator path stop being the best application of agency?
