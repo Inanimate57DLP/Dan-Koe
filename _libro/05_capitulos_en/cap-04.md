@@ -692,7 +692,7 @@ The last unit places the beginning of the stack in college (**Fuente:** `I'm 28.
 
 The label "shiny object syndrome" (the habit of jumping from one interest or project to the next) is used by Koe in incompatible ways, and the reader should see the range.
 
-| Date | Use of the label | Fuente |
+| Date | Use of the label | Source file |
 |---|---|---|
 | 2022-06 | "People warn against it, but I've never seen it be the case"; try everything | `7 Lessons From 7 Failed Online Businesses…` |
 | 2023-01 | Feared at first; then distinguished into good and bad kinds; "bursts of obsession" | `The $1 Million Dollar Skill Stack…` |
