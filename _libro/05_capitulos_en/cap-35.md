@@ -635,3 +635,99 @@ The corpus contains an earlier and more provocative line that sums up the politi
 The sentence is an opinion stated without development, and its meaning depends on what "society" refers to. In the context of the NPC argument, the most plausible reading is that "society" means the system of default paths and institutions described in Chapter 2, which depends on people relying on it, and that a person who does not rely on it is "dangerous" to that system because it cannot direct them. It is not presented as a call to harm anyone. The sovereignty triad, with its rejection of both the predator and the doormat, makes clear that independence from the system's direction is compatible with, and in Koe's view tends toward, benefiting others.
 
 Elsewhere in the corpus (Chapter 39.5), Koe adds a further qualification that bears on how to read this section: absolute freedom is "synonymous with absolute chaos," and what people want is autonomy, the freedom to create their own rules and structure. Sovereignty in the sense of this section is that autonomy: not the absence of structure but the authorship of it.
+
+### 35.3 Problems Are Everywhere
+
+Agency, as Section 35.1 established, is the disposition to identify problems and solve them without permission. Self-reliance, as Section 35.2 showed, requires perceiving one's situation as a problem. This section describes the terrain on which both are exercised. Koe's claim is that the present environment is not short of problems or opportunities; it has too many. The abundance creates its own pathology, and agency is the response to it.
+
+#### From overwhelm to opportunity paralysis
+
+In February 2023, in a video on networking, Koe describes a historical inversion. In the past, people "had to work their ass off" to get the few opportunities available. Now there is "an overabundance of opportunities and options that make people overwhelmed, uncertain," so they flock to what he calls **secure career systems**, the career paths developed over time to which schools are tightly connected. Meanwhile, he says, opportunities are everywhere: the person in the comments needs a website, the tweet you scrolled past is from someone who needs a video editor, the person on a subreddit wants to learn how to be happy. The internet gives "indirect access to the 4.9 billion people that are on it."
+
+**Source:** The Non-Needy Networking Process (How To Make High Value Connections).md (2023-02-12)
+
+The argument explains why abundance can reduce action. When options are scarce, the decision is made for you by what is available; when they are abundant, choosing requires criteria, and a person without their own goal has no criteria. The secure career system offers a ready-made choice, so it relieves the overwhelm at the cost of agency. This is the same mechanism as the assigned goal of Chapter 1, now seen as a refuge from too much freedom. The three examples (website, video editor, happiness) are deliberately mundane: problems that others express publicly every day and that a person with the relevant skill could solve.
+
+**Complementary context:** the figure of 4.9 billion internet users is Koe's figure for 2023; it roughly matches the estimates published by the International Telecommunication Union for 2021–2022.
+
+By July 2026 Koe had given the same phenomenon a sharper name. "Nobody knows what skill to learn right now": AI? Coding? Marketing? Is school a waste "while everyone else is vibe coding apps they'll never get traction on"? YouTube? Substack? A job or your own thing? "Since there is so much opportunity, it just paralyzes more people than ever into not doing anything, because you feel like if you start learning one thing it'll just become irrelevant in one to two years."
+
+**Source:** Learn This Skill If You Want To Win In The Next 2-3 Years.md (2026-07-05)
+
+The coined term **opportunity paralysis** names this condition. It differs from the 2023 overwhelm in its cause. In 2023 the problem was too many options; in 2026 it is too many options combined with the fear of rapid obsolescence. The person does not choose because every choice seems likely to be wasted. The aside about "vibe coding apps they'll never get traction on" refers to the use of AI to build software; Koe elsewhere defends the tool and criticizes its use without distribution, taste or persistence, so the remark targets building without the other ingredients, not the tool itself (Chapter 36.5).
+
+The diagnosis connects to the beginning of this chapter. Section 35.1 opened with Koe's December 2025 prediction that "most skills will be irrelevant in 10 to 20 years" and with his answer: the high-agency person is not dependent on a specific skill, because they can learn whatever their vision requires. Opportunity paralysis is the state of someone who has accepted the prediction without the answer. If security lies in choosing the right skill, and no skill is safe, then no choice is possible. If security lies in the capacity to learn whatever is needed, then the choice of a first skill matters much less, because it will not be the last.
+
+#### "This time it's real": the uncertainty premise
+
+Koe frames part of his argument with a premise he takes from someone else. In a July 2024 video, "The Future Of Work (Avoid Learning These Skills)," he inserts a clip of a speaker who is not named in the transcript. The speaker says that this generation is undergoing a more rapid change of its technological environment than any before; "every generation thinks like that, but this time it's real"; "it's the first time in human history that nobody has any idea how the world would look like in 20 years. Today nobody has any idea what to teach young people that will still be relevant in 20 years." Koe then announces "these next three things" that will benefit your future.
+
+**Source:** The Future Of Work (Avoid Learning These Skills).md (2024-07-28)
+
+**Complementary context:** the content of the clip matches a position the historian Yuval Noah Harari has stated in books and talks (for example in *21 Lessons for the 21st Century*, 2018): that nobody knows what the job market will look like in a few decades and therefore what to teach children. The transcript does not name the speaker, so the attribution remains uncertain. Elsewhere in the corpus, Devon Eriksen explicitly rebuts the Harari position, arguing that education should teach people to teach themselves.
+
+The clip functions as a premise that Koe accepts and then answers. If nobody knows which specific skills will be relevant in 20 years, the answer cannot be a specific skill. Koe's answers across the corpus are the ones this chapter collects: agency (Section 35.1), the self-traits of the irreplaceable individual (Section 35.2), and skills defined at the level of persistent principles rather than tools (Section 35.5). The premise is therefore not a reason for paralysis but a reason to change what one learns.
+
+#### Hidden opportunities and the irrational reaction to loss
+
+Two smaller arguments complete Koe's picture of the terrain.
+
+The first concerns opportunities hidden by language. In July 2025, in a video on strategic thinking, he observes: "You see young kids all the time in the digital world, on the internet, making a ton of money because, one, they speak English, or they just saw the opportunity, and this opportunity wasn't available to older generations." If you are unaware of this, you will not have those opportunities. Koe speaks English and "a little bit of Spanish," and he is "sure that within each language there are these opportunities that are just hidden there." "If you don't know what to do with your life, or you just feel like there aren't a lot of opportunities, learning English may be a good place to start in just getting immersed in the digital world to notice more opportunities." He acknowledges that this is "a large task."
+
+**Source:** This mental model will make you think like a strategic genius.md (2025-07-20)
+
+The example illustrates "ideas beget behavior" from Section 35.2: an opportunity that is not perceived cannot be acted upon, and language is one of the filters that determine what is perceived. Learning English is offered not as a guarantee but as a way of enlarging the field of perception. The advice is tentative ("may be a good place to start"), and Koe's own acknowledgement of other languages' hidden opportunities suggests that the principle is about immersion in a larger information environment rather than about English as such.
+
+The second argument concerns the reaction to the end of an old way of life. In August 2025, in "You Have About 36 Months To Make It," Koe tells a story about his little brother. His brother never played a certain video game, but the moment Koe picked it up, he went insane: "Get out of my room. Give me my game back." That, Koe says, is what is happening as **industrial living** goes away: we have hated it for decades, and yet when it is taken away we react like the brother, "except you're just being irrational," lacking the clarity or agency to find a new path. His summary: "Zoom in and it's scary. Zoom out and it's wonderful."
+
+**Source:** You Have About 36 Months To Make It.md (2025-08-17)
+
+The anecdote is an analogy for loss aversion: what one did not value becomes valuable at the moment of loss. The "zoom" vocabulary comes from Chapter 6.3. At the zoomed-in level, the disappearance of entry-level jobs and familiar career paths is threatening; at the zoomed-out level, the end of work that people disliked for decades is an opening. The anecdote does not deny the fear; it asks the reader to notice that the fear is directed at the loss of something they did not want.
+
+#### Urgency as the moment to change
+
+In the same August 2025 video Koe states what to do with the pressure. There are two options: sit back and do nothing, which is obviously not good, or "use this moment of urgency as a time to turn your life around, because that's when you turn your life around the most, when you're under pressure." Changing your life, he adds, does not mean packing up, moving across the country and so on. It requires thinking about your work, thinking in general, pursuing something you care about, taking risks, creating a story worth telling and sharing it with those who can benefit. And he closes with a sentence that sums up the historical argument of this section: "Everything that created the good life in the past is now becoming a requirement."
+
+**Source:** You Have About 36 Months To Make It.md (2025-08-17)
+
+The final sentence is a compressed thesis about the economy of the individual. In the industrial era, a good life could be built on someone else's structure; thinking for oneself, pursuing one's interests, taking risks and telling one's story were optional enrichments, available to those who wanted more. Koe's claim is that these are now the minimum for remaining relevant. The sentence also explains why agency appears in this chapter, at the end of the practical part of the book: the habits that the earlier chapters presented as routes to a better life are, on this reading, becoming conditions for any life of one's own.
+
+The statement that relocation is not required contrasts with other passages of the corpus, where Koe recommends extreme measures: a "war mode" in which one signs an unaffordable lease or flies across the country, burning the boats to force change (Chapter 10.6 discusses tactical stress). Koe does not resolve the two registers. He alternates between gradual and extreme approaches to change throughout the corpus, and he gives reasons for each at different times: his preference for extremes is personal; pressure tactics carry more risk at lower levels of awareness; and in August 2025, the urgency of the historical moment already provides the pressure, so it does not need to be manufactured. The last reason is the one that applies here. The catastrophe cycle of Section 35.2 described people who waste the urgency that a crisis provides; this passage asks the reader to use the urgency that the present moment provides.
+
+#### Exercising agency: identify, then solve
+
+The corpus also contains a method for exercising agency on problems once the terrain is seen. It comes from a January 2025 conversation with Sahil Bloom, author of *The 5 Types of Wealth* and *The Time Billionaire*.
+
+Koe introduces it with a story. His co-founder Matt had noted that the early hires at their company (mostly referrals, "ten engineers he wanted to get on") were "extremely high agency," which sent Koe down "the rabbit hole of what agency is, why it's so important, especially going into the future of AI." His conclusion was that agency is about "solving problems... in any area of your life, not even entrepreneurship, like time, social, physical, financial, mental," the five types of wealth in Bloom's framework. "They're just scattered with problems... whenever you notice boredom, anxiety, overwhelm, stress, all of these different things, it's an opportunity to create a solution for yourself, which could then be... passed on to other people or your family or your friends. And that feeling of exchange, whether it's for money or not, is such a rewarding thing."
+
+**Source:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md (2025-01-30)
+
+Two moves in this passage extend the concept of agency. The first removes it from business: agency applies to every domain of life, not only to entrepreneurship. The second turns negative emotional states into signals. Boredom, anxiety, overwhelm and stress are not only discomforts to be managed; they indicate a problem, and each problem is an occasion for a solution. This is the reading of boredom and anxiety as feedback in Chapter 10.5 (they signal that challenge and skill are out of balance) generalized to all areas of life. The final sentence connects to Chapter 28.2: a solution created for oneself can be "passed on," and the "feeling of exchange" is rewarding whether or not money is involved. Solving your own problems and selling (or giving) the solution is, in this account, the natural extension of agency.
+
+Bloom then gives the method, and it is his, not Koe's. To identify problems, use "blank sheet exercises and walking through your day with an eye towards things that created friction in your life or in others' lives." The key rule is to identify first and not to solve yet. The common error, Bloom says, is that "you get into this tendency of, like, okay, I found one, let me try to come up with a solution, when really, like, let me just open the aperture, see all the problems I can identify, and then I can pick the problem that I feel like is most solvable. If you go down the rabbit hole on the first problem you find, you close your eyes to seeing the problem that you actually might be able to solve more efficiently or effectively."
+
+**Source:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md (2025-01-30)
+
+The photographic metaphor **open the aperture** describes widening the field of view before focusing. It is a deliberate separation of two phases that the mind tends to merge: divergent identification and convergent solution. The rule protects against a specific error: the first problem found is not necessarily the most solvable, and committing to it early closes off the comparison. It parallels the zoom-out/zoom-in sequence of Chapter 6.3, applied to problem selection.
+
+Once a problem is chosen, Bloom describes solving it as "figuring out... what is the limiting factor in that situation. Like when you identify a problem, usually it's that, okay, there's some sort of bottleneck or some sort of issue or some sort of kink in the hose that's not allowing this thing to work in the way that it should. And is there a way that I can actually undo that kink? Like, is that hose bent and I can actually just straighten it out?" He calls this "a deconstructed way" of thinking about problems.
+
+**Source:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md (2025-01-30)
+
+The **kink in the hose** is a metaphor for the limiting factor: the water pressure is there, the hose is there, the destination is there, and a single bend stops the flow. Straightening the bend restores everything without adding anything. The metaphor implies a method: look for the one constraint whose removal releases the most, rather than adding effort everywhere. It is the same concept as Eriksen's "bottleneck" in Section 35.1, applied at the level of an individual problem rather than of success in general. In Eriksen's analysis, the kink in the hose of a highly intelligent person's career is usually agency.
+
+The complete method, combining Bloom's two steps with Koe's framing, can be summarized as follows:
+
+| Step | Action | Error it prevents |
+|---|---|---|
+| Notice | Treat boredom, anxiety, overwhelm and stress, in any area of life, as signals of a problem | Treating negative states as mere discomfort |
+| Identify (open the aperture) | Blank sheet; walk through the day noting friction in your life and in others' lives; do not solve yet | Committing to the first problem found |
+| Select | Choose the problem that seems most solvable | Choosing by salience rather than tractability |
+| Solve (find the kink) | Locate the limiting factor and remove it | Adding effort everywhere instead of at the constraint |
+| Pass on | Share the solution with others, for money or not | Keeping a solution that could create value for others |
+
+Koe had stated the stakes of this method six months earlier, in July 2024, right after describing his high-agency team: "In your own life, if you want to stay relevant in the coming years, you can't depend on anybody for your security. Problems will always exist. If you can't spot them, you lose. If you can't give yourself permission to solve them, you lose."
+
+**Source:** Learn This Skill If You Want To Be Relevant In 10 Years.md (2024-07-13)
+
+The sentence identifies two distinct failures. The first is perceptual: not spotting problems, which is the low-agency mind that cannot see beyond its assigned goals. The second is volitional: spotting problems but not granting oneself permission to solve them, which is the person who waits to be asked. Bloom's method addresses the first failure; the rest of this chapter addresses the second. And the premise, "problems will always exist," is the same as the December 2024 argument in Section 35.1 ("problems are infinite"). Security, in this account, does not come from having a position that protects you from problems; it comes from the permanent capacity to find and solve them.
