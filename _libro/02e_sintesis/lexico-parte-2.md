@@ -3358,3 +3358,1139 @@ Fuente: `lexico-todo.md`, filas 670–1671 (términos que empiezan por d–l, ig
 - **IDs:** U-022-227
 - **relación:** —
 
+### generator functions
+- **tipo:** término de tercero usado por el autor
+- **definición:** "A deep structural pattern that creates surface level problems": rivalrous dynamics, substrate consumption, exponential technology.
+- **acuñado por:** Daniel Schmachtenberger
+- **fechas:** 2025-09-07 – 2026-04-05
+- **IDs:** U-015-161, U-014-118
+- **relación:** metacrisis.
+
+### genius thinking
+- **tipo:** término acuñado
+- **definición:** Variante "genius thinking / genius level thinking": capacidad de sostener ideas amenazantes en el realm of possibility con intención de entender; capacidad de seguir pensando; claridad, no book smarts.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-07 – 2026-02
+- **IDs:** U-022-043, U-022-053, U-022-072, U-022-084
+- **relación:** deep thinking; synthesizer of truth; alias genius level thinking.
+
+### genuine curiosity
+- **tipo:** término acuñado
+- **definición:** Leer para entender, no para desmontar.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 (única aparición)
+- **IDs:** U-020-005
+- **relación:** intention.
+
+### get eyes on your content
+- **tipo:** término acuñado
+- **definición:** El único principio del crecimiento: poner el contenido frente a gente.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-10 – 2024-01
+- **IDs:** U-004-134, U-004-144, U-008-088
+- **relación:** alias eyeballs; eyes and effort.
+
+### get there first with value
+- **tipo:** término de tercero usado por el autor
+- **definición:** Comentar primero y con valor bajo los posts de líderes de opinión.
+- **acuñado por:** Justin Welsh
+- **fechas:** 2021-12 (única aparición)
+- **IDs:** U-005-024
+- **relación:** being underneath large accounts.
+
+### getting paid to be yourself
+- **tipo:** término acuñado
+- **definición:** La meta última del trabajo creativo online.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-10 (única aparición)
+- **IDs:** U-015-051
+- **relación:** be you.
+
+### getting paid to play
+- **tipo:** término de tercero usado por el autor
+- **definición:** Variante "getting paid to play / the art of living": el arte de vivir es que te paguen por jugar.
+- **acuñado por:** Dan Koe (a partir de Watts)
+- **fechas:** 2024-09 (única aparición)
+- **IDs:** U-016-111
+- **relación:** sensible people; the art of living.
+
+### getting the point
+- **tipo:** término acuñado
+- **definición:** Interpretar metafóricamente: las palabras apuntan a algo, no son la cosa.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-11 (única aparición)
+- **IDs:** U-013-118, U-013-122
+- **relación:** metaphorical vs literal.
+
+### ghost writer
+- **tipo:** término acuñado
+- **definición:** Variante "ghost writer (ghost designer, coder, filmmaker)": la IA como quien ensambla mientras uno orquesta.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-02 (única aparición)
+- **IDs:** U-012-130
+- **relación:** orchestrate.
+
+### gift of creation
+- **tipo:** término acuñado
+- **definición:** La capacidad humana de crear, por analogía con "God is a creator".
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-04 (única aparición)
+- **IDs:** U-011-203
+- **relación:** creator.
+
+### give freely
+- **tipo:** término de tercero usado por el autor
+- **definición:** Regalar todo en el contenido, porque el producto vende la agregación.
+- **acuñado por:** Justin Welsh
+- **fechas:** 2021 (única aparición)
+- **IDs:** U-005-039
+- **relación:** aggregation.
+
+### give, give, give
+- **tipo:** término de invitado
+- **definición:** Filosofía de contenido: resolver el problema de alguien y recibir a cambio (2025-01, "give give give").
+- **definición:** Variante "give, give, give / neediness": dar valor gratuito desde el inicio; la necesidad se percibe y empeora el trabajo (2022-06).
+- **acuñado por:** John Hugh (Stan) en la primera acepción; Dan Koe en la segunda
+- **fechas:** 2022-06 – 2025-01
+- **IDs:** U-004-017, U-007-120
+- **relación:** pain points; free work; neediness.
+
+### glitch in the Matrix
+- **tipo:** término acuñado
+- **definición:** Romper la conducta robótica volviéndose consciente de ella y haciendo algo distinto (2022).
+- **definición:** Ruptura deliberada del patrón (eliminar todo de golpe; romper un ciclo) para notar lo que no veías (2022, 2025).
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 – 2025
+- **IDs:** U-023-021, U-019-162, U-023-022
+- **relación:** break the cycle; robotic behavior. Aparece como alias de flip the switch y de distraction lack gravity.
+
+### glitches
+- **tipo:** término acuñado
+- **definición:** Tácticas o tecnologías que fuerzan un channel o rompen mesetas.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-10 (única aparición)
+- **IDs:** U-024-125, U-024-126
+- **relación:** tactical stress; one-shotted. Distinto de glitch in the Matrix.
+
+### global decentralized economy
+- **tipo:** término acuñado
+- **definición:** La economía en la que todos pueden tener un negocio a través de las redes.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-10 (única aparición)
+- **IDs:** U-015-061
+- **relación:** virtual society.
+
+### glorified search engine
+- **tipo:** término acuñado
+- **definición:** Creador que solo da consejos accionables de un tema, sin profundidad ni personalidad (2023–2024).
+- **definición:** Variante "glorified search engine / empty vessel": marca personal atada a un nicho fijo que solo canaliza gente a un funnel (2024-10-06).
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2024-10-06
+- **IDs:** U-027-156, U-006-100, U-010-165, U-012-060, U-015-049
+- **relación:** Book of Knowledge (Vitali); personal brands are no longer personal; empty vessel.
+
+### glue
+- **tipo:** palabra común con sentido propio
+- **definición:** Las habilidades de negocio (escritura, marketing, ventas) que hacen funcionar cualquier modelo.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-013-076
+- **relación:** the skill of making money.
+
+### go all in
+- **tipo:** término acuñado
+- **definición:** Variante "go all in / persistent focused action": primera y segunda de las tres cosas que determinan tu futuro.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-03 (única aparición)
+- **IDs:** U-025-041
+- **relación:** alias persistent focused action.
+
+### go large and broad
+- **tipo:** término acuñado
+- **definición:** Variante "go large and broad / Creator philosophy": top of funnel amplio y grande para ser tú; newsletter y productos crean sub-audiencias de nicho.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-06 (única aparición)
+- **IDs:** U-017-047
+- **relación:** niche sub audiences; you are the niche; Creator philosophy.
+
+### goal
+- **tipo:** palabra común con sentido propio
+- **definición:** Variante "goal (aim, lens, point of view)": "A goal is an aim... a lens from which to make decisions... a point of view", no algo a lograr a toda costa.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025 (todas las filas)
+- **IDs:** U-027-219, U-023-264, U-010-223
+- **relación:** homing mechanism.
+
+### goal striver
+- **tipo:** término de tercero usado por el autor
+- **definición:** Variante "goal striver / goal striving being": el ser humano según Maltz.
+- **acuñado por:** Maxwell Maltz
+- **fechas:** 2023-12 – 2024-11
+- **IDs:** U-020-053, U-021-061
+- **relación:** goal striving machine (vecino: la mente vista como mecanismo, no el ser humano).
+
+### goal striving machine
+- **tipo:** término de tercero usado por el autor
+- **definición:** Variante "goal striving machine / goal-achieving machine": la mente que percibe el mundo para recoger información útil para su meta.
+- **acuñado por:** Maltz, adaptado por Dan Koe
+- **fechas:** 2024-07 – 2025-08
+- **IDs:** U-023-258, U-023-149, U-018-108
+- **relación:** automatic guidance system; alias goal-achieving machine; goal striver.
+
+### goal, path, problem
+- **tipo:** término acuñado
+- **definición:** Componentes universales de una oferta de coaching o consultoría; vender una transformación.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-008-066
+- **relación:** burning problem / outcome / solution; ver desired goal / path / problem y desirable goal / burning problem / clear path (tríadas parecidas).
+
+### goals of your brand
+- **tipo:** término acuñado
+- **definición:** Las metas a las que cada contenido y producto ayuda a llegar; "the bigger the goal, the more people".
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-010-184
+- **relación:** —
+
+### Golden Age of the creator economy
+- **tipo:** término acuñado
+- **definición:** El inicio de YouTube como "peak in authenticity".
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-10 (única aparición)
+- **IDs:** U-015-037
+- **relación:** vecino de Digital Renaissance (otro sentido: aquí es la época de inicio de YouTube).
+
+### golden handcuffs
+- **tipo:** término de tercero usado por el autor
+- **definición:** Variante "golden handcuffs / lifestyle inflation": ganar más pero acumular costos recurrentes que atan al empleo.
+- **acuñado por:** Dickie Bush
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-002-048
+- **relación:** default track.
+
+### golden nugget
+- **tipo:** término acuñado
+- **definición:** Información valiosa recogida al investigar obsesiones; bloque de construcción de newsletters (2022–2024).
+- **definición:** Variante "golden nugget ideas": ideas, anécdotas o estadísticas que provocaron un "wow" o un "aha"; building blocks del contenido (2022, 2024).
+- **definición:** Variante plural "golden nuggets": las ideas que generan entusiasmo al leer y que se anotan (2022).
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 – 2024
+- **IDs:** U-001-074, U-011-116, U-011-099, U-001-060, U-014-034
+- **relación:** 7 Days to Genius Ideas; modern hunting; signal; energy transfer.
+
+### golden rule
+- **tipo:** término acuñado
+- **definición:** Variante "golden rule (cultivate / distribute your value)": "Provide value to others": cultivar el valor (self-development) y distribuirlo mediante un vessel (business).
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-11 (única aparición)
+- **IDs:** U-016-181
+- **relación:** other development; vessel; gateway drug.
+
+### golden zone
+- **tipo:** término acuñado
+- **definición:** Desafío de alrededor del 85% de dificultad.
+- **acuñado por:** Dan Koe (cifra sin fuente)
+- **fechas:** 2025-08 (única aparición)
+- **IDs:** U-016-234
+- **relación:** —
+
+### good dopamine
+- **tipo:** término acuñado
+- **definición:** Fuente inagotable de dopamina al resolver los problemas correctos dentro de una visión y jerarquía (2023-01).
+- **definición:** Dopamina que surge de crear novedad a través del esfuerzo, con altibajos; la que da lo desconocido (2022–2023).
+- **definición:** La dopamina asociada al aprendizaje, opuesta al placer sin acción (2023-11).
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 – 2023-11
+- **IDs:** U-017-071, U-023-039, U-011-079, U-011-143, U-016-206, U-017-119, U-009-127
+- **relación:** antecesor de meaningful / earned dopamine; dopamine dealer.
+
+### good pain / mental bodybuilding
+- **tipo:** término de tercero usado por el autor
+- **definición:** Dolor que deja morir una parte del yo para que crezca otra.
+- **acuñado por:** adaptado de Frank Yang (Freud)
+- **fechas:** 2023-08 (única aparición)
+- **IDs:** U-027-133
+- **relación:** death drive.
+
+### good stress
+- **tipo:** término acuñado
+- **definición:** La presión buena que obliga a aprender las habilidades necesarias.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025 (única aparición)
+- **IDs:** U-016-248
+- **relación:** tactical stress.
+
+### government trained expert
+- **tipo:** término acuñado
+- **definición:** El profesor del sistema escolar ante el que uno se sienta a memorizar.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-01 – 2026-01
+- **IDs:** U-027-239, U-008-179
+- **relación:** new school system.
+
+### gravitational pull
+- **tipo:** término acuñado
+- **definición:** Variante "gravitational pull (reason)": razón tan intensa que no se puede atender otra cosa; no se fuerza y se apaga (2026-05).
+- **definición:** Variante "higher gravitational pull": una razón con más atracción que la que te ata a tus viejas costumbres (2025–2026).
+- **acuñado por:** Dan Koe
+- **fechas:** 2025 – 2026-05
+- **IDs:** U-024-156, U-025-135, U-024-155
+- **relación:** spark to change; reason with extremely high gravitational pull; ver gravity (vecino).
+
+### gravity
+- **tipo:** término acuñado
+- **definición:** Peso que hace que una meta o plan atraiga más que las distracciones; lo aporta un problema percibido o la inversión de energía (2024–2025).
+- **definición:** Variante "gravity (of a goal)": cuanta más energía se invierte en una meta, más te atrae sin esfuerzo (2023-08).
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-08 – 2025
+- **IDs:** U-025-101, U-026-136, U-024-181, U-027-138
+- **relación:** magnetic goal; problem creates a goal; vision; gravitational pull.
+
+### gray area
+- **tipo:** término acuñado
+- **definición:** Variante "gray area / kernels of truth": la magia está en la zona gris; el buscador de verdad caza granos de verdad.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-01 (única aparición)
+- **IDs:** U-017-148
+- **relación:** principles of The Art of Focus; kernels of truth.
+
+### great modern game
+- **tipo:** término acuñado
+- **definición:** Las redes/internet como juego de bajo costo con aprendizaje y agencia incorporados.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-12-21 (única aparición)
+- **IDs:** U-013-222
+- **relación:** future proof skill stack.
+
+### greater cascade
+- **tipo:** término acuñado
+- **definición:** Variante "greater cascade / providing the root": el impacto del value creator: la información que moldea identidad, conducta y civilización.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-04 (única aparición)
+- **IDs:** U-014-130
+- **relación:** value creator; providing the root.
+
+### greenfield development
+- **tipo:** término de tercero usado por el autor
+- **definición:** Construir algo nunca hecho; siempre da miedo.
+- **acuñado por:** Devon Eriksen
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-006-038
+- **relación:** —
+
+### ground yourself in reality
+- **tipo:** término acuñado
+- **definición:** Aceptar que será difícil; quien espera facilidad no obtiene resultados.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-03 (única aparición)
+- **IDs:** U-025-054
+- **relación:** —
+
+### growing pains
+- **tipo:** palabra común con sentido propio
+- **definición:** Incomodidad de expandir la mente; lo peor es abandonar durante ella (2024-02).
+- **definición:** Variante "growing pains / letting your old version die": incomodidad del cambio de nivel de mente; no abandonar (2024).
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 – 2024-02
+- **IDs:** U-020-116, U-023-197
+- **relación:** new level of mind; level of mind (T02); letting your old version die.
+
+### growth / authenticity / authority
+- **tipo:** término acuñado
+- **definición:** Tres pilares: crecimiento por short form, autenticidad por long form "big idea synthesis", autoridad por resultados de producto o servicio (2022-12, 2024-02).
+- **definición:** Variante "growth, authenticity and Authority": los tres pilares de una marca: plataformas de crecimiento, canales profundos y productos (2024).
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-12 – 2024-02
+- **IDs:** U-007-137, U-001-153, U-001-136
+- **relación:** distribution network; interest, expertise and experience. Distinto de growth / nurture / monetization levers (que son palancas).
+
+### growth / nurture / monetization levers
+- **tipo:** término acuñado
+- **definición:** Las tres palancas una vez que hay marca y producto.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 (única aparición)
+- **IDs:** U-007-074
+- **relación:** reemplazadas por writing / promotion / iteration.
+
+### guide not master
+- **tipo:** término acuñado
+- **definición:** Variante "guide not master / stubborn with vision, loose with details": las metas guían, no mandan; cambian contigo.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-09 – 2024-07
+- **IDs:** U-023-126, U-024-191, U-023-181
+- **relación:** alias stubborn with vision, loose with details; firm beliefs held loosely.
+
+### habit of habits
+- **tipo:** término acuñado
+- **definición:** El foco como el hábito previo a todo hábito y raíz del ser.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-07 (única aparición)
+- **IDs:** U-017-113
+- **relación:** Focus Formula.
+
+### half child
+- **tipo:** término acuñado
+- **definición:** Variante "half child (of James Clear)": quien adopta las ideas de un autor que ocupan su mente y moldean su identidad.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-09-24 (única aparición)
+- **IDs:** U-021-034
+- **relación:** time under attention.
+
+### half truth
+- **tipo:** término acuñado
+- **definición:** "Everything is a half truth": las generalizaciones totales son mente cerrada.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-11-06 (única aparición)
+- **IDs:** U-007-069
+- **relación:** limiting beliefs.
+
+### half X designers
+- **tipo:** término de invitado
+- **definición:** Diseñadores de entrada fácil (curso de Udemy, Figma) que no notan lo obvio para un ojo entrenado.
+- **acuñado por:** Vitali (bloque T18)
+- **fechas:** 2025-01-28 (única aparición)
+- **IDs:** U-004-058
+- **relación:** 10x person.
+
+### hamster wheel
+- **tipo:** término acuñado
+- **definición:** Encadenar metas asignadas sin elegirlas.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-026-102
+- **relación:** assigned goals.
+
+### happiness is a skill
+- **tipo:** término acuñado
+- **definición:** La felicidad no se da, se crea; se refina, practica y adopta como toda habilidad.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-02 – 2023-07
+- **IDs:** U-026-241, U-017-098
+- **relación:** en tensión con false metric (happiness).
+
+### happy medium
+- **tipo:** término de invitado
+- **definición:** Variante "happy medium / shades of gray": término medio frente a la imagen binaria de beber cero o ser un bebedor degenerado.
+- **acuñado por:** Sahil Bloom
+- **fechas:** 2025-01 (única aparición)
+- **IDs:** U-005-087
+- **relación:** Lindy effect; shades of gray.
+
+### hard reset
+- **tipo:** término acuñado
+- **definición:** Proceso de 30 minutos para reordenar la vida cuando se desordena (2023–2024).
+- **definición:** Variante "hard cutoff / hard reset / hard transition": el gimnasio como corte duro entre trabajo y descanso que refresca la mente (2024-02, 2024-06).
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2024-06
+- **IDs:** U-003-090, U-025-017, U-025-071, U-019-075, U-019-076, U-003-261
+- **relación:** alias hard cutoff, hard transition; mental housekeeping; Parkinson's law of my work. Son dos sentidos distintos con el mismo nombre (reordenar la vida frente a cortar entre trabajo y descanso).
+
+### hard standards
+- **tipo:** término acuñado
+- **definición:** Estándares que vuelven repulsiva la alternativa (Whole Foods vs McDonald's).
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2025
+- **IDs:** U-027-175, U-024-218
+- **relación:** —
+
+### harmonic oscillator
+- **tipo:** término de tercero usado por el autor
+- **definición:** Imagen del autor para la mente cableada que vuelve por hábito a una experiencia (2022).
+- **definición:** Modelo de la mente: tras un bajo viene un alto aproximadamente igual hasta el equilibrio (2022-07; mecánica clásica, adaptada).
+- **acuñado por:** Dan Koe (primera acepción); mecánica clásica, adaptada (segunda acepción)
+- **fechas:** 2022 – 2022-07
+- **IDs:** U-026-012, U-024-006
+- **relación:** conditioning; highs and lows.
+
+### harsh mentor
+- **tipo:** término acuñado
+- **definición:** El mercado y la realidad como mentor del emprendedor.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026 (única aparición)
+- **IDs:** U-013-238
+- **relación:** entrepreneurship equals self-improvement.
+
+### heading off a cliff by default
+- **tipo:** término acuñado
+- **definición:** Vivir en el camino fijado al nacer sin cuestionarlo, rumbo a "pure mediocrity".
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-10-05 (única aparición)
+- **IDs:** U-023-202
+- **relación:** default path.
+
+### heat-seeking missile
+- **tipo:** término acuñado
+- **definición:** La mente hacia sus metas, o hacia las asignadas si no tienes propias.
+- **acuñado por:** Dan Koe (con Psycho-Cybernetics)
+- **fechas:** 2026-07 (única aparición)
+- **IDs:** U-014-182
+- **relación:** homing mechanism.
+
+### hedonic adaptation
+- **tipo:** término de tercero usado por el autor
+- **definición:** Variante "hedonic adaptation / hedonic treadmill": el termostato psicológico que vuelve al punto de partida; correr tras el siguiente placer.
+- **acuñado por:** psicología (citada)
+- **fechas:** 2025 – 2026
+- **IDs:** U-018-057, U-022-219
+- **relación:** alias hedonic treadmill; hedonic treadmill reversal (término propio de Dan Koe, derivado).
+
+### hedonic treadmill reversal
+- **tipo:** término acuñado
+- **definición:** Variante "hedonic reversal": la privación devuelve el disfrute de los placeres simples.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025 – 2026
+- **IDs:** U-018-057, U-022-219
+- **relación:** Beginner's mind; alias hedonic reversal; hedonic adaptation.
+
+### Here and Now chemicals
+- **tipo:** término de tercero usado por el autor
+- **definición:** Oxitocina, serotonina y similares asociadas a enfocarse en el presente (vs dopamina al proyectar) (2024-03).
+- **definición:** Variante "here and now chemicals / neurochemical cocktail": oxitocina y serotonina del foco presente + dopamina de la meta futura (2022-12, Dan Koe sobre Kotler).
+- **definición:** Variante "Here and Now neurotransmitters / here and nows": serotonina, oxitocina, endorfinas, endocannabinoides (y otros), que dan satisfacción con lo que tienes delante (2023–2024).
+- **acuñado por:** The Molecule of More (adaptado) para "neurotransmitters"; Dan Koe sobre Kotler para "chemicals / neurochemical cocktail"
+- **fechas:** 2022-12 – 2024-03
+- **IDs:** U-003-035, U-023-241, U-003-036, U-024-073, U-018-029, U-011-127, U-024-074
+- **relación:** alias Here and Now neurotransmitters, here and nows, neurochemical cocktail; Down chemicals (ver down world / up world); rules; flow.
+
+### Hermetic law of use
+- **tipo:** término de tercero usado por el autor
+- **definición:** Lo que no se usa se pierde.
+- **acuñado por:** Hermetismo (adaptado)
+- **fechas:** 2022-05 (única aparición)
+- **IDs:** U-014-032
+- **relación:** —
+
+### hierarchy of brand actualization
+- **tipo:** término acuñado
+- **definición:** La marca como pirámide de niveles que se trascienden e incluyen.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (todas las filas)
+- **IDs:** U-010-126, U-010-099
+- **relación:** infinite niche; actualization hierarchies.
+
+### hierarchy of goals
+- **tipo:** término acuñado
+- **definición:** Estructura de meta final, sub-metas, checkpoints o quests en torno a la cual gira toda acción (2022–2024; uso propio, asociado a Csikszentmihalyi en el material).
+- **definición:** Estructura de metas de mayor a menor que da claridad y ordena la mente; lo que hace adictivos los juegos (2022–2025).
+- **definición:** Variante "hierarchy of goals / psychic energy": estructuras que enmarcan la atención; energía mental invertida automáticamente en ellas (2023-01-15, 2024-03-21).
+- **acuñado por:** Dan Koe (uso propio; asociado a Csikszentmihalyi)
+- **fechas:** 2022 – 2025
+- **IDs:** U-014-009, U-023-056, U-023-126, U-025-069, U-026-020, U-026-031, U-017-176, U-003-196, U-019-108, U-003-128, U-023-057
+- **relación:** intrinsic/extrinsic; path; string of goals; quest; modern enslavement; psychic entropy (T04).
+
+### hierarchy of trust and value
+- **tipo:** término acuñado
+- **definición:** Posts → lectores, hilos → fans, newsletters → super fans.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-10 (única aparición)
+- **IDs:** U-014-156
+- **relación:** content funnel.
+
+### high agency
+- **tipo:** término acuñado
+- **definición:** Crear tus metas y perseguirlas sin permiso vs perseguir metas asignadas por programación (variante "high agency / low agency"; 2024–2025).
+- **definición:** Equipo que, al ver un problema, lo resuelve y comparte la solución sin que se lo pidan (2024-07-13, atribuido a "Dan", bloque T18).
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-07-13 – 2025
+- **IDs:** U-010-237, U-024-230, U-018-047, U-006-175, U-023-222, U-006-176
+- **relación:** alias low agency (polo opuesto); entrepreneur vs employee; ownership mindset; entrepreneur in mind.
+
+### high energy time block
+- **tipo:** término acuñado
+- **definición:** Variante "high energy time block / go to work tired": bloque de mayor energía (la primera hora) para las palancas; trabajar con sueño activa el default mode network.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-07 (única aparición)
+- **IDs:** U-017-131
+- **relación:** default mode network; go to work tired.
+
+### high highs and low lows
+- **tipo:** término acuñado
+- **definición:** Principio universal: no hay altos sin bajos; el contraste da sentido.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-10 (única aparición)
+- **IDs:** U-002-110
+- **relación:** meaningful contrast; pluck the string; false metric (happiness).
+
+### high intelligence
+- **tipo:** término acuñado
+- **definición:** Capacidad de aprender, iterar con feedback y lograr cualquier meta en un plazo suficientemente largo (2024-10 a 2026-06).
+- **definición:** Variante "high / low intelligence": alta: iterar, persistir y ver el gran cuadro; baja: no aprender de los errores (2024-11, 2025-12).
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-10 – 2026-06
+- **IDs:** U-017-234, U-025-151, U-012-223, U-021-055, U-025-152
+- **relación:** cybernetics; meta perspective; alias low intelligence (polo opuesto).
+
+### high lever project
+- **tipo:** término acuñado
+- **definición:** Variante "high lever project / highest lever moving task": el proyecto que conduce a la vida deseada (o algo build-once-sell-many), al que se dedica el primer bloque.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2024
+- **IDs:** U-027-159, U-018-179
+- **relación:** alias highest lever moving task; building.
+
+### high leverage creator
+- **tipo:** término acuñado
+- **definición:** La etapa tres; exige survival mastery, ego development y multi-disciplinary study.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 – 2024
+- **IDs:** U-007-152, U-001-151
+- **relación:** developmental stages; opuesto de focus on one thing mindset.
+
+### high leverage, high impact, highly enjoyable
+- **tipo:** término acuñado
+- **definición:** Criterios para elegir los pocos hábitos posibles.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-019-099
+- **relación:** —
+
+### high signal information
+- **tipo:** término acuñado
+- **definición:** Información que ayuda a actualizar la visión.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-01 (única aparición)
+- **IDs:** U-025-061
+- **relación:** singular focus.
+
+### high ticket client cycle
+- **tipo:** término acuñado
+- **definición:** Prospectar, conseguir cliente, no tener tiempo, repetir.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 – 2024
+- **IDs:** U-007-151, U-001-150, U-007-152
+- **relación:** trampa de la etapa dos.
+
+### high value
+- **tipo:** palabra común con sentido propio
+- **definición:** Variante "high value / high value individual": término popular que el autor cuestiona porque nadie lo define.
+- **acuñado por:** uso común, cuestionado por Dan Koe
+- **fechas:** 2022-10 – 2025-02
+- **IDs:** U-018-001, U-009-168
+- **relación:** value; ver higher value individual (término propio del autor, con otra definición).
+
+### higher lows
+- **tipo:** término acuñado
+- **definición:** Subir y sostener líneas base más altas en vez de perseguir picos.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-10 (única aparición)
+- **IDs:** U-017-221
+- **relación:** baseline.
+
+### higher state of mind
+- **tipo:** término acuñado
+- **definición:** Variante "higher state of mind / letters to myself": el estado mental de su periodo de flow y las cartas que se escribe en periodos difíciles.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-025-056
+- **relación:** letters to myself.
+
+### higher value individual
+- **tipo:** término acuñado
+- **definición:** Persona capaz de ganar más gracias al desarrollo personal.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-016-162
+- **relación:** distinto de high value individual (término común que el autor cuestiona).
+
+### highest form of leverage
+- **tipo:** término acuñado
+- **definición:** El producto digital.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (todas las filas)
+- **IDs:** U-016-078, U-012-083, U-019-059
+- **relación:** —
+
+### highest leverage activities
+- **tipo:** término acuñado
+- **definición:** Segundo pilar: concentrarse en lo de mayor leverage; la relación tiempo/dinero debe bajar al crecer (variante "highest leverage activities / time to money ratio"; 2023-06).
+- **definición:** Variante "highest leverage tasks / build vs maintain": las tareas que más rinden; construir un sistema exige más tiempo que mantenerlo (2024).
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-06 – 2024
+- **IDs:** U-017-043, U-019-053
+- **relación:** leverage; shooting blanks; alias highest leverage tasks; time to money ratio; build vs maintain; T05.
+
+### highest leverage work
+- **tipo:** término acuñado
+- **definición:** Lo que llega a ser la escritura cuando se entiende su papel en la cadena de valor.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-03 (única aparición)
+- **IDs:** U-026-169
+- **relación:** leverage; foundation of media.
+
+### highest perspective
+- **tipo:** término acuñado
+- **definición:** La perspectiva que incluye a todas.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-07 (única aparición)
+- **IDs:** U-024-080
+- **relación:** zoom out.
+
+### highest to lowest leverage
+- **tipo:** término acuñado
+- **definición:** Variante "highest to lowest leverage / lowest to highest entropy": criterio para ordenar el resto del día.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-08 – 2025-05
+- **IDs:** U-019-046, U-003-207
+- **relación:** priority ladder; lowest to highest entropy.
+
+### highest version of yourself
+- **tipo:** término acuñado
+- **definición:** Perspectiva a adoptar antes de decidir.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 – 2025
+- **IDs:** U-003-143, U-008-076, U-025-196
+- **relación:** future self; ideal self.
+
+### highlight of your day
+- **tipo:** término acuñado
+- **definición:** Pregunta para descubrir qué podrías enseñar.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-02 (única aparición)
+- **IDs:** U-001-111
+- **relación:** what to sell.
+
+### highlight reel
+- **tipo:** palabra común con sentido propio
+- **definición:** Imagen pública incompleta de ídolos o exitosos.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2025
+- **IDs:** U-002-088, U-019-123
+- **relación:** visible extreme; ver digital nomad trap / highlight reel (acepción ligada a la vida glamorosa).
+
+### history of meaning in four acts
+- **tipo:** término acuñado
+- **definición:** Up there → out there → nowhere → in here.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-02 (única aparición)
+- **IDs:** U-012-172
+- **relación:** meaning architects.
+
+### hoarding information
+- **tipo:** término acuñado
+- **definición:** Consumir información para sentir progreso o sonar listo sin generar metas nuevas.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-04 (única aparición)
+- **IDs:** U-021-143
+- **relación:** vecino de dopamine from information gathering.
+
+### hole of mediocrity
+- **tipo:** término acuñado
+- **definición:** Adónde lleva conformarse con una pareja o empleo cómodos.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-12 (única aparición)
+- **IDs:** U-020-048
+- **relación:** —
+
+### holistic but negative worldview
+- **tipo:** término acuñado
+- **definición:** Visión del mundo a la que llega un pensamiento negativo que se ramifica sin foco.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-07 (única aparición)
+- **IDs:** U-017-104
+- **relación:** splitting focus.
+
+### holistic daily routine
+- **tipo:** término acuñado
+- **definición:** Variante "holistic daily routine (fill, empty, use)": llenar la mente por la tarde, vaciarla antes de dormir, usarla por la mañana.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-03 – 2024-06
+- **IDs:** U-003-166, U-003-105, U-019-075
+- **relación:** leisure maxing; fill / empty / use your mind.
+
+### holistic development
+- **tipo:** término acuñado
+- **definición:** El desarrollo personal incluye el impacto en otros (negocio, life's work).
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-11 – 2023-06
+- **IDs:** U-020-020, U-017-051, U-024-045
+- **relación:** multi-dimensionally jacked.
+
+### holistic entrepreneurship
+- **tipo:** término acuñado
+- **definición:** Variante "holistic entrepreneurship / meta vessel": "The meta vessel for any man or woman balancing the chaos in their life with the masculine pursuit of self-generated goal-oriented building".
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-027-081
+- **relación:** vessel; alias meta vessel.
+
+### holistic goal
+- **tipo:** término acuñado
+- **definición:** Meta "all encompassing" que ve el todo y no una parte.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-11 (única aparición)
+- **IDs:** U-018-135
+- **relación:** —
+
+### holistic habit
+- **tipo:** término acuñado
+- **definición:** Hábito que abarca mente, cuerpo, espíritu y negocio: caminar.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-06 (única aparición)
+- **IDs:** U-019-096
+- **relación:** walking.
+
+### holistic identity
+- **tipo:** término acuñado
+- **definición:** Variante "holistic identity / higher identity / highest self": identidad mayor que uno con la que identificarse para que la mente se expanda y se trabaje por sobrevivirla.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-01 – 2023-10
+- **IDs:** U-017-086, U-017-095, U-027-176
+- **relación:** alias higher identity, highest self; positive identity.
+
+### holistic library of knowledge
+- **tipo:** término acuñado
+- **definición:** Obra de vida: registrar lo aprendido en cada meta y transmitirlo.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-03 (única aparición)
+- **IDs:** U-008-035
+- **relación:** —
+
+### holistic monk mode
+- **tipo:** término acuñado
+- **definición:** Período de intensidad para cambiar toda la vida, con defensa (eliminar distracciones) y ofensa (hábitos de foco).
+- **acuñado por:** Dan Koe
+- **fechas:** 2025 (única aparición)
+- **IDs:** U-019-161, U-019-162
+- **relación:** monk mode; disappear.
+
+### holistic pattern recognition
+- **tipo:** término acuñado
+- **definición:** Núcleo de la inteligencia como expansión hacia la verdad.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-11 (única aparición)
+- **IDs:** U-021-107
+- **relación:** zoom out.
+
+### holistic self-improvement
+- **tipo:** término acuñado
+- **definición:** Variante "holistic self-improvement / standards": los estándares definen qué consideras problema; todos los dominios suben o bajan juntos.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-07 (única aparición)
+- **IDs:** U-017-110
+- **relación:** multi-dimensionally jacked; standards.
+
+### holistic synthesizer
+- **tipo:** término acuñado
+- **definición:** Quien documenta su camino a la good life de forma educativa y persuasiva, viendo sus habilidades e intereses como un todo.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-03 (única aparición)
+- **IDs:** U-008-023
+- **relación:** content creator; idea workers.
+
+### holistic truth
+- **tipo:** término acuñado
+- **definición:** La verdad que queda fuera del alcance cuando una ideología se vuelve identidad.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-11 (única aparición)
+- **IDs:** U-016-146
+- **relación:** —
+
+### holistic understanding
+- **tipo:** término acuñado
+- **definición:** Comprensión que surge de implementar lo mejor de varias fuentes.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 (única aparición)
+- **IDs:** U-007-182
+- **relación:** big picture.
+
+### holon
+- **tipo:** término de tercero usado por el autor
+- **definición:** Unidad que es a la vez todo y parte (2024-03).
+- **definición:** La unidad de todo: un todo que es parte de otro todo (2023-01, 2024-03).
+- **definición:** Variante plural "holons": bloques de la realidad que son a la vez todo y parte, jerárquicos (2023).
+- **acuñado por:** Ken Wilber
+- **fechas:** 2023-01 – 2024-03
+- **IDs:** U-003-120, U-023-047, U-023-049, U-003-121, U-003-122, U-003-124, U-023-052, U-010-110
+- **relación:** existence is relationship; units of mind; dominator hierarchies / actualization hierarchies; deconstruct wholes into parts.
+
+### holy trifecta of the good life
+- **tipo:** término acuñado
+- **definición:** Aprender (cultivar valor), construir (solidificarlo) y vender (distribuirlo).
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-11-12 (única aparición)
+- **IDs:** U-016-182
+- **relación:** learning, building and selling.
+
+### homing mechanism
+- **tipo:** término acuñado
+- **definición:** La meta dominante que codifica la mente (p. ej., título y empleo) (2025-02).
+- **definición:** La mente se dirige hacia sus metas aceptando la información útil (2025-06; cibernética vía Maltz).
+- **acuñado por:** Dan Koe (primera acepción); cibernética vía Maltz (segunda acepción)
+- **fechas:** 2025-02 – 2025-06
+- **IDs:** U-010-223, U-019-154
+- **relación:** assigned goals; heat-seeking missile; goal (aim, lens, point of view).
+
+### homogeneous output
+- **tipo:** término acuñado
+- **definición:** El output del modelo sesgado que te vuelve commodity.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-12 (única aparición)
+- **IDs:** U-018-162
+- **relación:** —
+
+### honeymoon phase
+- **tipo:** término acuñado
+- **definición:** Período de 2–4 semanas de enamoramiento con lo adquirido antes de que se normalice (2023–2024).
+- **definición:** Variante "honeymoon phase (trap)": engancharse por la dopamina inicial y no nutrir lo que se posee (2022-10).
+- **definición:** Variante "honeymoon phase / philosophical sense of mastery": fase de progreso rápido que se apaga; luego hay que apreciar y dominar los fundamentos (2024).
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-10 – 2024
+- **IDs:** U-024-071, U-018-030, U-018-016, U-018-031
+- **relación:** simulated honeymoon phase; newbie gains; philosophical sense of mastery.
+
+### hook building blocks
+- **tipo:** término acuñado
+- **definición:** Big problem, big benefit, big idea, transformation process, time frame, negative personal experience.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-01 (única aparición)
+- **IDs:** U-013-152
+- **relación:** APAG Attention.
+
+### hopeful delusion
+- **tipo:** término acuñado
+- **definición:** Claridad temporal e ilusoria sobre la obra de vida, "not bad but necessary for intense burst of progress".
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-10 (única aparición)
+- **IDs:** U-015-056
+- **relación:** vision; the unknown.
+
+### horizontal / vertical development
+- **tipo:** término de tercero usado por el autor
+- **definición:** Llenar la taza frente a agrandarla; vertical down = regresión.
+- **acuñado por:** teoría del desarrollo del ego (Cook-Greuter), adaptada
+- **fechas:** 2024-11 (única aparición)
+- **IDs:** U-021-082
+- **relación:** complexity of self; vecino de horizontal growth / vertical growth (formulación propia del autor).
+
+### horizontal growth / vertical growth
+- **tipo:** término acuñado
+- **definición:** Expandirse dentro del nivel vs trascender a uno nuevo tras la lucha.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-03 – 2025-10
+- **IDs:** U-022-022, U-024-117
+- **relación:** traits/phases; casi equivalente a horizontal / vertical development.
+
+### hot leads
+- **tipo:** palabra común con sentido propio
+- **definición:** Objeción de que una audiencia amplia no compra; respondida con el efecto red.
+- **acuñado por:** Dan Koe (uso de marketing)
+- **fechas:** 2024-08 (única aparición)
+- **IDs:** U-010-167
+- **relación:** network effect.
+
+### hotel (community)
+- **tipo:** término de tercero usado por el autor
+- **definición:** Comunidad de pago mensual con alta rotación, que Justin quiere evitar.
+- **acuñado por:** Justin Welsh
+- **fechas:** 2021 (única aparición)
+- **IDs:** U-005-041
+- **relación:** optionality.
+
+### house of meaning
+- **tipo:** término acuñado
+- **definición:** Construir sentido sobre una base material mediante el aprendizaje.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-024-077
+- **relación:** Philosophical pursuit of mastery.
+
+### Huberman cult
+- **tipo:** término acuñado
+- **definición:** Absolutismo de salud que prohíbe todo alcohol o droga recreativa.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-10 (única aparición)
+- **IDs:** U-026-228
+- **relación:** degeneracy.
+
+### Human 3.0
+- **tipo:** nombre de producto/framework
+- **definición:** Su newsletter y artículo central sobre niveles de mente (2025-12).
+- **definición:** Variante "Human 3.0 (Human 1.0 / 2.0 / 3.0)": mapa sintético para navegar el mundo moderno; también el nivel más alto (sintetista) (2025-09 – 2025-10).
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-09 – 2025-12
+- **IDs:** U-025-146, U-015-172, U-024-098, U-024-101, U-024-110, U-024-111, U-024-112, U-023-216
+- **relación:** three macro levels; conformist, individualist, synthesist; Human 1.0 / 2.0.
+
+### human nature
+- **tipo:** término acuñado
+- **definición:** Variante "human nature (meta skill)": la habilidad que nunca pasa de moda; toda high-value skill buena es "a lower layer of human nature".
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-07 (única aparición)
+- **IDs:** U-013-224, U-013-248
+- **relación:** story engine.
+
+### human progression pattern
+- **tipo:** término acuñado
+- **definición:** El one-person business sigue cómo evoluciona la persona: skill o desarrollo → enseñar (2024).
+- **definición:** El one-person business evoluciona con la persona a lo largo del tiempo (2022).
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 – 2024
+- **IDs:** U-001-032, U-007-009
+- **relación:** skill-based / development based.
+
+### human understanding
+- **tipo:** término acuñado
+- **definición:** Variante "human understanding (iceberg / foundation)": el conocimiento de la naturaleza humana sobre el que se construye la casa del negocio.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 (todas las filas)
+- **IDs:** U-011-062, U-011-063, U-027-031
+- **relación:** foundation of human understanding.
+
+### humble flex
+- **tipo:** término acuñado
+- **definición:** Prueba social que no se percibe como alarde; funciona "100 times better".
+- **acuñado por:** Dan Koe (ejemplo: Justin Welsh)
+- **fechas:** 2023-11 (única aparición)
+- **IDs:** U-013-114
+- **relación:** social proof.
+
+### hunt and stack whys
+- **tipo:** término acuñado
+- **definición:** Cazar y acumular razones personales e intrínsecas hasta que la acción se motive sola.
+- **definición:** Reunir razones para formar una filosofía personal.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-05 (todas las filas)
+- **IDs:** U-024-055, U-024-050
+- **relación:** personal philosophy.
+
+### hunt for an idea
+- **tipo:** término acuñado
+- **definición:** Leer los primeros 2–3 capítulos en busca de una o dos ideas.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-020-148
+- **relación:** closing push. Vecino de hunt for ideas.
+
+### hunt for ideas
+- **tipo:** término de tercero usado por el autor
+- **definición:** Variante "hunt for ideas / share ideas": cazar ideas (libros viejos, rabbit holes, podcasts) y compartirlas; "a beautiful flow of information".
+- **acuñado por:** Dan Koe, adaptado de Naval
+- **fechas:** 2024-08 – 2025-12
+- **IDs:** U-020-159, U-022-198
+- **relación:** idea you wish you wrote; share ideas; hunt for an idea.
+
+### hunting
+- **tipo:** término acuñado
+- **definición:** Hoy, buscar fuentes de dopamina novedosas y significativas: descubrir, tomar y crear (2023).
+- **definición:** Variante "hunting / hunt for your survival": descubrir conocimiento, habilidades, ideas y oportunidades que te ayudan a alcanzar metas propias; tener la siguiente lista cuando una meta se vuelve conocida (2023–2024).
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2024
+- **IDs:** U-003-168, U-011-143, U-006-156, U-008-009, U-016-209, U-006-183
+- **relación:** "Don't outsource your curiosity"; opuesto a assigned goals; meta skill (making money = learning to hunt); entrepreneurship is modern survival; hunting ground; hunting skill set; hunting in the unknown.
+
+### hunting ground
+- **tipo:** término acuñado
+- **definición:** Internet como el territorio donde hoy se caza conocimiento y supervivencia.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-017-182
+- **relación:** dopamine is your compass; hunting.
+
+### hunting in the unknown
+- **tipo:** término acuñado
+- **definición:** Cómo se crean novel perspectives: experiencia, metas, reflexión, lectura profunda.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-12 (única aparición)
+- **IDs:** U-009-201
+- **relación:** hunting.
+
+### hunting skill set
+- **tipo:** término acuñado
+- **definición:** Vision, goals, systems, open-mindedness, agency, creativity + ganar dinero.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-07 (única aparición)
+- **IDs:** U-006-160
+- **relación:** Focus Formula; hunting.
+
+### hustle culture
+- **tipo:** palabra común con sentido propio
+- **definición:** Variante "grinding / hustle culture / hustle bros": trabajar sin pensar 12–16 horas; símbolo de estatus disfrazado de estrategia, "a lack of wisdom" (2024–2025).
+- **definición:** Variante "hustle culture / hustle and grind entrepreneur / grind set": cultura de trabajar 12–16 horas en estrés constante, presentada como estatus; bloquea la apertura mental (2023-06 – 2025-05).
+- **acuñado por:** Dan Koe (uso propio de términos comunes); la segunda fila indica "uso común, con sentido propio"
+- **fechas:** 2023-06 – 2025-05
+- **IDs:** U-019-118, U-019-117, U-003-220, U-004-062, U-017-212, U-017-042, U-019-049, U-001-001, U-019-121, U-003-221
+- **relación:** alias grinding, hustle bros, hustle and grind entrepreneur, grind set; status game; badge of honor; status symbol; distracted work.
+
+### hyper profitable education business
+- **tipo:** término acuñado
+- **definición:** Negocio educativo con márgenes cercanos al 95 %.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (todas las filas)
+- **IDs:** U-009-042, U-009-041
+- **relación:** education business.
+
+### hyper-specialists
+- **tipo:** término acuñado
+- **definición:** Lo que son las computadoras: resuelven problemas específicos y repiten tareas, frente a los humanos generalistas (2024-06).
+- **definición:** Variante "hyper Specialists / deep generalists": las computadoras frente a los humanos: "a great combo but not too effective on their own" (2024-07).
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-06 – 2024-07
+- **IDs:** U-012-086, U-019-060, U-006-105
+- **relación:** labor as leverage; specialist that needs a generalist; deep generalist.
+
+### hyper-spiritual people
+- **tipo:** término acuñado
+- **definición:** Variante "hyper-spiritual people / lens": quienes adoptan la espiritualidad como identidad; debería ser una lente.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-06 – 2023-11
+- **IDs:** U-016-151, U-026-011
+- **relación:** ideological trap; lens.
+
+### I am my own niche
+- **tipo:** término acuñado
+- **definición:** Mis intereses dan forma a mi nicho.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-013-058
+- **relación:** variante temprana de you are the niche; vecino de I am the niche.
+
+### I am the market research
+- **tipo:** término acuñado
+- **definición:** Vender a un mercado en el que estás inmerso te convierte en la investigación de mercado.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 (única aparición)
+- **IDs:** U-007-107
+- **relación:** I am the niche.
+
+### I am the niche
+- **tipo:** término acuñado
+- **definición:** Variante "I am the niche / I'm the niche": vender a personas como uno mismo, enseñando lo que uno aprendió.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 – 2025
+- **IDs:** U-019-058, U-019-140
+- **relación:** niche of one; you are the niche; I am my own niche; T11.
+
+### iceberg
+- **tipo:** término acuñado
+- **definición:** Variante "iceberg / tip of the iceberg": la punta llamativa capta atención; la profundidad sostiene el valor.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-10 (todas las filas)
+- **IDs:** U-018-009, U-018-014
+- **relación:** depth; dopamine treadmill; ver iceberg of opportunity y iceberg of whys (otros usos de la metáfora).
+
+### iceberg of opportunity
+- **tipo:** término acuñado
+- **definición:** Lo consumido es la punta; lo de abajo puede volverse una carrera (2022-05).
+- **definición:** Variante plural "icebergs of opportunity": oportunidades a las que guía la curiosidad (2024).
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-05 – 2024
+- **IDs:** U-014-035, U-017-177
+- **relación:** curiosity is the fuel; four paths.
+
+### iceberg of whys
+- **tipo:** término acuñado
+- **definición:** Variante "iceberg of whys / stack of reasons / polar in-betweenness": pila de razones a favor de lo que quieres y en contra de lo que no.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-01 (única aparición)
+- **IDs:** U-027-215, U-027-237
+- **relación:** alias stack of reasons, polar in-betweenness; hunt and stack whys.
+
+### idea catalyst
+- **tipo:** término acuñado
+- **definición:** Variante "idea catalyst / catalyst strategy": formas de poner tus posts ante otras audiencias para salir del beginner hell y testear ideas.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-10 (única aparición)
+- **IDs:** U-014-162, U-014-159
+- **relación:** pay to play; tribe; social capital; alias catalyst strategy.
+
