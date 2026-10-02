@@ -797,3 +797,460 @@
 - **fuente:** Most People Won’t Change (How To Recreate Yourself).md, 20:23-21:09, 2023-05-19
 - **tension:** ninguna
 
+# Fuente: A Full Guide To Reinvent Your Life (In 6-12 Months).md (2023-07-25)
+
+## U-024-062
+- **tipo:** metáfora
+- **titulo:** Life is a dark room: we occasionally find a candle, it dies out, and we must move with faith toward the next one
+- **desarrollo:** "Life is like a dark room. On occasion we find a candle so that we can see, but not for long. The candle provides vision and direction, but the flame will die out, sparking fear in our souls that we will never find our way, unless we move with faith that we will find the next candle." The candle stands for clarity/vision; its temporary nature means clarity must be repeatedly found.
+- **ejemplos:** Dark room and candles.
+- **cita:** "the candle provides vision and direction but the flame will die out"
+- **terminos:** dark room; candle
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 0:00, 2023-07-25
+- **tension:** ninguna
+
+## U-024-063
+- **tipo:** principio
+- **titulo:** Chaos is our default state; clarity is the byproduct of ordered information filling consciousness
+- **desarrollo:** "The human mind bounces between order and chaos. Chaos is our default state. Clarity is the byproduct of ordered information that fills our consciousness. Our mind is clear when what we pay attention to is clear." He presents this as "an explanation for human behavior".
+- **ejemplos:** See U-024-064 (Sunday 10am-2pm).
+- **cita:** "our mind is clear when what we pay attention to is clear"
+- **terminos:** order and chaos; clarity; ordered information
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 0:00, 2023-07-25
+- **tension:** ninguna
+
+## U-024-064
+- **tipo:** dato
+- **titulo:** People report the most miserable part of their lives is Sunday between 10am and 2pm, when they have nothing to do
+- **desarrollo:** The order/chaos model "explains why people report that the most miserable part of their lives are on a Sunday between the times of 10 a.m and 2 pm when they have nothing to do". People say they hate their jobs, yet jobs "provide a clear state of mind that is arguably much more enjoyable than being at home alone with your thoughts". Humans fill their days with activities that structure the mind: playing games, designing, creating, preferably investing attention in something useful. The source of the "report" is not named in the transcript.
+- **ejemplos:** Sunday 10am-2pm; jobs providing structure.
+- **cita:** "people say that they hate their jobs yet jobs provide a clear state of mind"
+- **terminos:** structure their mind
+- **origen:** propia (dato sin fuente citada)
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-063
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 0:00-0:50, 2023-07-25
+- **tension:** ninguna
+
+## U-024-065
+- **tipo:** argumento
+- **titulo:** Entropy and the human project: everything tends toward disorder, and all we do is try to reverse it to survive
+- **desarrollo:** "Entropy is that everything tends towards disorder": one day you will die, the sun will die out, the universe will die; anything tangible eventually decomposes — unless humans attempt to reverse entropy. "That's all we're really doing here is trying to solve the problems that lead to things falling apart", trying to extend our life on Earth. Even something as small as organizing your bookshelf after it gets dirty is done with the larger survival goal in the back of your mind: "we need to live as long as possible, we need to become immortal, and that's what really everyone is [trying] to do".
+- **ejemplos:** Organizing a dirty bookshelf.
+- **cita:** "that's all we're really doing here is trying to solve the problems that lead to things falling apart"
+- **terminos:** entropy; reverse entropy
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-063
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 0:50-1:42, 2023-07-25
+- **tension:** ninguna
+
+## U-024-066
+- **tipo:** concepto
+- **titulo:** Psychic entropy: losing the frame or order of the mind when a coherent line of thought dissolves
+- **desarrollo:** "When we are alone psychic entropy ensues." "Psychic entropy is when we lose the frame or the order of our mind by letting go of a coherent line of thought." It happens more than you think: when sitting around alone with your thoughts, you may have a coherent line of thought for "like two to three seconds", then you catch on to a thought, your thought process goes unconscious, and you can't track where your thoughts will end up. "Our mind grasps at negative thoughts and then they multiply." The result: an unordered state of mind — feeling lost, overwhelmed and anxious.
+- **ejemplos:** Being alone with your thoughts.
+- **cita:** "psychic entropy is when we lose the frame or the order of our mind by letting go of a coherent line of thought"
+- **terminos:** psychic entropy; frame; coherent line of thought
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-065
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 0:50-2:28, 2023-07-25
+- **tension:** ninguna
+
+## U-024-067
+- **tipo:** principio
+- **titulo:** The cure for psychic entropy is knowing how to order your mind by directing attention
+- **desarrollo:** The cure to feeling lost, overwhelmed and anxious "is knowing how to order your mind, it is knowing how to direct your attention". Tools: meditation teaches you to focus on your breath; metacognition teaches you to question your thoughts; "learning to be alone is learning to order your mind in any circumstance for enjoyment".
+- **ejemplos:** Meditation (breath), metacognition (questioning thoughts).
+- **cita:** "learning to be alone is learning to order your mind in any circumstance for enjoyment"
+- **terminos:** order your mind; direct your attention; metacognition
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-066
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 2:28, 2023-07-25
+- **tension:** ninguna
+
+## U-024-068
+- **tipo:** concepto
+- **titulo:** People don't want freedom, they want autonomy: to create their own limitations
+- **desarrollo:** It is ironic that people think they want to maximize freedom in their life, "because that's the opposite of what they want. People don't want freedom, they want autonomy. They don't want limitations projected on them, they want to create their own limitations." This follows from the need for ordered attention: total freedom means chaos; self-chosen limits give order.
+- **ejemplos:** ninguno
+- **cita:** "people don't want freedom they want autonomy they don't want limitations projected on them they want to create their own limitations"
+- **terminos:** freedom vs autonomy; own limitations
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-063
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 2:28, 2023-07-25
+- **tension:** ninguna
+
+## U-024-069
+- **tipo:** concepto
+- **titulo:** Clarity is the key to enjoyment, but not fulfillment; sustainable clarity comes from self-generated vs society-generated goals
+- **desarrollo:** "Clarity is the key to enjoyment but enjoyment is not the only piece of the puzzle." We can enjoy a life someone assigns to us, a nine-to-five, doing what people tell us, but that does not bring fulfillment. "Sustainable long-term clarity comes from two sources": (1) self-generated goals in alignment with a conscious future; (2) society-generated goals in alignment with an unconscious future. "One is created, one is assigned." "If we don't want our life to be the product of someone else's vision we must create our own."
+- **ejemplos:** Enjoying a nine-to-five without fulfillment.
+- **cita:** "if we don't want our life to be the product of someone else's vision we must create our own"
+- **terminos:** self-generated goals; society generated goals; conscious future; unconscious future; enjoyment vs fulfillment
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-063
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 2:28-3:15, 2023-07-25
+- **tension:** ninguna
+
+## U-024-070
+- **tipo:** metáfora
+- **titulo:** Most people don't need motivation, they need clarity: motivation is seeing utopia across a canyon; clarity is the first plank of the bridge
+- **desarrollo:** "Most people don't need motivation, they need clarity." Motivation is like standing on one side of a canyon: the other side looks like a utopia — beautiful people, music, cars, houses, all calling you to take the leap — but you have no way to get over. "Clarity is the first plank of the bridge to the other side."
+- **ejemplos:** Canyon and bridge.
+- **cita:** "clarity is the first plank of the bridge to the other side"
+- **terminos:** motivation vs clarity; canyon; first plank of the bridge
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-069
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 3:15, 2023-07-25
+- **tension:** ninguna
+
+## U-024-071
+- **tipo:** concepto
+- **titulo:** Dopamine as the molecule of desire: we want things more when far away; after acquiring, a 2-4 week honeymoon phase fades into normal
+- **desarrollo:** Motivation "can be illustrated by the behavior molecule dopamine". When something is far away we desire it more; when we acquire it (nice house, car, watch, a pretty person, an internet course, a new book) we feel good for a bit, then it becomes normal and we no longer desire it. This is the honeymoon phase: "maybe a two week to four week period" where you are not really in love but "infatuated" with the thing. Dopamine is not bad: it is "one of the most important neurotransmitters to understand", "the drive behind your dreams", and should be utilized.
+- **ejemplos:** House, car, watch, person, course, book.
+- **cita:** "it is the drive behind your dreams and that should be utilized"
+- **terminos:** dopamine; honeymoon phase
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-070
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 3:15-4:47, 2023-07-25
+- **tension:** ninguna
+
+## U-024-072
+- **tipo:** advertencia
+- **titulo:** Most people drown in motivation, wasting dopamine on things out of reach (especially on social media)
+- **desarrollo:** Most people "drown in motivation": they see many things out of their reach every day, especially on social media, and over and over waste "this precious resource that could be used to act on their dreams". Even if they acquire those dreams (fancy car, watch), they don't know how to swap their focus to sustain the enjoyment of that thing.
+- **ejemplos:** Social media exposure to unreachable things.
+- **cita:** "most people drown in motivation"
+- **terminos:** drown in motivation; precious resource
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-071
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 4:03-4:47, 2023-07-25
+- **tension:** ninguna
+
+## U-024-073
+- **tipo:** concepto
+- **titulo:** Here and Now neurotransmitters (serotonin, oxytocin, endorphins, endocannabinoids) give satisfaction with what you have
+- **desarrollo:** While dopamine is raised when you desire something outside you that you don't have, "there are other neurotransmitters that are called the Here and Now neurotransmitters like serotonin, oxytocin, endorphins and endocannabinoids that give you satisfaction and appreciation for what's in front of you", the things in your personal space. Some people take drugs (Molly, marijuana, alcohol — he says he does these occasionally and isn't judging), but there are more sustainable ways to bring satisfaction, fulfillment and enjoyment into everyday life with what you have. He then lists three: mindfulness and detail, intrinsic philosophy, learning and education.
+- **ejemplos:** Molly, marijuana, alcohol as unsustainable routes.
+- **cita:** "there are other neurotransmitters that are called the Here and Now neurotransmitters"
+- **terminos:** Here and Now neurotransmitters
+- **origen:** propia (el término "Here and Now" se presenta como nombre existente, sin fuente citada)
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-071
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 4:47-5:36, 2023-07-25
+- **tension:** ninguna
+
+## U-024-074
+- **tipo:** método
+- **titulo:** Satisfaction practice 1: mindfulness and detail — notice details your senses provide to escape the superficial state
+- **desarrollo:** Most people live in a superficial state where everything around them is normal. Practice: on a walk, see detail you've never seen (the leaves of trees, a bush you never looked at closely, the concrete under your feet, blades of grass, the shine of light on passing cars). When you cook, notice differences in texture, taste and feel, pick apart the ingredients. When listening to a song, dig deep for the subtle layers in the background — "those were intentional by the creator, they want you to notice them". That's why food critics, music lovers and yogis enjoy their activities: they are immersed in the present and flooded with Here and Now neurotransmitters, "much more sustainable than constantly pursuing that cheap dopamine hit". It is getting in touch with reality, "an ever flowing quality of experience" whose depth we miss daily. Application: when something you acquired is "borderlining boredom" and its shine fades, if you don't want to shelve it, learn to enjoy it by noticing detail, "far beyond just your senses as well".
+- **ejemplos:** Walks, cooking, music; food critics, music lovers, yogis.
+- **cita:** "reality is an ever flowing quality of experience and we're missing out on the depth of that experience every single day"
+- **terminos:** mindfulness and detail; superficial state; cheap dopamine
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-073
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 5:36-7:05, 2023-07-25
+- **tension:** ninguna
+
+## U-024-075
+- **tipo:** caso
+- **titulo:** Satisfaction practice 2: developing an intrinsic philosophy — the young bodybuilder who came for vanity and stayed for therapy
+- **desarrollo:** A young bodybuilder started going to the gym for vanity "but they stayed for the therapy". They wanted a strong aesthetic physique to attract a partner and command respect. After a year or two progress slowed drastically; they built a great body — so what's next? It didn't really change how many people they attracted; maybe it bumped them up the social hierarchy a bit, a bit more attention — is it still worth 7-8 hours a week? So they look inward: What has this brought to my life? Why do I keep showing up? Where would I have spent my time otherwise? How has it impacted the people I meet, the conversations I can have, the career opportunities open to me? They realize "their material pursuit was deeply immaterial, as are most", a fact people glance over. Their pursuit gave them an identity that influenced positive decisions and prevented them from being like "the mindless masses who pursue nothing".
+- **ejemplos:** The young bodybuilder; 7-8 hours a week in the gym.
+- **cita:** "they started going to the gym for vanity but they stayed for the therapy"
+- **terminos:** intrinsic philosophy; material pursuit was deeply immaterial
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-073
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 7:05-7:48, 2023-07-25
+- **tension:** ninguna
+
+## U-024-076
+- **tipo:** principio
+- **titulo:** It's better to pursue something superficial than to do nothing with your life
+- **desarrollo:** Lesson of the bodybuilder: "it's better to pursue something superficial than it is to do nothing with your life". Two outcomes: "you either learn what you don't want so you can pursue what you want, or you find depth, meaning and spirituality along the way".
+- **ejemplos:** The bodybuilder.
+- **cita:** "it's better to pursue something superficial than it is to do nothing with your life"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-075
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 7:48, 2023-07-25
+- **tension:** ninguna
+
+## U-024-077
+- **tipo:** ejemplo
+- **titulo:** Satisfaction practice 3: learning and education — the Porsche GT3 owner who builds a house of meaning on a material foundation
+- **desarrollo:** 95% of people would scoff at someone buying a Porsche GT3 because they only see the surface and can't see that a person's life and identity is more than a snapshot. What if the buyer was a mechanic who derives deep satisfaction from digging into the machinery? Now what if an average Joe made the same purchase but decided to learn: "learn their way into a deeper crevice of reality through education" — study the car's parts, history, how to drive better, start visiting the track; the car becomes a consistent part of their lifestyle, bringing enjoyment and flow. "They construct a house of meaning under the foundation of material." Most people keep laying a foundation and never build anything worth keeping.
+- **ejemplos:** Porsche GT3; mechanic; average Joe at the track.
+- **cita:** "they construct a house of meaning under the foundation of material most people keep laying a foundation and never build anything worth keeping"
+- **terminos:** house of meaning; foundation of material
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-073
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 8:32-9:18, 2023-07-25
+- **tension:** ninguna
+
+## U-024-078
+- **tipo:** principio
+- **titulo:** The key to the good life: a disciplined balance between meaningful dopamine sources and creating satisfaction on achievement
+- **desarrollo:** "The key to the good life is a disciplined balance between meaningful dopamine sources and creating satisfaction when you achieve those goals." Dopamine drives pursuit; the satisfaction practices (detail, philosophy, education) sustain enjoyment after acquiring. Leads to "choosing your dopamine sources wisely".
+- **ejemplos:** ninguno
+- **cita:** "the key to the good life is a disciplined balance between meaningful dopamine sources and creating satisfaction when you achieve those goals"
+- **terminos:** meaningful dopamine sources; choosing your dopamine sources wisely
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-071, U-024-073
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 9:18, 2023-07-25
+- **tension:** ninguna
+
+## U-024-079
+- **tipo:** concepto
+- **titulo:** Enjoyment vs pleasure: investing vs spending attention; process vs outcome; progress toward long-term goal vs achievement without effort
+- **desarrollo:** "Enjoyment comes from investing attention, pleasure comes from spending attention. Investments are long-term, purchases are short-term. Enjoyment is process focused, pleasure is outcome focused. Enjoyment is progress toward a long-term goal, pleasure is achieving a goal without effort." "Our goal is to maximize the enjoyment in our everyday life; that's all anyone is trying to do." But most people don't zoom out to gain a perspective "that is distraction proof" while pursuing goals; they are narrowly focused on what brings pleasure here and now.
+- **ejemplos:** ninguno
+- **cita:** "enjoyment comes from investing attention pleasure comes from spending attention"
+- **terminos:** enjoyment vs pleasure; investing attention; spending attention; distraction proof
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-078
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 9:18, 2023-07-25
+- **tension:** ninguna
+
+## U-024-080
+- **tipo:** principio
+- **titulo:** The key to life is zooming out: the highest perspective is the one that includes them all
+- **desarrollo:** "Literally the key to life is just zooming out, expanding your focus, expanding your mind, collecting more perspective. The highest perspective is the one that includes them all." Because we don't want to get stuck scrolling social media, having meaningless sex "in more ways than physical", and winning arguments in the comments that lead nowhere; we want to act on goals, build something beneficial in reality, and impact others in a way that brings enjoyment. Later reused: "the highest perspective is all perspectives and being able to hold both of those and pull truth".
+- **ejemplos:** Scrolling, meaningless sex, comment arguments.
+- **cita:** "the highest perspective is the one that includes them all"
+- **terminos:** zooming out; highest perspective
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-079
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 9:18-10:13, 18:52, 2023-07-25
+- **tension:** ninguna
+
+## U-024-081
+- **tipo:** historia
+- **titulo:** Every period of substantial fast progress in the author's life came while he was hell-bent on actualizing a vision
+- **desarrollo:** Dan Koe talks about vision because "at every point in my life where I have made substantial progress in a short period of time while enjoying every second of it I was hell-bent on actualizing a vision for the future that I held in my mind". People who have experienced this know the power; he writes about it to understand and dissect it and piece together a way for people to develop vision.
+- **ejemplos:** ninguno
+- **cita:** "I was hell-bent on actualizing a vision for the future that I held in my mind"
+- **terminos:** vision
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 10:13-10:58, 2023-07-25
+- **tension:** ninguna
+
+## U-024-082
+- **tipo:** término-acuñado
+- **titulo:** The anti-vision: realizing what you don't want (coined by the author)
+- **desarrollo:** "One concept that I've coined that has helped many is the anti-vision. In brief it's how you realize what you don't want." It does not mean you can get rid of what you don't want immediately: "you can't just quit your job and move out of your hometown if you've built an entire house of responsibilities around that"; there's more on the line than money. "Be smart about this, this is a long-term game."
+- **ejemplos:** Quitting job/moving out of hometown as a rash response.
+- **cita:** "one concept that I've coined that has helped many is the anti-vision"
+- **terminos:** anti-vision; house of responsibilities; long-term game
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-022
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 10:58, 2023-07-25
+- **tension:** ninguna
+
+## U-024-083
+- **tipo:** proceso
+- **titulo:** Five steps to create your anti-vision: observe society, reflect on the past, list what you don't want, project 10 years, transmute into vision
+- **desarrollo:** (1) Observe society as a habit: pay close attention to people around you; why do they do what they do, what is it leading towards, are they someone you want to be? It can be as simple as observing the groceries in people's baskets or their bodies and realizing you don't want to end up "slow, lifeless, groggy all the time". (2) Reflect on your past: what experiences do you never want again? What were the lowest lows, what caused them, have you done anything to prevent them? Make it a conscious practice. (3) Make a list of things you don't want: pull out a notebook, get specific; it "should make you feel uncomfortable"; keep it somewhere safe and add to it, since not every idea comes in 10-20 minutes — they come over "years and years" of experience. (4) Realize where you will be if you keep doing the same thing: your habits — where will your life end up with the same lifestyle in 10 years? Do you want that? (5) Transmute that energy into a passionate vision: what will you have to learn, build and execute daily to avoid your anti-vision?
+- **ejemplos:** Grocery baskets; people's bodies.
+- **cita:** "this list should make you feel uncomfortable"
+- **terminos:** anti-vision; observe society as a habit; transmute that energy
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-082
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 10:58-12:20, 2023-07-25
+- **tension:** ninguna
+
+## U-024-084
+- **tipo:** definición
+- **titulo:** Your vision is your frame: the lens for viewing goals, and vision plus goals are the lens for daily decisions
+- **desarrollo:** "Your vision is your frame. It is what you hold in the back of your mind to guide your daily actions. It is the lens from which you view your goals." And "from your vision and your goals, those are the lens that help you view and perceive daily situations so that you can make better decisions". "It's not about having long-term or short-term focus, it's about having both. Zoom out." "Your life is a culmination of your choices and if you want to make better ones you must expand your mind, consciousness and focus beyond your worries."
+- **ejemplos:** ninguno
+- **cita:** "your vision is your frame it is what you hold in the back of your mind to guide your daily actions"
+- **terminos:** vision; frame; lens
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-082
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 12:20-12:59, 2023-07-25
+- **tension:** ninguna
+
+## U-024-085
+- **tipo:** concepto
+- **titulo:** A specific anti-vision primes the mind for pattern recognition of opportunities and threats
+- **desarrollo:** Having created a specific anti-vision, "you've primed your mind for pattern recognition so that you can spot opportunities that will aid in you actualizing the vision for your future", or realize "this is not what I want to do". Example: "I'm not going to put this in my grocery basket because I'm only now aware of it", having realized it damages the health you want in your vision.
+- **ejemplos:** Not putting an item in the grocery basket.
+- **cita:** "you've primed your mind for pattern recognition"
+- **terminos:** pattern recognition; anti-vision
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-083
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 12:59, 2023-07-25
+- **tension:** ninguna
+
+## U-024-086
+- **tipo:** heurística
+- **titulo:** Write the opposite of your anti-vision; the vision is imaginary and strengthens over years of data points
+- **desarrollo:** It helps to get more specific on what you want, but "your vision is imaginary"; it should culminate over time. Write out "the opposite of your anti-vision because your vision may not be strong yet". It gets strong over time: not everything comes in 10-20 minutes ("literally impossible"); it culminates, expands and develops "over years and years and years of experiencing life, failing, succeeding, and having data points from which to iterate on your vision".
+- **ejemplos:** ninguno
+- **cita:** "write out the opposite of your anti-vision because your vision may not be strong yet"
+- **terminos:** vision; data points; iterate
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-083
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 13:46, 2023-07-25
+- **tension:** ninguna
+
+## U-024-087
+- **tipo:** argumento
+- **titulo:** Schools can't and won't teach you to build your dreams; self-education is a requirement
+- **desarrollo:** "Schools can't and won't teach you how to build your dreams." Schools are intimately connected with government, politics and the economy, and their conditioning process or education is set up to keep these going; "anything that gives the individual power is a threat". So self-education is a requirement. You can't reach your goals at your current level of development, "or else you'd already achieve them": you need to develop skills, build things, fail, gain experience.
+- **ejemplos:** ninguno
+- **cita:** "anything that gives the individual power is a threat"
+- **terminos:** self-education; conditioning process; level of development
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-084
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 13:46-14:29, 2023-07-25
+- **tension:** ninguna
+
+## U-024-088
+- **tipo:** principio
+- **titulo:** Challenge orders the mind and makes life enjoyable — play at your level but try to make it to the next level
+- **desarrollo:** If you could achieve your goals now it wouldn't be challenging, "and challenge gives you a place to focus and order your mind; that's what makes life enjoyable", because challenge plays a crucial role in the flow state, enjoyment and dopamine — "but only if you take on challenges that aren't too boring or difficult. Play at your level but try to make it to the next level."
+- **ejemplos:** ninguno
+- **cita:** "play at your level but try to make it to the next level"
+- **terminos:** challenge; flow state
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-067
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 14:29, 2023-07-25
+- **tension:** ninguna
+
+## U-024-089
+- **tipo:** principio
+- **titulo:** To retain what matters, learn as you build or build as you learn
+- **desarrollo:** You can't learn everything that crosses your mind; you must remember "the important things that actualize your vision; that's how you learn everything". To do that, "you must learn as you build or build as you learn".
+- **ejemplos:** ninguno
+- **cita:** "you must learn as you build or build as you learn"
+- **terminos:** learn as you build
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-087
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 15:13, 2023-07-25
+- **tension:** ninguna
+
+## U-024-090
+- **tipo:** método
+- **titulo:** Learning step 1: write down 10-20 specific skills, interests or topics that will actualize your vision (specificity is key)
+- **desarrollo:** Write down 10 to 20 specific skills, interests or topics that will actualize your vision, because we need clarity on what to do every day. "The key to all of this is specificity." Don't write "web design", write "how to create landing pages that are actually useful to businesses". Don't write "the gym", write "diet and training principles to lose 10 pounds of fat in six weeks". Do this 10 times minimum. If you don't see how a skill/interest/curiosity aids your vision, remove it.
+- **ejemplos:** Landing pages useful to businesses; lose 10 pounds of fat in six weeks.
+- **cita:** "don't write down web design... write down how to create landing pages that are actually useful to businesses"
+- **terminos:** specificity; skills, interests or curiosities
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-089
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 15:13, 16:43, 2023-07-25
+- **tension:** ninguna
+
+## U-024-091
+- **tipo:** principio
+- **titulo:** Life itself is a practice: you don't have your ideal lifestyle because you aren't living it now on a smaller scale
+- **desarrollo:** Most people fail to make tangible progress because they don't realize "a lifelong habit of education, skill acquisition and practice is how you build a better life. This is not optional." Without time carved out each day to practice your craft, you won't get anywhere meaningful. "Life itself is a practice and most people aren't showing up"; they distract themselves with mindless entertainment. "You don't have your ideal lifestyle because you aren't living that lifestyle right now but on a smaller scale." As you get better, the time spent increases, the impact grows in less time, "and money will become inevitable". A designer or writer designs or writes an hour every morning; as they improve, that hour's work takes 20 minutes, so they do more and better work and can incorporate other things, like building a business, slowly increasing the time until it becomes their lifestyle. The same for the gym and every healthy habit: successful people "didn't just poof land into this lifestyle after they had a successful business; it was their lifestyle that allowed them to build the business".
+- **ejemplos:** Designer/writer: one hour each morning, then the same work in 20 minutes.
+- **cita:** "it was their lifestyle that allowed them to build the business"
+- **terminos:** life itself is a practice; practice your craft; lifestyle on a smaller scale
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-090
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 15:13-16:43, 2023-07-25
+- **tension:** ninguna
+
+## U-024-092
+- **tipo:** método
+- **titulo:** Learning step 2: leverage dopamine through pattern recognition and momentum (the Sudoku effect)
+- **desarrollo:** "Connecting ideas and noting patterns in reality raises dopamine levels in the brain" — "the same reason that cocaine feels so good", but much more sustainable; it is addictive and gets more powerful with momentum. Like a Sudoku: you find one answer, dopamine increases, which narrows your mind with that feedback to find other answers; you build momentum, dopamine keeps rising, it keeps you engaged. Same with ideas at night: one, then another, then ten you can only write down and save for the morning's focus work. "When you notice one idea that connects to your vision your signal to noise ratio increases", which happens when studying your interests and curiosities: attention narrows on more relevant information, both new and already in your mind; the mind lights up and the vision grows stronger — "why it feels so good to live with purpose".
+- **ejemplos:** Sudoku; ideas at night written down for morning focus work.
+- **cita:** "when you notice one idea that connects to your vision your signal to noise ratio increases"
+- **terminos:** pattern recognition; momentum; signal to noise ratio; focus work
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-090
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 16:43-18:52, 2023-07-25
+- **tension:** ninguna
+
+## U-024-093
+- **tipo:** método
+- **titulo:** Learning step 3: learn and build to eliminate useless information — what others call signal is 95% noise to you
+- **desarrollo:** "Learn and build; that way you eliminate useless information", because everyone tells you what to do, projecting what they deem important — "what they see as signal" — which "to you is 95 percent of the time noise". If you aren't where you want to be, "nothing is as important as your own goals: not the news, not your friends' relationship problems and definitely not who's getting elected".
+- **ejemplos:** News, friends' relationship problems, elections.
+- **cita:** "nothing is as important as your own goals"
+- **terminos:** signal vs noise
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-092
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 18:52, 2023-07-25
+- **tension:** ninguna
+
+## U-024-094
+- **tipo:** argumento
+- **titulo:** It's easier to submit a vote than to change your life: zoom out and build a business or audience to bring beliefs into reality
+- **desarrollo:** People get up in arms about gas prices or reproductive rights; Dan Koe says he sees both perspectives ("the highest perspective is all perspectives"). His point: "most people hide behind the fact that it's easier to submit a vote than it is to change your life". They can't zoom out to see a more effective way to bring their beliefs into reality. If you worry about gas prices, why haven't you developed a plan to build a business so you never worry about gas prices again? That's "10 times more powerful" for you and others than one "measly vote that may not even get counted". And you could build an audience and present your perspective to millions to actually influence votes. "That's how they keep you locked into this thing": keeping your focus narrowed on their vision instead of you zooming out and crafting a plan. Whatever your beliefs, take it into your hands as much as you can, develop a vision and actualize it, and forget what you have very little control over.
+- **ejemplos:** Gas prices; bodily rights debates.
+- **cita:** "most people hide behind the fact that it's easier to submit a vote than it is to change your life"
+- **terminos:** zoom out; highest perspective
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-024-080
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 18:52-20:16, 2023-07-25
+- **tension:** ninguna
+
+## U-024-095
+- **tipo:** método
+- **titulo:** Creativity needs boundaries: break the vision into yearly/monthly/weekly/daily goals turned into project milestones
+- **desarrollo:** "To create you need boundaries for your creativity or else things get too chaotic and overwhelming." You need goals turned into projects so you have something tangible to work on; goals and projects provide boundaries for learning and creativity. Break your vision into goals — yearly, monthly, weekly, daily — and turn them into milestones for a project, such as a personal brand ("the fuel for anything you want to build") or a one-person business ("the starting point that I believe 99% of people should start with before trying to go after any other business model" because it's holistic, evolves with you, and isn't a static model that sounds too good to be true).
+- **ejemplos:** Personal brand; one-person business.
+- **cita:** "to create you need boundaries for your creativity or else things get too chaotic and overwhelming"
+- **terminos:** boundaries for creativity; goals; projects; milestones; personal brand; one-person business
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-084
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 20:16-21:01, 2023-07-25
+- **tension:** ninguna
+
+## U-024-096
+- **tipo:** proceso
+- **titulo:** Start, then learn: encounter a real problem, research it, keep information flowing, solve, enjoy dopamine, ride momentum into a season of intensity
+- **desarrollo:** With your vision in mind, start building and learning; work on your project daily regardless of whether you know what you're doing — you don't, because you haven't registered the problem or hit it yet ("you're never going to find that if you don't start"). You can be a book expert, but if you don't do it you'll hit the same problem as if you knew nothing and have to research it anyway. "It's better to start then learn." The best way to learn: (1) encounter a real-world problem; (2) research specific information to solve it; (3) keep a steady flow of information from your consumption; (4) solve the problem; (5) enjoy the dopamine; (6) "let momentum carry you into season of intensity".
+- **ejemplos:** ninguno
+- **cita:** "it's better to start then learn because that is the best way to learn is to encounter a real world problem"
+- **terminos:** season of intensity; momentum
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-095
+- **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 21:01-21:41, 2023-07-25
+- **tension:** ninguna
+

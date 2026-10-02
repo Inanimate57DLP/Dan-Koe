@@ -2936,3 +2936,631 @@
 - **prerrequisitos:** U-023-224
 - **fuente:** You're Stuck In The Matrix, Here's How You Escape.md, 20:05-21:26, 2025-10-05
 - **tension:** ninguna
+
+# Fuente: How I Turned My Life Into A Video Game.md (2022-12-11)
+
+## U-023-226
+- **tipo:** definición
+- **titulo:** Flow: nothing matters except what your attention is immersed in; you lose the self-consciousness and self-centeredness that lead to anxiety, boredom and suffering
+- **desarrollo:** The "optimal human experience": nothing really matters, you feel extra confident, like you could take on the world, immersed and at one with the task (sport, game, writing at your computer). "Some people call this state the flow state": a state of consciousness where nothing else matters but what's right in front of you. "You lose the sense of self-consciousness and self-centeredness that leads to anxiety or boredom or just suffering in general, as many of the spiritual teachers and ancient masters would say". In it, you cease to care what others think, become one with the task, know exactly what to do next and how well you're doing, and gain deep satisfaction.
+- **ejemplos:** Sport, game, writing at a computer.
+- **cita:** "you lose the sense of self-consciousness and self-centeredness that leads to anxiety or boredom or just suffering in general"
+- **terminos:** flow state; self-consciousness; self-centeredness
+- **origen:** adaptada-de:Mihaly Csikszentmihalyi
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How I Turned My Life Into A Video Game.md, 0:00-0:52, 2022-12-11
+- **tension:** ninguna
+
+## U-023-227
+- **tipo:** argumento
+- **titulo:** Self-consciousness splits attention through comparison with ideas of what should be (the pimple example)
+- **desarrollo:** You end this suffering by learning to control your attention, which is heavily influenced by the ego or self. Self-consciousness arises through attention: you notice something and compare it to something else, highlighting differences between yourself and it. This split in attention uses precious mental energy that could be focused on the task at hand. Example: you see a pimple in the mirror; you don't need contact with someone with clear skin to have an idea and perception of clear skin, and a desire for it pops up that you can't satisfy because of the pimple. "You start to compare ideas of what should be rather than accepting things as they are and refocusing your attention". The answer to gaining control of attention: "by treating life like the game it is".
+- **ejemplos:** A pimple in the mirror vs the idea of clear skin.
+- **cita:** "you start to compare ideas of what should be rather than accepting things as they are and refocusing your attention"
+- **terminos:** split in attention; ego; comparison
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-226
+- **fuente:** How I Turned My Life Into A Video Game.md, 0:52-1:46, 2022-12-11
+- **tension:** ninguna
+
+## U-023-228
+- **tipo:** concepto
+- **titulo:** Games and business share four features: a desirable hierarchy of goals, a structure that frames attention, a narrowing challenge, a required skill
+- **desarrollo:** His generation is "notorious for transferring obsession from video games to real life or just business success", because games, business and "constructions of the external world, in other words the Matrix": (1) present a desirable hierarchy of goals; (2) have a structure that frames your attention; (3) introduce a challenge to narrow your attention further; (4) require the player to have the skill that meets the requirements. "You can create a game out of any situation in life as long as you can mold your mind to create the certain aspects that a game entails", and if fun, life becomes more enjoyable "because you start playing rather than being played".
+- **ejemplos:** ninguno
+- **cita:** "you start playing rather than being played"
+- **terminos:** hierarchy of goals; frame; challenge; skill; the Matrix
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-226
+- **fuente:** How I Turned My Life Into A Video Game.md, 1:46-2:45, 2022-12-11
+- **tension:** ninguna
+
+## U-023-229
+- **tipo:** argumento
+- **titulo:** Create or be created: if you don't mold your mind to create your own game, it's molded to play society's external status games; masses flock to certainty
+- **desarrollo:** "We're in a world where it's create or be created". If you can't mold your mind to create your own reality/game, "your mind will be molded, and it already has been molded, to play external status games that society has created for you": going to college, getting a job, or another structured approach someone else laid out, which may not fit you and leads to unnecessary suffering because you follow steps that may not align with your personal goals. "Sovereign living or autonomous living", building your own way of survival, is difficult and uncertain, and "the mind craves order, it craves certainty", so where there's an easier, more certain, secure path, "that's where 99% of people flock". The video's purpose is awareness for those who share his values: build your own thing, be independent, "break free of the Matrix if you want to frame it that way", live enjoyably on your own terms.
+- **ejemplos:** College, job.
+- **cita:** "we're in a world where it's create or be created"
+- **terminos:** create or be created; external status games; sovereign living; autonomous living
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-228
+- **fuente:** How I Turned My Life Into A Video Game.md, 2:45-4:32, 2022-12-11
+- **tension:** ninguna
+
+## U-023-230
+- **tipo:** principio
+- **titulo:** "The system is rigged, you can't change it but you can learn it — that is how you rig yourself in the system's favor"
+- **desarrollo:** The macro game of life: in an open-world strategy game like World of Warcraft, common patterns are stacking gold, choosing a profession, leveling up your character and the progression with those — the familiar "life is a video game" metaphor, which he takes deeper. "The system is rigged, you can't change it but you can learn it, that is how you rig yourself in the system's favor". The conventional path to success is programmed into the collective psyche before we know it, "due to the curse of knowledge" (in his usage: humans wanting to know and learn more, learning being the foundation of human experience, and not questioning what we learn). So we pursue winning a game others laid out, usually in favor of maintaining the game itself. "90% of the time it just doesn't work out": the "secure" path ends in too much anxiety, stress, overwhelm, trapped in "this jail or prison of their own doing".
+- **ejemplos:** World of Warcraft: gold, profession, leveling.
+- **cita:** "the system is rigged you can't change it but you can learn it that is how you rig yourself in the system's favor"
+- **terminos:** macro game of life; curse of knowledge (used idiosyncratically); collective psyche
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-229
+- **fuente:** How I Turned My Life Into A Video Game.md, 4:32-6:07, 2022-12-11
+- **tension:** "Curse of knowledge" is used with a meaning different from its usual sense (the author's own usage; ambiguous). Also contrasts with U-023-225/U-023-212 where society is "rigged against you".
+
+## U-023-231
+- **tipo:** metáfora
+- **titulo:** The programmers can't patch the game fast enough: remote work, the creator economy, crypto and freelancers reveal flaws in the system
+- **desarrollo:** Times are changing: more people go remote and do their own thing; "the flaws in the system itself are revealing itself and the programmers can't patch the game fast enough" ("who are the programmers? I have no idea"). School curricula can't keep up with the creator economy, which educates people on doing their own thing rather than being trained into the conventional employment system schools are tied to. Banking: whatever your beliefs about Bitcoin, crypto or decentralized currency, someone saw a problem, and individuals and small teams build solutions for a better financial/monetary system. Agencies: freelancers with great skill sets and digital tools are hired as freelancers or contract workers rather than employees.
+- **ejemplos:** Remote work; creator economy; Bitcoin/crypto; freelancers replacing employees.
+- **cita:** "the programmers can't patch the game fast enough"
+- **terminos:** patch the game; creator economy
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-230
+- **fuente:** How I Turned My Life Into A Video Game.md, 6:07-6:58, 2022-12-11
+- **tension:** ninguna
+
+## U-023-232
+- **tipo:** concepto
+- **titulo:** NPCs keep the game's structure going (townsfolk, environment, bosses); players who understand the big picture navigate it
+- **desarrollo:** There are those actively trying to solve the faulty system, and those who in a video game would be NPCs: "the people that just do what they're told, they go along with the system, they never question it and they kind of just are there". In a game these are the townsfolk, "environment people", the bosses in a battle, and others who "keep the game interesting for players"; they allow the game to maintain its structure and keep going. Those who question the system and understand it from a big picture can actually play and navigate the game and have their own success.
+- **ejemplos:** Townsfolk, bosses.
+- **cita:** "it allows the game to maintain its structure and keep on going"
+- **terminos:** NPC; non-player character; players
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-230
+- **fuente:** How I Turned My Life Into A Video Game.md, 6:58-7:46, 2022-12-11
+- **tension:** ninguna
+
+## U-023-233
+- **tipo:** framework
+- **titulo:** Birth-now-death graphic: experience behind you, infinite paths ahead toward winning the external game
+- **desarrollo:** The game is already programmed onto "the collective psyche or the hard drive". Next principle: "there are infinite paths you can take" in an open-world game. Graphic: birth on the left, death on the right, "now" as a middle line; the path you've taken until now is your experience; the darker circles with many paths on the right are paths you can take toward a green dot labeled success, "winning the game of the external world". In WoW you choose appearance, player type (warrior, mage, rogue), profession, quest path, solo or group play, guild, etc. — like choosing a sport growing up, or in business which skill or business model to pursue: all viable but requiring different skill sets and leading down different paths. (Visual is described, not fully reconstructible.)
+- **ejemplos:** WoW choices; choosing a sport; choosing a business skill/model.
+- **cita:** "there are infinite paths that you can take"
+- **terminos:** infinite paths; external game; winning the game of the external world
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-230
+- **fuente:** How I Turned My Life Into A Video Game.md, 7:46-9:22, 2022-12-11
+- **tension:** ninguna
+
+## U-023-234
+- **tipo:** principio
+- **titulo:** In the one-person business your brand is your goal in life; your unique path/story is the brand and creates your personal monopoly
+- **desarrollo:** "With the one person business model... your brand is your goal in life". If the goal is big and broad (the good life, financial freedom), "my unique path is what makes my brand unique": how I achieve it will be vastly different; "my story is going to be my brand", what separates me from everyone and "allows me to create my own personal monopoly" (developed in a next video; transcription "M Monopoly" is ambiguous, possibly "me-monopoly").
+- **ejemplos:** ninguno
+- **cita:** "my story is going to be my brand"
+- **terminos:** one person business; brand is your goal; personal monopoly
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-233
+- **fuente:** How I Turned My Life Into A Video Game.md, 9:22, 2022-12-11
+- **tension:** ninguna
+
+## U-023-235
+- **tipo:** metáfora
+- **titulo:** Five people at the foot of infinite mountains: each draws a different path; once at the peak you help others climb faster — that's business
+- **desarrollo:** Five people stand at the bottom of a mountain, "life being infinite mountains". They look up and each draws a different path to the first peak; then there are infinite mountains to climb. "Once you reach that peak you can look down and you can help people navigate that path up in a better way. That's what business is": helping people solve their problems or climb the mountain faster to achieve their desired outcome, reaching the peak you've reached.
+- **ejemplos:** ninguno
+- **cita:** "that's what business is is helping people solve their problem problems or climb the mountain in a faster way"
+- **terminos:** infinite mountains
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-234
+- **fuente:** How I Turned My Life Into A Video Game.md, 9:22-10:09, 2022-12-11
+- **tension:** ninguna
+
+## U-023-236
+- **tipo:** principio
+- **titulo:** Leveling up increases the complexity of the self; the main spiritual problem is that people never change
+- **desarrollo:** "Leveling up increases the complexity of the self". "In the real world the main spiritual problem is that people never change": they identify with beliefs and jobs ("another finite aspect of the external constructed world"), become static, stop learning, stop stacking skills, don't level up to where more opportunities are available. Improving skills by learning, executing and taking challenges lets you take higher-level challenges, which opens many more opportunities, "because that knowledge and experience expands your awareness of what is actually possible". At max level in a game you navigate freely, stress-free, fly across the map, teleport. Climbing "the ladder of challenges" lets you do much more and "pick your battles". "As you develop yourself you gain more ability to create order from chaos; you have the power to create a game out of more situations in life".
+- **ejemplos:** Max level in a game: flying, teleporting.
+- **cita:** "leveling up increases the complexity of the self"
+- **terminos:** complexity of the self; level up; ladder of challenges; order from chaos
+- **origen:** adaptada-de:Mihaly Csikszentmihalyi
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-233
+- **fuente:** How I Turned My Life Into A Video Game.md, 10:09-11:46, 2022-12-11
+- **tension:** ninguna
+
+## U-023-237
+- **tipo:** framework
+- **titulo:** Macro game vs micro games of life: three micro components — hierarchy of goals, frame of the game (rules, mechanics, feedback), anxiety-boredom balance
+- **desarrollo:** The open-world game structure (infinite paths, leveling) represents "the macro game of life". It goes deeper: "the micro games of life on a situation to situation basis". Components developed: (1) set a hierarchy of goals; (2) understand the frame of the game: rules and mechanics (with feedback and practice); (3) "arguably the most important", the delicate balance between anxiety and boredom (skill-challenge match). Then: create your character via integrating these plus self-education and self-reflection.
+- **ejemplos:** ninguno
+- **cita:** "we can talk about the micro games of life on a situation to situation basis"
+- **terminos:** macro game of life; micro games of life; frame of the game
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-236
+- **fuente:** How I Turned My Life Into A Video Game.md, 11:46, 2022-12-11
+- **tension:** ninguna
+
+## U-023-238
+- **tipo:** metáfora
+- **titulo:** Monkeys hurl poop at the ground; humans can aim a football 50 yards: the mind aims into the future through vision and sub-goals
+- **desarrollo:** Games present the big goal of winning plus clarity via sub-goals like quests; with only "win" and no idea how, the game wouldn't be fun. "As humans we have the ability to aim with our minds into the future": monkeys can throw their poop but usually hurl it straight at the ground, not hitting what's in front of them; humans, with skill, practice and time, can throw a football 50 yards and hit a bullseye. The mind works similarly: create a vision and slowly level up until able to create it. "We don't want to be poop hurled at the ground"; to avoid overwhelm by the grand vision, create sub-goals.
+- **ejemplos:** Monkey throwing poop; 50-yard football throw.
+- **cita:** "we don't want to be poop hurled at the ground like how monkeys do"
+- **terminos:** aim; vision; sub-goals; quests
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-237
+- **fuente:** How I Turned My Life Into A Video Game.md, 11:46-13:21, 2022-12-11
+- **tension:** ninguna
+
+## U-023-239
+- **tipo:** proceso
+- **titulo:** Set a hierarchy of goals on paper: vision iteration → 10-year, 1-year, monthly goals → weekly direction and reflection → daily priority tasks
+- **desarrollo:** Sit with pen and paper (or his free Power Planner): (1) create the first iteration of your vision — "it doesn't have to be perfect"; (2) create 10-year, one-year and monthly goals, again first iterations you can revisit; (3) have a place for weekly direction and reflection; (4) align daily priority tasks with those. Why writing matters (most people don't understand because they've never done it): "it's like an anchor". Linking to "how I remember everything I learned": learn and build in unison; you need something to build to apply learnings to, and awareness starts registering more opportunities. Since humans survive on a conceptual level (we try to survive our beliefs and identifications), "it only makes sense that we would try to survive a project or our vision for the future", so with it top of mind we notice things applicable to it, clarify it and keep striving.
+- **ejemplos:** ninguno
+- **cita:** "we would try to survive a project or we would try to survive our vision for the future"
+- **terminos:** hierarchy of goals; anchor; Power Planner; conceptual survival
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-238
+- **fuente:** How I Turned My Life Into A Video Game.md, 13:21-14:56, 2022-12-11
+- **tension:** ninguna
+
+## U-023-240
+- **tipo:** metáfora
+- **titulo:** Perspective as a camera frame: field of view constrains what registers, so a narrowed vision turns big problems into minor road bumps
+- **desarrollo:** "Your perspective or your worldview is the frame in which you view reality, it's like a camera": the field of view, even with a blurred background, constrains what registers in the frame. Molding your perspective lets you perceive "what used to be a huge problem as a minor road bump", because if you're dead set on your hierarchy of goals and attention is narrowed on it, it's hard for a distraction to register in the frame.
+- **ejemplos:** Camera field of view.
+- **cita:** "your perspective or your worldview is the frame in which you view reality it's like a camera"
+- **terminos:** frame of the game; perspective; worldview
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-237
+- **fuente:** How I Turned My Life Into A Video Game.md, 14:56, 2022-12-11
+- **tension:** ninguna
+
+## U-023-241
+- **tipo:** concepto
+- **titulo:** Rules keep limited attention on the here and now while the end goal sits in the back of the mind; future desire releases dopamine, here-and-now focus releases oxytocin and serotonin
+- **desarrollo:** First element of the frame: rules. Every game has rules you must follow, which let us use limited conscious attention to stay focused on the here and now while keeping the vision/end goal of winning in the back of our head. Why it matters (as he presents it): in psychology, projecting into the future or desiring something you don't have spurts dopamine; focusing on the here and now releases "here and now chemicals like oxytocin, serotonin". He says Steven Kotler's "The Art of Impossible" "doesn't say this directly" but mentions flow as a neurochemical cocktail of neurotransmitters, which "can be accomplished by exactly this".
+- **ejemplos:** ninguno
+- **cita:** "when you are focused on the here and now that's when the Here and Now chemicals like oxytocin serotonin... spur into your brain"
+- **terminos:** rules; here and now chemicals; neurochemical cocktail
+- **origen:** adaptada-de:Steven Kotler (interpretación del autor)
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-240
+- **fuente:** How I Turned My Life Into A Video Game.md, 14:56-16:34, 2022-12-11
+- **tension:** ninguna
+
+## U-023-242
+- **tipo:** método
+- **titulo:** Real-life rules: values on the macro scale; micro rules and frames (no cracks, 2,500 steps, closed tabs, Pomodoro, clear steps, noise-cancelling headphones)
+- **desarrollo:** "In the real world your rules are your values" on the macro scale; acting in alignment with values and constraining attention to aligned things makes life more enjoyable. On the micro scale you can create rules: on a walk, never step on a crack, or walk 2,500 steps. "Clarity comes from eliminating environmental distractions", i.e. creating a frame: for deep work, close browser tabs, set a Pomodoro timer, have clear steps, use noise-cancelling headphones. He used to hate walks though he knew they were healthy; little rules turn mundane situations enjoyable.
+- **ejemplos:** Not stepping on cracks; 2,500 steps; Pomodoro; noise-cancelling headphones.
+- **cita:** "in the real world your rules are your values"
+- **terminos:** rules; values; frame
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-241
+- **fuente:** How I Turned My Life Into A Video Game.md, 16:34-17:28, 2022-12-11
+- **tension:** ninguna
+
+## U-023-243
+- **tipo:** ejemplo
+- **titulo:** Enjoy what you hate by learning the game or inventing one: football you don't understand; antique shopping as "find the stupidest rock"
+- **desarrollo:** He doesn't like watching sports or football "and that is the exact point, I don't understand the game"; if he knew it and could direct attention to follow it, he might enjoy it. If your partner likes antique shopping on a Saturday afternoon while you drag your feet, she creates a game ("I like the price on this one, the look of this one") and is in "some degree of a flow state". You can do the same: zoom out, gain perspective and create your own game, "even if it's as simple as finding the stupidest rock you can find or the stupidest antique", so you both have fun playing your own game.
+- **ejemplos:** Football; antique shopping; stupidest rock/antique game.
+- **cita:** "I don't understand the game if I knew the game and was able to manipulate my attention... then I may be able to enjoy it"
+- **terminos:** create your own game
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-242
+- **fuente:** How I Turned My Life Into A Video Game.md, 17:28-18:54, 2022-12-11
+- **tension:** ninguna
+
+## U-023-244
+- **tipo:** concepto
+- **titulo:** Mechanics channel senses, thoughts and experience into play; feedback shows how you're doing — mistakes widen the frame and let distractions in
+- **desarrollo:** Second element: mechanics. A new game isn't fun: your aim sucks, you practice on low-level challenges, you're awestruck by top players. "Every game has a specific way for you to channel more of your senses, thoughts and prior experience to play it better": video games — keys, buttons, mouse clicks; board games — effectiveness, creativity, forward thinking of strategy; sports — body conditioning and movement for the goal; in all, your perception or frame lets you choose moves toward winning. Feedback, another form of information, tells you how well you're doing; games order consciousness by giving structured information the mind likes. If you realize you made a wrong move, "your perspective or your frame widens to the point of allowing distractions to penetrate that field", and if you attend to the distraction you're "off the game" and enjoy it less.
+- **ejemplos:** Keys/mouse in video games; strategy in board games; body conditioning in sports.
+- **cita:** "every game has a specific way for you to channel more of your senses thoughts and prior experience to play it better"
+- **terminos:** mechanics; feedback; frame
+- **origen:** adaptada-de:Mihaly Csikszentmihalyi
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-241
+- **fuente:** How I Turned My Life Into A Video Game.md, 18:54-19:39, 2022-12-11
+- **tension:** ninguna
+
+## U-023-245
+- **tipo:** principio
+- **titulo:** Improve mechanics through repetitive practice until results come with less effort; automate aligned daily decisions and success becomes inevitable
+- **desarrollo:** How to improve mechanics: practice. In World of Warcraft people log in daily to perform repetitive tasks: farm gold, create armor, mine ore, farm XP via dungeons over and over. "You have to program the specific mechanic in your brain to the point of where you're getting results with less effort, in other words habit formation". "If you can automate to an extent the decisions that you make on a daily basis that are conducive with your hierarchy of goals and achieving your end vision, then success kind of becomes inevitable".
+- **ejemplos:** WoW grinding: gold, armor, ore, XP.
+- **cita:** "if you can automate to an extent the decisions that you make on a daily basis... then success kind of becomes inevitable"
+- **terminos:** habit formation; farming; grinding
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-244
+- **fuente:** How I Turned My Life Into A Video Game.md, 19:39-20:29, 2022-12-11
+- **tension:** ninguna
+
+## U-023-246
+- **tipo:** fuente-de-tercero
+- **titulo:** The anxiety-flow-boredom graph from Csikszentmihalyi's Flow and The Evolving Self: anxiety = self-consciousness, flow = selflessness, boredom = self-centeredness
+- **desarrollo:** "Arguably the most important part is the delicate balance between anxiety and boredom". Graphic adapted from Mihaly Csikszentmihalyi's "Flow" and "The Evolving Self" (highly recommended): top quadrant anxiety or self-consciousness; middle flow or selflessness; bottom boredom or self-centeredness; skill level on one axis, challenge level on the other. The skill-challenge match is extremely important. Starting a game without the rulebook isn't fun; even knowing the rules takes time. Hence "just start": start with what you know, learn on the go, get real-world experience, don't get trapped in tutorial hell (ref. his video "How I remember everything I learned").
+- **ejemplos:** ninguno
+- **cita:** "in the top quadrant there's anxiety or self-consciousness in the middle there's flow or selflessness and then at the bottom there's boredom or self-centeredness"
+- **terminos:** anxiety; flow; boredom; self-consciousness; selflessness; self-centeredness; tutorial hell
+- **origen:** adaptada-de:Mihaly Csikszentmihalyi (Flow; The Evolving Self)
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-226
+- **fuente:** How I Turned My Life Into A Video Game.md, 20:29-22:09, 2022-12-11
+- **tension:** ninguna
+
+## U-023-247
+- **tipo:** heurística
+- **titulo:** Reframe an overmatched game: a level 1 facing a level 50 can set the goal "lose as fast as possible"
+- **desarrollo:** If you're level 1 fighting a level 50, you'd lose immediately; not fun. But you can create a better frame: "instead of beating the level 50 as your goal, what if the goal was to see how fast you could lose against the level 50? Then it'd be kind of fun and you'd be interested in playing the game". Same with chess: a beginner against a friend with years of play, or entering a competition without practice, isn't a good time.
+- **ejemplos:** Level 1 vs level 50; beginner in chess against an experienced friend.
+- **cita:** "what if the goal was to see how fast you could lose against the level 50 then it'd be kind of fun"
+- **terminos:** frame of the game
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-246
+- **fuente:** How I Turned My Life Into A Video Game.md, 22:09-22:53, 2022-12-11
+- **tension:** ninguna
+
+## U-023-248
+- **tipo:** concepto
+- **titulo:** Boredom stems from self-centeredness (another desire breaks focus); anxiety from self-consciousness (attention turns to self vs required skill)
+- **desarrollo:** "If your skill is high and the challenge is low you're going to get bored, and if your skill is low and the challenge is high you're going to get anxious". "Boredom stems from self-centeredness": focus breaks from the task and another desire comes to mind — bored at work because you're not immersed, thinking self-centeredly about better things to do. "Anxiety comes from self-consciousness": when challenge is too high and skill too low, attention turns to the concept of self, letting distractions and problems penetrate the conscious field, and attention goes downhill. Examples of self-conscious thoughts: "wow I'm not as good as I thought", "I really need to work on my back swing", "that girl is way out of my league" — attending to your current skill relative to the skill required. Prevention: keep changing, learning and building; you need something to immerse attention in and progress at throughout life, developing into a complex being capable of bigger, broader challenges and more opportunities.
+- **ejemplos:** Bored at work; back swing; "out of my league".
+- **cita:** "the boredom stems from self-centeredness... the anxiety comes from self-consciousness"
+- **terminos:** self-centeredness; self-consciousness; complex being
+- **origen:** adaptada-de:Mihaly Csikszentmihalyi
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-246
+- **fuente:** How I Turned My Life Into A Video Game.md, 22:53-24:25, 2022-12-11
+- **tension:** ninguna
+
+## U-023-249
+- **tipo:** historia
+- **titulo:** At ~15 the author spent two hours creating his first WoW character, choosing race, class and profession that unlocked talents, dungeons and guilds
+- **desarrollo:** Quoting Csikszentmihalyi on building "a self that is not simply the outcome of biological drives and cultural habits but a conscious personal creation", he recalls downloading World of Warcraft around 15 and spending a straight 2 hours creating his character: race (human? orc?), class (warrior, mage, priest), role (tank, damage, healer), hair — while considering how it would favor his personality and play style to win. At level 15 or so you can ride a horse and choose a profession (blacksmith, armor creator, leatherworker, tailor, or gem crafting for weapon power-ups). That choice opened talents and traits; leveling them unlocked choices not originally available: more dungeons, raiding with friends, acceptance into guilds with requirements (healer? damage? tank? what level or experience?). Metaphor: "we don't really have that choice" of race in life, "but metaphorically paint a picture for yourself".
+- **ejemplos:** WoW character creation and professions.
+- **cita:** "I spent a straight 2 hours just creating my character"
+- **terminos:** character; profession; talents and traits; guilds
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-023-236
+- **fuente:** How I Turned My Life Into A Video Game.md, 24:25-26:42, 2022-12-11
+- **tension:** ninguna
+
+## U-023-250
+- **tipo:** argumento
+- **titulo:** Learning is the foundation of the human experience: what you learn shapes thoughts, behavior and the opportunities you perceive; so create the character that leads to the outcome
+- **desarrollo:** When young we don't know better; through repetition things are conditioned into our psyche, and a concept of self is created "that we didn't really have much control over". "Learning through any medium influences our thoughts and our thoughts influence our behavior", so anything you learn or consume impacts how you act and what opportunities you perceive as available. "Winning the game of life, business or any present moment situation is dependent on how your character perceives and acts within that specific situation". "If we want to achieve or create the life of our dreams then we have to create the character or the player that will lead to that outcome".
+- **ejemplos:** ninguno
+- **cita:** "we have to create the character or the player that will lead to that outcome"
+- **terminos:** character; player; concept of self
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-249
+- **fuente:** How I Turned My Life Into A Video Game.md, 26:42-27:31, 2022-12-11
+- **tension:** ninguna
+
+## U-023-251
+- **tipo:** proceso
+- **titulo:** How to create your character: integrate goals, frames and learn-build cycles, then self-educate (sift dirt for gold) and self-reflect to pivot
+- **desarrollo:** First: integrate everything — an intrinsic hierarchy of goals; framing life on macro and micro scales with rules to narrow attention; consistently "learn practice learn practice, or learn build learn build" to raise skill and take higher challenges. Second: self-education and self-reflection. All information is at our fingertips; find ideas as you build a better life and meet problems, consuming valuable information without distraction; "sometimes you have to sift through dirt to find gold", reading things you weren't interested in (those who get bored distract themselves instead). Self-reflection guides future decisions because 100% certainty is impossible: effects of actions aren't immediate. You can compare to others' advice/results, but the only way to know for certain is self-reflection and pivoting, because advisors operate from a different worldview and environment.
+- **ejemplos:** Taking advice from Socrates "from hundreds of years ago" for today's environment "where money rules the world" may not be practical; you still must filter through direct experience.
+- **cita:** "sometimes you have to sift through dirt to find gold"
+- **terminos:** learn build learn build; self-education; self-reflection; direct experience
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-250
+- **fuente:** How I Turned My Life Into A Video Game.md, 27:31-29:57, 2022-12-11
+- **tension:** ninguna
+
+## U-023-252
+- **tipo:** framework
+- **titulo:** Recap: games order consciousness to obsession; any situation can be molded into a game; match skill to challenge; perspective determines information; the self-concept is the player
+- **desarrollo:** Recap in the author's words: "Games are a way of ordering consciousness to the point of obsession. When you're obsessed you stop caring what people think and play to win according to your values. Games are enjoyable and every situation in life can be mentally molded into a game. If you want to avoid mental turmoil your skill needs to match the challenge that any situation presents. Your perspective will determine the information available to you and if it's not structured you will misperceive it. Yourself concept is the player. With time you want to create the character that can win the games that it is best at".
+- **ejemplos:** ninguno
+- **cita:** "your self-concept is the player with time you want to create the character that can win the games that it is best at"
+- **terminos:** ordering consciousness; obsession; self-concept; player; character
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-237
+- **fuente:** How I Turned My Life Into A Video Game.md, 29:57, 2022-12-11
+- **tension:** ninguna
+
+# Fuente: How To Gamify Your Life (And Reinvent Yourself... Fast).md (2025-05-08)
+
+## U-023-253
+- **tipo:** dato
+- **titulo:** It takes about one to two months of confusion and near-giving-up for enough vision to form to launch into a new way of life
+- **desarrollo:** "It takes about one to two months of confusion, feeling lost and being on the verge of giving up for the right amount of vision to form where you have absolute clarity and launch into a new way of life". (Author's estimate from experience, not a cited study.)
+- **ejemplos:** ninguno
+- **cita:** "It takes about one to two months of confusion, feeling lost, and being on the verge of giving up for the right amount of vision to form"
+- **terminos:** vision; new way of life
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** How To Gamify Your Life (And Reinvent Yourself... Fast).md, 0:00, 2025-05-08
+- **tension:** ninguna
+
+## U-023-254
+- **tipo:** framework
+- **titulo:** Life unfolds in chapters, each a predictable sequence of four phases: limbo, vision, flow, resistance
+- **desarrollo:** "Life unfolds in chapters. And each chapter is a predictable sequence of four phases": (1) the limbo phase — you don't know what to do or what you want; (2) the vision phase — an image of the future forms, you act on a new path and momentum builds; (3) the flow phase — you can't pull yourself away from the goal you're pursuing; (4) the resistance phase — "exponential progress doesn't last forever, but you don't want it to end, and that's often to your own detriment".
+- **ejemplos:** ninguno
+- **cita:** "each chapter is a predictable sequence of four phases"
+- **terminos:** chapters; limbo phase; vision phase; flow phase; resistance phase
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How To Gamify Your Life (And Reinvent Yourself... Fast).md, 0:00-0:45, 2025-05-08
+- **tension:** Develops U-023-066 (2023: "life unfolds in chapters like a book" with feeling lost between chapters) into an explicit four-phase model.
+
+## U-023-255
+- **tipo:** argumento
+- **titulo:** Most people get trapped in limbo because they've been trained to follow a script and interpret feeling lost as a bad sign
+- **desarrollo:** "Most people get trapped in the first phase, the limbo phase, because your entire life you've been trained to follow a script". You're used to the linear results of schools and jobs, "used to someone else giving you your certainty". But in an unconventional life ("the only way to get unconventional results") you interpret feeling lost as a bad sign, jump ship and return to the comfortable planned life "in a system that only cares for its own benefit". You hate the thought of ending up like everyone else, but that means you're on your own, which feels like being lost in a dense forest seeing only trees, unaware that 5 yards away there's a clear path to the top of the mountain.
+- **ejemplos:** Lost in a dense forest, a clear path 5 yards away.
+- **cita:** "You're used to someone else giving you your certainty"
+- **terminos:** limbo phase; script; unconventional results
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-254
+- **fuente:** How To Gamify Your Life (And Reinvent Yourself... Fast).md, 0:45-1:35, 2025-05-08
+- **tension:** ninguna
+
+## U-023-256
+- **tipo:** concepto
+- **titulo:** The mind makes sense of the world in stories; you feel lost because you don't know your story or live one assigned by someone else
+- **desarrollo:** "Your mind makes sense of the world in stories. That's why you feel lost, because you don't know what story you are living out, or you're living out a story someone else assigned to you, and you can feel that misalignment in your soul". The hardest part of taking back control is "collecting the right puzzle pieces until just the right amount of vision forms" to act with confidence. At first the puzzle is a jumbled mess; your brain can't make sense of it; you get stressed and worried, which leads to "a narrow and negative mind", making it painstakingly hard to notice new opportunities — "that's why you feel stuck". (He mentions an AI prompt he created that turns your life into a video game, identifying passions and producing a main quest, side quests and character traits to improve.)
+- **ejemplos:** ninguno
+- **cita:** "Your mind makes sense of the world in stories"
+- **terminos:** story; puzzle pieces; misalignment; main quest; side quest
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-255
+- **fuente:** How To Gamify Your Life (And Reinvent Yourself... Fast).md, 1:35-2:07, 2025-05-08
+- **tension:** ninguna
+
+## U-023-257
+- **tipo:** principio
+- **titulo:** Step one (collect vision): give yourself permission to allow your life to get worse — strong goals come from a negative outcome you'll fight to avoid
+- **desarrollo:** "Step one: give yourself permission to allow your life to get worse". Explanation: you feel lost, dull or lifeless because you lack a clear goal, but you don't know what you want; with a turbulent mind, a clear goal is the last thing you can think of, and you'll make excuses about any candidate. "Goals don't exist in isolation. A strong purposeful goal is the result of the exact opposite: a negative outcome that you will fight tooth and nail to avoid. And once you've experienced that outcome firsthand you'll do anything to not relive it. You need a problem to solve. You need an enemy to attack". When you have something to avoid, your goal increases in gravity (pulling you) and clarity. Exercise: "if I keep doing the same things, where will my life end up?" Sit with it, let it consume your mind; then your mind becomes "hungry to learn, experiment and grow".
+- **ejemplos:** ninguno
+- **cita:** "You need a problem to solve. You need an enemy to attack"
+- **terminos:** collect vision; enemy; gravity; anti-vision (implicit)
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-256, U-023-179
+- **fuente:** How To Gamify Your Life (And Reinvent Yourself... Fast).md, 2:07-3:48, 2025-05-08
+- **tension:** ninguna
+
+## U-023-258
+- **tipo:** concepto
+- **titulo:** The mind is a goal-striving machine: you act the way you do because you already have a goal, unconscious to you
+- **desarrollo:** Step two, how to change your mind: "you act the way you do right now because you already have a goal. That's how the mind works. Your mind is a goal striving machine that perceives the world in a way that allows it to collect useful information to achieve that goal. The thing is you're unconscious of the goal you're pursuing and it's ruining your life". All humans have goals at all times: even moving your hand or taking a step aligns with a goal.
+- **ejemplos:** Moving your hand or taking a step.
+- **cita:** "Your mind is a goal striving machine"
+- **terminos:** goal striving machine; unconscious goal
+- **origen:** adaptada-de:Maxwell Maltz
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-215
+- **fuente:** How To Gamify Your Life (And Reinvent Yourself... Fast).md, 3:48-5:07, 2025-05-08
+- **tension:** ninguna
+
+## U-023-259
+- **tipo:** fuente-de-tercero
+- **titulo:** Aristotle's final cause and Adlerian teleology: we are not pushed by our past but pulled by our goals — you're in your situation because you (unconsciously) want to be
+- **desarrollo:** "Aristotle believed that the final cause of a situation is the ultimate purpose or end goal for which it exists". "In Adlerian psychology with a focus on teleology, we are not pushed by our past but pulled by our goals. We act in a way that is beneficial toward the aim in which we're directed". Consequence, "a mindbender": "you are in your current situation because you want to be, but that's unconscious to you and you probably won't believe it at first". You feel lost, confused or overwhelmed "because it's beneficial for achieving the goal of avoiding the pain, fear and embarrassment that comes with doing something unconventional with your life".
+- **ejemplos:** ninguno
+- **cita:** "we are not pushed by our past but pulled by our goals"
+- **terminos:** final cause; teleology
+- **origen:** de-tercero:Aristóteles; Alfred Adler (psicología adleriana)
+- **nivel:** avanzado
+- **prerrequisitos:** U-023-258
+- **fuente:** How To Gamify Your Life (And Reinvent Yourself... Fast).md, 3:48-5:07, 2025-05-08
+- **tension:** ninguna
+
+## U-023-260
+- **tipo:** método
+- **titulo:** Work backwards from your current actions to find the unconscious goal (usually: stay the same to avoid the pain of change), then replace it
+- **desarrollo:** Entering a new chapter you may lack a clear positive goal ("get super ripped", "start a billion-dollar business"), but you still have a goal. Work backwards: where is my mind right now? What actions am I taking? What goal do they align with? For most who feel lost and make excuses, "their unconscious goal that they aren't aware of is to stay the same because they want to avoid the pain that comes with change". The sooner you're aware, the sooner you can change the goal your mind operates on to a more positive one. Step one already primed the mind for change by gaining complete awareness of what you don't want.
+- **ejemplos:** ninguno
+- **cita:** "their unconscious goal that they aren't aware of is to stay the same because they want to avoid the pain that comes with change"
+- **terminos:** unconscious goal; work backwards
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-259
+- **fuente:** How To Gamify Your Life (And Reinvent Yourself... Fast).md, 5:07-5:52, 2025-05-08
+- **tension:** ninguna
+
+## U-023-261
+- **tipo:** método
+- **titulo:** Change your mind by immersing in new information sources; true learning occurs when the mind wants to avoid its current trajectory
+- **desarrollo:** "To change your mind completely you need to immerse yourself in new sources of information to discover the puzzle pieces that lead to clarity": read new books, talk to new people, follow new accounts, visit a place you've wanted to go, take a long walk with a podcast, take a course on a new skill for your career or a business. (He mentions his mini course on systemizing life with AI — "a focus coach or a tribe of mentors" — as a way to both get unstuck and learn AI.) "It doesn't really matter what information you consume as long as it has the potential to spark change. Because when your mind is in a state of wanting to avoid the current trajectory of your life, the new goal, this is when true learning occurs. You will feel the dopamine spurt into your brain when you find a potential opportunity to pursue".
+- **ejemplos:** New books, people, accounts, places, podcasts, courses.
+- **cita:** "when your mind is in a state of wanting to avoid the current trajectory of your life... this is when true learning occurs"
+- **terminos:** puzzle pieces; true learning; tribe of mentors
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-260
+- **fuente:** How To Gamify Your Life (And Reinvent Yourself... Fast).md, 5:52-7:16, 2025-05-08
+- **tension:** ninguna
+
+## U-023-262
+- **tipo:** heurística
+- **titulo:** You don't need an absolutely clear vision: a vague image of a good life is a general aim to move toward, not the opposite
+- **desarrollo:** "Within a few weeks you should have some idea of the life you want to live". Many think they need an absolutely clear goal or vision, "when you already know what kind of life you want to live": you don't want a bad life, you want a good one, with some image of it. "You can think of a very vague idea of a good life... and just start working in that direction". "It's a general aim. You don't even need to know what to do or what you're doing as long as you're going in that direction rather than the opposite".
+- **ejemplos:** ninguno
+- **cita:** "It's a general aim. You don't even need to know what to do or what you're doing as long as you're going in that direction"
+- **terminos:** general aim
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-261
+- **fuente:** How To Gamify Your Life (And Reinvent Yourself... Fast).md, 7:16-7:48, 2025-05-08
+- **tension:** ninguna
+
+## U-023-263
+- **tipo:** argumento
+- **titulo:** Step three, gamify your life: games are preconstructed stories whose mechanisms (goal hierarchy, direct feedback, rules) are flow psychology — and companies spend billions replicating them
+- **desarrollo:** "Your mind runs on a storyline and games are preconstructed stories with certain mechanisms that narrow your focus and make progress enjoyable": a clear hierarchy of goals (you know how to win), direct feedback (you know when you're progressing), and rules that add challenge and skill development. "All of these are core components of flow psychology". Flow: the state of optimal experience we crave, losing self-consciousness, one with the task. "This is why social media companies and gaming companies and entertainment companies spend billions upon billions of dollars investing in research for how to replicate these mechanisms... so that we become addicted to it". Few realize you can study and replicate them in your life "so you're actually making progress on something real rather than thinking you're making progress on something that's fake".
+- **ejemplos:** Social media, gaming and entertainment companies.
+- **cita:** "you're actually making progress on something real rather than thinking you're making progress on something that's fake"
+- **terminos:** gamify your life; storyline; feedback; rules; flow psychology
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-256
+- **fuente:** How To Gamify Your Life (And Reinvent Yourself... Fast).md, 7:48-8:34, 2025-05-08
+- **tension:** ninguna
+
+## U-023-264
+- **tipo:** definición
+- **titulo:** A goal is an aim and a lens from which to make decisions, not something to achieve at all costs; goals evolve with experience
+- **desarrollo:** First step to gamifying: design the game. "Most people have a very mediocre definition of what a goal is. A goal is an aim. A goal is not something that you must achieve at all costs. A goal is a lens from which to make decisions. The goals themselves are supposed to change and evolve as you become more experienced". Later: long-term goals "are just the direction you're heading in; you don't have to achieve that thing specifically".
+- **ejemplos:** ninguno
+- **cita:** "A goal is a lens from which to make decisions"
+- **terminos:** goal; aim; lens
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-263
+- **fuente:** How To Gamify Your Life (And Reinvent Yourself... Fast).md, 8:34-9:25, 11:07, 2025-05-08
+- **tension:** ninguna
+
+## U-023-265
+- **tipo:** proceso
+- **titulo:** Design the game: hierarchy of goals (end, long-term, short-term), rules (what you won't sacrifice), quantifiable priority tasks as feedback loops
+- **desarrollo:** Many write this list off as a self-help or productivity hack. (1) Create a hierarchy of goals composed of an end goal, long-term goals and short-term goals: something out there you'd want; a one-year goal to help get there; a one-month goal; a one-week goal; break down further. (2) Create the rules of the game: "what are you not willing to sacrifice in your life to make progress toward the end goal?" — health, relationships, long hours? "This adds constraints. It makes the game creative": you can succeed without long hours, without sacrificing health or relationships; most don't choose that path because they don't think it's possible or "don't know what they don't know" and won't admit it or learn it. (3) Use quantifiable priority tasks as feedback loops: write 1,000 words a day, read 10 pages, reach out to five potential clients. "Those are your levers". The 10-year, 1-year, 1-month goals are direction; the quantifiable task "is just how you get there", and completing it is "the feedback loop that lets you know you're making progress".
+- **ejemplos:** 1,000 words a day; 10 pages; five potential clients.
+- **cita:** "This adds constraints. It makes the game creative"
+- **terminos:** design the game; rules of the game; quantifiable priority tasks; feedback loops; levers
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-264
+- **fuente:** How To Gamify Your Life (And Reinvent Yourself... Fast).md, 9:25-11:43, 2025-05-08
+- **tension:** ninguna
+
+## U-023-266
+- **tipo:** principio
+- **titulo:** Life loses novelty and pattern recognition with a vague or unconscious story; creating the order your mind craves keeps chaos at bay
+- **desarrollo:** "Your life loses the spark of novelty and pattern recognition when you have a vague or unconscious story you are living out. So when you create the order your mind craves, chaos is much easier to keep at bay".
+- **ejemplos:** ninguno
+- **cita:** "when you create the order your mind craves, chaos is much easier to keep at bay"
+- **terminos:** novelty; pattern recognition; order; chaos
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-265
+- **fuente:** How To Gamify Your Life (And Reinvent Yourself... Fast).md, 11:07-11:43, 2025-05-08
+- **tension:** ninguna
+
+## U-023-267
+- **tipo:** principio
+- **titulo:** Create a tutorial phase: learn by doing; watching tutorials before playing is entertainment, not learning; collected strategies make your gameplay unique
+- **desarrollo:** "In a game you learn by doing, not by studying endless tutorials or watching gameplay". Watching before you start playing "is not learning, that's entertainment". You can watch streamers all day and think you understand, but when you sit down your fingers don't know what keys to press or how to move the mouse; what you watched doesn't align with the reality of doing. Once you play first, once it's part of your identity and daily practice, tutorials and gameplay let you pick up strategies, tactics or hacks you know how to implement; "the more strategies you collect from other people and combine into your own, that's what makes your own gameplay unique". "Start playing the game. Don't worry if you aren't absolutely confident... you figure out what you want to do by error correcting and you can't correct an error that doesn't exist".
+- **ejemplos:** Watching streamers vs actually playing.
+- **cita:** "you can't correct an error that doesn't exist"
+- **terminos:** tutorial phase; error correcting; gameplay
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-265
+- **fuente:** How To Gamify Your Life (And Reinvent Yourself... Fast).md, 11:43-13:16, 2025-05-08
+- **tension:** ninguna
+
+## U-023-268
+- **tipo:** método
+- **titulo:** While playing, supplement with fundamentals and specific solutions; main daily priorities are learning and building 1-2 hours at a time
+- **desarrollo:** Once playing your game, supplement your mind with: (1) the fundamentals, "because most success is not getting distracted from the fundamentals"; (2) specific solutions: "an intentional search for an answer once you can't make progress by your own knowledge or intuition". "The main priority tasks for your day should be learning and building for 1 to 2 hours at a time. These do not happen in isolation".
+- **ejemplos:** ninguno
+- **cita:** "most success is not getting distracted from the fundamentals"
+- **terminos:** fundamentals; specific solutions; learning and building
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-267
+- **fuente:** How To Gamify Your Life (And Reinvent Yourself... Fast).md, 13:16, 2025-05-08
+- **tension:** ninguna
+
+## U-023-269
+- **tipo:** método
+- **titulo:** AI as a thought partner to get unstuck: ask for options, or ask it to identify your knowledge gaps and blind spots and give you questions
+- **desarrollo:** For beginners "the best use case for AI is just to get unstuck". If he's in Photoshop or writing his "10,000 words a day", AI needn't do it for him but can be "this creative sparring partner, a thought partner" to overcome creative blocks: e.g. "I'm trying to do this in Photoshop. What do I try? What are five different ways to do this?" — try them and get unstuck. "This isn't outsourcing your learning", it's how you learn effectively, sped up. Further: "Here's what I'm doing, here's where I'm at, here's where I'm stuck. Can you help me identify my own knowledge gaps, my blind spots, and maybe give me three questions to ask you to help me make progress?" Done consistently, you progress much faster than others.
+- **ejemplos:** Photoshop prompt; the knowledge-gaps prompt.
+- **cita:** "Can you help me identify my own knowledge gaps, my blind spots, and maybe give me three questions to ask you"
+- **terminos:** creative sparring partner; thought partner; get unstuck
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-268
+- **fuente:** How To Gamify Your Life (And Reinvent Yourself... Fast).md, 13:16-15:02, 2025-05-08
+- **tension:** "10,000 words a day" here vs "1,000 words a day" earlier in the same video (U-023-265); possibly a slip or transcription error.
+
+## U-023-270
+- **tipo:** metáfora
+- **titulo:** Stay at the edge of the unknown: the mini map's light and dark areas represent skill and experience; teleporting in gets you one-shot, staying in known areas bores you
+- **desarrollo:** Step three of gamifying: "stay at the edge of the unknown". In some games the mini map shows explored spots light and bright, and dark unexplored areas; these indirectly represent your skill level and experience: dark places are higher level, with quests you can't take, higher-level monsters and people. If you somehow teleported into the middle of the unknown (there's no path yet), "it's like jumping into the middle of the ocean and you don't know how to swim": a higher-level character one-shots you, monsters two-shot you, you can't do quests or dungeons, you keep running back to safety, anxious. If you stay too long in known places you get bored: in Pokémon catching low-level Pokémon; in WoW one-shotting monsters for a few bits of gold. In the unknown, the gold and experience are higher. Reality: challenge too high → anxious, little progress; same task daily without novelty or challenge → bored, wondering why you aren't doing something else. Neither makes substantial progress.
+- **ejemplos:** Mini map; Pokémon; WoW gold; ocean.
+- **cita:** "it's like you're jumping into the middle of the ocean and you don't know how to swim"
+- **terminos:** edge of the unknown; mini map; one-shot
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-109
+- **fuente:** How To Gamify Your Life (And Reinvent Yourself... Fast).md, 15:02-16:28, 2025-05-08
+- **tension:** ninguna
+
+## U-023-271
+- **tipo:** principio
+- **titulo:** Stay right at the edge of your challenge level: cultivate skill and take higher challenges — where the meaningful flow of information is maximized
+- **desarrollo:** "The solution is to stay right at the edge of your challenge level". To stay in the range of optimal experience "you need to consistently cultivate your skill set and take on higher challenges. That's where the meaningful flow of information is maximized. That's where you feel as if you are always learning something new. That's where your life becomes an enjoyable blur of progress, a spiritual state of clear perception where things just feel right".
+- **ejemplos:** ninguno
+- **cita:** "That's where your life becomes an enjoyable blur of progress, a spiritual state of clear perception where things just feel right"
+- **terminos:** edge of your challenge level; meaningful flow of information; blur of progress
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-270
+- **fuente:** How To Gamify Your Life (And Reinvent Yourself... Fast).md, 16:28-17:09, 2025-05-08
+- **tension:** ninguna
+
+## U-023-272
+- **tipo:** opinión
+- **titulo:** A 9-to-5 is a great stepping stone but often a death sentence: once you stop progressing it psychologically castrates you
+- **desarrollo:** "This is also why a 9-to-5 job is a great stepping stone, but is often a death sentence. You learn and progress until you're stuck doing the same thing over and over again. That's not a meaningful way to live. It psychologically castrates you and bleeds into all other areas of your life".
+- **ejemplos:** ninguno
+- **cita:** "a 9 to-ive job is a great stepping stone, but is often a death sentence"
+- **terminos:** stepping stone
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-023-271
+- **fuente:** How To Gamify Your Life (And Reinvent Yourself... Fast).md, 17:09, 2025-05-08
+- **tension:** Consistent with U-023-186 ("jobs are a stepping stone"), but harsher wording.
+
+## U-023-273
+- **tipo:** heurística
+- **titulo:** Every week or month slightly increase the challenge — like adding a 2.5 lb plate every 1-2 weeks, not ego lifting
+- **desarrollo:** Concrete advice is hard, "but if I could suggest one thing: every week or month, slightly increase the challenge of what you do". "This does not mean adding more work. It means treating what you do like lifting weights in the gym. You don't jump up in your bench press by 50 lbs at a time. The most developed lifters know that adding the smallest 2.5 lb plate every 1 to 2 weeks is how they see the most progress and stay addicted. And they also understand that ego lifting isn't going to get you anywhere".
+- **ejemplos:** 2.5 lb plate every 1-2 weeks vs jumping 50 lbs; ego lifting.
+- **cita:** "adding the smallest 2.5 lb plate every 1 to 2 weeks is how they see the most progress and stay addicted"
+- **terminos:** progressive overload (implicit); ego lifting
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-023-271
+- **fuente:** How To Gamify Your Life (And Reinvent Yourself... Fast).md, 17:09-17:37, 2025-05-08
+- **tension:** Matiza U-023-036 (2022: sometimes "take the leap" into intense growth) and U-023-216 ("being extreme changes your brain"): here the recommendation is the smallest incremental increase.
