@@ -1,0 +1,48 @@
+---
+title: "How To Get Ahead Of 99% Of People (In 6-12 Months)"
+channel: "Dan Koe"
+video_id: d5RKW3WSEb0
+url: https://www.youtube.com/watch?v=d5RKW3WSEb0
+upload_date: 2022-12-25
+duration: "8:11"
+duration_seconds: 491
+language: en
+subtitles: manual
+extracted: 2026-09-02
+tags:
+  - youtube
+  - transcript
+  - dan-koe
+---
+
+# How To Get Ahead Of 99% Of People (In 6-12 Months)
+
+[Ver en YouTube](https://www.youtube.com/watch?v=d5RKW3WSEb0)
+
+---
+
+## Transcripcion
+
+**[0:00](https://www.youtube.com/watch?v=d5RKW3WSEb0&t=0s)** here's how you get ahead of 99% of people in 6 to 12 months become brutally aware of two things the first is what you don't want the second is where you will end up if you keep doing the same things in life observe the masses and see where mindless action leads it's not pretty At All by any means when you do this when you observe the masses sit with your thoughts think them through don't just close your mind off and take what you see on the surface and accept it as reality that's not how this works that closed-minded surface level living is what got you into this situation in the first place you need to think deeper it's easier to know what you don't want from experience and observation than it is to know what you want from imagination and just thinking and having all of these Grand ideas for your future
+
+**[0:52](https://www.youtube.com/watch?v=d5RKW3WSEb0&t=52s)** and don't get me wrong here I'm not writing those things off those things are good they are not bad do not label any of what I'm saying as good or bad test it through your direct experience many of you know that I'm very big on creating a vision for your future but the best way to do that is by also creating an antiv Vision having a negative thing something that you despise something that will get you angry because negative energy is very very potent it can be used and transmuted to actually achieve what you want in life it's like when you're going to the gym I'll be walking on the treadmill as a warm-up and I'll just think of what my life would be without the gym where could I end up if I don't put my all into that workout and somehow I just get very very pissed and I can
+
+**[1:38](https://www.youtube.com/watch?v=d5RKW3WSEb0&t=98s)** feel that energy I'm not being pissed isn't bad negative emotions aren't bad they exist they are what they are and they should be used not suppressed but used for good so to create your antiv vision sit down with a notebook become a mad scientist draw out everything sit with a notebook for 30 minutes and just draw draw out everything your entire future but start with the antiv vision write down every single thing that you do not want in this life what do you not want to look like what do you not want your future to be what do you not want your day to look like on an everyday basis and from that it will be much clearer to you what your vision will actually be because it's just the opposite of those things and so when you look at your antiv vision after creating it or as you're writing it you should
+
+**[2:27](https://www.youtube.com/watch?v=d5RKW3WSEb0&t=147s)** feel uncomfortable you should feel very uncomfortable with the possibility of where you could end up in life if you do not take control of your life and so with that discomfort you should laser in on one big goal laser in on your vision for the future and this should be meaningful because your antiv vision is usually meaningless it comes from mindless action it comes from not doing anything and letting entropy take hold and just drag your life into chaos that's what entropy does that is the supreme law of of the universe if you do not create order for your life you will decline into chaos so in that same notebook with that vision for your future and your anti Vision plan out be the mad scientist that is going to work on the project of your life create a plan create a strategy for exactly what you are going to do on a day-to-day
+
+**[3:21](https://www.youtube.com/watch?v=d5RKW3WSEb0&t=201s)** basis week by week every single thing you're going to do for the next week and write it out get extremely specific create the order so you do not be a victim of entropy next disappear and whenever I say disappear like disappear for 6 months people take it literally almost every much of what I say is metaphorical and exaggerated to get the essence of the message across I'm not saying disappear like your physical body is just going to disappear I'm saying disappear from the things that don't belong in your life cut them out this can be people games apps or even bad habits just become a aware of the things that are holding you back and there are multiple ways to do this but with the process that we've discussed and what's worked best for me is to just rip the Band-Aid off get rid of them all you
+
+**[4:09](https://www.youtube.com/watch?v=d5RKW3WSEb0&t=249s)** don't need to explain yourself here to other people that are going to be messing you hey bro where'd you go just disappear in other words break your addiction with feeling like [ __ ] because that feeling feeling like [ __ ] has one cause and that is well it has multiple causes but we're talking about mental here not physical which would be attributed to something like nutrition or food but mental mental energy that you are expending on people and things that don't give a [ __ ] about you and direct that mental energy that you now have into your vision for the future because you have created a system that will prevent entropy in your life the thing that will take you from antiv Vision to Vision the system there and to maintain a system to prevent entropy you need energy in this case mental energy to actualize or manifest that Vision if
+
+**[5:00](https://www.youtube.com/watch?v=d5RKW3WSEb0&t=300s)** you want to call it that last make a habit of the boring fundamentals But realize that the boring fundamentals are not boring because most successful people they take the same repetitive actions on a day-to-day basis in a game in like a game that mimics the real world you are logging on and you are repeating the same thing over and over to slowly level up over time right you're you're killing monsters you're going through dungeons you're doing the same thing to stack experience so you need to transfer that into the real world and move the levers that will actually take you towards your goals these are fundamentals these are principles these aren't tactics and so understand that these are not boring they seem boring on the surface when you look at someone else doing it day in day out like oh this guy Dan he writes for 30 minutes every morning oh that's that
+
+**[5:52](https://www.youtube.com/watch?v=d5RKW3WSEb0&t=352s)** seems so boring but it's Mastery over misery it's like how Sushi chefs they take years to perfect the preparation of rice and it comes in stages like a tennis player you first learn how to hold the Racket and there is a very specific way to do that well and then you move up to the next stage which is how do you angle the racket how do you hit the ball and you have to practice these things over and over and over again like how you were learning to walk until it becomes effortless or unconscious so you open up more mental energy to move on to the next thing that will take you ahead of the people that are trying to just get a result that would usually take 10 years to get in 2 weeks that's just not going to happen and so the question that everyone ask
+
+**[6:37](https://www.youtube.com/watch?v=d5RKW3WSEb0&t=397s)** like when you start something new is okay when will I see this result like a tennis player when will I be able to compete and stop asking that question because you're going to get an answer that you don't want to hear and it's going to throw you off track it takes years it takes an entire lifetime of trial and error to create a project as I said become a mad scientist the essence of science is trial and error so to perfect a project your life that you are building out it is going to take a lifetime get comfortable with that thought so this entire process that we just went over of realizing what you don't want creating a strategy and launching yourself into the opposite direction and prioritizing long-term success in Mastery is the origin story you will hear this in every origin story of a successful person so flip the
+
+**[7:25](https://www.youtube.com/watch?v=d5RKW3WSEb0&t=445s)** switch inside of you new year is coming up flip the switch inside of you and build a Foundation that will carry you into the life you want so first off Merry Christmas and Happy New Year's this is a much shorter video than I normally do many of you know that uh I was saving I'm saving a long the longer I have a lot of good videos coming the long in-depth ones uh coming next week I just didn't want to post it around Christmas because I want to give those videos the hopefully attention it deserves so first let me know if you like these shorter videos because I can work in one of these every single week along with the in-depth videos and if you guys like them I'll keep them coming so with that leave a comment let me know like subscribe while you're there links in the description for skill acquisition
+
+**[8:06](https://www.youtube.com/watch?v=d5RKW3WSEb0&t=486s)** courses and other things like that just check them out and enjoy the rest of your day my friends
+
+[[Dan Koe YT]]
