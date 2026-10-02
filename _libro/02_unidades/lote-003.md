@@ -1561,3 +1561,471 @@
 - **prerrequisitos:** U-003-118
 - **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [1:36:59–1:37:50] (2024-03-21)
 - **tension:** ninguna
+
+## U-003-121
+- **tipo:** argumento
+- **titulo:** Holons are joined by relationship ("existence is relationship"); ideas, thoughts and emotions are holons too — distinctions that are the building blocks of creative problem solving.
+- **desarrollo:** "The thing that joins these holons together is relationship so as Alan Watts would say existence is relationship and you're smack in the middle of it": a human is part of society, of this room, of a family, of friendships; wood is part of a tree, a chair, houses. Holons — "or really anything ideas figments of Consciousness units of thought is what Alan Watts would call them" — "are the building blocks of creative problem solving," not limited to the material: "ideas are also holons thoughts emotions." "This is how humans make sense of the world we create limits or distinctions" (holons), and how they work together is "very context dependent or goal dependent." Noticing them is useful: with an emotion, "how can you follow that relationship to its source and understand it on a deeper level so that you can overcome that emotion if it's like a negative one."
+- **ejemplos:** A human in society, a room, a family; wood in a tree, a chair, a house; following an emotion to its source.
+- **cita:** "as Alan Watts would say existence is relationship"
+- **terminos:** holons; relationship; units of thought; distinctions; creative problem solving
+- **origen:** adaptada-de:Ken Wilber; Alan Watts
+- **nivel:** avanzado
+- **prerrequisitos:** U-003-120
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [1:37:50–1:38:39] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-122
+- **tipo:** ejercicio-del-autor
+- **titulo:** Philosophical contemplation on a holon: follow "honey" outward through its relationships, letting thoughts trigger thoughts.
+- **desarrollo:** Holons are "best understood through philosophical contemplation just letting thoughts trigger thoughts and going down a rabbit hole of curiosity and Discovery." Live example with honey: the process of making honey; the bees and pollination; the beekeepers and whether they earn a living wage; whether harm is done to bees; the manufacturing and distribution process; how honey impacts human health; "and onward toward Infinity." Any word in that list, "even the bullet points themselves," can become a new node for connecting dots.
+- **ejemplos:** Honey: bees, pollination, beekeepers' wages, bee welfare, manufacturing, distribution, health.
+- **cita:** "letting thoughts trigger thoughts and going down a rabbit hole of curiosity and Discovery"
+- **terminos:** philosophical contemplation; holon; connecting dots
+- **origen:** propia (applying Wilber's holon)
+- **nivel:** intermedio
+- **prerrequisitos:** U-003-121
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [1:38:39–1:39:26] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-123
+- **tipo:** ejemplo
+- **titulo:** The one-person business as nested holons (you → interests → niche → market → social media); struggles are solved by zooming out — hence multi-perspectival understanding.
+- **desarrollo:** "You are a whole that includes your interests your interests are part and a whole of you but they are also a part and a whole of your Niche and then your Niche is a part and whole of the market and then markets are kind of parts and wholes of social media." If you're struggling in any domain, there's usually a problem you can pinpoint, then "zoom out and see the bigger picture of how it connects with other things." "This is why multi-perspectival understanding and open-mindedness is so important... it allows you to solve creative Problems by connecting the dots." He previews a next video on "the greatest trap of the 21st century": closed-mindedness, cheap dopamine, distraction.
+- **ejemplos:** You/interests/niche/market/social media.
+- **cita:** "multi-perspectival understanding and open-mindedness is so important is because it allows you to solve creative Problems by connecting the dots"
+- **terminos:** one person business; holons; multi-perspectival understanding; open-mindedness; Niche
+- **origen:** propia (applying Wilber)
+- **nivel:** intermedio
+- **prerrequisitos:** U-003-121
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [1:39:26–1:40:14] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-124
+- **tipo:** concepto
+- **titulo:** Holons are hierarchical: they emerge, then transcend and include what's below — humans transcend and include animals, adding conceptual survival and the capacity to sense spirit.
+- **desarrollo:** Holons "transcend and include one another": something emerges and then transcends and includes what is under it. A human transcends and includes animals: we include physicality and survival — but our survival is also conceptual. And "Spirit emerged... humans have the ability to sense it," which he describes as "the connection of Minds through the intangible," like a sports team's team spirit — a shared energy going into a game; a low-spirit team against a high-spirit team can see the game swayed surprisingly.
+- **ejemplos:** Team spirit in sports.
+- **cita:** "something emerges and then it transcends and includes what is under it"
+- **terminos:** transcend and include; emergence; Spirit; conceptual survival
+- **origen:** adaptada-de:Ken Wilber
+- **nivel:** avanzado
+- **prerrequisitos:** U-003-120
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [1:40:14–1:41:56] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-125
+- **tipo:** definición
+- **titulo:** Dominator hierarchies (pyramid-scheme structures) vs natural/actualization hierarchies (orders of increasing wholeness).
+- **desarrollo:** "Everything is structured as a hierarchy and there are two types": (1) "Dominator hierarchies which is what gives the word hierarchy a bad reputation" — "pyramid scheme esque structures"; (2) "natural hierarchies or actualization hierarchies which is an order of increasing wholeness such as particles to atoms to cells to organisms or letters to words to sentences to paragraphs the whole on one level becomes a part of the whole of the next." Society mimics the hierarchical structure, but (context-dependently) falls under the dominator definition; its parts — public schools, government, corporate jobs, some religious institutions — are structured the same way: "hierarchies within hierarchies."
+- **ejemplos:** Particles → atoms → cells → organisms; letters → words → sentences → paragraphs; public schools, government, corporate jobs, religious institutions.
+- **cita:** "an order of increasing wholeness... the whole on one level becomes a part of the whole of the next"
+- **terminos:** Dominator hierarchies; actualization hierarchies; natural hierarchies; hierarchies within hierarchies
+- **origen:** adaptada-de:Ken Wilber
+- **nivel:** avanzado
+- **prerrequisitos:** U-003-124
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [1:41:56–1:42:53] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-126
+- **tipo:** argumento
+- **titulo:** Society as a pyramid scheme: climbing a dominator hierarchy through hard work gives bad odds (10 at the top, a million at the bottom); to escape, create your own actualization hierarchy.
+- **desarrollo:** In these structures "there are more people with less power at the bottom and then there are less people with more power at the top," and in a true pyramid scheme "there are investors at the bottom that enable this power distribution." In a corporate job or school "you're taught to climb the ladder through hard work and usually manual labor," but it's "close to impossible to reach the actual top" — "if there's 10 people at the top and a million people at the bottom... those are just bad odds" — so you usually get stuck at one level. Those who want out "have to create their own": start their own business, "create their own actualization hierarchy to escape a dominance hierarchy." These hierarchies "are created every single day" — they transcend and include after creative emergence.
+- **ejemplos:** 10 people at the top vs a million at the bottom; not everyone climbs the religious ladder (few become pastors).
+- **cita:** "if there's 10 people at the top and a million people at the bottom how are you those are just bad odds"
+- **terminos:** pyramid scheme; dominance hierarchy; actualization hierarchy; climb the ladder
+- **origen:** propia (built on Wilber's hierarchy types)
+- **nivel:** intermedio
+- **prerrequisitos:** U-003-125
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [1:42:53–1:44:28] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-127
+- **tipo:** argumento
+- **titulo:** People at the bottom of societal pyramids invest attention, not money; things exist only while attention sustains them, so power in the modern world comes from attention.
+- **desarrollo:** "Money isn't the biggest problem the people at the bottom of these societal pyramid schemes are not investing money... they're investing attention." Because humans survive conceptually, if all you know and believe is your job title, "you're going to work to survive that identity with your attention." Things don't exist "unless there is enough attention to give it life" — a religious ideology, or a business model nobody has done or spread the word about, doesn't seem to exist. Identities (job title, religion) are "upheld through attention"; if attention is threatened, the thing's existence is threatened and "you are going to feel threatened" — e.g., someone says "I don't like your sports team" and you have "a physical survival response," defending the belief and hardwiring it, though zoomed out "those problems mean absolutely [nothing]." "Power in our modern world comes from attention" — external power and internal power (controlling your own attention).
+- **ejemplos:** Religious ideology; an unknown business model; reacting to an insult to your sports team.
+- **cita:** "it's safe to say that power in our modern world comes from attention"
+- **terminos:** attention; conceptual survival; power
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-003-102, U-003-126
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [1:44:28–1:46:02] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-128
+- **tipo:** definición
+- **titulo:** Modern enslavement: not a puppet master, but humans in an uncertain world flocking to ready-made external hierarchies of goals until conditioning makes us "born as slaves."
+- **desarrollo:** These hierarchical structures "present a hierarchy of goals that help frame our attention." In a world of overwhelm, uncertainty and insecurity, the masses flock to what most likely heals uncertainty or orders their mind — usually an external hierarchy of goals like climbing the corporate ladder — "because they don't have Clarity on anything else," haven't been exposed to another path that makes sense with clarity on how to reach it, so they believe it's impossible. "This is the definition of modern enslavement." "I don't believe that like someone at the top is just planning being a puppet master" — it's human nature and how nature is hierarchically structured, normalized and conditioned over time "to the point where we are born as slaves unless we take it on ourselves to free or break those chains." Social conditioning narrows your mind to see the world like everyone else; investing psychic energy into these goals becomes automatic, partly to maintain them ("if Society collapses then we all collapse"; "someone has to do this job"). His reply: that's what creative problem solving is for; if enough people decide not to go the traditional route and solve problems, "the universe will correct itself," perhaps through bad times — from a universal perspective "part of the process of Life birth and death."
+- **ejemplos:** Corporate ladder; "someone has to do this job."
+- **cita:** "I don't believe that like someone at the top is just planning being a puppet master"
+- **terminos:** modern enslavement; hierarchy of goals; social conditioning; psychic energy
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-003-127
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [1:46:02–1:47:47] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-129
+- **tipo:** argumento
+- **titulo:** The collective societal vision (good grades, high-paying job, TV, retire at 65) runs on unconscious status, survival and approval seeking; escape by awareness plus your own actualization hierarchy.
+- **desarrollo:** "The collective societal vision for your future is to get good grades maybe get a high-paying job watch TV to ease your mind and maybe retire happily at 65 both with the unconscious seeking of status survival and approval." Through conditioning it becomes habit; "we go on to mimic others... we become a product of others," chase status games, buy fancy cars, invest attention all day to make the money back, and "never think to consult or create and then consult our own values Vision wants needs and potential impact." Escape: (1) "becoming aware" (which he's doing now); (2) "creating your own actualization hierarchy to order your mind," which presents goals — i.e., problems — increasing in creativity, fulfillment and impact, potentially spreading to others. Work your way up, solving problems over and over; that's where you invest attention. Opener quote: "nobody I want to be trained into a job I hate work for 40 years and get angry at a TV until I die 90% of the population does exactly that wake up it's not too late" (attribution unclear; read as a pull-quote).
+- **ejemplos:** Fancy cars; retiring at 65.
+- **cita:** "we never think to consult or create and then consult our own values Vision wants needs and potential impact on the world"
+- **terminos:** collective societal vision; status games; actualization hierarchy
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-003-128
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [1:40:14; 1:47:47–1:49:22] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-130
+- **tipo:** advertencia
+- **titulo:** You can opt for doing nothing, but then you are automatically a "slave" — in the metaphorical, mental sense, not the historical one.
+- **desarrollo:** "You can opt for doing nothing you really can you can be a sheep you can be an NPC... but you have to understand that you are a human and that you are not going to escape survival if you opt for doing nothing you are automatically a slave." He adds: "you don't have to tie a negative connotation with slave... that's not necessarily a bad thing in certain cases it can be," and "don't take what I'm saying as absolutely literal... like a slave from a thousand years ago we're talking metaphorically here in terms of the mind not physicality."
+- **ejemplos:** ninguno
+- **cita:** "if you opt for doing nothing you are automatically a slave"
+- **terminos:** slave; sheep; NPC
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-003-128
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [1:49:22–1:50:05] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-131
+- **tipo:** framework
+- **titulo:** The Focus Formula (purpose → process → priority): "if you don't know what you want you will be told what you want and you will believe it."
+- **desarrollo:** "I've been working on this for a long time this is going to be called the focus formula and it is how you take back control of your life" (presented with a graphic he's proud of; layout only partly reconstructable — the three steps discussed are purpose, process and priority). Premise: "if you don't know what you want you will be told what you want and you will believe it." Unless your ego is completely dissolved and you plan to live in the woods like a monk with no human connection, you need a purpose — "and even then humans still have a purpose your purpose then is peace." "Since success is relative and dependent on a hierarchy of goals you need to create your own." He created it because books saying "you need a purpose" don't explain how.
+- **ejemplos:** A monk in the woods whose purpose is peace.
+- **cita:** "if you don't know what you want you will be told what you want and you will believe it"
+- **terminos:** focus formula; purpose; process; priority; hierarchy of goals
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-003-128
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [1:50:05–1:51:35] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-132
+- **tipo:** definición
+- **titulo:** Purpose = your most pressing problem right now; there are lesser and greater purposes, each unlocking the next.
+- **desarrollo:** "There is not only one purpose... there are lesser and greater purposes and you have to achieve one purpose in order to unlock the next." "A purpose is a goal and a goal introduces a problem and so your purpose is the most pressing problem in your life right now." If you've done nothing with your life, "your purpose is not to spread love and be selfless" — "if you haven't self-developed and self-transcended then it's impossible to be truly absolutely selfless." Reflection: "what is your purpose right now what is the problem or the pain that you have been avoiding confronting."
+- **ejemplos:** ninguno
+- **cita:** "a purpose is a goal and a goal introduces a problem and so your purpose is the most pressing problem in your life right now"
+- **terminos:** purpose; lesser and greater purposes; self-transcended
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-003-131
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [1:51:35–1:52:30] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-133
+- **tipo:** ejemplo
+- **titulo:** Being overweight as a purpose/North Star: become conscious of how the pain spreads into the rest of life until you're fed up enough that it fuels you.
+- **desarrollo:** If you're overweight and it dampens your life — you can't walk downstairs, can't keep up with friends, can't do certain jobs to make more money — "then that is your purpose," your "North Star at the moment," and all actions align with it (the food you eat, whether you walk or sit on the couch). "You really have to sit and understand how that problem or pain is spreading into the rest of your life you have to become conscious of that in order to get absolutely fed up with where you are." Then the purpose fuels you in the morning; "you have to sit with it and marinate in it and stop ignoring the pain in your life."
+- **ejemplos:** Overweight person unable to keep up with friends or take certain jobs.
+- **cita:** "you have to sit with it and marinate in it and stop ignoring the pain in your life"
+- **terminos:** North Star; purpose; fed up
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-003-132
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [1:52:30–1:53:14] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-134
+- **tipo:** historia
+- **titulo:** His first purpose: a breakup and not getting girls drove him to the gym — a "lesser purpose" that, once solved, revealed the next.
+- **desarrollo:** As a kid he was "tired of not being able to get girls even though I wasn't trying" ("every young dude's thing"). After his first breakup: "okay I'm going to get back at her... and just go to the gym and get jacked." "That's why I went to the gym is because the biggest pain in my life as a kid" — funny in hindsight. It's a lesser purpose, but solving it (over time, not immediately; "you may not know if it's solved or not") lets the next purpose present itself because "you're just slowly and consistently solving better problems." Also referenced later (U-003-149): the gym was his first obsession, for vanity.
+- **ejemplos:** First breakup → gym.
+- **cita:** "I went to the gym because there was a big pain in my life and I wanted to solve that"
+- **terminos:** lesser purpose
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-003-132
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [1:53:14–1:54:40] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-135
+- **tipo:** principio
+- **titulo:** Problems never go away, they get better and more fun to solve; at any moment you are leaning into a problem, marinating in it (the cause of pain), or present/preparing for the next round.
+- **desarrollo:** "Problems don't ever go away they just get better and they get more fun to solve." "All we're doing here is we're just constantly solving problems or avoiding problems and that's the cause of pain." Three states: "we're either leaning into the battle the conflict the problem or we're sitting back and we're marinating in it and we're just not moving or... we are in the present moment or we are meditating and we are practicing and getting ready for that next round of heat which is problem solving."
+- **ejemplos:** ninguno
+- **cita:** "problems don't ever go away they just get better and they get more fun to solve"
+- **terminos:** next round of heat; leaning into; marinating
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-003-132
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [1:54:40] (2024-03-21)
+- **tension:** "Marinating" is used approvingly in U-003-133 (sit with the pain) and as the passive pain-causing state here; context distinguishes them.
+
+## U-003-136
+- **tipo:** principio
+- **titulo:** Life unfolds in chapters; feeling lost between purposes is normal — practice presence and self-reflect on past rights and wrongs to get hints of the next purpose and vision.
+- **desarrollo:** "Life unfolds in chapters like a book and each chapter presents a purpose that the next chapter leads into and you will feel lost heading into new chapters." After completing one purpose, the next won't readily show up; "we've all gone through this and it's normal you just have to sit with it." It's a time for "presence mindfulness and other things in preparation for that next round of intensity": "if you aren't making progress then you are preparing for the next round of making progress." Self-reflect on what went wrong and right — "pieces of the puzzle" — since you won't know what a problem is right away. Example: not knowing where to move next, reflect on vacations and visits — "okay I want to live in a place that's a big city I want to be able to walk in some places" — "this is how you create a vision for your future."
+- **ejemplos:** Choosing where to live from reflection on past trips.
+- **cita:** "if you aren't making progress then you are preparing for the next round of making progress"
+- **terminos:** chapters; pieces of the puzzle; presence
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-003-135
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [1:54:40–1:56:12] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-137
+- **tipo:** ejemplo
+- **titulo:** Mistakes reveal the next purpose (a compulsive car purchase → need more money → start a business or upgrade skills); there are no right or wrong actions, only correctable ones.
+- **desarrollo:** From mistakes you learn what not to repeat and can move in a better direction. Example: blowing money on a compulsive car purchase and being unable to afford anything for 3 months is a mistake that also "presents a problem that could potentially be your next purpose": if I can't afford the lifestyle I want, I need more money → start a business or increase my skill set for a better job. Those present subsequent problems you must lean into: don't know how → learn; know but haven't acted → act. "There are no right or wrong actions here": if you want something surface-level and status-based (business, money, good car), do it, then self-reflect on whether it was a mistake, because "I can always come back and correct it" — sell the car, restructure the business or lifestyle. You need the control to do that; if you lack it (a job with no time), "that's a problem solve it."
+- **ejemplos:** Compulsive car purchase leading to 3 months of tight money.
+- **cita:** "there are no right or wrong actions here... I can always come back and correct it"
+- **terminos:** purpose; self-reflect
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-003-136
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [1:56:12–1:57:32] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-138
+- **tipo:** ejercicio-del-autor
+- **titulo:** Questions as "attention anchors" for finding purpose: questions dictate the quality of answers, and answers dictate the quality of your life.
+- **desarrollo:** If you're absolutely lost on purpose, "you need to ask better questions to yourself because questions dictate the quality of answers quality of answers dictate the quality of your life." Use these as "attention anchors" held in the back of awareness — meaningful questions aren't answered immediately; "you have to make mistakes and let struggle and pain lead to answers." Experience life, self-reflect, and notice which answers are piecing together. Questions: What do I really want out of life? What is important to me? What is the highest version of myself? What does my ideal day look like? What do I have to accomplish in order to get there? Does that solve a problem in the world? What product or service aligns with both? What is the next phase of my purpose? "Write these down."
+- **ejemplos:** ninguno
+- **cita:** "questions dictate the quality of answers quality of answers dictate the quality of your life"
+- **terminos:** attention anchors; highest version of myself; next phase of my purpose
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-003-132
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [1:57:32–1:59:02] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-139
+- **tipo:** proceso
+- **titulo:** Focus Formula step 2, Process: break a distant goal into a string of quest-like goals, learn the principles, and repeat the boring fundamentals.
+- **desarrollo:** "After purpose we have process we need to gain Clarity and understand how to achieve whatever purpose we have repeat the boring fundamentals." He repeats: "a sushi chef spends years perfecting the preparation of rice a tennis player obsesses over the angle of their serve Mastery sets you apart in a world that can't see beyond the surface." If a goal isn't immediate, "you need to gain Clarity by attaching a string of goals to it like a quest in a video game that helps narrow your attention block distractions and gets you obsessed with solving it." Example purpose "get fit in the gym": goal 1, learn how to go to the gym; goal 2, understand what to actually do — what food, what equipment; with a specific goal like gaining 20 lbs of muscle in the first year, learn to understand what's possible, align all actions, and execute as a process. "You need to study the principles of these things."
+- **ejemplos:** Getting fit; gaining 20 lbs of muscle in a first year.
+- **cita:** "Mastery sets you apart in a world that can't see beyond the surface"
+- **terminos:** process; boring fundamentals; string of goals; quest
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-003-131, U-003-012
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [1:59:02–2:00:33] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-140
+- **tipo:** concepto
+- **titulo:** The process changes by stage (beginner, intermediate, advanced); each stage has its own daily lever-moving actions.
+- **desarrollo:** "This process is going to change with time" because mastery and skill acquisition come "in stages of beginner intermediate Advanced and possibly even more in between." A beginner lifter doesn't do the same workouts as an intermediate or advanced one. In business, a beginner isn't hiring employees but acquiring skills, learning direct outreach, direct response marketing, how to grow on social media, what to talk about, creating a niche; intermediate is more about maintaining (he references stages 1–3 creators in his "one-person business road map"). "Every stage will have its own lever moving actions that you need to take on a daily basis." His Power Planner breaks a vision into yearly, monthly, weekly and daily goals with priority tasks.
+- **ejemplos:** Gym beginner vs advanced; business beginner skills list.
+- **cita:** "every stage will have its own lever moving actions that you need to take on a daily basis"
+- **terminos:** stages; lever moving actions; one-person business road map; power planner
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-003-139
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [2:00:33–2:01:20] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-141
+- **tipo:** heurística
+- **titulo:** Focus Formula step 3, Priority: frame actions as performance (controllable) vs vanity (uncontrollable) — e.g., 1,000 words a day instead of 50 followers a day.
+- **desarrollo:** "The best way to frame your actions whether it be on a daily or even like a higher goal like a monthly goal is performance versus vanity." Trying to gain 50 followers a day as a beginner is "iffy... not guaranteed... you don't have control over it," so "your mind is much more likely to become disordered and overwhelmed and anxious about actually taking action." Instead: write 1,000 words a day, or three high-quality tweets a day, or one Instagram post a day plus 20 replies under an account to bring followers to your page — aligned with what you're actually doing.
+- **ejemplos:** 50 followers/day (vanity) vs 1,000 words/day, 3 tweets/day, 1 IG post + 20 replies (performance).
+- **cita:** "the best way to frame your actions... is performance versus vanity"
+- **terminos:** performance versus vanity; priority
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-003-131
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [2:01:20–2:02:09] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-142
+- **tipo:** principio
+- **titulo:** You are the manifestation of your past choices, and your future self will be the manifestation of the choices you make from now on.
+- **desarrollo:** "This is such such such a big realization is that you at this moment in your life are manifestation of your past choices all of them have compounded into who you are today and your future self is going to be a manifestation of the choices you make from this moment on." Better decisions come much easier when you have a purpose and process to frame attention and decide in alignment.
+- **ejemplos:** ninguno
+- **cita:** "you at this moment in your life are manifestation of your past choices"
+- **terminos:** manifestation of your past choices; compounded
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-003-131
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [2:02:09–2:02:59] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-143
+- **tipo:** método
+- **titulo:** Making better decisions: bring your purpose to the top of mind (filter signal from noise) and adopt the perspective of your highest self (the bodybuilder eating chicken and rice).
+- **desarrollo:** First, "bring your purpose to the top of your mind this will help you filter signal importance from noise distraction" — "if it isn't conducive to achieving your purpose then it isn't important unless you've been convinced that it is by someone else." Second, gain "multi-perspectival understanding," e.g., "adopt the perspective of the highest version of yourself": what do they look like, what do they want? "You have to transfer your consciousness into that person and see what decision would they make." "If I'm a bodybuilder I can pretty much understand why a bodybuilder would decide to eat chicken and rice aside from going out" — because they have a meaningful goal. Ask: "how can you view the situation that allows you to perceive it in a way that is conducive to action."
+- **ejemplos:** A bodybuilder choosing chicken and rice over going out.
+- **cita:** "you have to transfer your consciousness into that person and see what decision would they make"
+- **terminos:** signal; noise; multi-perspectival understanding; highest version of yourself
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-003-142
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [2:02:59–2:03:46] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-144
+- **tipo:** principio
+- **titulo:** "Problems are only problems if you interpret them as such from your narrow perspective" — zoom out (some people can't even get out of bed).
+- **desarrollo:** "Problems are only problems if you interpret them as such from your narrow perspective if you don't feel like getting out of bed zoom out and see your problem for what it is": some people don't have legs and have to be lifted out of bed; some don't have a bed or food to cook in the morning. "You have a purpose to actualize and you need to perceive the situation in the way that allows you to act."
+- **ejemplos:** People without legs; people without a bed or food.
+- **cita:** "problems are only problems if you interpret them as such from your narrow perspective"
+- **terminos:** narrow perspective; zoom out
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-003-143
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [2:03:46–2:04:33] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-145
+- **tipo:** principio
+- **titulo:** The Focus Formula is global: it applies to every goal, down to a single article (purpose, process, priority actions).
+- **desarrollo:** "This does not only apply to your life this applies to every single goal you plan to actualize": a project, or writing an article — "you need a purpose for that article you need a process for writing it and you need priority actions to take." "This is like a global framework for framing your attention and eliminating distraction" from unimportant problems ("noise").
+- **ejemplos:** Writing an article.
+- **cita:** "this is like a global framework for framing your attention and eliminating distraction"
+- **terminos:** Focus Formula; global framework
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-003-131
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [2:04:33–2:05:18] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-146
+- **tipo:** ejercicio-del-autor
+- **titulo:** Internalize the purpose by dancing between its worst-case and best-case scenarios, and run every distraction through a "purpose filter."
+- **desarrollo:** "This image is your reality... internalize that... sit with it and marinate in it and understand the good and bad of not achieving it." Follow the rabbit hole into the worst possible scenario of where life could end up if you don't achieve the purpose ("it's not pretty at all"); then the flip side: the best case if you actualize it, and the next, and the next — where will you be? "Then dance between those two as you're going about life." When something pops up to distract you, "filter it through a purpose filter": is this important, and how will I act on this problem? "Typical distractions like social media the news and other things they don't [ __ ] matter in your life," and they matter to many people, who build identity around them, "because they do not have a purpose to bring their attention back to" — no hierarchy of goals to structure attention.
+- **ejemplos:** Social media and the news as typical distractions.
+- **cita:** "dance between those two as you're going about life"
+- **terminos:** purpose filter; worst case; best case; hierarchy of goals
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-003-131, U-003-003
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [2:05:18–2:06:08] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-147
+- **tipo:** argumento
+- **titulo:** How you spend your 20s makes or breaks your future: by 30 time dries up, habits compound, health catches up, escaping a job takes more effort and your mental peak begins to decline.
+- **desarrollo:** "The harsh reality is that how you spend your 20s will make or break your future of course there are outliers." "Dopamine and modern Comforts have become so normal that 99% of the population is docile just way too comfortable and heavily risk averse." "By the time you turn 30 life hits you like a truck": time dries up and habits compound and are harder to break; neglected health catches up and costs time; without a business, more effort and time are needed to leave a job; "your mental Peak starts to decline in your 30s"; you lack the knowledge and experience from forging your own path; and you have commitments (house, spouse, work, maybe children). He admits "I'm 26 I can only speak so much here," but people have told him he's wiser than 50-year-olds who did the same thing every day. If you're in your 30s, don't be discouraged — "you will have to put in more effort for a longer period of time than a 20-year-old" — start now.
+- **ejemplos:** 50-year-olds who did the same thing every day.
+- **cita:** "by the time you turn 30 life hits you like a truck"
+- **terminos:** future proofing; docile; risk averse
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [2:06:08–2:08:40] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-148
+- **tipo:** advertencia
+- **titulo:** The three traps of being young: social conditioning, dopamine-laden entertainment, and modern comforts.
+- **desarrollo:** "Being young presents the most traps": (1) social conditioning — "you may not even realize the Trap that you've dug yourself into by the time you're 25 26 27" without having seen a video making you aware of the life you haven't lived; (2) dopamine-laden entertainment — when bored your attention goes to the phone, Instagram, and 5 minutes later you're scrolling random reels; (3) modern comforts — video games, Netflix and the like overlapping with cheap entertainment — "that make people not want to Branch into the unknown and discover new things... and become aware of their potential." "The solution is simple but not easy": build your body, mind, business.
+- **ejemplos:** Instagram reels when bored; video games; Netflix.
+- **cita:** "you may not even realize the Trap that you've dug yourself into by the time you're 25 26 27"
+- **terminos:** social conditioning; dopamine laden entertainment; modern Comforts
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-003-147
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [2:07:50–2:09:30] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-149
+- **tipo:** argumento
+- **titulo:** Future-proofing step 1, build your body: the gym teaches that you must put effort into reality to get something out (meaningful vs cheap dopamine), and looks matter because attention precedes displayed value.
+- **desarrollo:** "Most successful people that I've talked to have always started with some form of exercise." His first obsession was the gym — for vanity, to get jacked and get women — like almost every man he knows who is now successful in business. "The gym specifically teaches you that you have to put effort into reality in order to get something out it teaches you that you are not entitled to [ __ ] anything"; "the gym is literally the opposite of cheap dopamine it is Meaningful dopamine that you see through progress effort hard work." "Looks matter whether you think it's fair or not" (acknowledging genetic outliers and the less fortunate: "do what you can"). Analogy to business: grabbing attention is the first step to displaying value — content catches attention before converting into money; in real life looks, demeanor and presentation catch attention, then people discover who you are and your skills. People respect you more when you've put effort into your body even if "still objectively ugly," and you attract more attention from high-level people.
+- **ejemplos:** His vanity-driven start at the gym; content attention → money.
+- **cita:** "the gym is literally the opposite of cheap dopamine it is Meaningful dopamine"
+- **terminos:** build your body; meaningful dopamine; cheap dopamine; attention
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-003-148
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [2:09:30–2:11:09] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-150
+- **tipo:** principio
+- **titulo:** Manage vanity through mindfulness — practice both peace and progress; start with the body because you can start now and mind and finances follow.
+- **desarrollo:** "There is a line where vanity can hurt your self-image... you can get trapped in that mental thought Loop," but that's an aspect of living with purpose that can be "learned and overcome through a mindfulness practice." Whenever you pursue anything — looks, money — "there's always something you can compare yourself to... that is where suffering is born out of desire," so learn to manage it rather than avoiding experience and progress altogether: "peace and progress practice both skills." "You can look good and not be a narcissistic [ __ ]." Start with the body "because you can start right now" — no need to wait for a skill set — and the benefits transfer to clear thinking, a strong mindset and more physical energy: "when you prioritize your body your mind and finances follow because you're improving the vessel from which those things come."
+- **ejemplos:** ninguno
+- **cita:** "peace and progress practice both skills"
+- **terminos:** peace and progress; vessel; suffering is born out of desire
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-003-149, U-003-016
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [2:11:09–2:12:02] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-151
+- **tipo:** argumento
+- **titulo:** Future-proofing step 2, build your mind: your "level of mind" (height and openness of perspective) dictates quality of life — unlike a car, you must understand your mind to drive it.
+- **desarrollo:** "Your level of Mind dictates your quality of life... your level of mind is pretty much your perspective how high and open of a perspective you have from which you interpret the problems in your life." With a low level of mind focused on a problem within that level (e.g., paying the bills), you get trapped in a thought loop and don't learn the skills and experience to rise above it "to view the problem from a lens that does not bother you" — "your problems don't go away you just get better at perceiving them." Metaphor: "you don't need to understand every single part of a nice car in order to have a nice ride but with the mind it doesn't work like that you have to understand your mind in order to use it and in order to drive it." Schedule time to study philosophy, spirituality, metaphysics, psychology, epistemology, stages of ego development, Spiral Dynamics, "study the mind" — "a lifelong pursuit of Mastery you will become powerful."
+- **ejemplos:** Paying the bills thought loop; the car vs the mind.
+- **cita:** "you don't need to understand every single part of a nice car in order to have a nice ride but with the mind it doesn't work like that"
+- **terminos:** level of Mind; build your mind; stages of ego development; spiral Dynamics
+- **origen:** propia (lists Spiral Dynamics and ego-development theory as study topics)
+- **nivel:** fundamental
+- **prerrequisitos:** U-003-135
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [2:12:02–2:13:42] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-152
+- **tipo:** proceso
+- **titulo:** Using the mind to progress in reality: create a vision, deconstruct it into goals, acquire knowledge and skills, make small daily improvements across health, wealth and happiness.
+- **desarrollo:** "We need to use our mind to make progress in reality so we adapt to the modern landscape by creating a vision for your future deconstructing it into goals acquiring Knowledge and Skills and making small daily improvements focus on your health wealth and happiness." He points to his video "society as a pyramid scheme / how to take back control of your life" for more detail.
+- **ejemplos:** ninguno
+- **cita:** "creating a vision for your future deconstructing it into goals acquiring Knowledge and Skills and making small daily improvements"
+- **terminos:** vision; health wealth and happiness
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-003-151
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [2:13:42] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-153
+- **tipo:** definición
+- **titulo:** Future-proofing step 3, build your business — "entrepreneurship is for everyone": you already provide value; put it in front of people with a price tag.
+- **desarrollo:** "Entrepreneurship is for everyone you are an entrepreneur right now you have value to provide and you provide it to some people all you need to do is put that value on the Internet or in front of people with a price tag on it and boom you're an entrepreneur." "Strip your mind of the limiting beliefs of what you think entrepreneurship is and just start contributing to humanity and getting paid for doing so."
+- **ejemplos:** ninguno
+- **cita:** "all you need to do is put that value on the Internet or in front of people with a price tag on it and boom you're an entrepreneur"
+- **terminos:** entrepreneurship is for everyone; build your business
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [2:13:42–2:14:33] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-154
+- **tipo:** concepto
+- **titulo:** Business channels interests, skills and expertise to impact others at scale; a fulfilling life leverages five intrinsic drivers (curiosity, purpose, passion, autonomy, mastery).
+- **desarrollo:** "Business is how you Channel your interests skills and expertise to impact others at scale." Alan Watts: "sensible people get paid for doing what they enjoy doing." "If you want to live a fulfilling life you need to leverage all five intrinsic drivers curiosity purpose passion autonomy and Mastery you need to create and have full control over the lifestyle you wish to live business is how you get there."
+- **ejemplos:** ninguno
+- **cita:** "sensible people get paid for doing what they enjoy doing" (Alan Watts, as quoted)
+- **terminos:** five intrinsic drivers; curiosity; purpose; passion; autonomy; Mastery
+- **origen:** de-tercero:Alan Watts (quote); five drivers presented as the author's list
+- **nivel:** fundamental
+- **prerrequisitos:** U-003-153
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [2:14:33] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-155
+- **tipo:** argumento
+- **titulo:** You don't need a billion-dollar company but a one-person business: the internet has brought us full circle to ancestral community entrepreneurship, now global; sell what would have helped your former self.
+- **desarrollo:** "No you don't need to start a billion dollar company the internet has leveled the playing field for skill and knowledge acquisition" and putting a product in front of someone. "Evolution has led to this point of Us coming full circle to how our ancestors were entrepreneurs" working in a little community, "a little Utopia," now at a global scale. "You need a oneperson business": learn the skills you want, generate traffic on social media by putting yourself in public as a personal brand, and "create a product that would have helped your former self... or would have helped you get to where you are faster." Distinction: "personal development is about solving your own problems business is about solving other people's problems." Example: needing mental clarity, he creates a planner or journal and sells it to others.
+- **ejemplos:** Creating a planner/journal for his own clarity and selling it.
+- **cita:** "personal development is about solving your own problems business is about solving other people's problems"
+- **terminos:** one-person business; personal brand; former self
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-003-153
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [2:14:33–2:16:09] (2024-03-21)
+- **tension:** ninguna
+
+## U-003-156
+- **tipo:** proceso
+- **titulo:** Set a goal, find a problem, learn to solve it, document it, distill it into a replicable process, give it to others — offline it's growth, online it's business.
+- **desarrollo:** "Set a goal find a problem learn learn how to solve it document how you solved it distill it into a replicable process give it to others that want to be helped do it offline and it's called growth do it online and it's called business that's it." Close: in your 20s you realize your potential "by becoming aware of the rut that you are digging yourself in just by the default state of humanity... Consciousness is chaotic unless we order it": "don't waste your 20s build your body build your mind build your business."
+- **ejemplos:** ninguno
+- **cita:** "do it offline and it's called growth do it online and it's called business"
+- **terminos:** replicable process; growth; business; Consciousness is chaotic
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-003-155
+- **fuente:** Get Ahead Of 99% Of People With Deep Work & Monk Mode.md [2:16:09] (2024-03-21)
+- **tension:** ninguna
