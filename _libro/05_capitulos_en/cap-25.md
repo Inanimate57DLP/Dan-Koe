@@ -848,3 +848,530 @@ In March 2025 he adds the learning dimension. "I was once a freelance web design
 
 The story gathers the threads of this section into a single trajectory: two to four hours a day of outreach that built no leverage; the discovery of people writing in public and receiving clients inbound; the question "why am I not in their position?"; and the result, freedom from outreach, a four-hour workday, and a public practice that doubled as learning. The final remark connects back to Devon Eriksen's argument about feedback in Section 25.2: whether the work is good or not, publishing it returns a signal. Chapter 26 follows the story further, as a case of the growth system, and Part XIII places it within Koe's whole trajectory.
 
+### 25.5 Social Media as a New Society
+
+The previous sections justified the audience in economic terms: attention is scarce, distribution is freedom, owned distribution compounds, trust converts. This section presents the larger picture in which Koe places all of this. For him, social media is not a marketing channel that a business happens to use; it is a new form of society, with its own public square, schools, market and media, and with consequences for identity and for how culture evolves. The picture is partly descriptive and partly speculative, and Koe's evaluation of it has changed more than once. Both the picture and its changes matter for the rest of Part IX, because they explain why Koe treats building an audience as a way of participating in society rather than as a tactic.
+
+#### Not an app but a society
+
+The claim appears in its basic form in June 2023. People do not realize how revolutionary social media is: it is where we learn (a school), where we hire (careers), where we teach (business) and where we meet socially. People anticipate virtual reality as something to come, but "we're already in it." Being a mindless consumer within it is like the scene in the animated film *WALL-E* in which humans sit brainless in armchairs being fed cheap pleasure. Once you break out of that and see that you can use the medium to contribute and to help others break out, you see that "by neglecting social media you are neglecting the evolutionary path to your fullest potential." Its integration into our lives, he says, is a stepping stone to the next phase of human evolution. "Social media is not just an app, it's a new society."
+
+**Source:** Get Mad At Where You Are In Life (A Deep Explanation).md
+
+Two weeks later, he describes how that society came into being. A new virtual society has emerged, but not the one people imagined for some future date, through something like Apple's new VR headset: "that's not how evolution works." "Evolution comes from solving the problems that cause our suffering; it is a slow burn until it finally explodes." The new society arrived "as fast as a star exploding," and we called it social media. Programmers, visionaries and businesspeople spent years solving burning problems: until then, communication, information, business and opportunity were local. Centuries of geographic restriction changed in the blink of an eye. The internet made social media possible, and social media made possible the creator economy, which is so new that few people grasp its significance.
+
+**Source:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md
+
+The **virtual society**, in this sense, is the society that emerged when social media solved the problem of locality. The argument is a philosophy of history in miniature: change accumulates slowly by solving concrete problems, then appears suddenly, and its significance is recognized only afterward.
+
+In December 2023 Koe gives the society a name, the **Digital Society**, and a function. Few people recognize social media as "the new Digital Society"; most see it as entertainment or as a place to complete work tasks. In reality media shapes culture, society and the economy; it is how we learn, how we get new information and how businesses communicate their value; it creates a social fabric on which civilization relies. "Social media is the collective consciousness that spreads ideas that people can adopt as their identity." Like society itself, it "creates the most children or selves," his way of saying that it produces identities, as described in Part II. But unlike government and society, it is composed of creators, so it is not centralized, and creators can change the direction of human evolution. A creator can now send a message to millions instantly; fifty years ago, reaching a million people would have taken months. Social media even changes how we spend money, because it changes which messages are adopted.
+
+**Source:** The Future Of Work Is Play (How To Create A Digital Career).md
+
+This connects the present chapter with the very beginning of the book. In Part I, the Matrix was the set of ideas a person absorbs from their environment and adopts as identity. Here, social media is described as the most powerful such environment ever built, a "collective consciousness" that distributes identities at scale. The creator, in this picture, is someone who contributes ideas to the collective consciousness rather than only absorbing them, which is the consumer/creator distinction of Section 25.1 raised to the level of society.
+
+Koe's most speculative statement of this view comes from an August 2023 video. The future, and the present, are online, "in the collective consciousness where we're documenting our mind," slowly becoming more virtual: "we're transcending to the mental plane of existence through the internet." He calls this "the next phase of evolution": automating our physical bodies so as to interact with far fewer restrictions than in the physical world. Imagine being able to read someone's thoughts, he says (with laws imposed). He is excited to see what happens "when we solve the hard problem of consciousness and can literally hack" the "relative world" through its underlying fabric. Hence, he concludes, "your personal brand is your online character or your online avatar." And if you do not want to code, that is fine: tools let you build a website and a membership dashboard and connect everything with automation software such as Zapier.
+
+**Source:** I Had To Learn These High-Income Skills (If I Wanted To Make Money).md
+
+This passage should be read as what it is: an opinion and a speculation, offered with enthusiasm, about the long-term direction of technology. It is not an argument on which the economic claims of this chapter depend. **Complementary context:** "the hard problem of consciousness" is a phrase introduced by the philosopher David Chalmers for the question of why and how physical processes give rise to subjective experience; it remains unsolved, and Koe's reference to "solving" it is speculative. What the passage contributes to the chapter is the image of the personal brand as an **online avatar**: the character through which a person exists in the digital part of society.
+
+#### The new town square and its institutions
+
+From 2023 to 2025 Koe develops the society metaphor through a series of images, each of which highlights one of its functions.
+
+The **new town square**. In May 2024: "Social media is the new town square; creators are the new Renaissance men, the decentralized education system and the new economy." He continues: "Stop thinking of a creator as some new internet job; think of it as a part of life." "If you think of creator as content creator, you're doomed; if you think of creator as just the essence of your being, you're going to win." You are a creative, spiritual being, "a piece of a Creator." You already spend most of your day on your phone; to act as if social media were not ingrained in humanity is foolish. "Being a creator is just expressing your value in the digital world rather than being a slave to it on the sidelines."
+
+**Source:** The Age Of The Generalist (How To Earn A Living Doing What You Enjoy).md
+
+A week later he repeats the image with a contrast between two ways of using it. "Social media is not just an app on your phone, it's the town square of the new digital society." Many people scroll "to numb their mind and distract themselves from the responsibility in their life," but "a select few" use it "to educate yourself, increase your value, identify new opportunities that are being created every single day." Since schooling and conventional routes "don't lead to many good opportunities," and since, "as technology advances, new jobs are created by the technology and the creators," social media "is the only place to actually find those opportunities."
+
+**Source:** How Smart Creatives Work Less & Earn More LEVERAGE.md
+
+The redefinition of "creator" in the first of these passages matters for the whole chapter. Koe's case for building an audience is not a case for becoming a "content creator" in the professional sense; it is a case for expressing what one is in the place where society now happens. Chapter 27 returns to this distinction when it discusses Koe's rejection, in 2024, of the label "content creator."
+
+The **people** and the **public institutions**. In June 2023 he says that if social media is the new society, personal brands are its people. This is not limited to business owners: if you have a social media account, you are already in it, just as a consumer who does not contribute. The society is global, not like a physical lot with only a hundred buildings: you have your own lot, and if you want digital real estate, you can sign up for a website builder and put up a website. Creators and brands are hiring people who display their value through their public resume, their profile or content. "Social media is a public job board, public school, public note-taking system and public party," where you find friends and nurture business relationships. A good start, he suggests, is to work for another creator or brand to get real-world results with modern skills; every skill you apply to your own brand is applicable to others' brands, so building your own stacks the most applicable and best-paid knowledge.
+
+**Source:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md
+
+In March 2024 he condenses it: "Social media is not just an app on your phone; it is a decentralized public school, marketplace and podium, but only for those who value personal responsibility. You aren't forced to be a part of this society, and that's why it's important."
+
+**Source:** If Your Life Is Spiraling Out Of Control, Here's The Solution To Feeling Lost.md
+
+The **new party**. In February 2023, introducing a video on networking, Koe describes college social life (dorms, meetups, parties) and then says: "now we're at the center of a new party, which is social media." The metaphor transfers the social dynamics of college to the new medium: the introvert who avoided the physical party now faces a new social arena, and the same skill, being social, is required there.
+
+**Source:** The Non-Needy Networking Process (How To Make High Value Connections).md
+
+This image prepares the networking chapter that follows (Chapter 26): if social media is a party, growth depends not only on content but on relationships.
+
+The **tribe**. The earliest version of the society image, from June 2022, uses the word "tribe." Unconsciously, Koe says, society flocked to social media (and social media was built) so that we could connect with "our tribe, metaphorical tribe like our ancestors had," help one another develop skills, educate each other and raise consciousness. And from this he draws a strong conclusion: "Starting a personal brand nowadays is non-negotiable, it's not optional," not only for entrepreneurship but for displaying your value as a human being. Employers can see your public resume, see you applying knowledge and getting results, see social proof from a following and from results for others. "It's leadership as a whole."
+
+**Source:** How To Make Money As A Creative On The Internet.md
+
+The **avatars**. In September 2023: "Personal brands are the new wave that won't die out, it's not a phase, mom." The digital world is expanding faster than the physical one, and "personal brands are the avatars that occupy the space." Everyone has a personal brand and everyone is in the creator economy, but few realize that their contributions, posts and products are not really contributions. He distinguishes consumers, who "are too busy posting about their lives to impress friends who aren't really friends," from creators, who "are learning, building and distilling valuable information that makes life better for everyone." Building an audience, he concludes, is "the greatest skill stack of our decade."
+
+**Source:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md
+
+The metaphors change across the years (tribe in 2022; new society, public school and party in 2023; town square in 2024), but the formulation is stable: social media is a society, personal brands are its inhabitants, and participation through contribution rather than consumption is the condition for benefiting from it. The strong claims of 2022 and 2023 ("non-negotiable," "the new wave that won't die out") should be read in light of the 2024 episode noted in Section 25.2, when Koe criticized the term "personal brand" itself before recovering it.
+
+#### You are already a content creator
+
+In January 2024 Koe pushes the argument one step further: you are already a content creator, whether or not you dismiss the idea as "a new age internet job." You write texts, speak to peers, persuade your way into a career: everything content creators do, "but with a fraction of the leverage." He cites a figure transcribed as "Bala G" (probably Balaji Srinivasan, whose sequence he quotes elsewhere): "physical, then digital, then native digital." His conclusion is that you will be an internet content creator within the next few decades, because it will be a necessity for survival. The preparation he recommends is a change of self-description: "you aren't a creator, you aren't a personal brand, you are just a person who is conscious of their character in virtual reality." You already have an account.
+
+**Source:** The 7 Best Internet Business Models (From Zero Experience To Advanced).md
+
+The argument works by dissolving the boundary between ordinary communication and content creation. If everyone already produces content (messages, conversations, persuasion), then the only difference between an ordinary person and a creator is leverage: how many people the content reaches, and whether it is published where it can accumulate. **Character in virtual reality** is Koe's name for the stance he recommends: neither "creator" nor "personal brand," but awareness that one already has a public character in the digital part of society. Section 25.3 developed the leverage half of this claim; this passage adds its identity half.
+
+#### Why it is hard to argue against creating content
+
+In June 2024 Koe lists what creators have that others lack in the Digital Society. Creators are at the forefront of large companies' reputations; founders and executives have personal brands (his example is Elon Musk). Creators get first pick of good jobs, because they prove their value in their content. Creators work for other creators to gain experience and leverage. Companies come to creators first as sponsors for niche markets. And creators are "the only accounts consumers actively follow for human connection, not memes or company updates." Theme pages and company pages are "practically useless distractions," unless followed for updates or for a laugh.
+
+**Source:** Ideas Are The New Oil (How More People Get Rich In The Digital Age).md
+
+The last point restates "people follow people" (Section 25.4) at the level of the whole society: in the town square, the accounts that receive sustained attention for its own sake are human ones.
+
+In September 2024, in a beginner's guide, Koe gives the most practical version of the society metaphor. "The first thing we need to do is set up our digital storefront. It's just like opening a physical location in your local area." The digital world is accessible, and a social profile costs nothing. It is where you attract an audience, or traffic, to your storefront, and it is necessary. There are other ways (radio, print, billboards, paid ads), but social media "is the most accessible, where all of the attention is right now."
+
+**Source:** The Fastest Way To Build A One-Person Business (Beginner Guide).md
+
+The **digital storefront** is the profile understood as a free shop placed where people already are. The image is commercial where "town square" is civic, but both make the same point: the location that once cost rent now costs nothing, and the attention that once passed by a street now passes through feeds.
+
+#### You are the media
+
+The economic consequence of the society picture is that each person can become a medium. In April 2023 Koe recalls the pairing of Section 25.3: media is the front end of the internet, code the back end. Media includes video, writing and their forms, and you must understand media to make any income. "You could consider yourself media... you could consider your business online a one-person media company." Media is how we learn, how we get new information and how businesses communicate their value; it consumes much of our lives and "forms a large amount of the social fabric that we operate on as a civilization."
+
+**Source:** Self Improvers Are Creating Their Own Careers (The New Economy).md
+
+In March 2024 he turns this into a principle of distribution. "You have the ability to build an audience of potential buyers by becoming a one-person media company." "Everyone is on social media; that's where the attention is right now." Your customers are not mostly watching television, listening to the radio or reading newspapers ("some of them are, sure, but a majority of their time is spent on social media"). "Your job as a business owner is to place your product where attention is right now." That is why corporations are having their leaders and employees post on social media, how freelancers find clients, and how creators get clients and sell their products.
+
+**Source:** Working Hard Won't Make You Rich (Do This Instead).md
+
+In the December 2024 interview with Devon Eriksen, Koe ties the same idea to agency. If you want to write a book, make music or take on any creative challenge and distribute it, but you do not want to give up control to a publisher, a record label or anyone who provides resources but "also take[s] a large portion of it themselves," then social media is "where most of the attention is." "Attention and social media are a tool to get eyes on what it is that you built or created," and you have to approach social media "for what it is, which is media." It differs from mainstream media "because it's one-person media companies... all creating content to attract people that they like individually."
+
+**Source:** The Most Important Skill To Learn In The Next 10 Years With Devon Eriksen.md
+
+In July 2024 he states it as a fact about the modern world. "Social media, the creator economy and technology have allowed a singular person to attract and monetize an audience, a distribution channel; this isn't a new fad business model, this is the reality of the modern world." "Social media isn't just an app on your phone, it's integrated into your everyday life; it would be very difficult to survive without it" in this society. And he adds a moral remark aimed at those who would withdraw: "You can go live in the woods, but that's not as spiritually noble as you think it is, just cutting yourself off from any form of responsibility in the world. You can be both spiritual and make money and contribute to other people in an ethical way."
+
+**Source:** The Future Of Work (Avoid Learning These Skills).md
+
+A third-party framework supports the picture. In April 2023 Koe cites a Twitter thread by Matt Mike (as transcribed) that added a new perspective to his theory. It distinguishes three layers of social media by the value created, measured in income and audience:
+
+1. **Platforms**, the first form of digital media, such as the phone itself, where Google and Apple rule, with trillions of dollars and billions of users.
+2. **Apps**, such as Twitter, Instagram, TikTok and YouTube, which captured value of the same order.
+3. **Creators**, the layer most people miss because they are absorbed in the apps. The largest creators (Koe mentions Joe Rogan and MrBeast) are predicted to generate enormous value and to have billions of followers, becoming media companies with great leverage.
+
+Smaller creators, Koe adds, do not need that scale: "you need a million dollars a year and maybe 200,000 followers." The thread's key phrase is that "creators are atomizing what the social networks did by capturing mass attention, forming communities, distributing media and generating revenue."
+
+**Source:** Self Improvers Are Creating Their Own Careers (The New Economy).md
+
+The framework is Matt Mike's, adapted by Koe to reinforce his view that everyone will become a creator; the projections it contains (trillions in value) belong to the thread, not to Koe's own analysis. What Koe takes from it is the idea of **atomization**: the functions of a social network (capturing attention, forming communities, distributing media, generating revenue) reproduced at the scale of a single person.
+
+In February 2025, faced with the flood of AI-generated content, Koe gives the strongest version of the claim. Ironically, "the only way out is through": to battle the flood of processed content, you must contribute to humanity by posting organic content. That may sound strong, he grants, but social media is the media now, **you are the media**, media shapes culture, and culture shapes everything from politics to the economy, so posting online can matter. He believes that becoming a value creator is one of the few ways forward, and that it is what the most successful and happy people have done throughout history.
+
+**Source:** The creator economy is dying thanks to AI.md
+
+Between 2023 ("you could consider yourself media") and 2025 ("you are the media"), the formulation hardens from an option into a claim, and its justification shifts from economics to culture: posting organic content is not only a way to earn but a way to influence what culture becomes in an age of synthetic content.
+
+#### How the publishing model broke
+
+The most detailed case of the shift from centralized to individual media in the corpus comes from Devon Eriksen, and it concerns publishing. Koe elicits it and endorses its conclusion; the analysis and its polemical edges are Eriksen's.
+
+Eriksen considered traditional publishing when he finished his first novel and weighed all the options. In the twentieth century, he says, there was a real need for publishers. A book required offset print runs, "which typically had a five-figure cost associated with them," and so it required a financier. "A publisher was essentially a venture capitalist during that time": publishers paid for printing, gave authors an advance, made it possible for people starting out to make a living as writers, "and then they were going to make back their money on the ones that took off." "It was a working, viable business model that provided value for everybody involved: authors, publishers and readers." The **midlist** (the tier of authors with moderate sales) existed as "an incubator for your future A-listers."
+
+**Source:** The Most Important Skill To Learn In The Next 10 Years With Devon Eriksen.md
+
+Then, he says, "two things broke that." The first was the internet. The second was what he describes as ideological capture of the industry, which he names in deliberately provocative political language. Publishing companies conglomerated in "the same ten blocks of Manhattan," attending the same parties and moving in the same social circles, and became "less and less interested in what people wanted to read and more and more interested in what they thought people should read." His chain of reasoning:
+
+1. The function publishers provided to the audience was gatekeeping: they "filter out all the trash."
+2. They began "filtering for aligned political opinions" instead of quality.
+3. They therefore no longer provided that benefit to the audience.
+4. Their business model became less profitable.
+5. Advances disappeared, promotional spending (especially for new authors) disappeared, and they got rid of the midlist.
+6. "Because they weren't able to serve a purpose for the audience, they also lost the ability to serve a purpose for the authors."
+
+His conclusion: "nowadays I don't think book publishers really serve any purpose at all for most genres and types of books."
+
+**Source:** The Most Important Skill To Learn In The Next 10 Years With Devon Eriksen.md
+
+The structural part of the argument (an intermediary that once financed and filtered loses its function when the internet removes the need for financing and its filtering no longer serves readers) is independent of the political part, and it is the structural part that connects with Koe's thesis. The claim about political filtering is Eriksen's contested judgment about the industry, offered without evidence in the conversation, and should be read as such.
+
+Eriksen illustrates his experience with an anecdote. An editor he had hired himself enthusiastically showed sample chapters to an acquisitions editor at a major publishing house. The man read two or three sentences, held the folder out "as if I had offered him a dead spider," and said: "rewrite it in third person; you do know how to write in third person, don't you?" Eriksen realized that this man "had no idea that perspective and tense are tools in an author's toolbox." He would have had to teach him why *Theft of Fire* is written in the first person and the present tense, and "the precise technical craftsmanship reasons why that unusual choice was made," if the man could even be taught, "because he had the self-limiting belief 'I am an editor with 20 years of experience.'" Eriksen's line: "you repeated the same mistakes for 20 years and called it experience." The industry, he says, was "full of people who were very full of themselves" and of self-limiting identity beliefs; he "had to go and prove that I could sell."
+
+**Source:** The Most Important Skill To Learn In The Next 10 Years With Devon Eriksen.md
+
+After he proved it, publishers came to him with deals, and he evaluated them by what they would add. "This deal you're offering me isn't very good, because the only additional feature that this offers to me is you get paid... that's not a feature." He was offered "like a $5,000 advance" for the audiobook rights. Instead he ran a Kickstarter campaign to fund the audiobook, raising "I think $43,000," hired three very talented professional actors, one for each major role, and produced it "with all the bells and whistles." The experience confirmed his belief: "I don't need someone to give me permission to create; I can just create things, and if they're good enough people will be interested."
+
+**Source:** The Most Important Skill To Learn In The Next 10 Years With Devon Eriksen.md
+
+Finally, he addresses aspiring authors directly. "I know you're afraid. I was afraid too. Everyone is afraid... you stay afraid even as you start having success; the fear is constant." You do not know whether your work has value; friends and relatives who read it and say "wow, this is really good" may just be trying to be nice. "The way you find out is to try to sell it yourself." If it has value, then as you get out there "flogging it and persuading a few people to read it," they will say it is good and recommend it to their friends. "It won't be a fast process, but it does work," and it is "so much better as a measure of value than whether some acquisitions guy at a publishing house is going to compliment you," because such people do not have "any special magic knowledge or insight that you do not have." "People are out there, they want good stuff, and they will buy it if you have the courage to offer it to them... it's not your decision whether your work is good enough, it's theirs. Give them the opportunity to make that decision."
+
+**Source:** The Most Important Skill To Learn In The Next 10 Years With Devon Eriksen.md
+
+The case completes the argument begun in Section 25.2. There, Eriksen explained why the publisher was a "useless buffer" in the feedback loop; here he explains how the publisher lost its function, how a direct relationship with readers lets an author capture value an intermediary would have taken ($43,000 instead of $5,000, on his own figures), and why the market, not the gatekeeper, is the right judge of a work's value. His final heuristic ("it's not your decision whether your work is good enough, it's theirs") is the publishing version of Koe's "a tweet is the new MVP" (Chapter 24): put the work in front of the people it is for and let their response decide.
+
+#### Centralization, decentralization and the new public school
+
+Koe frames the shift from publishers and broadcasters to individual creators within a broader pattern. In December 2023: "The universe divides and reunites like the ocean evaporates and condenses back down into rain." He calls this a **cycle of centralization and decentralization**. Social media caused a shift from centralized to decentralized media. Synthesizers or creators (his terms for people who combine ideas from many sources) are "decentralized media companies"; they "compose the new public school system that is available to anyone with an internet connection." Individuals are creating new jobs, teaching new information and opening new paths that schools and governments cannot keep up with.
+
+**Source:** The Future Of Work Is Play (How To Create A Digital Career).md
+
+In June 2024 he gives the shift a concrete reference point. In the past not everyone could have a radio show or a television channel. People had around 300 television channels (his recollection: "it's like 300, right?"), watched for hours a day, and that narrow range of information shaped their identity and their sense of their own potential. Thousands upon thousands of creators now let people choose what and how they learn, and create a better environment for the value provided through media. This, he says, is why he is passionate about the creator economy as a way of changing society.
+
+**Source:** Ideas Are The New Oil (How More People Get Rich In The Digital Age).md
+
+In October 2024 he states what he believes social media was for. It was created, in his view, from "a deeper desire for human connection, sharing your knowledge and solving problems at scale." Because shallow distractions took over, few people see it as "a vessel to pursue their life's work." "You have indirect access to nearly everyone in the world, and you don't think any of them can benefit from what you have to offer?" It takes development and skill acquisition, he grants, but once you see the potential for everyone to have a business in "this global decentralized economy," it is hard to pursue any other path.
+
+**Source:** The Death Of The Personal Brand (& The Future Of Creative Work).md
+
+The ocean metaphor is an interpretive image, not an argument; Koe does not claim a law of history, and his account of the origin of social media is offered explicitly as a belief. What the passages establish is the link between this chapter and the critique of institutions in Part I. The narrow range of centralized media that "shaped identity" is a case of the programming described there; the multiplication of creators is, for Koe, a structural opening that lets a person choose their own inputs. The **global decentralized economy** is his name for the economic side of that opening.
+
+#### The path of high agency
+
+In October 2025 Koe states the principle that underlies all the images above. "The highest leverage place to create right now is on the internet. The internet is the path of high agency. You don't need permission to create something and post it," or "to navigate idea space and find the information you need." This may change, he concedes, "but that only reinforces the point. No matter if it's the internet or intergalactic space or virtual reality, the answer has been and always will be to share the value you acquire in a place where the right people can find it." Being a creator, he adds, is "not necessarily a content creator," but expressing your nature as a creator by becoming an entrepreneur, with the internet as the vessel.
+
+**Source:** You're Stuck In The Matrix, Here's How You Escape.md
+
+The **path of high agency** is the society picture reduced to its practical core. The internet matters, on this view, not because of any particular platform but because it is, for now, the place where the timeless rule ("share the value you acquire in a place where the right people can find it") can be followed without anyone's permission. The formulation also guards against an over-literal reading of the rest of the chapter: if the medium changes, the rule remains.
+
+In a March 2023 conversation with Dickie Bush, a writer and co-founder of a writing education company, Koe gives the same idea a personal image. For people without the resources to do what they want, "the internet has created more stepping stones": whatever your financial or mental position, "it's a ladder that you can create your own rungs" on, "to reach the things that you actually want to do and generate the resources to do so," and "those preferences will evolve as you play the game." Bush adds his own case: he studied mathematics and computer science, and three years earlier he would have found absurd the idea that he would be running a writing education and writing software company.
+
+**Source:** Dan Koe & Dickie Bush On One-Person Businesses, Creative Workflows, and Lifestyle Design.md
+
+The ladder whose rungs one builds oneself is the opposite of the institutional ladders criticized in Part I, whose rungs are set in advance by schools and employers. Bush's case shows the other feature Koe stresses: the destination changes as one climbs.
+
+A July 2023 passage draws a political consequence. People get up in arms about gas prices or reproductive rights; Koe says he sees both sides of such debates ("the highest perspective is all perspectives"). His point is that "most people hide behind the fact that it's easier to submit a vote than it is to change your life." They cannot zoom out to see a more effective way of bringing their beliefs into reality. If you worry about gas prices, why have you not developed a plan to build a business so that you never worry about gas prices again? That would be "10 times more powerful," for you and for others, than one "measly vote that may not even get counted." And you could build an audience and present your perspective to millions, which might actually influence votes. "That's how they keep you locked into this thing": by keeping your focus narrowed on their vision instead of letting you zoom out and craft a plan. Whatever your beliefs, he concludes, take it into your own hands as much as you can, develop a vision and actualize it, and forget what you have very little control over.
+
+**Source:** A Full Guide To Reinvent Your Life (In 6-12 Months).md
+
+This is an opinion, and a provocative one; Koe is not arguing against voting as such but against using it as a substitute for action within one's control. Its relevance here is that it treats an audience as a form of civic power: in a society whose town square is social media, presenting a perspective to many people is a more direct way of influencing collective outcomes than the single vote. The "10 times" figure is rhetorical, not measured.
+
+#### The internet as the great attractor
+
+The society picture has a social dimension that is easy to miss if one reads only the economic argument: publishing in public connects a person with people they could not otherwise meet. Koe borrows the phrase for this from a friend whose name the transcript gives as "Justin Scott" (possibly two friends, Justin and Scott, whom he mentions elsewhere): "the internet is the great attractor."
+
+In the March 2023 conversation with Dickie Bush, Koe describes it in his own words. "Whenever you tweet you're kind of putting it out into a void." You can assume what engagement you will get or who will read it, but the tweet could end up on an entirely different side of the internet because someone found it interesting. Ideas put into the void "circulate, get better with time and attract the right people." His examples: the wrestler and actor John Cena following him out of nowhere; DJs he had followed for years following him back; Chris Lovato messaging him "dude, I love your content" and talking with him for a long time.
+
+**Source:** Dan Koe & Dickie Bush On One-Person Businesses, Creative Workflows, and Lifestyle Design.md
+
+Koe gives the mechanism a third-party formula in November 2022, quoting Jason Roberts: "the amount of serendipity that will occur in your life, your **luck surface area**, is directly proportional to the degree to which you do something you're passionate about combined with the total number of people to whom this is effectively communicated." He uses it to justify turning learning, building and teaching into one's life's work and communicating it publicly.
+
+**Source:** Learn New Skills FAST (How I Remember Everything I Learn).md
+
+**Complementary context:** Jason Roberts, a technology entrepreneur, coined "luck surface area" in a 2010 blog post; his formulation is often summarized as Luck = Doing × Telling. The formula is a heuristic, not a measured relation.
+
+The formula has two factors, and they correspond to the two halves of this chapter's argument. Doing something one is passionate about is the subject of Parts IV and VII (the life's work, the niche of one); communicating it effectively to many people is the subject of Part IX (writing and distribution). An audience multiplies serendipity because it multiplies the second factor.
+
+Koe illustrates the result with friendships. In March 2023 he says that along the way you meet incredible like-minded people you would not find in real life. In three years he had made two great friends through the internet, and that week he had gone to see them (in South Carolina and Tennessee), spending time by a lake with incredible conversations, his energy visibly higher. The friends he names are Justin Scott and Joey. "You have to be intentional, and the digital world is a great way to put your intentions out into the ether, as Justin Scott would say." (In the same passage he mentions, as a passing anecdote, eating about 500 grams of carbohydrates a day without gaining weight.)
+
+**Source:** The Best Online Business To Make $1 Million In 3-5 Years.md
+
+His friendship with Dickie Bush is another example. In the March 2023 conversation, the two recall that Bush messaged Koe in mid-2020 after hearing him on Danny Miranda's podcast, where both had been early guests (Miranda has since recorded a couple of hundred episodes). They disagree about their follower counts at the time: Koe recalls roughly 50,000 for Bush and 100,000 for himself, while Bush had guessed 10,000–15,000. The connection happened, they say, because a podcast revealed interests beyond each one's niche. On Twitter you may think the other person is interested only in writing, their niche; a long-form conversation reveals the fitness journey and other interests, and "you hear someone talk about everything they're interested in, and that's how you know you're aligned with them."
+
+**Source:** Dan Koe & Dickie Bush On One-Person Businesses, Creative Workflows, and Lifestyle Design.md
+
+The observation connects with Section 25.4 ("people follow people"): what makes two people align is not the niche topic but the range of interests that reveals the person. Long-form media, in this case a podcast, is what makes that range visible.
+
+A guest's story shows the same mechanism working at a smaller scale. Vitali, the Stan co-founder, recalls that he had been posting "raw ideas, probably not any good" for a couple of months when, at an entrepreneurial community event in Toronto, three people with whom he had only distant connections approached him to say that something he had shared resonated with them. He learned that creating content "allows you to stay in touch with people" you are only loosely connected to: "you may not be as connected with them because you don't know as much about them, but they know a lot about you," which "creates more opportunity... to have a conversation." Replying to comments builds relationships in which people "continue to support you... on your journey," and "all of these compound." He does not believe virality or overnight success is the main thing: "it's just consistent actions performed over and over again... it might happen overnight, but there's like years building up to it."
+
+**Source:** How To Grow An Audience With Zero Followers & Build A Profitable Startup.md
+
+Vitali's point adds an asymmetry to the attractor image: publishing makes you known to people you barely know, so that encounters begin with them already knowing you. That is a small-scale version of the trust described in Section 25.4, and his warning about "years building up to it" anticipates the realistic timelines of Chapter 26.
+
+#### Devil or vessel: Koe's changing judgment of social media
+
+Everything in this section so far has presented social media favorably. But Koe's judgment of the medium has varied considerably, and the variation is part of his teaching. The corpus records it as a non-linear shift of emphasis: from the harms of the medium (late 2022), to the user's responsibility and the medium's potential (2023–2024), to a diagnosis of systemic contamination (2025–2026), without ever abandoning the idea that creating good content is part of the solution.
+
+The critical position appears in a November 2022 video on why people cannot be themselves. If the brain is conditioned by the information and stimuli it receives, Koe argues, then before phones we were exposed only to parents, friends, teachers, people on the street and perhaps the news media. Now we check social media for hours (he urges viewers to check their own screen time), exposing ourselves to a great many ideas. Depending on how many we pay attention to, digest and resonate with (and most people do not question them, accepting them as law), we drift even further from ourselves. "We're in an age where it is 10 times easier to be conditioned" into a negative, toxic human being. He then qualifies his own view: perhaps he sees it that way because social media has conditioned him to think the world is bad, "so I have some work to do myself."
+
+**Source:** Why You Can't Be Yourself (The Power Of Being Alone).md
+
+He continues with a comparison. Whether introvert or extrovert, you would cringe at being locked in a room with all your friends for three days; you want to see them two or three times a week, or once a week, for one to three hours. Yet "you don't cringe at the fact that you log onto social media where there's a hundred times more people posting much more polarizing information." Your mind does not know the difference; it is the same information, perhaps in a different medium, and in person you can at least see the person (the transcript is unclear at this point). Social media, he concludes, is "worse all around."
+
+**Source:** Why You Can't Be Yourself (The Power Of Being Alone).md
+
+In the same video, asked whether being on social media is not his job, he describes his own practice. He is on social media less than 30 minutes a day; all his content is created outside social media; he logs on to engage with people and "get what I need," and that is it. He is very careful about whom he follows: the feed is not for mindless consumption but for inspiration and research. The mindset he recommends is to log on, get what you need, talk to the people you need to network with, take advantage of the benefits and the mass reach, and leave the rest; "the only other option is to distract yourself." He also explains that he may not answer DMs or comments because he spends most of his time in his community, helping those who most want help, and that he could not create his content if he spent more time on social media: he would just be unconsciously copying everyone, because they would be feeding his brain what they want him to say.
+
+**Source:** Why You Can't Be Yourself (The Power Of Being Alone).md
+
+The protocol (under 30 minutes, creation off-platform, curated follows, engagement with purpose) is the bridge between the critical and the affirmative positions, and it should be distinguished from what Koe asks of beginners. In 2023 he told beginners to "reply like a madman" and to "spam replies" in order to grow; his own minimal use belongs to a later stage, when his system no longer resembles a beginner's. Chapter 26 develops this.
+
+From 2023 the emphasis shifts to the user's responsibility. In April 2023: people say social media is toxic and we would be better without it ("yes, in some cases, it's all relative"), but they do not realize that "social media is a reflection of yourself, because the algorithm gives you what you want to see." By giving attention to negativity, falling into negativity bias and enjoying toxicity, you condition the algorithm, and therefore your brain, into an echo chamber of toxicity. His own feed, he says, is not toxic: he learns and gets new ideas every day. If you do not like something, scroll past it, block it, unfollow it. Humans are social creatures, and social media removes barriers to socialization through media.
+
+**Source:** Self Improvers Are Creating Their Own Careers (The New Economy).md
+
+In September 2023 the shift receives its formula: "Social media is the devil if you perceive it that way, and social media is the vessel for your potential if you perceive it that way. How you perceive opportunities depends on your self-development." You will not see a viral post as inspiration if you do not identify as a writer or creator; you will not see a business owner's complaint as an opportunity to reach out and offer your skills for money. "You're letting opportunities pass you by day in and day out just because you don't identify as someone who uses social media for work." You have not built your "mental body" by developing a skill set that would allow it; you developed the skill set schools told you to develop so that you could be "trained directly into a job." He himself sees social media "as virtual reality to create your potential."
+
+**Source:** How To Reprogram Your Mind & Build Your Intelligence.md
+
+The formula **vessel for your potential** links this section to the theory of perception in Parts II and III: what one sees in an environment depends on the goals and identity through which one looks. A viral post is noise to someone without a creative goal and a model to someone with one.
+
+In October 2023 he answers viewers who write to ask whether they must use social media, since it is bad for the mind. Yes, it is bad "if you let it be," if you cannot control yourself and whom you follow. Otherwise it is "the greatest way to make friends in the world." Saying that social media forces bad experiences on you is like going to a bar and acting as though you have to stay even though you dislike the people there; you are free to leave at any time, and "on social media you can go to a bar on the other side of the world."
+
+**Source:** If Your Life Sucks, Here's How To Reprogram Your Mind.md
+
+In May 2024 he gives the practical prescription. If you do not see the "second Renaissance" in your feed, "it's probably time to unfollow everyone" and follow people around your interests. Search for "new pockets of the internet that are creating the society you want to see." To the objection "do I even have to be on social media?" he answers that your attention is going somewhere anyway, probably to your phone; "you're not a monk in the woods," so you might as well fuel what you believe in. That means balancing "the way of water and the way of fire": build, build, build, and rest, rest, rest; "it's not all rest." He says he could make a whole video on this, but does not develop it here.
+
+**Source:** The Age Of The Generalist (How To Earn A Living Doing What You Enjoy).md
+
+The way of water and the way of fire are named but not defined in the passage; from context, they seem to stand for rest and receptivity on one side and building and effort on the other, balanced in deciding where one's attention goes. The phrase "pockets of the internet" carries the opposite sign from a 2023 use, in which such pockets were corners of the internet where confident, radical advice traps people in an ideology; here they are environments one chooses in order to build the society one wants.
+
+In February 2025 he argues that social media is "an incredible way to tap into an infinite source of knowledge." Where else can you find information from people who have done what you want to do? Most successful people are self-educated, and most self-education today happens through a screen. Roman royalty such as Marcus Aurelius had access to the best teachers to prepare them for the throne; now you have access to the best teachers online, "and you decide to scroll videos of hot and dumb people dancing."
+
+**Source:** The creator economy is dying thanks to AI.md
+
+In November 2024 he reports his own experience, admitting that he is bragging. Social media "has rarely been toxic or inflammatory to me": when he sees something toxic he scrolls past it, though he grants that some of it surely sticks and influences him. "95% of the time social media has been the engine, it's been the fuel for any success that I've had in life," because "you can learn anything, you can build anything, you don't need permission anymore, you don't need credentials, you don't need to be an expert or have a degree, you simply need to have something valuable to share." The mindset he describes: collect valuable skills and insight, have "as many good and valuable inputs into your head as you want just through searching and curating," then "produce valuable outputs so you can contribute back to it," "turn social media into something better by your own personal efforts," and help others in the meantime.
+
+**Source:** The Cheap Dopamine Epidemic Stop Ruining Your Life.md
+
+From 2025 onward, Koe's judgment darkens again, though he does not retract the affirmative view. Section 25.1 presented his April 2026 adaptation of Schmachtenberger: creators optimize for engagement rather than transformation, and the epistemic commons is being poisoned. In other passages from 2025–2026 he describes social media and AI as amplifying unconsciousness, the attention economy as consuming cognitive capacity faster than it recovers, and the places one spends time online as capable of dictating "the entire outcome of your life." In May 2026 he adds a personal complaint about accessibility. "I just hate the fact that anyone can get a hold of you nowadays... That shouldn't happen. Like, we're not wired for that. So, if I don't respond to an email that you sent, that's why." He thinks social media should abolish the comment section, "not because there aren't good comments, but because that's the most toxic part of social media, where people go and identify with things so strongly"; people cannot form their own opinions because they are bombarded from every angle. He softens the proposal (maybe not abolish it, "but something needs to happen"), and calls comment sections "a war zone."
+
+**Source:** How To Completely Reinvent Yourself In 6-12 Months.md
+
+The trajectory can be summarized:
+
+| Period | Dominant judgment | Representative formulation | Locus of the problem |
+|---|---|---|---|
+| Late 2022 | Critical | "10 times easier to be conditioned"; "worse all around" | The medium, with self-doubt about his own conditioning |
+| 2023–2024 | Affirmative | "A reflection of yourself"; "the devil or the vessel"; "the engine... for any success" | The user's attention and self-development |
+| 2025–2026 | Critical again, systemic | Engagement over transformation; poisoned epistemic commons; comment sections as "a war zone" | The incentive structure of platforms and AI |
+
+Koe gives a reason for the 2023 shift (the user decides what feeds the algorithm and can leave, block or curate) and draws on Schmachtenberger's framework for the 2025–2026 diagnosis, but he does not explain the later turn as a change of mind. The positions can coexist if they are read as addressed to different people: for someone who creates and learns, the medium is a vessel; for the passive consumer, it is a conditioning machine. The usage protocol of 2022 is what makes the first possible. What remains constant across all three periods is the practical conclusion that matters for this chapter: the answer to a degraded information environment is not withdrawal ("you're not a monk in the woods"; "the only way out is through") but deliberate use and the creation of better content.
+
+### 25.6 Platforms and Concentration of Force
+
+The last section of the chapter descends from society to strategy. If an audience is worth building, where should one begin, and how should effort be distributed across the many platforms available? Koe's answer has a stable core and changing details. The core: start on one platform, preferably one based on writing; stay there until growth is mastered; validate ideas there; and only then branch out, carrying validated ideas and the leverage of an existing audience to other platforms. The details (which platform, at what threshold to branch out, whether to start with short or long form) vary across the years, and those variations are reported here. The section ends with the general principle Koe uses for this strategy, "concentration of force," and with the most controversial extension he gives it.
+
+#### There is no way around content: why Koe started on Twitter
+
+In an October 2022 video, repeated in the 2024 compilation, Koe makes choosing a media platform the first step of "packaging knowledge." You distribute value through media; "that's all the internet is"; there is no way around creating content to build a readership and an audience. He recommends Twitter, for personal and structural reasons. Personally: he started there, many people in his network grew there, and it is "underrated and untapped." Before Twitter he had tried a fitness YouTube channel, a digital art page on Instagram, paid ads and SEO, each time missing crucial pieces; on Twitter, "everything just clicked." Structurally, he gives three reasons.
+
+1. **It is an "idea platform."** You need a profile picture, but no images. The platform is about writing, clear articulation and communication, which he calls "the foundation of everything." People screenshot tweets and post them on other platforms because the message is valuable, and those screenshots often outperform other posts, in contrast to, in his example, "an Instagram model in a bikini." All you need is to type, plus some knowledge of branding and marketing to make a profile people want to follow.
+2. **The retweet button.** Sharing takes one click, whereas on other platforms sharing, and therefore getting eyes on content, profile visits and follows, involves much more friction. Growth on Twitter is not like YouTube, where content builds up over time through search; you write good content and put "100% of your effort, 90% of your effort" into getting it in front of people.
+3. **The comments.** Twitter works more like a forum. A comment shows your profile picture, your name, your branding and the value you added, whereas on Instagram a comment shows only a username and a line of text.
+
+He concludes: "writing is the foundation of everything: if you can write compelling tweets, all of your other social media content will get that much better."
+
+**Source:** The Rise Of The Value Creator (A Career Path For Polymaths & Self-Improvers).md; The One-Person Business Model (How To Productize Yourself Full Guide).md
+
+**Idea platform** is Koe's term for a platform where what circulates is the idea itself, written, rather than images or video. The three reasons are not arbitrary: each lowers a barrier for a beginner. No visual production is needed; distribution is a single click; and participation in others' conversations shows the participant's identity. The last reason anticipates the networking strategy of Chapter 26, which depends on replies being visible.
+
+In January 2023 he generalizes the recommendation. You build distribution by growing on **top-of-funnel** social media platforms (in his usage, short-form platforms where content is broad and introductory and growth can be steered). Any of them can work, but he recommends starting with Twitter, LinkedIn or Instagram. Twitter is "the most friendly, not easiest but simplest to grow on," because "the retweet button is very low friction"; you need no pictures or design, only writing and the practice of writing a persuasive message.
+
+**Source:** The $1 Million Dollar Skill Stack (Learn In This Order).md
+
+In July 2023 he adds the reason he avoids some platforms at the start. "Your number one priority is consistent brand growth on social media." The easiest platforms for this are Twitter, Instagram and LinkedIn. He does not recommend other short-form platforms such as TikTok or YouTube Shorts for starting, because there you rely on the algorithm, whereas on Twitter, LinkedIn and Instagram you can network, help each other grow and build your tribe, "so that your tribe can rise to new levels of the hierarchy." People object to engagement groups and mastermind groups, he says, but "you don't understand what a syndicate is, you don't understand what a tribe is within the community and you rising up in status."
+
+**Source:** Niche Down Is Terrible Advice (For Smart People).md
+
+The distinction between **networkable** platforms, where growth can be steered through relationships, and algorithmic platforms, where it depends on a recommendation system, is the key criterion of Koe's 2023 advice. A **tribe** or **syndicate**, in this sense, is a group of creators who grow and rise together within a community's hierarchy, a concept developed in Chapter 26.
+
+In October 2023 he addresses writers specifically. For writers, social media is how distribution happens. "You don't need to start on a writing platform, but why wouldn't you?" You do not need to post pictures of your body; "you can prioritize learning and idea generation"; you do not need to design graphics or edit videos: "it is a peaceful existence, unless you want to expand." He recommends X as the starting point because Medium, blogs and newsletters take time to grow, whereas X is "the only real short-form writing platform": you can post several times a day, and "those ideas that you post serve as data for any other content that you create on any other platform." If you want to be a YouTuber, "it's easier to build an audience on something like X and then move that audience over to YouTube," expanding validated high-engagement posts into videos "and know that they're going to perform well."
+
+**Source:** How To Make $1 Million A Year As A Digital Writer.md
+
+This passage gives the platform choice its strategic logic: the writing platform is not only a place to grow but a laboratory whose results ("validated data") can be exported, which is the argument of Chapter 24's "a tweet is the new MVP" applied to platforms.
+
+#### Threads, LinkedIn and the platform you will stay on
+
+The specific platform Koe recommends changes with the moment. In July 2023, shortly after Threads launched, he explains why he likes it. Twitter, he says, was and remains underrated, and Threads reminds him of Twitter in its infancy, "a raw community," and fun. His reasons: you can post as much as you like to test ideas before taking them to other platforms; it is based on writing, so you do not need to be "a 10 out of 10 model living in Thailand"; it works as a forum where you find like-minded people in the replies of your favorite accounts; the repost button makes sharing low-friction; replies are heavily favored ("reply, reply, reply"); and you can screenshot posts to grow on other platforms without hours of new content. He then gives the basics of growth there:
+
+- Post one to three times a day and "start getting your failures out of the way."
+- Under 1,000 followers, network in replies and DMs to leverage other people's audiences.
+- Use a clickable profile picture so that people know you are a creator.
+- Make your bio state your big goal or the interest you talk about: what you are leading people toward, and how, through your unique interests.
+- Write threads or long posts about your story and personal experience, but have a network to share them so that they go semi-viral.
+- Start with beginner-level, actionable educational content; the history of YouTubers, he notes, shows that they began with actionable advice on their expertise with their personality baked in.
+
+**Source:** The Value Creator (A New Internet Career Path For Intelligent People).md
+
+The volume he recommends here (one to three posts a day) belongs to the beginner stage; as noted in Section 25.3, Koe later shifted toward one weekly piece and toward scarcity once an audience exists. The 2023 rationale, "getting your failures out of the way," is the beginner's reason for volume: failures are data, and the sooner they are produced, the sooner the creator learns.
+
+In August 2024, answering those who doubt LinkedIn as a place to build an audience, he gives three reasons for it: it is where people with money spend their time, so they are more likely to pay you; it is a "blue ocean" at the moment, so you can simply grow; and there are no trolls, because everyone is afraid of losing their job if they troll in someone's comments. That, he adds, is another reason to start a business, so that you do not have to worry about such things yourself.
+
+**Source:** Minimalist Productivity Work Less, Do More.md
+
+**Complementary context:** "blue ocean" comes from W. Chan Kim and Renée Mauborgne's *Blue Ocean Strategy* (2005), where it denotes an uncontested market space, as opposed to a "red ocean" crowded with competitors.
+
+In December 2024 he changes the criterion itself. There are three options, X, Threads and LinkedIn, each with pros and cons. LinkedIn has the most professionals and probably the most money to be made. Threads resembles Instagram's culture, with a fair number of trolls, but engagement currently seems good for beginners. But all platforms go up and down in ease of growth: "picking a platform based off of how easy it is to grow isn't a good long term strategy." Pick one you like and will stick with: the one you log into most.
+
+**Source:** Build A One-Person Business As A Normal Person (From $0 To $10K).md
+
+In April 2026, recommending where to publish essays, he names X or Substack, because that is where long-form content is reviving. On X, he was runner-up in a "$1 million challenge" for X Articles when the long-form article feature returned, and his article went "insanely viral." Substack, he says, is "the most slept on social media right now," for three reasons: you own your audience, because you have a list of subscribers; it is email first, and email newsletters are powerful; and its Notes feed has people who appreciate deep, genuine thinking. Pick whichever you vibe with most.
+
+**Source:** I'm begging you to start writing essays (even if you hate writing).md
+
+The successive recommendations can be summarized:
+
+| Date | Recommended starting platform(s) | Main criterion |
+|---|---|---|
+| 2022-10 (repeated 2024-02) | Twitter | Idea platform, low-friction sharing, forum-like comments |
+| 2023-01 to 2023-10 | Twitter (or LinkedIn, Instagram); avoid TikTok and Shorts at first | Simplicity; networkable rather than algorithmic; posts as data for other platforms |
+| 2023-07 | Threads (alongside Twitter) | A "raw community" like early Twitter; replies favored |
+| 2024-08 | LinkedIn | "Blue ocean," people with money, no trolls |
+| 2024-12 | X, Threads or LinkedIn, by affinity | "Picking a platform based off of how easy it is to grow isn't a good long term strategy" |
+| 2026-04 | X or Substack (for essays) | Revival of long form; owned audience (Substack) |
+
+The change is one of emphasis. Early on, Koe recommended whatever platform was currently "underrated" or "blue ocean"; by late 2024 he recommended choosing by affinity and permanence, on the grounds that ease of growth rises and falls everywhere. The constant is to start on a platform based on writing. A related change concerns the algorithm. In 2023 it was something to avoid at the start; by 2026 Koe describes the recommendation mechanism as "the single most fundamental aspect of social media growth on any platform" and treats it as something to exploit with validated content, without abandoning the manual lever of networking. Chapter 26 develops that change.
+
+#### A native strategy: Justin Welsh on LinkedIn
+
+A guest's story, from a December 2021 interview, illustrates a different way of choosing a platform: not by its features but by contrast. Justin Welsh, who later built a well-known one-person business, explains that after a panic attack, knowing he would go out on his own, "the first thing that I thought was, I needed some attention." As a sales executive he knew how to sell himself but not how to "do distribution." Kevin Dorsey, who had worked for him, was writing on LinkedIn as a thought leader in sales, so Welsh "picked the same platform." Twitter, "to me, was news back then," and he did not understand it; he did not want video or Instagram ("I don't have six-pack abs"). He tried a video series, long blog posts and "mini webinars": "all this stuff to just try and get attention." Asked whether this was shiny-object syndrome, he answers "yes and no": he stayed on LinkedIn but experimented with formats within it.
+
+**Source:** Justin Welsh Shows You How To Start & Grow A One-Person Business.md
+
+He then explains why it worked. Everyone knows Twitter as "the platform for creators" and LinkedIn as a résumé or job-posting site, and Welsh agrees: "It is." "And that's why writing content that's good and compelling on a platform that's not meant to be used that way gives you a leg up." His strategic question was: "how can I show up and be radically different than everybody else on this platform?" Watching Twitter, he concluded: "I'm going to go use LinkedIn just like people use Twitter. Because nobody else was doing that, I stood out." Koe confirms that he himself used to think of LinkedIn as "for recruiting for a job."
+
+**Source:** Justin Welsh Shows You How To Start & Grow A One-Person Business.md
+
+The mechanism, in Welsh's account, is contrast: importing the native creator behavior of one platform into another where it is absent. The strategy is Welsh's, not Koe's; but it is consistent with Koe's later "blue ocean" description of LinkedIn and with his principle of staying on one platform while experimenting with formats.
+
+#### One platform until growth is mastered: first content
+
+In June 2024 Koe states the rule in its simplest form: create content on one platform until you have growth down. He also gives the first content ideas for someone starting:
+
+1. Tell your story and the transformation you have made.
+2. Break down any of your skills and interests and teach how to do them.
+3. Talk about the problems people face in pursuing their goals, and how to solve them.
+4. Document the lessons you learn while pursuing your goals.
+5. Share ideas from books, conversations or podcasts that you want to make your own.
+
+**Source:** Ideas Are The New Oil (How More People Get Rich In The Digital Age).md
+
+The list is a compact application of Parts VII and VIII: the story and transformation are the "raw material" of Chapter 22; teaching skills and solving problems are the "build, write and sell to yourself" of Chapter 19; documenting lessons is the personal distribution center of Section 25.2; and making others' ideas one's own is the hunting and synthesis of Chapter 22.
+
+#### From short form to long form
+
+Within the strategy of starting on one platform, Koe also addresses the order of formats. In the December 2022 roadmap (repeated in 2024), step three of the first stage is short-form growth and idea validation. Focus on short form (tweets, Reels, TikToks, Shorts, Instagram and LinkedIn posts), not yet on long-form YouTube, podcasts, newsletters or blogs. On top-of-funnel platforms you can control growth more: on Twitter you can network or pay for retweets, on Instagram you can get shares, on LinkedIn comments. YouTube and the others take more time; "you want to attack those platforms with validated ideas" from Twitter, Instagram or LinkedIn. Post many ideas (on Twitter, he notes, you are not penalized for posting several times a day), see which do best while networking to get eyes on your content, then turn the best ideas into a newsletter, a video or a blog post. He himself grew on Instagram and LinkedIn by screenshotting viral tweets with their social proof (likes, retweets) and posting them, using a growth strategy or getting shared, and gained far more followers than most because the ideas were already validated.
+
+**Source:** The One Person Business Roadmap (99% Make This Mistake).md; The One-Person Business Model (How To Productize Yourself Full Guide).md
+
+In July 2023 he explains the reason in terms of control. Build "a base audience where you can fuel your digital real estate and products and services over time and eventually transfer to longer form platforms." You need an audience to fuel your newsletter, and potentially to grow on YouTube, if you do not want to rely on the algorithm. "I like to be in control." He grew a Twitter audience with the plan of transferring it to YouTube; had he gone straight to YouTube, "I probably would never see success, it was very low chance," given what he saw in the market. "As your audience grows, your leverage to build and talk about whatever you want does with it."
+
+**Source:** Niche Down Is Terrible Advice (For Smart People).md
+
+In October 2023 the same strategy appears as the first of several ways to "control your growth." "If you are smart, you can use the traffic mechanisms... in a creative way to control your growth; those are literally the only tools that you can use to grow your following." (The traffic mechanisms are the replies, quote posts, reposts and DMs described in Chapter 26.) Step one is "understanding short form to long form." But here Koe adds a complication: this is "the main teaching of 2 Hour Writer," and that course teaches starting with long form, or even a book: "me writing and outlining the book shaped every single newsletter I wrote, shaped every single tweet." He then restates the general argument. Short-form platforms (X, Instagram, LinkedIn) "are inherently... easier to grow, at least at the start," than YouTube, podcasts or Medium, which depend on search and build slowly: "on YouTube I don't think people are going to really care about you until you have at least 50 videos; same goes with a podcast, and the search engine for a podcast is just absolute trash." He himself failed at YouTube after his digital art attempt; on X, "it made sense": "I'm more in control of the traffic mechanisms here, why don't I build here and then transfer my audience over to YouTube, podcast, etc.?" This suits people who lack the resources, equipment or speaking skills to start on YouTube now; they can practice those on the side. And though short form holds less attention, "that doesn't mean that you neglect the benefits of short form."
+
+**Source:** How To Build An Audience With Zero Followers (What They Don't Tell You).md
+
+There is a tension here that the corpus records without resolving. The roadmap of 2022 said "not long form yet"; other passages of 2023 recommend almost always starting with short form; yet in 2023 and 2024 Koe also recommends that everyone start a newsletter, and his own course teaches starting with long form or a book. The October 2023 passage holds both together: the outline of a book (long form) shapes the content, while the growth happens on short form. One way to read the combination, consistent with that passage, is that long form is where the thinking is organized and short form is where the audience is grown and ideas are tested; the two are not alternatives for the same function. Later, as noted in Section 25.1, Koe describes long form as "a moat... because AI can't really replicate it," which increases its weight without changing the role of short form as the mechanism of growth and testing.
+
+In January 2023 Koe answers a related question from his audience: is it easier to go from Twitter to Instagram, or the reverse? From Twitter to Instagram, he says, because Instagram creators often depend on some form of vanity or design: a fitness influencer whose value is determined by their body, or a fancy car. When such creators move to a writing-based, non-visual platform, "it's going to be 10 times harder to grow, because you're starting over from scratch in terms of the skills" that produce growth and deliver a valuable message regardless of external looks. "If you combine both, if you're hot and you have this incredible skill stack, you're set for life."
+
+**Source:** The $1 Million Dollar Skill Stack (Learn In This Order).md
+
+The asymmetry follows from the "idea platform" argument: the skill developed on a writing platform (articulating a valuable message) transfers to visual platforms, whereas the asset that carries a visual platform (appearance) does not transfer to a writing one. Skill travels; vanity does not. The "10 times" is a rhetorical estimate.
+
+#### Concentration of force, then branch out
+
+The general principle behind all this is what Koe calls **concentration of force**, a term from military strategy (the principle of concentrating one's resources at the decisive point) that he applies to growth. In August 2026 he states it plainly: "There is more to growth than just content, so cross-posting to all platforms takes away time you could be spending building connections with people that will help you grow. You'd gain more followers by focusing on one platform first, which can then be used as leverage to grow on the other platforms." He chose Twitter as his first platform, focused solely on it, and built connections he still talks to. With a large following on X, when he turned to Instagram he messaged people with large Instagram followings: "Hey, I have a large following on X. Do you want to help each other grow by sharing each other's content on either platform?" "That alone allowed me to grow on Instagram so much faster than anyone else just starting from scratch." He teaches this in the fourth week of his Creator Bootcamp.
+
+**Source:** The Art of Strategic Thinking (How to Become Wildly Successful at Anything You Do).md
+
+The principle has a cost argument and a leverage argument. The cost argument is that cross-posting everywhere consumes the time that should go into relationships, which are the second lever of growth (Chapter 26). The leverage argument is that an audience on one platform is a currency with which to grow on the next.
+
+The second half of the principle, branching out with validated ideas, appears as step nine of Koe's 2022 writing business method, repeated almost verbatim in 2024. Once you have validated ideas from Twitter, ideas that did well in engagement and helped you grow, take them to other platforms and start talking about them again, "because you already know they're going to lead to growth." "I grew on Instagram 10 times faster than anyone else because I already had validated ideas," and the same applies to LinkedIn, YouTube and even TikTok.
+
+**Source:** Learn This Skill If You Want To Thrive In The Next 10 Years.md; The One-Person Business Model (How To Productize Yourself Full Guide).md
+
+In May 2023 he describes the result in numbers and gives a threshold. He repurposed his writing from Twitter and his newsletter to reach about 300,000 followers on Twitter, 1.5 million on Instagram and about 275,000 on YouTube (the YouTube figure is ambiguous in the transcript). The newsletter serves as the script for his videos; Reels have their own written scripts, which also helps on TikTok. He claims more engagement than most fitness models, because writing is the most impactful format: "everyone can read, everyone can take a lesson from the screen and engage with it and share it." His method: stack content, see which ideas do best, start on one platform such as Twitter, and "once you have like 10 ideas that do well, then you can take those to other platforms and use them to grow faster."
+
+**Source:** I Made $800,000 In One Year Writing 2 Hours A Day.md
+
+In June 2024 he places the step later in the business and describes how he did it. Once you are profitable (your income likely replaced), diversify platforms and focus on audience in order to send more traffic to your digital products, so that income scales; from then on, you simply build the audience and talk about what you enjoy ("what I plan to do until the day I die"). Start on a writing-based platform (X, LinkedIn, probably Threads) because they are more accessible. Kick-start a podcast, YouTube or Instagram audience by telling your current audience to follow and share. And port your best ideas: after growing on Twitter, he looked back at his best 100–200 ideas and posted them on Instagram with a growth strategy, growing faster without repeating the trial and error. "If only 300 or 400 posts do really well out of the 40,000 that I wrote on Twitter," those are the ones to transfer. As the platforms grow, people download free products, read newsletters and buy products: "exponential growth kicks in," and you can double, triple or quadruple your income in a year. His example: he went from $800,000 a year with a large X following to $4 million the previous year with a diversified audience.
+
+**Source:** Ideas Are The New Oil (How More People Get Rich In The Digital Age).md
+
+In September 2024 he gives yet another threshold. "Once you get to, I would say, 50,000 followers... I use 50,000 as a metric to know that you know what you're doing on social media and that you can grow without spending too much time on it." Then you transfer the posts that brought the most followers to other platforms and, knowing what leads to growth, do it again there. He teaches this in his course Digital Economics.
+
+**Source:** The Fastest Way To Build A One-Person Business (Beginner Guide).md
+
+The thresholds for branching out differ across these passages: about ten validated ideas (2023), being profitable with income replaced (June 2024), 50,000 followers (September 2024), and, in another passage, simply having done it "long enough" to see enough growth, with no number. Koe does not present them as contradictory, and they can be read as different signals of the same condition: that the creator has learned, on one platform, what produces growth, and can grow there without spending too much time. The ratio he reports (300–400 strong posts out of 40,000) is a reminder of how much of the first platform's output is the trial and error that the branch-out step is designed to avoid repeating.
+
+Two further details belong to the record of his own diversification. In April 2023, in the closing promotion for his animation agency, Keyframe, Koe says that animated videos "took me from 250k to 1 million plus on Instagram." He presents the service as expensive and for "serious creators only." The figure is self-reported, made in a promotional context, and the metric (followers) is implied rather than stated.
+
+**Source:** Your 20s Are Meant To Build (How To Not Waste Them).md
+
+And in the December 2022 roadmap, he describes the second step of the third stage as doubling down on your best ideas and diversifying your audience across platforms by using what he calls **Social Capital**. He grew quickly on Instagram and LinkedIn by reaching out to large accounts, showing his value through his following and his time in the game, and offering an exchange of services, shares or money; he already knew which content brought the most followers, put it on the other platform, and used the other person's knowledge or help to grow quickly. "You don't have to start with Twitter," he adds. Most people think money is the way to do this, but "there's Social Capital": 100,000 followers are extremely valuable to someone who wants to promote to that audience or grow through it, and you can vet such people and exchange value if your audience would enjoy what they offer.
+
+**Source:** The One Person Business Roadmap (99% Make This Mistake).md
+
+**Social Capital**, in Koe's sense, is an audience used as a currency of non-monetary exchange: shares, promotion or services traded with other accounts. It is the 2022 version of the 2026 cross-promotion offer ("do you want to help each other grow by sharing each other's content?"), and it shows concretely what "audience as leverage" from Section 25.3 means when moving between platforms.
+
+A guest's version of the same move comes from Justin Welsh in the 2021 interview. Since most of his followers were on LinkedIn, he would post a blog article to his 130,000 LinkedIn followers and 50,000 newsletter subscribers, share "a snippet of the article and then I'll redirect them to Twitter." His LinkedIn audience would like the tweet, "and then it gets exposed to lots of strangers on Twitter who have no idea who the hell I am." He called it "this suction system" and "this momentum trick": "I've been using this momentum trick to kind of take my LinkedIn audience, bring them to Twitter and use them to expose my content to people who don't know me." The result, by his account, was Twitter growth from 4,000 to 22,000 followers in about five weeks.
+
+**Source:** Justin Welsh Shows You How To Start & Grow A One-Person Business.md
+
+The **suction system** (or **momentum trick**) is Welsh's term. Where Koe's branch-out uses validated ideas and other people's audiences, Welsh's uses his own existing audience to give new content early engagement on a new platform, which then exposes it to strangers. The two methods are complementary versions of concentration of force: the force built on one platform is spent to open the next.
+
+#### Branching into speaking: the podcast as a networking tool
+
+Koe's own first branch was not another social platform but a podcast. In August 2023 he explains that after growing to about 50,000 Twitter followers, he started a podcast. His reasons: it helped him meet high-level people and brought him more opportunities; it required no video editing skills; it was an easy progression from writing; and it forced him to identify his blind spots in communicating. He did not use it to monetize or to become famous (which he says is rare in podcasting and would have required making the podcast his main activity) but "to get people that I wanted to talk to and ask questions to on a call," which brought them closer. His example: he wanted to talk to Justin Welsh; they recorded, he uploaded the conversation to YouTube, people loved it, and it gave him an angle for his content that led to 150,000 YouTube subscribers. He could keep inviting higher-level people who would then help him grow.
+
+**Source:** You Aren't Successful Because You Care Too Much (How To Stop).md
+
+**Branch into speaking**, in this sense, is a branch-out whose main purpose is relationships rather than reach. It links the platform strategy of this section to the networking of Chapter 26 and explains the provenance of several sources in this chapter: the Justin Welsh, Dickie Bush, Devon Eriksen and Stan conversations are all products of that branch.
+
+#### Concentration of force beyond platforms: obsession and getting rich
+
+In August 2025 Koe applied the phrase "concentration of force" to a much larger question: what it takes to get rich. The application is controversial, and it marks a change in his position that the chapter must report.
+
+"The concentration of force is the only way to get rich, because if you want to get rich it needs to be your number one overwhelming desire." And: "We need concentration of force because you do this until the point of it becoming second nature to you."
+
+**Source:** What It Takes To Get Rich In Your 20s.md
+
+He explains how he arrived at this. He watched part of a video by Ali Abdaal, a well-known creator, on how to get rich, in which, within the first five minutes, Abdaal, feeling "bad kind of about saying it," said: "honestly, if you want to get rich then you kind of have to be obsessed with it." Koe's first reaction: "that's not really true." "Then I sat with it and thought about it more and I'm like, actually that's exactly what I did." "A moment of vulnerability here is that I feel like I've been kind of hiding from that. I was kind of obsessed with making money for a long time, but I never really registered it as that, because that just sounds so shallow." "In reality I was learning, I was growing, I was acquiring these skills, I was becoming a better person."
+
+**Source:** What It Takes To Get Rich In Your 20s.md
+
+The idea is Abdaal's; Koe's contribution is the reinterpretation of his own past through it and the name he gives it.
+
+He illustrates with a metaphor. "Think of a basketball player: they practice so much, they've been obsessed with basketball for so long, that it doesn't take any mental energy or really any effort at all to shoot three-pointers over and over again; they have like a 99% success rate." "If getting rich is synonymous with becoming a professional basketball player, making 50% of the shots isn't going to cut it; they're never going to make it into the NBA. You have to give it your all; you have to become obsessed with it so that you can make it pro."
+
+**Source:** What It Takes To Get Rich In Your 20s.md
+
+The figure of 99% is part of the metaphor, not a statistic about basketball. The metaphor's point is that a skill practiced obsessively becomes automatic, and that only automatic mastery reaches the top level; it is the theory of skill of Part VI applied to wealth.
+
+He immediately qualifies the claim. "You can still make a lot of money. There's a spectrum here: there's super extraordinarily rich, and then there's well-off, and both goals are fine. But if your goal is to get rich, and that's a perfectly viable goal, because it's not about the outcome, it's about the journey, it's about who you become in the process, then that's what you need to do: you need to be obsessed with it in order to reach the highest level."
+
+**Source:** What It Takes To Get Rich In Your 20s.md
+
+And he extends the qualification. You can go out and socialize, "but you're not going to get wealthy, because it's not your priority; you are prioritizing those things over what it takes." "And that's okay. You don't need to have the goal of getting rich, but many people do, and that's valid. You don't need to project your goals and your beliefs on those people." "That doesn't mean that you can't invest a bit of your money into the stock market over 40 years and see some kind of wealth in your future. But the people with the goal of getting rich don't want it to come 40 years later, because they realize that if they have the knowledge to do so, they can do it 30 years earlier than that."
+
+**Source:** What It Takes To Get Rich In Your 20s.md
+
+Finally, he answers the objection that such a priority makes life worse. "Getting rich as a priority doesn't make your life worse like many people think; it actually makes your life infinitely better." "Does a professional athlete have a terrible life? Probably not": they do what they love, they are at a level of challenge, competing, playing a game, having fun; "their entire life revolves around their main priority." "You don't see a bodybuilder hating their life for eating healthy food and being disciplined in the gym." That they do not play video games or eat junk food "doesn't mean they aren't happy"; "they are probably much happier than the average of the population," as you would understand if you "understand psychology and flow states and... singular focus." "Most people don't apply that logic to business": they see a professional athlete "living his best life," but not "a businessman who's dedicated his life to performing well as... an intellectual athlete, you could say, in business."
+
+**Source:** What It Takes To Get Rich In Your 20s.md
+
+**Intellectual athlete** is Koe's name, in this passage, for the entrepreneur dedicated to performance in business as an athlete is dedicated to sport. The appeal to flow connects with Part IV, where flow arises from a singular focus at the edge of one's skill; the claim that such a life is "probably much happier than the average" is his inference from that theory, not a measured result.
+
+The term "concentration of force" therefore has three related senses in the corpus: focusing all resources on the decisive point, a single project of maximum leverage; focusing on one platform and using it as leverage to grow on others (the sense of this section); and making wealth one's overwhelming desire, practiced until it becomes second nature. The first two are strategic; the third is motivational, and it is the one that departs from Koe's earlier positions.
+
+The departure runs in two directions, and the corpus records both without a resolution from Koe.
+
+The first concerns "enough." In 2024 Koe described his "target creative" as someone not interested in making billions, but in making more than enough, with rest, free time and meaningful work, without the hustle. In a January 2025 conversation with Sahil Bloom, he wondered whether he would want to switch off the feedback of money, and Bloom resolved the tension by saying that pursuing more is fine if it is anchored in a purpose. By August 2025 Koe was explicitly legitimizing the obsession with getting rich, while keeping a spectrum ("both goals are fine"). His stated reason is that getting rich is a way of becoming a better person and that the journey matters more than the outcome. The two positions can be read as describing different, equally valid goals, which is how Koe himself frames them.
+
+The second concerns diversification. In the 2021 interview, Justin Welsh, following Daniel Vassallo's "small bets" approach, rejected going "all in" and preferred ten $50,000 businesses to one $500,000 business. Koe partly reintroduced the "all in" idea even then. In 2025–2026 he goes further: "concentration of force is the only way to get rich," "give yourself no other option," "build your own thing and commit to it and accept no other option." He does not reconcile this with the small-bets view. The two can apply to different situations (an operator running several small businesses versus someone who wants to get rich or to survive the replacement of jobs), but that reconciliation is an interpretation, not Koe's.
+
+Within this chapter, the strategic sense is the one that matters, and it is stable: build one source of distribution until it works, then use it as leverage for the next. The motivational extension shows how far Koe was willing to take the same logic by 2025, and Parts XII and XIII return to it.
+
+### Exercises
+
+1. **Reconstruct the chain.** Koe moves from "people at the bottom of societal pyramid schemes are investing attention" to "power in our modern world comes from attention." Reconstruct the chain of steps in your own words, identify the step that seems weakest to you, and say what kind of claim it is (empirical, conceptual, metaphorical). Then explain how the distinction between internal and external power changes the meaning of the conclusion.
+
+2. **Defend or attack the engagement game.** In 2022 Koe argued that playing the engagement game "isn't a bad thing" and is required to let people see your depth; in 2026, adapting Schmachtenberger, he argued that optimizing for engagement rather than transformation poisons the epistemic commons. Write the strongest case for each position. Then propose a criterion that would let a creator tell, for a specific piece of their own content, which side of the line it falls on.
+
+3. **Audit your distribution.** List every channel through which people currently learn about your work (or would, if you started). Classify each one using two of Koe's schemes: built/borrowed/bought and low/high leverage. Which channels would leave you with nothing if you stopped putting effort into them tomorrow? Design a twelve-month plan that shifts your effort toward owned distribution without giving up the low-leverage methods you need for income in the meantime.
+
+4. **Apply the three things needed for success.** Choose a product, service or project you have made or want to make. For each of Koe's three components (what you do and whether it is valuable; how many people know; whether it is valuable to the people who know), state where you stand and what evidence you have. Which component is your actual bottleneck? Use the Kortex case to explain why solving the second component alone might not be enough.
+
+5. **Test "people follow people."** Pick two creators you follow: one who writes mostly about a single topic and one who mixes expertise with personal observations and opinions. Estimate the proportion of each type of content in their last twenty posts, and compare it with Vitali's 70% rule and Koe's two contradictory proportions from 2023. Then decide what proportion fits your own situation and justify it by reference to Eriksen's claim that "your product is you."
+
+6. **Evaluate the numbers.** Koe supports the audience over ads with arithmetic: $7 CPM in one video, $3 in another; 100,000 followers in a year described as "extremely good"; Randy making over $100,000 a month with 10,000 followers. Identify the assumptions behind each figure, explain which conclusions survive if the assumptions are wrong, and say what you would need to know before using any of them to plan your own business.
+
+7. **Choose your starting platform.** Using the criteria Koe offers at different times (idea platform, low-friction sharing, networkable versus algorithmic, blue ocean, affinity and permanence, owned audience), choose a starting platform for yourself and defend the choice. Then state the signal you would use to decide when to branch out (ten validated ideas, replaced income, 50,000 followers, or another), and explain why you prefer it.
+
+8. **Examine your own judgment of social media.** Koe's judgment moved from "10 times easier to be conditioned" to "the vessel for your potential" to a poisoned epistemic commons. For one week, track your own use: how much time, which accounts, what you produced versus consumed. Then decide which of Koe's three judgments best describes your current relationship with the medium, and whether his under-30-minutes protocol, his "unfollow everyone" prescription, or neither, would change it.
+
+
+<!-- COBERTURA: U-001-040, U-001-066, U-001-097, U-001-128, U-001-133, U-001-134, U-001-144, U-002-004, U-002-008, U-002-057, U-002-106, U-002-117, U-002-126, U-003-127, U-004-023, U-004-029, U-004-038, U-004-082, U-004-090, U-004-136, U-004-157, U-005-018, U-005-020, U-005-029, U-005-142, U-006-060, U-006-061, U-006-062, U-006-063, U-006-064, U-006-065, U-006-066, U-006-067, U-006-068, U-006-070, U-006-072, U-006-082, U-006-099, U-006-100, U-006-107, U-007-013, U-007-110, U-007-114, U-007-126, U-007-134, U-007-135, U-007-145, U-007-154, U-007-188, U-007-191, U-007-202, U-008-054, U-008-055, U-008-056, U-008-057, U-008-061, U-008-080, U-008-081, U-008-082, U-008-128, U-008-141, U-009-033, U-009-038, U-009-040, U-009-043, U-009-044, U-009-045, U-009-046, U-009-089, U-009-094, U-009-207, U-009-230, U-009-231, U-009-246, U-009-261, U-010-007, U-010-012, U-010-084, U-010-085, U-010-087, U-010-100, U-010-101, U-010-102, U-010-141, U-010-142, U-010-165, U-010-249, U-010-250, U-010-256, U-010-288, U-010-295, U-010-332, U-011-022, U-011-033, U-011-037, U-011-071, U-011-105, U-011-108, U-011-198, U-011-199, U-011-201, U-011-220, U-011-230, U-011-237, U-012-024, U-012-025, U-012-037, U-012-063, U-012-066, U-012-068, U-012-091, U-012-094, U-012-103, U-012-104, U-012-114, U-012-116, U-012-125, U-012-132, U-012-163, U-012-167, U-012-188, U-012-224, U-012-225, U-012-226, U-013-032, U-013-048, U-013-049, U-013-051, U-013-055, U-013-092, U-013-093, U-013-095, U-013-096, U-014-027, U-014-030, U-014-120, U-014-133, U-014-134, U-014-139, U-014-140, U-014-172, U-014-173, U-014-175, U-014-178, U-015-003, U-015-004, U-015-059, U-015-061, U-015-137, U-015-143, U-016-004, U-016-005, U-016-022, U-016-023, U-016-024, U-016-025, U-016-075, U-016-076, U-016-137, U-016-138, U-016-139, U-016-154, U-016-236, U-016-237, U-016-239, U-016-240, U-016-242, U-016-243, U-016-267, U-016-276, U-016-281, U-017-048, U-018-010, U-018-038, U-018-165, U-019-016, U-019-059, U-019-064, U-019-066, U-019-139, U-019-143, U-020-035, U-021-029, U-021-135, U-021-224, U-022-139, U-022-158, U-023-055, U-023-225, U-024-094, U-024-164, U-025-110, U-025-111, U-025-217, U-026-043, U-026-154, U-026-222, U-027-016, U-027-018, U-027-019, U-027-083, U-027-120, U-027-156, U-027-186 -->
