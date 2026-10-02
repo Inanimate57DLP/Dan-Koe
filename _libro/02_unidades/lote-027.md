@@ -107,7 +107,7 @@
 - **tension:** ninguna
 
 ## U-027-009
-- **tipo:** distinción conceptual
+- **tipo:** concepto
 - **titulo:** Comparison vs. connection: suffering comes from viewing the world through comparison; enjoyment comes from viewing it through connection
 - **desarrollo:** Drawing on Buddhism, where suffering is the central word (something not necessarily eliminated but viewed in a different light), Koe says suffering happens when you view the world from a lens of comparison—highlighting the differences between things, why they are not the same, what differentiates you. Tension arises (e.g., dislike because someone won't "transition over to you"). It should be "sameness over difference" and connection rather than comparison—though understanding differences is also good; both must be held to see the whole. Enjoyment, by contrast, happens when you view the world from a lens of connection: zooming out, gaining meta perspective, seeking to understand the big picture with an open rather than closed mind.
 - **ejemplos:** a Christian vs. a Catholic and the tension when the other won't convert; "a billion different examples, religion is just one".
@@ -172,7 +172,7 @@
 - **tension:** ninguna
 
 ## U-027-014
-- **tipo:** distinción conceptual
+- **tipo:** concepto
 - **titulo:** States vs. stages: states are temporary; raising your baseline (stage) makes authenticity permanent
 - **desarrollo:** States are temporary—you can be creative or authentic for five minutes, but when everything goes unconscious you return to the stage/level you are at. If you slowly develop yourself to a higher baseline or "stage permanence" of authenticity, creativity, productivity, calmness, then you can branch into higher states and slowly move the baseline up. Moving baseline authenticity up happens "by deconstructing and reprogramming your brain."
 - **ejemplos:** being creative or authentic for five minutes.
@@ -224,7 +224,7 @@
 - **tension:** ninguna
 
 ## U-027-018
-- **tipo:** analogía
+- **tipo:** metáfora
 - **titulo:** You'd cringe at being locked in a room with your friends for three days, yet you don't cringe at social media's hundredfold exposure
 - **desarrollo:** Whether introvert or extrovert, you'd cringe at being locked in a room with all your friends for three days; you want to see them maybe two or three times, or once a week, for one to three hours. Yet you don't cringe at logging onto social media where there are a hundred times more people posting far more polarizing information. Your mind doesn't know any different—it's the same information, maybe in a different medium; in person you can at least see the person (transcript ambiguous: "you can see the bottle"). Social media is "worse all around."
 - **ejemplos:** locked in a room with friends for three days.
@@ -276,7 +276,7 @@
 - **tension:** ninguna
 
 ## U-027-022
-- **tipo:** consecuencia
+- **tipo:** argumento
 - **titulo:** Over-socialization makes your thoughts, writing and work unoriginal, producing the same results as everyone else (the rat race)
 - **desarrollo:** The problem with over-socialization is that your thoughts, writing, ideas and work are not original, unique or novel; because of that you get the same results as everyone else—who are in the rat race, whether a corporate rat race or "a social media one-person business Rat Race." Therefore prioritize your mind, self-development, cognitive and creative development—the thing that separates you. "Don't worry about your Niche don't worry about how well your Topic's performing prioritize developing your mind."
 - **ejemplos:** corporate rat race vs. social media one-person business rat race.
@@ -1021,7 +1021,7 @@
 - **tension:** ninguna
 
 ## U-027-079
-- **tipo:** observación
+- **tipo:** opinión
 - **titulo:** Most successful people Koe knows started out of raw hatred for their situation; ~80% of young men start the gym after a breakup
 - **desarrollo:** Most successful people he knows began from raw hatred for their situation: hating the commute, "wearing a monkey suit five days a week", letting a relationship drag on, or not being good enough for the one they wanted to keep. That's why "like 80" (percent) of young people get in the gym: "I wasn't good enough in this relationship... I'm gonna go get jacked"—a superficial problem but a phase of life. When these people felt into their low point, let go of their attachment to it, realized there's a way out and found a light to work toward, "a new potential revealed itself and action started to become frictionless" because of pent-up emotion.
 - **ejemplos:** commute; monkey suit; breakup → gym.
@@ -1569,7 +1569,7 @@
 - **tension:** ninguna
 
 ## U-027-121
-- **tipo:** observación
+- **tipo:** opinión
 - **titulo:** The difference between a 500-follower and a 500,000-follower account is the connections, not just followers
 - **desarrollo:** The 500K account has probably met 50 to 100 high-level people you'll never meet in real life; access to many behind-the-scenes opportunities consumers don't see; texting with people; a wide network with diverse skill sets "that you can never fail once you reach a certain point."
 - **ejemplos:** ninguno
@@ -1740,7 +1740,7 @@
 - **tension:** ninguna
 
 ## U-027-134
-- **tipo:** observación
+- **tipo:** opinión
 - **titulo:** Smart people Google and go down a rabbit hole; everyone else asks to be given everything and gets distracted in five minutes
 - **desarrollo:** A previous tweet: "most smart people I know when they want to learn something immediately Google what they want and go down a rabbit hole everyone else asks for all the information to be given to them rarely get a complete answer and get distracted within five minutes."
 - **ejemplos:** ninguno
@@ -2420,7 +2420,7 @@
 - **tension:** ninguna
 
 ## U-027-186
-- **tipo:** analogía
+- **tipo:** metáfora
 - **titulo:** Social media is like a bar you're free to leave—and you can visit one on the other side of the world
 - **desarrollo:** People email asking if they must use social media, since it's bad for your mind. Yes, "if you let it be", if you can't control yourself and whom you follow. Otherwise it's "the greatest way to make friends in the world." Saying social media forces bad experiences is like going to a bar and acting like you must stay though you dislike the people; you're free to leave anytime—and on social media you can go to a bar on the other side of the world.
 - **ejemplos:** bar.
@@ -3136,5 +3136,319 @@
 - **nivel:** fundamental
 - **prerrequisitos:** U-027-238
 - **fuente:** The Fastest Way To Ruin Your Life (Avoid This While You're Young).md, 31:24–33:41, 2025-01-12
+- **tension:** ninguna
+
+# Fuente: The Value Equation How To Become A High-Status Individual.md (2024-03-17)
+
+## U-027-241
+- **tipo:** principio
+- **titulo:** You are chasing status: rejecting the status game is choosing to be low status; claiming not to chase it is still chasing it
+- **desarrollo:** "You can reject the status game but by doing so you choose to be low status"—decreasing impact, increasing suffering, and never realizing you still chase status. It's "an immutable principle in human nature" since the dawn of time. Thinking you don't chase status as a noble pursuit is still chasing status—like the desire to kill the ego is still a desire. That's not bad, it's natural; once you accept it you begin to be rewarded. People judge you by perceived status; not realizing this means accepting a life of being treated unfairly with close to zero impact.
+- **ejemplos:** desire to kill the ego.
+- **cita:** "to think that you aren't chasing status as a noble Pursuit is still chasing status"
+- **terminos:** status game; low status; immutable principle
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Value Equation How To Become A High-Status Individual.md, 0:00–0:52, 2024-03-17
+- **tension:** ninguna
+
+## U-027-242
+- **tipo:** argumento
+- **titulo:** Everyone has a status in every circle; people assign it on sight and decide opportunities on it—even glorified thought leaders play the status game
+- **desarrollo:** You have status in your social circle, job/career, religious organization. People assign status when they first see you (out of your control), but you can position yourself to increase the likelihood of being perceived high status. People decide whether to engage, offer opportunities, hire, pay or help you based on it. Leaders we glorify—Jesus Christ, Eckhart Tolle, Naval Ravikant, Alan Watts, Jordan Peterson, Ken Wilber, any thought leader—play a status game whether they say so or not (Koe doubts it's unintentional given their awareness): how else would they attract large followings perceived as high status and change the direction of evolution? He rejects edge cases of high-status people who neglect inner work: status is one part, not the whole; don't pursue it at all costs; other things balance a good life. "Money doesn't buy happiness" doesn't mean don't try—otherwise you close yourself to the experiences of playing the game of life and pushing further toward depth and meaning.
+- **ejemplos:** Jesus Christ, Eckhart Tolle, Naval Ravikant, Alan Watts, Jordan Peterson, Ken Wilber.
+- **cita:** "they are playing a status game whether they say they are or they aren't"
+- **terminos:** perceived status; position yourself; Game of life
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-241
+- **fuente:** The Value Equation How To Become A High-Status Individual.md, 0:52–2:27, 2024-03-17
+- **tension:** ninguna
+
+## U-027-243
+- **tipo:** advertencia
+- **titulo:** Unconscious status-seeking makes you manipulate and cheat without knowing it—become conscious of it to make it beneficial
+- **desarrollo:** Contributing to humanity is the prerequisite to getting something from humanity, so status matters. Because status-seeking is natural, if it remains unconscious "you will manipulate and cheat without knowing it you will be the cause of evil without knowing it," because you won't learn the inner workings of your mind that let you turn the status you create into something beneficial for others. Even the "Consciousness scale" is a hierarchy—status: telling him to reach the highest level of absolute love is still persuading him that it's worth pursuing. He's not saying the scale is wrong; it's a tool, an ideology, a construct to move in a better direction—as is understanding status.
+- **ejemplos:** Consciousness scale.
+- **cita:** "you will be the cause of evil without knowing it"
+- **terminos:** Consciousness scale; unconscious status
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-241
+- **fuente:** The Value Equation How To Become A High-Status Individual.md, 2:27–3:16, 2024-03-17
+- **tension:** ninguna
+
+## U-027-244
+- **tipo:** principio
+- **titulo:** Status and value go hand in hand: without value, status is an illusion that deceives more than persuades
+- **desarrollo:** The purpose of becoming high status is getting what you want from life. To become high status you must become valuable, "or else that status is Just an Illusion and you're deceiving more than you are persuading" people to give you what you want. Quote from his book The Art of Focus: "the path of the problem solver or value Creator is how you escape the world of replaceability fall in love with the challenge that problems present from superficial to metaphysical and your ideal future will create itself." Value is created by solving problems, creating solutions, forging your own path and creating something unique with the story you carve out.
+- **ejemplos:** ninguno
+- **cita:** "the path of the problem solver or value Creator is how you escape the world of replaceability"
+- **terminos:** value; status; problem solver; value Creator; replaceability
+- **origen:** propia (cita de su libro The Art of Focus)
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-241
+- **fuente:** The Value Equation How To Become A High-Status Individual.md, 3:16–5:02, 2024-03-17
+- **tension:** ninguna
+
+## U-027-245
+- **tipo:** principio
+- **titulo:** Looks come before depth: the material is a portal into the immaterial—you start digging from the surface
+- **desarrollo:** A nice car can have a billion-dollar founder approach you and ask what you do, opening a world of opportunity; a nice body gets you in the door with a partner who values health, strength and discipline. People close their minds to material/superficial pursuits not realizing they're just the starting point. Successful people post "I used to have the nice watch/car" and renounce part of their journey—not realizing they can only give that lesson because they pursued it. Neil Patel's tweet ended with "do what you want, buy them, but learn from your mistakes": many superficial pursuits will be mistakes, but mistakes enable corrections, which get you where you want. "You don't start digging from the core... you start digging from the surface the material is a portal Into the immaterial." Becoming valuable means increasing the impact of both looks and depth. In relationships, nobody cares about your personality before talking to you—looks attract, then they meet the depth, then offer opportunities.
+- **ejemplos:** nice car and billion-dollar founder; nice body; Neil Patel's tweet; dating.
+- **cita:** "the material is a portal Into the immaterial"
+- **terminos:** looks come before depth; looks; depth; portal
+- **origen:** propia (menciona a Neil Patel)
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-244
+- **fuente:** The Value Equation How To Become A High-Status Individual.md, 5:02–6:32, 2024-03-17
+- **tension:** ninguna
+
+## U-027-246
+- **tipo:** argumento
+- **titulo:** Clickbait titles and thumbnails are looks that introduce depth; if ethical creators refuse, unethical ones rise without competition
+- **desarrollo:** People think YouTube titles shouldn't be clickbaity or lean into human nature, but if they aren't, "the unethical businesses are going to rise to the top without competition." Koe could and should be clickbaity (though less than others): the game is introducing people to the depth—content he believes is more impactful—which no one watches unless he grabs attention with looks first. "You only care about the looks until you are exposed to the depth": those who only see the title comment "clickbait" without watching; those who watch don't remember the title, just that it taught them a lot. Lesson: "don't hate the game don't hate the player Master them both." "Status as far as I'm concerned is your experience level in The Game of Life."
+- **ejemplos:** YouTube titles and thumbnails.
+- **cita:** "don't hate the game don't hate the player Master them both"
+- **terminos:** looks before the depth; clickbait; experience level in The Game of Life
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-245
+- **fuente:** The Value Equation How To Become A High-Status Individual.md, 6:32–8:02, 2024-03-17
+- **tension:** ninguna
+
+## U-027-247
+- **tipo:** concepto
+- **titulo:** Value is giving something useful that is perceived as useful through persuasion—not the labor theory of value
+- **desarrollo:** The labor theory of value ("I worked one year on this, you owe me $100,000") is "not how value works." "Value works by me giving you something useful but if you don't see it as useful through persuasion then it's not valuable." Hence two layers: macronutrients of value (perspective: how value is framed/constructed) and micronutrients (shaping how it's perceived).
+- **ejemplos:** one year of work → $100,000 claim.
+- **cita:** "if you don't see it as useful through persuasion then it's not valuable"
+- **terminos:** labor theory of value; macronutrients of value; micronutrients of value
+- **origen:** propia (crítica a la teoría del valor-trabajo)
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-244
+- **fuente:** The Value Equation How To Become A High-Status Individual.md, 8:02–8:57, 2024-03-17
+- **tension:** ninguna
+
+## U-027-248
+- **tipo:** definición
+- **titulo:** Value as structured communication or sense-making to the mind; value is truth, story, progress, transformation, reversing entropy, a signal of meaning
+- **desarrollo:** The framework lets you change your life, help others for money, write/speak/think clearly, create content, landing pages or marketing that sells, navigate relationships mutually, and understand and move past emotions. "Value in this case is structured communication or sense making to the mind"—how the mind makes sense of the world, packaged and given to someone. It's also a framework for creating solutions to problems (the good life: solve one problem, then the next, contributing to evolution), and the foundation of human behavior, business and communication. "Value is truth value is story value is progress value is transformation value is reversing entropy value is a signal of meaning in your psyche"—synonymous or heavily related.
+- **ejemplos:** ninguno
+- **cita:** "value is a signal of meaning in your psyche"
+- **terminos:** value; structured communication; sense making; reversing entropy; signal of meaning
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-247
+- **fuente:** The Value Equation How To Become A High-Status Individual.md, 8:57–9:47, 2024-03-17
+- **tension:** ninguna
+
+## U-027-249
+- **tipo:** concepto
+- **titulo:** The "click": value is felt when the last missing piece connects floating ideas—pay attention to those moments to replicate them
+- **desarrollo:** You have many little unconnected ideas in your head. Reading a sentence that "just clicks"—"that is exactly what I needed"—happens when you're exposed to the right idea from the right perspective perceived the right way. When many pieces of the value framework are in place and you find the last one, that click represents value: "this Cascade of insight starts going off that's value." Same when a product is put in front of you and you buy instantly because it's exactly what you need. Pay attention to these moments so you can replicate them in life and business.
+- **ejemplos:** sentence in a book that clicks; instant purchase.
+- **cita:** "this Cascade of insight starts going off that's value"
+- **terminos:** Cascade of insight; signal of meaning
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-248
+- **fuente:** The Value Equation How To Become A High-Status Individual.md, 9:47–10:34, 2024-03-17
+- **tension:** ninguna
+
+## U-027-250
+- **tipo:** framework
+- **titulo:** The macronutrients of value: problem, goal, process
+- **desarrollo:** (1) Problem—"a limitation or challenge that creates pain when unsolved." (2) Goal—"an impactful end result that allows the recipient to evolve beyond the problem." (3) Process—"a creative system that breeds knowledge skill and awareness to bridge the gap between problem and solution." Examples: to improve your life, identify a problem, direct your mind toward a goal, experiment with solutions until you create a path—"this is called creativity." To make money, help others identify a problem, direct their attention to a goal, give clarity to act on a better future. For a better relationship, both realize the problem, share a goal, and both put effort into solving it. Problem-goal-process structures anything: writing, marketing, behaving, building a product, telling a story. He links it to the "purpose path priority" chapter of The Art of Focus.
+- **ejemplos:** improving your life; making money; relationship.
+- **cita:** "a problem goal and process provide the structure for anything you do"
+- **terminos:** macronutrients of value; problem; goal; process; creativity; purpose path priority
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-247
+- **fuente:** The Value Equation How To Become A High-Status Individual.md, 10:34–12:46, 2024-03-17
+- **tension:** ninguna
+
+## U-027-251
+- **tipo:** método
+- **titulo:** Apply problem-goal-process to a landing page and to content: three tweets, a newsletter, a page
+- **desarrollo:** A landing page follows this exact structure: start with the problem to frame the reader's perspective; hint at a goal—what they'll achieve by purchasing; then the process—what the product is, how it impacts their life, how they implement it. Same for anything you write: a course, written content, a tweet—one tweet about a problem, another about a goal, another about a process/step-by-step plan: "boom now you have three tweets a newsletter landing page everything." "This is a universal framework of value."
+- **ejemplos:** landing page; three tweets.
+- **cita:** "boom now you have three tweets a newsletter landing page everything"
+- **terminos:** landing page structure; universal framework of value
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-250
+- **fuente:** The Value Equation How To Become A High-Status Individual.md, 11:18–12:46, 2024-03-17
+- **tension:** ninguna
+
+## U-027-252
+- **tipo:** concepto
+- **titulo:** Stories and games follow problem-goal-process: a story opens a curiosity loop with a problem ("a cold spot on the side of the bed")
+- **desarrollo:** Problem-goal-process constructs the perspective or overarching narrative; the micronutrients guide people within the story. Humans make sense of the world via stories; deconstruct why we love stories and games, why stories make things make sense and make us want to help the teller: a story frames perspective by "opening a curiosity loop with a problem"—e.g., a book opening "there was a cold spot on the side of the bed": why, what will they do? The goal/resolution is implied, and the process is what happens in the book to reach the end. Same with a game. He encourages understanding your life through narrative, story, game.
+- **ejemplos:** "there was a cold spot on the side of the bed" (book opening; title not given).
+- **cita:** "it starts out by opening a curiosity loop with a problem"
+- **terminos:** curiosity loop; narrative
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-250
+- **fuente:** The Value Equation How To Become A High-Status Individual.md, 12:46–13:37, 2024-03-17
+- **tension:** ninguna
+
+## U-027-253
+- **tipo:** framework
+- **titulo:** The micronutrients of value: concept, proof, risk reversal, pain points, benefits, awareness
+- **desarrollo:** Framing perception within the constructed perspective. (1) Concept—packaging and naming your value to capture attention and stick in people's heads. (2) Proof—giving belief it's possible through personal or peer results. (3) Risk reversal—reducing perceived uncertainty, friction and difficulty of getting results. (4) Pain points—amplifying the problem to show how it impacts life beyond the surface. (5) Benefits—increasing desire to reach the solution, making motivation sustainable if repeated. (6) Awareness—how many people suffer from the problem, can benefit, and are ready to receive the clarity to act.
+- **ejemplos:** see U-027-254 to U-027-260.
+- **cita:** "risk reversal or reducing the perceived uncertainty friction and difficulty of getting results"
+- **terminos:** micronutrients of value; concept; proof; risk reversal; pain points; benefits; awareness
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-250
+- **fuente:** The Value Equation How To Become A High-Status Individual.md, 13:37–14:22, 2024-03-17
+- **tension:** ninguna
+
+## U-027-254
+- **tipo:** caso
+- **titulo:** Building a product with the value framework: problem "I hate working long hours", goal "work four hours a day", process "start a business, learn skills, focus on high-leverage tasks"
+- **desarrollo:** Koe's worked example with his skill set: problem—I hate working long hours; goal—work four hours a day; process—start a business, learn the required skills, focus on high-leverage tasks. In the process, get very specific and detailed to give clarity. Each element (problem, goal, process) can be turned into different content ideas.
+- **ejemplos:** 4-hour workday product.
+- **cita:** "the goal is work for four hours a day"
+- **terminos:** high leverage tasks
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-253
+- **fuente:** The Value Equation How To Become A High-Status Individual.md, 14:22–16:00, 2024-03-17
+- **tension:** ninguna
+
+## U-027-255
+- **tipo:** principio
+- **titulo:** People can't teach you what to do, only what they do: experiment with others' methods and build your unique system to pass down
+- **desarrollo:** "People can't teach you what to do they can teach you what they do"—not bad, beautiful: on the internet you can research what others do. Subscribing to one method as the best and only, like an ideology, probably won't give the best results; experiment, take pieces of each to create your own and get your best results—"then you have a unique system," and passing it down contributes to humanity and potentially gets you paid. Distributing value is distributing something that helps people transform—a story. Also: "one person innovating the next imitating and then innovating with their own and then passing down"—that's how humanity progresses (he says take what's useful from his writing course and sell your own).
+- **ejemplos:** his writing course as base for others.
+- **cita:** "people can't teach you what to do they can teach you what they do"
+- **terminos:** unique system; innovate imitate innovate
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-254
+- **fuente:** The Value Equation How To Become A High-Status Individual.md, 15:13–16:00, 17:35–18:24, 2024-03-17
+- **tension:** ninguna
+
+## U-027-256
+- **tipo:** método
+- **titulo:** Concept micronutrient: name a novel perspective on a good idea—concepts are made up, so make more up and test them
+- **desarrollo:** Example concept: "the 4-Hour workday." Naming a concept—like the Eisenhower Matrix, "1% better every day", his "one person business", "4-Hour workday", "the value equation"—brings a novel perspective to a good idea, preferably life-changing. Works well for headlines, video titles, hooks. "Concepts are just made up"; the Eisenhower Matrix was made up though it's popular—"make more things up and test them."
+- **ejemplos:** Eisenhower Matrix; 1% better every day; one person business; 4-Hour workday; value equation.
+- **cita:** "concepts are just made up ... make more things up and test them"
+- **terminos:** concept; 4-Hour workday; one person business; value equation
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-253
+- **fuente:** The Value Equation How To Become A High-Status Individual.md, 16:00–16:48, 2024-03-17
+- **tension:** ninguna
+
+## U-027-257
+- **tipo:** método
+- **titulo:** Proof micronutrient: client results, or start newsletters with a personal experience that illustrates the problem (two birds, one stone)
+- **desarrollo:** Product example: "I've helped John Smith prioritize tasks to work less and increase revenue" (placeholder name). In his newsletters he usually starts with a personal experience illustrating the problem—covering the problem (macronutrient) and proof via personal experience (micronutrient) at once. Use client stories, statistics, research or logic to show what's possible, so people believe in and care about your value.
+- **ejemplos:** "John Smith" (hypothetical); newsletter openings.
+- **cita:** "I'm knocking out two birds with one stone"
+- **terminos:** proof; personal experience
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-253
+- **fuente:** The Value Equation How To Become A High-Status Individual.md, 16:48–17:35, 2024-03-17
+- **tension:** ninguna
+
+## U-027-258
+- **tipo:** método
+- **titulo:** Risk reversal micronutrient: "you only need 10 minutes each day"—people need clarity more than motivation
+- **desarrollo:** Example: "you only need 10 minutes each day to start," because "people need Clarity more than they need motivation." Reduce perceived risk and friction to change. Marketing uses money-back guarantees; in writing, Koe attempts "to make things so stupidly clear that people don't have a choice but to act."
+- **ejemplos:** 10 minutes a day; money-back guarantee.
+- **cita:** "people need Clarity more than they need motivation"
+- **terminos:** risk reversal; Clarity
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-253
+- **fuente:** The Value Equation How To Become A High-Status Individual.md, 17:35–18:24, 2024-03-17
+- **tension:** ninguna
+
+## U-027-259
+- **tipo:** método
+- **titulo:** Pain points micronutrient: open landing pages with a bullet list of pain points—it qualifies the reader and opens a curiosity loop
+- **desarrollo:** Example pain points: no time for family, no time to pursue other goals, no meaningful work to focus on. On his landing pages he usually starts with a bullet list of pain points (see his writing course page) to check fit: do you care about this, want to fix it? If so, stick around. It also opens a curiosity loop like a story's beginning, making people desire a solution, because people normally "cloud over their problems," ignoring them until they reach a life they hate. He urges mapping macro- and micronutrients for anything you create—a newsletter, a YouTube video, even a love song to a potential partner.
+- **ejemplos:** landing page bullets; love song.
+- **cita:** "on my landing pages I usually start with a bullet point list of pain points"
+- **terminos:** pain points; curiosity Loop
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-253
+- **fuente:** The Value Equation How To Become A High-Status Individual.md, 18:24–19:07, 2024-03-17
+- **tension:** ninguna
+
+## U-027-260
+- **tipo:** ejemplo
+- **titulo:** Benefits micronutrient: a social post built on benefits—"choose when you work, what you work on, who you work with"
+- **desarrollo:** Example benefits: choose when you work, what you work on, who you work with. Most people should write benefit-based posts initially to establish authority when they start distributing value on social media—"the new Society", "the Town Square of Commerce." Example post: you started a business because you want to choose when, what and with whom you work; entrepreneurship isn't about long hours but about "taking control of your time money and enjoyment." Structure: hook, then benefits, then a lesson or the goal—containing benefits, a concept (entrepreneurship) and a goal. He scheduled it on Twitter for viewers to check; it's also what Cortex helps write.
+- **ejemplos:** scheduled tweet.
+- **cita:** "entrepreneurship isn't about working long hours it's about taking control of your time money and enjoyment"
+- **terminos:** benefits; establish Authority; Town Square of Commerce
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-253
+- **fuente:** The Value Equation How To Become A High-Status Individual.md, 19:07–20:42, 2024-03-17
+- **tension:** ninguna
+
+## U-027-261
+- **tipo:** framework
+- **titulo:** Awareness micronutrient: five levels of awareness—unaware, problem aware, solution aware, product aware, most aware
+- **desarrollo:** Level 1: unaware of the problem; level 2: problem aware; level 3: solution aware; level 4: product aware; level 5: most aware. Most people fall between 1 and 4. Your job: speak to each level at various stages of your bio, content, website, emails, DMs, calls, until they're aware your product/value is the one to implement. Track where they start the buyer's journey, where they are, where they'll end. Example: for a level-2 (problem aware) person regarding the 4-hour-workday product, give a solution: "if you hate working long hours add to your skill set finally start a business work on it for 1 hour each day fire your boss... you will never work less if you don't create your own way of doing so"—using the process macronutrient to give a solution.
+- **ejemplos:** level-2 message for the 4-hour product.
+- **cita:** "your job is to speak to each level at various stages"
+- **terminos:** levels of awareness; unaware; problem aware; solution aware; product aware; most aware; buyer's Journey
+- **origen:** propia (los cinco niveles no se atribuyen a otro autor en el texto)
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-253
+- **fuente:** The Value Equation How To Become A High-Status Individual.md, 20:42–22:17, 2024-03-17
+- **tension:** ninguna
+
+## U-027-262
+- **tipo:** término-acuñado
+- **titulo:** The value equation: value is reversing entropy—creating systems to achieve goals by solving problems
+- **desarrollo:** "Value is reversing entropy entropy is the decline into chaos entropy is reversed by creating systems to achieve goals by solving problems that's the value equation." The lifestyle of the 1%: all high-level individuals reverse entropy daily—pursue goals, solve problems, hypothesize, test and create solutions to distribute, daily; it demands constant learning, building and distributing value. He calls it "literally the one thing that will set you apart."
+- **ejemplos:** ninguno
+- **cita:** "entropy is reversed by creating systems to achieve goals by solving problems that's the value equation"
+- **terminos:** value equation; reversing entropy; lifestyle of the 1%
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-250
+- **fuente:** The Value Equation How To Become A High-Status Individual.md, 22:17–23:55, 2024-03-17
+- **tension:** ninguna
+
+## U-027-263
+- **tipo:** principio
+- **titulo:** The career that never goes out of style: earning in accordance with nature—solving endless problems, productizing solutions, distributing value
+- **desarrollo:** "There is one career that will never go out of style and that is earning in accordance with nature": reversing entropy by solving an endless series of problems, turning solutions into potential profit, distributing value—no matter the economy or how many jobs AGI replaces; even your worry is a problem others share that you can solve for all parties and profit "with education and meaning content and products." Meaning (philosophy, spirituality, metaphysics, purpose, entrepreneurship—what value creators do online) is a job that will persist; education goes with it—the optimal is one-to-one educators, which probably never happens, so "20% of the population plus" being educators on social media by teaching their interests and attracting those who value it "are going to be set in the future."
+- **ejemplos:** AGI replacing jobs.
+- **cita:** "earning in accordance with nature"
+- **terminos:** earning in accordance with nature; education and meaning
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-262
+- **fuente:** The Value Equation How To Become A High-Status Individual.md, 23:01–24:48, 2024-03-17
+- **tension:** ninguna
+
+## U-027-264
+- **tipo:** proceso
+- **titulo:** Take the time: 1 hour every morning before distractions wake up—solve a problem, build an audience via writing, productize, iterate, transcend survival
+- **desarrollo:** "Nobody is going to give you the time you must take it." Start with 1 hour every morning "before the distractions wake up." Solve a problem in your life that births a profitable solution; build an audience by distributing value with writing and content; turn your solution into a product and iterate until you make as much as you want. Don't rely on a paycheck for survival; "transcend your survival through entrepreneurship and remove the earning limit from your life."
+- **ejemplos:** ninguno
+- **cita:** "nobody is going to give you the time you must take it"
+- **terminos:** 1 hour every morning; remove the earning limit
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-263
+- **fuente:** The Value Equation How To Become A High-Status Individual.md, 24:48–25:27, 2024-03-17
 - **tension:** ninguna
 
