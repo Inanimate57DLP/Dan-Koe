@@ -314,8 +314,8 @@ U-013-014	T17	T12	author income figures
 U-013-015	T12	T09	one-person writing business
 U-013-016	T09	T11	topic you cannot shut up about
 U-013-017	T09	T10	brand is what you do
-U-013-018	T09	T08	unique perspective
-U-013-019	T09	T08	unique perspective
+U-013-018	T09	T08	novel perspective
+U-013-019	T09	T08	novel perspective
 U-013-020	T09	-	post structure
 U-013-021	T09	T10	long form builds authority
 U-013-022	T09	T10	2 hour content ecosystem
@@ -398,3 +398,364 @@ U-013-098	T12	T14	work for a creator
 U-013-099	T12	-	iterative products
 U-013-100	T17	T12	author product lineage
 U-013-101	T13	T14	persuasive communication
+U-013-102	T13	T08	marketing is perception
+U-013-103	T09	T13	emotion and ego in writing
+U-013-104	T09	T16	life is story
+U-013-105	T16	T04	happiness is a false metric
+U-013-106	T07	T09	research instead of consume
+U-013-107	T09	-	10 commandments of engagement
+U-013-108	T09	-	10 commandments of engagement
+U-013-109	T09	-	10 commandments of engagement
+U-013-110	T09	T02	10 commandments of engagement
+U-013-111	T09	-	10 commandments of engagement
+U-013-112	T09	T13	10 commandments of engagement
+U-013-113	T09	T13	10 commandments of engagement
+U-013-114	T09	T10	10 commandments of engagement
+U-013-115	T09	T08	10 commandments of engagement
+U-013-116	T09	T15	10 commandments of engagement
+U-013-117	T09	-	10 commandments of engagement
+U-013-118	T08	T09	getting the point
+U-013-119	T09	-	10 commandments of engagement
+U-013-120	T09	-	10 commandments of engagement
+U-013-121	T09	-	10 commandments of engagement
+U-013-122	T08	T09	getting the point
+U-013-123	T09	-	curiosity loop
+U-013-124	T09	T13	story is structure
+U-013-125	T09	-	readability formatting
+U-013-126	T08	T09	novel perspective
+U-013-127	T08	T09	novel perspective
+U-013-128	T09	T02	message vs messenger
+U-013-129	T09	T10	education inspiration entertainment
+U-013-130	T09	-	inspiration is not motivation
+U-013-131	T10	T12	personal brand equals one-person business
+U-013-132	T07	T09	read write build
+U-013-133	T17	-	author biography failed businesses
+U-013-134	T04	T03	psychic entropy
+U-013-135	T03	T01	personal project
+U-013-136	T07	T14	capacity for luck
+U-013-137	T14	T09	ai is a tool for writers
+U-013-138	T09	T07	writing is the meta skill
+U-013-139	T09	T12	writing is the meta skill
+U-013-140	T12	T15	monetize your intelligence
+U-013-141	T09	T01	content as extension of the mind
+U-013-142	T17	T12	author income figures
+U-013-143	T12	T09	one-person writing business
+U-013-144	T09	T08	novel perspective
+U-013-145	T09	T10	depth and growth
+U-013-146	T10	T09	traffic is 80 percent
+U-013-147	T09	T08	writing as articulated thought
+U-013-148	T09	T03	writing frameworks flow
+U-013-149	T13	T09	copywriting frameworks
+U-013-150	T09	-	apag framework
+U-013-151	T09	-	apag framework
+U-013-152	T09	T13	hook building blocks
+U-013-153	T09	-	hook building blocks
+U-013-154	T09	-	apag framework
+U-013-155	T09	T17	apag framework
+U-013-156	T09	-	writing elements
+U-013-157	T09	T13	apag framework
+U-013-158	T09	T03	apag framework
+U-013-159	T07	-	practice until internalized
+U-013-160	T09	-	persuasive writing structure
+U-013-161	T09	T07	emulation swipe file
+U-013-162	T09	-	tweets to threads to newsletters
+U-013-163	T14	-	ai era questions
+U-013-164	T01	T14	devon ericson essay
+U-013-165	T01	T11	wage slave
+U-013-166	T03	T01	assigned purpose
+U-013-167	T01	T07	true education
+U-013-168	T08	T03	creativity definition
+U-013-169	T07	T08	study human nature
+U-013-170	T07	T14	seven liberating arts
+U-013-171	T14	T07	future-proof skill stack
+U-013-172	T07	-	everything is a skill
+U-013-173	T07	T08	self-experiment learning
+U-013-174	T14	T07	future-proof skill stack
+U-013-175	T14	T07	technical know-how
+U-013-176	T11	T13	create a niche through persuasion
+U-013-177	T11	T14	generalized specialists
+U-013-178	T07	-	top 5 percent
+U-013-179	T01	T07	decentralized education system
+U-013-180	T05	T06	carve out a daily block
+U-013-181	T07	T12	domain of mastery
+U-013-182	T12	T07	domain of mastery
+U-013-183	T12	T03	why founders build
+U-013-184	T12	T13	value equation case
+U-013-185	T14	T07	fear of technology
+U-013-186	T14	T03	ai needs direction
+U-013-187	T14	T15	agency meta-skill
+U-013-188	T14	T15	agency meta-skill
+U-013-189	T15	T02	agency meta-skill
+U-013-190	T01	-	constant revolt
+U-013-191	T01	T02	conformity
+U-013-192	T01	T02	newborn mind as computer
+U-013-193	T02	T01	ego development spiral dynamics
+U-013-194	T01	T02	conformity
+U-013-195	T15	T02	agency meta-skill
+U-013-196	T15	T02	agency meta-skill
+U-013-197	T03	T15	easy difficult impossible goals
+U-013-198	T01	-	default path
+U-013-199	T07	-	ai learning workflow
+U-013-200	T15	T14	agency meta-skill
+U-013-201	T14	T09	orchestrating vision with ai
+U-013-202	T09	T14	context creators
+U-013-203	T14	T03	vision and agency remain
+U-013-204	T01	T11	prestige of specialization
+U-013-205	T11	-	jack of all trades synthesizer
+U-013-206	T11	T14	specialists attached to skill
+U-013-207	T11	-	niche specialist animal
+U-013-208	T01	-	prussian education model
+U-013-209	T01	-	systems take the shape of their goal
+U-013-210	T11	T01	wage slave
+U-013-211	T14	T08	agi and human capabilities
+U-013-212	T14	T08	five fundamental human capabilities
+U-013-213	T14	T08	five fundamental human capabilities
+U-013-214	T14	T08	five fundamental human capabilities
+U-013-215	T08	T07	five fundamental human capabilities
+U-013-216	T08	T04	five fundamental human capabilities
+U-013-217	T04	T08	five fundamental human capabilities
+U-013-218	T08	T16	attention lens
+U-013-219	T03	T01	games agency as art
+U-013-220	T03	T01	life as a game
+U-013-221	T15	T03	practicing agency
+U-013-222	T10	T03	social media great modern game
+U-013-223	T14	T06	opportunity paralysis
+U-013-224	T14	T07	human nature meta skill
+U-013-225	T13	T08	eight human desires three tensions
+U-013-226	T14	T03	meaning over utility
+U-013-227	T08	T01	the frame
+U-013-228	T13	T09	three tensions
+U-013-229	T13	T09	survival tension
+U-013-230	T06	T13	survival tension
+U-013-231	T09	T13	survival tension
+U-013-232	T13	T02	identity tension
+U-013-233	T01	T02	identity tension
+U-013-234	T02	T13	progress tension
+U-013-235	T13	T16	ethical persuasion
+U-013-236	T13	T09	work them up the ladder
+U-013-237	T01	T09	information environment breaks thinking
+U-013-238	T15	T09	market is a harsh mentor
+U-013-239	T13	T02	ethical persuasion
+U-013-240	T13	-	five psychological levers
+U-013-241	T13	-	levels of awareness
+U-013-242	T13	T09	start with the problem
+U-013-243	T09	-	name five problems
+U-013-244	T13	T09	five psychological levers
+U-013-245	T13	T09	five psychological levers
+U-013-246	T13	T09	five psychological levers
+U-013-247	T13	T09	five psychological levers
+U-013-248	T14	T07	human nature meta skill
+U-014-001	T03	T07	follow curiosity
+U-014-002	T01	T07	school kills curiosity
+U-014-003	T06	T04	dopamine reward mechanism
+U-014-004	T03	T07	curiosity needs utility
+U-014-005	T02	T01	copycat by design
+U-014-006	T07	-	repetition of foundational principles
+U-014-007	T02	T01	beliefs attached to survival
+U-014-008	T04	-	entropy and order of mind
+U-014-009	T03	T04	hierarchy of goals
+U-014-010	T03	-	hierarchy of goals
+U-014-011	T03	T08	sense making
+U-014-012	T02	T03	identity as a story
+U-014-013	T03	T02	autonomy from social rewards
+U-014-014	T03	-	hierarchy of goals
+U-014-015	T03	-	intrinsic drivers
+U-014-016	T04	T03	control of consciousness
+U-014-017	T07	T02	intelligent imitation
+U-014-018	T06	T01	audit your inputs
+U-014-019	T06	T01	audit your inputs
+U-014-020	T03	T07	reread favorite book
+U-014-021	T15	T14	skills that make income
+U-014-022	T08	T02	perspective vessel
+U-014-023	T14	-	creator economy future jobs
+U-014-024	T08	T02	empathy zoom out
+U-014-025	T08	-	perspective camera and lens
+U-014-026	T08	-	sense and nonsense
+U-014-027	T10	T08	novel perspective
+U-014-028	T10	T11	market not saturated
+U-014-029	T08	T10	novel perspective
+U-014-030	T10	T14	tactics to trust
+U-014-031	T07	T10	intelligent imitation
+U-014-032	T07	T09	research instead of consume
+U-014-033	T07	T09	condense information
+U-014-034	T07	T02	7 days to genius ideas
+U-014-035	T03	T07	iceberg of opportunity
+U-014-036	T07	T09	7 days to genius ideas
+U-014-037	T10	T09	public resume
+U-014-038	T07	T09	7 days to genius ideas
+U-014-039	T10	T14	authentic personal brand
+U-014-040	T14	T10	upskill or be authentic
+U-014-041	T10	T09	authentic personal brand
+U-014-042	T13	T17	positioning
+U-014-043	T16	T03	philosophical sense of mastery
+U-014-044	T11	-	diversify interests like a portfolio
+U-014-045	T11	T17	niche of one
+U-014-046	T17	T12	author biography web design to creators
+U-014-047	T17	T10	launch with low following
+U-014-048	T17	T11	write about whatever you want
+U-014-049	T12	T11	multi-directional approach
+U-014-050	T09	T13	promotion schedule
+U-014-051	T11	T09	you are the niche
+U-014-052	T11	T03	filter interests through ideal future
+U-014-053	T11	T09	zoom out interests
+U-014-054	T09	T11	topic tree
+U-014-055	T13	T09	levels of awareness
+U-014-056	T09	T11	topic tree
+U-014-057	T09	-	top-down content creation
+U-014-058	T10	-	brand perception
+U-014-059	T10	-	three pillars of social leverage
+U-014-060	T10	T09	data points from posting
+U-014-061	T09	T10	why tweets
+U-014-062	T09	T10	endless content flywheel
+U-014-063	T09	-	hook body conclusion
+U-014-064	T09	T10	post styles for authority
+U-014-065	T09	-	post styles for authority
+U-014-066	T09	T05	write the why
+U-014-067	T09	T10	write the why
+U-014-068	T09	T10	post styles for authority
+U-014-069	T09	T02	self-awareness business hack
+U-014-070	T09	T10	top of funnel posts
+U-014-071	T10	T13	algorithm vs newsletter content
+U-014-072	T13	T10	lead magnet
+U-014-073	T09	T07	study content structures
+U-014-074	T09	-	proven structure
+U-014-075	T09	-	repurposing bullets
+U-014-076	T07	T09	teach what you learn
+U-014-077	T09	-	authentic content process
+U-014-078	T07	T09	7 days to genius ideas
+U-014-079	T13	T08	persuasion greatest skill
+U-014-080	T15	T13	persuade for resources
+U-014-081	T16	T15	status power influence
+U-014-082	T08	-	zoom out decisions
+U-014-083	T16	T15	spirituality and power
+U-014-084	T17	T16	author differentiator
+U-014-085	T15	T16	meaningful work needs power
+U-014-086	T03	T16	persuading reality
+U-014-087	T09	-	you are a writer
+U-014-088	T09	T08	frameworks as training wheels
+U-014-089	T08	T03	creativity requires constraints
+U-014-090	T08	T04	sense-making machine
+U-014-091	T09	T08	pyramid principle
+U-014-092	T07	T09	swipe file database of evidence
+U-014-093	T09	-	start with pain point
+U-014-094	T09	-	pp framework
+U-014-095	T09	T02	frameworks as training wheels
+U-014-096	T09	T08	name your process
+U-014-097	T13	T09	copywriting frameworks
+U-014-098	T13	T09	copywriting frameworks
+U-014-099	T09	T07	learning persuasion five steps
+U-014-100	T09	T02	frameworks as training wheels
+U-014-101	T13	T09	levels of awareness
+U-014-102	T09	-	outline template
+U-014-103	T07	T09	outline template
+U-014-104	T09	T07	blank page
+U-014-105	T07	-	second brain
+U-014-106	T07	T09	capture ideas
+U-014-107	T07	T09	second brain
+U-014-108	T07	T17	kortex features
+U-014-109	T09	T07	outline template
+U-014-110	T09	T08	meta documents
+U-014-111	T09	T13	learning persuasion five steps
+U-014-112	T09	T08	why write essays
+U-014-113	T08	T01	why write essays
+U-014-114	T01	T08	epistemic commons
+U-014-115	T01	T02	information to life trajectory
+U-014-116	T01	T08	form of information shapes attention
+U-014-117	T01	-	metacrisis
+U-014-118	T01	-	metacrisis
+U-014-119	T01	-	metacrisis
+U-014-120	T10	T01	engagement vs transformation
+U-014-121	T09	T06	fast vs slow content
+U-014-122	T09	-	why write essays
+U-014-123	T09	T08	articles vs essays
+U-014-124	T14	T09	only humans write essays
+U-014-125	T11	-	you are the niche
+U-014-126	T14	T09	ai kills surprise
+U-014-127	T14	-	meaning economy
+U-014-128	T04	-	psychic entropy
+U-014-129	T04	T09	fast vs slow content
+U-014-130	T14	T09	value creator
+U-014-131	T09	T17	writing to discover
+U-014-132	T09	-	how to write an essay
+U-014-133	T10	T09	own your audience email first
+U-014-134	T17	T10	author biography social media freedom
+U-014-135	T17	-	author biography failed businesses
+U-014-136	T16	T07	failure is a data point
+U-014-137	T17	T07	self-education
+U-014-138	T17	T15	author biography job as ticking clock
+U-014-139	T17	T10	author biography twitter epiphany
+U-014-140	T10	T12	audience around interests
+U-014-141	T10	-	audience building is a skill
+U-014-142	T09	T10	all social media is writing
+U-014-143	T10	-	interest graph
+U-014-144	T10	T09	shallow short form
+U-014-145	T10	T02	meet people at their stage
+U-014-146	T09	T10	clickbait hooks
+U-014-147	T10	-	owned audience
+U-014-148	T10	T13	death of the personal brand
+U-014-149	T10	T09	short form attracts long form keeps
+U-014-150	T10	-	email list status symbol
+U-014-151	T09	T10	short form attracts
+U-014-152	T09	T02	short form attracts
+U-014-153	T09	T10	content is one organism
+U-014-154	T09	T10	medium form competence
+U-014-155	T09	T17	content is one organism
+U-014-156	T10	T09	1000 true fans
+U-014-157	T10	T13	email list value
+U-014-158	T12	T15	labor theory of value
+U-014-159	T10	-	audience building six things
+U-014-160	T10	T13	posts as mvp
+U-014-161	T12	T13	validation ladder
+U-014-162	T10	-	idea catalyst
+U-014-163	T10	-	idea catalyst
+U-014-164	T10	-	idea catalyst
+U-014-165	T10	-	idea catalyst
+U-014-166	T09	T13	bpas framework
+U-014-167	T10	-	nonlinear audience growth
+U-014-168	T10	-	nonlinear audience growth
+U-014-169	T10	T13	newsletter as central place
+U-014-170	T09	T07	learn to write
+U-014-171	T17	T09	author biography writing made him smarter
+U-014-172	T14	T15	new leverage
+U-014-173	T15	T14	new leverage
+U-014-174	T01	T15	industrial values
+U-014-175	T15	T14	email list digital assets
+U-014-176	T09	T15	writing is leverage
+U-014-177	T14	T10	digital assets
+U-014-178	T10	T12	follower to income ratios
+U-014-179	T09	T07	writing as thinking
+U-014-180	T09	T08	forced linearity
+U-014-181	T09	T07	pattern recognition writing
+U-014-182	T04	T03	goals frame perception
+U-014-183	T09	T08	writing exposes understanding
+U-014-184	T07	T09	learn the fastest
+U-014-185	T07	-	protege effect
+U-014-186	T07	T01	unschooling
+U-014-187	T09	T07	invisible gatekeepers
+U-014-188	T07	-	second brain false god
+U-014-189	T09	-	content that gains traction
+U-014-190	T09	-	content packaging
+U-014-191	T11	T09	against niching down
+U-014-192	T09	-	content that gains traction
+U-014-193	T09	T02	refining your voice
+U-014-194	T09	T07	pattern recognition what works
+U-014-195	T09	T07	outlier research
+U-014-196	T09	-	outlier research
+U-014-197	T09	T10	one weekly topic
+U-014-198	T10	T09	against volume
+U-014-199	T09	T07	weekly project board
+U-014-200	T09	-	one weekly topic
+U-015-001	T17	T02	introvert
+U-015-002	T16	T02	social skill not trait
+U-015-003	T10	-	social media new party
+U-015-004	T17	-	author biography failed businesses
+U-015-005	T10	T17	networking making friends
+U-015-006	T10	-	networking evolution
+U-015-007	T12	T13	dm service prices
+U-015-008	T12	T14	modern freelance path
+U-015-009	T14	T08	opportunity paralysis
+U-015-010	T10	T13	content starts audience nurture offer
+U-015-011	T10	-	networking making friends
+U-015-012	T10	T17	networking making friends
+U-015-013	T10	T17	networking making friends
+U-015-014	T10	T17	networking making friends
