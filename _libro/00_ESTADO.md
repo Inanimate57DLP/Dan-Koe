@@ -3,8 +3,8 @@
 - **CORPUS_PATH resuelto:** `.` (raíz del repositorio). La ruta configurada `Transcripts YouTube Referentes/Dan Koe` no existe; los transcripts están en la raíz.
 - **Directorio de trabajo:** `_libro/` (en la raíz)
 - **Rama de trabajo:** `libro-maestro-dan-koe` (creada desde `origin/main`, commit 1396995)
-- **Último commit:** 0cb4134 Fase 4: capítulo 11 redactado
-- **Fase actual:** Fase 4 en curso — redacción de capítulos en inglés (11/40), 3 subagentes en paralelo; instrucciones en /tmp (regenerables con los scripts descritos en Notas).
+- **Último commit:** c18d991 Fase 4: avance parcial de capítulos en curso
+- **Fase actual:** Fase 4 en curso — redacción de capítulos en inglés (12/40), 3 subagentes en paralelo; instrucciones en /tmp (regenerables con los scripts descritos en Notas).
 
 ## Números
 - Archivos: 164 · Palabras del corpus: 1.095.022 · Lotes: 27 (ver `01b_lotes.md`)
@@ -49,9 +49,10 @@
 - cap-07.md: 36700 palabras, 157 IDs en COBERTURA ✔
 - cap-08.md: 38099 palabras, 171 IDs en COBERTURA ✔
 - cap-09.md: 27748 palabras, 123 IDs en COBERTURA ✔
+- cap-10.md: 40009 palabras, 193 IDs en COBERTURA ✔
 - cap-11.md: 29398 palabras, 116 IDs en COBERTURA ✔
 - cap-12.md: 31100 palabras, 160 IDs en COBERTURA ✔
-- **Total:** 11/40 capítulos
+- **Total:** 12/40 capítulos
 
 ## Notas
 - Herramientas para reanudar: `_libro/99_herramientas/` contiene las plantillas de prompts (extracción, etiquetado, consolidación, síntesis, arquitectura, redacción) y los scripts (index.py → units.json; bytheme.py/split.py → 02c; gather.py → 02e; expand.py/material.py → 04b_material y chapters.json). Los scripts usan rutas en /tmp/claude-0; si la sesión se reinicia, copia los .json y .py de 99_herramientas a /tmp/claude-0 y regenera. Para redactar un capítulo NN: rellenar `write_prompt.txt` ([N], [NN], [TITULO], [IDS] desde chapters.json, [PALABRAS]).
