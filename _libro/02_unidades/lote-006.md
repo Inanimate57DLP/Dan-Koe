@@ -484,7 +484,7 @@
 - **tension:** ninguna
 
 ## U-006-038
-- **tipo:** heurística
+- **tipo:** opinión
 - **titulo:** Greenfield work is scary for everyone; with high agency it remains scary but you can stand it.
 - **desarrollo:** Devon Eriksen: most people don't want to take risks; "most people don't want to do Green Field development of something that's never been done before because that's scary unless you have a whole lot of agency and then it's still scary but you could stand it." Agency does not remove fear; it makes it tolerable. This matches his later remark to aspiring authors that "the fear is constant" even as you start having success.
 - **ejemplos:** Greenfield software development.
@@ -2370,4 +2370,147 @@
 - **nivel:** avanzado
 - **prerrequisitos:** U-006-179
 - **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 21:05–21:56, 2024-07-13
+- **tension:** ninguna
+
+## U-006-183
+- **tipo:** ejercicio-del-autor
+- **titulo:** The meta skill is making money — learning it is learning to hunt; test: could you make $10,000 by tomorrow?
+- **desarrollo:** Dan Koe: "there is one last skill that is a meta skill for learning other tangible skills... and that skill is making money learning how to make money is learning how to hunt for your survival because of everything that comes into play with making money." Test: "if I were to give you that goal make $10,000 by tomorrow if you weren't able to do that you have a lot of work to do and before you say oh that's impossible no it's not you're programmed to think oh this amount of work equals this amount of money when that's just not the case." You just don't own a business and haven't seen success with it, "and you don't understand that everything good that comes in entrepreneurship it isn't luck it's Behavior Behavior equals results it doesn't matter how long it takes to get them." (The transcript first says "$110,000" then "$10,000"; $10,000 is the restated figure.)
+- **ejemplos:** Make $10,000 by tomorrow.
+- **cita:** "it isn't luck it's Behavior Behavior equals results"
+- **terminos:** meta skill; making money; hunt for your survival; Behavior equals results
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-160
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 21:56–22:50, 2024-07-13
+- **tension:** ninguna
+
+## U-006-184
+- **tipo:** ejemplo
+- **titulo:** Paycheck vs. business math: the $2,000 paycheck hides what the boss earns; a $2,000 client, replicated, systemized and scaled with technology and hires, has no ceiling.
+- **desarrollo:** Dan Koe: "you being paid let's say $2,000 every paycheck for the certain amount of work you do in a day how much is the boss getting paid." Alternatively: "let's say I actually learn a skill and go and get a client for $2,000 and that takes a series of actions to reach if I replicate that and I systemize that so manually I can get like four clients a month" (the transcript says "that's $88,000," which does not match 4 × $2,000 = $8,000 — ambiguous/likely transcription error). "Let's say I systemize it get better at it and make my process more efficient because I have something called technology I can land 10 20 30 if I hire employees 40 50 however much if I create an actual business I can make as much money as I want by doing what I talked about earlier having a vision goals creating systems and then being able to identify a problem."
+- **ejemplos:** $2,000 paycheck; $2,000 client × 4 per month; scaling to 10–50 clients.
+- **cita:** "if I create create an actual business I can make as much money as I want"
+- **terminos:** systemize
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-183
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 22:50–23:41, 2024-07-13
+- **tension:** ninguna
+
+## U-006-185
+- **tipo:** principio
+- **titulo:** Your standard is how much you make: a raised goal (that you mean) shines a light on the problems in your business; solving them reaches the standard.
+- **desarrollo:** Dan Koe: "if you have the goal of making a million dollars a month and you aren't there yet that shines a light on the potential problems in your business that you can then see and fix and move forward and get closer to that goal and as you move forward new problems emerge that you start to think oh that's why I'm not hitting that number and then you eventually achieve it." "The reason you don't make as much money as you want to make is because... your standard is how much you make if you raise your standards higher and actually mean it then that is what identifies problems and then once you solve those problems then you reach the standard."
+- **ejemplos:** A goal of $1 million a month.
+- **cita:** "if you raise your standards higher and actually mean it then that is what identifies problems"
+- **terminos:** standard
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-163; U-006-175
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 23:41–24:28, 2024-07-13
+- **tension:** ninguna
+
+## U-006-186
+- **tipo:** framework
+- **titulo:** Entrepreneurship as modern hunting in two moves: create value (creativity, experimentation, experience — improve yourself) and distribute value (attention, media, persuasion — improve humanity).
+- **desarrollo:** Dan Koe: "entrepreneurship is how you hunt for your survival in the modern world why because true entrepreneurship requires you to become future proof." How: "simple on the surface but complex in depth as all meaningful things are": (1) "you create value through creativity experimentation and experience you improve yourself"; (2) "you distribute value through attention media and persuasion so you improve Humanity." "When you are in control of the vision AI and Technology become the tool not the master." "The beautiful thing about that simple process is that it never ends."
+- **ejemplos:** ninguno
+- **cita:** "when you are in control of the vision Ai and Technology become the tool not the master"
+- **terminos:** create value; distribute value; future proof; improve yourself improve Humanity
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-183
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 24:28–25:23, 2024-07-13
+- **tension:** ninguna
+
+## U-006-187
+- **tipo:** principio
+- **titulo:** Value is perception and evolves with time: you must give the right thing to the right person, reaching them with persuasive media where they hang out.
+- **desarrollo:** Dan Koe: "value evolves with time value is perception meaning you have to give the right thing to the right person for them to see it as valuable or for them to pay you money." Example: "a boomer will see gold as more valuable than Bitcoin and [be] less persuaded otherwise" — unless you get in front of them "with persuasive media where they hang out." Creating value was covered: "solve your own problems and sell the solution and have a vision and goals so you can actually identify those problems."
+- **ejemplos:** A boomer valuing gold over Bitcoin.
+- **cita:** "value is perception"
+- **terminos:** value is perception
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-186
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 25:23, 2024-07-13
+- **tension:** ninguna
+
+## U-006-188
+- **tipo:** concepto
+- **titulo:** Treat your life like a video game across health, wealth, relationships and happiness: goals for each under an overarching vision generate problems, unique solutions and products — "the entire philosophy."
+- **desarrollo:** Dan Koe: preferably the problems are found in the "eternal markets" (transcript: "internal markets") — health, wealth, relationships and happiness. "You're treating your life like a video game you're increasing those domains of your life... by setting goals for each of them under an overarching Vision to identify problems and then solve those problems so that you are valuable." Different people solve the same domain with different interests — "one person can solve their wealth problems with financing the other can solve it with business" — so "everyone creates these unique solutions that they can then pass down and make more efficient so people can self-actualize faster that's the entire philosophy I'm putting across."
+- **ejemplos:** Solving wealth problems via finance vs. via business.
+- **cita:** "so people can self-actualize faster that's the entire philosophy I'm putting across"
+- **terminos:** video game; health wealth relationship and happiness; overarching Vision; self-actualize
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-187; U-006-121
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 25:23–26:54, 2024-07-13
+- **tension:** ninguna
+
+## U-006-189
+- **tipo:** argumento
+- **titulo:** Writing on the internet is the most accessible form of modern distribution: low friction, no gear; write on social media (where attention is) and move people to email (which can't be taken away).
+- **desarrollo:** Dan Koe: "the distribution of value has been around since the beginning of time but it has taken many shapes the most accessible form of distribution at this point in time is writing on the internet." "Notice how I say accessible": video and public speaking are prevalent, but writing needs no camera, mic, lighting or "$44,000 computers in the background... you need a keyboard you just type and you post it on Twitter or medium... it's low friction accessible and then those turn into video." Channels: "email because it can't be taken away from you and social media because that's where the attention is so you write on social media transfer it to email keep that flow going and then you have an audience."
+- **ejemplos:** Twitter, Medium; a $44,000 computer setup you don't need.
+- **cita:** "the most accessible form of distribution at this point in time is writing on the internet"
+- **terminos:** modern distribution; low friction
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-186
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 26:07–27:42, 2024-07-13
+- **tension:** ninguna
+
+## U-006-190
+- **tipo:** proceso
+- **titulo:** Writing makes you a one-person media company: one post cross-posted, turned into short-form scripts, expanded into threads and newsletters, then repurposed into carousels, videos and podcasts.
+- **desarrollo:** Dan Koe: "writing allows you to become a one person media company." Chain: (1) write one post on X and cross-post it to Instagram and LinkedIn; (2) turn that post into a script for a reel, short or TikTok; (3) choose your best posts and expand them into threads or newsletters; (4) these "then get repurposed into carousels video scripts and podcast episodes." "Even better you don't have to show your face as a writer or edit videos if you don't want to you just sit down in the morning and become one with the words on the page." "It's a very meaningful lifestyle and a means to Improvement you learn more by teaching organizing your thoughts and getting feedback on your ideas it is a catalyst for growth and value."
+- **ejemplos:** X → Instagram/LinkedIn → reel/short/TikTok → threads/newsletters → carousels/video scripts/podcasts.
+- **cita:** "writing allows you to become a oneperson media company"
+- **terminos:** one person media company; cross post; repurposed
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-189
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 27:42, 2024-07-13
+- **tension:** ninguna
+
+## U-006-191
+- **tipo:** principio
+- **titulo:** Base your success on persistent principles (writing, speaking, persuasion, entrepreneurship, creativity) applied to the changing technological landscape.
+- **desarrollo:** Dan Koe: "I'm a fan of basing your success on persistent principles applied to the modern landscape which will continue to change writing speaking persuasion entrepreneurship creativity these are things that have been around since the first two humans came into contact with each other and that means you should Bank on them for your success but apply them to the technology that continues to change that's how you stay on top is you apply the Deep generalized principles of reality and move forward with things like graphic design or email you learn the skills that come up and then eventually AI or just technology in general help you do those things faster."
+- **ejemplos:** Graphic design, email as the changing technical layer.
+- **cita:** "these are things that have been around since the first two humans came into contact with each other"
+- **terminos:** persistent principles; Deep generalized principles of reality
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-171
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 27:42–28:26, 2024-07-13
+- **tension:** ninguna
+
+## U-006-192
+- **tipo:** argumento
+- **titulo:** AI output doesn't matter without a vision: an AI article can't know how it fits into five years of connected newsletters and a book of your life philosophy.
+- **desarrollo:** Dan Koe: you can create images with AI, potentially video and animation, and write with AI, "but it doesn't [ __ ] matter if you don't have a vision like you can tell the AI to write an article but how does that article play a role in 5 years of newsletters connecting together how does that lead to a book that illustrates your life philosophy that you came to from experience it can't." "Unless it was me telling them to do it with the vision then that's going to suck because again you don't understand persuasion Marketing sales the future proof skill stack" (referencing his earlier video "the future proof skill stack"). "The AI doesn't have my vision the AI isn't attracting people that are similar to me and if I wasn't the one using the AI with the audience that I have or the products that I have it would be completely and utterly useless." Summary phrase (transcribed as "AI in the hands of the vision list is nothing to worry about" — the key word is ambiguous: possibly "visionless" or "visionary").
+- **ejemplos:** AI-written article vs. five years of connected newsletters leading to a book.
+- **cita:** "it doesn't [ __ ] matter if you don't have a vision"
+- **terminos:** vision; future proof skill stack
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-164
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 28:26–29:18, 2024-07-13
+- **tension:** ninguna
+
+## U-006-193
+- **tipo:** proceso
+- **titulo:** The recap: achieve a self-generated goal with a system, productize it, build an audience by writing to yourself, monetize persuasively, and keep iterating.
+- **desarrollo:** Dan Koe: "you make money whenever you want by creating a product or service based on a problem you solved for yourself building an audience where the attention is right now the internet monetizing the audience by offering your product or service in a persuasive way." "Business and Entrepreneurship have always been the same build an audience monetize the audience." Recap steps: (1) "achieve a self-generated goal by creating a system"; (2) "focus on health wealth relationships and happiness"; (3) "turn that system into a product or service that can help someone with your same problem" — "if you don't have a product you don't have a business"; (4) "build an audience by writing to yourself so you can attract people who share your same vision and thus same problems so they see your system as valuable and purchase it"; content to write: "your opinions beliefs and mindset teach your interest and skills share your favorite ideas show people how you solve your problems share your vision so others can resonate"; (5) "then iterate iterate iterate don't get trapped in client work don't get trapped with one product keep solving problems as they arise in your life and business never stop growing and evolving you'll figure out what to do next."
+- **ejemplos:** ninguno
+- **cita:** "if you don't have a product you don't have a business"
+- **terminos:** self-generated goal; build an audience monetize the audience; writing to yourself
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-167; U-006-189
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 29:18–31:31, 2024-07-13
 - **tension:** ninguna

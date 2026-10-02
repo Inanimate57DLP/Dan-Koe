@@ -509,3 +509,525 @@
 - **fuente:** The Micro Education Business Model (How To Monetize Your Knowledge).md, 25:54-26:46, 2023-04-23
 - **tension:** ninguna
 
+# Fuente: Micro Education Businesses Are The Future & How To Start With Zero Dollars.md (2023-09-17)
+
+## U-009-040
+- **tipo:** caso
+- **titulo:** Dan's software company strategy: skip the sink-or-swim phase by leading with an education product built on a branded avatar
+- **desarrollo:** Dan is building a software company but taking a different approach. The common route is to build the product, test it and market it to a specific audience; "this works," but he wants to "skip the sink or swim phase." He is aware that churn, developer costs and ingraining software in people's daily lives will be difficult. Instead he plans to take the company to $5-10 million in its first year ("a lofty goal") by leveraging experience gained in modern business: the power of a personal brand and of digital products. Plan: (1) build the company's social media "like we would a personal brand with an avatar as the face of the brand"; (2) use that audience plus "a plethora of Creator audiences" to fuel a cohort-based course around the subject of the software; (3) that education product operating at 95% profit margins is the main revenue driver in year one; (4) then it doesn't matter if the software itself is profitable in year one; they can "play long term and slowly inject it into the Creator economy as the one true software." He notes most businesses have no idea what it takes to build a social media audience so they rely on creator sponsorships; "we want to create a Creator." He can't reveal details yet due to legal matters.
+- **ejemplos:** Dan's unnamed software company.
+- **cita:** "I want to skip the sync or Swim phase of this business"
+- **terminos:** sink or swim phase, avatar as the face of the brand, cohort based course, create a Creator
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** ninguno
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 0:00-1:32, 2023-09-17
+- **tension:** ninguna
+
+## U-009-041
+- **tipo:** dato
+- **titulo:** A $10M digital product business is more profitable than most $50M physical product businesses; education products run at ~95% margins
+- **desarrollo:** Dan states he knows "how a 10 million dollar digital product business is more profitable than most 50 million dollar physical product businesses." He expects the education product to operate at 95% profit margins, and later says information products have "a 95 plus profit margin," which is "a sign that the economy will continue to favor the education Market."
+- **ejemplos:** ninguno
+- **cita:** "a 10 million dollar digital product business is more profitable than most 50 million dollar physical product businesses"
+- **terminos:** digital products, profit margins
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 0:00-0:47; 18:53, 2023-09-17
+- **tension:** ninguna
+
+## U-009-042
+- **tipo:** principio
+- **titulo:** You don't need software to make an education business work; software can be built later around the profitable education product
+- **desarrollo:** The video is about how you can start "a hyper profitable education business with the knowledge in your head." You don't need to build software. You can build software around the profitable education product you sell to enhance business results if you want, "because you'll have the money to invest in one." The order: education first, software later financed by it.
+- **ejemplos:** ninguno
+- **cita:** "you don't need to build a software to make this work"
+- **terminos:** hyper profitable education business
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-040
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 1:32, 2023-09-17
+- **tension:** ninguna
+
+## U-009-043
+- **tipo:** principio
+- **titulo:** Personal brands are the avatars that occupy the expanding digital world; audience building is the greatest skill stack of the decade
+- **desarrollo:** "Personal brands are the new wave that won't die out, it's not a phase mom." The digital world is expanding faster than the physical, and "personal brands are the avatars that occupy the space." Everyone has a personal brand and everyone is in the creator economy, but few realize that their contributions, posts and products aren't contributions at all. Distinction: consumers "are too busy posting about their lives to impress friends who aren't really friends"; creators "are learning building and Distilling valuable information that makes life better for everyone." Audience building is "the greatest skill stack of our decade."
+- **ejemplos:** ninguno
+- **cita:** "personal brands are the avatars that occupy the space"
+- **terminos:** personal brands, avatars, consumers vs creators, skill stack
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 2:18, 2023-09-17
+- **tension:** ninguna
+
+## U-009-044
+- **tipo:** observación
+- **titulo:** High-level entrepreneurs Dan talks to keep bringing up owned distribution and regret not posting sooner
+- **desarrollo:** Dan is connected with and follows many high-level entrepreneurs (private equity, agency, software and related fields). In almost every conversation "the point of owned distribution comes up." Things said directly to him: "I don't know why I didn't start posting content sooner," "it's insane how much the marketing world has changed in a few short years," "a personal brand is becoming less and less optional." The pattern keeps appearing with business owners who know they need to post content "or just get in to Virtual Reality by displaying their character as a personal brand."
+- **ejemplos:** Private equity, agency and software entrepreneurs.
+- **cita:** "a personal brand is becoming less and less optional"
+- **terminos:** owned distribution
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 2:18-3:55, 2023-09-17
+- **tension:** ninguna
+
+## U-009-045
+- **tipo:** framework
+- **titulo:** Four types of distribution: manual, bot, borrowed, and owned
+- **desarrollo:** A personal brand doesn't eliminate other distribution types. (1) Manual distribution: cold email, cold calls, cold DM campaigns. (2) Bot distribution: purchasing Facebook ads or Google ads. (3) Borrowed distribution: paying for podcast, YouTube or newsletter sponsorships. (4) Owned distribution: building an audience, newsletter, community or list of product buyers. "The lines are blurred between them all," and he admits he missed things like SEO. All have their use cases: the first three "are incredible for testing," good for beginner business owners and give "some form of control over your outcomes." Owned distribution "is a long-term game that scares most people away." Recommended: systemize audience growth over time and leverage other distribution methods to make your desired revenue.
+- **ejemplos:** Cold email/calls/DMs; Facebook/Google ads; podcast/YouTube/newsletter sponsorships; audience/newsletter/community/buyer list.
+- **cita:** "own distribution is a long-term game that scares most people away"
+- **terminos:** manual distribution, bot distribution, borrowed distribution, owned distribution ("own distribution")
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 3:08-4:42, 2023-09-17
+- **tension:** ninguna
+
+## U-009-046
+- **tipo:** argumento
+- **titulo:** Thought experiment: a 100K audience yields a million impressions a month that would take forever by DM or ~$7,000 in ads
+- **desarrollo:** Imagine Dan spent two years building a 100,000-follower audience. If he promoted his product every day for a month "in a smart way," he would get at least a million impressions. How long would it take to DM a million people? "A long time." How much would it cost to reach that many with ads? Around $7,000 a month, based on a $7 average CPM. Moreover owned distribution compounds.
+- **ejemplos:** 100K followers, 1M impressions, $7 CPM, ~$7,000.
+- **cita:** "how long would it take me to direct message a million people a long time"
+- **terminos:** owned distribution, CPM
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-045
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 3:55-4:42, 2023-09-17
+- **tension:** ninguna
+
+## U-009-047
+- **tipo:** dato
+- **titulo:** Audience growth benchmarks: 10-20K followers in one year, 50-100K in two, millions after four to five years
+- **desarrollo:** Owned distribution compounds: "you can get to 10 to 20 000 followers in a year, 50 to 100 000 in two years and millions after four to five years." Condition: "that is if you know how to iterate on your best content or even write content in the first place."
+- **ejemplos:** ninguno
+- **cita:** "you can get to 10 to 20 000 followers in a year 50 to 100 000 in two years and millions after four to five years"
+- **terminos:** iterate on your best content
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-046
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 4:42, 2023-09-17
+- **tension:** ninguna
+
+## U-009-048
+- **tipo:** advertencia
+- **titulo:** You can't become a good audience builder by only studying audience building; looking up "best skills to learn" commoditizes you
+- **desarrollo:** "To become a good audience Builder you can't just study audience building. This is the case for most skills that get abnormal results." It's not as simple as looking up a video on "the best skills to learn in 2023" because that's what everyone else is doing: "it's a great way to commoditize yourself and be replaceable."
+- **ejemplos:** "Best skills to learn in 2023" videos.
+- **cita:** "it's a great way to commoditize yourself and be replaceable"
+- **terminos:** abnormal results, commoditize yourself
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-043
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 4:42-5:27, 2023-09-17
+- **tension:** ninguna
+
+## U-009-049
+- **tipo:** definición
+- **titulo:** Audience building is a multidisciplinary skill stack and a lifestyle: capturing, curating, connecting, creating and distributing valuable information
+- **desarrollo:** Audience building is "a stack of today's most profitable skills": graphic design, content writing, copywriting, marketing and sales, human nature, psychology, self-awareness, networking "and more"; it "demands multi-disciplinary study and expertise." "Audience building is a lifestyle. It is the act of capturing, curating, connecting, creating and distributing valuable information, resources and products in a way that impacts positive behavior change." Dan adds that this last sentence "is what the software is" (a teaser for his software).
+- **ejemplos:** ninguno
+- **cita:** "audience building is a lifestyle it is the act of capturing curating connecting creating and distributing valuable information resources and products in a way that impacts positive behavior change"
+- **terminos:** audience building, capturing, curating, connecting, creating, distributing, positive behavior change
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-048
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 5:27, 2023-09-17
+- **tension:** ninguna
+
+## U-009-050
+- **tipo:** principio
+- **titulo:** A better life demands the habits of learning, building and distributing; value exchange requires bringing your developed self into the world
+- **desarrollo:** "If you don't pursue a better life for yourself you will fail. A better life demands the habits of learning, building and distributing." These are the main things to do "as a way to provide value so that you can get what you want": if you want something from someone you must give them something; "that's just value exchange in general, that's communication, that's everything." "You can't do this alone. You have to develop yourself alone but then you have to bring that self into the world so that you can exchange with other people." These must become habits, part of your everyday life.
+- **ejemplos:** ninguno
+- **cita:** "you have to develop yourself alone but then you have to bring that self into the world"
+- **terminos:** learning, building, distributing, value exchange
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 5:27-6:18, 2023-09-17
+- **tension:** ninguna
+
+## U-009-051
+- **tipo:** heurística
+- **titulo:** If you can spend eight hours building someone else's dreams, you can spend one hour building your own
+- **desarrollo:** "If you can spend eight hours building someone else's dreams you can spend one hour building your own." If you don't have one hour a day to invest in having two hours a day "and so on," you need to get your priorities straight.
+- **ejemplos:** ninguno
+- **cita:** "if you can spend eight hours building someone else's dreams you can spend one hour building your own"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-050
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 6:18, 2023-09-17
+- **tension:** ninguna
+
+## U-009-052
+- **tipo:** método
+- **titulo:** Learning with intention: learn marketing, sales, writing and social media principles via 30-50 hours of content, building a brand along the way
+- **desarrollo:** First habit, "learning with intention": learn the principles of marketing, sales, writing and social media; binge-watch 30 or 50 hours of free content and paid courses; build your personal brand along the way "so you can actually apply what you learn"; study what interests you and don't limit yourself. If your goal is building a better life for yourself, anything you learn will be seen through that lens, so "you are still focusing on one thing even if you aren't focusing on one thing."
+- **ejemplos:** ninguno
+- **cita:** "binge watched 30 or 50 hours of free content and paid courses build your personal brand along the way"
+- **terminos:** learning with intention
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-050
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 6:18-7:03, 2023-09-17
+- **tension:** ninguna
+
+## U-009-053
+- **tipo:** distinción
+- **titulo:** Focus on one thing long term and the thousands of things short term; that's diversifying study, not shiny object syndrome
+- **desarrollo:** "Focus on one thing long term and focus on the multitude, the thousands of things short term that will allow you to get there. That's not shiny object syndrome, that's being smart and diversifying your study." The single long-term goal (a better life) acts as the filter that unifies varied study.
+- **ejemplos:** ninguno
+- **cita:** "that's not shiny object syndrome that's being smart and diversifying your study"
+- **terminos:** shiny object syndrome, diversifying your study
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-052
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 7:03, 2023-09-17
+- **tension:** ninguna
+
+## U-009-054
+- **tipo:** heurística
+- **titulo:** Content hack: when you feel the dopamine of a novel idea, capture it, refine it and post it ("modern hunting")
+- **desarrollo:** When you feel the excitement or dopamine that comes from discovering a novel idea: write it down, refine it, and post it to your profile. "This is just one huge content hack in general is sharing what excites you." That's what you're hunting for when you read: "this is modern hunting," finding something new, being excited and thinking "I need to share this with someone else," because that's how you attract people interested in the same things. "The first step in value creation is capturing an idea so that you can make it your own and give it to someone."
+- **ejemplos:** ninguno
+- **cita:** "the first step in value creation is capturing an idea so that you can make it your own and give it to someone"
+- **terminos:** modern hunting, capturing, value creation
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-052
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 7:03-7:52, 2023-09-17
+- **tension:** ninguna
+
+## U-009-055
+- **tipo:** método
+- **titulo:** Building for yourself: pursue your goals and document the process; from a knowledge of 100 you create a path of one
+- **desarrollo:** After learning with intention comes "building for yourself": pursue your goals and document the process — keep running notes, logs, successes and failures somewhere safe, physical or digital. "From your journey you gain a knowledge of 100, from that you can create a path of one." This is how you pass down "a unique system that markets itself and gets better results than those looking to make a quick buck." Along the way post the advice, lessons and authentic successes and failures you experienced: "this is called building in public. Don't do it for others, do it as a digital journal, it will pay off."
+- **ejemplos:** ninguno
+- **cita:** "from your journey you gain a knowledge of 100 from that you can create a path of one"
+- **terminos:** building for yourself, knowledge of 100, path of one, building in public, digital journal
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-050
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 7:52-8:38, 2023-09-17
+- **tension:** ninguna
+
+## U-009-056
+- **tipo:** principio
+- **titulo:** Products are authority catalysts, not selling out
+- **desarrollo:** After building for yourself comes "distributing a purposeful product." Most people don't realize "products are Authority catalysts": they think they are selling out by selling a product but don't realize it adds perceived authority to their brand and they gain more loyal followers.
+- **ejemplos:** ninguno
+- **cita:** "most people don't realize that products are Authority catalysts"
+- **terminos:** Authority catalysts, purposeful product, selling out
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 8:38, 2023-09-17
+- **tension:** ninguna
+
+## U-009-057
+- **tipo:** heurística
+- **titulo:** Create a product you need or needed; sell to yourself and you won't have to worry about competition
+- **desarrollo:** Create a product that you need or needed in your life: something that would have helped you achieve where you are now, or that will help you achieve something faster. Examples: clothes for style, courses for knowledge, a journal for productivity, or anything in between. "Sell to yourself and you won't have to worry about competition." People get wrong relying too much on the algorithm or looks and playing that game, rather than building something "innately valuable" because you've already validated it by using it and seeing it help your life, then distributing it because you know it will help others.
+- **ejemplos:** Clothes for style, courses for knowledge, a journal for productivity.
+- **cita:** "sell to yourself and you won't have to worry about competition"
+- **terminos:** sell to yourself, innately valuable
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-056
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 8:38-9:25, 2023-09-17
+- **tension:** ninguna
+
+## U-009-058
+- **tipo:** heurística
+- **titulo:** If you feel like a sellout giving others a product that helped you, you have inner work to do or need a perspective shift around money
+- **desarrollo:** "If you don't feel like a sellout by building something for yourself that's actually helping your life and you enjoy, you shouldn't feel like one if you're giving it to someone else." If you still do, "that just shows that you have more inner work to do or you need to have a perspective shift around money."
+- **ejemplos:** ninguno
+- **cita:** "that just shows that you have more inner work to do or you need to have a perspective shift around money"
+- **terminos:** sellout
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-057
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 9:25, 2023-09-17
+- **tension:** ninguna
+
+## U-009-059
+- **tipo:** opinión
+- **titulo:** Dan disagrees with 99% of business gurus: the successful ones are old and out of touch; the young ones never question them
+- **desarrollo:** "I don't agree with 99 of business gurus out there. Most of the hyper successful ones are old and out of touch; most of the young ones never question what the old ones say and forge a new path." This frames his critique of "build a product for a starving market."
+- **ejemplos:** ninguno
+- **cita:** "most of the young ones never question what the old ones say and Forge A New Path"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 9:25-10:11, 2023-09-17
+- **tension:** ninguna
+
+## U-009-060
+- **tipo:** argumento
+- **titulo:** Four downsides of building a product for a starving market and attracting it as your audience
+- **desarrollo:** Common advice: build a product for a starving market then attract that market as your audience. "Yes obviously this works," but with downsides: (1) hating your customer base and not feeling motivated to work; (2) not having autonomy over what you write and build; (3) not being able to pivot into whatever topic or interest you are curious about; (4) being forced into a specific identity "which spills over into the entirety of your life."
+- **ejemplos:** ninguno
+- **cita:** "being forced into a specific identity which spills over into the entirety of your life"
+- **terminos:** starving market
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 10:11, 2023-09-17
+- **tension:** ninguna
+
+## U-009-061
+- **tipo:** término-acuñado
+- **titulo:** Customer creation through education: prioritizing education in your brand lets you create your own customers instead of finding them
+- **desarrollo:** "Customer creation through education": almost every business can benefit from adding a layer of education so that they "create customers — remember that, create customers." When you prioritize education in your brand through courses, content, cohorts and coaching (all optional), "you unlock the ability to create your own customers." Why: "humans are learning machines." Why does a starving market desire what it desires, pull out the credit card, and why are you told to niche down? "Because of social conditioning, learning and education." You target a specific person "because they are educated to have that identity before they even come across your brand." People are educated to a specific point of wanting to buy something.
+- **ejemplos:** ninguno
+- **cita:** "humans are learning machines"
+- **terminos:** customer creation, create customers, layer of Education
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-009-060
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 9:25-10:59, 2023-09-17
+- **tension:** ninguna
+
+## U-009-062
+- **tipo:** distinción
+- **titulo:** Incepting at a specific level of education vs. attracting a broad market at the bottom and educating them into your worldview
+- **desarrollo:** Most marketers "incept someone at a specific level of education" rather than "attracting a much broader market at the bottom and educating them into the specific and hopefully holistic and purposeful worldview" they put across to sell products. The second approach extends the journey and nurturing of the customer or reader, changing their life on a much deeper level "because you're guiding them through the entire actualization journey." Identity mechanism: a person's identity influences what they desire because of who they surround themselves with and what they see as opportunity. "When you create identities through education by leading people towards your vision through your narrative, people grow to desire the product that will help them reach that goal."
+- **ejemplos:** ninguno
+- **cita:** "when you create identities through education by Leading people towards your vision through your narrative people grow to desire the product"
+- **terminos:** incepting, actualization Journey, create identities through education
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-009-061
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 10:59-11:51, 2023-09-17
+- **tension:** ninguna
+
+## U-009-063
+- **tipo:** argumento
+- **titulo:** Evolution solves problems in the macrocosm, personal growth in the microcosm, business bridges the gap; business is your contribution to humanity
+- **desarrollo:** "Evolution is about solving problems in the macrocosm, personal growth is about solving problems in the microcosm, business is about solving problems to bridge the gap between the two. Business is your contribution to humanity. It is how you fulfill your life's purpose of raising your consciousness or awareness and letting that impact the world like a ripple in water." Presented as context for why the levels of awareness apply "to everything," not only marketing.
+- **ejemplos:** Ripple in water.
+- **cita:** "business is your contribution to humanity"
+- **terminos:** macrocosm, microcosm, raising your Consciousness
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** ninguno
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 11:51-12:44, 2023-09-17
+- **tension:** ninguna
+
+## U-009-064
+- **tipo:** fuente-de-tercero
+- **titulo:** Eugene Schwartz's five levels of awareness (Breakthrough Advertising), as Dan defines them
+- **desarrollo:** "There is a concept called the levels of awareness that will change your life," a simple copywriting framework popularized by Eugene Schwartz in Breakthrough Advertising. Dan says it applies not only to marketing but to everything. Five levels as Dan states them: (1) unaware — unaware of the problem; (2) problem aware; (3) solution aware — aware of a solution; (4) product aware — aware of your solution; (5) most aware — "aware of the vast impact that problem is having on their quality of life. This is where they're most ready to buy," most educated on the problems, benefits and goals relating to what they want. Note: Dan's definition of "most aware" is his own interpretation.
+- **ejemplos:** ninguno
+- **cita:** "this is where they're most ready to buy"
+- **terminos:** levels of awareness, unaware, problem aware, solution aware, product aware, most aware
+- **origen:** adaptada-de:Eugene Schwartz (Breakthrough Advertising)
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 11:51-13:28, 2023-09-17
+- **tension:** ninguna
+
+## U-009-065
+- **tipo:** método
+- **titulo:** An education brand's job is to hit all five levels of awareness
+- **desarrollo:** "Your job as an education brand is to hit all of these": make your audience aware of the problems you solved in your life and how that problem impacts their life; give advice, lessons and tips to show there is a solution; market a product that solves the problem faster "just by the nature of invested attention."
+- **ejemplos:** ninguno
+- **cita:** "your job as an education brand is to hit all of these"
+- **terminos:** education brand, invested attention
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-064
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 12:44-13:28, 2023-09-17
+- **tension:** ninguna
+
+## U-009-066
+- **tipo:** argumento
+- **titulo:** Products are valuable because invested attention makes people act; social media isn't a learning platform
+- **desarrollo:** "People don't log on to social media to solve their problems; it isn't a learning platform, and most people can't focus, research and figure out a path for themselves." That's why products are valuable: "people know they are investing in a solution, then their attention and behavior follow suit."
+- **ejemplos:** ninguno
+- **cita:** "people know they are investing in a solution then their attention and behavior follow suit"
+- **terminos:** invested attention
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-065
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 13:28, 2023-09-17
+- **tension:** ninguna
+
+## U-009-067
+- **tipo:** argumento
+- **titulo:** Free education only works for the conditioned 1%; even they buy aggregated information for convenience (the Amazon analogy)
+- **desarrollo:** "Free education only works for the one percent that have been conditioned to be motivated, driven and ambitious." Even they still see the value in aggregated information "and will probably buy out of convenience." To "why isn't this information available for free?": "It is, you just aren't ambitious enough to go and find it and do it for yourself." People pay for convenience almost every day: "if you order something off of Amazon rather than going to the store to get it then you have no business talking about free versus paid content."
+- **ejemplos:** Ordering on Amazon instead of going to the store.
+- **cita:** "if you order something off of Amazon rather than going to to the store to get it then you have no business talking about free versus paid content"
+- **terminos:** aggregated information, convenience
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-066
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 13:28-14:15, 2023-09-17
+- **tension:** ninguna
+
+## U-009-068
+- **tipo:** distinción
+- **titulo:** Short form captures attention and funnels it; long form holds invested attention, segments the audience and builds trust through expertise
+- **desarrollo:** Two main types of content and communication. Long form: podcasts, videos, articles, newsletters, conversations, movies, sometimes long social posts like threads. Short form: tweets, Shorts, Reels, texts, emails, big ideas and your favorite quotes. Each has pros and cons, but long term both are necessary to build an audience that trusts you. "Trust is the new sales hack that people are starting to catch on to." Short form is "for capturing attention, building a large audience and funneling that audience to deeper sources of value like long-form platforms, products and services." Long form is "for holding invested attention, segmenting your audience and building trust through expertise." "The balance of both forces you to have value to deliver."
+- **ejemplos:** ninguno
+- **cita:** "trust is the new sales hack"
+- **terminos:** short form, long form, invested attention, segmenting your audience
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-064
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 14:15-16:37, 2023-09-17
+- **tension:** Note that he classifies emails as short form here, while the newsletter is long form.
+
+## U-009-069
+- **tipo:** historia
+- **titulo:** Dan grew slowly on YouTube, then grew on Twitter/X with short-form and funneled that audience into YouTube
+- **desarrollo:** When first starting on YouTube Dan wasn't growing fast because he didn't understand YouTube and his "content game wasn't that good." Then he got on Twitter (now X; "why'd they change the name, whatever") and saw how much easier it was to grow on short-form platforms "just by understanding how content was shared and being able to be polarized and confident and just good ideas in a short amount of time," without investing so much in a 10-20 minute YouTube video "that goes nowhere." He built a large audience and eventually funneled it into YouTube, which was what he wanted down the road. "My path to get what I wanted changed when I gained more experience and understood the social media game more."
+- **ejemplos:** Dan's YouTube and Twitter path.
+- **cita:** "without investing so much in like a 10 to 20 minute YouTube video that goes nowhere"
+- **terminos:** polarized
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-009-068
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 15:05-15:51, 2023-09-17
+- **tension:** ninguna
+
+## U-009-070
+- **tipo:** principio
+- **titulo:** Without a project to apply learning to, all information is noise; self-education and building must match
+- **desarrollo:** If you don't have a habit of self-education, building products or systems, and using writing to clarify your thoughts and ideas, "you are delaying the inevitable, you need to build something." Dan's best content came from when he was building a product, writing his book, or "just having a lens to view everyday experiences from and extract the lesson." "If you don't have a project or something to build or just a goal to apply what you are learning to, all of the information going into your mind is noise; you're not able to filter out the signal" without a frame of reference. If you build for someone else who assigns projects you don't care to learn about, the two don't match: "you have to build your own thing and learn your own thing and that's how you create this flow of information that makes life meaningful."
+- **ejemplos:** Dan's best content while building a product or writing his book.
+- **cita:** "all of the information going into your mind is noise you're not able to filter out the signal"
+- **terminos:** signal, noise, frame of reference, lens
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-050
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 15:51-16:37, 2023-09-17
+- **tension:** ninguna
+
+## U-009-071
+- **tipo:** heurística
+- **titulo:** Beginners: start with one long-form channel (a newsletter) and one short-form channel (a writing platform like X)
+- **desarrollo:** Most of Dan's readers are beginners; he recommends starting with one long-form and one short-form channel; eventually, when full time with a systemized process, repurpose to all platforms. Newsletter first, because: (1) you can practice when nobody is watching; (2) you build a database of content to repurpose into blogs, YouTube and solo podcasts; (3) long form builds depth and connection so you don't rely on pushy sales tactics; (4) you're forced to develop original ideas that spill into short form. Short form on a writing platform like X because: you don't have to show your face or body (a headshot profile picture helps); "you learn to monetize your mind instead of your looks"; your income depends on creativity; you can test multiple ideas each day and repurpose the best to Instagram and LinkedIn; you can use writing as scripts for Shorts, Reels and TikToks.
+- **ejemplos:** ninguno
+- **cita:** "you learn to monetize your mind instead of your looks"
+- **terminos:** database of content, monetize your mind
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-068
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 16:37-18:09, 2023-09-17
+- **tension:** ninguna
+
+## U-009-072
+- **tipo:** proceso
+- **titulo:** Daily routine: 30 minutes of writing each morning, a long-form newsletter, short-form posts from its ideas, engagement data as a compass
+- **desarrollo:** "Start with 30 minutes of writing each morning; write a long-form newsletter; use the ideas you write about as short-form posts; eventually let your engagement data act as a compass for what you write more about." He teaches the entire process in 2 Hour Writer.
+- **ejemplos:** ninguno
+- **cita:** "let your engagement data act as a compass for what you write more about"
+- **terminos:** engagement data as a compass
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-071
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 17:21-18:09, 2023-09-17
+- **tension:** ninguna
+
+## U-009-073
+- **tipo:** argumento
+- **titulo:** Answer to "info products aren't real": your mind is an information processing machine, so information products are the greatest product
+- **desarrollo:** The prime objection to information products: "it's not real, it's not tangible, it's just words on a screen." Dan's chain: if the root of your existence and quality of life is your mind, and your mind is an information processing machine, and the information you consume heavily influences where you end up in life and in the lives you impact, then "information products are the greatest product one can sell." Anyone who says otherwise "has not thought it through or experienced the business model"; they're "conditioned by their favorite guru's world view and can't escape it."
+- **ejemplos:** ninguno
+- **cita:** "your mind is an information processing machine"
+- **terminos:** information products, information processing machine
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 18:09-18:53, 2023-09-17
+- **tension:** ninguna
+
+## U-009-074
+- **tipo:** opinión
+- **titulo:** Every business should have a foundation of education and an information product to distribute positive behavior change at scale
+- **desarrollo:** Dan is "moving toward the belief that every single business should have a foundation of education," an information product "to distribute positive behavior change at scale." Their 95%+ profit margins are "a sign that the economy will continue to favor the education market," and "technology and evolution have led us to this point, and who are you to question mother nature."
+- **ejemplos:** ninguno
+- **cita:** "every single business should have a foundation of Education"
+- **terminos:** foundation of Education, positive behavior change at scale
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-073
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 18:53, 2023-09-17
+- **tension:** ninguna
+
+## U-009-075
+- **tipo:** heurística
+- **titulo:** To eliminate competition and saturation, build a product for your past or current self that accelerates progress toward a meaningful goal
+- **desarrollo:** "But Dan, how do I eliminate competition and saturation?" — "Build a product for your past self or current self, one that accelerates the progress made toward a meaningful goal."
+- **ejemplos:** ninguno
+- **cita:** "build a product for your past self or current self one that accelerates the progress made toward a meaningful goal"
+- **terminos:** past self, current self
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-057
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 18:53-19:44, 2023-09-17
+- **tension:** ninguna
+
+## U-009-076
+- **tipo:** framework
+- **titulo:** Purpose, path, priority: the universal principle of human behavior that marketing revolves around
+- **desarrollo:** Your marketing revolves around "the universal principle of human behavior which is purpose, path and priority." Purpose: "a compelling reason to move toward a better future." Path: "a process, system or steps that bring clarity to their actions." Priority: "the burning problem they face at their level of awareness." "This is everything." It is "an entire section of my book" and applies to everything human-behavior related; buying a product is human behavior. "You need a problem, you need a goal and you need to bounce between the two; your product is the path that helps them get from one to another, from point A to point B, that's what people buy." Test: think of all the products you bought; if you can apply this principle, you know it is a good product.
+- **ejemplos:** ninguno
+- **cita:** "your product is the path that helps them get from one to another from point A to point B that's what people buy"
+- **terminos:** purpose, path, priority
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-064
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 19:44, 2023-09-17
+- **tension:** ninguna
+
+## U-009-077
+- **tipo:** ejemplo
+- **titulo:** Product ideas by interest: productivity workflow, spirituality meditations, fitness program, each with education around it
+- **desarrollo:** If you like productive activity, create a workflow with education around it. If you like spirituality, create meditations and education around that. If you like fitness, create a program with education around that. "You can't improve what doesn't exist, so don't stress the first iteration; this is a long game of improvement."
+- **ejemplos:** Workflow, meditations, fitness program.
+- **cita:** "you can't improve what doesn't exist so don't stress the first iteration"
+- **terminos:** first iteration
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-076
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 19:44-20:29, 2023-09-17
+- **tension:** ninguna
+
+## U-009-078
+- **tipo:** principio
+- **titulo:** You are the niche and the customer avatar: write the content and promotions that would speak to you
+- **desarrollo:** "But Dan, what about my customer avatar and market research?" — "It's you. You are the niche, you are the customer avatar. Write the content and promotions that would speak to you." This replaces "boring market research" with creating your own customers.
+- **ejemplos:** ninguno
+- **cita:** "you are the niche you are the customer Avatar"
+- **terminos:** you are the niche, customer Avatar
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-075
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 20:29, 2023-09-17
+- **tension:** ninguna
+
+## U-009-079
+- **tipo:** metáfora
+- **titulo:** Build a business like you learned to walk: trial and error, despite adult psychological barriers
+- **desarrollo:** There are many moving pieces; "it will take a year or so to actually feel like you're getting the hang of it." Don't think this is a unique case: "every single thing you've done in life has been a process of trial and error." Being older with psychological barriers doesn't mean you can't "build a business like you learn to walk." Learning to walk "is arguably the hardest skill we've learned in our lives"; since then we've adopted psychological barriers and limiting beliefs that prevent us from thinking everything is as easy as learning to walk. "I don't even remember learning to walk but I can walk just fine." Dan ten years ago had no idea how to build a business; now he could "probably spin one up" and make however much he wanted in a year "if I did things right."
+- **ejemplos:** Learning to walk; Dan ten years ago vs. now.
+- **cita:** "just because you are older and have psychological barriers built up doesn't mean you can't build a business like you learn to walk"
+- **terminos:** trial and error, psychological barriers
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 20:29-21:11, 2023-09-17
+- **tension:** ninguna
+

@@ -1332,3 +1332,382 @@
 - **fuente:** The 7 Best Internet Business Models (From Zero Experience To Advanced).md, 24:58-25:39, 2024-01-21
 - **tension:** ninguna
 
+# Fuente: Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md (2024-02-25)
+
+## U-008-103
+- **tipo:** principio
+- **titulo:** If you've solved a problem in your life, you're qualified to start an education business as one person with near-zero startup costs
+- **desarrollo:** Opening thesis: if you've solved the problem in your life, you're qualified to start a business — "not just any business an education business" — as one person, with close to zero startup costs, with the knowledge already in your head, regardless of experience level.
+- **ejemplos:** ninguno
+- **cita:** "if you've solved the problem in your life you're qualified to start a business"
+- **terminos:** education business; one person
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 0:00, 2024-02-25
+- **tension:** ninguna
+
+## U-008-104
+- **tipo:** advertencia
+- **titulo:** Don't chase "crazy startup ideas"; lucky breakouts are rare and banking on them is gambling, not investing
+- **desarrollo:** When people think of starting a business they think of startup culture: a crazy idea like a food app suggesting dinner ideas — without realizing there are only so many restaurants nearby, findable on Yelp. Such ideas often come "after a night of drinking with your friends" ("this is a million-dollar business") and go nowhere, because the idea is stupid and you lack perspective on what a business is and how to make income from your own interests, skills, expertise and problems you've already solved. People glorify these "insane beautiful pretty ideas" online and get conditioned, often by consuming internet content, into thinking they need one. Special cases exist where someone executes a great idea and the universe conspires in their favor — very rare and lucky; "it's not wise to gamble on your success it's wise to invest smartly in your future with skill acquisition."
+- **ejemplos:** The dinner-ideas food app.
+- **cita:** "it's not wise to gamble on your success it's wise to invest smartly in your future with skill acquisition"
+- **terminos:** startup culture; skill acquisition
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 0:00-1:37, 2024-02-25
+- **tension:** ninguna
+
+## U-008-105
+- **tipo:** término-acuñado
+- **titulo:** "Solve your own problems and sell the solution": the most profitable problem is the one you experience every day
+- **desarrollo:** People make millions solving fitness, productivity, career, money, relationships and lifestyle problems because every person has them, and they prevent the average individual from doing the only thing they want: enjoying life. "What better and more profitable problem is there to solve than the one you experience every day?" This is where his philosophy "solve your own problems and sell the solution" was born. Results in fitness → sell a fitness program; results in focus → sell a productivity course; results with a skill → sell a tutorial. If you haven't solved any problem in your life (which he doubts), you're not qualified — "get out of your mom's basement and start doing something with your life."
+- **ejemplos:** Fitness program; productivity course; skill tutorial.
+- **cita:** "this is where my philosophy of solve your own problems and sell the solution was born"
+- **terminos:** solve your own problems and sell the solution
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-008-103
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 1:37-2:31, 2024-02-25
+- **tension:** ninguna
+
+## U-008-106
+- **tipo:** argumento
+- **titulo:** "Info products are a scam" is a lack of perspective from outsiders filling the blanks with unrelated experience
+- **desarrollo:** Common objection: everyone's selling an information product; it seems like a giant scam. Dan: this is a lack of perspective — you have no experience in the industry, you judge it from outside, don't understand its inner workings, and fill in the blanks with experience unrelated to the information product market.
+- **ejemplos:** ninguno
+- **cita:** "you are filling in the blanks with the experience that you currently have none of which is related to the actual information product market"
+- **terminos:** lack of perspective
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 2:31-3:17, 2024-02-25
+- **tension:** ninguna
+
+## U-008-107
+- **tipo:** principio
+- **titulo:** Business 101: sell what's already selling; don't chase blue oceans as a beginner
+- **desarrollo:** The scam objection also shows you don't understand business 101: sell what's already selling, especially when starting out. It's not wise to chase blue oceans and opportunities that seem to have no competition: "there's a reason for that it's because people don't want it, it's because money isn't flowing there, and you think you're smarter than Mother Nature."
+- **ejemplos:** ninguno
+- **cita:** "it's because money isn't flowing there and you think you're smarter than Mother Nature"
+- **terminos:** sell what's already selling; blue oceans
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 3:17, 2024-02-25
+- **tension:** ninguna
+
+## U-008-108
+- **tipo:** argumento
+- **titulo:** Creators are the decentralized school system: sovereign individuals passing down results-based solutions is reality correcting itself
+- **desarrollo:** The school system is failing; education is the foundation of humanity; creators are the decentralized school system. You complain that X needs to be taught in schools, but now that creators teach it you call it a scam — and it's given nearly free or at a fraction of a college degree's cost. Schools can't teach it because professors, by the nature of the job, lack results in the domain that leads to a better-than-average life. The creator economy is filled with sovereign individuals who've gotten results and pass down the solution — "is that not the best education system possible, is that not reality correcting itself." Instead people distract themselves with memes and entertainment. "The only scam is you not taking responsibility for your future."
+- **ejemplos:** ninguno
+- **cita:** "the only scam is you not taking responsibility for your future with the plethora of information available to you outside of schools"
+- **terminos:** decentralized school system; Sovereign individuals; reality correcting itself
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-008-106
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 3:17-5:00, 2024-02-25
+- **tension:** ninguna
+
+## U-008-109
+- **tipo:** metáfora
+- **titulo:** The fat personal trainer: people learn best from those similar to them, one or two steps ahead
+- **desarrollo:** On impostor syndrome. Dan used to think fat personal trainers were silly, but peeling back the layers: the average person wouldn't want to be trained by an Olympic bodybuilder or a super-fit guy "probably neurotic about their health and unhealthy because of that." The gap between where they are and where they want to be is so large that anxiety and overwhelm make them quit early. With someone one or two steps ahead, they'd stick with it more because (1) they relate more, (2) they understand the other is improving with them, and it's less transactional — more an accountability partner who's paid for the value exchange (one plays the business, one the consumer). Conclusion: students get better results from people one to two steps ahead. "It doesn't matter if you aren't a productivity Guru with a billion dollar company; it does matter if you can focus for 2 hours and help someone who can only focus for 15 minutes."
+- **ejemplos:** Fat personal trainer vs. Olympic bodybuilder; 2 hours of focus vs. 15 minutes.
+- **cita:** "it does matter if you can focus for 2 hours and help someone who can only focus for 15 minutes"
+- **terminos:** impostor syndrome; one to two steps ahead; accountability partner
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 5:00-6:40, 2024-02-25
+- **tension:** Consistent with U-008-031 ("two steps ahead").
+
+## U-008-110
+- **tipo:** heurística
+- **titulo:** Impostor syndrome is solved with honesty; in a market of extremes, to be outstanding you only have to be average
+- **desarrollo:** Your marketing strategy should be based solely on where you are in your journey and exactly what you help others with. The industry has enough false and attention-grabbing promises; "in a market of extremes if you want to be outstanding all you have to do is be average."
+- **ejemplos:** ninguno
+- **cita:** "impostor syndrome is solved with honesty"; "in a market of extremes if you want to be outstanding all you have to do is be average"
+- **terminos:** impostor syndrome; market of extremes
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-008-109
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 5:49-6:40, 2024-02-25
+- **tension:** ninguna
+
+## U-008-111
+- **tipo:** argumento
+- **titulo:** Entrepreneurship is uncertain but more secure than the cubicle, which is the least safe path for your psyche
+- **desarrollo:** Education businesses are the future of schooling and a good opportunity to bank your future on — more secure, though uncertain. Entrepreneurship is uncertain: "that's what meaningful living is, being constantly exposed to novel experiences," and entrepreneurship is the vessel for that. Your ancestors were entrepreneurs serving their community. Robotic living in a cubicle, the same day in and out, is not safe or secure — "the least safe and least secure path you can take especially for your psyche and your mental health."
+- **ejemplos:** ninguno
+- **cita:** "that's what meaningful living is is being constantly exposed to novel experiences entrepreneurship is the vessel to do that"
+- **terminos:** meaningful living; vessel
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-008-009
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 6:40-7:31, 2024-02-25
+- **tension:** ninguna
+
+## U-008-112
+- **tipo:** argumento
+- **titulo:** The one person business can make $5-10M a year because a social media audience is leverage
+- **desarrollo:** Dan introduces a clip from Sam Altman (transcribed "Sam Alman"; the clip's content is not in the transcript). He says he's been talking about the one person business for a long time and will write a book on it. The one person business can make $5 to $10 million a year if you understand and use technology and use social media and the creator economy as your vessel. Other ways to do business as one person? "I have difficulty believing so because social media audience is leverage": no paid ads, no team; write content, build an audience, sell a digital product you don't have to fulfill much on. "If you can gain one follower you can gain $1,000; if you can make $1 you can make a million."
+- **ejemplos:** ninguno
+- **cita:** "social media audience is leverage"
+- **terminos:** one person business; leverage
+- **origen:** propia (with an untranscribed clip of Sam Altman)
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 7:31-8:33, 2024-02-25
+- **tension:** The 2024-01 video says "if you can gain one follower you can gain 100,000" (U-008-088); here "one follower ... $1,000" (as transcribed; possibly a slip).
+
+## U-008-113
+- **tipo:** metáfora
+- **titulo:** The rain cycle: the main pattern of reality is division and reunion, centralization and decentralization
+- **desarrollo:** "You don't need statistics to observe reality." The main pattern of reality is division and reunion, centralization and decentralization. In The Art of Focus Dan illustrates "The Uncommon Sense of the rain cycle": we know it but see it as a superficial process rather than an indicator of life itself. The ocean evaporates into divided droplets, reunifies in clouds, divides into rain, and rain keeps dividing and reuniting in plant life, our homes and more — on all dimensions and scales of reality. His prediction, "backed by 4.5 billion years of evolution": the centralized school and economy are decentralizing thanks to new technology (the internet, code, and now AI), producing the creator economy — one person businesses educating, entertaining and inspiring the masses while making thousands to millions a year.
+- **ejemplos:** Ocean → droplets → clouds → rain → plants.
+- **cita:** "the main pattern of reality is division and reunion centralization and decentralization"
+- **terminos:** division and reunion; centralization and decentralization; Uncommon Sense; rain cycle
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** ninguno
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 8:33-9:24, 2024-02-25
+- **tension:** ninguna
+
+## U-008-114
+- **tipo:** argumento
+- **titulo:** The conventional education/employment path no longer makes sense; regimented education antagonizes our psyche and makes us hate learning
+- **desarrollo:** Humanity needs education, but not an idealized, regimented form that antagonizes the wiring of our psyche and makes us hate learning — and learning fuels all areas of life, from corporation to individual ("yes public schools are corporations"). Reality is decentralizing; individuals who realize this can hop on one of the most profitable shifts in history.
+- **ejemplos:** ninguno
+- **cita:** "learning is the one thing that fuels all areas of your life"
+- **terminos:** reality is decentralizing
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-008-113
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 9:24, 2024-02-25
+- **tension:** ninguna
+
+## U-008-115
+- **tipo:** fuente-de-tercero
+- **titulo:** Aristotle on work vs. leisure: work sustains biological life; leisure should sustain what makes us uniquely human
+- **desarrollo:** The massive evolutionary problem leading to this moment is labor/work. From Aristotle (as Dan presents it): the objective of work is usually to sustain our lives biologically, an objective shared with other animals; the objective of leisure can and should be to sustain other aspects of our lives that make us uniquely human — our souls, minds, personal and civic relationships. Leisure is therefore wasted if not used purposefully. Dan's adaptation follows (U-008-116): money as spiritual energy and work/rest as complementary.
+- **ejemplos:** ninguno
+- **cita:** "the objective of leisure can and should be to sustain other aspects of Our Lives which make us uniquely human"
+- **terminos:** work; leisure
+- **origen:** de-tercero:Aristotle
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 9:24-10:17, 2024-02-25
+- **tension:** ninguna
+
+## U-008-116
+- **tipo:** término-acuñado
+- **titulo:** Money as spiritual energy: earn it purposefully by solving your own problems, spend it purposefully to energize reality
+- **desarrollo:** Work is a financial necessity and finances are necessary for survival. Money is not to be demonized but earned and used as a spiritual energy — to solve your own problems, "problems being the limits on your mind and other people's minds," allowing you to expand, transcend and evolve. You earn money purposefully by solving your own problems and selling the solution; you spend it purposefully by fueling and energizing those aspects of reality, not on wasteful objects. Later: "money is a tool to build what you want but doesn't exist" (ambiguous phrasing in transcript); the creator philosophy and "money is a spiritual energy" are promised for the next video.
+- **ejemplos:** ninguno
+- **cita:** "money is not to be demonized but to be earned and used as a spiritual energy"
+- **terminos:** spiritual energy; problems being the limits on your mind
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-008-115, U-008-105
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 10:17 and 22:53, 2024-02-25
+- **tension:** ninguna
+
+## U-008-117
+- **tipo:** principio
+- **titulo:** Work and rest are complementary; creative work is the future; evolution is problem solving to reverse entropy
+- **desarrollo:** Work and rest should not be seen as distinct opposites but as complementary. Creative work is the future in a tech-enhanced society. "Evolution is problem solving to reverse entropy": humans have solved problems that make life miserable since the dawn of time; we want to avoid suffering, so we've built technology that allows us to do what nature calls us to do — pursue personal development, expand our sense of self, and do meaningful work that lets others do the same.
+- **ejemplos:** ninguno
+- **cita:** "evolution is problem solving to reverse entropy"
+- **terminos:** creative work; reverse entropy
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-008-115
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 10:17-11:09, 2024-02-25
+- **tension:** ninguna
+
+## U-008-118
+- **tipo:** argumento
+- **titulo:** Automation will absorb labor; not everyone should bank on creative work, but smart people should
+- **desarrollo:** Objection: we need construction workers, plumbers and labor workers. Dan agrees, but maybe in our lifetime those jobs won't exist. Should everyone bank on creative work for meaning and income? No. Should smart people? Yes. With robotics and factories like Tesla's being over 75% automated, he doesn't see why robots can't solve labor; personal robots doing laundry and cleaning seem not far off, so we can focus on creative work and self-actualization. Will everyone pursue it? No — "some people are going to end up like Wall-E," mainlining Coca-Cola in a floating lounge chair with dopamine channels. Stop worrying about it: wise people who flow with nature can never succumb to that life; once you've tasted self-actualization, flow and meaningful living "There's No Going Back" — you've reached the awakened point.
+- **ejemplos:** Tesla factories 75%+ automated; Wall-E.
+- **cita:** "once you've had that taste of self-actualization and flow and meaningful living There's No Going Back"
+- **terminos:** creative work; self-actualization; flow
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-008-117
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 11:09-12:52, 2024-02-25
+- **tension:** ninguna
+
+## U-008-119
+- **tipo:** principio
+- **titulo:** Success is reserved for the creative: creating something of your own lights your brain on fire
+- **desarrollo:** "Success is reserved for the creative; your psyche craves creativity." Creating feels good; by all measures creating something of your own lights your brain on fire — "that is enough of a sign that humans are meant to do this."
+- **ejemplos:** ninguno
+- **cita:** "success is reserved for the creative your psyche craves creativity"
+- **terminos:** creativity
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-008-118
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 12:00-12:52, 2024-02-25
+- **tension:** ninguna
+
+## U-008-120
+- **tipo:** framework
+- **titulo:** Dan's proposed way of life: the internet as a creative extension of yourself, from personal evolution to collective evolution
+- **desarrollo:** Steps of the proposed way of life: use the internet as a creative extension of yourself; learn skills that can't be taught in schools; solve your own problems for personal evolution; get results that can't be achieved in employment; put your personality on the internet to attract people like you; help them solve their problems for collective evolution; earn meaningful independent income doing so. "This is not another dogmatic business model, this is a way of life." It's complex, requires a complex mind and a lot of education and skill acquisition — not a job of repetitive tasks that makes you a robot again (hence a 16-week program in Cortex University).
+- **ejemplos:** ninguno
+- **cita:** "this is not another dogmatic business model this is a way of life"
+- **terminos:** creative extension of yourself; personal Evolution; Collective Evolution; Creator philosophy
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-008-105
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 12:52-13:39, 2024-02-25
+- **tension:** ninguna
+
+## U-008-121
+- **tipo:** framework
+- **titulo:** Three things to sell from a skill or interest: a tutorial/tutoring, a program/coaching, a system (consulting/freelancing)
+- **desarrollo:** "Stop over complicating it." (1) Tutorial or tutoring: a beginner-level tutorial of a specific skill, practice or interest (web design, building cars, Photoshop, guitar, music). (2) Program or coaching: an action plan or program people adopt as a daily routine (fitness, productivity, self-improvement). (3) A system — consulting or freelancing: a system people implement in their work or business (lead generation, content creation, Dan's writing frameworks).
+- **ejemplos:** Photoshop tutorials; guitar; fitness routines; lead generation systems.
+- **cita:** "stop over complicating it"
+- **terminos:** tutorial; tutoring; program; coaching; system
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-008-105
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 13:39-14:24, 2024-02-25
+- **tension:** ninguna
+
+## U-008-122
+- **tipo:** método
+- **titulo:** Reverse engineer people doing what you want: landing pages, headlines, products, content and traffic flow
+- **desarrollo:** You don't need to be directly educated to learn; study people doing what you want to do, since everything is online in their link-in-bio/description. Questions: Why is the landing page structured this way? Why this headline? Why this kind of product, what are they selling — can I make the same or better? Look at their social content: how do they generate traffic to their profile, gain a following, send that traffic to the product to monetize?
+- **ejemplos:** ninguno
+- **cita:** "you don't need to be directly educated to learn you can go and study people that are doing what you want to do"
+- **terminos:** reverse engineer
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-008-121
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 14:24-15:14, 2024-02-25
+- **tension:** ninguna
+
+## U-008-123
+- **tipo:** término-acuñado
+- **titulo:** CO's law: work evolves to earn more in the time allotted for its completion (a layer beyond Parkinson's law)
+- **desarrollo:** Presented as "arguably one of the most impactful laws" or a mental model to work less, earn more and enjoy life; transcribed as "Co law" / "CO's law" (the joke "not to be confused with Co law" suggests a play on the author's own name, but the transcript is ambiguous). Statement: "work evolves to earn more in the time allotted for its completion." This demands creativity, growth and skill acquisition to solve the problems that prevent this evolution. Built on Parkinson's law (work expands to fill the time allotted for its completion), which Dan calls only the first layer: work expands to fill time, but income doesn't. Most people think earning more requires working more, "but that's not how Evolution works, you have to change what you're doing." Origin: the 4-hour workday has long been his philosophy (a chapter in his book); with technology you can work the same time while making as much as you want.
+- **ejemplos:** See U-008-124 to U-008-128.
+- **cita:** "work evolves to earn more in the time allotted for its completion"
+- **terminos:** CO's law; Parkinson's law; 4-Hour workday
+- **origen:** adaptada-de:Parkinson's law
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 15:14-16:43, 2024-02-25
+- **tension:** ninguna
+
+## U-008-124
+- **tipo:** framework
+- **titulo:** The path to $1 million as one person working 4 hours or less (five steps)
+- **desarrollo:** (1) Do not work more than 4 hours. (2) Start with client work. (3) Get results, make money. (4) Build your audience. (5) Productize your work. Repeat steps three through five until you reach $1 million. "Then don't stop." Presented as the general breakdown detailed in stages one to three.
+- **ejemplos:** ninguno
+- **cita:** "repeat steps three through five until you reach 1 million then don't stop"
+- **terminos:** productize
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-008-123
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 15:14-15:55, 2024-02-25
+- **tension:** ninguna
+
+## U-008-125
+- **tipo:** advertencia
+- **titulo:** Business ideologies trap you: the freelancer who escaped the 9-to-5 and created a new 9-to-5
+- **desarrollo:** People get trapped in business ideologies: they start as a freelancer, that's all they know, idolize freelancing above other models, and complain when they can't escape the feast-or-famine cycle with just enough income to survive. Since they identify as a freelancer, their mind can't open to opportunities that better leverage their skill set. "They left their 9 to-5 to pursue freedom and created a new 9o5 for themselves." Similarly in stage one: hold the intention of evolution so you don't get trapped in a client business, complaining about lack of time, not focusing on content and digital products.
+- **ejemplos:** The freelancer in feast-or-famine.
+- **cita:** "they left their 9 to-5 to pursue freedom and created a new 9o5 for themselves"
+- **terminos:** business ideologies; feast or famine cycle; intention of evolution
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-008-123
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 16:43-17:29 and 18:18-19:03, 2024-02-25
+- **tension:** ninguna
+
+## U-008-126
+- **tipo:** proceso
+- **titulo:** Stage one of CO's law: client work without an audience, skipping freelancing for coaching/consulting/tutoring, with a 4-hour time allocation
+- **desarrollo:** As one person without an audience, client work is the best option: manual client acquisition, charging between $1,000 and $10,000 per client (transcribed "$110,000"; likely $10,000 — ambiguous); only two to three clients replace your income. Dan thinks it's best to skip the freelancer stage and go straight to coaching, consulting or tutoring, because education and teaching are pillars of the good life. He cites "Daniel fio Cil wizard" (as transcribed) saying on Twitter that most business owners need consulting over freelancing, and that sovereign individuals and company runners need one-to-one education because of how work is flowing: in a decentralized workplace (Cortex has no employees, only contractors), consulting is best because clients can train their team on it. Time allocation in a 4-hour frame: 1 hour/day prospecting; 3-5 hours/week on sales calls; 2-4 hours/week on client calls; 1 hour/day writing content for audience and clients; the rest is "pour-over" from any of these. Key: hold the intention of evolution.
+- **ejemplos:** Cortex as a contractor-only company.
+- **cita:** "the key is to hold the intention of evolution in your mind so you don't get trapped in the stage"
+- **terminos:** client work; manual client acquisition; intention of evolution
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-008-124
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 17:29-19:03, 2024-02-25
+- **tension:** ninguna
+
+## U-008-127
+- **tipo:** proceso
+- **titulo:** Stage two: build an audience with writing, use a new (group) client model, and evolve fulfillment — from $100K to $300-500K in the same 4 hours
+- **desarrollo:** With 4 hours you can only take so many clients; to stay one person without hiring, Dan gives the route he discovered so you skip years of trial and error. (1) Build an audience with writing: don't waste time on video editing and graphics yet; use writing on social media and a newsletter (his Instagram, LinkedIn and X; his videos are written newsletters first — "I'm a writer at heart"). (2) Use a new client model: create a program, tutorials or curriculum and take on more clients in a group coaching setting, bringing client work down to 1-2 hours a week. You can change the structure you were taught (one call a week plus tasks): build a course and guide individuals through it to remove time spent teaching; the audience fuels it so you rely less on manual outreach — "you just shaved off like 20 hours a week." (3) Evolve your fulfillment: decrease pricing a bit, remove time suckers like one-on-one calls, introduce a group chat or community, restructure delivery without removing value. Thanks to CO's law, earning potential goes from $100,000/year to $300-500,000 working the same 4 hours: stage one client work → stage two hybrid model with an audience.
+- **ejemplos:** Dan's written-first videos.
+- **cita:** "don't waste time on video editing and Graphics yet use writing on social media and a newsletter to build an audience"
+- **terminos:** new client model; group coaching; hybrid model; evolve your fulfillment
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-008-126
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 19:03-21:17, 2024-02-25
+- **tension:** ninguna
+
+## U-008-128
+- **tipo:** principio
+- **titulo:** Audience growth is the number one lever: distribution equals freedom, audience equals distribution
+- **desarrollo:** The main thing across stages is audience growth, which is why content creation is so important to nail as a skill. The biggest problem in the space is that people can't stay consistent or have good ideas that result in good content. "If you aren't growing on social media then this isn't an opportunity for you, that's your number one lever, stop focusing on other [stuff]." "Distribution equals Freedom, audience equals distribution." You can turn client work into a digital product any time for extra income (and clients who want to learn more before hiring you), but it won't be the main income at first.
+- **ejemplos:** ninguno
+- **cita:** "distribution equals Freedom audience equals distribution"
+- **terminos:** number one lever; distribution
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-008-127
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 21:17-22:05, 2024-02-25
+- **tension:** ninguna
+
+## U-008-129
+- **tipo:** proceso
+- **titulo:** Stage three: productize with audience growth — cohort, standalone digital product, optionally leave client work — $300K to $1M+
+- **desarrollo:** (1) Create a cohort-based program: charge less, restructure time-consuming aspects, take on more customers thanks to a larger audience; earn more than the group client model in the same time. (2) Build a standalone digital product from your teachings and client results: built once, sells while you sleep. (3) Leave client work if you want; you may see an income dip at first, but the freed time diversifies platforms, increases revenue and improves audience growth. Thanks to CO's law, earning potential goes from $300,000/year to $1 million+. Rapid iteration comes into play: detach from manual labor and bank solely on your creative ability — the difference between an employee mindset and a CEO mindset ("if you have clients you are still the employee or contractor of those clients"). Time: 1-2 hours/week fulfilling the cohort; 2 hours/day writing content; 1-2 hours/day building projects that take you further. After this: build new products, branch out of the one person business, or enjoy life until early retirement gets boring.
+- **ejemplos:** ninguno
+- **cita:** "if you have clients you are still the employee or contractor of those clients"
+- **terminos:** cohort-based program; standalone digital product; rapid iteration; employee mindset; CEO mindset
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-008-128
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 21:17-23:41, 2024-02-25
+- **tension:** ninguna
+
+## U-008-130
+- **tipo:** argumento
+- **titulo:** The urge to build is spirituality business: those who say you don't need more money are missing a key
+- **desarrollo:** People who think you don't have to keep making more money usually find a key missing in their life: they can improve other things, but the urge to build is missing — the urge to help human evolution and contribute to humanity broadly, not just your local circle but on a universal level. "That's called spirituality business." At this point you've built so much leverage and distribution you can sell whatever you want — why Dan is building software and plans to write three books by the end of next year.
+- **ejemplos:** Dan's software and three planned books.
+- **cita:** "the urge to build is missing that is the urge to help human evolution and contribute to humanity"
+- **terminos:** urge to build; spirituality business
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-008-116
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 22:53-23:41, 2024-02-25
+- **tension:** ninguna
+
+## U-008-131
+- **tipo:** heurística
+- **titulo:** Binge 50-100 hours of content and build alongside it in the real world
+- **desarrollo:** For the right person the video is "100% a road map" from $0 to $1M a year; if it doesn't make sense, watch his other videos to fill gaps — it's complex, not "a 30-minute video and you'll make a million." You have to spend the majority of your time now soaking in information and building along with it: binge-watch 50 to 100 hours of content and build in the real world to see results.
+- **ejemplos:** ninguno
+- **cita:** "you have to binge watch like 50 to 100 hours of content and build along with it in the real world"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md, 23:41-24:28, 2024-02-25
+- **tension:** ninguna
+
