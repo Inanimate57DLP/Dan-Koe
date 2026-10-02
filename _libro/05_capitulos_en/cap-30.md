@@ -653,7 +653,9 @@ The strongest version of the iteration doctrine appears in February 2025. With a
 
 **Source:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md
 
-"Impossible to fail" should be read with its conditions: an audience (which supplies exposure), a digital product (which makes each attempt cheap) and persistence plus iteration (which keep attempts coming and improving). Under those conditions, Koe's claim is that failure becomes an intermediate result rather than a final one. The "95%" first-year failure statistic is quoted loosely ("something like") and without a source; widely reported figures for first-year business failure are much lower, so it should be read as rhetoric for the contrast, not as data. The argument does not need it: the point is the cost of each attempt, not the failure rate of others.
+"Impossible to fail" should be read with its conditions: an audience (which supplies exposure), a digital product (which makes each attempt cheap) and persistence plus iteration (which keep attempts coming and improving). Under those conditions, Koe's claim is that failure becomes an intermediate result rather than a final one. The "95%" first-year failure statistic is quoted loosely ("something like") and without a source, and it should be read as rhetoric for the contrast, not as data. The argument does not need it: the point is the cost of each attempt, not the failure rate of others.
+
+**Complementary context:** official statistics on business survival (for example, those published by the US Bureau of Labor Statistics) usually put first-year closures of new businesses at roughly one in five, far below 95%. The comparison does not change Koe's argument, which concerns the cost of iteration, but it is a reason not to repeat the figure as fact.
 
 #### Launch every quarter
 

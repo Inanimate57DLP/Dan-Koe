@@ -3,7 +3,7 @@
 - **CORPUS_PATH resuelto:** `.` (raíz del repositorio). La ruta configurada `Transcripts YouTube Referentes/Dan Koe` no existe; los transcripts están en la raíz.
 - **Directorio de trabajo:** `_libro/` (en la raíz)
 - **Rama de trabajo:** `libro-maestro-dan-koe` (creada desde `origin/main`, commit 1396995)
-- **Último commit:** 3a59402 Fase 4: capítulo 28 redactado
+- **Último commit:** 05411f3 Fase 4: capítulo 29 redactado
 - **Fase actual:** Fase 4 en curso — redacción de capítulos en inglés (30/40), 3 subagentes en paralelo; instrucciones en /tmp (regenerables con los scripts descritos en Notas).
 
 ## Números
@@ -69,7 +69,7 @@
 - cap-27.md: 32319 palabras, 143 IDs en COBERTURA ✔
 - cap-28.md: 33378 palabras, 163 IDs en COBERTURA ✔
 - cap-29.md: 30362 palabras, 148 IDs en COBERTURA ✔
-- cap-30.md: 29155 palabras, 149 IDs en COBERTURA ✔
+- cap-30.md: 29203 palabras, 149 IDs en COBERTURA ✔
 - **Total:** 30/40 capítulos
 
 ## Notas
