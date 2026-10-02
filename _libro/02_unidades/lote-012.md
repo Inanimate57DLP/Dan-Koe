@@ -2207,3 +2207,852 @@
 - **fuente:** The Future Of Work (How To Become AI-First).md, 27:46–28:27, 2025-05-25
 - **tension:** ninguna
 
+# Fuente: The Future Of Work (& The New High-Income Skill Stack).md (2026-02-12)
+
+## U-012-170
+- **tipo:** ejercicio-del-autor
+- **titulo:** "Why are you watching this?" — the question that shows what the future of creative work looks like
+- **desarrollo:** The author asks the viewer why they are watching this specific video when they have ChatGPT, Claude and AI tools "supposed to get rid of information, make creators obsolete". You could paste the YouTube link into AI for a decent summary, yet you're still watching. Before going "doomer" about AI replacing everyone, reflect on this: the question "sets the foundation" and "shines a light on what the future of creative work could look like" (implied answer, developed later: people follow a specific human's perspective, curation and story).
+- **ejemplos:** pasting a YouTube link into AI for a summary
+- **cita:** "why are you watching this?"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 0:00–0:49, 2026-02-12
+- **tension:** ninguna
+
+## U-012-171
+- **tipo:** argumento
+- **titulo:** AI isn't only coming for jobs, it's coming for meaning — work as source of purpose, identity and status
+- **desarrollo:** People say AI is coming for everyone's jobs, and it looks like it will become true. The bigger problem: "AI isn't only coming for the jobs, it's coming for the meaning". There's already "this mass scarcity of meaning and purpose". If work — especially creative work — is a source of purpose, what happens when it's gone, when work doesn't equal purpose, identity, how you mattered or how you acquired status (a generator of meaning; "whether we like to virtue signal about not playing status games or not you play one every day")? Most see a crisis; he sees one of the greatest opportunities: when AI can do everything well, everything becomes a commodity, not worth paying for. Second foundational question: "how do you become a scarce resource that people want to pay for especially as a creative?" — answered by taste, perspective, story and the skills he breaks down.
+- **ejemplos:** ninguno
+- **cita:** "AI isn't only coming for the jobs, it's coming for the meaning"
+- **terminos:** scarcity of meaning, scarce resource, commodity, status games
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 0:49–2:26, 2026-02-12
+- **tension:** ninguna
+
+## U-012-172
+- **tipo:** framework
+- **titulo:** The history of meaning in four acts: up there → out there → nowhere → in here
+- **desarrollo:** Act one: meaning came "from up there" — for most of history it was given by gods, kings, elders and scriptures; you didn't find it, it was assigned (he places this "in very early foraging societies"). Act two (industrial revolution): meaning "from out there" — science replaced religion as dominant framework; meaning shifted to productivity and progress; earned through work and "contribution to the machine". Act three (now): meaning deconstructed into nothing, "found nowhere" — postmodernism: no perspective is privileged, nothing objectively true; meaning isn't given or earned, just gone. Act four: meaning "in here" — generated from within, by you, for you. Consequence: "it becomes our responsibility to create meaning"; "creatives are the meaning architects of society".
+- **ejemplos:** ninguno
+- **cita:** "Creatives are the meaning architects of society."
+- **terminos:** history of meaning in four acts, meaning architects, postmodernism
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-012-171
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 2:26–4:37, 2026-02-12
+- **tension:** ninguna
+
+## U-012-173
+- **tipo:** concepto
+- **titulo:** Two types of work: mundane busy work vs creative work, where humans find meaning
+- **desarrollo:** Mundane busy work — repetitive, mechanical, assembly-line industrial — he doesn't mind it going away ("in the kindest way possible", acknowledging livelihoods at stake). Creative work: "the ability to see reality from your own lens, pull it into your mind, synthesize things together, create something, share it with another person, and then get feedback for your contribution in the form of money" or another form of value — "that's where humans find meaning".
+- **ejemplos:** ninguno
+- **cita:** ninguna
+- **terminos:** busy work, creative work
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-172
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 3:52–4:37, 2026-02-12
+- **tension:** ninguna
+
+## U-012-174
+- **tipo:** fuente-de-tercero
+- **titulo:** David Shapiro's post-labor economics: AI breaks the wage loop; household income from wages, transfers and capital
+- **desarrollo:** Traditional economic loop: you work a job, get a wage, spend, the company profits, which creates more jobs or ability to pay. AI breaks it: if AI does the jobs, wages collapse → spending collapses → the economic system falls apart. This brings in the post-labor economics framework by David Shapiro (book "Labor Zero" coming; he recommends Shapiro's YouTube playlist). Brief version: household income has three sources: (1) wages — what AI threatens; (2) transfers — government payments, UBI; problem if dominant: politically unstable, distorts markets — and the author personally wouldn't find meaning "sitting on the couch all day collecting money"; he needs to grow ("maybe 60 more years on this planet"); (3) capital income — owning income-generating assets; the future probably requires "broadening capital participation", regular people owning assets, not just billionaires. Still, he wants to create, and people will need meaning derived from that — "that's where you and I come in". He presents it as a theory that may not happen.
+- **ejemplos:** ninguno
+- **cita:** ninguna
+- **terminos:** post-labor economics, wages, transfers, capital income, broadening capital participation
+- **origen:** de-tercero:David Shapiro
+- **nivel:** avanzado
+- **prerrequisitos:** U-012-171
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 4:37–7:05, 2026-02-12
+- **tension:** ninguna
+
+## U-012-175
+- **tipo:** principio
+- **titulo:** Theories that attract attention and supporters tend to create culture: humans build what they want to see
+- **desarrollo:** "Another thing about creatives": the more attention you attract to a theory that leads society in a new direction, and the more supporters, the more it tends to create culture and society. "The more attention that is invested into a creative idea is more likely to come true than not. Things just don't happen. Humans build what they want to see in the world."
+- **ejemplos:** post-labor economics as a theory that could become real
+- **cita:** "Things just don't happen. Humans build what they want to see in the world."
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-174
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 5:26, 2026-02-12
+- **tension:** ninguna
+
+## U-012-176
+- **tipo:** concepto
+- **titulo:** Jobs that survive: where the human is the product (liability, statutory, experience economy, meaning makers, relationship/trust)
+- **desarrollo:** Not all jobs will disappear; some require humans in the loop: (1) high-liability roles — you want a human accountable; (2) statutory positions with legal requirements; (3) the experience economy — bartenders, boutique shops, art galleries, live performances — expected to "see a huge boom"; (4) meaning makers / the meaning economy — people who help others navigate the human experience; (5) relationship and trust jobs — sales, diplomacy, negotiation. Pattern: "the jobs that survive are the ones where the human is the product. It's not what they produce, it's who they are."
+- **ejemplos:** bartenders, art galleries, live performances, negotiation
+- **cita:** "the jobs that survive are the ones where the human is the product"
+- **terminos:** humans in the loop, experience economy, meaning economy, meaning makers
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-174
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 7:05, 2026-02-12
+- **tension:** ninguna
+
+## U-012-177
+- **tipo:** fuente-de-tercero
+- **titulo:** Naval's "7 billion companies" revisited: every person can become their own enterprise
+- **desarrollo:** The pattern recalls Naval's quote: almost 7 billion people, someday hopefully almost 7 billion companies. With AI you can learn and build anything, so "every person has the chance to become their own enterprise". Will everyone? "Of course not" — he's providing a potential opportunity for those who want it.
+- **ejemplos:** ninguno
+- **cita:** "every person has the chance to become their own enterprise"
+- **terminos:** own enterprise
+- **origen:** adaptada-de:Naval Ravikant
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-176
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 7:05–8:30, 2026-02-12
+- **tension:** Repite U-012-012 en otro contexto (AI en vez de creator economy).
+
+## U-012-178
+- **tipo:** concepto
+- **titulo:** The creative way of life (from Purpose and Profit): identify problems, solve them, remove limits, learn, give the solution to others
+- **desarrollo:** In his book Purpose and Profit (free on his Substack), the creative way of life: identify problems, solve them, which removes the limits on your potential and forces you to learn; then turn the solution into something you can give someone else. "Arguably the most meaningful way to live" — both an advantage for the future and very meaningful.
+- **ejemplos:** ninguno
+- **cita:** ninguna
+- **terminos:** creative way of life, Purpose and Profit
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 8:30, 2026-02-12
+- **tension:** ninguna
+
+## U-012-179
+- **tipo:** framework
+- **titulo:** The anatomy of meaning: two killers (stagnation, isolation), two pillars (progress, contribution), three generators (struggle, curiosity, status)
+- **desarrollo:** A framework to "engineer meaning". To understand meaning, first understand meaninglessness. Two killers: (1) stagnation — no forward movement or progress, feeling stuck; (2) isolation — no connection to something greater, feeling you don't matter. This is why modern life feels empty: on your phone you're not progressing or contributing; you think you're connected but aren't really, and companies profit from your addiction. Two pillars of meaning: (1) progress — forward movement; humans need to feel they're going somewhere, not arrive and stop (like the person who built a $100 million company, stopped, and found life lacked meaning); progress comes through creative problem solving, through "struggle, not through suffering" (remove negative connotations from struggle); (2) contribution — connection to something greater; progress must matter to someone besides yourself, which is why solo projects feel hollow after a while: you need an audience, a community, a cause (not a million followers — tiny followings or real-life communities can sustain an income). Three generators: struggle (engine of progress), curiosity (direction of progress), status (proof of contribution) — detailed in the next units.
+- **ejemplos:** the $100M founder who stopped; phone use
+- **cita:** "struggle, not through suffering"
+- **terminos:** anatomy of meaning, stagnation, isolation, progress, contribution, generators, engineer meaning
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-172
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 8:30–11:46, 2026-02-12
+- **tension:** ninguna
+
+## U-012-180
+- **tipo:** fuente-de-tercero
+- **titulo:** A half-remembered quote: happiness is the feeling of resistance being overcome, of progress being made
+- **desarrollo:** He says there's "a niche quote" on happiness he can't recite exactly — "something like happiness is the feeling of resistance being overcome of progress being made" — and asks viewers to post it. "This insight isn't anything new. We just need to be reminded of it." (Source unnamed; the transcript's "niche" may be "Nietzsche" — ambiguous.)
+- **ejemplos:** ninguno
+- **cita:** "happiness is the feeling of resistance being overcome of progress being made"
+- **terminos:** ninguno
+- **origen:** de-tercero:unnamed ("niche quote", possibly Nietzsche — ambiguous)
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-179
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 9:50–10:39, 2026-02-12
+- **tension:** Coincide con U-012-133 (happiness = resistance overcome + connection to something greater).
+
+## U-012-181
+- **tipo:** argumento
+- **titulo:** If jobs go away, money stops being a productivity metric and becomes a tool to express agency and a representation of growth
+- **desarrollo:** If money moves away from being a productivity metric, he thinks it will remain a status symbol but become "a tool to express agency", a tool for growth as it is now — "we're just removing the shallower layer", transcending to what money was meant to be: "your ability to do things you weren't able to do before", "a physical representation of your growth".
+- **ejemplos:** ninguno
+- **cita:** ninguna
+- **terminos:** money as a tool to express agency
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-179
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 11:06–11:46, 2026-02-12
+- **tension:** ninguna
+
+## U-012-182
+- **tipo:** concepto
+- **titulo:** Generator 1, struggle: the struggle you choose defines your purpose
+- **desarrollo:** Struggle is the engine of progress. It's "what you choose to struggle for because that defines what your purpose is" — not struggle imposed on you, not an assigned goal, but what you consciously choose: the creative who chooses to master their craft, build an audience, say something true. "That struggle generates meaning." In practicing agency: make deliberate choices, reject conformity, choose your own problems to solve.
+- **ejemplos:** creative choosing to master a craft
+- **cita:** ninguna
+- **terminos:** struggle, engine of progress
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-179
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 11:46 and 26:50, 2026-02-12
+- **tension:** ninguna
+
+## U-012-183
+- **tipo:** concepto
+- **titulo:** Generator 2, curiosity: nonlinear attention — two readers highlight different lines of the same book
+- **desarrollo:** Curiosity is the direction of progress: "nonlinear attention", "following threads that don't make sense yet". AI can't be curious; curiosity is how you solve problems or discover ideas nobody is thinking about. Example he uses often: two people reading the same book won't highlight the same lines; one may find it trash, the other the best book ever, because of each one's situated point in life, perspective and accumulated experience creating a unique way of viewing the world "that we don't think is unique because we live in our heads". That's your unique edge; you need to learn to channel it. In practicing agency: filter signal from noise, follow threads that interest you, especially when everyone chases trends.
+- **ejemplos:** two readers of the same book
+- **cita:** "curiosity is nonlinear attention"
+- **terminos:** curiosity, nonlinear attention, direction of progress, unique edge
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-179
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 11:46–13:16 and 26:50, 2026-02-12
+- **tension:** ninguna
+
+## U-012-184
+- **tipo:** concepto
+- **titulo:** Generator 3, status (recognition): the signal that your struggle mattered to someone
+- **desarrollo:** Status "gets a bad rap", so call it recognition — for your work or contribution. "It's the signal that your struggle mattered to someone", that "you're not here alone in this void". It is the proof of contribution. In practicing agency: money becomes a tool for agency, not just a productivity metric — you choose to do what you want with money as fuel.
+- **ejemplos:** ninguno
+- **cita:** "It's the signal that your struggle mattered to someone."
+- **terminos:** status, recognition, proof of contribution
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-179
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 13:16 and 26:50, 2026-02-12
+- **tension:** ninguna
+
+## U-012-185
+- **tipo:** argumento
+- **titulo:** Struggle, curiosity and status are literally the foundation of a story; the brain is a story engine, especially in leisure
+- **desarrollo:** The three generators form "quite literally the foundation of a story". Stories matter going forward because "your brain is a story engine": we crave novelty, drama, myth and meaning — especially when not in survival mode, in leisure, when jobs are replaced and base necessities are met. That's what people will look for and pay for, because they're not worried about bills, "they're kind of just lost". Many who don't understand this will end up like the WALL-E character in the hover chair with the soda hat and screen, 300 lb and unable to move.
+- **ejemplos:** WALL-E hover-chair character
+- **cita:** "your brain is a story engine"
+- **terminos:** story engine
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-184
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 13:16–14:12, 2026-02-12
+- **tension:** ninguna
+
+## U-012-186
+- **tipo:** principio
+- **titulo:** People pay for speed to escape experiences and a premium for experiences they want to savor
+- **desarrollo:** What is the main purpose of machines vs humans in the future? Two-part insight: (1) people pay for speed and efficiency when they want to escape an experience — DMV wait times, a fast-food worker getting your order wrong, company bureaucracy; (2) people pay a premium for experiences they want to savor — a five-star restaurant, live theater, handcrafted goods. Illustrated by a quote from Chris Paik (transcribed "Pake") about the division of labor between silicon and carbon, ending with "AI handles the friction and humans handle the narrative" (e.g., abolishing baristas while canonizing chefs).
+- **ejemplos:** DMV; fast food; five-star restaurant; live theater; baristas vs chefs
+- **cita:** "AI handles the friction and humans handle the narrative"
+- **terminos:** escape vs savor, friction vs narrative
+- **origen:** adaptada-de:Chris Paik
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-185
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 14:12–15:26, 2026-02-12
+- **tension:** ninguna
+
+## U-012-187
+- **tipo:** término-acuñado
+- **titulo:** The creator economy equals the meaning economy: get paid by people who believe in what you do (art + business)
+- **desarrollo:** Shift in how money flows: old way — paid for labor and output; new model — "you get paid by the people who believe in what you're doing and who want to see more of that in the world". Do something you deeply care about and attract others to care about it — two distinct skills: art (doing what you care about with love) and business (persuading others of its value so you don't become a starving artist). When you follow someone meaningful (not searching info or a quick tip, which you can ask ChatGPT), you're buying and supporting their perspective, opinion and curation — whether they use AI or not — because they pull the right ideas and make sense of them.
+- **ejemplos:** ninguno
+- **cita:** "you get paid by the people who believe in what you're doing"
+- **terminos:** meaning economy, starving artist, curation
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-186
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 15:26–16:52, 2026-02-12
+- **tension:** ninguna
+
+## U-012-188
+- **tipo:** principio
+- **titulo:** Attention is the scarce resource and ultimate leverage: the game is distribution and curation, not just production and creation
+- **desarrollo:** Attention is scarce: limited people and attention to go around. Learn the mechanics of capturing and delivering value on attention and you can demand a premium. AI flooding the space with mediocre content doesn't matter: there isn't enough attention for all of it, mediocre is unwanted, and people shift attention to what matters. "It's not only production but it's distribution. It's not only creation because anyone can create anything. It's curation." "Attention is the ultimate leverage": Elon Musk attracts capital, talent and resources through his followers — his tweets shift markets; MrBeast reinvests attention proceeds into production and is becoming very powerful. These are extremes: he doesn't want to be either (risky, stressful; he doesn't even watch MrBeast).
+- **ejemplos:** Elon Musk; MrBeast
+- **cita:** "attention is the ultimate leverage"
+- **terminos:** attention, curation, distribution
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-187
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 16:52–17:42, 2026-02-12
+- **tension:** ninguna
+
+## U-012-189
+- **tipo:** argumento
+- **titulo:** The creator economy isn't winner-takes-all or saturated: attention shifts, many business models, and some find meaning outside work
+- **desarrollo:** "This isn't a winner takes all market. Almost nothing is." Attention shifts; anyone can go viral and what they do with it determines success; others build slowly, attract a small audience, charge premium prices and out-earn people with millions of followers. Not everyone sells a $10 ebook or a $5,000 coaching program — many ways. Saturation is further reduced because some people won't find meaning through work at all, but through family and other domains. The author wants growth in all domains (vocation, family, health) because they interconnect and unlock each other — "this infinite game where you can just experience this growth and progression and meaning forever".
+- **ejemplos:** Justin Welsh: large following, not on YouTube; just writes on LinkedIn, newsletter and Twitter; focuses on meaningful work for as little time as possible to maximize family time.
+- **cita:** "This isn't a winner takes all market. Almost nothing is."
+- **terminos:** infinite game
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-188
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 17:42–19:36, 2026-02-12
+- **tension:** ninguna
+
+## U-012-190
+- **tipo:** argumento
+- **titulo:** Creators are becoming primary sources of news and education: people trust them more than centralized institutions
+- **desarrollo:** Anyone who posts on social media ("let's just call them a creator") is becoming a primary source of information for news or education; "people trust creators more than they trust centralized institutions". Massive opportunity for those with genuine expertise or a unique way of viewing the world and the ability to articulate it — "all skills that can be learned".
+- **ejemplos:** ninguno
+- **cita:** ninguna
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 19:36–20:25, 2026-02-12
+- **tension:** ninguna
+
+## U-012-191
+- **tipo:** argumento
+- **titulo:** When everything can be done instantly it becomes a commodity, increasing the value of human perspective, curation and taste
+- **desarrollo:** Dead internet objection: if AI floods the internet, doesn't content become worthless? "Yes, it becomes a commodity." That increases what can be paid for something human — not necessarily non-AI (everyone will work AI-assisted) but "a human perspective, a human point of view, the curation, the taste". AI can spit out 5 billion beautiful words, "but which ones are you going to select to stick around?"
+- **ejemplos:** 5 billion words of prose
+- **cita:** ninguna
+- **terminos:** commodity, curation, taste
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-188
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 20:25–21:15, 2026-02-12
+- **tension:** ninguna
+
+## U-012-192
+- **tipo:** opinión
+- **titulo:** Writing with AI is fine if you control the ideas — but AI language patterns ("it's not this, it's this") are everywhere
+- **desarrollo:** Skills are abstracted up a layer as always: human labor → animal labor → machine labor → AI labor. You don't need to set up a typewriter or even know how to write anymore. He still writes manually and researches with AI, but sees no problem with AI writing "as long as they're in control of the ideas" and it accurately represents what they mean "down to the word". What annoys him: AI patterns everywhere, like "oh, it's not this, it's this", especially on Reels. Open question: are those patterns just more noticeable now, and "are we adopting the language of AI or is AI adopting the language of us?"
+- **ejemplos:** "it's not this, it's this" pattern
+- **cita:** "are we adopting the language of AI or is AI adopting the language of us"
+- **terminos:** abstracted up a layer
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-153
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 20:25–22:29, 2026-02-12
+- **tension:** Matiza U-012-164 (don't give AI control over your craft): here AI writing is acceptable if the person controls the ideas.
+
+## U-012-193
+- **tipo:** término-acuñado
+- **titulo:** The swap test: if you can swap creator and creation without losing value, AI can replace it; if value is tied to who made it, that's your moat
+- **desarrollo:** "The last defensible moat is you" — the core insight of the video. The swap test, his name, tells whether AI can replace you specifically: "If you can swap the creator and the creation without it losing value, AI can replace it. If the value is tied to who made it, that's your moat."
+- **ejemplos:** A generic stock photo is swappable; a photograph from a famous photographer isn't (value in her eye, choices, reputation). A generic productivity blog post is swappable; an essay by someone whose journey you've followed for years isn't — it doesn't hit the same if AI randomly hands it to you.
+- **cita:** "If the value is tied to who made it, that's your moat."
+- **terminos:** swap test, the last defensible moat is you
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-191
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 21:46–23:17, 2026-02-12
+- **tension:** ninguna
+
+## U-012-194
+- **tipo:** framework
+- **titulo:** Five things AI cannot replicate: perspective, energy signature, sensemaking, trajectory, evolving taste
+- **desarrollo:** (1) Perspective: "AI can think about your perspective but it cannot think from it" — it can analyze being a first-generation immigrant building a creative career but cannot be one; perspective is shaped by beliefs, experiences, "your wounds, your wins"; AI has none because "it has no stakes". (2) Energy signature: the human ability to select what to focus on and why it matters to you; two people on the same topic feel completely different; "AI can mimic the style but it cannot mimic care". (3) Sensemaking: AI processes information but can't decide what it means, frame, prioritize, or say this matters and this doesn't; sensemaking requires stakes; "AI does not die". (4) Trajectory: you have past, present, future, a story arc; AI has no trajectory, mortality or "temporal compression". Even if we solved immortality, this moment still passes and can't be redone, so he doesn't think immortality makes life meaningless; when you create, you create from right now and then it's gone. (5) Evolving taste: if he tells AI to write like him and reads it, he no longer wants to write about that — his taste instantly changed; AI doing that would loop infinitely "and then it'd explode". You grow, change, look back and think your work sucks.
+- **ejemplos:** first-generation immigrant; AI writing "like him"
+- **cita:** "AI can think about your perspective but it cannot think from it"
+- **terminos:** perspective, energy signature, sensemaking, trajectory, evolving taste, stakes, temporal compression
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-012-193
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 23:17–25:18, 2026-02-12
+- **tension:** ninguna
+
+## U-012-195
+- **tipo:** término-acuñado
+- **titulo:** Intellectual signature: the ideas most important to you that you connect and synthesize into a unique style of content
+- **desarrollo:** Related to energy signature, he posted a Substack article with a prompt to find your "intellectual signature": "what ideas are the most important to you that you can pull together, connect, synthesize to create this unique style of content". For those on the content creator or "thought leadership" route (he hates the word) who like deep ideas and want to share them.
+- **ejemplos:** ninguno
+- **cita:** ninguna
+- **terminos:** intellectual signature, energy signature
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-194
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 23:55, 2026-02-12
+- **tension:** ninguna
+
+## U-012-196
+- **tipo:** framework
+- **titulo:** The post-labor / post-AI skill stack as a hierarchy: agency → taste → perspective → persuasion → technical know-how
+- **desarrollo:** He previously listed marketing, sales, writing, speaking; now he abstracts higher: "more of a skill hierarchy than... a list of skills". These aren't career-specific skills because "you aren't going into a specific career" — they are human skills, "uncovering what your nature is and how to lean more into it". Order: (1) agency, the meta-skill; (2) taste; (3) perspective; (4) persuasion; (5) technical know-how (software, AI). They're ordered deliberately: "umbrelled under one another, and one comes before the other". Each is detailed in the following units.
+- **ejemplos:** ninguno
+- **cita:** "this is more of a skill hierarchy than it is just a list of skills"
+- **terminos:** post labor skill stack, post AI skill stack, skill hierarchy, human skills, meta-skill
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-194
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 25:18–26:50, 2026-02-12
+- **tension:** Supersede/abstrae el "million dollar skill stack" de U-012-031 (code, content, writing, marketing...).
+
+## U-012-197
+- **tipo:** definición
+- **titulo:** Agency, the meta-skill: the ability to act without permission or prompting — practiced through the three generators and rejecting the default path
+- **desarrollo:** Agency is "the ability to act without permission or prompting": creating your own story, setting your own trajectory, not waiting to be told what to do or who to be. It's the meta-skill because it allows you to develop all others; "without agency, you're just following someone else's path. And that path is being automated." Practice via the three generators: struggle (deliberate choices, reject conformity, choose your problems), status (money as fuel for agency), curiosity (filter signal from noise, follow your threads instead of copying the last person on a trend — "how do you think you create trends?"). Starting point (also in his video "the most important skill to learn in the next 10 years"): reject the default path — school, job, retire at 65, "that's over"; try something new; take one step even if you don't think it's right; make a mistake; correct it.
+- **ejemplos:** ninguno
+- **cita:** "Without agency, you're just following someone else's path. And that path is being automated."
+- **terminos:** agency, meta-skill, default path
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-196
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 26:50–28:17, 2026-02-12
+- **tension:** ninguna
+
+## U-012-198
+- **tipo:** definición
+- **titulo:** Taste, the skill of discernment: the infinite library and infinite monkeys show curation matters more than creation
+- **desarrollo:** Why taste matters: the infinite library problem — a library containing every possible permutation of words would be meaningless, worthless, with "no opinion worth looking at". The infinite monkey problem — infinite monkeys typing for a billion years eventually produce Shakespeare, but what's it worth? It took a billion years and they don't know what they wrote; "it doesn't mean anything". Insight: "curation matters more than creation" — select what matters and share it with another person. How to develop taste: by building — creating, curating, putting things out, seeing if it works; make decisions (agency), see what works and what doesn't, iterate.
+- **ejemplos:** infinite library; infinite monkeys and Shakespeare
+- **cita:** "curation matters more than creation"
+- **terminos:** taste, discernment, curation, infinite library problem, infinite monkey problem
+- **origen:** propia (applies well-known thought experiments, unattributed)
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-197
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 28:17–29:33, 2026-02-12
+- **tension:** ninguna
+
+## U-012-199
+- **tipo:** definición
+- **titulo:** Perspective: expanding human capacity through ego/perspective development — less conformist, ideological, dogmatic
+- **desarrollo:** Perspective is "expanding your human capacity". He links it to the levels of ego development ("synonymous with perspective development") discussed before. As perspective develops you open up: less conformist, less ideological, less dogmatic, less stuck in a bubble; you can hold complexity and contradiction, see systems, understand nuance. This allows "genuine agency and sophisticated curation": if your mind is narrow, it contains only narrow opportunities and ideas; "you can't create something unique if you're extremely dogmatic". He announces a next video on "how to think like a genius" and "five-dimensional thinking", "because many people don't think at all".
+- **ejemplos:** ninguno
+- **cita:** "you can't create something unique if you're extremely dogmatic"
+- **terminos:** perspective, levels of ego development, five-dimensional thinking
+- **origen:** propia (references ego-development levels without naming a source)
+- **nivel:** avanzado
+- **prerrequisitos:** U-012-198
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 29:33–30:25, 2026-02-12
+- **tension:** ninguna
+
+## U-012-200
+- **tipo:** definición
+- **titulo:** Persuasion: the ability to make people care about what you do — learned by doing marketing, sales, copywriting and building on social
+- **desarrollo:** Persuasion is "the ability to make people care about what you do". A huge problem for creatives: they put enormous effort into something — an author works 10 years on a book and nobody sees it; "it's worthless". To learn: study marketing, sales, probably copywriting, and build on social media; doing things that require persuasion, making mistakes, learning new techniques, trying again — "that's just how you learn".
+- **ejemplos:** author whose 10-year book goes unseen
+- **cita:** ninguna
+- **terminos:** persuasion
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-196
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 30:25–31:11, 2026-02-12
+- **tension:** ninguna
+
+## U-012-201
+- **tipo:** definición
+- **titulo:** Technical know-how: the vessel — currently mostly AI tools; learn new tools
+- **desarrollo:** The fifth skill: using the tools available — "the vessel for how you're doing what you're doing", the practical thing to start from the ground up; right now mostly AI tools: try Claude, ChatGPT, Claude Code, Manus, etc. Promo for Eden (his product): a drive that handles busy work so you can focus on creative work — store files, footage, videos, paste social links to be transcribed, ask the agent to e.g. pull all his YouTube videos into a research document; "projects" for writing a newsletter with sources (like NotebookLM, all in one place). His claimed differentiator: other tools lack the drive foundation for team sharing (vs dragging, copying, pasting; Claude local files or Google Drive connection).
+- **ejemplos:** Eden agent creating a research doc; 7-day email sequence from company knowledge
+- **cita:** ninguna
+- **terminos:** technical know-how, vessel, Eden
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-012-196
+- **fuente:** The Future Of Work (& The New High-Income Skill Stack).md, 31:11–32:57, 2026-02-12
+- **tension:** ninguna
+
+# Fuente: How To Become So Valuable AI Can Never Replace You.md (2026-06-28)
+
+## U-012-202
+- **tipo:** argumento
+- **titulo:** The anti-AI identity is a way to feel like you're making a difference without changing behavior; the real threat is dependence on others for survival
+- **desarrollo:** If you listen to loud people on social media (or YouTube titles like his own), it feels like all jobs will be gone in 5 seconds. You may adopt "the anti-AI ideology as your new identity", screaming that you hate AI so you feel you're making a difference "without actually changing your behavior or broadening your skill set or adapting". "AI isn't the threat that you think it is. The real threat is what it's always been. You are dependent on everyone but yourself for your survival and well-being." Employers and governments have their own survival; when threatened, "they drop to a lower level of thinking" and usually fire you — human nature; blindly trusting them to care means disappointment. AI is too big to control by crying about it; posting won't stop job losses (he doesn't argue whether they'll happen) or stop the skills required for success from changing. "You can't just have the same skill for your entire life"; you must evolve and adapt, otherwise "you don't have any room to cry about it". He prefaces that he speaks to a specific individual, not people in circumstances with less control.
+- **ejemplos:** ninguno
+- **cita:** "You are dependent on everyone but yourself for your survival and well-being."
+- **terminos:** anti-AI ideology
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 0:00–1:33, 2026-06-28
+- **tension:** ninguna
+
+## U-012-203
+- **tipo:** definición
+- **titulo:** Wage slavery: meaningless grind work you didn't choose, for someone else, just to survive
+- **desarrollo:** "Wage slavery is doing meaningless grind work you didn't choose for someone else just to survive." He is not anti-job: jobs are "very worthy stepping stones for skill acquisition and experience". To the person who says "I actually like my job": he's not speaking to them, and partially thinks they're lying "to avoid facing your potential while simultaneously being unconscious of your potential". He speaks to those who understand the psychology of true enjoyment and can't stand one-third of life doing unchosen work, one-third mentally exhausted, one-third asleep, for 40+ years.
+- **ejemplos:** ninguno
+- **cita:** "Wage slavery is doing meaningless grind work you didn't choose for someone else just to survive."
+- **terminos:** wage slavery, stepping stones
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 2:13–3:04, 2026-06-28
+- **tension:** ninguna
+
+## U-012-204
+- **tipo:** principio
+- **titulo:** Enjoyment comes from living at the edge of your abilities: a challenge just above your skill — the video game quest analogy
+- **desarrollo:** "Enjoyment, meaning, and fulfillment come from living at the edge of your abilities." He says it's "pretty well studied" but jokingly refuses to cite sources ("I made it up picture"). Enjoyment comes from a challenge just above your skill: not so hard you get anxious, not so easy you get bored. Video games exploit this: quests are just challenging enough; a level-one character on a level-100 quest would die immediately, hate the game and quit. This is "the single greatest driving factor of getting into the flow state"; if your life structure increases the likelihood of this flow trigger, you have abundant enjoyment.
+- **ejemplos:** level 1 character on a level 100 quest
+- **cita:** "enjoyment, meaning, and fulfillment come from living at the edge of your abilities"
+- **terminos:** edge of your abilities, flow state, flow trigger
+- **origen:** propia (presents flow research without citing sources)
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 3:04–3:44, 2026-06-28
+- **tension:** ninguna
+
+## U-012-205
+- **tipo:** historia
+- **titulo:** At the web design agency, the author started skipping the gym — exhausted from doing nothing in a cubicle
+- **desarrollo:** After a few months in a job, once trained, the challenge plateaus: clock in, do tasks, clock out — and you're somehow exhausted. At the web design agency, while desperately trying to get out, he stopped wanting to go to the gym although health and fitness had been a lifelong love; the first time he skipped was after work, exhausted from sitting in a cubicle all day — "the fluorescent lights above me were just sucking the life out of me". You get bored; it's against your nature; attention shifts to "what else could I be doing?", which for most means opening the phone and "rotting your brain". Rarely does a job require consistent skill improvement to match greater challenge.
+- **ejemplos:** fluorescent-lit cubicle
+- **cita:** "the fluorescent lights above me were just sucking the life out of me"
+- **terminos:** plateau
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-012-204
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 3:44–4:27, 2026-06-28
+- **tension:** ninguna
+
+## U-012-206
+- **tipo:** concepto
+- **titulo:** Job, career, calling as levels of purpose; in a career you don't control the goal — and the five drivers of flow are missing
+- **desarrollo:** "You have job, career, calling, each different level of purposes." With a career you can climb higher, but "you're not the one in control of the goal", so not in charge of the level of challenge or what it represents — like being told which quest to pursue when you want to be on the other side of the map. You aren't working on your own projects. "Curiosity, passion, purpose, autonomy, mastery, those are the five drivers of the flow state", and in a career or job you're much less likely to have any of them.
+- **ejemplos:** video game quest on the other side of the map
+- **cita:** "curiosity, passion, purpose, autonomy, mastery, those are the five drivers of the flow state"
+- **terminos:** job, career, calling, five drivers of the flow state
+- **origen:** propia (drivers of flow presented without source)
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-204
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 4:27–5:00, 2026-06-28
+- **tension:** ninguna
+
+## U-012-207
+- **tipo:** argumento
+- **titulo:** Civilization was built by tribes enslaving tribes; the dynamic abstracted into employment — society as a pyramid scheme you leave by creating your own hierarchy
+- **desarrollo:** "Civilization was quite literally built by tribes enslaving other tribes. That dynamic never disappeared. Instead, it abstracted into employment, law, and culture." Society "has essentially become a pyramid scheme because there are more people at the bottom than at the top"; it's mathematically impossible for everyone to be at the top: one boss, multiple employees dependent on the boss for survival. You must leave this pyramid/hierarchy behind — not hierarchies altogether, but "you're going to create your own".
+- **ejemplos:** ninguno
+- **cita:** "Society has essentially become a pyramid scheme because there are more people at the bottom than at the top."
+- **terminos:** pyramid scheme, create your own hierarchy
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-203
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 5:00–5:48, 2026-06-28
+- **tension:** ninguna
+
+## U-012-208
+- **tipo:** argumento
+- **titulo:** Industrial standards (specialize, high-paying job) leave you blind to the system that pays you — and the stress loop narrows the mind
+- **desarrollo:** Most were raised with industrial standards: become a specialist, study one domain hard, get a high-paying job so friends think you're successful. So you stayed blind to most of the process: you understood the one skill, "but you didn't try to understand the system that paid you"; you didn't dedicate time to other domains, so "all you know is how to fill a role in someone else's thing", and your ability to think is crushed. Even if smart in your skill and decently paid, you don't feel financially stable, so you get caught in a chaotic stress loop; "stress narrows the mind", making a life of building your own thing unfathomable. Stuck in the thirds (sleep, work, exhausted), you have no capital saved, no time or energy for personal development, and are too tired "spiritually, not just physically" to re-educate yourself, because most of your waking life fuels someone else's vision.
+- **ejemplos:** ninguno
+- **cita:** "you didn't try to understand the system that paid you"
+- **terminos:** industrial standards, stress loop
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-207
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 7:39–8:54, 2026-06-28
+- **tension:** ninguna
+
+## U-012-209
+- **tipo:** principio
+- **titulo:** How you survive mass replacement: build your own thing, commit, accept no other option — accept trial and error (reality) as your god
+- **desarrollo:** "That's how you survive mass replacement... you build your own thing and you commit to it and you accept no other option." How you accept no other option: "you just accept trial and error as your god. Reality as your god, because that's what God is, is reality." He acknowledges this will be "extremely misinterpreted".
+- **ejemplos:** ninguno
+- **cita:** "you just accept trial and error as your god"
+- **terminos:** trial and error as your god, reality as your god
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-208
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 8:12–8:54, 2026-06-28
+- **tension:** ninguna
+
+## U-012-210
+- **tipo:** argumento
+- **titulo:** Slaves don't know they're slaves: the financial definition of slavery and why identification with your job triggers a threat response
+- **desarrollo:** "The problem is that slaves don't know their slaves." This goes beyond wage slavery: "we are all slaves, usually to ideology and belief systems". Slavery is about force; we think of the physical version, but wage slavery is financial: "if you cannot stop showing up to work without catastrophe and if you have no skills to create alternatives, you meet the definition of a slave, no matter if your feelings tell you otherwise". Worse, if you've identified with your job, you'll take this as an attack: your identity, "your mental body", trying to preserve its survival; you feel a threat response with no physical threat present; wanting to argue "only proves my point further".
+- **ejemplos:** ninguno
+- **cita:** "slaves don't know they're slaves"
+- **terminos:** mental body, threat response, financial slavery
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-203
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 8:54–9:45, 2026-06-28
+- **tension:** ninguna
+
+## U-012-211
+- **tipo:** principio
+- **titulo:** "If you don't create a routine, you will be assigned one" (from The Art of Focus)
+- **desarrollo:** Opening point two with a quote from his tweet and book The Art of Focus: "if you don't create a routine, you will be assigned one". Most people have been trained to learn things they don't want, to get a job they don't care about, working for people they'd never associate with. AI, technology and social media have accelerated our understanding that there is more than the default path — seeing people do it on social media is sign enough it's possible; AI gives individuals more leverage than ever; and people are tired of "the sheer meaninglessness of modern life".
+- **ejemplos:** ninguno
+- **cita:** "if you don't create a routine, you will be assigned one"
+- **terminos:** default path
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 9:45–10:23, 2026-06-28
+- **tension:** Paralelo a U-012-051 ("if you don't create a goal you will be assigned one").
+
+## U-012-212
+- **tipo:** framework
+- **titulo:** The five ingredients of success (to become future-proof): agency, taste, persuasion, persistence, iteration
+- **desarrollo:** These allow meaningful work even if all jobs are hypothetically replaced. (1) Agency: "the ability to just do things without permission", to see an opportunity and act when nobody asked. (2) Taste: "the experience to know what's worth putting out into the world". (3) Persuasion: the skill to get people to care about what you do — "not to be confused with manipulation". (4) Persistence: "the understanding that mistakes do not equal death and that they are necessary". (5) Iteration: "the process of error correcting toward a goal based on feedback" — if it doesn't work, learn and pivot until success. They must be combined and used together. They boil down to two skills: "the ability to figure it out and the experience to know what needs to be done".
+- **ejemplos:** ninguno
+- **cita:** "the five ingredients actually boil down into two skills, which is the ability to figure it out and the experience to know what needs to be done"
+- **terminos:** five ingredients of success, agency, taste, persuasion, persistence, iteration, future proof
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 10:23–12:33, 2026-06-28
+- **tension:** Variante del skill stack de U-012-196 (agency, taste, perspective, persuasion, technical know-how): aquí perspective y technical know-how son reemplazados por persistence e iteration.
+
+## U-012-213
+- **tipo:** advertencia
+- **titulo:** "High agency" is a tech-bro buzzword; copying it signals low agency, and agency alone isn't enough
+- **desarrollo:** Everyone is obsessed with being high agency; it's a buzzword tech bros popularized, copying each other because telling people to be high agency goes viral — "them just doing that alone signals that they're not high agency, they're low agency". Agency matters (initiating action toward a goal distinguishes many entrepreneurs) but "it's not the only one thing". Also, theory and tweets about becoming high agency won't make you more high agency; agency, taste, persuasion, persistence and iteration "aren't your typical high value skills that you can go and watch a YouTube video about" — "the only way to practice them is to start doing your own thing".
+- **ejemplos:** ninguno
+- **cita:** "Theory, and tweets about becoming high agency will not make you any more high agency."
+- **terminos:** high agency
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-212
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 11:10–12:33 and 16:00–16:43, 2026-06-28
+- **tension:** ninguna
+
+## U-012-214
+- **tipo:** fuente-de-tercero
+- **titulo:** Quote from the David Senra podcast: AI is great at asset creation, but hit creation is not asset creation
+- **desarrollo:** He plays a clip he saw from the David Senra podcast (he never watched the podcast; speaker not named in transcript): AI is great at asset creation, but hit creation isn't asset creation; asset creation is "a necessary but insufficient condition for hit creation". Anyone could make a video game five years ago; the tech is commoditized; thousands of mobile games come out a year, and only 0 to 5 hits — made by the speaker's team. The author's interpretation: anyone can build or write anything, so the barrier to entrepreneurship ("the antidote to wage slavery") is lower than ever, "but that doesn't matter".
+- **ejemplos:** mobile games: thousands released, 0–5 hits per year
+- **cita:** "Asset creation is a necessary but insufficient condition for hit creation."
+- **terminos:** asset creation, hit creation
+- **origen:** de-tercero:guest on the David Senra podcast (unnamed)
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-212
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 12:33–13:29, 2026-06-28
+- **tension:** ninguna
+
+## U-012-215
+- **tipo:** dato
+- **titulo:** With agentic AI, app releases are at an all-time high while reviews and apps with significant usage go down
+- **desarrollo:** He shows a graph (not reproducible from the transcript): with agentic AI ("a genti" in transcript) there have been more app releases than ever, but app reviews and apps with significant usage go down. You can build an app now — ask Claude "I have this idea, how do I start?"; the first iteration won't one-shot Notion or Salesforce; you improve, iterate, fail, get users, things break, you don't quit, you ask it to fix things, and eventually you have something very good even if built only by AI — and if it's valuable, it's valuable, vibe-coded or not. But apps go up while usage stays the same because people lack the five ingredients: no taste (don't know what to build), no persistence, no iteration on feedback (low usage is obvious feedback), no persuasion/distribution (can't get it into hands or make people care enough to use and pay). "Agency is only so much."
+- **ejemplos:** asking Claude to build an app iteratively
+- **cita:** "Agency is only so much."
+- **terminos:** vibe coded, distribution
+- **origen:** propia (graph source not stated)
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-214
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 13:29–14:38, 2026-06-28
+- **tension:** ninguna
+
+## U-012-216
+- **tipo:** argumento
+- **titulo:** Small-scale software will be the new info product
+- **desarrollo:** He recommends building software (fun, addictive with Claude Code) because "this is where products are going, especially for solopreneurs, creators, one person businesses. It used to be info products. I think smallcale software will be the new info product." Info products dominated because (1) the barrier to entry was low and (2) their structure is valuable — education is valuable "no matter how much of a scam you think info products are". Software is the same: its structure packs a lot of value; "it's just this clay that you get to mold". Limit: not everyone will build their own apps — like Uber Eats: if you don't cook your own food, why would you build an app without a reason? The problem remains: you can build anything, but (1) it may not be worth building, (2) people may not care, (3) you may lack the ability to iterate and persist per feedback until it is.
+- **ejemplos:** Uber Eats analogy
+- **cita:** "smallcale software will be the new info product"
+- **terminos:** small-scale software, info product
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-215
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 14:38–16:00, 2026-06-28
+- **tension:** ninguna
+
+## U-012-217
+- **tipo:** historia
+- **titulo:** The $300 mattress-company website that made the author unemployable
+- **desarrollo:** "The antidote to employment is becoming unemployable." His first web design client while trying to leave the agency job paid $300: a local mattress company wanting a site to show mattresses (not even e-commerce). (Contrast: his girlfriend just landed her first nutrition coaching client for $2,500.) The $300 was the moment it clicked: if he could repeat, improve and iterate on what made that money, he'd gain more control over lifestyle and future. "It made me unemployable": a deep conviction he'd never accept a job again and would fend for his own survival. But the money was just the checkpoint/milestone; it doesn't account for the identity change that led him to believe he could do it, and further.
+- **ejemplos:** $300 mattress website; $2,500 nutrition coaching client
+- **cita:** "The antidote to employment is becoming unemployable."
+- **terminos:** unemployable
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 16:43–18:06, 2026-06-28
+- **tension:** ninguna
+
+## U-012-218
+- **tipo:** principio
+- **titulo:** Behavior change equals identity change: without adopting the values of who you want to become, you regress
+- **desarrollo:** First action: "hurl yourself into an environment that forces growth"; the fastest way to change your life is to rip yourself out of your physical and digital environment overnight — places, accounts followed, info consumed. "Behavior change equals identity change." You can diet and lose 30 lbs, but if you're not a person who values health and enjoys the process, you'll always feel like you're running uphill and, like most people, gain it all back "unless you fundamentally change who you are". If you don't adopt now the values of the person you want to become — by hurling yourself into a new environment and reconditioning your mind — you'll regress to who you were.
+- **ejemplos:** dieting and regaining 30 lbs
+- **cita:** "Behavior change equals identity change."
+- **terminos:** environment that forces growth, reconditioning
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 18:06–19:24, 2026-06-28
+- **tension:** ninguna
+
+## U-012-219
+- **tipo:** proceso
+- **titulo:** How your identity was shaped: family and culture, school, information exposure, then the phone
+- **desarrollo:** To recondition, understand how identity was formed: (1) born into a family and culture with specific values — indoctrinated even if not forced; (2) went to a school with specific values, taught by teachers with specific values; (3) exposed to an absurd amount of information that may have shifted values toward rebellion, laziness, victimhood or success (some people "magically" end up successful because they unknowingly surrounded themselves with the right people); (4) got a phone, and conditioning increased exponentially thanks to social media and "our monkey brains not being able to control ourselves". He says there's more to the process.
+- **ejemplos:** ninguno
+- **cita:** ninguna
+- **terminos:** conditioning
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-218
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 19:24–20:51, 2026-06-28
+- **tension:** ninguna
+
+## U-012-220
+- **tipo:** argumento
+- **titulo:** Imitation is necessary; conditioning becomes bad only when behavior isn't conducive to the life your core is calling for
+- **desarrollo:** The conditioning process isn't bad; "imitation is necessary". Against "authenticity bros" who claim they don't imitate: you walk on two feet, speak English and live in a house — "you imitate because you learn". If you want to be "super authentic", start walking on four legs and see whether you're cast out of your group and whether you can survive. Conditioning becomes bad "when your behavior isn't conducive to the life that your core or that voice inside you is calling out for" — the whisper that "you're meant for more", felt especially in a fluorescent-lit cubicle.
+- **ejemplos:** walking on four legs
+- **cita:** "You imitate because you learn."
+- **terminos:** authenticity bros, voice inside you
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-219
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 20:51–21:44, 2026-06-28
+- **tension:** Matiza el énfasis en autenticidad de U-012-122 (Kevin's tweet): autenticidad no excluye imitación.
+
+## U-012-221
+- **tipo:** ejercicio-del-autor
+- **titulo:** Flip the switch overnight: for at least a day, do nothing the same
+- **desarrollo:** To begin reconditioning: become incredibly conscious of all stimuli, since all of it feeds into who you are. "You wake up tomorrow and you do nothing the same for at least a day": set your alarm for a different time; plan exactly what you'll do when you wake up, different from usual; eat different foods; talk to different people; consume different content — everything. This video itself is meant as a change in environment; fill yourself with more such material (books, other YouTubers), not "entertaining yourself to death on a dopamine feed".
+- **ejemplos:** ninguno
+- **cita:** "you do nothing the same for at least a day"
+- **terminos:** flip the switch
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-218
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 21:44–22:20, 2026-06-28
+- **tension:** ninguna
+
+## U-012-222
+- **tipo:** principio
+- **titulo:** Choose a vessel where feedback is as close to reality as possible: the most dangerous lifestyle is one removed from continuous trial and error
+- **desarrollo:** Called "the most esoteric" but "the single most important thing". "The most dangerous lifestyle is one removed from continuous trial and error." Being removed from error correction removes you from challenge, discovery and hard-earned wisdom, which lead to growth and fulfillment. Applies not only to jobs (challenge normalizes) but to entrepreneurs who carry over the employee mindset — always needing to be told what to do or a handbook to feel confident. Many entrepreneurs aren't engaged in trial and error, "this very enjoyable process that truly leads to success".
+- **ejemplos:** ninguno
+- **cita:** "The most dangerous lifestyle is one removed from continuous trial and error."
+- **terminos:** vessel, error correction, employee mindset
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-209
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 22:20–23:10, 2026-06-28
+- **tension:** ninguna
+
+## U-012-223
+- **tipo:** argumento
+- **titulo:** How was the first rocket built? Through trial and error you can do anything within the laws of physics; intelligent systems course-correct
+- **desarrollo:** How did people figure out the very first thing, before how-to guides and step-by-step processes people are obsessed with ("Give me the step-by-step bullet points... and I'll do it. No, you won't.")? Was there a guide for the first rocket? "Through the process of trial and error, you can do anything within the laws of physics." Successful people tried and failed, didn't let failure convince them it was impossible or disorient them into quick pleasure; they set a new direction from reality's feedback and found the needle in the haystack. "The mark of an intelligent system is that they course correct according to feedback. They have a lighthouse and they don't quit when they get blown off course." Entrepreneurship, for him, means engaging in your natural state, the process of creation, "pursuing unknown goals that demand failure to achieve" — the singular trait of highly successful individuals, for whom failure is constant, necessary and daily.
+- **ejemplos:** the first rocket; lighthouse
+- **cita:** "the mark of an intelligent system is that they course correct according to feedback"
+- **terminos:** lighthouse, course correct, unknown goals
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-222
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 23:10–25:21, 2026-06-28
+- **tension:** ninguna
+
+## U-012-224
+- **tipo:** fuente-de-tercero
+- **titulo:** Naval: code and media are permissionless leverage, the leverage behind the newly rich
+- **desarrollo:** Third step: learn one of two skills. Naval's quote: "code and media are permissionless leverage", the leverage behind the newly rich; you can create software and media that work for you while you sleep. The author adds: a beginner doesn't realize how much power one person has, especially with AI at its higher level (not asking ChatGPT questions or artists angry at AI) — realizing you can build almost anything. People in the Eden Discord build things they always wanted but didn't know existed; critics say they didn't learn to "actually build it", as if this weren't building. He cites a meme/reel: a corporate worker asks a vibe coder "how's your little app doing?" — it made 2 million this month. It's not about the status of learning a specific skill; "skill gatekeepers" play status games. All this was possible before AI; the core problem is that people don't understand what's possible "with a long enough time horizon and the five ingredients of success"; AI just lets you do more faster and gives access (e.g., software that would have taken much more time or cost a lot).
+- **ejemplos:** vibe coder meme; Eden Discord users
+- **cita:** "code and media are permissionless leverage"
+- **terminos:** permissionless leverage, skill gatekeepers, vibe coder
+- **origen:** adaptada-de:Naval Ravikant
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-212
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 25:21–27:13, 2026-06-28
+- **tension:** ninguna
+
+## U-012-225
+- **tipo:** argumento
+- **titulo:** Media (content) matters more than code: code's value is relatively objective ("if it works, it works"), content's value is subjective, so its skill cap keeps rising
+- **desarrollo:** He believes the media side (content: posts, videos, podcasts, writing published once and seen by thousands or millions) is more important, especially as more people try to do it all with AI. With content you need to know what good looks like; you need education AI can't give because you haven't started trial and error and "you don't know what to ask". "The value of content is subjective": every reader interprets each sentence differently, so there's "no one right way". Code's value is "relatively objective": if it works and users don't notice problems, does spaghetti code matter? (Granting debate about future breakage.) "With content, there is no works." Consequences: (1) content's skill cap will keep rising; (2) people with high content skill put code to much more use because they have distribution — without distribution, how do you get anything you build (code, woodworking, your life's work) into people's hands and get them to care? That's the skill of media.
+- **ejemplos:** spaghetti code; woodworker
+- **cita:** "With content, there is no works. There is no set result."
+- **terminos:** media, content, distribution, skill cap
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-224
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 27:13–29:28, 2026-06-28
+- **tension:** ninguna
+
+## U-012-226
+- **tipo:** fuente-de-tercero
+- **titulo:** JK Molina's "likes ain't cash" — followers matter only with trust, authority and loyalty behind them
+- **desarrollo:** Not the kind of content where someone gives Claude access to Instagram and gains 100,000 followers overnight — "practically worthless unless you have authority and loyalty and trust". (Eden can automate posting, but "that's not what we're pushing" — you still have to learn.) JK Molina's motto: "likes ain't cash" — followers and likes don't matter. Nuance: that doesn't make many followers or likes useless if trust, authority and loyalty are behind them "to any degree" — "it's not binary". "Intelligent content creation is much more than just posting rage bait."
+- **ejemplos:** Claude growing an Instagram 100K overnight
+- **cita:** "likes ain't cash"
+- **terminos:** authority, loyalty, trust, rage bait
+- **origen:** adaptada-de:JK Molina
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-225
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 29:28–30:52, 2026-06-28
+- **tension:** ninguna
+
+## U-012-227
+- **tipo:** principio
+- **titulo:** The only question that matters: what is your life's work? The personal brand is just the vessel
+- **desarrollo:** Having changed environment and chosen a vessel (content or code; he recommends content, and even code eventually requires content), answer "what is your life's work?" — "we're not building a personal brand because that is just the vessel to do the life's work". Peterson, Huberman, Alan Watts, Marcus Aurelius all have personal brands (even Watts, not trying, and no longer alive), but they're deeply aligned with purpose and vision and use social media as the best tool now — permissionless leverage. That may change (Mars, or historically newspaper, radio, TV, a book publisher — though with a publisher you still must do the work). For a beginner with no capital, social media is the obvious choice. Their brand isn't "corporate hooks, templates" but who they are — mind, worldview, beliefs, interests, experiences in public for people to explore.
+- **ejemplos:** Jordan Peterson, Andrew Huberman, Alan Watts, Marcus Aurelius
+- **cita:** "We're not building a personal brand because that is just the vessel to do the life's work."
+- **terminos:** life's work, vessel, permissionless leverage
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-225
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 30:52–32:20 and 33:07–33:44, 2026-06-28
+- **tension:** ninguna
+
+## U-012-228
+- **tipo:** ejemplo
+- **titulo:** If the author were an EDM producer: content is ideas around a mission, the music is the product; his Futureproof Summit talk as his "show"
+- **desarrollo:** If you learn media/content you can sell anything — a book without a publisher, music. He's thought about producing EDM: to get on stage he'd do what he does now — give thoughts and opinions. Musicians think they should just post their music and go viral; "No, I'm talking about the quality of ideas": choose a problem and mission, create content around it, attract people; "your music is the product that you're selling. It's not the content." A loyal fan base would come to shows and it would proliferate. At the Futureproof Summit he spoke on stage for the first time (public speaking isn't his thing; writing is; he needs to write another book) — that event is like his live show, and his content is like a musician's content.
+- **ejemplos:** EDM producer; Futureproof Summit
+- **cita:** "Your music is the product that you're selling. It's not the content."
+- **terminos:** quality of ideas
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-227
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 32:20–33:44, 2026-06-28
+- **tension:** ninguna
+
+## U-012-229
+- **tipo:** advertencia
+- **titulo:** People get stuck chasing "the best niche for six figures" instead of digging into accumulated experience they think is worthless because it's normal to them
+- **desarrollo:** Most love the idea of a personal brand/creator/YouTuber life but get stuck fast, looking for "the quick dopamine hit", searching for the best niche to make six figures, "rather than digging into the value they already have from years of accumulated experience and story that they think is worthless because it's normal to them". "The raw material for your life's work is already inside you, buried under years of being told to specialize, to be practical, to stop asking so many questions." The process isn't meant to give a novel idea but to show what you already have. Most of what makes you interesting has been trained out: curiosity treated as distraction, varied interests labeled lack of focus; "the system wanted you an obedient worker". Content only works if it comes from material that's actually yours. Within: Eden onboarding creates "your identity" so AI speaks like you ("not just voice replication... your mind").
+- **ejemplos:** ninguno
+- **cita:** "The raw material for your life's work is already inside you"
+- **terminos:** raw material, life's work
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-227
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 33:44–35:26, 2026-06-28
+- **tension:** ninguna
+
+## U-012-230
+- **tipo:** ejercicio-del-autor
+- **titulo:** Step one: excavate your raw material — three questions (answer in writing; pick the one that feels best)
+- **desarrollo:** Set aside 15 minutes; close tabs; open a blank document; answer in writing; if no answer, move on and let it sit in your subconscious. (1) "What do you know too much about for it to be an accident?" — what topic have you researched across dozens of sources for years without being paid? (2) "What problem did you solve for yourself that you assumed everyone else had figured out?" and what comes naturally to you that seems to break everyone else? — "Hint hint, that's your product": you solve a problem for yourself and then for someone else. (3) "What did you get in trouble for as a kid that was actually just early taste?" — what did you obsess over before anyone told you it was impractical? Then take one answer, the one that felt best, and start there — ignore niche and content pillars.
+- **ejemplos:** ninguno
+- **cita:** "What do you know too much about for it to be an accident?"
+- **terminos:** excavate your raw material, early taste
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-229
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 34:23–36:43, 2026-06-28
+- **tension:** ninguna
+
+## U-012-231
+- **tipo:** definición
+- **titulo:** Taste as the ability to know what is broken and not be able to pull yourself away from it
+- **desarrollo:** "Taste represents the ability to know what is broken and not be able to pull yourself away from it. It's the ability to spot the [chink] in the armor and polish it up." Not only knowing what good looks like: to create good you must know what isn't right and make it right — "that is your edge".
+- **ejemplos:** ninguno
+- **cita:** "taste represents the ability to know what is broken and not be able to pull yourself away from it"
+- **terminos:** taste
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-198
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 36:43, 2026-06-28
+- **tension:** Complementa U-012-198 (taste as discernment/curation) y U-012-212 (taste as experience to know what's worth putting out).
+
+## U-012-232
+- **tipo:** ejercicio-del-autor
+- **titulo:** Step two: name your contrarian spine — three questions about what the mainstream gets wrong
+- **desarrollo:** "Nobody needs another person repackaging common sense." Your content needs a perspective only you see, coming from "the one thing you believe that the mainstream gets wrong" — your "contrarian spine". Questions: (1) What piece of mainstream advice actively made your life worse, and what did you have to unlearn to become functional? (2) What do you believe about your domain that experts would call stupid or naive but you can't stop thinking about? (3) What is everyone in your industry pretending not to see or not talking about? The six answers (from steps one and two) "gave you the six fundamental types of posts" — the starting point of proven posts generating authority and trust rather than just chasing virality. Pick one as your first post.
+- **ejemplos:** ninguno
+- **cita:** "nobody needs another person repackaging common sense"
+- **terminos:** contrarian spine, six fundamental types of posts
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-230
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 36:02–37:59, 2026-06-28
+- **tension:** ninguna
+
+## U-012-233
+- **tipo:** proceso
+- **titulo:** Step three: post your first idea tomorrow, then learn through the failure loop (hook, body, writing vs growth)
+- **desarrollo:** "The final ingredient to mark the beginning of the end of dependence on someone else for financial stability is actually doing the thing", which starts with one post. Take one post idea; make the hook attention-grabbing; word the body for impact; "embrace that the first iteration will suck and that you can't improve what doesn't exist" — if you never post, you never improve. (He offers a prompt/skill that turns your answer into 12 angles and draft variations.) Posting puts you "in the flow of feedback, in the flow of trial and error". When the post doesn't do well, don't conclude "social media isn't for me" or "only for lucky people"; ask what didn't work and why; compare with a post that did well (hook structure, body structure). With the failure as reference point "that's when you learn the most": search YouTube/Google/ask Claude for a specific tactic (e.g., a way to write a hook), try it, see if it did better. If stuck "in the void", diagnose: is the problem how you're writing or how you're growing, or something else? (Both skills are needed.) "You just try and error and correct until you reach success." He pairs this with his video on growing on social media.
+- **ejemplos:** ninguno
+- **cita:** "you can't improve what doesn't exist"
+- **terminos:** flow of feedback, hook, body
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-232
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 37:59–40:26, 2026-06-28
+- **tension:** ninguna
+
+## U-012-234
+- **tipo:** caso
+- **titulo:** Eden: from Cortex to an AI content strategist with research, reverse engineering and scheduling; personal brand boot camp
+- **desarrollo:** Promo with product details: Eden ("the AI content strategist") now has scheduling for all major platforms — the full content workflow: research outliers on any platform, reverse engineer them and create from them; ask the AI chat to search top carousels, thumbnails or posts on any topic or creator; also usable from Claude, with the claimed unique ability to connect Claude to any creator, topic or post. The company pivoted "from Cortex to Eden to this Eden", and perception is now trending up after much work; a mobile app arrived "after three freaking years". Next personal brand boot camp starts July 8th: building a profitable personal brand in 30 days.
+- **ejemplos:** ninguno
+- **cita:** ninguna
+- **terminos:** Eden, outliers, reverse engineer
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** How To Become So Valuable AI Can Never Replace You.md, 5:48–7:39 and 35:01, 2026-06-28
+- **tension:** Evolución de Cortex (U-012-041) a Eden.
+
