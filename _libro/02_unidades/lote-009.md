@@ -1031,3 +1031,772 @@
 - **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 20:29-21:11, 2023-09-17
 - **tension:** ninguna
 
+# Fuente: Turn Your Knowledge Into A Business (How To Productize Your Mind).md (2023-11-26)
+
+## U-009-080
+- **tipo:** concepto
+- **titulo:** Labor workers vs. creative workers: earning with your time vs. earning with your mind
+- **desarrollo:** When young, Dan made "a crucial observation": "I had to earn with my mind not my time." Labor workers try to accomplish as much as their body can handle and as much time as they have; creative workers focus on solving the problems that lead to the most results regardless of time spent. Labor workers are locked into a salary and schedule paying a certain amount for their efforts; creative workers create their own salary and schedule paid "according to the level of problem they solved." There's nothing wrong with labor work, but understand you are trading time for money and your time is limited. A doctor can be paid a great salary but "is paid the same amount whether they save a life or just tell someone to take aspirin." A writer can be paid as much as they want depending on what they write, what their product is and how far the writing spreads. "The main difference between labor workers and creative workers is owning a business," because business is about solving creative problems and developing a valuable product that can sell at any time.
+- **ejemplos:** Doctor (same pay for saving a life or prescribing aspirin); engineer; writer.
+- **cita:** "a doctor is paid the same amount whether they save a life or just tell someone to take aspirin"
+- **terminos:** labor workers, creative workers, earn with my mind not my time
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 0:00-0:48, 2023-11-26
+- **tension:** ninguna
+
+## U-009-081
+- **tipo:** advertencia
+- **titulo:** When you stop solving creative problems around product and reach, income stagnates and you become a slave to the work you built
+- **desarrollo:** "As soon as you stop solving creative problems around product and reach your income stagnates and you become a slave to the work you built yourself into." Even business owners can fall back into the labor-worker trap if they stop solving creative problems. "Those that monetize their mind unlock a luxury unfathomable to those who monetize their time."
+- **ejemplos:** ninguno
+- **cita:** "those that monetize their mind unlock a luxury unfathomable to those who monetize their time"
+- **terminos:** creative problems, product and reach, self-made 9-5
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-080
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 0:48-1:39, 2023-11-26
+- **tension:** ninguna
+
+## U-009-082
+- **tipo:** historia
+- **titulo:** Dan's evolution from time to mind: freelancing became a self-made 9-to-5 he had to evolve out of
+- **desarrollo:** When Dan started, the first logical option was to freelance with a skill: it seemed beginner friendly and cost $0 to start, which was the promise of people teaching freelancing online, "and it's true." With years of manual effort the joy he got from building the business slowly declined as responsibilities increased. He could only take on a specific number of clients with limited hours. "Unless I wanted to stay at my self-made 9-5 I had to solve creative problems, I had to evolve."
+- **ejemplos:** ninguno
+- **cita:** "unless I wanted to stay at my self-made 9o5 I had to solve creative problems I had to evolve"
+- **terminos:** self-made 9-5
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-009-080
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 1:39-2:33, 2023-11-26
+- **tension:** ninguna
+
+## U-009-083
+- **tipo:** principio
+- **titulo:** Personal growth equals business growth: creativity depends on the expansion of your mind
+- **desarrollo:** "Creativity is dependent on the expansion of your mind, and this is why I always say that personal growth equals business growth." Personal growth, expanding yourself, is expanding your mind to allow for the expansion of self. Through education and exposing himself to the unknown, Dan "registered new opportunities to solve my problem." "I wasn't going to be able to solve the problem that I had from the same mind that created it." He had to explore business opportunities he wouldn't have understood or even registered as opportunities before, because he hadn't seen it possible to start a business requiring money or a skill set he didn't have — which is why he started with freelancing.
+- **ejemplos:** ninguno
+- **cita:** "I wasn't going to be able to solve the problem that I had from the same mind that created it"
+- **terminos:** personal growth equals business growth, registered new opportunities
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 1:39-2:33, 2023-11-26
+- **tension:** ninguna
+
+## U-009-084
+- **tipo:** heurística
+- **titulo:** Freelancers wanting more must break out of the freelancer mindset by educating themselves on a new business model
+- **desarrollo:** "An early lesson" for freelancers: "if you're looking for more then you have to break out of the freelancer mindset by learning and educating yourself on a potentially new business model that you want to evolve into" — the model discussed in this video.
+- **ejemplos:** ninguno
+- **cita:** "you have to break out of the freelancer mindset"
+- **terminos:** freelancer mindset
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-083
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 2:33, 2023-11-26
+- **tension:** ninguna
+
+## U-009-085
+- **tipo:** proceso
+- **titulo:** Dan's three evolutionary moves: write online for clients, build a digital product, pivot freelancing into consulting
+- **desarrollo:** (1) He began writing online to attract new clients, removing "the time suck" of manual outreach (cold email, calls, messages). (2) He built a digital product that could sell while he sleeps, removing his "absolute dependence on client work to survive." (3) He pivoted his freelance offer into a consulting offer, cutting client work time in half: "I could charge more and do less because I was helping someone rather than doing it for them." Each move solves a specific constraint of the previous model.
+- **ejemplos:** ninguno
+- **cita:** "I could charge more and do less because I was helping someone rather than doing it for them"
+- **terminos:** consulting offer, sell while I sleep
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-082
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 2:33-3:18, 2023-11-26
+- **tension:** ninguna
+
+## U-009-086
+- **tipo:** historia
+- **titulo:** The discovery: if he could gain one reader he could gain a million; one buyer, a thousand (2.8M readers, 20,000 buyers later)
+- **desarrollo:** During this period Dan made "a discovery that changed the direction of my life": "if I could gain one reader I could gain 1 million and if I could gain one buyer I could gain 1,000." "2.8 million readers and 20,000 buyers later my Discovery held true." Now his creative problem solving has evolved beyond a one-person business: he is building Cortex, which requires a team.
+- **ejemplos:** 2.8 million readers, 20,000 buyers; Cortex.
+- **cita:** "if I could gain one reader I could gain 1 million and if I could gain one buyer I could gain 1,000"
+- **terminos:** Cortex
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-085
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 3:18-4:07, 2023-11-26
+- **tension:** ninguna
+
+## U-009-087
+- **tipo:** advertencia
+- **titulo:** You can't eradicate manual labor altogether; evolution is slow and painful and sometimes you regress
+- **desarrollo:** With starting anything new you can't digest the information or workload "until your mental or work related metabolism can catch up," or you build "the muscle that allows you to lift that emotional weight." So Dan focuses on quality work, then outsourcing and delegating to gain time back. "You can't eradicate manual labor from your life altogether. It is a slow and painful evolution and sometimes you regress." Having taken on a larger company, his manual work increased substantially, but he trusts he can lower it quickly with prior experience.
+- **ejemplos:** Dan's manual work rising while starting Cortex.
+- **cita:** "you can't eradicate manual labor from your life altogether it is a slow and painful Evolution and sometimes you regress"
+- **terminos:** mental or work related metabolism
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-085
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 3:18-5:02, 2023-11-26
+- **tension:** Nuances U-009-080/U-009-081: even a mind-based business brings back manual labor at new stages.
+
+## U-009-088
+- **tipo:** metáfora
+- **titulo:** The mental body: build your mind like bodybuilding — digest information like food, acquire skill like muscle
+- **desarrollo:** "When you deconstruct the mind and body you can map patterns that deepen your understanding across most domains of life." Dan connects these patterns to the financial domain via business. Think of yourself as "a mental body that you build like you would in bodybuilding" (referencing his video "How to reprogram your mind and build your intelligence" on "mental aesthetics"): you digest information like you digest food, acquire skill like you build muscle. Building a business nowadays is "displaying your character or yourself or the mental body that you've built and constructed to be valuable over time" to create content and a product that sell. "A business is just that, a vessel for value exchange. Personal growth is self-development, business growth is other development."
+- **ejemplos:** Bodybuilding.
+- **cita:** "personal growth is self-development business growth is other development"
+- **terminos:** mental body, mental Aesthetics, vessel for Value exchange, other development
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 5:02-6:42, 2023-11-26
+- **tension:** ninguna
+
+## U-009-089
+- **tipo:** principio
+- **titulo:** The personal brand is the most potent lead-generation front end because people follow humans, not company accounts
+- **desarrollo:** A personal brand is "arguably the most potent lead generation, just front end of a business right now, because people follow humans, they don't follow company accounts." Companies don't know how to run social media; they don't have individuals as the face of the brand. Dan mentions Red Bull not posting product pictures (as an aside; the point is ambiguous in the transcript, apparently illustrating that brands avoid showing products).
+- **ejemplos:** Red Bull (ambiguous reference).
+- **cita:** "people follow humans they don't follow Company accounts"
+- **terminos:** front end of a business, lead generation
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-088
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 5:52-6:42, 2023-11-26
+- **tension:** ninguna
+
+## U-009-090
+- **tipo:** framework
+- **titulo:** The macronutrients of business: brand, content, product, promotions (mapped to fat, carbs, protein, alcohol)
+- **desarrollo:** In nutrition there are four macronutrients: fat, carbs, protein, alcohol. In business there are four pillars that determine your success, "the macronutrients of business": brand, content, product, promotions. Each is broken down later: brand is your character, content is your mindset and skill set, product is how you achieve a meaningful goal, promotions are why you achieve it. (The transcript lists both sets in the same order but does not explicitly map each nutrient to each pillar one-to-one; the only explicit mapping is carbs = content, in the "business keto diet.")
+- **ejemplos:** Nutrition macronutrients.
+- **cita:** "in business there are four pillars that will determine your success the macronutrients of business which is brand content product promotions"
+- **terminos:** macronutrients of business, brand, content, product, promotions
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-088
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 6:42-7:42, 2023-11-26
+- **tension:** ninguna
+
+## U-009-091
+- **tipo:** concepto
+- **titulo:** Micronutrients of business: skills, interests, experience, knowledge, creativity and personality determine the potency of your efforts
+- **desarrollo:** In nutrition a plethora of micronutrients are vital for bodily function; in business "there are skills, interests, experience, knowledge, creativity and personality that determine the potency of your efforts." "Your job is to fuel your business with the proper Creative Nutrition to succeed."
+- **ejemplos:** ninguno
+- **cita:** "your job is to fuel your business with the proper Creative Nutrition to succeed"
+- **terminos:** micronutrients, Creative Nutrition
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-090
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 6:42-7:42, 2023-11-26
+- **tension:** ninguna
+
+## U-009-092
+- **tipo:** metáfora
+- **titulo:** The "business keto diet": removing content and running only ads, which Dan advises against, especially for beginners
+- **desarrollo:** The "business keto diet" is like removing carbs from your diet, but removing content from your business and only going after ads (the direct response marketing route). Dan advises against doing only that: it's "clearly a very viable way of getting customers," but the benefits of content make ads-only an unreasonable approach, "especially for beginners without money to invest in making mistakes to learn advertising." With a daily writing habit: (1) you validate high-performing ideas as content to use in ads or promotions; (2) you keep the audience you acquire; (3) you aren't always burning money to acquire new customers; (4) you create customers over time by writing content for all levels of awareness.
+- **ejemplos:** Keto diet.
+- **cita:** "by just having a daily writing habit you can validate High performing ideas as content to use in your ads or promotions"
+- **terminos:** business keto diet, direct response marketing, levels of awareness
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-090
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 7:42-8:32, 2023-11-26
+- **tension:** ninguna
+
+## U-009-093
+- **tipo:** advertencia
+- **titulo:** Marketers fail at social media because their page is only promotions; you must focus on education and a broad personal brand
+- **desarrollo:** The problem: marketers try to build a social media audience but their page is just promotions, "just writing ads the entire time. That doesn't work." "You have to focus on education. You have to create customers by having a broad personal brand where you are the niche, build trust and educate them over time and then it compounds."
+- **ejemplos:** ninguno
+- **cita:** "their page is just promotions they're just writing ads the entire time that doesn't work"
+- **terminos:** create customers, you are the niche
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-092
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 8:32, 2023-11-26
+- **tension:** ninguna
+
+## U-009-094
+- **tipo:** argumento
+- **titulo:** With 1M YouTube followers every video is as powerful as a webinar; a 100K audience in a year can match hundreds of thousands in ad spend
+- **desarrollo:** With a YouTube following of 1 million, "every YouTube video is as powerful as a webinar, and if your webinar makes you seven figures then do the math." You can spend hundreds of thousands of dollars a year on ads, or build a 100,000-follower audience over a year and get the same impressions. Caveat: building 100K followers in a year is "extremely good," for people with a lot of experience doing it "almost near perfect, so don't expect that much but aim big."
+- **ejemplos:** Webinar making seven figures.
+- **cita:** "every YouTube video is as powerful as a webinar"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-092
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 8:32-9:18, 2023-11-26
+- **tension:** Compare U-009-047 (10-20K followers in the first year as a benchmark).
+
+## U-009-095
+- **tipo:** framework
+- **titulo:** Challenge vs. skill graphic: anxiety, boredom, and flow
+- **desarrollo:** Dan's graphic: challenge level on the vertical axis, skill level on the horizontal. When challenge is too high and skill too low you get anxious or self-conscious: you think about yourself and how you aren't good enough. When challenge is too low and skill too high you get bored and become self-centered ("what could I be doing better with my time"); bored at a repetitive job, not realizing you need to evolve to find fulfillment, you think all day about better things to do. When skill and challenge match you get into the flow state. (Dan doesn't name a source in this transcript.)
+- **ejemplos:** Being bored at a repetitive job.
+- **cita:** "the Middle where skill and challenge match that's when you get into the Flow State"
+- **terminos:** Flow State, challenge level, skill level
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 9:18-10:02, 2023-11-26
+- **tension:** ninguna
+
+## U-009-096
+- **tipo:** principio
+- **titulo:** As a one-person business you are the marketing, sales, operations and media department, so don't take on too much at first
+- **desarrollo:** When starting it's unwise to take on too much as a one-person business because you have to become the marketing, sales, operations and media department: "you are a media company, you're a marketing company, you're a sales company, you're everything." You can't focus only on the skill you want to sell without learning how to sell it, nor without learning how to fulfill the service after selling. To create a brand, content, product and promotions you need at least the fundamentals of marketing and sales, graphic design, web design, copywriting, content writing, email marketing, social media. "This is a blessing and a curse."
+- **ejemplos:** ninguno
+- **cita:** "you are a media company you're a marketing company you're a sales company you're everything"
+- **terminos:** one-person business
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-095
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 10:02-10:49, 2023-11-26
+- **tension:** ninguna
+
+## U-009-097
+- **tipo:** argumento
+- **titulo:** People with the most business failures eventually do so well because they stack lessons and skills from each failure
+- **desarrollo:** People who try and fail at many businesses (dropshipping, Facebook ads, social media marketing agency, etc.) eventually do very well "because they stack so much lessons and skills from their failures"; the next endeavor "just makes sense because they have all of the pieces." If you've never learned any modern skills it will take a while; you will get overwhelmed and anxious "at the thought of a future you don't have the skill to create clarity with."
+- **ejemplos:** Dropshipping, Facebook ads, SMMA.
+- **cita:** "they stack so much lessons and skills from their failures the next Endeavor just makes sense"
+- **terminos:** skill stack
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-096
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 10:49, 2023-11-26
+- **tension:** ninguna
+
+## U-009-098
+- **tipo:** definición
+- **titulo:** The business model Dan always talks about: a personal brand with a product you would personally buy, yourself as the niche, content as traffic
+- **desarrollo:** "This business model that I always talk about": just a personal brand with a product, "you and a product that you would personally buy," treating yourself as the niche and using your content as traffic to that product, making a meaningful income that way. "It's that simple."
+- **ejemplos:** ninguno
+- **cita:** "treating yourself as the niche and using your content as traffic to that product"
+- **terminos:** personal brand with a product, yourself as the niche
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 10:49-11:34, 2023-11-26
+- **tension:** ninguna
+
+## U-009-099
+- **tipo:** método
+- **titulo:** Social media is the perfect vessel to build as you learn: learn graphic design by making your own profile assets
+- **desarrollo:** "Social media is the perfect vessel to build as you learn, and that's the only way to truly learn something is to build with your learning." Example: to learn graphic design, create your profile picture, bio, banner and website featured image, learning via specific tutorials as you go. That's how you learn what you actually need to help your own business, or gain a skill to help another business.
+- **ejemplos:** Profile picture, banner, website featured image.
+- **cita:** "the only way to truly learn something is to build with your learning"
+- **terminos:** build as you learn
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-096
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 11:34, 2023-11-26
+- **tension:** ninguna
+
+## U-009-100
+- **tipo:** principio
+- **titulo:** All businesses are media companies now; if a company isn't one, your skill helps turn it into one
+- **desarrollo:** "This is all businesses are, they're all media companies nowadays. If a company isn't a media company then you need to turn them into one because that's what your skill is going to help them with" amid the "digital transformation": everyone going digital and huge company accounts having no idea how to create a social media account.
+- **ejemplos:** ninguno
+- **cita:** "they're all media companies nowadays"
+- **terminos:** media company, digital transformation
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-099
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 11:34-12:19, 2023-11-26
+- **tension:** ninguna
+
+## U-009-101
+- **tipo:** metáfora
+- **titulo:** Progressive overload of skill: add weight to the bar over time; ego lifting makes you look like an idiot
+- **desarrollo:** In bodybuilding you progressively overload the muscle by adding weight to the bar over time; if you ego lift and put on too much weight you won't be able to lift it "and you'll probably look like an idiot." Start small and build your skill stack with time. "Do not start learning until you start building." Buy courses, books and search for content teaching how to do this well "as you are building." Create one project, set one goal, learn one skill, get good at it so you have mental energy for the next, and repeat.
+- **ejemplos:** Ego lifting in the gym.
+- **cita:** "do not start learning until you start building"
+- **terminos:** Progressive overload of skill, ego lift, skill stack
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-095
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 12:19, 2023-11-26
+- **tension:** ninguna
+
+## U-009-102
+- **tipo:** proceso
+- **titulo:** Four-step skill sequence: build your profile, start writing content, ideate a product, learn to promote
+- **desarrollo:** Progressive overload sequence, each step with what to study: (1) Build your profile — study social media and graphic design for your banner and profile picture. (2) Start writing content — study copywriting, content writing, marketing and post structures. (3) Ideate a product — study marketing, sales and offer creation. (4) Learn to promote — study email marketing, promotions and copywriting again. Don't get complacent: if you don't seek a higher challenge after you stop seeing good results from the first, you will get bored; "boredom leads to thoughts of quitting because you feel like there is something better you could be doing with your time."
+- **ejemplos:** ninguno
+- **cita:** "boredom leads to thoughts of quitting"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-101
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 12:19-13:11, 2023-11-26
+- **tension:** ninguna
+
+## U-009-103
+- **tipo:** método
+- **titulo:** Learn like in the gym or as a child: observe and emulate advanced people, supplement with tutorials to filter bad form
+- **desarrollo:** "This is how you learn as a child as you're learning to walk or speak." In the gym you observe what advanced people are doing and how they lift; some just train how they like and may not use the best form, "there's a lot to actually distinguish here." So: watch, observe and emulate them, and supplement with learning via YouTube videos etc. to figure out the best form and nutrition. In business, pull inspiration from the accounts you most want to be like "because that's who you are anyways": your identity was forged by following these people online and taking in their worldview, which you like because of the results it brought your life. "This is what creativity is, pulling from a bunch of different sources in order to create your own original one," and that process repeats as the universe evolves.
+- **ejemplos:** Gym observation; a child learning to walk or speak.
+- **cita:** "this is what creativity is is pulling from a bunch of different sources in order to create your own original one"
+- **terminos:** creativity
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-101
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 13:11-14:43, 2023-11-26
+- **tension:** ninguna
+
+## U-009-104
+- **tipo:** heurística
+- **titulo:** Learn from people slightly above your skill level; don't copy what an advanced creator does now
+- **desarrollo:** Not everyone is at the same level. Dan's current Instagram bio is "just what I want to put there": he played by the rules so much and got good results that he no longer plays by them. Copying his current bio won't help you; you're better off learning from what he did when he had a specific bio tailored to the level he was at. "I don't teach how to do what I do now because that wouldn't apply to you, I teach what I did in order to get where I am." "The lesson is to just learn from people that are slightly above your skill level, progressively overload."
+- **ejemplos:** Dan's current vs. earlier Instagram bio.
+- **cita:** "I don't teach how to do what I do now because that wouldn't apply to you I teach what I did in order to get where I am"
+- **terminos:** progressive overload
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-103
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 14:43-15:22, 2023-11-26
+- **tension:** ninguna
+
+## U-009-105
+- **tipo:** término-acuñado
+- **titulo:** Time under attention: attention per piece x quantity x quality x how often ideas live in their head x effortless spread = authority, profitability and power
+- **desarrollo:** Dan says he "finally labeled this concept, I created this concept, I'm so proud of this." Formula: the amount of attention you hold with each piece of content, times the quantity of content, times the quality of content, times how often your ideas live in their head, times how much they spread your ideas without effort, equals "the authority, profitability and power your brand holds." Named after "time under tension" in weight training (how long muscles are under the tension of the weight), which some argue is a main driver of muscle growth along with progressive overload; Dan argues the same for business growth. "This is arguably the most important thing that you should pay attention to when you're building your brand or writing your content."
+- **ejemplos:** Time under tension in weight training.
+- **cita:** "time under attention is the amount of attention you hold with each piece of content times the quantity of content times the quality of content times how often your ideas live in their head times how much they spread your ideas without effort"
+- **terminos:** time under attention, time under tension
+- **origen:** propia (adapted name from weight training's "time under tension")
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-101
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 15:22-16:13, 2023-11-26
+- **tension:** ninguna
+
+## U-009-106
+- **tipo:** principio
+- **titulo:** Attention is the currency of the third millennium; information creates identity, so long-form creators have the most loyal audiences
+- **desarrollo:** "Attention is the currency of the third millennium; the more people pay attention to you the more power you have." Authors, podcasters and YouTubers often have the most loyal audiences "because information creates identity." The more attention you hold, the more information you deliver; you "program the minds of your audience" in a way conducive to changing their life, "and people attribute results to the people that change their life." You can write short posts all day, but "someone that has held more attention than you is always going to outperform you."
+- **ejemplos:** Authors, podcasters, YouTubers.
+- **cita:** "attention is the currency of the third millennium"
+- **terminos:** information creates identity, program the minds
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-105
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 15:22-16:13, 2023-11-26
+- **tension:** ninguna
+
+## U-009-107
+- **tipo:** caso
+- **titulo:** James Clear: more reach because people adopted his worldview, quote him, and he sits in the back of their minds when reading others' habit content
+- **desarrollo:** James Clear gets more engagement and reach because: (1) people have adopted his worldview; (2) people quote him in their content, newsletters and podcasts; (3) any time someone else posts a related idea, "the authority is given to him because he comes to mind while reading your content": having read Atomic Habits, when people read another piece on habits "James Clear is sitting in the back of their mind, they're internally giving James Clear more attention." A tweet holds 30 seconds of attention; a book that "lives in their head rent free" holds far more than 30 seconds or the 5 hours to read it — "it could consume days weeks months years of attention over their lifetime" depending on how well it resonated. "This is why I'm writing a book even when books are like the least profitable thing you can make directly."
+- **ejemplos:** James Clear, Atomic Habits; tweet (30 seconds) vs. book (5 hours to read, years of attention).
+- **cita:** "clear is still holding their attention while they read others content"
+- **terminos:** time under attention, rent free
+- **origen:** de-tercero:James Clear (caso citado)
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-105
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 16:13-17:50, 2023-11-26
+- **tension:** ninguna
+
+## U-009-108
+- **tipo:** historia
+- **titulo:** Dan gained 50,000 subscribers in two weeks without better-performing videos because bigger accounts mentioned and quoted him
+- **desarrollo:** Dan saw growth of 50,000 subscribers over about two weeks and had no idea where it came from since his videos weren't performing better than usual. Talking to people he learned "you're just being mentioned everywhere," in other people's YouTube videos and quotes. "These bigger accounts that are mentioning me are just giving me more authority because I help them." Illustrates the "spread without effort" factor of time under attention.
+- **ejemplos:** 50,000 subscribers in two weeks.
+- **cita:** "yeah dude you're just being mentioned everywhere"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-009-107
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 16:13-17:50, 2023-11-26
+- **tension:** ninguna
+
+## U-009-109
+- **tipo:** argumento
+- **titulo:** Short form isn't useless: time under attention without short-form reach is like holding a weight while starving
+- **desarrollo:** "This does not mean that short form posts on X, TikTok, YouTube Shorts, Instagram or LinkedIn are useless, it's the complete opposite, they have their use cases. This isn't black and white, you have to think holistically." Like bodybuilding, time under tension isn't the only driver of muscle growth: you can hold a weight a long time, but if you're starving, you won't build muscle or grow your brand. Short-form platforms attract a broad audience quicker to fuel long-form platforms, which are "arguably more difficult to grow." Dan almost always recommends starting with short form to build an audience, build a network and validate high-performing ideas to turn into long-form videos, newsletters, or a book.
+- **ejemplos:** Holding a weight while starving.
+- **cita:** "if you're just sitting there starving not eating anything are you going to build muscle are you going to grow your brand no"
+- **terminos:** time under attention, holistically
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-105
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 17:50-18:39, 2023-11-26
+- **tension:** Recommends starting with short form here, while U-009-022/U-009-071 recommend the newsletter first (in U-009-071 both together).
+
+## U-009-110
+- **tipo:** heurística
+- **titulo:** Quitting after 1-6 months is stupid: 6 months is 1% of 50 years; don't quit during the tutorial phase
+- **desarrollo:** "The longer you do it the more attention you hold. Quitting after 1 to 6 months is stupid. 1% of 50 years is 6 months. If this is the work you see yourself doing for your entire life, don't quit during the tutorial phase."
+- **ejemplos:** Video game tutorial phase.
+- **cita:** "1% of 50 years is 6 months"
+- **terminos:** tutorial phase
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 18:39-19:22, 2023-11-26
+- **tension:** ninguna
+
+## U-009-111
+- **tipo:** dato
+- **titulo:** Attention math: 365 short posts at 30 seconds = 3 hours per reader per year; 52 long posts at 20 minutes = 52 hours
+- **desarrollo:** If Dan creates 365 posts a year on all platforms and each holds 30 seconds of attention, that's 3 hours of attention held per reader on each platform per year. If he creates one long-form post a week for newsletter, YouTube and podcast (all the same piece) holding 20 minutes each, that's 52 hours of attention held per reader across platforms, versus 3 hours for short form. (Note: 52 x 20 min arithmetically equals ~17 hours per platform; the 52 hours figure appears to sum across the three platforms. Stated as in source.) So treat short-form platforms "for what they are": a way to build a broad audience faster, validate ideas, and funnel people into products and long-form content.
+- **ejemplos:** ninguno
+- **cita:** "that's 52 hours of attention held per reader for all platforms compared to 3 hours per reader for short form"
+- **terminos:** attention held per reader
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-105
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 19:22, 2023-11-26
+- **tension:** Arithmetic ambiguity noted in desarrollo.
+
+## U-009-112
+- **tipo:** heurística
+- **titulo:** For writers: start with X and a newsletter, then repurpose; writing is the most valuable skill because it's the foundation
+- **desarrollo:** For writers Dan always recommends X and a newsletter: one short-form and one long-form platform to start. When you do it long enough and see enough growth, repurpose the newsletter to YouTube, podcast, etc., and tweets to LinkedIn, YouTube community posts, Instagram, and as scripts for Reels and Shorts. "This is why writing is the most important and valuable skill you can learn because it's the foundation of all of this." Taught in 2 Hour Writer.
+- **ejemplos:** ninguno
+- **cita:** "writing is is the most important and valuable skill you can learn because it's the foundation of all of this"
+- **terminos:** repurpose
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-111
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 19:22-20:13, 2023-11-26
+- **tension:** ninguna
+
+## U-009-113
+- **tipo:** término-acuñado
+- **titulo:** Mental monetization: brand is your character, content your mindset and skill set, product how you achieve a meaningful goal, promotions why
+- **desarrollo:** "Let's turn yourself into the business or understand mental monetization": brand is your character; content is your mindset and skill set; product is how you achieve a meaningful goal; promotions are why you achieve the meaningful goal. This is the mapping of the macronutrients of business onto the self.
+- **ejemplos:** ninguno
+- **cita:** "brand is your character content is your mindset and skill set product is how you achieve a meaningful goal promotions are why you achieve the meaningful goal"
+- **terminos:** mental monetization, turn yourself into the business
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-090
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 20:13, 2023-11-26
+- **tension:** ninguna
+
+## U-009-114
+- **tipo:** definición
+- **titulo:** The self is a web of concepts, beliefs, ideas, experiences and perceptions; identity shapes perspective; perspective is your reality
+- **desarrollo:** "Your self or identity is your mental body. The self is a web of concepts, beliefs, ideas, experiences and perceptions that allow you to navigate the world." The information you learn and use since birth shapes the self. "Your identity shapes your perspective and your perspective is the most important thing you can understand and expand. Your perspective is your reality."
+- **ejemplos:** ninguno
+- **cita:** "your perspective is your reality"
+- **terminos:** self, identity, mental body, perspective
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-088
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 20:13-21:08, 2023-11-26
+- **tension:** ninguna
+
+## U-009-115
+- **tipo:** definición
+- **titulo:** A perspective is a frame of goals, problems and skill, plus beliefs, knowledge and experiences that limit or aid
+- **desarrollo:** "A perspective is a frame composed of goals, problems and skill to overcome those problems to achieve those goals. It is also composed of beliefs, knowledge and experiences that either limit or aid in the achievement of goals, solving of problems and understanding of knowledge." Consequences: when we aren't conscious of the goals composing our perspective, "we are not choosing how we act, the goals were assigned to us." If we lack skill to overcome problems toward goals, we get anxious, overwhelmed and negative "to the point of lashing out." When we don't seek to understand someone else's goal (in life, social media, politics, religion), we misinterpret their situation and think they're stupid; "in reality we lack perspective."
+- **ejemplos:** Judging others in politics, religion, social media.
+- **cita:** "when we aren't conscious of the goals that compose our perspective we are not choosing how we act the goals were assigned to us"
+- **terminos:** perspective, frame, goals, problems, skill
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-009-114
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 21:08-21:59, 2023-11-26
+- **tension:** ninguna
+
+## U-009-116
+- **tipo:** argumento
+- **titulo:** Your perspective shapes your entire brand; a brand is a perspective (goal, problem, path) offered to others — the anti-niche
+- **desarrollo:** Perspective matters because "your perspective shapes the entirety of your brand, that is your niche" (to be covered in a future video "The Anti-Niche," i.e., "the most profitable niche is you"). Break down a perspective into goal, problem, and clarity/path/skill/knowledge to achieve the goal: "that's all a brand is." You lead people toward a goal; you help them with skill set and mindset via content; you give them a system or clarity via a product. "That's turning yourself into the business, turning your mind or perspective into the business, that's earning with your mind." "Once you peel back to just what the foundation of life is, life and business becomes pretty easy."
+- **ejemplos:** ninguno
+- **cita:** "that's turning yourself into the business turning your mind or perspective into the business that's earning with your mind"
+- **terminos:** anti-niche, the most profitable niche is you
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-009-115
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 21:59-22:46, 2023-11-26
+- **tension:** ninguna
+
+## U-009-117
+- **tipo:** principio
+- **titulo:** Brand: attract people like your past or present self who share your goals and problems but lack the skill; teach those one step behind
+- **desarrollo:** "Brand is your online character or identity. The front end of a business is a brand," displayed online to attract the right people and illustrate a digital identity. Since you're turning yourself into the business, your job is to attract the people you can help most: people like you, sharing the same goals and problems as your past or present self but lacking the skill to achieve and overcome them. "You already have the knowledge, experience and skills to pass down to those who are one step behind you. That's all you need to start a business."
+- **ejemplos:** ninguno
+- **cita:** "you already have the knowledge experience and skills to pass down to those who are one step behind you that's all you need to start a business"
+- **terminos:** brand, digital identity, one step behind
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-113
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 22:46, 2023-11-26
+- **tension:** ninguna
+
+## U-009-118
+- **tipo:** método
+- **titulo:** Articulating your brand on profiles and landing pages: imply a meaningful goal, a burning problem, and the interests/skills that bridge them
+- **desarrollo:** On your website, landing page, social profiles or anywhere you articulate your brand: (1) imply a meaningful goal you help people achieve; (2) imply a burning problem you can help them solve; (3) imply the interests or skills you teach to bridge the gap between problem and goal. "This creates your digital reality": people adopt your worldview by following you; it creates "the frame that you and your customers can perceive information through" so you can exchange knowledge and skill. You don't have to state them explicitly: this is where creativity and short stories, "single sentence stories," come into play. "Your brand is created with time under attention" as people learn about you through content and products. "Brand is built with time, don't worry about this too much."
+- **ejemplos:** Dan's slogan "work less earn more enjoy life"; bio "Occasionally I write about human potential, writing and mental mastery so you can do what you want" (don't copy; different levels require different things). "Human potential" implies the problem and goal.
+- **cita:** "you don't have to State them explicitly"
+- **terminos:** digital reality, single sentence stories, imply
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-117
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 22:46-25:11, 2023-11-26
+- **tension:** ninguna
+
+## U-009-119
+- **tipo:** metáfora
+- **titulo:** Arguments with your partner come from not sharing the same perspective; marketing and content create a shared perspective
+- **desarrollo:** When you argue with your partner it's usually because you aren't sharing the same perspective: you don't have the same goal top of mind, the same problem top of mind, so you perceive the situation differently. "All of this, whether it be marketing for a product or creating content, you're trying to create a shared perspective with goal, problem, clarity to achieve it."
+- **ejemplos:** Arguing with a partner.
+- **cita:** "you're trying to create a shared perspective with Goal problem Clarity to achieve it"
+- **terminos:** shared perspective
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-115
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 23:32-24:19, 2023-11-26
+- **tension:** ninguna
+
+## U-009-120
+- **tipo:** argumento
+- **titulo:** Content becomes a necessity: the webinar that made millions can be a YouTube video with hundreds of thousands of views
+- **desarrollo:** "Content is your mindset and skill set." Content becomes a necessity once you realize its power. Marketers know the power of traffic, a list of interested customers and long-form writing or video, but many (like Dan) come to the content game late. They don't realize "the long webinar that made you millions can just be a video on YouTube that gets hundreds of thousands of views once you get the hang of the social media game." A webinar funnel is strategic, specific, more "funneled," but that doesn't rule out content's other benefits.
+- **ejemplos:** Webinar vs. YouTube video.
+- **cita:** "the long webinar that made you Millions can just be a video on YouTube that gets hundreds of thousands of views"
+- **terminos:** content game
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-113
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 24:19-25:55, 2023-11-26
+- **tension:** ninguna
+
+## U-009-121
+- **tipo:** framework
+- **titulo:** Four benefits of content: enhances thinking, it's free, it creates customers, it validates ideas fast
+- **desarrollo:** (1) You enhance your thinking: ideas become clear with time and it ripples into the rest of your life; "you can't have a great idea if you don't write a good idea first"; your first content won't be good, that's okay. (2) It's free most of the time: grow organically, or move ad spend into paid growth by connecting with big players who share your posts. (3) You create customers: unlike ads you keep your audience and can remarket at any time; as you create educational content, "people become customers because your information shapes who they are." (4) You validate and test ideas fast: a tweet that does better than usual can become a sales page headline, a YouTube title or an entire product "that I know will sell"; no need to split-test newsletter headlines or YouTube titles.
+- **ejemplos:** Turning a high-performing tweet into a headline or product.
+- **cita:** "you can't have a great idea if you don't write a good idea first"
+- **terminos:** create customers, validate and test ideas
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-120
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 25:11-27:26, 2023-11-26
+- **tension:** ninguna
+
+## U-009-122
+- **tipo:** método
+- **titulo:** Grow by leveraging people who already have the audience: slave to the algorithm vs. network with/pay audience owners instead of ads
+- **desarrollo:** "The way you grow on social media is by leveraging people that already have the audience." Two ways: be a slave to the algorithm, or find, network with and potentially pay people who have the audience you want. "That's what you're doing with ads anyways": telling Facebook "target this audience, I'll give you money." "Bypass that, pay less, go to the people that have your audience, have them share your content," attract followers who actually want to read your content, and create them into customers over time; "they don't just disappear after the ad disappears." "You can sell anything to anyone when you create that person because identities are created through information AKA content." Dan dismisses critics: "it doesn't work for them because their brand and content strategy suck." (References his video "How to build an audience with zero followers.")
+- **ejemplos:** Facebook ads targeting as paying for someone else's audience.
+- **cita:** "you can sell anything to anyone when you create that person because identities are created through information AKA content"
+- **terminos:** slave to the algorithm, paid growth
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-121
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 25:55-26:38, 2023-11-26
+- **tension:** ninguna
+
+## U-009-123
+- **tipo:** ejercicio-del-autor
+- **titulo:** Four brand questions Dan uses in Cortex to dissect a client's mind and put it on the internet
+- **desarrollo:** Dan helps people in Cortex build their brand "by dissecting their mind and putting it on the internet," starting with questions (write them in a notebook or doc): (1) What are 5-10 beliefs seen as extreme or crazy to others but normal to you? "This is what differentiates you and leads to the most growth." Dan's example: "I believe entrepreneurship is for everyone," with reasoning from psychology, mechanics, history and philosophy. (2) What are 5-10 interests or skills that help you create the lifestyle you live and help your followers achieve? (3) Why are those interests or skills important; what do they help people avoid or gain? (4) What foundational knowledge do people need about those skills or interests? This keeps you from being too advanced or high-level so you resonate. Paired with "the Ten Commandments of Engagement" (from his video "The greatest skill of the 21st century," with a PDF) and the principles of value creation, "content writing becomes pretty seamless."
+- **ejemplos:** "I believe entrepreneurship is for everyone."
+- **cita:** "what are 5 to 10 beliefs that are seen as extreme or crazy to other people but are normal to you"
+- **terminos:** Ten Commandments of Engagement, value creation, Cortex
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-117
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 27:26-28:49, 2023-11-26
+- **tension:** ninguna
+
+## U-009-124
+- **tipo:** heurística
+- **titulo:** Write so a fifth grader could understand; write with specificity for impact, not hyper-specific to one audience
+- **desarrollo:** Write so that a fifth grader could understand: not watering down, but understandable to the average reading level ("fifth grade"). A huge problem in the space: people overcomplicate wording, use niche phrases, or were told to be super specific with their audience and only talk to that audience, leaving no room to attract people who could become interested in their interests and become customers over time. "There is a way you can word it to maintain the same impact for more people." "You write with specificity for impact," because if content doesn't spread you won't reach new audiences. "You aren't only attracting people that are already interested in what you do, that's not marketing; you are making them interested through persuasion and time under attention."
+- **ejemplos:** ninguno
+- **cita:** "you aren't only attracting people that are already interested in what you do that's not marketing you are making them interested through persuasion and time under attention"
+- **terminos:** specificity for impact, fifth grader
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-105
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 28:49-29:33, 2023-11-26
+- **tension:** ninguna
+
+## U-009-125
+- **tipo:** advertencia
+- **titulo:** Trap one: focusing too much on promotions; educate 80% of the time, promote sparingly (cashing in goodwill)
+- **desarrollo:** Trap one: people focus too much on promotions or only talk about their products. Talk about your beliefs and opinions and educate people on the information necessary to become above average in your interests and skills 80% of the time. "Promote sparingly, it's like cashing in goodwill with your audience."
+- **ejemplos:** ninguno
+- **cita:** "promote sparingly it's like cashing in Goodwill with your audience"
+- **terminos:** cashing in Goodwill
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-121
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 29:33-30:22, 2023-11-26
+- **tension:** ninguna
+
+## U-009-126
+- **tipo:** advertencia
+- **titulo:** Trap two: not understanding structure versus content — a metaphysical principle; use high-performing structures as training wheels
+- **desarrollo:** Trap two: people don't understand the importance of structure versus content. "This goes far beyond writing content for business, it is a metaphysical principle" (not developed further here). For now, take your ideas and use high-performing structures and frameworks as training wheels until you develop your writing ability: look at quotes, newsletter structures, post structures and plug your ideas into them.
+- **ejemplos:** ninguno
+- **cita:** "it is a metaphysical principle"
+- **terminos:** structure versus content, training wheels
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 30:22, 2023-11-26
+- **tension:** ninguna
+
+## U-009-127
+- **tipo:** término-acuñado
+- **titulo:** Trap three: not using high-performing angles; you are a dopamine dealer, and learning-dopamine is good dopamine
+- **desarrollo:** Trap three: people don't research or use high-performing angles. "Any idea can go viral but only when it is positioned in an attention-grabbing way that entertains, educates or inspires. You are a dopamine dealer." Dopamine is not bad: if used for mindless pleasure and entertainment without action, sure, but "that's not what educators do; learning and dopamine associated with that is good dopamine." You raise readers' dopamine by teaching them something new, giving a new point of view, entertaining them or showing they are capable of more, sparking behavior change. Study your favorite accounts' most popular posts, Instagram posts and YouTube videos and "start programming your mind to think in high performing headlines."
+- **ejemplos:** ninguno
+- **cita:** "you are a dopamine dealer"
+- **terminos:** dopamine dealer, good dopamine, high performing angles, high performing headlines
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-014
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 30:22-31:15, 2023-11-26
+- **tension:** ninguna
+
+## U-009-128
+- **tipo:** principio
+- **titulo:** Good content injects your mindset and skill set into readers over 6-12 months, not in one post
+- **desarrollo:** "The lesson of content: good content occurs when you attempt to inject your mindset and skill set into your readers over the course of 6 to 12 months, not in one post."
+- **ejemplos:** ninguno
+- **cita:** "good content occurs when you attempt to inject your mindset and skill set into your readers over the course of 6 to 12 months not in one post"
+- **terminos:** mindset and skill set
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-113
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 31:15, 2023-11-26
+- **tension:** ninguna
+
+## U-009-129
+- **tipo:** principio
+- **titulo:** Product: people follow you to achieve your lifestyle; the difference between content and product is convenience, clarity and a replicable system
+- **desarrollo:** "Product is how you achieved a meaningful goal." When you are the niche, people follow you because they want the lifestyle you have or the mindset or skill set that allowed it; they want to do, speak or look like you. Like walking down the street, seeing a nice all-black shirt that fits well, finding the brand and buying it: "I kind of become a piece of that person or I integrate that piece to create who I am." You're already educating them with content; "the difference between content and product is convenience, clarity and a replicable system that gets results."
+- **ejemplos:** Seeing a stranger's all-black shirt and buying the brand.
+- **cita:** "the difference between content and product is convenience Clarity and a replicable system that gets results"
+- **terminos:** product, replicable system
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-113
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 31:15-32:02, 2023-11-26
+- **tension:** ninguna
+
+## U-009-130
+- **tipo:** ejercicio-del-autor
+- **titulo:** Four product questions: meaningful goal achieved, steps to get there, what to learn, what to practice daily
+- **desarrollo:** Questions to outline your product, with Dan's example and a potential example: (1) What is the most meaningful goal you've achieved? Dan: "I earn a living writing about my interests." Potential: "I got a six-pack without doing cardio"; "I unlocked extreme focus to build my side business." (2) What steps do people need to take to get there? Dan: write, build a readership, persuade and sell. Potential: minimalist training and intermittent fasting. (3) What do people need to learn to take those steps? Dan: social media, copywriting, content. Potential: the principles of training and nutrition. (4) What can people practice and implement in their day to get results? Dan: "the 2 hour content ecosystem." Potential: "the executive training system for busy people." "Boom, that is the outline of your product." Dan admits the examples are "kind of mediocre, you can do a lot better." (When repeating, he lists three questions, merging the learning one.)
+- **ejemplos:** 2 Hour Content Ecosystem; six-pack without cardio; executive training system for busy people.
+- **cita:** "boom that is the outline of your product"
+- **terminos:** meaningful goal, 2hour content ecosystem
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-129
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 32:02-33:36, 2023-11-26
+- **tension:** ninguna
+
+## U-009-131
+- **tipo:** definición
+- **titulo:** Unique mechanisms: a compelling name on your system makes it a novel thing that may "finally" solve the problem
+- **desarrollo:** Dan gives "fancy names" because "it's in my nature as a marketer"; these are called unique mechanisms: your system, process or steps to achieve the desired outcome; "when you slap a compelling name on it, that is a novel thing that catches attention and it makes people think oh this may finally be the thing that solves my problems for good."
+- **ejemplos:** "2 Hour Content Ecosystem"; "Executive Training System for Busy People."
+- **cita:** "this may finally be the thing that solves my problems for good"
+- **terminos:** unique mechanisms
+- **origen:** propia (término de marketing usado por el autor)
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-130
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 32:46-33:36, 2023-11-26
+- **tension:** ninguna
+
+## U-009-132
+- **tipo:** concepto
+- **titulo:** A meaningful goal solves a burning problem within human nature in the eternal markets: health, wealth, relationships and happiness
+- **desarrollo:** "A meaningful goal that you help people achieve is determined by solving a burning problem within human nature in the eternal markets: health, wealth, relationships and happiness."
+- **ejemplos:** ninguno
+- **cita:** "the Eternal markets health wealth relationships and happiness"
+- **terminos:** Eternal markets, burning problem, meaningful goal
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-130
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 33:36, 2023-11-26
+- **tension:** ninguna
+
+## U-009-133
+- **tipo:** proceso
+- **titulo:** If you haven't achieved a meaningful goal: set one, drown in knowledge, document it as content, experiment, find fundamentals, create your own way, productize
+- **desarrollo:** If you haven't achieved a meaningful goal in a unique way: (1) set a goal in one domain of your life; (2) drown yourself in knowledge and education around it; (3) document that knowledge as content: "teaching is how you learn and identify what you don't know so that you can learn efficiently, this is crucial"; (4) experiment with different techniques (training programs, diets, ways to make money); then "fourth" identify the fundamentals, truths and principles between the different techniques; (5) "fifth" achieve the goal by creating your own way of getting there; then distribute it as a digital product that sells while you sleep "with obscenely high profit margins." From there you have the resources — readership and income — to build whatever other businesses you desire. (Dan's numbering in the transcript is slightly irregular.)
+- **ejemplos:** Training programs, diets, ways to make money.
+- **cita:** "teaching is how you learn and identify what you don't know so that you can learn efficiently"
+- **terminos:** fundamentals truths and principles
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-132
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 33:36-34:19, 2023-11-26
+- **tension:** ninguna
+
+## U-009-134
+- **tipo:** principio
+- **titulo:** Promotions are why: people care about benefits, assume everyone is selfish, marketing creates the most powerful why
+- **desarrollo:** "Promotions are why you achieve the goal. People don't care about features, they care about benefits. Assume that everyone is selfish because they are, even if that selfishness comes from feeling good about themselves by being selfless. Marketing is about creating the most powerful why." "A why implies a transformation"; transformations are what people want — physique transformations get many views on YouTube; life transformations make you emotionally invested in a person. "A transformation is a story and that's what our minds are wired to be attracted to, trust and connected to."
+- **ejemplos:** Physique transformation videos.
+- **cita:** "assume that everyone is selfish because they are even if that selfishness comes from feeling good about themselves by being selfless"
+- **terminos:** promotions, why, transformation
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-113
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 34:19-35:11, 2023-11-26
+- **tension:** ninguna
+
+## U-009-135
+- **tipo:** heurística
+- **titulo:** Two ways to sell: tell people why the product will change their life, or why it changed yours (they read it as their own)
+- **desarrollo:** "You need to do one of two things: one is tell people why the product will change their life; two, tell people why it changed your life because they will read it as if they were changing theirs."
+- **ejemplos:** ninguno
+- **cita:** "tell people why it changed your life because they will read it as if they were changing theirs"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-134
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 35:11, 2023-11-26
+- **tension:** ninguna
+
+## U-009-136
+- **tipo:** framework
+- **titulo:** A story or transformation has three parts: burning problem, desirable outcome, clear solution — your entire marketing campaign
+- **desarrollo:** Dan has been marketing his own products or services "for almost 6 years," and "here's all you need to know in order to actually make money": a story or transformation is composed of (1) a burning problem, (2) a desirable outcome, (3) a clear solution. "This is a perspective; you're giving people a new mind, you're changing people's minds in order to earn with your mind. That's your entire marketing campaign: goal, problem, path to get there." Test each until you "strike gold with the right positioning," then you're set for a while. Write about each component nonstop in short content to test and validate; or, if you've already written much, look for a high-performing goal, problem and system in your content and create a product out of it: "it will sell." These three components are used whenever you ask someone to buy, in emails, landing page, IG story, YouTube promotion.
+- **ejemplos:** ninguno
+- **cita:** "you're changing people's minds in order to earn with your mind"
+- **terminos:** burning problem, desirable outcome, clear solution, positioning
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-115, U-009-134
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 35:11-36:40, 2023-11-26
+- **tension:** ninguna
+
+## U-009-137
+- **tipo:** ejemplo
+- **titulo:** Long-form promotions are a full sales page; short-form promotions are a CTA — Dan's live example for Digital Economics
+- **desarrollo:** Long-form promotions are like a full sales page: you fill the page by guiding people through the problem/outcome/solution structure (the video's introduction is an example). Short-form promotions are like a call to action in an email. Dan's live short-form example: "If you've tried the latest and greatest business models without any success and are considering accepting your fate at a day job, it's because you are falling for tactics. In Digital Economics I teach the principles of building a purposeful business — brand, content, product and promotion — so you can talk about your interests and earn a creative income. You see what I did there."
+- **ejemplos:** Digital Economics CTA; the video's intro as long-form promotion.
+- **cita:** "you see what I did there"
+- **terminos:** long form promotions, short form promotions
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-136
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 36:40-37:23, 2023-11-26
+- **tension:** ninguna
+
+## U-009-138
+- **tipo:** principio
+- **titulo:** Attract a broad audience and niche down with your product, not your audience; define your terms for beginners (80% of the market)
+- **desarrollo:** When writing promotions, understand which part of your audience you're talking to. "If you attract a broad audience you niche down with your product; you don't niche down far with your audience, you niche down further with your product to target a specific person." Understand how long they've been reading your content and whether they understand your philosophy or worldview. Common mistake: very high-level language like "manifesting a life of alignment to a peaceful being," which beginner audiences don't care about if you haven't defined "alignment" or "manifesting." "80% of the market are beginners"; they don't know what you're teaching — that's why you're teaching it. "If you haven't defined it then don't write it that way. Be straightforward, be simple, be impactful, give people what they want, don't give people what you think they want."
+- **ejemplos:** "Manifesting a life of alignment to a peaceful being."
+- **cita:** "you Niche down with your product you don't Niche down far with your audience"
+- **terminos:** niche down with your product, beginners
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-124
+- **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 37:23-38:06, 2023-11-26
+- **tension:** ninguna
+
