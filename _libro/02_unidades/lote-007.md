@@ -2077,3 +2077,800 @@
 - **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 39:44, 2022-12-18
 - **tension:** ninguna
 
+# Fuente: You Have A $100,000 Product In Your Head (One Person Business Series).md (2022-12-04)
+
+## U-007-160
+- **tipo:** argumento
+- **titulo:** Information is the new currency (not attention): information -> awareness of opportunity -> profitable ideas -> positive behavior change
+- **desarrollo:** Dan opens: attention isn't the new currency, information is, because that's all humans do: process information with the senses, store it, and use it to create or destroy. He'd like to believe the "unconscious evolution aligned intent" behind modern technology, mainly social media, is to give us information we wouldn't otherwise access, increasing our potential. Chain: information leads to awareness of opportunity; awareness of opportunity leads to profitable ideas; profitable ideas lead to positive behavior change. Manipulation of information can lead to death, destruction, scams; but the video focuses on information's good side. We live in the age of information (not the industrial age): an abundance of ideas and opportunities, and on the other side, an overwhelm of information.
+- **ejemplos:** ninguno
+- **cita:** "Information leads to awareness of opportunity. Awareness of opportunity leads to profitable ideas. Profitable ideas lead to positive behavior change."
+- **terminos:** age of information; awareness of opportunity
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** none
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 0:00-1:16, 2022-12-04
+- **tension:** ninguna
+
+## U-007-161
+- **tipo:** argumento
+- **titulo:** Everything is information; the universal goal is to increase the quality of the human experience
+- **desarrollo:** Our genetic code, the light we see, words on a screen: anything we sense is information we use to correct or change behavior (touch fire, it's hot: information to remove your hand). We process, understand, don't understand, or misunderstand it, and use it to move better in the world. So better knowledge, understanding and clarity of information lead to better decisions and potentially a life we love. Everyone has the same big goal: increase the quality of the human experience as much as possible (on social media you're trying to feel something, even bad). Thoughts, emotions and actions, all information, dictate our experience, and that experience is information in the form of feedback: "a constant information loop". (He previews a "life is a video game" video.)
+- **ejemplos:** touching fire
+- **cita:** "Everyone has the same big goal ... to increase the quality of your human experience as much as possible"
+- **terminos:** information loop; quality of your human experience
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-160
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 1:16-2:28, 2022-12-04
+- **tension:** ninguna
+
+## U-007-162
+- **tipo:** argumento
+- **titulo:** The mind tends toward disorder (entropy); structured content orders consciousness
+- **desarrollo:** The mind is a system and systems tend toward disorder because of entropy. To maintain order we must consume or receive structured, ordered information we understand. People hate what they don't understand (he admits not everything fits this): their mind isn't ordered because they don't understand the information; they're missing a side of the argument. In communication terms there is "content and there is consciousness": consciousness is our senses or sensory field; content is what we interact with and receive information from. The structure of content dictates the structure of our consciousness, ordering it "to the point of just feeling good".
+- **ejemplos:** ninguno
+- **cita:** "the structure of that content dictates the structure of our consciousness"
+- **terminos:** entropy; content and consciousness; order
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-007-161
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 2:28-3:39, 2022-12-04
+- **tension:** ninguna
+
+## U-007-163
+- **tipo:** framework
+- **titulo:** Three groups of information consumers: the distracted, the curious, and those who think new information is bad
+- **desarrollo:** (1) The distracted: most people use online information to distract themselves via argument, mainstream news, or flavor-of-the-day drama. (2) The curious: they observe this is a trap leading them down the wrong path and become curious about the opposite direction: finding good information to build their life with. (3) Those trapped in a negative cycle of consuming content telling them new information is bad, meaning courses, coaching, info products. Dan asks them to come with an open mind, or not watch: it makes no sense to "write off an epoch of existence, the age of information" because of one bad experience with a sleazy marketer or "snake oil salesman" (he mentions Liver King, though not a course seller, and avoids drama).
+- **ejemplos:** Liver King as snake-oil reference
+- **cita:** "It doesn't make sense that you would write off an epoch of existence, the age of information, just because you had one bad experience"
+- **terminos:** the distracted; the curious
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-160
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 3:39-6:32, 2022-12-04
+- **tension:** ninguna
+
+## U-007-164
+- **tipo:** concepto
+- **titulo:** Two modalities of education: formal education (trains you into employment) vs the creator economy (teaches you to do your own thing)
+- **desarrollo:** The formal education system trains you into the employment system it's directly tied to. The creator economy: people put out free information after forging a new path and teach you how to do it yourself. If you want a career of independence, you may not find it in formal education, "especially not for free online". If you think critically and find a person worth investing in, whose course teaches what they do, what they discovered as a better way, or a new internet-created career path, that's a good route. These modes teach you to do your own thing rather than someone else's. Some courses get a bad rap; many course-takers know incredible ones that can change your life.
+- **ejemplos:** ninguno
+- **cita:** "those are the modes of education that are going to teach you how to do your own thing rather than how to do someone else's thing"
+- **terminos:** creator economy; formal education
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-042
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 4:57-6:32, 2022-12-04
+- **tension:** ninguna
+
+## U-007-165
+- **tipo:** argumento
+- **titulo:** The information business as the best business model: information enables people to self-actualize (Maslow)
+- **desarrollo:** Dan proposes a system to package the information in your head valuably to help others and profit. To him there's not a better business model, though the information business is new: everything is information and the only goal is a higher quality of human experience; you don't need a mega corporation for that. If we were at peace living perfect lives we wouldn't want more. Getting more people to the self-actualized and self-transcended stage of Maslow's hierarchy of needs would put us in a better spot, because information lets people do more. With the right information he could build anything, but someone must build it first and teach him, or he must do it himself; if he's busy with his own thing, he goes to someone else for that information. Not everyone will do this, but you can; only a small fraction is even interested.
+- **ejemplos:** ninguno
+- **cita:** "If I had the right information, I could go and build whatever I want to build"
+- **terminos:** information business; self-actualized; self transcended
+- **origen:** adaptada-de:Maslow (hierarchy of needs)
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-161
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 6:32-8:41, 2022-12-04
+- **tension:** ninguna
+
+## U-007-166
+- **tipo:** historia
+- **titulo:** Cliff Notes backstory: failures, web design job, freelancing, three info products in year one, Modern Mastery, offer stack rebuild
+- **desarrollo:** He tried many business models and failed for lack of compounded knowledge and experience, losing money; got a job as a web designer; then freelanced with web design and funnels. Three years earlier he started his creator journey on Twitter, pivoted his freelance service, created his first info product and three within a year; pivoted freelancing to consulting for service-based creators (funnel consulting, marketing, offer creation) instead of web design and funnels for service businesses. In year two he was profitable, growing, and started the community Modern Mastery, bundling his existing courses inside as bonuses and as a launch device ("a very important point"). In year three, after a story of losing his phone after a drunk night (he says he was driven back home), he had a bunch of ideas and rebuilt his entire "offer STACK": Modern Mastery, Two Hour Writer course, a cohort, plus a lead magnet, "Seven Days to Genius Ideas" (his note-taking system). He has made six figures in his first year with info products, and with consulting, freelancing, almost every offer type: done for you, done with you, do it yourself.
+- **ejemplos:** Modern Mastery bundling old courses as bonuses
+- **cita:** "done for you, done with you, do it yourself"
+- **terminos:** offer stack; lead magnet; done for you; done with you; do it yourself
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** none
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 8:41-10:52, 2022-12-04
+- **tension:** ninguna
+
+## U-007-167
+- **tipo:** principio
+- **titulo:** Build products immediately: even failed products order information and clear unvalidated ideas from your head
+- **desarrollo:** Many think they shouldn't build until they have an audience; Dan is a proponent of building immediately, learned through experience: every product he built, even two that failed miserably and that he stopped selling a week after launch, gave him ordered information usable elsewhere. He got "bad" (meaning unvalidated, non-resonant) ideas out of his head and could build on top of them, "like clearing my mind". The three info products from year one that went nowhere weren't discarded; he packaged them into a new offer (Modern Mastery, two years strong). So your first product will suck; get it out and iterate.
+- **ejemplos:** two products pulled after a week; old products bundled into Modern Mastery
+- **cita:** "your first product that we're going to be talking about building, it's going to suck"
+- **terminos:** un validated; ordered information
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-064
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 10:52-12:12, 2022-12-04
+- **tension:** ninguna
+
+## U-007-168
+- **tipo:** fuente-de-tercero
+- **titulo:** Naval: "it's not 10,000 hours, it's 10,000 iterations"
+- **desarrollo:** Dan cites "Nouvel" (Naval, transcription) as saying it's not 10,000 hours, it's 10,000 iterations. His application: just build, build, build; iterate on products instead of waiting for them to be perfect.
+- **ejemplos:** ninguno
+- **cita:** "it's not 10000 hours, it's 10,000 iterations"
+- **terminos:** iterations
+- **origen:** de-tercero:Naval
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-167
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 11:47, 2022-12-04
+- **tension:** ninguna
+
+## U-007-169
+- **tipo:** framework
+- **titulo:** Brand is what you do, product is how you do it, marketing is why you do it
+- **desarrollo:** "Brand is what you do. Product is how you do it. Marketing is why you do it. Do something that improves your quality of life, teach others how you did it, and show them why they should care." Brand: has a goal you lead people toward; it is what you do daily to get toward that goal. Product: the system, method or process you used to get better results for yourself, or something you built to do what you do better; comes from experience and experimentation. Marketing: the why, which plays itself out for someone similar to you. The video's graphic: at top, knowledge and experience (valuable information) attained along the journey of self-actualization (not once you self-actualize, but along the way, documenting it); broken down into brand, product, marketing (what, how, why); which equals a one-person business, or "self-monetization".
+- **ejemplos:** freelance web design course; Modern Mastery; writing product; minimalist training (next units)
+- **cita:** "Brand is what you do. Product is how you do it. Marketing is why you do it."
+- **terminos:** brand; product; marketing; self-monetization
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-060
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 12:12-13:25, 19:11-19:47, 2022-12-04
+- **tension:** Complements the four pillars of U-007-060 (goals/brand, problems/content, systems/product, benefits/marketing).
+
+## U-007-170
+- **tipo:** ejemplo
+- **titulo:** Dan's products as "how I do it": freelancing course, Modern Mastery, the writing product
+- **desarrollo:** (1) He sold a how-to-freelance-as-a-web-designer product because he made six figures freelancing with web design and had specific processes for landing, onboarding and project-managing clients. (2) He built Modern Mastery as something he'd have used at the start of his journey: daily reminders to knock out priority tasks, a strategy library, habit challenges. (3) He sells a writing product because he writes every morning to clear his mind, build a better future, unlock career opportunities, grow on social media, network and journal; he built a 500,000+ audience with a two-hour daily writing habit and created his own templates for newsletters and tweets to systemize them; his how differs from others'.
+- **ejemplos:** as described
+- **cita:** "I had built a 500,000 plus audience across different social media platforms with a two hour writing habit a day"
+- **terminos:** two hour writing habit; templates
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-169
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 13:25-15:03, 2022-12-04
+- **tension:** ninguna
+
+## U-007-171
+- **tipo:** ejemplo
+- **titulo:** Minimalist training programs: you are the niche, so the marketing is laid out for you
+- **desarrollo:** People selling minimalist training programs are "raking in the cash": someone not super into fitness like a bodybuilder, who doesn't want to train 5-7 days but 2, researches, experiments and creates a program that gets them results. It makes sense to help others like them "because you are the niche". Being in the gym 2 hours a week and still getting results is unique. The marketing is laid out: you can market to yourself; the why: "I only have 2 hours a week to train, I still want to be fit, healthy, and work on my business". The marketing plays itself out for a person very similar to you.
+- **ejemplos:** 2-days-a-week training program
+- **cita:** "because you are the niche"
+- **terminos:** you are the niche
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-169
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 15:03-16:33, 2022-12-04
+- **tension:** ninguna
+
+## U-007-172
+- **tipo:** principio
+- **titulo:** Everyone who has productized themselves did three things
+- **desarrollo:** (1) They improved their quality of life through personal and professional development. (2) They learned necessary skills and interests along the way to increase their quality of life. (3) They started posting online regardless of how basic they thought their information was.
+- **ejemplos:** ninguno
+- **cita:** "They started posting online regardless of how basic they thought their information was"
+- **terminos:** productize yourself
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-169
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 16:05-16:33, 2022-12-04
+- **tension:** ninguna
+
+## U-007-173
+- **tipo:** ejercicio-del-autor
+- **titulo:** Three questions (plus a bonus) to brainstorm a profitable product idea
+- **desarrollo:** (1) What is the highlight of your day (writing, yoga, the gym)? What is seamless for you to do and learn about? Or what do you do for work, something you're very good at and could teach? Something you've done that you don't think is impressive, perhaps because you're so immersed in a community that has done it that it seems normal. (2) What do you do better than your peers or most people? Test it by how you justify doing it (see the Chris Bumstead example). (3) Look at who you follow and what they sell: if you follow people you learn from, some are selling something; deconstruct their landing pages and emails, reverse engineer and emulate (e.g. if you like self-improvement and online business, deconstruct Dan's; if fitness, what lets fitness people do it full time?). Bonus, for those who haven't started: be decisive; pick a path that slightly interests you and start, which gets you to knowing much faster than procrastinating; continuously learn and build according to what you learn.
+- **ejemplos:** writing, yoga, gym; deconstructing Dan's landing pages
+- **cita:** "Pick a path that slightly interests you and just start"
+- **terminos:** reverse engineer; deconstruct
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-169
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 16:33-19:11, 2022-12-04
+- **tension:** ninguna
+
+## U-007-174
+- **tipo:** ejemplo
+- **titulo:** Chris Bumstead's sacrifices as a test of genuine obsession
+- **desarrollo:** For question two, Dan cites "Chris Bromstad" (as transcribed; a Mr. Olympia competitor), who said he had to give up a normal life, staying home to cook healthy meals and not going out drinking or being tempted by junk food, because he had a mission he was dead set on with his skill set; his friends didn't get it but he knew it would lead to something great. If something like that exists in your life that you're genuinely obsessed with, why not turn it into something to help people like you?
+- **ejemplos:** Mr. Olympia competitor's lifestyle sacrifices
+- **cita:** "his friends didn't get it. But he knew that it was going to lead to something great"
+- **terminos:** obsessed
+- **origen:** de-tercero:Chris Bumstead (transcribed "Chris Bromstad")
+- **nivel:** complementario
+- **prerrequisitos:** U-007-173
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 17:36-18:08, 2022-12-04
+- **tension:** ninguna
+
+## U-007-175
+- **tipo:** definición
+- **titulo:** Self-monetization: framing your knowledge and experience online as brand, product and content to build a public resume
+- **desarrollo:** Self-monetization "is just a way of framing your knowledge and experiences online in the form of brand product content with consistent effort to put your name out there and build your own public resume". Dan clarifies he's not talking about B2B info products but productizing yourself: treating yourself as the niche, writing to yourself, building to yourself, monetizing that way. Traditional marketers dislike it, but from his results and the big players asking how, it needn't be as complicated as copywriters, marketers and salesmen make it; he's making ten times more than when following copy and sales hacks, while still using that skill set authentically for social posts and sales pages, talking to a target customer he knows well.
+- **ejemplos:** ninguno
+- **cita:** "build your own public resume"
+- **terminos:** self-monetization; public resume; productizing yourself
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-169
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 19:47-21:27, 2022-12-04
+- **tension:** ninguna
+
+## U-007-176
+- **tipo:** argumento
+- **titulo:** Build in public because you need data: starving artists get attached to their version of value
+- **desarrollo:** Building must be done in public: posting, building, publishing, launching, because you need data to know if information is valuable. "Starving artists, it's in the name": they create what they think is valuable, get attached to their version of value, and wonder why nothing sells ("this painting is beautiful"). Fine as a hobby, but full-time you play "a back and forth game with the market". Since you're trying to improve people's lives, if people don't buy, read or stay attentive, is it really valuable? If it doesn't get results, iterate and pivot.
+- **ejemplos:** starving artist's painting
+- **cita:** "you're going to have to play a back and forth game with the market"
+- **terminos:** build in public; starving artists; data
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** none
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 20:49-22:25, 2022-12-04
+- **tension:** ninguna
+
+## U-007-177
+- **tipo:** framework
+- **titulo:** Seven steps to create a profitable information product from the knowledge in your head
+- **desarrollo:** (1) Become above average in intellect, skills or interests. (2) Build something with those skills every day. (3) Document your learnings, findings or results. (4) Experiment for holistic understanding. (5) Iterate on your process for efficiency and results (SOPs). (6) Steal marketing and structure that already works; sell what's already selling. (7) Build distribution and systemize promotions. Each step is detailed in following units.
+- **ejemplos:** ninguno
+- **cita:** ninguna
+- **terminos:** information product
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-169
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 22:25-36:42, 2022-12-04
+- **tension:** ninguna
+
+## U-007-178
+- **tipo:** fuente-de-tercero
+- **titulo:** Steven Kotler: motivation gets you into the game, learning keeps you playing, creativity steers, flow turbo boosts
+- **desarrollo:** For step one, Dan quotes "Stephen Cutler" (Steven Kotler, as transcribed): motivation gets you into this game, learning helps you continue to play, creativity is how you steer, and flow is how you turbo boost results beyond rational standards and reasonable expectations. Dan uses it to frame becoming above average.
+- **ejemplos:** ninguno
+- **cita:** "Creativity is how you steer. Flow is how you turbo boost the results"
+- **terminos:** flow
+- **origen:** de-tercero:Steven Kotler
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-177
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 22:25, 2022-12-04
+- **tension:** ninguna
+
+## U-007-179
+- **tipo:** principio
+- **titulo:** Step 1: If you aren't getting results after long effort, it's still a skill problem: find the missing piece
+- **desarrollo:** Something most don't want to hear: if you aren't getting results or making money after long effort, it's a skill problem: you haven't put enough time in the right direction, getting the right data and iterating to know what gets results. Someone asked why they weren't growing despite doing all the fundamentals (comment on big accounts, DM people). Answer: you aren't seeing the missing piece of the skill set. Is it your messaging? If you're not good at English, touch it up. On Twitter, do you put a space before punctuation (e.g. " ?")? Common, but in a professional context aimed at income it won't cut it; you need good grammar.
+- **ejemplos:** space before question mark; weak English
+- **cita:** "it's still a skill problem"
+- **terminos:** skill problem; missing piece
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-177
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 22:54-24:33, 2022-12-04
+- **tension:** ninguna
+
+## U-007-180
+- **tipo:** proceso
+- **titulo:** Step 2: Build something with your skills daily: learn by building, teach to find knowledge gaps; permissionless apprenticeship
+- **desarrollo:** You learn more when you build and learn to apply to what you're building; then you teach to identify knowledge gaps and fill them with learning. If learning marketing, build a brand or a portfolio piece, or do a "permissionless apprenticeship": create something (e.g. a website for your favorite brand), send it if you like, or just do it for practice. Dan's favorite is a personal brand, since you can create your own website, content, email list, emails, profile picture, banner: a plethora of the highest-value skills applied to one project.
+- **ejemplos:** website for a favorite brand
+- **cita:** "you learn more when you build"
+- **terminos:** permissionless apprenticeship; knowledge gaps
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-177
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 24:33-25:01, 2022-12-04
+- **tension:** ninguna
+
+## U-007-181
+- **tipo:** metáfora
+- **titulo:** Step 3: Social media as public note-taking software, a public journal and a public school
+- **desarrollo:** Document learnings, findings or results. Think of social media as "a public note taking software, a public journal in a public school". When writing a newsletter, Dan uses Twitter advanced search on his own tweets (e.g. the word "valuable") and has material to work from. It's a note-taking system and a journal for relatable thoughts, worries and ideas, and good writing practice.
+- **ejemplos:** Twitter advanced search of his own tweets
+- **cita:** "think of social media as a public note taking software, a public journal in a public school"
+- **terminos:** public note taking; public journal
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-177
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 25:01-25:35, 2022-12-04
+- **tension:** ninguna
+
+## U-007-182
+- **tipo:** proceso
+- **titulo:** Step 4: Experiment for holistic understanding: implement the best of various sources until you have your own way
+- **desarrollo:** Dan loves doing things his own way, which means implementing the best teachings from various sources until he has a better or unique way. Fitness: started with StrongLifts 5x5, then studied Greg O'Gallagher (transcribed "Greg Gallagher") training 2-3 days a week, tried Wendler 5/3/1 (powerlifting), and super high-volume bodybuilding splits. With all that data he understands there are billions of ways to one result, and if he finds a way he enjoys and creates his own program, he could package and sell it (personal brands are dynamic: no fixed niche as long as you make your interests interesting). Diet: tried If It Fits Your Macros, ancestral, veganism, keto, getting something new each time: from Greg Doucette's low-calorie-dense approach he eats the "anabolic French toast"; from ancestral he incorporates nutrient-dense liver, ground beef, eggs. This big-picture understanding lets him create ten times more valuable information than people trapped in one ideology.
+- **ejemplos:** StrongLifts 5x5, Greg O'Gallagher, Wendler 5/3/1, high-volume splits; IIFYM, ancestral, vegan, keto; Greg Doucette's anabolic French toast; liver
+- **cita:** "there are billions of different ways to go about getting one specific result"
+- **terminos:** holistic understanding
+- **origen:** propia (draws on several fitness sources)
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-177
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 25:35-27:47, 2022-12-04
+- **tension:** Echoes U-007-008 (no single ideology) and the raw-liver mention there.
+
+## U-007-183
+- **tipo:** término-acuñado
+- **titulo:** The synthesizer: the future belongs to those who deliver holistic, nuanced yet interesting information
+- **desarrollo:** "The future belongs to those that can deliver holistic, nuanced, but yet interesting information" that is valuable in this century. This is "the way of the synthesizer", the career path for self-improvers or polymaths (referencing his "rise of the value creator" video): study all angles of one or multiple interests and talk about findings, what's valuable, "the signal among the noise".
+- **ejemplos:** ninguno
+- **cita:** "The future belongs to those that can deliver holistic, nuanced, but yet interesting information"
+- **terminos:** synthesizer; polymaths; self improvers; signal among the noise
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-182
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 27:47-28:33, 2022-12-04
+- **tension:** ninguna
+
+## U-007-184
+- **tipo:** metáfora
+- **titulo:** Creators as idea junkies (like DJs): ideas are the sounds, content is the song
+- **desarrollo:** Dan thinks of creators as "idea junkies", like DJs (he muses whether DJ means disc jockey or junkie, settles on junkie, ambiguously). DJs do what creators do but with music. EDM is relatively new, yet new genres and subgenres are created weekly (he lists e.g. dubstep and others), unlike traditional music (jazz, R&B, country, rock). Technology opened the ability to be infinitely creative; minor distinctions are how people separate from the crowd. You have the information to become an idea junkie and synthesize your own philosophy into internet content. "Ideas are the sounds, and then when you mix them together, the content are the songs. So create your mix, play it loud, and attract an audience."
+- **ejemplos:** EDM subgenres vs traditional genres
+- **cita:** "ideas are the sounds, and then when you mix them together, the content are the songs"
+- **terminos:** idea junkies; mix
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-183
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 28:33-29:44, 2022-12-04
+- **tension:** ninguna
+
+## U-007-185
+- **tipo:** proceso
+- **titulo:** Step 5: Iterate on your process: write SOPs, follow them, improve them until worth a curriculum
+- **desarrollo:** Pursuing goals, you encounter problems, learn skills to overcome them (e.g. learn marketing, freelance or start an agency or personal brand), get results, and have the information to create your own process for replicating them. Example: to be productive each morning, write down three priority tasks, remind yourself of your vision, close browser tabs. In business these are SOPs (standard operating procedures): write steps to a result, follow them, hit problems, adjust, until it's valuable enough to offer in a product with a curriculum. Dan had an SOP for creating websites, turned it into a course and filmed videos going over the steps and nuances. For Two Hour Writer he created a system to write newsletters "arguably more deep and thought provoking" than many in the creative space, packaged it with a curriculum, and it gets people similar results. His free products show this: the Power Planner (promise + system turned into a planner); Seven Days to Genius (his note-taking system for creative ideas). He used Smart Notes and "central casting" (as transcribed; ambiguous) as inspiration to create what he calls "value notes", and is building software around it.
+- **ejemplos:** morning productivity SOP; website SOP -> course; Two Hour Writer; Power Planner; value notes
+- **cita:** "These are called SOPs or standard operating procedures"
+- **terminos:** SOPs; standard operating procedures; value notes; curriculum
+- **origen:** propia (inspired by Smart Notes)
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-177
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 29:44-31:53, 2022-12-04
+- **tension:** ninguna
+
+## U-007-186
+- **tipo:** heurística
+- **titulo:** Step 6: Sell what's already selling; steal marketing and structure that works (Two Hour Writer story)
+- **desarrollo:** "Sell what's already selling": the best piece of counterintuitive advice Dan has received. He created Two Hour Writer because he knew how profitable the writing niche was in his corner of Twitter: people making $2-3 million a year running a cohort on basic writing, not promising money, nothing fancy, with good compelling sales page copy. He writes daily, so he got in; on Black Friday he did $130,000 in sales in three days. To create it he went through their funnels, emails and landing pages and took: headlines, the burning problems they discuss, the offer and curriculum structure, the guarantee, the benefits and the rest ("ethics" in the transcript, likely "etc."), and the positioning (not "how to make money online with writing"). That's inspiration, not copy-and-paste: he has his own way and must articulate it, but borrows the structure and the why behind what works.
+- **ejemplos:** $2-3M/year writing cohorts; $130k Black Friday
+- **cita:** "Sell what's already selling."
+- **terminos:** sell what's already selling; burning problems; positioning
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-177
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 31:53-33:07, 2022-12-04
+- **tension:** The Black Friday figure differs across videos ($139k in U-007-126, $130k here).
+
+## U-007-187
+- **tipo:** principio
+- **titulo:** Buyers buy again; and sell through a personal brand to avoid platform competition
+- **desarrollo:** Dan's first product was an ebook on freelancing with web development, created because he knew it would sell: he had personally bought a freelancing product, and as a developer he loved buying courses and couldn't stop, even on the same topic. Lesson: "buyers buy again". Put a good freelancing product in front of web developers and you'll make some income, then iterate. He also knew most developers bought on course platforms like Udemy, so for sustainable income he needed a personal brand to sell to his audience, avoiding that competition: a personal monopoly.
+- **ejemplos:** freelancing ebook for web developers; Udemy competition
+- **cita:** "that is how I learned that buyers buy again"
+- **terminos:** buyers buy again; personal monopoly
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-186
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 33:07-34:03, 2022-12-04
+- **tension:** ninguna
+
+## U-007-188
+- **tipo:** proceso
+- **titulo:** Step 7: Build distribution and systemize promotions; brand and product change rarely, content and promotions constantly
+- **desarrollo:** Many moving pieces. Brand: once solidified, doesn't change much. Product: updated and iterated a few times, "few and far between" compared to content and promotions. Content builds distribution: an audience, email list, community. Marketing distributes your product through promotions: plugs in social posts, newsletter promotions, changing the angle and messaging. Success comes through testing, persistence and iteration.
+- **ejemplos:** ninguno
+- **cita:** "the only way you're going to succeed in this great online game is through testing, persistence and iteration"
+- **terminos:** distribution; promotions; angle
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-177
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 34:03-35:08, 2022-12-04
+- **tension:** ninguna
+
+## U-007-189
+- **tipo:** método
+- **titulo:** Testing promotion angles: diagnose the funnel and spin off what sells; say one validated thing 1,000 ways
+- **desarrollo:** Put out a promotion with a specific angle (e.g. for writing: "here's a skill you can learn in your free time", which he calls a crappy angle). If it sells nothing, dig deeper: how many clicks? how many reached the landing page? which tweet was it on, what was he talking about that day? Change things day after day until you hit an angle that sells, then make spin-offs, because content and promotions are about "saying one validated valuable thing 1000 different ways from 1000 different angles". It's a game of time and consistency: the first year you hit wall after wall unless you have prior experience; in 1-3 years, with things solidified in your head (what's validated, valuable, best angles), growth becomes exponential as you consistently put out top content and promotions, harnessing self-awareness and intuition.
+- **ejemplos:** "skill you can learn in your free time" angle
+- **cita:** "content and promotions is about saying one validated valuable thing 1000 different ways from 1000 different angles"
+- **terminos:** angle; spin off; validated
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-188
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 35:08-36:42, 2022-12-04
+- **tension:** ninguna
+
+## U-007-190
+- **tipo:** metáfora
+- **titulo:** The unknown becomes known with time: thrown into the ocean, you'd eventually learn to swim
+- **desarrollo:** Caveat: you have to start writing, building and promoting; if anxious or fearful, remember the unknown becomes known with time. If thrown into the middle of the ocean without knowing how to swim, if you could breathe and live, you'd eventually learn (he admits the example is imperfect). You'll have to lean into it at some point, "and it might as well be now". "An autonomous, profitable and fulfilling future awaits."
+- **ejemplos:** ocean swimming analogy
+- **cita:** "the unknown becomes known with time"
+- **terminos:** the unknown
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** none
+- **fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md, 36:04-36:42, 2022-12-04
+- **tension:** ninguna
+
+# Fuente: The One Person Business Model 2.0 (Turn Yourself Into A Business).md (2023-06-25)
+
+## U-007-191
+- **tipo:** argumento
+- **titulo:** A new virtual society emerged (social media) by solving burning problems of locality; evolution is a slow burn until it explodes
+- **desarrollo:** A new, virtual society has emerged, not the one people imagined years down the road via something like Apple's new VR headset; "that's not how Evolution Works". Evolution comes from solving the problems that cause our suffering: a slow burn until it explodes. The new society came "as fast as a star exploding"; we called it social media. Programmers, visionaries and businessmen spent years solving burning problems: until then communication, information, business and opportunities were local. Centuries of geographic restriction changed in the blink of an eye. The internet allowed social media; social media allowed the creator economy, so new that few grasp its significance.
+- **ejemplos:** Apple's VR headset as the expected-but-wrong vision
+- **cita:** "Evolution comes from solving the problems that cause our suffering it is a slow burn until it finally explodes"
+- **terminos:** virtual society; creator economy; geographic restriction
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** none
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 0:00-1:00, 2023-06-25
+- **tension:** ninguna
+
+## U-007-192
+- **tipo:** término-acuñado
+- **titulo:** Dominance hierarchies vs creator actualization hierarchies
+- **desarrollo:** The creator economy allowed the advancement of decentralization. The Industrial Revolution caused an unsustainable development of dominance hierarchies: more power and fewer people at the top, less power and more people at the bottom. The age of information began reversing this through "Creator actualization hierarchies". Dominance (or "Dominator") hierarchies give hierarchies a bad rap: like an ape at the top of the food chain picking females and food; or corporate jobs where you can only rise so far because only few get to the top. An actualization hierarchy keeps evolving, and people move up with it as creators pass down lessons via courses and content as they evolve and change what they do; creators pivot all the time rather than sticking to one static niche; at a certain level you push further and teach from that lens. These hierarchies are based on skill and experience; rising is completely within your control.
+- **ejemplos:** ape at top of food chain; corporate ladder
+- **cita:** "these actualization hierarchies are based on skill they're based on skill and experience"
+- **terminos:** dominance hierarchies; Dominator hierarchies; Creator actualization hierarchies; decentralization
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-007-191
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 1:00-2:32, 2023-06-25
+- **tension:** ninguna
+
+## U-007-193
+- **tipo:** metáfora
+- **titulo:** "It's a pyramid scheme": judging a pixel out of the whole image
+- **desarrollo:** People label passing down teachings via courses ("selling a course on how to sell a course") as a pyramid scheme because they haven't done or experienced it; they take one little piece out of the entire story or picture, "like taking a pixel from an image and expecting it to make sense as a pixel", and label it so they don't have to actually do it, even though it's going to be a necessary part of life.
+- **ejemplos:** ninguno
+- **cita:** "like taking a pixel from an image and expecting it to make sense as a pixel"
+- **terminos:** pyramid scheme
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-192
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 1:47-2:32, 2023-06-25
+- **tension:** ninguna
+
+## U-007-194
+- **tipo:** principio
+- **titulo:** "Knowledge not found in schools is the source of money not found in employment"
+- **desarrollo:** Dan's tweet that sums up the video. With the internet, information has spread beyond measure, "a wildfire", leading to a more advanced, global, accessible society online.
+- **ejemplos:** ninguno
+- **cita:** "knowledge not found in schools is the source of money not found in employment"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** none
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 3:14, 2023-06-25
+- **tension:** ninguna
+
+## U-007-195
+- **tipo:** argumento
+- **titulo:** Social media expanded and collapsed the lines between society's institutions; indoctrination becomes less likely
+- **desarrollo:** Societies consist of institutions and communities with shared beliefs and cultural ideas: notably the school system, workforce, social and business tribes, and religious establishments. Social media has expanded and collapsed the lines between these. For followers of non-duality, this is a natural part of universal evolution: things divide and reunite; we're dividing away from corporate dominance into individual power. With so many shared perspectives, it's no longer easy to take one ideology, fit it into a religious institution in a specific culture and location, lock people in, indoctrinate and brainwash them; possible but much less likely because everyone can see it and stop it. Government in the creator society: people self-regulating, tribes warring; e.g. reaction videos that police what others do and keep the industry in check. Spiritual awareness and education are accessible in most creator brands: you can study different perspectives and self-experiment until you cultivate a philosophy that suits you, also for mental, financial and health growth, whereas religious establishments narrowed minds and fought contradicting perspectives.
+- **ejemplos:** reaction videos as self-policing
+- **cita:** "we're dividing away from corporate dominance into individual power"
+- **terminos:** non-duality; Creator Society
+- **origen:** adaptada-de:non-duality (as referenced)
+- **nivel:** avanzado
+- **prerrequisitos:** U-007-191
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 3:14-4:09, 5:01-6:40, 2023-06-25
+- **tension:** ninguna
+
+## U-007-196
+- **tipo:** concepto
+- **titulo:** Problems of the traditional school system (Dan's list)
+- **desarrollo:** The public traditional school system has many problems: convergent thinking; compartmentalized learning; conformity over authenticity; memorization over process; failure as something to avoid; authorities as unquestionable; long work over efficiency and true value; intelligence defined as book smarts; decade-old curriculums that only train you into a replaceable job. There are benefits, but deficits outweigh them; a new school system is emerging because it's demanded for us to move forward.
+- **ejemplos:** ninguno
+- **cita:** "decade-old curriculums that only worry about training you into a replaceable job"
+- **terminos:** convergent thinking; compartmentalized learning
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-042
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 4:09-5:01, 2023-06-25
+- **tension:** ninguna
+
+## U-007-197
+- **tipo:** concepto
+- **titulo:** The new school system: internet content and courses from passionate creators
+- **desarrollo:** In the creator society, passionate creators research topics they love and distribute lessons from their own lens to people who resonate with it. This lets individuals: pursue their curiosity; find teachers or creators they learn best from; treat learning as part of life rather than an obligation; learn modern skills to adapt fast to a changing environment; find specific knowledge that contributes to self-generated rather than assigned goals; prioritize entrepreneurship as "the only logical end goal for those that want more out of life". "The new school system is internet content and courses"; none of it is labeled, it's part of virtual life.
+- **ejemplos:** ninguno
+- **cita:** "the new school system is internet content and courses"
+- **terminos:** new school system; self-generated goals; assigned goals
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-196
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 5:01-5:52, 2023-06-25
+- **tension:** ninguna
+
+## U-007-198
+- **tipo:** argumento
+- **titulo:** Money is a neutral form of value; marketing and sales illustrate value and match a price to a specific identity
+- **desarrollo:** The exchange of goods (product, service, idea, whatever you sell or communicate) has been part of existence since human interaction began. Money is a neutral form of value: individuals spend it on what they perceive as valuable. Before it, if someone didn't value your clay pot, you had no currency to get what you wanted; money levels the playing field to exchange what one deems valuable for what one wants. Hence marketing and sales: illustrating the value of your product and putting a price tag that matches it for a specific person at a specific level of awareness, with specific goals, level of mind and problems, because that composes someone's identity. That's why you need a target audience or persona; Dan recommends targeting yourself, because you understand your identity best and can attract and sell based on your own values.
+- **ejemplos:** the clay pot barter
+- **cita:** "money or currency is a neutral form of value"
+- **terminos:** target Persona; level of awareness; identity
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** none
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 6:40-7:27, 2023-06-25
+- **tension:** ninguna
+
+## U-007-199
+- **tipo:** definición
+- **titulo:** The creator economy: individuals distributing value as content and products that move people toward their goals
+- **desarrollo:** The creator economy is composed of individuals distributing value in the form of content and products. They educate their audience on the skills and interests that aid in actualizing their goals; their products or services are meant to generate results and move them faster toward those goals.
+- **ejemplos:** ninguno
+- **cita:** ninguna
+- **terminos:** creator economy
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-198
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 7:27, 2023-06-25
+- **tension:** ninguna
+
+## U-007-200
+- **tipo:** fuente-de-tercero
+- **titulo:** Naval: "someday I hope there will be almost 7 billion companies"; solve your own problems and package the method
+- **desarrollo:** Dan quotes Naval: there are almost 7 billion people on the planet; someday he hopes there will be almost 7 billion companies. Dan's one-person business philosophy, built on it: the best businesses change lives and transformations. Make a winning product: stop trying to solve imaginary problems; solve your own problems, change your own life, package up the method, slap a price tag on it. You're less likely to fail solving real meaningful problems. Most entering business lack understanding of marketing, sales, psychology, or evolution.
+- **ejemplos:** ninguno
+- **cita:** "solve your own problems change your own life package up the method slap a price tag on it"
+- **terminos:** one-person business philosophy
+- **origen:** adaptada-de:Naval
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-001
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 7:27-8:17, 2023-06-25
+- **tension:** ninguna
+
+## U-007-201
+- **tipo:** metáfora
+- **titulo:** Why land on Saturn when we can't live on Earth? Solve low-consciousness problems first (micro education business model)
+- **desarrollo:** Stop trying to "land on Saturn" and build a billion-dollar company when that's not a real, tangible problem that makes lives better. Why land on Saturn when we can't even live on Earth? Most of the population still suffers from low-consciousness problems; the individuals forming the collective are holding back the collective ego from enlightenment. Dan recommends starting with a "micro education business model": solve real problems in your own life and distribute solutions (he references his video on it). Start by understanding the Eternal markets (health, wealth, relationships, happiness): solving your problems there pushes you toward self-actualization, creates a unique map with your story to pass down, and earns income helping others heal and achieve goals. Then everyone is at a higher state of consciousness and can do what they love and solve deeper problems they're passionate about, "like landing on Saturn at that point".
+- **ejemplos:** landing on Saturn
+- **cita:** "why are we trying to land on Saturn when we can't even live on Earth"
+- **terminos:** micro education business model; low Consciousness problems; collective ego; unique map
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-128
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 8:17-9:04, 2023-06-25
+- **tension:** ninguna
+
+## U-007-202
+- **tipo:** argumento
+- **titulo:** Personal brands are the people of the new society; social media is a public job board, school, note-taking system and party
+- **desarrollo:** If social media is the new society, personal brands are its people. Not limited to business owners: you have a social media account, you're just a consumer not contributing. It's global; not like a physical lot with only 100 buildings: you have your own lot; want digital real estate? sign up for a website builder and put up a website. Creators and brands are hiring people who display their value through their public resume (profile or content). "Social media is a public job board public school public note taking system and public party" where you find friends and nurture business relationships. A good start: work for another creator or brand to get real-world results with modern skills; every skill you apply to your own brand is applicable to others' brands, so building your own stacks the most applicable, best-paid knowledge.
+- **ejemplos:** website builder as digital real estate
+- **cita:** "social media is a public job board public school public note taking system and public party"
+- **terminos:** digital real estate; public resume; personal brands
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-191
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 9:04-10:31, 2023-06-25
+- **tension:** ninguna
+
+## U-007-203
+- **tipo:** framework
+- **titulo:** Three paths to self-monetization (2.0): learn/teach/sell a skill; value creator within your interests; both
+- **desarrollo:** Path 1: learn a skill, sell a skill (or learn, teach, sell): learn a modern skill creators or brands use (email marketing, funnel design, content writing), create content around it to flex knowledge (won't gain many followers; your profile will be more like a resume), and charge higher prices for freelance or consulting since you lack audience or leverage to sell a product in your sleep. For any of it to work, learn the evergreen skills: writing, speaking, marketing and sales (more in his "1 million dollar offer stack" video). Path 2: become a value creator within your interests (graphic shown, not reconstructible). Path 3 (Dan's ideal, more long-term): do both: a personal brand forces you to learn most modern skills (landing pages, funnels, emails, content, profile design, graphics); "if it doesn't help your brand grow it won't help others and it isn't worth learning". Once your brand gets results you can help others for money; what you sell will usually be based on your interests. Example: bodybuilding: get results for yourself, create a training program or health coaching, build landing page, profile and content, decide what you like most (marketing, design, health), practicing selling the health interest because you have results in that domain.
+- **ejemplos:** bodybuilding personal brand path
+- **cita:** "if it doesn't help your brand grow it won't help others and it isn't worth learning"
+- **terminos:** self-monetization; learn a skill sell a skill; value Creator; Evergreen skills
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-055
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 10:31-15:46, 2023-06-25
+- **tension:** Refines U-007-055 (earlier three paths: skill, development, both); path 2 is now framed as "value creator within your interests".
+
+## U-007-204
+- **tipo:** principio
+- **titulo:** The evergreen skills: writing, speaking, marketing and sales
+- **desarrollo:** For any path to work, you must learn the evergreen skills: writing, speaking, marketing and sales. Later (22:10) he says if you have no idea what to learn, start with marketing, sales, copywriting, and direct response marketing, "because that alone will change your life".
+- **ejemplos:** ninguno
+- **cita:** ninguna
+- **terminos:** Evergreen skills
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-203
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 11:13, 22:10, 2023-06-25
+- **tension:** ninguna
+
+## U-007-205
+- **tipo:** argumento
+- **titulo:** How to generate interest: invest energy (focus, "mental currency") into a goal so you feel pulled to achieve it
+- **desarrollo:** Many say "I don't have any interests" because school force-fed them what to be interested in. You generate interest in a topic by investing energy into a goal, so you feel you'd waste the investment if you don't achieve it: you need pressure, the pull, something on the line, "mental currency AKA Focus" invested in a goal. True goals are based on the Eternal markets (health, wealth, relationships, happiness) in pursuit of self-actualization; most other things are "cheap desires", fabricated wants projected onto you. The interests and skills learned along the way are how interest is generated: pursuing health, you find through trial and error your path (nutrition, a diet, training: bodybuilding, running, cycling). He reprises it at 15:46: you have to start and invest energy in the goal, then you feel you're wasting it if you don't complete it; that's the only way to expose yourself to experience and find the "whys" that keep you going.
+- **ejemplos:** health goal -> nutrition, training, bodybuilding/running/cycling
+- **cita:** "you need mental currency AKA Focus invested in a goal so that you feel pulled to actually achieve it"
+- **terminos:** mental currency; true goals; cheap desires; fabricated wants
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-128
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 11:55-12:42, 15:46-16:22, 2023-06-25
+- **tension:** ninguna
+
+## U-007-206
+- **tipo:** ejemplo
+- **titulo:** Subtopics per Eternal market that culminate into interests
+- **desarrollo:** Health: subtopics of nutrition, training and mental health, e.g. bodybuilding, the ancestral diet, minimalist training, yoga, mindfulness. Wealth: business, career development and finance, e.g. freelancing, software as a service, resume building, interview preparation, budgeting, any modern skill. Relationships: social dynamics, dating and marriage, e.g. couples therapy, confidence and charisma, day game, how to approach. All push you to develop each area.
+- **ejemplos:** as listed
+- **cita:** ninguna
+- **terminos:** Eternal markets; subtopics
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-205
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 12:42-13:32, 2023-06-25
+- **tension:** ninguna
+
+## U-007-207
+- **tipo:** término-acuñado
+- **titulo:** Digital renaissance man: a lifelong autodidact is truly irreplaceable
+- **desarrollo:** Developing across the Eternal markets' subtopics is "how you become a digital renaissance man". You must become a lifelong autodidact (self-learner) to be truly irreplaceable; thanks to the internet, courses and coaching (which too many write off as lacking credentials or results), you can learn anything faster than any ancestors could.
+- **ejemplos:** ninguno
+- **cita:** "you must become a lifelong autodidact or self-learner if you want want to be truly Irreplaceable"
+- **terminos:** digital renaissance man; autodidact; Irreplaceable
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-206
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 13:32-14:20, 2023-06-25
+- **tension:** ninguna
+
+## U-007-208
+- **tipo:** argumento
+- **titulo:** Stagnation equals death: doing nothing makes you a cog in the machine on the default path
+- **desarrollo:** If you sit on your ass and don't improve, you won't make money; start now. Dan won't give motivation: "the universe is calling you to evolve", there's a pull; you feel bad for not doing what you're supposed to do because it's obvious you need to. In short, stagnation equals death; choosing to do nothing makes you a cog in the machine, because all human action is goal-oriented, you'll keep moving and must survive, so you go along the default path to a job you hate until you hit a low point and bounce out. "You might as well start now."
+- **ejemplos:** ninguno
+- **cita:** "stagnation equals Death"
+- **terminos:** cog in the machine; default path
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-205
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 15:46-16:22, 2023-06-25
+- **tension:** ninguna
+
+## U-007-209
+- **tipo:** framework
+- **titulo:** The four pillars of a six-figure one-person business (2.0): brand = tell a story, content = make a map, product = create a game, marketing = sell to yourself
+- **desarrollo:** From Dan's tweet: "for brand tell a story, for content make a map, for product create a game" (the tweet names three; the fourth pillar, marketing or "selling to yourself", is added in the walkthrough). Pillars as developed: (1) Brand: you are the niche; your identity/story; your vision. (2) Content: documenting your mind. (3) Product: public personal projects. (4) Marketing: selling to yourself. Each is detailed in following units. Note: the "create a game" phrasing for product is not further explained in the transcript.
+- **ejemplos:** ninguno
+- **cita:** "for brand tell a story for Content make a map for product create a game"
+- **terminos:** four pillars; tell a story; make a map; create a game
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-060
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 16:22-18:28, 2023-06-25
+- **tension:** Updates U-007-060 (goals/problems/systems/benefits) into story/map/game/sell-to-yourself.
+
+## U-007-210
+- **tipo:** definición
+- **titulo:** Redefining the one-person business as "turning yourself into a business" (team, contractors allowed)
+- **desarrollo:** The one-person business model has many interpretations; "it's just a concept... just made up". Now that Dan has a small team it's weird to call himself a one-person business, so he redefines it: turning yourself into a business. You may hire a VA, freelancers or contractors (he has no employees, just a few contractors for odd jobs); he "gives permission" though he isn't the gatekeeper. The concept is "a novel way of grabbing attention and saying become high value and put yourself out there until enough people know who you are what you do and why you do it", and opportunities compound. That's all you really need to succeed.
+- **ejemplos:** Dan's contractors and VA
+- **cita:** "become high value and put yourself out there until enough people know who you are what you do and why you do it"
+- **terminos:** turning yourself into a business; one person business
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-157
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 16:22-18:28, 2023-06-25
+- **tension:** Revises the earlier strict "one person, no employees" framing (U-007-049).
+
+## U-007-211
+- **tipo:** historia
+- **titulo:** Pushing into a business model he didn't like showed what he wants: writing and creative challenges, even at lower income
+- **desarrollo:** Dan pushed too far into a business model he didn't like going after, which made him realize what he doesn't want and therefore what he wants. He's actively trying to get back to being one person with a VA (a small team is good). Above all he wants to write and take on creative challenges with his writing, which gives him energy for the rest of the day, plus work on health and maintain his lifestyle and routine. He knows peeling back the business will decrease income, but he wants to focus on writing books and content, flex his mind and advance understanding in his topics.
+- **ejemplos:** ninguno
+- **cita:** "I want to write and I want to take on creative challenges with my writing that is what gives me energy for the rest of the day"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-007-039
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 17:03-18:28, 2023-06-25
+- **tension:** Contrasts with earlier emphasis on income growth (e.g. U-007-147 "it's fun to push more in business").
+
+## U-007-212
+- **tipo:** argumento
+- **titulo:** Pillar 1, brand: identity is the underlying story that shapes perspective; goals filter how you interpret everything
+- **desarrollo:** Your personal brand is yourself, your identity in the new society. Your identity is the underlying story that shapes your perspective; your perspective contains goals from which you perceive situations. Goals can be assigned via social conditioning in your upbringing or self-generated in alignment with your vision. You interpret any book differently from others because different goals are more prevalent: reading "Awareness" by Anthony de Mello at a financial low point, you absorb ideas to get out of the financial hole; at a spiritual low point, it helps with that; at a relationship low point, with that. Someone at a relationship high absorbs ideas to reinforce and nurture it. So two people reading the same book at different points in their story get different insights. "In order to create you must consume": consuming and distributing your ideas without fitting them into a box is how you create unique content and a unique brand, but you must be pursuing goals and building; if stagnant, everything goes in one ear and out the other, so you can't generate ideas. Your brand is your vision for the future, evolving as you do; simpler: the goal you're working toward and leading people to. If you're not doing anything in life, you won't attract followers.
+- **ejemplos:** Awareness by Anthony de Mello read at different life points
+- **cita:** "your identity is the underlying story that shapes your perspective"
+- **terminos:** identity; perspective; assigned goals; self-generated goals; vision
+- **origen:** propia (uses de-tercero:Anthony de Mello as example)
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-209
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 18:28-20:43, 2023-06-25
+- **tension:** ninguna
+
+## U-007-213
+- **tipo:** método
+- **titulo:** Pillar 2, content: documenting your mind in a public note-taking system, while studying the evergreen skills
+- **desarrollo:** Content is "documenting your mind". Social media as a public note-taking system: jot down what you're learning and how it applies to your life, thoughts and opinions on your skills and interests, and lessons from the story of life. "Without knowing it we are actively building out the collective Consciousness online in an explorable fashion." But you can't write and pray it grows; study the evergreen skills while building your brand toward a goal: marketing, sales, copywriting, so you have something to apply them to. If you don't know what to learn: marketing, sales, copywriting and direct response marketing. He recommends the book "Digital Millionaire Secrets" (admitting the cringe title and pushy-salesman connotations): a short, insightful read for understanding what's going on online from a marketing lens; take the lessons and use them ethically. (He also plugs the free portion of Digital Economics.)
+- **ejemplos:** Digital Millionaire Secrets book
+- **cita:** "we are actively building out the collective Consciousness online in an explorable fashion"
+- **terminos:** documenting your mind; public note taking system; Evergreen skills
+- **origen:** propia (recommends de-tercero book Digital Millionaire Secrets)
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-209
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 20:43-22:52, 2023-06-25
+- **tension:** ninguna
+
+## U-007-214
+- **tipo:** proceso
+- **titulo:** Pillar 3, product (public personal projects): the progression from problem to productized offer in 1-3 years
+- **desarrollo:** Under the one-person business philosophy you contribute to the new society by solving your own problems and selling the solution. Progression: (1) identify a problem in your life; (2) turn it into a personal project for experience; (3) turn it into a minimum viable offer; (4) start selling for $500-1,000 with freelancing or consulting; (5) build your audience along the way with content; (6) increase the depth and complexity of your offer; (7) productize it when ready so it sells in your sleep. This takes about one to three years. If the goal is money or career, learn a skill like email marketing; if it's attraction, confidence, getting ripped, go to the gym and fix nutrition. Once you make progress, talk about it, identifying knowledge gaps (you can't articulate points or get challenged online, forcing more learning), then teach for free or a small price. Price must reflect value: if you're not an expert with many results you can't charge a high price; start lower and work up.
+- **ejemplos:** email marketing; gym and nutrition
+- **cita:** "the value that you ask for the money has to reflect the amount of value that you can give"
+- **terminos:** public personal projects; minimum viable offer; productize
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-065
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 22:52-24:18, 2023-06-25
+- **tension:** ninguna
+
+## U-007-215
+- **tipo:** principio
+- **titulo:** Projects are how you solve real-world problems: tangible results you can iterate on
+- **desarrollo:** Projects force you to apply what you learn; they're tangible; they are your result; you can iterate and get better; you can reflect on them and make it easier for the next person. Email marketing example: write an email sequence for your own brand, for an affiliate product (so you have something to sell), or practice on favorite books or products. Or create a product around your interest (interested in productivity? create a planner without prior experience), because you get results only by putting something on the market and refining it. Then craft persuasive arguments in your email sequences, practicing writing, speaking, marketing and sales through a results-oriented skill. From that portfolio piece you create something better; you can't improve what you haven't created.
+- **ejemplos:** affiliate email sequence; productivity planner
+- **cita:** "the way you get results is just by putting something on the market"
+- **terminos:** projects; portfolio piece
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-214
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 24:18-24:55, 2023-06-25
+- **tension:** ninguna
+
+## U-007-216
+- **tipo:** método
+- **titulo:** Permissionless apprenticeship without neediness; post visual work and tag the creator
+- **desarrollo:** Go to a brand and do a "permissionless apprenticeship": write their email sequences or create a health program and send it: "hey I made this for you, take it and do what you will". If they use it and get results, cool; if not, leave it. Don't be needy, don't try to make the sale; opportunities come to you. If it's visual and you target a big creator: make a landing page for them (make sure it's good so you aren't embarrassed), post an image on Twitter and tag them. If they like it they'll comment, like or retweet, spreading you to their audience even if they don't use it; people interested in landing page design will DM to hire you.
+- **ejemplos:** landing page posted and tagged on Twitter
+- **cita:** "don't be needy don't try and make the sale opportunities will come to you that way"
+- **terminos:** permissionless apprenticeship; needy
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-215
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 24:55-26:12, 2023-06-25
+- **tension:** ninguna
+
+## U-007-217
+- **tipo:** principio
+- **titulo:** Pillar 4, marketing (selling to yourself): you won't make a penny if you never self-promote
+- **desarrollo:** People ask, stressed and overwhelmed, why they don't make money; it's because they don't self-promote, not giving themselves a chance, focusing on everything that doesn't result in money. Marketing exists across your whole brand but is most prevalent in landing pages for products and services, emails promoting them, content promoting them, and outreach messages checking if others are a fit. (Exact systems are in Two Hour Writer and Digital Economics.)
+- **ejemplos:** ninguno
+- **cita:** "you won't make a single penny if you never self-promote"
+- **terminos:** selling to yourself; self-promote
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-209
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 26:12-26:53, 2023-06-25
+- **tension:** ninguna
+
+## U-007-218
+- **tipo:** framework
+- **titulo:** Selling framework: goal -> what stands in the way -> present your solution (plus "what if you don't reach it?")
+- **desarrollo:** A practice framework to apply to everything in your brand (landing pages, promotions, DMs), taking the essence of each part. (1) Identify their goals or desired outcome and make it top of mind by talking about it in content, promotions or DMs ("what are you building right now? what's your goal?"). (2) Identify what stands in the way: why aren't people achieving it, why didn't you at the start? Write it in promotions or ask in outreach ("what's preventing you from achieving the goal?"). Dig into the pain point; if the goal is desirable, they become more aware of the problem. (3) With the goal top of mind and the realization they can't reach it themselves, present your solution to the burning problem. Knowing goal and obstacle tells you if they're a fit; if not, leave it alone; if so, "hey man I have this service or product and I think it really helped, do you want to hear more about it?". Add: ask how their life will be impacted if they don't reach the goal; people move when they're really aware of a problem and its impact. You can resonate ("when I didn't have this business it impacted me this way, does that resonate?"), then "this wasn't initially meant to be a pitch but... do you want to hear more?". Example: goal more money; obstacle no time / don't know how to start / no fitting business model; solution: Dan teaches the one-person business model for $500 over two calls.
+- **ejemplos:** $500 two-call one-person business consult
+- **cita:** "people move when there is a problem in their life that they are aware of like really aware of"
+- **terminos:** goals; desired outcome; pain Point; burning problem; fit
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-217
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 26:53-29:53, 2023-06-25
+- **tension:** ninguna
+
+## U-007-219
+- **tipo:** heurística
+- **titulo:** Outreach: be interested to be interesting; text like a friend, not a robotic pitch
+- **desarrollo:** The best conversation starter: "hey dude looks like you're building something cool, mind if I ask more about it? what's this website/content/interest?" Ask questions: "you become interesting by being interested in other people". Don't be robotic; text like you'd text a friend; people want authenticity. Dan's editor Devin gets DMs from community members with "the most washed down" pitches; people can see through it. Just say "hey what's up man, I want to get to know you, what are you working towards, what's this thing you're building, is there any way I can help?" Be a genuine human being. (He references his "non-needy networking process" video.)
+- **ejemplos:** pitches DMed to editor Devin
+- **cita:** "you become interesting by being interested in other people"
+- **terminos:** non-needy networking
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-218
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 27:29-28:06, 29:53, 2023-06-25
+- **tension:** ninguna
+
+## U-007-220
+- **tipo:** opinión
+- **titulo:** Contribute to the creator economy: if you ask money from it without investing in it, that's selfish
+- **desarrollo:** Dan's closing: take a course, invest in your self-education, contribute to the creator economy. If you'll ask for money from it but don't put money into it, "that's kind of selfish"; you shouldn't join the new society that way. Put money in because you believe in it, you're investing, and you put pressure on the line for yourself to be part of that society/economy (linking to the "invest energy" mechanism).
+- **ejemplos:** ninguno
+- **cita:** "if you're going to ask for money from it but you're not putting money into it that's kind of selfish"
+- **terminos:** creator economy; pressure on the line
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-007-205
+- **fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md, 30:29, 2023-06-25
+- **tension:** ninguna
+

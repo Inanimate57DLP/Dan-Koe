@@ -1719,3 +1719,655 @@
 - **prerrequisitos:** U-006-131
 - **fuente:** The Future Of Work (Avoid Learning These Skills).md, 48:21–48:58, 2024-07-28
 - **tension:** ninguna
+
+## U-006-133
+- **tipo:** argumento
+- **titulo:** Pillar 2, content: content is king — it matters more than bio, profile, landing page or sales skill, because your message compounds in people's minds.
+- **desarrollo:** Dan Koe: "beginners really need to understand that content is King content matters more than your bio... your profile... your landing page or your ability to do well in a sales call writing is the most important skill because it gives you so much more slack on other things." Contrast: if people follow you, read your content, trust you and get on a sales call, "you don't have to be an expert at sales"; if you get people through cold email instead, "you have to be extremely good at sales calls and your closing rate matters a lot" because people are much more skeptical. If they've followed you for 3 months, sales calls become easy ("hey dude you want to buy... not that simple"). Mechanism: "content compounds because your message compounds in people's minds it clicks." Analogy: when you read a book you adopt the author's worldview and one idea changes your life; "when people follow you over time it's like you writing a book to them over that time period and it has a very similar effect."
+- **ejemplos:** Cold email vs. content-warmed leads; 3 months of following; reading a book.
+- **cita:** "content compounds because your message compounds in people's minds"
+- **terminos:** content is King; slack; compounds
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-131
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 48:58–50:17, 2024-07-28
+- **tension:** ninguna
+
+## U-006-134
+- **tipo:** principio
+- **titulo:** Write about the interests, skills and topics you plan to master, framed under the lens of a goal; your unique combination of topics is your niche.
+- **desarrollo:** Dan Koe: "you write about the interests skills and topics that you plan to master the ones that will help you achieve your goals in a way that is unique to you... you're not trying to solve a problem you're trying to achieve a goal so any idea or any writing or any topic that you have should be framed under the lens of a goal." Uniqueness: if everyone has the goal of living the good life, how will you make it a reality? For Dan: studying the human mind, philosophy, business and spirituality; for another, web design, mindset and fitness; for another, automation, marketing and productivity. Metaphor: "if you put five people at the bottom of a mountain and asked how they would get to the top they would all draw a different path." "The unique combination of these topics are your Niche."
+- **ejemplos:** Dan's mix (human mind, philosophy, business, spirituality) vs. others; five people at the bottom of a mountain.
+- **cita:** "the unique combination of these topics are your Niche"
+- **terminos:** lens of a goal; the good life; Niche
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-132
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 50:17–50:58, 2024-07-28
+- **tension:** ninguna
+
+## U-006-135
+- **tipo:** framework
+- **titulo:** The Domain of Mastery: three overlapping interests (one that makes money, one that excites you, one development-based) broken down into principles, topics, mentors, connections and real-world problems.
+- **desarrollo:** Dan Koe teaches this in his course Digital Economics, showing an image on screen (the visual is not reconstructible from the transcript — partly ambiguous). Components: (1) three interests — "one that makes money one that excites you and one development based" (development-based = philosophy, spirituality, self-improvement, self-actualization); "all of these overlap these aren't like hard interests"; (2) break each down into "the principles of that interest so the things that really matter within that interest"; (3) "topics you can write about outside of that"; (4) "mentors you can study and emulate"; (5) "connections that can be made between them"; (6) "real world problems that they can solve." "Principles topics mentors connections those are all ideas that can be filtered through a goal of what you want to achieve in life and then be written to help people achieve the goal."
+- **ejemplos:** ninguno
+- **cita:** "you have three interests one that makes money one that excites you and one development based"
+- **terminos:** domain of Mastery; principles; topics; mentors; connections; real world problems
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-134
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 50:58–51:44, 2024-07-28
+- **tension:** ninguna
+
+## U-006-136
+- **tipo:** principio
+- **titulo:** "The major click": writing is creating an argument for why people should move toward a specific goal and how to get there — impact causes movement.
+- **desarrollo:** Dan Koe: "what you're doing with writing I think this is the major click what you're trying to do with writing is create an argument as to why people should go towards a specific goal and like how to get there because that's what you're doing at any given moment if you're not pushing people along then your writing doesn't really have impact because impact causes movement." "If I'm trying to convince people to live the good life I need to give them the tools and resources and mindset and just ideas to allow them to go and achieve that." And "this is more than just business... you're improving yourself along the way."
+- **ejemplos:** Convincing people to live the good life.
+- **cita:** "impact causes movement"
+- **terminos:** argument; impact causes movement
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-134
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 51:44–52:30, 2024-07-28
+- **tension:** ninguna
+
+## U-006-137
+- **tipo:** principio
+- **titulo:** Pillar 3, offer: business is "build an audience, monetize an audience" — and you don't need to wait to start monetizing; you need something to iterate on.
+- **desarrollo:** Dan Koe: brand attracts, content gets followers, offer monetizes: "that's what business is if you strip it down to exactly what it is it's build an audience monetize an audience doesn't matter if it's your creator or Facebook ads that's an audience." "No you don't need to start waiting in order to start monetizing... it's just a gatekeeper mindset you don't need to wait you need something to iterate on." If you have no product or service, sell something "no matter how bad," even a curation: "if you're selling 50 of my favorite quotes for $10 in an ebook do that so at least you can improve on it." "Your products will suck every single first iteration of anything will suck until you improve it because you can only spot problems when there is actually a problem in real life otherwise you're just solving fake problems that don't exist."
+- **ejemplos:** An ebook of 50 favorite quotes for $10.
+- **cita:** "you don't need to wait you need something to iterate on"
+- **terminos:** build an audience monetize an audience; gatekeeper mindset; fake problems
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-133
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 52:30–53:54, 2024-07-28
+- **tension:** ninguna
+
+## U-006-138
+- **tipo:** principio
+- **titulo:** Sales equals survival: without a paycheck, if you aren't selling or promoting yourself every day you won't survive.
+- **desarrollo:** Dan Koe: "you just need to learn what it's like to sell you need to understand that sales equals survival and if you weren't selling or promoting yourself every single day you're not going to survive because someone isn't there to give you a paycheck every week or every two weeks you have to do it yourself and that has to become a habit and you need to get good at that."
+- **ejemplos:** ninguno
+- **cita:** "sales equals survival"
+- **terminos:** sales equals survival
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-137
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 53:09–53:54, 2024-07-28
+- **tension:** ninguna
+
+## U-006-139
+- **tipo:** término-acuñado
+- **titulo:** The Minimum Viable Offer (MVO): a single-skill freelance service or, preferably, a single-skill coaching/tutorial service of four calls for $500–$1,000.
+- **desarrollo:** Dan Koe: "the minimum viable offer this is just a different way of me spinning the minimum viable product but I can make it more specific and applicable to you." Two forms: (1) "a single skill freelance service that you can sell for 500 to 1,000" (web design, email marketing, landing page copywriting); (2) "a single interest or skill Consulting coaching or tutorial service where you can sell a pack of four calls for $500 to $1,000." He recommends starting with (2) because buyers at this level "like to learn things themselves they usually don't have the money... they don't want to buy a website they want to learn how to build a website." Evolution: once better at the skill, consult larger companies, sell the freelance service, or "eventually create a digital product so you're higher leverage" that "sells while you sleep because you have an audience that can fuel it." The service route is used "because you don't have an audience yet."
+- **ejemplos:** Web design, email marketing, landing page copywriting; teaching someone to build a website.
+- **cita:** "they don't want to buy a website they want to learn how to build a website"
+- **terminos:** minimum viable offer; mvo; minimum viable product
+- **origen:** propia (adaptada-de:minimum viable product)
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-137
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 53:54–55:13, 2024-07-28
+- **tension:** ninguna
+
+## U-006-140
+- **tipo:** proceso
+- **titulo:** Selling the MVO without an audience or landing page via DMs, and why teaching (vs. done-for-you) builds a curriculum you can productize.
+- **desarrollo:** Dan Koe: "you can start monetizing immediately you don't need a landing page you don't need anything really you just need to DM people ask about their goals ask what they're interested in shift the conversation over to what it is that you sell get on a call with them sell them or just sell them in the DM" ("hey I have this program maybe you'd benefit from it do you want to hear more about it"). He skips details ("this isn't a video on landing the client"). Why teaching beats done-for-you: with a freelance service "you don't really build a curriculum or productize along the way," but "if you're teaching someone you can build a curriculum based on what you're learning and the feedback that you get and then you can slowly turn that into a product," reduce time spent, or increase effectiveness — still four calls but charging more "because you have week-by-week curriculum and action steps" — "and then eventually you just turn that into a course that can sell on its own until people want to work with you one-on-one."
+- **ejemplos:** DM script: "hey I have this program maybe you'd benefit from it."
+- **cita:** "if you're teaching someone you can build a curriculum based on what you're learning and the feedback that you get"
+- **terminos:** curriculum; productize
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-139
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 55:13–56:27, 2024-07-28
+- **tension:** ninguna
+
+## U-006-141
+- **tipo:** proceso
+- **titulo:** Pillar 4, marketing: promote daily in content, run a lead magnet into a weekly newsletter that promotes your service, and refine by trial and error.
+- **desarrollo:** Dan Koe: "if you don't promote yourself you're not going to make money it's as simple as that." People who ask why they're not making money (anymore) "stop promoting yourself and you don't realize it you cut off a certain Channel... and you didn't realize how much it was contributing to your Revenue." System: (1) content — "promote yourself every single day under one of your posts"; (2) a lead magnet or free download "based on the basics around what it is that you sell" (if you sell web design: how to set up WordPress or a landing page, or a checklist); (3) they enter a newsletter — promote the lead magnet every day to get subscribers; (4) write a weekly newsletter with details, insights and valuable advice on the topic; (5) promote your product or service in the newsletter; (6) refine over time: "if you aren't making as much money as you want then you change something you try a new strategy... it's just trial and error until you get there." A course isn't a cure-all: "you don't take one course in your lifetime... life is a course and most people aren't paying attention to it."
+- **ejemplos:** WordPress setup guide or checklist as a lead magnet for a web designer.
+- **cita:** "life is a course and most people aren't paying attention to it"
+- **terminos:** lead Magnet; Weekly Newsletter; trial and error
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-138
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 56:27–57:48, 2024-07-28
+- **tension:** ninguna
+
+## U-006-142
+- **tipo:** proceso
+- **titulo:** The path to $1 million as one person working 4 hours or less: client work, results, money, audience, productize — repeat — and don't stop.
+- **desarrollo:** Dan Koe's list: "do not work more than 4 hours start with client work get results make money build your audience productize your work repeat steps 3 through five until you reach 1 million then don't stop." The numbering of "steps 3 through five" is ambiguous in the transcript (it depends on whether "do not work more than 4 hours" counts as step 1); the sequence is otherwise as stated. It is elaborated in the three-stage evolution under Koe's Law (U-006-147 to U-006-151).
+- **ejemplos:** ninguno
+- **cita:** "do not work more than 4 hours"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-139
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 57:48, 2024-07-28
+- **tension:** ninguna
+
+## U-006-143
+- **tipo:** término-acuñado
+- **titulo:** Koe's Law: "creative work evolves to earn more in the time allotted for its completion" — a step beyond Parkinson's Law.
+- **desarrollo:** Dan Koe: "a concept that I came up with called Koe's law yes that's named after me yes I'm narcissistic I think it's a cool name." Statement: "creative work evolves to earn more in the time allotted for its completion this demands creativity growth and skill acquisition to solve problems that prevent this Evolution." Relation to Parkinson's Law ("work expands to fill the time allotted for its completion"): Koe's Law goes "a step further," saying that "creative work or the correct work for you or your life's work has room to evolve." With Parkinson's Law, "your work expands but your income doesn't": if your work doesn't evolve you'll make the same amount; you may do less work but won't make more over time. Origin: he sees it daily in DMs — "Dan I started out in freelancing I don't know how to get out now I feel like I built myself into a second 9-to-5." "If you're an entrepreneur you see that that's a problem that needs solving." The freelancer working only through cold outreach "set yourself up to fail from the start you didn't build an audience with an audience you can pivot out as your audience grows to different styles of offers that allow you to make more in the same amount of time."
+- **ejemplos:** Freelancers stuck in a "second 9-to-5."
+- **cita:** "creative work evolves to earn more in the time allotted for its completion"
+- **terminos:** Koe's law; Parkinson's law; second 9-to-5; life's work
+- **origen:** propia (extending Parkinson's Law)
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-142
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 57:48–59:13, 2024-07-28
+- **tension:** ninguna
+
+## U-006-144
+- **tipo:** argumento
+- **titulo:** The 4-hour workday math: a week's content takes under an hour a day; millions of impressions plus 15 minutes promoting and 45 minutes of newsletter drive traffic that converts.
+- **desarrollo:** Dan Koe: "as a one person business it is more than possible to make a million dollars plus a year working 4 hours a day people don't believe me when I say that but it just takes simple logic." It doesn't take long to write three tweets a day or one thread a week; "it can take less than an hour a day probably way less than that to write a week's worth of content." If you're growing and generating "millions of Impressions per month," where do they go? Spend 15 minutes a day promoting your work and 45 minutes a day writing a newsletter, and "you now have all of this traffic going to your product or service that at a specific conversion rate... that's a lot of money if you do the math." Why people disbelieve it: "your entire life you've been conditioned to oh I work 8 hours a day I make this amount of money for that amount of work"; but "entrepreneurs don't work on an hourly basis they work based on the value that they provide," and some don't work at all because automation and a team run the business. Caveat: Dan says he personally works "a lot more" right now because he's building Cortex.
+- **ejemplos:** Three tweets a day; one thread a week; 15 min promotion + 45 min newsletter.
+- **cita:** "entrepreneurs don't work on an hourly basis they work based on the value that they provide"
+- **terminos:** 4-Hour workday philosophy
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-143
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 59:13–1:00:38, 2024-07-28
+- **tension:** Dan admits he currently works far more than 4 hours a day (building Cortex).
+
+## U-006-145
+- **tipo:** advertencia
+- **titulo:** Don't systemize before you have results: if you aren't growing or selling, systemizing the process just leaves you there.
+- **desarrollo:** Dan Koe: "if you aren't seeing results you aren't growing you aren't actually selling anything systemizing that process is just going to leave you there you need to actually get good at what you're doing before that."
+- **ejemplos:** ninguno
+- **cita:** "systemizing that process is just going to leave you there"
+- **terminos:** systemizing
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-144
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 1:00:38, 2024-07-28
+- **tension:** ninguna
+
+## U-006-146
+- **tipo:** dato
+- **titulo:** Growth benchmark: if you aren't gaining 1,500–3,000 followers a month on social media in under 30 minutes a day, you're doing something wrong.
+- **desarrollo:** Dan Koe: "if you aren't growing by 1,500 to 3,000 followers a month on social media you're doing something wrong and you can do better." He adds: "if you weren't gaining 1,500 to 3,000 followers a month in under 30 minutes a day of work you're doing something wrong." With that consistent growth "over a year two years you can make a good amount of money way more than you're used to."
+- **ejemplos:** ninguno
+- **cita:** "if you weren't gaining 1,500 to 3,000 followers a month in under 30 minutes a day of work you're doing something wrong"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-144
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 1:00:38–1:01:20, 2024-07-28
+- **tension:** ninguna
+
+## U-006-147
+- **tipo:** proceso
+- **titulo:** Koe's Law stage 1 — client work within a 4-hour day: 2–3 clients replace an income, with a fixed time budget for prospecting, sales calls, client calls and content.
+- **desarrollo:** Dan Koe: "the first step is to just start with client work because as one person without an audience client work can be the best option" (his course Mental Monetization offers strategies to skip client work by building a digital product while growing an audience). You can land clients "for 1,000 to let's say $10,000 if you're very good" (the transcript reads "$110,000," likely a transcription error — ambiguous), so "you only need two to three clients a month to replace your current income." Within a 4-hour frame: 1 hour per day prospecting for new clients; 3–5 hours per week on sales calls; 2–4 hours per week on client calls; 1 hour per week writing content for audience and clients; "the rest is filled with [spill]over time from any of these."
+- **ejemplos:** ninguno
+- **cita:** "you only need two to three clients a month to replace your current income"
+- **terminos:** client work; Koe's law
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-143
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 1:01:20–1:02:00, 2024-07-28
+- **tension:** ninguna
+
+## U-006-148
+- **tipo:** principio
+- **titulo:** The 4-hour cutoff is a forcing constraint: without it you never hit the point where you must evolve; at 8–9 hours of client work you have no time to evolve.
+- **desarrollo:** Dan Koe: "with a client business you can only take on so many clients with four hours of work a day... and so without the 4-Hour Work Day cut off you're not going to have a time where you're like okay I need to evolve and if you work 8 to 9 hours a day doing client work you're not going to have any time to evolve so you need that buffer." Later: "by working 4 hours a day you forced yourself to change how you work in a more leveraged fashion you didn't add on more work and ruin that possibility."
+- **ejemplos:** ninguno
+- **cita:** "without the 4-Hour Work Day cut off you're not going to have a time where you're like okay I need to evolve"
+- **terminos:** 4-Hour Work Day cut off; buffer
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-143
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 1:02:00–1:02:41; 1:05:18–1:06:01, 2024-07-28
+- **tension:** ninguna
+
+## U-006-149
+- **tipo:** proceso
+- **titulo:** Koe's Law stage 2 — build an audience with writing and switch to a new client model (group coaching or custom fulfillment), moving from ~$100K to $300–500K a year.
+- **desarrollo:** Dan Koe: when you have too many clients and your audience is growing but you need to reduce client work: (1) "build an audience with writing because you don't want to waste time on video editing and Graphics yet," using social media and a newsletter (example: his Instagram, LinkedIn and X; "not talking about fancy reels"); (2) "use a new client model so create a program tutorials or curriculum and take on more clients in a group coaching setting that brings your client work down to 1 to two hours a week." You can get unique with fulfillment: charge a bit less, take on more, do fewer or no calls — e.g., "unlimited texts to me every single day while guiding them through a curriculum" at a lower price; "you don't have to conform to the typical coaching offer you can create your own offer." Result: "thanks to Koe's law you've increased your earning potential from 100k a year with client work to 300 to 500k a year just by changing the way that you fulfill" and having more potential clients in your audience.
+- **ejemplos:** Unlimited texts plus curriculum offer; group coaching.
+- **cita:** "you don't have to conform to the typical coaching offer you can create your own offer"
+- **terminos:** new client model; group coaching; fulfillment
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-147
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 1:02:00–1:04:00, 2024-07-28
+- **tension:** ninguna
+
+## U-006-150
+- **tipo:** proceso
+- **titulo:** Koe's Law stage 3 — productize: "distribution equals freedom and an audience equals distribution"; add a cohort program and a standalone digital product, reaching ~$1M a year.
+- **desarrollo:** Dan Koe: "stage three is to productize with your audience growth distribution equals freedom and an audience equals distribution." You can turn client work into a digital product at any time; selling a product also makes people more likely to hire you ("they see your expertise they realize I don't want to do this myself"): "people with a digital product often land clients more and faster than people without one," so build a curriculum along the way. Steps: (1) create a cohort-based program — charge less than before, take more customers, and thanks to the large audience earn more than the group client model in the same time; (2) build a standalone digital product from your teachings and client results — "you build it once and it sells while you sleep"; (3) leave client work if you want — "you may see a dip in income at the start but that newly allotted time is used to diversify platforms increase revenue and improve audience growth speed." Result: "from 300K a year to 1 million a year," with a product needing only occasional support, optional clients, and e.g. four cohorts a year as revenue spikes. Time allocation: 1–2 hours per week fulfilling the cohort, 2 hours per day writing content, 1–2 hours per day building products.
+- **ejemplos:** Four cohorts a year; product sales in between.
+- **cita:** "distribution equals freedom and an audience equals distribution"
+- **terminos:** productize; distribution equals freedom; cohort based program; standalone digital product
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-149
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 1:04:00–1:05:18, 2024-07-28
+- **tension:** ninguna
+
+## U-006-151
+- **tipo:** argumento
+- **titulo:** The outcome of the evolution: income grew while hours stayed at 4 by focusing on leverage and distribution; cash flow and audience then let you build anything.
+- **desarrollo:** Dan Koe: "this entire time through that entire evolution you have worked 4 hours a day and you've increased your income because by working 4 hours a day you forced yourself to change how you work in a more leveraged fashion... you just focused on Leverage and distribution the things that you actually need to make money." If you only wanted $100K a year, "you could decrease your work time to 30 minutes a day." With cash flow and distribution "you can build whatever you want you can build a software you can build your new startup," you have founders in your audience or an audience that can refer you to them, "so you can get investors better you can get a job better you can find people for your team better."
+- **ejemplos:** Building software or a startup from an audience; finding investors and team.
+- **cita:** "you just focused on Leverage and distribution the things that you actually need to make money"
+- **terminos:** Leverage; distribution; cash flow
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-150
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 1:05:18–1:06:39, 2024-07-28
+- **tension:** ninguna
+
+# Fuente: Learn This Skill If You Want To Be Relevant In 10 Years.md (2024-07-13)
+
+## U-006-152
+- **tipo:** argumento
+- **titulo:** The problem: people are programmed young to rely on everyone but themselves for their future — parents, schools, employers and society — the perfect formula for an insecure future.
+- **desarrollo:** Dan Koe lists who people rely on: "the parents who are living in the past and out of touch with new opportunities the schools that are funded by the system they train you into the employers who benefit from you not seeking better options and will probably lay you off in the next 10 years the society that distracts you with news memes and other noise that controls your emotional well-being." "This is the perfect formula for an insecure future": "learn this do that take your exams believe in this God get this job." "By the time you start navigating your 20s your mind is a computer program that runs the same functions over and over again wake up go to work put in minimal effort pay the bills scroll social media wish for the past worry about tomorrow and have brief glimpses of a future where your delusional sense of security will be threatened by AI automation or just the randomness of life."
+- **ejemplos:** The daily loop of a programmed 20-something.
+- **cita:** "your mind is a computer program that runs the same functions over and over again"
+- **terminos:** programmed; delusional sense of security; insecure future
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 0:00–0:48, 2024-07-13
+- **tension:** ninguna
+
+## U-006-153
+- **tipo:** principio
+- **titulo:** There's no such thing as doing nothing with life: you either do what you want or what others want, and the latter makes life increasingly mechanical.
+- **desarrollo:** Dan Koe: "there's no such thing as doing nothing with life there's only doing what you want to do or doing what others want you to do and if you choose the latter your life becomes more and more mechanical until it's near impossible to escape." His solution: "become independent think for yourself earn for yourself dive into the unknown create your own security revolt against all conventional paths in life as that is the only way to allow room for truth."
+- **ejemplos:** ninguno
+- **cita:** "there's no such thing as doing nothing with life"
+- **terminos:** mechanical; create your own security
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-152
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 0:48, 2024-07-13
+- **tension:** ninguna
+
+## U-006-154
+- **tipo:** fuente-de-tercero
+- **titulo:** Krishnamurti: you appreciate life's richness only when you revolt against everything, so you find out for yourself what is true — "not to imitate but to discover, that is education."
+- **desarrollo:** Dan Koe quotes Jiddu Krishnamurti: "life is really very beautiful it is not this ugly thing that we have made of it and you can appreciate its richness its depth its extraordinary loveliness only when you revolt against everything against organized religion against tradition against the present rotten Society so that you as a human being find out for yourself what is true not to imitate but to discover that is education is it not." Dan's takeaway: "this leaves us with one task open our minds take our own path and discover our way into a life of meaning."
+- **ejemplos:** ninguno
+- **cita:** "not to imitate but to discover that is education"
+- **terminos:** revolt; education; discover
+- **origen:** de-tercero:Jiddu Krishnamurti
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-153
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 0:48–1:44, 2024-07-13
+- **tension:** ninguna
+
+## U-006-155
+- **tipo:** argumento
+- **titulo:** Overwhelm leads to paralysis by analysis, which means doing what others want; AI replaces those without direction, vision or the ability to set and achieve their own goals.
+- **desarrollo:** Dan Koe: there's too much on everyone's minds — social media, notifications, "AI is taking over," 20-year-olds don't know what to learn, children don't know what to study. "All of these things start to add up in your mind and they just lead to paralysis by analysis you end up quote unquote doing nothing with your life but in reality you do what other people want for you and that becomes more efficient with time and as technology advances so by doing nothing you're just making yourself more of a replacement for AI." Those replaced: "the people that don't have Direction the people that don't have Vision the people who can't make a decision for themselves create their own goals and achieve them." "That alone is this entire video it's learning how to think for yourself learning how to make decisions for yourself and understanding that problems will always exist." Mechanism: people get replaced "because the problems that are being solved by that replacement are easy to solve with the thing but then that's going to birth more problems." Central question: "how do we choose and pursue the things that are going to secure our future when those things continuously change as technology does."
+- **ejemplos:** ninguno
+- **cita:** "by doing nothing you're just making yourself more of a replacement for AI"
+- **terminos:** paralysis by analysis; Direction; Vision
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-153
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 1:44–3:29, 2024-07-13
+- **tension:** ninguna
+
+## U-006-156
+- **tipo:** término-acuñado
+- **titulo:** "Hunting": the skill to learn is to hunt for your survival, as opposed to pursuing assigned goals whose path is already known.
+- **desarrollo:** Dan Koe: "the skill that you need to learn is hunting you need to learn to hunt for your survival you can't find enjoyment in life because you don't know how to hunt." Contrast with assignment: "you're assigned material to read to pass your exams you're assigned a routine to complete your tasks at a job you're assigned beliefs and values to survive in your culture." "The problem with assigned goals is that the path to achieve them is known you are doing something that's been done before or you're repeating tasks that a Visionary assigned to you to build their dream instead of your own." "Your psyche or mind is wired to hunt for its survival." Later definition: "to hunt is to discover knowledge skills ideas and opportunities that help you achieve the goals you set for yourself and once those goals become known you must have another one ready so you don't get lost."
+- **ejemplos:** Assigned exam material, job routines, cultural beliefs.
+- **cita:** "the problem with assigned goals is that the path to achieve them is known"
+- **terminos:** hunting; hunt for your survival; assigned goals
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-155
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 3:29–4:12; 5:51, 2024-07-13
+- **tension:** ninguna
+
+## U-006-157
+- **tipo:** metáfora
+- **titulo:** "Monkeys in a cubicle": ancestral mental wiring in a new environment; slowly accumulating boredom makes a lower state of consciousness feel normal.
+- **desarrollo:** Dan Koe: "if you were to put a chimpanzee in a fluorescent lit cubicle for 8 hours a day do you think it would Thrive of course not it lacks the natural environment that contributes to its psychological well-being you don't need a scientific paper to assume this." "Most people are monkeys in a cubicle they have the mental wiring that our ancestors did but they're in a new environment and nobody understands how to act within that environment." "The psychological effects that come with boredom and a repetitive string of tasks slowly builds and builds and because it slowly builds... you don't even notice it so you're operating at this Lower State of Consciousness for so long that you just think it's normal," you don't think you can feel better or that any opportunities are worth pursuing. At such a job "there is no more learning there is no challenge there is no growth" (he notes "of course this is for some jobs").
+- **ejemplos:** A chimpanzee in a fluorescent-lit cubicle.
+- **cita:** "most people are monkeys in a cubicle"
+- **terminos:** monkeys in a cubicle; Lower State of Consciousness
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-156
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 3:29–5:02, 2024-07-13
+- **tension:** ninguna
+
+## U-006-158
+- **tipo:** opinión
+- **titulo:** The 90/9/1 job split: 90% hate their jobs, 9% think they enjoy them but would be better off leaving, 1% truly fit — and those 1% should keep their job.
+- **desarrollo:** Dan Koe: "I would argue that 90% of people are in jobs that they hate and I would argue that statistics back that a select 9% of people are in jobs that they think they enjoy and they're okay with it and they're not trying to get out but they would be better off if they got out the last 1% are in the select few jobs where all of the psychological markers match perfectly and they thoroughly enjoy their job." Exception: "if you are in that 1% this doesn't apply to you if you are absolutely happy and have the autonomy to do what you want in your life keep the job." No specific statistic is cited.
+- **ejemplos:** ninguno
+- **cita:** "if you are absolutely happy and have the autonomy to do what you want in your life keep the job"
+- **terminos:** psychological markers; autonomy
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-006-157
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 5:02–5:51, 2024-07-13
+- **tension:** ninguna
+
+## U-006-159
+- **tipo:** framework
+- **titulo:** The three options under psychological insecurity: fixate on the predictable future (anxiety), the familiar past (boredom) — both numbed with distraction — or set a new goal and navigate the unknown.
+- **desarrollo:** Dan Koe: for the 99% in careers or life directions "that lead to this psychological insecurity that you think is security," the only options are: (1) "focus on the predictable future and get anxious so you numb your mind with distractions"; (2) "focus on the familiar past and get bored so again you numb your mind with distractions"; (3) "set a new goal so you can finally take control of your life and start navigating the unknown the only place you can learn grow and expand." "If you don't have a goal the only option is to get distracted."
+- **ejemplos:** ninguno
+- **cita:** "if you don't have a goal the only option is to get distracted"
+- **terminos:** psychological insecurity; predictable future; familiar past; the unknown
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-156
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 5:51, 2024-07-13
+- **tension:** ninguna
+
+## U-006-160
+- **tipo:** framework
+- **titulo:** The hunting skill set, top-down: vision (direction), goals (clarity), systems (progress), open-mindedness (awareness), high agency (identifying problems), creativity (unique solutions) — plus the meta skill of making money.
+- **desarrollo:** Dan Koe's six steps "for learning to hunt": (1) a vision for direction; (2) goals for clarity; (3) systems for progress; (4) open-mindedness for awareness; (5) being high agency, to identify problems in the here and now; (6) creativity for unique solutions. Summary: "that's all you need is Vision goals systems open-mindedness agency and creativity from the top down... you're creatively solving problems on a day-to-day basis High leverage problems." Then "one last skill that is a meta skill for learning other tangible skills": making money. Each step bridges to the next: vision and goals are "fickle... guides... so far out so we need to bring it closer" (systems); after vision, goals and systems "now we're open-minded we need to use that open-mindedness in the here and now to identify problems" (agency).
+- **ejemplos:** ninguno
+- **cita:** "Vision goals systems open-mindedness agency and creativity from the top down"
+- **terminos:** Vision; goals; systems; open-mindedness; agency; creativity; meta skill
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-156
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 5:51; 9:38; 16:05–16:49; 21:56, 2024-07-13
+- **tension:** ninguna
+
+## U-006-161
+- **tipo:** concepto
+- **titulo:** Step 1, vision for direction: an evolving image of the future — your life's work, Kotler's "massively transformative purpose," Greene's "life's task" — discovered by revolting against what you don't want.
+- **desarrollo:** Dan Koe explains he repeats "you need a vision" in every video because you need reminding and cultivating; if it "just goes through your head and not stick maybe it's time to rethink that." "The world's greatest artists Founders and creatives are all Visionaries they have an evolving image of what they want the future to look like." "Your vision is your life's work your vision is the massively transformative purpose that Steven Kotler illustrates as a step to achieving The Impossible your vision is your life's task as Robert Greene would point to as a key to the good life." "You discover what you want by realizing what you don't want and revolting against it." "Your vision will come and go you felt its power before when your vision is clear use that energy when your vision is foggy keep an open mind for the lessons that life is trying to teach you." "My vision isn't always clear... it's the cycles of life."
+- **ejemplos:** ninguno
+- **cita:** "you discover what you want want by realizing what you don't want and revolting against it"
+- **terminos:** vision; life's work; massively transformative purpose; life's task
+- **origen:** propia (with de-tercero:Steven Kotler; de-tercero:Robert Greene)
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-160
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 5:51–7:17, 2024-07-13
+- **tension:** ninguna
+
+## U-006-162
+- **tipo:** framework
+- **titulo:** The cycle of curiosity, intensity, consistency and feeling lost — and why you must systemize during the intensity phase.
+- **desarrollo:** Dan Koe: "you go through curiosity intensity consistency and feeling lost in that cycle." Sequence: (1) you feel lost, but if you stay open-minded and aren't "drowning in the emotions that come with feeling lost," you notice an opportunity; (2) you get curious and dive in; (3) "you go into this season of intensity where you build build build a business your body whatever it is you have that intense motivation"; (4) "if you don't systemize along the way... when that crash inevitably comes you aren't going to be consistent"; "if you systemize what works and you create something sustainable from the intensity and all of that energy then the consistency kind of just becomes easy and it becomes a part of your life," so "you increase your Baseline both State of Consciousness and just well-being and enjoyment in general."
+- **ejemplos:** Building a business or your body during an intense season.
+- **cita:** "if you systemize what works and you create something sustainable from the intensity... then the consistency kind of just becomes easy"
+- **terminos:** curiosity; intensity; consistency; feeling lost; Baseline
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-161
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 7:17–8:03, 2024-07-13
+- **tension:** ninguna
+
+## U-006-163
+- **tipo:** método
+- **titulo:** Step 2, goals for clarity: set 10-year, 1-year, monthly, weekly and daily goals — then forget them; use them to reorient the mind and reverse-engineer the system.
+- **desarrollo:** Dan Koe: "set a 10-year goal set a one-year goal set monthly goals set weekly goals set daily goals then forget about them all." Why goals: (1) "to reorient your mind toward the habits you must form that create the future you choose"; (2) "to form the system that would achieve those goals"; (3) "so your pattern recognition machine of a mind can notice and store information that aids in the achievement of those goals." Limits: "you probably won't hit all of those goals they probably won't keep you motivated use them to reverse engineer what you need to do to reach your vision then forget about them."
+- **ejemplos:** ninguno
+- **cita:** "set a 10-year goal set a one-year goal set monthly goals set weekly goals set daily goals then forget about them all"
+- **terminos:** goals for clarity; pattern recognition machine; reverse engineer
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-161
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 8:03–8:51, 2024-07-13
+- **tension:** ninguna
+
+## U-006-164
+- **tipo:** argumento
+- **titulo:** Vision and goals protect you from AI because the replaced are those achieving goals AI helps achieve; you become the visionary who uses AI as a tool.
+- **desarrollo:** Dan Koe: how do vision and goals help you not live an assigned life or be replaced? "Because the people being replaced by AI are achieving the goals that the AI helps them achieve rather than getting replaced you're becoming the Visionary who can use AI as a tool to further your own goals you're becoming a free thinker you're becoming a master simply by having a vision and a goal for your future." Caveat: vision and goals "are fickle those things are guides those things are so far out so we need to bring it closer to us so we can act every day with confidence" — hence systems.
+- **ejemplos:** ninguno
+- **cita:** "you're becoming the Visionary who can use AI as a tool to further your own goals"
+- **terminos:** Visionary; free thinker
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-163
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 8:51–9:38, 2024-07-13
+- **tension:** ninguna
+
+## U-006-165
+- **tipo:** definición
+- **titulo:** Step 3, systems for progress: a system is a series of actions or processes leading to a specific result; it needs a goal and the goal needs it (via James Clear).
+- **desarrollo:** Dan Koe cites James Clear: "winners and losers have the same goals." Dan: "a system can't exist without a goal a goal won't be achieved without a system." Definition: "a series of actions or processes that lead to a specific result we see these in the forms of habits routines rituals practice and repetition in the areas of your life that are important." Distinction: "we are talking about conscious systems in alignment with a self-generated goal not unconscious known systems toward assigned goals there's a big difference there."
+- **ejemplos:** Habits, routines, rituals, practice, repetition.
+- **cita:** "a system can't exist without a goal a goal won't be achieved without a system"
+- **terminos:** systems for Progress; conscious systems; self-generated goal; assigned goals
+- **origen:** propia (adaptada-de:James Clear)
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-163
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 9:38–10:28, 2024-07-13
+- **tension:** ninguna
+
+## U-006-166
+- **tipo:** principio
+- **titulo:** Self-generated goals evolve when achieved; assigned goals stay the same, their means become more efficient over time and get replaced by technology.
+- **desarrollo:** Dan Koe: "self-generated goals evolve when achieved assigned goals stay the same and the modes of achieving them become efficient with time and get replaced by technology." This is the mechanism linking assigned goals to replacement: a static goal invites optimization of its means until a machine can do it.
+- **ejemplos:** ninguno
+- **cita:** "self-generated goals evolve when achieved assigned goals stay the same"
+- **terminos:** self-generated goals; assigned goals
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-165
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 10:28, 2024-07-13
+- **tension:** ninguna
+
+## U-006-167
+- **tipo:** principio
+- **titulo:** The path to full control over your future: solve your own problem with a unique system and sell the solution again and again, evolving with society's problems.
+- **desarrollo:** Dan Koe's system examples: to make money, "a system for writing content every day to generate traffic" (taught in 2 Hour Writer); to get fit, "a system for training and eating preferably one that you find enjoyable and sustainable"; for a better relationship, "a system for communication and connection." "Understand that one system doesn't fit all." "The path to full control over your future is to solve your own problem with a unique system and sell the solution over and over again evolving as society's personal and Collective problems do that's how you adapt."
+- **ejemplos:** Daily content system for money; enjoyable training/eating system for fitness; communication system for relationships.
+- **cita:** "the path to full control over your future is to solve your own problem with a unique system and sell the solution over and over again"
+- **terminos:** unique system
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-165
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 10:28–11:12, 2024-07-13
+- **tension:** ninguna
+
+## U-006-168
+- **tipo:** proceso
+- **titulo:** "Creator" as a way of life, not a job title: identify a problem (agency), research, synthesize, build your own system, pass it down so the person behind you gets results faster.
+- **desarrollo:** Dan Koe: "I don't think the creator economy can be reduced to just people who create content for the sake of a job I see it as a way of life being a Creator." Reducing "creator" to "some myopic job title" is close-minded. What creators do: (1) "they're identifying problems in their life because they have agency and they don't need permission from a boss to go and solve a problem"; (2) "they research how to solve it through the internet"; (3) "they synthesize that information"; (4) "they create their own system for getting results"; (5) "they pass that down to someone behind them so that person can get results faster and Humanity can evolve just by that process alone." This is about "solving human problems meaningful problems" — "AI can't go into your head yet and fix your mental health issues or your growth needs your self-actualization needs." "This is why I say you are the niche because you are simply passing down what worked for you to someone else who has a very similar personality as you by attracting them to your vision and goals."
+- **ejemplos:** ninguno
+- **cita:** "they don't need permission from a boss to go and solve a problem"
+- **terminos:** Creator; way of life; you are the niche; self-actualization needs
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-167
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 11:12–12:44, 2024-07-13
+- **tension:** ninguna
+
+## U-006-169
+- **tipo:** definición
+- **titulo:** Everything described is a business model: your vision is also what you attract people toward, and a business is a legal structure to achieve your vision in public and get paid.
+- **desarrollo:** Dan Koe: "everything I'm talking about right now is a business model this isn't just a way of oh I need to create a vision and a goal so I can pursue a better future this is everything your vision is your vision but it's also what you're attracting people towards and then that's what turns it into a business but a business is just a legal structure to allow you to achieve your vision in public and make money by doing so." At the end he restates: "a business is just a legal structure that allows you to build a solution to a problem and get paid for it your ancestors didn't need the legal structure to make a living they could simply trade goods and services directly."
+- **ejemplos:** Ancestors trading goods and services directly.
+- **cita:** "a business is just a legal structure to allow you to achieve your vision in public and make money by doing so"
+- **terminos:** business model; legal structure; vision in public
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-168
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 12:44; 30:02, 2024-07-13
+- **tension:** Slight variant of the business definition in U-006-079 (build what you want, solve valuable problems, profit from both).
+
+## U-006-170
+- **tipo:** proceso
+- **titulo:** How to create a system: self-experimentation — research, experiment, find patterns and principles, create your own process, pass it down.
+- **desarrollo:** Dan Koe: "how do you create a system self-experimentation nobody can teach you how to do something they can only teach you how they do something." Steps: (1) research processes others have found success with — "on social media in courses or with a simple Google search"; (2) experiment with various techniques, implement and attempt to get results; (3) discover patterns and principles — "note the similarities between each and double down on them"; (4) create your own process — "tailor what you learn to your unique lifestyle and situation"; (5) contribute to true education by passing it down, "education that can't be taught in schools with a fundamental grounding in critical thinking." He points to his course Mental Monetization for turning systems into digital products, software or physical products.
+- **ejemplos:** ninguno
+- **cita:** "nobody can teach you how to do something they can only teach you how they do something"
+- **terminos:** self-experimentation; True education
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-165
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 12:44–13:29, 2024-07-13
+- **tension:** Same process as U-006-093 (repeated in the later video, which adds the daily 30–60 minute habit).
+
+## U-006-171
+- **tipo:** fuente-de-tercero
+- **titulo:** Step 4, open-mindedness for awareness: Schmachtenberger's deep generalism and The Kybalion's universal principles as training for big-picture thinking.
+- **desarrollo:** Dan Koe opens the step with Daniel Schmachtenberger's quote ("traditional education and hyperspecialization is a way to make people subservient to the dominant Paradigm or system study the generalized principles of Nature and be a deep generalist"). He then recommends The Kybalion, "a book about hermetic philosophy," acknowledging that online "you're going to find a bunch of people trashing it." He found it helpful as someone "spiritually metaphysical and ancient knowledgy inclined" and enjoyed its esoteric side; it "goes over the universal principles or laws," and he wants you to read it and "try to notice those things in reality so you can start to understand what I mean by saying big picture thinking or what Daniel Schmachtenberger here says as studying deep generalized principles of reality or nature." The specific principles are not listed in the transcript.
+- **ejemplos:** ninguno
+- **cita:** "try to notice those things in reality"
+- **terminos:** open-mindedness for awareness; big picture thinking; deep generalist; universal principles
+- **origen:** de-tercero:Daniel Schmachtenberger; de-tercero:The Kybalion (hermetic philosophy)
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-160
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 13:29–14:20, 2024-07-13
+- **tension:** ninguna
+
+## U-006-172
+- **tipo:** argumento
+- **titulo:** Schools keep you narrow: a hierarchy of goals orders your mind and feels secure, but the goals don't evolve, locking you into an ideological structure and a niche's "fabricated prestige."
+- **desarrollo:** Dan Koe: "many people don't want to hear this but schools were created to keep you narrow-minded and dumb you are given a hierarchy of goals to pursue and this orders your mind it makes you feel secure but often those goals don't evolve right so you get locked into this ideological structure and then you lose all challenge or growth you learn within one Niche to reach the fabricated Prestige that Niche offers." "You want that degree even when you know deep down you could succeed massively without it so the only things you learn are in alignment with that degree by the time you get it you aren't educated at all you just spent 4 years learning your way into limited opportunities and potential replacement."
+- **ejemplos:** A four-year degree.
+- **cita:** "you just spent 4 Years Learning your way into limited opportunities and potential replacement"
+- **terminos:** hierarchy of goals; ideological structure; fabricated Prestige
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-171
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 14:20–15:16, 2024-07-13
+- **tension:** Here "schools were created to keep you narrow-minded and dumb" is asserted flatly; in the later video (U-006-085) he frames the same idea as "just a metaphor... whether it's a conspiracy theory or not."
+
+## U-006-173
+- **tipo:** principio
+- **titulo:** "Education is not programming": free men were expected to do many things, which brings power, flexibility, principles-based decision-making and the ability to change direction.
+- **desarrollo:** Dan Koe: "education is not programming slaves were expected to perform one task for the entirety of their lives free men were expected to do many things throughout their lives because that brings power flexibility principles based decision-making and the ability to change Direction with a well-rounded skill set to nearly guarantee success."
+- **ejemplos:** Slaves vs. free men.
+- **cita:** "education is not programming"
+- **terminos:** education; programming; principles based decision-making; well-rounded skill set
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-172
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 15:16, 2024-07-13
+- **tension:** ninguna
+
+## U-006-174
+- **tipo:** ejercicio-del-autor
+- **titulo:** Practice opening your mind: notice your negative reactions, call yourself out, and think through all perspectives — not just the one that discourages action.
+- **desarrollo:** Dan Koe: when you start your own path "this will be a difficult transition your mind will close off and react [to] everything that threatens your worldview." Typical reactions: "social media that's toxic it's all memes and negativity"; "starting a business that's for people who already have money not people who want to start making more"; "writing that's only for English Majors academics and authors"; (ironically) "I definitely don't text and persuade my friends every day I definitely couldn't provide some form of value and find more like-minded people on the internet." Practice: "when you notice a negative reaction you must call yourself out on your own [bullshit] you must see beyond the ideas and beliefs that older Generations programmed into your head because they're blinding you from your potential." "Rather than reacting and distracting yourself from problems open your mind and think through all perspectives not just the one that discourages action and keeps you a slave."
+- **ejemplos:** "Social media is toxic"; "business is for people with money"; "writing is for English majors."
+- **cita:** "when you notice a negative reaction you must call yourself out on your own [ __ ]"
+- **terminos:** open your mind
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-171
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 15:16–16:49, 2024-07-13
+- **tension:** ninguna
+
+## U-006-175
+- **tipo:** concepto
+- **titulo:** Step 5, high agency: the difference between an employee and an entrepreneur is agency — one is given problems, the other identifies and solves them without permission.
+- **desarrollo:** Dan Koe calls this step "arguably the most important": with vision, goals, systems and open-mindedness, "we need to use that open-mindedness in the here and now to identify problems." "The difference between an employee and an entrepreneur is agency an employee is given a problem to solve to achieve the goals of the company they work for an entrepreneur identifies and solves problems without the need to ask permission from someone or else they will never achieve their goals."
+- **ejemplos:** ninguno
+- **cita:** "the difference between an employee and an entrepreneur is agency"
+- **terminos:** high agency; employee; entrepreneur
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-160
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 16:05–16:49, 2024-07-13
+- **tension:** ninguna
+
+## U-006-176
+- **tipo:** caso
+- **titulo:** Cortex's high-agency team: contractors as one-person businesses, and developer Ian's unrequested complete app redesign.
+- **desarrollo:** Dan Koe on Cortex ("our software a second brain for writers"): "I'm incredibly grateful that our team is high agency." He doesn't see them as employees ("one because they aren't they're contractors") but as "entrepreneurs collaborating with entrepreneurs or one person businesses collaborating with one person businesses." "They hold the same vision for our product when they spot a problem they solve it and share the solution with us even if we have to make small changes to that solution but even then we can't improve on a solution that doesn't exist." Example: developer Ian, who spotted a problem and worked on it in the background, "came to us with a complete app redesign." "Yes it set us back a bit but the app is in such a so much better spot now and I don't know where we would be without that singular person exercising his agency"; in such an environment he'll be compensated "in more ways than money but money too."
+- **ejemplos:** Ian's complete redesign of the Cortex app.
+- **cita:** "we can't improve on a solution that doesn't exist"
+- **terminos:** high agency; one person businesses collaborating
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-006-175
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 16:49–17:42, 2024-07-13
+- **tension:** ninguna
+
+## U-006-177
+- **tipo:** principio
+- **titulo:** To stay relevant you can't depend on anybody for your security: problems will always exist; if you can't spot them, or can't give yourself permission to solve them, you lose.
+- **desarrollo:** Dan Koe: "in your own life if you want to stay relevant in the coming years you can't depend on anybody for your security problems will always exist if you can't spot them you lose if you can't give yourself permission to solve them you lose."
+- **ejemplos:** ninguno
+- **cita:** "if you can't spot them you lose if you can't give yourself permission to solve them you lose"
+- **terminos:** permission
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-175
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 17:42–18:29, 2024-07-13
+- **tension:** ninguna
+
+## U-006-178
+- **tipo:** fuente-de-tercero
+- **titulo:** Step 6, creativity for unique solutions — Krishnamurti: we are becoming mere technicians; technique without attention to the inner state brings ugliness and chaos.
+- **desarrollo:** Dan Koe quotes Krishnamurti: "unfortunately most of us are becoming mere technicians we pass examinations acquire this or that technique in order to earn a livelihood but to acquire technique or develop capacity without paying attention to the inner State brings about ugliness and Chaos in the world if we awaken creative Beauty inwardly it expresses itself outwardly and then there is order." Dan: "what is creativity that is an extremely difficult question to answer when you peel beyond the surface of skills and identities labeled as creative like designers and filmmakers but those creatives can still follow mechanical stupefying processes in their work." Creativity is therefore not a job label. "As Krishnamurti said before most of us are becoming technicians robots it's no wonder why people are so afraid of losing their jobs and being replaced they lack creativity they are not creators."
+- **ejemplos:** Designers and filmmakers following mechanical processes.
+- **cita:** "most of us are becoming mere technicians"
+- **terminos:** technicians; inner State; creativity for Unique Solutions
+- **origen:** de-tercero:Jiddu Krishnamurti (applied by Dan Koe)
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-160
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 18:29–19:23, 2024-07-13
+- **tension:** ninguna
+
+## U-006-179
+- **tipo:** definición
+- **titulo:** Creativity is the process of bringing order to consciousness to embrace chaos: collect the dots, connect the dots, create with the dots.
+- **desarrollo:** Dan Koe: "creativity in my eyes is the process of bringing order to Consciousness to embrace chaos collect the dots connect the dots and create with the dots to create certainty from uncertainty sense from nonsense Clarity from chaos Focus from distraction signal from noise something from nothing success from failure meaning from struggle life from Death positive from negative."
+- **ejemplos:** The list of transformations (certainty from uncertainty, signal from noise, meaning from struggle, etc.).
+- **cita:** "collect the dots connect the dots and create with the dots"
+- **terminos:** creativity; bringing order to Consciousness; collect the dots; connect the dots; create with the dots
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-178
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 18:29–19:23, 2024-07-13
+- **tension:** ninguna
+
+## U-006-180
+- **tipo:** argumento
+- **titulo:** If you follow a string of assignments at a large corporation, replacement is a question of when, not if; but problems never go away, and growth needs remain.
+- **desarrollo:** Dan Koe: "machines can solve a problem in 30 seconds that used to take humans hundreds of hours to solve that means if you follow a string of assignments at a massive Corporation it isn't a question of if you will be replaced it's a question of when." "What most worried people don't understand is that problems will never go away AI may help solve for our basic needs but what about our growth needs what about the new problems that people can't predict that emerge from advancements and technological efficiency." "This isn't anything new it's just happening faster than it has before meaning the chances for replacement are happening more than before unless you adapt."
+- **ejemplos:** 30 seconds vs. hundreds of hours.
+- **cita:** "it isn't a question of if you will be replaced it's a question of when"
+- **terminos:** basic needs; growth needs
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-178
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 19:23–20:15, 2024-07-13
+- **tension:** ninguna
+
+## U-006-181
+- **tipo:** argumento
+- **titulo:** AI can help with challenge, health, connection, meaning and spirituality but cannot solve them, because they depend on your choice — so optimize decision-making.
+- **desarrollo:** Dan Koe: "can AI solve the need for challenge Health connection meaning spirituality and every other aspect of self-actualization that can't be reduced to an external solution my answer to that is potentially it can help them it can't solve them because that's dependent on your choice so the lesson here is decision-making and choice that is what you need to optimize for and work on because your livelihood depends on it." "This shines a light on the emerging meaning economy": "solve your own problems and sell the unique solution," "dive into the unknown set your mind on the vision for the future collect the knowledge and skill that allows you to make it reality and distribute your findings to others to unify Consciousness to create or be created."
+- **ejemplos:** ninguno
+- **cita:** "it can help them it can't solve them because that's dependent on your choice"
+- **terminos:** meaning economy; decision-making and choice; to create or be created
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-180
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 20:15–21:05, 2024-07-13
+- **tension:** ninguna
+
+## U-006-182
+- **tipo:** fuente-de-tercero
+- **titulo:** "ChatGPT is bullshit": machines aren't concerned with truth; Dan's reading — they lack conscious experience, so self-reflective consciousness is your survival edge.
+- **desarrollo:** Dan Koe cites "a research paper titled ChatGPT is [bullshit] which is a sort of sequel to the declaration that ChatGPT is a [bullshit] generator from computer scientists Arvind Narayanan and Sayash Kapoor": "because these programs cannot themselves be concerned with truth and because they are designed to produce text that looks truth-apt without any actual concern for truth it seems appropriate to call their outputs [bullshit]." (Attribution as given by Dan; the transcript is not fully clear which authors wrote which piece.) Dan's interpretation: "the major downfall of machines is they lack conscious experience if you can harness the singular yet infinitely complex trait of self-reflective Consciousness you have a chance to survive that is to say if you learn to earn or survive with the creative ability of your mind not time labor looks status Prestige handouts or any other fickle and replaceable materialistic resource you unlock a level of power reserved for those of true wealth."
+- **ejemplos:** ninguno
+- **cita:** "the major downfall of machines is they lack conscious experience"
+- **terminos:** self-reflective Consciousness; creative ability of your mind; true wealth
+- **origen:** adaptada-de:"ChatGPT is bullshit" paper / Arvind Narayanan and Sayash Kapoor
+- **nivel:** avanzado
+- **prerrequisitos:** U-006-179
+- **fuente:** Learn This Skill If You Want To Be Relevant In 10 Years.md, 21:05–21:56, 2024-07-13
+- **tension:** ninguna
