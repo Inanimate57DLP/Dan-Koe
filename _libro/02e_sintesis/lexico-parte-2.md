@@ -854,7 +854,7 @@ Fuente: `lexico-todo.md`, filas 670–1671 (términos que empiezan por d–l, ig
 - **acuñado por:** Dan Koe
 - **fechas:** 2025-10 – 2025-11-24
 - **IDs:** U-024-118, U-024-124, U-015-200
-- **relación:** variantes "dissonance phase", "dissonance / uncertainty / discovery"; personal evolution loop; three phases of change. El uso de T18 es un sentido distinto (disonancia en el mensaje de un producto) aunque comparte la palabra.
+- **relación:** variantes "dissonance phase", "dissonance / uncertainty / discovery"; personal evolution loop; three phases of change. Equivalente a identity flips (mismas tres fases con otro nombre). El uso de T18 es un sentido distinto (disonancia en el mensaje de un producto) aunque comparte la palabra.
 
 ### Distraction
 - **tipo:** término acuñado
@@ -950,9 +950,9 @@ Fuente: `lexico-todo.md`, filas 670–1671 (términos que empiezan por d–l, ig
 - **tipo:** término acuñado
 - **definición:** Los creadores mezclan ideas como los DJs mezclan sonidos: las ideas son los sonidos y el contenido, las canciones.
 - **acuñado por:** Dan Koe
-- **fechas:** 2022-12 – 2023-07
-- **IDs:** U-007-184, U-011-222
-- **relación:** alias "idea junkies"; remix; tree of content.
+- **fechas:** 2022-12 – 2024-02
+- **IDs:** U-007-184, U-011-222, U-001-120
+- **relación:** alias "idea junkies" y "IJs (idea junkies)" (la fila de 2024-02 usa la sigla IJs con la misma definición); remix; tree of content; synthesizer.
 
 ### DM script / novel advice
 - **tipo:** término acuñado
@@ -2600,7 +2600,7 @@ Fuente: `lexico-todo.md`, filas 670–1671 (términos que empiezan por d–l, ig
 - **acuñado por:** Kotler, adaptado por Dan Koe (la fila de 2024-03 lo presenta como de Dan Koe)
 - **fechas:** 2022 – 2024
 - **IDs:** U-003-154, U-020-197, U-005-137, U-023-176, U-023-177
-- **relación:** flow.
+- **relación:** flow; misma lista que intrinsic drivers / flow drivers (mismo concepto con otro nombre; ver intrinsic drivers).
 
 ### five levels of financial wealth / escape velocity
 - **tipo:** término de invitado
@@ -3559,7 +3559,7 @@ Fuente: `lexico-todo.md`, filas 670–1671 (términos que empiezan por d–l, ig
 - **acuñado por:** Dan Koe
 - **fechas:** 2024-10 (única aparición)
 - **IDs:** U-015-037
-- **relación:** vecino de Digital Renaissance (otro sentido: aquí es la época de inicio de YouTube).
+- **relación:** —
 
 ### golden handcuffs
 - **tipo:** término de tercero usado por el autor
@@ -4072,7 +4072,7 @@ Fuente: `lexico-todo.md`, filas 670–1671 (términos que empiezan por d–l, ig
 - **acuñado por:** Dan Koe
 - **fechas:** 2025-04 (única aparición)
 - **IDs:** U-021-143
-- **relación:** vecino de dopamine from information gathering.
+- **relación:** —
 
 ### hole of mediocrity
 - **tipo:** término acuñado
@@ -4494,3 +4494,2213 @@ Fuente: `lexico-todo.md`, filas 670–1671 (términos que empiezan por d–l, ig
 - **IDs:** U-014-162, U-014-159
 - **relación:** pay to play; tribe; social capital; alias catalyst strategy.
 
+### idea density
+- **tipo:** término acuñado
+- **definición:** Cantidad de ideas de alta señal en una fuente o en tu contenido; crece con el tiempo.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-01 (única aparición)
+- **IDs:** U-010-316, U-010-320
+- **relación:** high signal.
+
+### idea dump / outline page / draft page
+- **tipo:** término acuñado
+- **definición:** Las piezas para escribir algo persuasivo.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-09 (única aparición)
+- **IDs:** U-014-102
+- **relación:** brain dump.
+
+### idea flow
+- **tipo:** término acuñado
+- **definición:** Más ideas generan más eventos exponenciales; la mente consume, conecta y crea.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-018-163, U-019-043
+- **relación:** consume connect create; exponential events.
+
+### idea generation machine / creative firepower
+- **tipo:** término acuñado
+- **definición:** Lo que te vuelves al consumir para aprender y aplicar ("don't consume, research").
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-07 (única aparición)
+- **IDs:** U-011-227
+- **relación:** creator mindset.
+
+### idea museum
+- **tipo:** término acuñado
+- **definición:** El swipe file: un lugar donde anotar ideas apenas aparecen.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-01 (única aparición)
+- **IDs:** U-010-318, U-010-323
+- **relación:** swipe file; museum of structures; database of big ideas.
+
+### idea platform
+- **tipo:** término acuñado
+- **definición:** Twitter como plataforma de ideas, centrada en escritura y articulación (2022-10).
+- **definición:** Twitter como plataforma basada en ideas y escritura (2024-02-06).
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-10 – 2024-02-06
+- **IDs:** U-011-105, U-001-066
+- **relación:** monetize your mind; retweet button.
+
+### idea space
+- **tipo:** término acuñado
+- **definición:** Mapa universal con zonas exploradas (claras) y potenciales (oscuras).
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-12 (única aparición)
+- **IDs:** U-013-216
+- **relación:** dots on a map; the idea space (ideas are the new oil); five fundamental human capabilities.
+
+### idea to execution muscle
+- **tipo:** término acuñado
+- **definición:** Capturar de inmediato ideas en la intersección de performance y excitement.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-06-08 (única aparición)
+- **IDs:** U-015-139
+- **relación:** pilar growth; execution gap.
+
+### idea warfare
+- **tipo:** término acuñado
+- **definición:** Variante "idea warfare / mental real estate": el contenido es una guerra de ideas por espacio mental en la psique colectiva; gana quien publica más ideas que cambian perspectivas.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-12 – 2024-02
+- **IDs:** U-007-140, U-001-139
+- **relación:** alias mental real estate; valuable ideas; positive mind virus; game of selling better ideas.
+
+### idea workers
+- **tipo:** término acuñado
+- **definición:** Quienes cazan y sintetizan ideas; el 80 % de escribir es investigación y el 20 %, estructura propia (2026-06).
+- **definición:** Quienes prosperan en la era digital construyendo bienes raíces y productos digitales a costo marginal bajo (2024-06).
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-06 – 2026-06
+- **IDs:** U-010-348, U-012-090
+- **relación:** holistic synthesizer; digital real estate.
+
+### idea you wish you wrote
+- **tipo:** término acuñado
+- **definición:** Señal de una buena idea: "that's really good, I wish I wrote that".
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2026
+- **IDs:** U-021-024, U-020-112, U-022-198, U-010-320
+- **relación:** modern hunting; hunt for ideas.
+
+### ideal customer persona
+- **tipo:** término de invitado
+- **definición:** Variante "ideal customer persona (aplicado a contratación)": tratar a la persona 10x como el cliente ideal cuyos deseos se trabajan hacia atrás.
+- **acuñado por:** John Hugh (bloque T18)
+- **fechas:** 2025-01-28 (única aparición)
+- **IDs:** U-004-056
+- **relación:** productizing a company.
+
+### ideal future
+- **tipo:** término acuñado
+- **definición:** El futuro que se empieza a vivir ahora hasta que se "actualiza" del todo.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (todas las filas)
+- **IDs:** U-008-033, U-003-160
+- **relación:** T03.
+
+### ideal lifestyle
+- **tipo:** término acuñado
+- **definición:** El trabajo debe girar en torno a él.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-011-181
+- **relación:** —
+
+### ideal mind
+- **tipo:** término acuñado
+- **definición:** Variante "ideal mind / curation": capturar las ideas que forman tu visión del mundo; curar importa más cuando la IA crea todo.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026 (todas las filas)
+- **IDs:** U-021-223, U-021-227
+- **relación:** close the loop; curation.
+
+### ideal reader
+- **tipo:** término acuñado
+- **definición:** Tratarte como el lector ideal: yo pasado, presente y futuro.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 – 2023
+- **IDs:** U-011-111, U-011-239
+- **relación:** public journal.
+
+### ideal scene
+- **tipo:** término de tercero usado por el autor
+- **definición:** Saber cómo se ve hacer algo bien y pagar a quien lo sabe para recuperar tiempo.
+- **acuñado por:** Dickie Bush
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-002-064
+- **relación:** ignorance tax.
+
+### ideas are our new berries
+- **tipo:** término acuñado
+- **definición:** Las ideas son para el trabajador del conocimiento lo que la caza era para los ancestros.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-05 (única aparición)
+- **IDs:** U-019-132
+- **relación:** lion; hunting.
+
+### ideas are the new currency
+- **tipo:** término acuñado
+- **definición:** Para ganar dinero hay que captar, guiar y sostener la atención con ideas.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-06 (única aparición)
+- **IDs:** U-017-065
+- **relación:** guiding attention; sucesor de information is the new currency.
+
+### ideas are the new oil
+- **tipo:** término acuñado
+- **definición:** Las ideas como recurso para construir riqueza (vinculado a Cortex) (2024-09, 2025-06).
+- **definición:** Los nuevos ricos sintetizan el recurso infinito de las ideas en vez de extraer recursos físicos finitos (2024-06).
+- **acuñado por:** Dan Koe (reformula a Naval en U-015-150)
+- **fechas:** 2024-06 – 2025-06
+- **IDs:** U-016-089, U-015-150, U-012-087
+- **relación:** idea space; the idea space; Naval; sucesor de information is the new currency.
+
+### ideas as seeds
+- **tipo:** término acuñado
+- **definición:** Variante "ideas as seeds / prescription": contenido no prescriptivo que crece con el reconocimiento de patrones hasta que uno crea su propia prescripción.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-06 (única aparición)
+- **IDs:** U-027-094
+- **relación:** gentle reminder.
+
+### ideas beget behavior
+- **tipo:** término acuñado
+- **definición:** No puedes actuar sobre lo que no sabes que es posible.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-026-173
+- **relación:** —
+
+### ideas beget ideas
+- **tipo:** término acuñado
+- **definición:** Escribir más genera más ideas.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-009-266
+- **relación:** swipe file; idea flow.
+
+### identity
+- **tipo:** palabra común con sentido propio
+- **definición:** Sistema de ideas, creencias, valores y estándares que moldea la perspectiva y acepta o rechaza información; "the story you tell yourself".
+- **acuñado por:** Dan Koe (uso propio)
+- **fechas:** 2023 – 2024
+- **IDs:** U-020-057, U-009-114, U-027-070, U-018-080
+- **relación:** equivalente a self-image, concept of self, personality, ego, mental body. Ver ego (misma definición de sistema de ideas, creencias, valores y estándares).
+
+### identity / behavior
+- **tipo:** palabra común con sentido propio
+- **definición:** Variante "identity / behavior (en contratación)": si la identidad del empleado no coincide con la conducta que exige el negocio, lo sabotea pese a incentivos.
+- **acuñado por:** Dan (según la fila; bloque T18)
+- **fechas:** 2025-12-28 (única aparición)
+- **IDs:** U-025-133
+- **relación:** culture; identity.
+
+### identity as a city
+- **tipo:** término acuñado
+- **definición:** Variante "identity as a city / city hall": la identidad como sistema construido; quitar una pieza central la paraliza.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-07 (única aparición)
+- **IDs:** U-024-012, U-024-014, U-024-015
+- **relación:** house not home; alias city hall.
+
+### identity flips
+- **tipo:** término acuñado
+- **definición:** Variante "identity flips: dissonance, uncertainty, discovery": tres fases del cambio de identidad.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-10 – 2025-12
+- **IDs:** U-025-157, U-024-101
+- **relación:** equivalente a dissonance / uncertainty / discovery (las tres fases del cambio profundo); phases de Human 3.0.
+
+### identity is created through learning
+- **tipo:** término acuñado
+- **definición:** La identidad se crea aprendiendo, pero solo sin reaccionar.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-05 (única aparición)
+- **IDs:** U-024-168
+- **relación:** —
+
+### identity lists
+- **tipo:** término de tercero usado por el autor
+- **definición:** Nota fijada con una identidad y la lista de acciones que la evidencian; gamificación y flywheel.
+- **acuñado por:** Dickie Bush
+- **fechas:** 2023-03 (única aparición)
+- **IDs:** U-002-017
+- **relación:** weaponize your survival.
+
+### identity problem
+- **tipo:** término acuñado
+- **definición:** El cambio no falla por falta de información sino por la identidad, reflejada en las elecciones diarias.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-04 (única aparición)
+- **IDs:** U-021-142
+- **relación:** —
+
+### identity restricts perspective
+- **tipo:** término acuñado
+- **definición:** La identidad pone una frontera a la perspectiva, y la perspectiva filtra (cherry-picking) lo que se percibe.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-06 (única aparición)
+- **IDs:** U-027-063
+- **relación:** filter for reality (U-018-101).
+
+### identity tension
+- **tipo:** término acuñado
+- **definición:** Punto débil que otros explotan al apuntar a tu identidad.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026 (única aparición)
+- **IDs:** U-013-233
+- **relación:** slave to someone else's ideals.
+
+### Idle state
+- **tipo:** término acuñado
+- **definición:** Adormecerse antes de tocar fondo, sin que el dolor del presente supere el del futuro deseado.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-08 (única aparición)
+- **IDs:** U-020-184
+- **relación:** tactical stress.
+
+### if you don't create (choose) a purpose you will be assigned one
+- **tipo:** término acuñado
+- **definición:** Sin propósito propio, la sociedad te asigna uno.
+- **acuñado por:** Dan Koe (en diálogo con Devon Eriksen)
+- **fechas:** 2024 (todas las filas)
+- **IDs:** U-013-166, U-027-204
+- **relación:** assigned goals.
+
+### ignorance tax
+- **tipo:** término de tercero usado por el autor
+- **definición:** Lo que cuesta no saber cómo hacer algo bien.
+- **acuñado por:** Alex Hormozi (vía Dickie Bush)
+- **fechas:** 2023 (todas las filas)
+- **IDs:** U-002-062, U-002-064, U-002-065
+- **relación:** ideal scene; entrepreneurial barbell.
+
+### illusion of certainty
+- **tipo:** término acuñado
+- **definición:** Empleos seguros y sistemas de creencias para evitar la lucha.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2024
+- **IDs:** U-025-029, U-026-126
+- **relación:** path of least risk; delusional sense of security.
+
+### illusory retirement
+- **tipo:** término acuñado
+- **definición:** La promesa de hacer una cosa, tener éxito y descansar para siempre; sin sentido.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-01 (única aparición)
+- **IDs:** U-008-178
+- **relación:** mechanical or linear way of life.
+
+### imaginary Rat Race
+- **tipo:** término acuñado
+- **definición:** Variante "imaginary Rat Race / badge of honor": la carrera hacia un destino poco claro o impuesto, con el exceso de trabajo como insignia.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-08 (única aparición)
+- **IDs:** U-019-001
+- **relación:** status game; grinding; hustle culture; doing mode; badge of honor.
+
+### imitate then innovate
+- **tipo:** término acuñado
+- **definición:** Variante "imitate then innovate / soft structure": imitar la estructura de un tweet ajeno como guía blanda, sin copiar, y luego experimentar.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 – 2024
+- **IDs:** U-013-030, U-001-095
+- **relación:** intelligent imitation; soft structure.
+
+### immaterial perspective
+- **tipo:** término acuñado
+- **definición:** Pensar el yo futuro como algo imaginado, no material; traer al presente la experiencia del futuro.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-06 (única aparición)
+- **IDs:** U-026-023
+- **relación:** distinto de "fake it till you make it".
+
+### impactful ideas
+- **tipo:** término acuñado
+- **definición:** Variante "impactful ideas / pick a side / rent free": escribir palabras tan potentes que vivan en la cabeza del lector "rent free"; exige tomar partido con creencias que el promedio vería extremas.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-12 (única aparición)
+- **IDs:** U-009-199
+- **relación:** confidence and conviction; pick a side; rent free.
+
+### impermanence
+- **tipo:** término de tercero usado por el autor
+- **definición:** Que todo cambia y nada dura; la entropía va más allá: todo declina salvo que se mantenga.
+- **acuñado por:** budismo, adaptada
+- **fechas:** 2023-06 – 2024-05
+- **IDs:** U-026-176, U-026-095
+- **relación:** complemento de entropy (se distingue de ella); "Universe one song".
+
+### implementation tool
+- **tipo:** término acuñado
+- **definición:** Convertir lo que habrías enseñado en una herramienta (vibe coding/programación).
+- **acuñado por:** Dan Koe
+- **fechas:** 2026 (única aparición)
+- **IDs:** U-010-342
+- **relación:** next level up from an info product.
+
+### imposing a deadline on a challenge
+- **tipo:** término acuñado
+- **definición:** Una compra "irresponsable" que obliga a aprender lo necesario para que deje de serlo.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025 (única aparición)
+- **IDs:** U-016-249
+- **relación:** environment of your future self.
+
+### impossible achievement
+- **tipo:** término acuñado
+- **definición:** Hacer lo que amas para vivir.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-01 (única aparición)
+- **IDs:** U-013-035
+- **relación:** —
+
+### improve yourself and then improve others
+- **tipo:** término acuñado
+- **definición:** El modelo de negocio de los creadores y del autor.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-06 (única aparición)
+- **IDs:** U-010-339
+- **relación:** golden rule; gateway drug.
+
+### improve yourself in public
+- **tipo:** término acuñado
+- **definición:** Construir una marca personal aprendiendo y enseñando habilidades.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-11 (única aparición)
+- **IDs:** U-020-034
+- **relación:** learn in public.
+
+### impulse buy pricing
+- **tipo:** término de tercero usado por el autor
+- **definición:** Precios tan bajos que la confianza no es una barrera.
+- **acuñado por:** Justin Welsh
+- **fechas:** 2021 (única aparición)
+- **IDs:** U-005-031
+- **relación:** —
+
+### impulsive … unitive (nine stages)
+- **tipo:** término de tercero usado por el autor
+- **definición:** Impulsive, self-protective, conformist, self-aware, conscientious, individualist, strategist, construct-aware, unitive.
+- **acuñado por:** Susanne Cook-Greuter (los ejemplos son de Dan)
+- **fechas:** 2025 (todas las filas)
+- **IDs:** U-025-147, U-024-109
+- **relación:** vecino de instinctual / conformist / individualist / synthesist / generative y de Human 3.0.
+
+### in-formation
+- **tipo:** término acuñado
+- **definición:** La vida es información "en formación"; un juego es un flujo estructurado de información (2023-09).
+- **definición:** La información está "en formación": cambiante e impermanente (2023-09, 2024-01).
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-09 – 2024-01
+- **IDs:** U-023-106, U-017-142, U-021-018
+- **relación:** variante "in formation" (sin guion); structured flow of information; everything is information.
+
+### in wedge
+- **tipo:** término de invitado
+- **definición:** Variante "in wedge / differentiate maniacally": empezar hiperespecífico y expandirse después.
+- **acuñado por:** John Hugh (bloque T18)
+- **fechas:** 2025 (única aparición)
+- **IDs:** U-004-026
+- **relación:** subconscious recall; differentiate maniacally.
+
+### incepting
+- **tipo:** término acuñado
+- **definición:** Captar a alguien en un nivel de educación específico, en vez de educar desde abajo.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-009-062
+- **relación:** actualization journey.
+
+### inconvenient truth
+- **tipo:** término de tercero usado por el autor
+- **definición:** Los dos años de trabajo antes y después del empleo para liberar "the middle 12 hours".
+- **acuñado por:** Dickie Bush
+- **fechas:** 2023-03 (única aparición)
+- **IDs:** U-002-083
+- **relación:** start with one hour.
+
+### independent income
+- **tipo:** término acuñado
+- **definición:** Ingreso que no depende de un empleador ni de plataformas; requiere vender un producto.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2025
+- **IDs:** U-009-140, U-010-055, U-011-135
+- **relación:** individual choice.
+
+### independent thinker
+- **tipo:** palabra común con sentido propio
+- **definición:** Quien cuestionó las creencias heredadas; "nobody is a completely independent thinker. There's degrees".
+- **acuñado por:** Dan Koe
+- **fechas:** 2025 (única aparición)
+- **IDs:** U-025-143
+- **relación:** original thought; deep, free and original thinker.
+
+### indicators of growth
+- **tipo:** término de tercero usado por el autor
+- **definición:** Problemas que habrías deseado, inversiones antes absurdas, decir no a lo que antes aceptarías.
+- **acuñado por:** Dickie Bush
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-002-061
+- **relación:** —
+
+### indistractable frame
+- **tipo:** término acuñado
+- **definición:** Lo que ofrecen historias y juegos: una jerarquía de metas clara que la mente adopta.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-02 (única aparición)
+- **IDs:** U-003-239
+- **relación:** frame.
+
+### individual choice
+- **tipo:** término acuñado
+- **definición:** Decisiones no automáticas, posibles solo con autonomía e ingreso independiente.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-011-135
+- **relación:** robot; independent income.
+
+### individual sovereignty
+- **tipo:** término acuñado
+- **definición:** Variante "individual sovereignty: self-education, self-interest, self-sufficiency": motor, brújula y base de la soberanía; ciclo del que emerge el generalista.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026 (todas las filas)
+- **IDs:** U-010-270, U-010-271, U-010-272, U-010-275, U-010-276
+- **relación:** free individual; sovereignty.
+
+### individualist / synthesist
+- **tipo:** término de tercero usado por el autor
+- **definición:** Nivel 2.0 (rechaza la norma, estatus) / nivel 3.0 (sintetiza perspectivas).
+- **acuñado por:** Dan Koe (adaptado)
+- **fechas:** 2025-10 (única aparición)
+- **IDs:** U-024-111, U-024-112
+- **relación:** achiever/modern; second tier; Human 3.0; instinctual / conformist / individualist / synthesist / generative.
+
+### Industrial Age parents
+- **tipo:** término acuñado
+- **definición:** Padres que castigan la desviación del currículo.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-02-23 (única aparición)
+- **IDs:** U-010-221
+- **relación:** one true path.
+
+### industrial living
+- **tipo:** término acuñado
+- **definición:** El modo de vida industrial que se odió por décadas y que provoca reacción irracional cuando desaparece.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-08 (única aparición)
+- **IDs:** U-025-214
+- **relación:** zoom out.
+
+### industrial paradigm
+- **tipo:** término acuñado
+- **definición:** Variante "industrial paradigm / industrial values / industrial standards / industrial mindset": cosmovisión de especializarse, empleo mecánico 40 años y jubilación tardía.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025 – 2026
+- **IDs:** U-010-330, U-014-174, U-012-208, U-022-113, U-025-173
+- **relación:** alias industrial values, industrial standards, industrial mindset; default path; American dream; death of the expert.
+
+### industrial work disguised as creative work
+- **tipo:** término acuñado
+- **definición:** Trabajo creativo empleado que solo ejecuta instrucciones ajenas; "the doer, not the director".
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-08 (única aparición)
+- **IDs:** U-025-211
+- **relación:** a word is the new brush stroke; doers vs directors.
+
+### infinite bank for energy storage
+- **tipo:** término acuñado
+- **definición:** La visión, que nunca se domina y absorbe toda la energía que se le invierta.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-05 (única aparición)
+- **IDs:** U-016-063
+- **relación:** passion.
+
+### infinite digital game
+- **tipo:** término acuñado
+- **definición:** "Get paid for your ideas not your looks, your mind not your time, the infinite not the finite".
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-012-084
+- **relación:** infinite game.
+
+### infinite game
+- **tipo:** término de tercero usado por el autor
+- **definición:** El negocio/emprendimiento como juego sin final donde eliges qué jugar y el desafío crece; el empleo como juego finito (2023–2025).
+- **definición:** Variante "infinite game / finite games": finite: metas con fin; infinite: conexión con todos anidados, "the house of all finite games", donde uno crea las reglas (2024-05 a 2024-11).
+- **definición:** Variante "infinite games / finite (status) games": juegos sin final cuyas reglas y metas evolucionan vs juegos con ganador y final (2022–2024).
+- **acuñado por:** Dan Koe (término popular; vocabulario sin fuente nombrada o sin fuente citada en las filas)
+- **fechas:** 2022 – 2025
+- **IDs:** U-012-078, U-023-184, U-026-193, U-025-191, U-011-188, U-012-084, U-019-061, U-021-060, U-026-194, U-026-195, U-026-192, U-020-030, U-016-103
+- **relación:** infinite digital game; skill issue; play; alias finite games, finite (status) games.
+
+### infinite mountains
+- **tipo:** término acuñado
+- **definición:** Cimas sucesivas; el negocio ayuda a otros a subir más rápido (2024-03).
+- **definición:** La vida como montañas infinitas; el negocio es ayudar a otros a subir más rápido (2022).
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 – 2024-03
+- **IDs:** U-003-029, U-023-235
+- **relación:** metapath.
+
+### infinite niche
+- **tipo:** término acuñado
+- **definición:** Concepto de progresión de marca agnóstico al modelo de negocio, como jerarquía de actualización.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-010-099
+- **relación:** → hierarchy of brand actualization.
+
+### infinite nuance
+- **tipo:** término acuñado
+- **definición:** Variante "infinite nuance / infinitely debatable": todo lo que puede decirse puede debatirse sin fin.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-11 (única aparición)
+- **IDs:** U-023-005
+- **relación:** Sexto Empírico (U-022-166); firm beliefs held loosely.
+
+### infinite paths / external game / internal game
+- **tipo:** término acuñado
+- **definición:** Caminos viables hacia "winning the game of the external world"; el juego interno es la maestría filosófica.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-12 – 2024-03
+- **IDs:** U-003-027, U-024-036
+- **relación:** —
+
+### infinite string of problems
+- **tipo:** término acuñado
+- **definición:** Cadena infinita de problemas hacia tu visión que empieza donde no estás contento.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-01 (única aparición)
+- **IDs:** U-027-226
+- **relación:** radical honesty.
+
+### influencer
+- **tipo:** palabra común con sentido propio
+- **definición:** Quien capta atención con apariencia y trucos para vender productos sin valor inherente.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-09 – 2024-10
+- **IDs:** U-015-041, U-016-129
+- **relación:** the death of the personal brand; contraste con education brand.
+
+### influencer economy
+- **tipo:** término acuñado
+- **definición:** Economía que "could be static" y puede saturarse, a diferencia de la creator economy, que implica crecimiento.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-03 (única aparición)
+- **IDs:** U-002-053
+- **relación:** opuesto de creator economy.
+
+### information business
+- **tipo:** término acuñado
+- **definición:** Empaquetar lo que uno sabe para ayudar a otros a autorrealizarse; "the best business model" (2022-12).
+- **definición:** Variante "information business / information products": negocio que empaqueta información para mejorar la experiencia humana; "the greatest product one can sell" (2023–2024).
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-12 – 2024
+- **IDs:** U-007-165, U-001-103, U-009-073, U-001-114, U-019-089
+- **relación:** Maslow; luego micro education business (T13); education product; info products; ver information product.
+
+### information creates identity
+- **tipo:** término acuñado
+- **definición:** La información que entregas programa la mente de tu audiencia, que te atribuye sus resultados.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-11 (única aparición)
+- **IDs:** U-009-106, U-009-122
+- **relación:** program the minds; brand is transformation.
+
+### information fat
+- **tipo:** término acuñado
+- **definición:** Variante "information fat / dirty bulk / lean bulk": lo que se gana al aprender a ciegas.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 (única aparición)
+- **IDs:** U-020-017
+- **relación:** intellectual obesity; alias dirty bulk, lean bulk.
+
+### information is the new currency
+- **tipo:** término acuñado
+- **definición:** No la atención: información → awareness of opportunity → ideas rentables → cambio de conducta.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-12 – 2024-02
+- **IDs:** U-007-160, U-001-098
+- **relación:** luego ideas are the new currency / new oil.
+
+### information product
+- **tipo:** término acuñado
+- **definición:** Producto creado a partir del conocimiento en tu cabeza, en siete pasos.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-12 (única aparición)
+- **IDs:** U-007-177
+- **relación:** SOPs; $1 million trapped in your head; information business.
+
+### information roads
+- **tipo:** término acuñado
+- **definición:** Los sistemas de la mente sobre los que opera.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-11 (única aparición)
+- **IDs:** U-018-130
+- **relación:** system.
+
+### inject yourself in a tribe
+- **tipo:** término acuñado
+- **definición:** Responder con valor a ~10 cuentas de un círculo hasta que sus consumidores te reconozcan.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-10 – 2025-02
+- **IDs:** U-015-118, U-014-164
+- **relación:** seeding connections; tribe.
+
+### inkling of vision
+- **tipo:** término acuñado
+- **definición:** La visión llega en piezas de rompecabezas al sentarse con el aburrimiento.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-017-225
+- **relación:** Educated guess (U-027-208).
+
+### inner album of greatest hits
+- **tipo:** término acuñado
+- **definición:** Pool de 8–10 grandes ideas pensadas cientos de veces y conectables con casi cualquier tema.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-12 (única aparición)
+- **IDs:** U-022-185
+- **relación:** big ideas; body of work; intellectual signature.
+
+### inspiration (vs motivation)
+- **tipo:** término acuñado
+- **definición:** Ayudar a que la gente conecte los puntos por sí misma y te atribuya la sensación.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-11 (única aparición)
+- **IDs:** U-013-130, U-013-129
+- **relación:** vecino de education / inspiration / entertainment.
+
+### inspired compliment
+- **tipo:** término acuñado
+- **definición:** Variante "inspired compliment / simple praise": primer mensaje: un elogio concreto sobre algo de su contenido que te inspiró (2023), o una sola frase que termina en pregunta (2026).
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-02-12 – 2026-05-14
+- **IDs:** U-015-024, U-004-124
+- **relación:** law of reciprocity (Cialdini); alias simple praise.
+
+### instinctual / conformist / individualist / synthesist / generative
+- **tipo:** término de tercero usado por el autor
+- **definición:** Niveles 0–4 de pensamiento.
+- **acuñado por:** Dan Koe (synthesist es etiqueta propia) sobre Wilber, Cook-Greuter, Spiral Dynamics
+- **fechas:** 2026-02 (única aparición)
+- **IDs:** U-022-081
+- **relación:** first/second tier; first-tier / second-tier thinking; individualist / synthesist; impulsive … unitive.
+
+### intellectual athlete
+- **tipo:** término de tercero usado por el autor
+- **definición:** Quien funciona como atleta: entrena, esprinta, descansa, reevalúa (2025-05, Naval).
+- **definición:** El empresario dedicado a rendir en los negocios, como un atleta profesional (2025, Dan Koe).
+- **acuñado por:** Naval (primera acepción); Dan Koe (segunda acepción)
+- **fechas:** 2025 – 2025-05
+- **IDs:** U-019-128, U-016-243
+- **relación:** lion.
+
+### intellectual obesity
+- **tipo:** término acuñado
+- **definición:** Variante "intellectual obesity / mentally obese": consumir (incluso autoayuda) sin usarlo; falsa sensación de progreso.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026 (única aparición)
+- **IDs:** U-021-198
+- **relación:** alias mentally obese; brain rot; cheap dopamine (T06); information fat; dopamine overloaded.
+
+### intellectual signature
+- **tipo:** término acuñado
+- **definición:** Variante "intellectual signature / energy signature": las ideas más importantes para ti que conectas y sintetizas en un estilo propio.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-02 (única aparición)
+- **IDs:** U-012-195
+- **relación:** inner album; alias energy signature.
+
+### intellectual sparring partner
+- **tipo:** término acuñado
+- **definición:** Destilar la cosmovisión de grandes pensadores en documentos y consultarles los propios problemas.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-11 (única aparición)
+- **IDs:** U-021-184
+- **relación:** second brain (T07).
+
+### intellectual structures
+- **tipo:** término de tercero usado por el autor
+- **definición:** Construcciones mentales donde se puede "live and die" (una ideología como "mental home").
+- **acuñado por:** Terence McKenna
+- **fechas:** 2022 (única aparición)
+- **IDs:** U-023-014
+- **relación:** the Matrix.
+
+### intelligence
+- **tipo:** término de tercero usado por el autor
+- **definición:** (a) "if you get what you want out of life"; (b) cuánto entiendes, no cuánto sabes: reconocimiento holístico de patrones.
+- **acuñado por:** Naval (adaptada)
+- **fechas:** 2024 (todas las filas)
+- **IDs:** U-021-048, U-020-139
+- **relación:** book smarts.
+
+### intelligent imitation
+- **tipo:** término acuñado
+- **definición:** Copiar de forma consciente, con filtro y autorreflexión (2023-05).
+- **definición:** Imitar conscientemente; "success is a game of intelligent imitation" (2022–2023).
+- **definición:** Imitar consciente e inteligentemente a quien quieres llegar a ser (2022–2024).
+- **definición:** Variante "intelligent imitation / perspective vessel": "Success is a game of intelligent imitation"; somos copycats por naturaleza y vasos que interpretan la información a su manera (2022; adapta "steal like an artist").
+- **definición:** Variante "intelligent imitation / the unknown": procesos que el autor ha nombrado (no definidos en estas unidades) (2024).
+- **acuñado por:** Dan Koe (adapta "steal like an artist")
+- **fechas:** 2022 – 2024
+- **IDs:** U-023-092, U-014-017, U-007-098, U-023-097, U-009-236, U-010-026, U-010-027, U-017-143, U-014-029, U-007-083, U-007-084, U-007-157, U-001-156
+- **relación:** create or be created; three to five mentors; steal like an artist; imitate then innovate; perspective vessel; tactical stress; emulation.
+
+### intense and unbothered
+- **tipo:** término acuñado
+- **definición:** Personalidad que trabaja con intensidad tremenda y no colapsa si falla.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-05 (todas las filas)
+- **IDs:** U-024-140, U-024-176
+- **relación:** walking contradiction.
+
+### intensity phase
+- **tipo:** término acuñado
+- **definición:** Variante "intensity phase / blur of pure progress": claridad total, progreso tangible, el trabajo es lo más divertido; dura 1–3 meses (2023-06).
+- **definición:** Variante "intensity phase / maintenance / experimentation": fases de su trabajo: mantener (escribir, administrar), experimentar cada mañana y, si algo despega, intensidad (2024–2025).
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-06 – 2025
+- **IDs:** U-026-112, U-017-223, U-019-142
+- **relación:** season of intensity or obsession; seasons; blur of pure progress.
+
+### intensity threshold
+- **tipo:** término acuñado
+- **definición:** Variante "intensity threshold / ore of reality": punto en que se agota lo que se extraía de la realidad y sostenerlo deja de llenar.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-06 (única aparición)
+- **IDs:** U-026-114
+- **relación:** ore of reality.
+
+### intensity trap
+- **tipo:** término acuñado
+- **definición:** Variante "intensity trap / take profits / new baseline": burnout por prolongar la intensidad; saber cuándo bajar a una nueva línea base.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-10 (única aparición)
+- **IDs:** U-017-218
+- **relación:** higher lows; take profits; new baseline.
+
+### intention
+- **tipo:** término acuñado
+- **definición:** "Stretching towards a goal" (2023-01).
+- **definición:** Variante "intention / intentio / 'what are you stretching towards?'": del latín: estirarse, tensarse hacia algo; dirigir la atención a un objetivo futuro para que la acción lo siga; implica un "why" (2022-06 a 2025-08, etimología latina).
+- **definición:** Variante "Intention / lens of your vision": meta o propósito mantenido en lo alto de la conciencia, que hace que todo lo consumido alimente la visión (2022-11).
+- **acuñado por:** Dan Koe (etimología latina)
+- **fechas:** 2022-06 – 2025-08
+- **IDs:** U-025-030, U-026-004, U-026-072, U-020-132, U-018-122, U-024-054, U-018-142, U-020-024
+- **relación:** top of mind; stack whys; purpose; aim; program your mind; alias intentio; lens of your vision.
+
+### intention of evolution
+- **tipo:** término acuñado
+- **definición:** Mantener la intención de evolucionar para no quedar atrapado en una etapa.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-008-126
+- **relación:** stepping stone; feast or famine cycle.
+
+### intentional rest
+- **tipo:** término de tercero usado por el autor
+- **definición:** Descanso deliberado que rompe el doing mode y filtra la señal del ruido.
+- **acuñado por:** Dan Koe (adaptado de Rest)
+- **fechas:** 2024-08 (única aparición)
+- **IDs:** U-019-033
+- **relación:** active rest; doing mode.
+
+### interest agnostic
+- **tipo:** término acuñado
+- **definición:** Ser creador vale para cualquier interés, no solo autoayuda.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-02 (única aparición)
+- **IDs:** U-010-251
+- **relación:** creator economy cannot get saturated.
+
+### interest graph
+- **tipo:** término de tercero usado por el autor
+- **definición:** Feed basado en intereses y no en seguidores (For You page): bendición y maldición.
+- **acuñado por:** uso de plataforma, desarrollado por Dan y John Hugh
+- **fechas:** 2024-10 – 2025-01
+- **IDs:** U-014-143, U-004-018
+- **relación:** email list as status symbol; For You page.
+
+### interest is generated
+- **tipo:** término acuñado
+- **definición:** Variante "interest is generated / interest is programmed": el interés se crea con escritura bien colocada.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (todas las filas)
+- **IDs:** U-013-176, U-006-102
+- **relación:** create a niche through persuasion; alias interest is programmed; free people don't niche down.
+
+### interest-based education
+- **tipo:** término acuñado
+- **definición:** Educación que nace de un problema propio y un proyecto; curator, not a consumer (2025).
+- **definición:** Variante "interest-based education system": la creator economy como educación por intereses, aprendiendo de alguien con quien uno se identifica (2026-01).
+- **acuñado por:** Dan Koe
+- **fechas:** 2025 – 2026-01
+- **IDs:** U-023-220, U-027-234, U-008-179
+- **relación:** curator; project; new school system; decentralized education system.
+
+### interrupt autopilot
+- **tipo:** término acuñado
+- **definición:** Romper patrones inconscientes con recordatorios y preguntas a lo largo del día.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025 (única aparición)
+- **IDs:** U-025-162
+- **relación:** —
+
+### intersection of importance and urgency
+- **tipo:** término acuñado
+- **definición:** Pasión por una tarea vital que te empuja en una dirección propia.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025 (única aparición)
+- **IDs:** U-023-222
+- **relación:** —
+
+### intrinsic / extrinsic hierarchy of goals
+- **tipo:** término acuñado
+- **definición:** Jerarquía propia (desde la curiosidad) vs impuesta por la cultura o la empresa.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-05 – 2024-03
+- **IDs:** U-011-010, U-014-010, U-003-049
+- **relación:** self-generated vs assigned goals; hierarchy of goals.
+
+### intrinsic drivers
+- **tipo:** término de tercero usado por el autor
+- **definición:** Variante "intrinsic drivers / five drivers of the flow state": curiosidad, pasión, propósito, autonomía, maestría (2022-05 a 2026-06; Steven Kotler citado, luego sin atribución).
+- **definición:** Variante "intrinsic drivers / flow drivers": curiosidad, pasión, propósito, autonomía y maestría (2023–2024; Dan Koe a partir de la psicología del flow).
+- **acuñado por:** Steven Kotler (citado al principio, luego sin atribución); Dan Koe a partir de la psicología del flow
+- **fechas:** 2022-05 – 2026-06
+- **IDs:** U-014-015, U-026-036, U-019-152, U-012-206, U-011-184, U-023-186
+- **relación:** neurochemical cocktail; alias five drivers of the flow state, flow drivers. Misma lista que five intrinsic drivers (misma idea con otro nombre; ver esa entrada).
+
+### intrinsic energy
+- **tipo:** término acuñado
+- **definición:** La energía que le daba aprender y construir proyectos fuera de la escuela o el trabajo.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 (única aparición)
+- **IDs:** U-007-108
+- **relación:** —
+
+### intrinsic goal
+- **tipo:** término acuñado
+- **definición:** Variante "intrinsic goal / meta system called society": sin meta intrínseca se adopta la claridad de otro (un empleo) y la atención queda esclavizada en el metasistema social.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-11-13 – 2024-03-21
+- **IDs:** U-003-073, U-027-004
+- **relación:** borrowed clarity; meta system called society.
+
+### intrinsic philosophy
+- **tipo:** término acuñado
+- **definición:** Filosofía propia construida con conversaciones, lecturas y filtrado de la realidad hasta apilar suficientes whys (2024-03).
+- **definición:** Mirar hacia dentro qué te dio una búsqueda material; "came for vanity, stayed for therapy" (2023).
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2024-03
+- **IDs:** U-026-166, U-024-075
+- **relación:** stack whys; intrinsic philosophy as marketing.
+
+### intrinsic philosophy as marketing
+- **tipo:** término acuñado
+- **definición:** Tu marketing es la filosofía que formas con tus razones.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-024-060
+- **relación:** intrinsic philosophy.
+
+### introverted identity
+- **tipo:** término acuñado
+- **definición:** Etiqueta usada para evitar la incomodidad social; lo social es una habilidad.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-02 (única aparición)
+- **IDs:** U-015-002
+- **relación:** —
+
+### invest energy into a goal
+- **tipo:** término acuñado
+- **definición:** Condición para sentir el dolor de no lograrla y ver los problemas.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-12 – 2024-11
+- **IDs:** U-020-047, U-021-076
+- **relación:** problems aren't problems.
+
+### invested attention
+- **tipo:** término acuñado
+- **definición:** Quien invierte en un producto dirige su atención y conducta hacia la solución.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-09 (única aparición)
+- **IDs:** U-009-066
+- **relación:** productos; social media isn't a learning platform; investing attention.
+
+### investing attention
+- **tipo:** término acuñado
+- **definición:** Variante "investing attention / external & internal power": lo que la base invierte en la pirámide; el poder moderno viene de la atención (2023–2024).
+- **definición:** Variante "investing attention / spending attention": invertir atención = largo plazo, disfrute; gastarla = compra de corto plazo, placer (2023-07).
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2024
+- **IDs:** U-023-055, U-003-127, U-024-079
+- **relación:** conceptual survival; enjoyment vs pleasure; alias spending attention; invested attention.
+
+### invisible building
+- **tipo:** término acuñado
+- **definición:** La estructura de la mente o identidad, que decae como un edificio sin mantenimiento.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-11 (única aparición)
+- **IDs:** U-018-132
+- **relación:** reverse entropy.
+
+### invisible gatekeepers
+- **tipo:** término acuñado
+- **definición:** Creencias limitantes ("no estoy calificado para escribir sobre eso") que uno crea por miedo a publicar.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-07 (única aparición)
+- **IDs:** U-014-187
+- **relación:** the gap; gatekeeper mindset.
+
+### irreplaceable asset
+- **tipo:** término acuñado
+- **definición:** Quien domina las skills que necesita cualquier negocio de creador.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-012-034
+- **relación:** vecino de Irreplaceable individual y irreplaceable set of skills.
+
+### Irreplaceable individual
+- **tipo:** término acuñado
+- **definición:** Quien domina la escritura, que mata tres pájaros de un tiro (articular valor, distribución, hábito matinal) (2024-03).
+- **definición:** Quien sigue los cinco pasos: emprendedor, distribución, escribir, vender y construir (2024-03).
+- **definición:** Siete rasgos "self-": experimentation, development, reliance, awareness, education, sufficiency, mastery (2024-03).
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-03 (todas las filas)
+- **IDs:** U-016-027, U-016-017, U-016-007, U-016-010
+- **relación:** T14; unemployable; foundation of media.
+
+### irreplaceable set of skills
+- **tipo:** término acuñado
+- **definición:** Pila de 5–7 habilidades adquiridas en fracasos que permite detectar oportunidades.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-012-054
+- **relación:** modern renaissance man; T14 (skill stack); failure stacking.
+
+### irreplaceable solution
+- **tipo:** término acuñado
+- **definición:** Lo que surge de aplicar skills, experiencia e intereses a un problema rentable.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-02 (única aparición)
+- **IDs:** U-011-137
+- **relación:** profitable problem.
+
+### irresistible offer blueprint
+- **tipo:** nombre de producto/framework
+- **definición:** Salida del segundo prompt de la offer chain.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-03 (única aparición)
+- **IDs:** U-016-296
+- **relación:** customer avatar; offer chain.
+
+### iterate without permission
+- **tipo:** término acuñado
+- **definición:** Compromiso con la iteración, aprender y hacer a la vez, sin volver a la comodidad conformista.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025 (única aparición)
+- **IDs:** U-013-189
+- **relación:** comforting conformity.
+
+### iterating on the rep
+- **tipo:** término de invitado
+- **definición:** Repetir y ajustar según lo que ilumina los ojos del oyente.
+- **acuñado por:** Sahil Bloom
+- **fechas:** 2025-01 (única aparición)
+- **IDs:** U-005-118
+- **relación:** —
+
+### iteration
+- **tipo:** palabra común con sentido propio
+- **definición:** Poner algo afuera, ver cómo lo usa la gente y uno mismo, y decidir si arrancarlo; "lo que la iteración realmente es… es mucho".
+- **acuñado por:** Dan / Matt (bloque T18)
+- **fechas:** 2025-11-24 (única aparición)
+- **IDs:** U-015-190, U-015-186
+- **relación:** painful iteration cycles; iteration cycle; iteration and persistence.
+
+### iteration and persistence
+- **tipo:** término acuñado
+- **definición:** Probar ángulos, producto, estrategias y promoción hasta que funcionen.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 – 2025
+- **IDs:** U-016-144, U-016-142, U-009-182
+- **relación:** experiment upward; iteration.
+
+### iteration cycle (24 hours)
+- **tipo:** término de invitado
+- **definición:** Variante "iteration cycle (24 hours) / keep pace": el ritmo del equipo: nadie viene a hablar sin progreso en 24 horas; quien no sigue el ritmo se corrige.
+- **acuñado por:** Vitali (bloque T18)
+- **fechas:** 2025-01-28 (única aparición)
+- **IDs:** U-004-070
+- **relación:** culture is actions; keep pace.
+
+### iterative products
+- **tipo:** término acuñado
+- **definición:** Variante "iterative products / stagnation equals death": los productos evolucionan contigo; no relanzar es morir.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-013-099
+- **relación:** iteration and persistence; stagnation equals death.
+
+### job / career / calling
+- **tipo:** término acuñado
+- **definición:** Niveles de propósito laboral; calling: trabajo del que no puedes despegarte y por el que otros pagan; donde la mejora se vuelve obsesión.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-09 – 2026-06
+- **IDs:** U-016-114, U-016-115, U-016-116, U-012-206, U-015-054
+- **relación:** levels of purpose; independent work.
+
+### jobs to be done
+- **tipo:** término de invitado
+- **definición:** Variante "jobs to be done (contratación)": ser hiperintencional sobre qué trabajos cubrirán las nuevas contrataciones.
+- **acuñado por:** John Hugh (bloque T18)
+- **fechas:** 2025-01-28 (única aparición)
+- **IDs:** U-004-048
+- **relación:** core job to be done.
+
+### join the niche you were already in
+- **tipo:** término acuñado
+- **definición:** Tu nicho está en lo que ya consumes y compras.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-009-235
+- **relación:** —
+
+### journaling vs writing
+- **tipo:** término acuñado
+- **definición:** Escribir, a diferencia de llevar un diario, implica empaquetar para captar atención.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-07 (única aparición)
+- **IDs:** U-014-192
+- **relación:** packaging.
+
+### judgment vs discernment
+- **tipo:** término acuñado
+- **definición:** Observar a la gente para decidir si quieres su vida, sin juzgarla (2023).
+- **definición:** El juicio cierra la mente; el discernimiento toma de la experiencia ajena (2023–2025).
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2025
+- **IDs:** U-012-002, U-017-144, U-011-132, U-024-211
+- **relación:** contrarian inputs; observe and discern.
+
+### just in time / just in case
+- **tipo:** término de tercero usado por el autor
+- **definición:** Variante "just in time / just in case / lens": aprender lo que la acción actual exige vs prepararse de antemano; sin lente no se aprende.
+- **acuñado por:** Dickie Bush
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-002-029
+- **relación:** build to learn; lens.
+
+### just make more money bro
+- **tipo:** término de tercero usado por el autor
+- **definición:** Variante "just make more money bro / new lens": más dinero cambia la perspectiva; Dan: ya tienes recursos sin saberlo.
+- **acuñado por:** Dickie Bush; corregido por Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-002-059
+- **relación:** new lens.
+
+### kairos time windows
+- **tipo:** término de invitado
+- **definición:** Ventanas de la vida en que ciertas relaciones importan más.
+- **acuñado por:** Sahil Bloom (de los griegos)
+- **fechas:** 2025-01 (única aparición)
+- **IDs:** U-005-062
+- **relación:** chronos.
+
+### keep your identity small
+- **tipo:** término de tercero usado por el autor
+- **definición:** Minimizar los labels que uno se pone.
+- **acuñado por:** Paul Graham (citado por Dickie Bush)
+- **fechas:** 2023-03 (única aparición)
+- **IDs:** U-002-014
+- **relación:** consistency bias.
+
+### Keystone habits
+- **tipo:** término acuñado
+- **definición:** Variante "Keystone habits (focused blocks)": tres bloques diarios: construir, aprender, caminar.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-03 (única aparición)
+- **IDs:** U-021-128
+- **relación:** holistic daily routine.
+
+### kink in the hose
+- **tipo:** término de invitado
+- **definición:** El factor limitante que hay que enderezar.
+- **acuñado por:** Sahil Bloom
+- **fechas:** 2025 (única aparición)
+- **IDs:** U-005-101
+- **relación:** bottleneck.
+
+### know how to hunt
+- **tipo:** término acuñado
+- **definición:** Capacidad de encontrar problemas propios; quien depende de que otro le dé un problema será reemplazado.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-07 (única aparición)
+- **IDs:** U-006-106
+- **relación:** agency; hunting.
+
+### know yourself
+- **tipo:** palabra común con sentido propio
+- **definición:** Práctica de toda la vida: cuestionar quién eres y dejar que el tiempo responda.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-025-025
+- **relación:** be yourself.
+
+### knowing vs understanding
+- **tipo:** término acuñado
+- **definición:** Saber es horizontal (hechos); entender es vertical (sofisticación del sistema operativo cognitivo); conceptos permiten saber, experiencia permite entender.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2026
+- **IDs:** U-022-074, U-027-045, U-017-146, U-017-092
+- **relación:** cognitive operating system.
+
+### knowledge gaps
+- **tipo:** término acuñado
+- **definición:** Lo que no sabes y que enseñar o la IA revelan (2022–2025).
+- **definición:** Variante "Knowledge gaps": lo que no puedes construir o articular; se detecta al enseñar y se llena estudiando (2022–2024).
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 – 2025
+- **IDs:** U-020-032, U-023-042, U-023-269, U-001-117, U-017-199, U-007-180, U-014-076, U-023-195
+- **relación:** Feynman; protégé effect.
+
+### knowledge is king
+- **tipo:** término acuñado
+- **definición:** En la economía de la atención, el conocimiento comunica información y la información captura atención.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-03 (única aparición)
+- **IDs:** U-008-061
+- **relación:** attention economy.
+
+### knowledge of 100 / path of one
+- **tipo:** término acuñado
+- **definición:** Del recorrido propio se obtiene un conocimiento amplio del que se destila un camino único que se puede enseñar.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-09 (única aparición)
+- **IDs:** U-009-055
+- **relación:** building for yourself.
+
+### knowledge outpace execution
+- **tipo:** término acuñado
+- **definición:** Error de saber más de lo que se practica.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 – 2024
+- **IDs:** U-011-102, U-001-063
+- **relación:** match knowledge with execution.
+
+### knowledge vs understanding
+- **tipo:** término acuñado
+- **definición:** Conocer las reglas vs haber jugado años; la experiencia convierte uno en otro.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2024
+- **IDs:** U-010-093, U-017-198
+- **relación:** mentally masturbate; casi equivalente a knowing vs understanding (misma distinción con otra formulación: saber como horizontal, entender como vertical).
+
+### knowledge without skill
+- **tipo:** término acuñado
+- **definición:** Conocimiento que no se convierte en algo tangible; "absolutely worthless".
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-011-151
+- **relación:** learn act repeat.
+
+### known / unknown
+- **tipo:** término acuñado
+- **definición:** Variante "known / unknown; the edge": lo conocido = ciclo de cheap dopamine y comodidad; lo desconocido = good dopamine incómoda; el sentido está en el borde.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-016-206
+- **relación:** T03 (flow); edge; edge of the known.
+
+### known goals / unknown goals
+- **tipo:** término acuñado
+- **definición:** Los dos propósitos de supervivencia de la mente.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-12 – 2024-11
+- **IDs:** U-020-055, U-021-065, U-023-149
+- **relación:** pattern recognition machine.
+
+### known path
+- **tipo:** término acuñado
+- **definición:** El camino asignado (escuela, empleo, jubilación a los 65) que no funciona (2023-11 a 2025-12).
+- **definición:** El camino asignado (escuela, empleo, jubilación), poco exigente, que permite "ser un degenerado" (2025).
+- **definición:** Variante plural "known paths": plataformas de freelance y bolsas de empleo: trabajo que te dan, por tanto reemplazable (2025).
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-11 – 2025-12
+- **IDs:** U-021-062, U-025-154, U-018-129, U-027-225, U-010-243
+- **relación:** assigned goals; new digital nine to fives; equivalente de default path en las dos primeras acepciones (ver default path); la tercera acepción (plural) es distinta: caminos conocidos del trabajo freelance.
+
+### Koe's law
+- **tipo:** término acuñado
+- **definición:** Variante "Koe's law (stages)": roadmap en tres etapas dentro de 4 h diarias: client work → hybrid model → productize (2024).
+- **definición:** Variante "Koe's Law" (transcrito también "CO's law"): "Work (creative / leveraged work) evolves to earn more in the time allotted for its completion" (2024-02 – 2024-08).
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-02 – 2024-08
+- **IDs:** U-006-147, U-008-126, U-006-149, U-008-127, U-006-150, U-008-129, U-003-224, U-008-123, U-006-143, U-019-027
+- **relación:** developmental stages; Parkinson's law; raise the baseline. Son dos contenidos distintos bajo el mismo nombre: la hoja de ruta por etapas y la ley sobre el trabajo apalancado.
+
+### Koe's razor
+- **tipo:** término acuñado
+- **definición:** Si necesitas forzarte a trabajar, estás trabajando en lo incorrecto (transcrito también "co razor").
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-05 (única aparición)
+- **IDs:** U-019-134
+- **relación:** clarity; law of reversed effort.
+
+### labor as leverage
+- **tipo:** término de tercero usado por el autor
+- **definición:** Emplear a otros; pierde valor porque el trabajo laboral es hiperespecialización.
+- **acuñado por:** adaptado de Naval
+- **fechas:** 2024-06 (única aparición)
+- **IDs:** U-019-060
+- **relación:** top monkey; volatile status game; hyper-specialists.
+
+### labor leverage / capital leverage / permissionless leverage
+- **tipo:** término de tercero usado por el autor
+- **definición:** Tres formas de leverage; la tercera (code, media, cursos) no requiere permiso y tiene costo marginal cero.
+- **acuñado por:** Naval Ravikant; renombrado por Dan Koe
+- **fechas:** 2024 – 2026
+- **IDs:** U-019-059, U-019-139, U-010-332, U-019-064
+- **relación:** products with no marginal cost of replication; labor as leverage.
+
+### labor theory of value
+- **tipo:** término de tercero usado por el autor
+- **definición:** La creencia del empleado de que el pago depende del trabajo y no del valor (2024).
+- **definición:** Uso del autor: pagar por horas o exigir pago por el trabajo invertido; "not how value works" (2024-03, 2024-07).
+- **acuñado por:** término económico reinterpretado por Dan Koe (uso propio del concepto económico)
+- **fechas:** 2024 – 2024-07
+- **IDs:** U-014-158, U-006-081, U-027-247
+- **relación:** asymmetric; se opone a value exchange y a value is perception.
+
+### labor workers / creative workers
+- **tipo:** término acuñado
+- **definición:** Ganar con el tiempo y el cuerpo vs ganar con la mente según el nivel del problema resuelto.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-009-080
+- **relación:** monetize your mind not your time; earn with your mind.
+
+### ladder of challenges
+- **tipo:** término acuñado
+- **definición:** Escalar retos de nivel creciente.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 (única aparición)
+- **IDs:** U-023-236, U-003-030
+- **relación:** —
+
+### ladder rung
+- **tipo:** término acuñado
+- **definición:** Variante "ladder rung / the fog / law of the jungle": en la niebla, mantenerse alerta para agarrar el peldaño que pasa; algo de paranoia empuja.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-06 (única aparición)
+- **IDs:** U-026-107, U-026-108
+- **relación:** the fog; law of the jungle.
+
+### language is virtual reality
+- **tipo:** término de tercero usado por el autor
+- **definición:** Variante "language is virtual reality / fitness-based perceptions": la percepción es un sistema cerrado; los psicodélicos permiten ver más allá.
+- **acuñado por:** Terence McKenna (vía Hoffman)
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-023-120
+- **relación:** the Matrix; fitness payoffs.
+
+### last bastion of real thinking
+- **tipo:** término acuñado
+- **definición:** Lo que podrían ser los ensayos.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-04 (única aparición)
+- **IDs:** U-014-121
+- **relación:** slow content; ver fast content / slow content.
+
+### launch every quarter
+- **tipo:** término acuñado
+- **definición:** Lanzar algo nuevo cada trimestre durante 2–3 años.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (todas las filas)
+- **IDs:** U-009-218, U-009-222
+- **relación:** iterative products.
+
+### launchpad
+- **tipo:** palabra común con sentido propio
+- **definición:** Sinónimo de stepping stone.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-002-112
+- **relación:** sinónimo declarado de stepping stone.
+
+### law of cause and effect
+- **tipo:** término acuñado
+- **definición:** "Hint at the effect and then dive into the cause".
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-013-149
+- **relación:** information gap.
+
+### Law of Equivalent Exchange
+- **tipo:** término de tercero usado por el autor
+- **definición:** Por todo lo que recibes, debe darse algo de valor igual o mayor.
+- **acuñado por:** tomado de la alquimia
+- **fechas:** 2023-06 (única aparición)
+- **IDs:** U-027-074
+- **relación:** attachments; emotional alchemy.
+
+### law of inspired action
+- **tipo:** término acuñado
+- **definición:** El proyecto te lleva a consumir lo que lo inspira, idealmente antes de trabajar.
+- **acuñado por:** Dan Koe (con Faulkner)
+- **fechas:** 2022 (única aparición)
+- **IDs:** U-020-014
+- **relación:** fill empty use.
+
+### law of reversed effort
+- **tipo:** término de tercero usado por el autor
+- **definición:** Variante "law of reversed effort / backwards law": al intentar flotar te hundes, al intentar hundirte flotas; el flow es sin esfuerzo.
+- **acuñado por:** Alan Watts
+- **fechas:** 2024-07 (única aparición)
+- **IDs:** U-023-154
+- **relación:** Koe's razor; alias backwards law.
+
+### layer of trust
+- **tipo:** término acuñado
+- **definición:** Lo que la marca personal es entre el producto y la gente.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-03-15 (única aparición)
+- **IDs:** U-016-275
+- **relación:** digital storefront; digital resume.
+
+### layer over reality
+- **tipo:** término acuñado
+- **definición:** Variante "layer over reality / limit on Infinity": el lenguaje como construcción mental que limita el infinito.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-11 (única aparición)
+- **IDs:** U-023-010
+- **relación:** McKenna; limit on Infinity.
+
+### layered niches
+- **tipo:** término acuñado
+- **definición:** Variante "layered niches / niche audiences within your own audience": cada producto gratuito o de pago crea un subnicho dentro de tu audiencia.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-012-108
+- **relación:** you are the niche on the timeline; niche sub audiences.
+
+### lead
+- **tipo:** término de tercero usado por el autor
+- **definición:** Primera sección tras el titular que pinta el problema (2022–2024; término de copywriting).
+- **definición:** Variante "lead (landing page)": bloque de texto que amplifica el problema tras el headline (2025).
+- **acuñado por:** término de copywriting (uso de Dan Koe)
+- **fechas:** 2022 – 2025
+- **IDs:** U-013-020, U-001-090, U-013-160, U-009-187
+- **relación:** big problem; headline.
+
+### lead magnet
+- **tipo:** palabra común con sentido propio
+- **definición:** Variante "lead magnet (as your first niche)": producto gratuito que concentra la autoridad sobre un tema y educa en piloto automático.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2024
+- **IDs:** U-010-146, U-012-110, U-014-072
+- **relación:** niche audience of downloaders.
+
+### lead with value
+- **tipo:** término acuñado
+- **definición:** Variante "lead with value / show you're useful": paso 4: aportar valor aunque creas no tenerlo (2023-02-12); en 2026, basta con conectar a la otra persona con un recurso o una persona (2026-05-14).
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-02-12 – 2026-05-14
+- **IDs:** U-015-026, U-004-127
+- **relación:** law of reciprocity; show you're useful.
+
+### lean into the phase
+- **tipo:** término acuñado
+- **definición:** Aprovechar al máximo la fase de vida en que estás en vez de estresarte.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-10 (única aparición)
+- **IDs:** U-017-211
+- **relación:** cycles of progress.
+
+### learn a skill, sell a skill, teach a skill
+- **tipo:** término de tercero usado por el autor
+- **definición:** El consejo habitual del camino skill-based.
+- **acuñado por:** de tercero (consejo común)
+- **fechas:** 2022 – 2024
+- **IDs:** U-001-017, U-007-203, U-006-120
+- **relación:** skill-based.
+
+### learn act repeat
+- **tipo:** término acuñado
+- **definición:** Ciclo mínimo de aprendizaje.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-011-151
+- **relación:** build to learn; knowledge without skill.
+
+### learn how to learn
+- **tipo:** término acuñado
+- **definición:** Variante "learn how to learn / meta skill / skill of all skills": la habilidad de aprender cualquier habilidad con eficacia; "the mark of a free person" (2024–2025, Dan Koe).
+- **definición:** Variante "learning how to learn": lo que queda de cada búsqueda abandonada (2024-12, Devon Eriksen).
+- **acuñado por:** Dan Koe (primera acepción); Devon Eriksen (variante "learning how to learn")
+- **fechas:** 2024 – 2025
+- **IDs:** U-021-111, U-020-165, U-020-102, U-006-035
+- **relación:** alias meta skill, skill of all skills; figuring it out for yourself; education (Devon Eriksen); residue.
+
+### learn in public
+- **tipo:** término acuñado
+- **definición:** Variante "learn in public / learning in public": publicar tu perspectiva de lo que aprendes, dando crédito; tomar notas en público.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-05 – 2026-01
+- **IDs:** U-011-025, U-010-294
+- **relación:** build in public; improve yourself in public; alias learning in public.
+
+### learn to sell, learn to build
+- **tipo:** término acuñado
+- **definición:** Aprender a vender y a construir desde el principio; "if you can do both you will be unstoppable" (2023; posible eco de Naval, ambiguo).
+- **definición:** "If you can do both you will be unstoppable" (2024-03), cita atribuida a "poppy Nal" (ambiguo).
+- **acuñado por:** Dan Koe (posible eco de Naval); la segunda fila atribuye la cita a "poppy Nal" (grafía ambigua)
+- **fechas:** 2023 – 2024-03
+- **IDs:** U-013-094, U-016-035
+- **relación:** entrepreneurial hunt; builder; full stack creator.
+
+### learned and earned insight
+- **tipo:** término de invitado
+- **definición:** Tu historia específica como nicho.
+- **acuñado por:** John Hugh (bloque T18)
+- **fechas:** 2025 (única aparición)
+- **IDs:** U-004-025
+- **relación:** you are the niche.
+
+### learned helplessness
+- **tipo:** término de tercero usado por el autor
+- **definición:** Dejar de intentar escapar aunque se pueda, tras estímulos aversivos incontrolables; aprendido y reversible.
+- **acuñado por:** psicología (sin autor nombrado)
+- **fechas:** 2025-03 (única aparición)
+- **IDs:** U-022-001
+- **relación:** —
+
+### learner's business
+- **tipo:** término acuñado
+- **definición:** Estudiar intereses, empaquetarlos, tejer tu voz y convertirte en el negocio.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026 (única aparición)
+- **IDs:** U-010-346
+- **relación:** turn yourself into the business.
+
+### Learning comes from struggle, not memorization
+- **tipo:** término acuñado
+- **definición:** Principio del libro: se aprende al encontrar un problema, descubrir la solución e integrarla.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2025
+- **IDs:** U-027-158, U-003-248, U-024-192, U-018-141, U-021-121, U-020-101
+- **relación:** start then learn; learning is problem solving.
+
+### learning experiences
+- **tipo:** término acuñado
+- **definición:** Variante "learning experiences / second version of your mind": educación interactiva con IA en lugar de cursos estáticos.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026 (única aparición)
+- **IDs:** U-008-181
+- **relación:** apprenticeship; second version of your mind; deep knowledge (otra fila usa "learning experiences" ligado a conocimiento profundo).
+
+### learning is an output process
+- **tipo:** término acuñado
+- **definición:** El output exige input; el aprendizaje se guía por lo que produces.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026 (única aparición)
+- **IDs:** U-021-197
+- **relación:** cybernetics.
+
+### learning is problem solving
+- **tipo:** término acuñado
+- **definición:** Aprender es resolver problemas, no acumular conocimiento.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (todas las filas)
+- **IDs:** U-020-109, U-023-194
+- **relación:** tutorial hell.
+
+### learning sponge
+- **tipo:** término acuñado
+- **definición:** El bebé que absorbe del entorno lo necesario para sobrevivir.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-023-157
+- **relación:** programmed beliefs.
+
+### learning with intention
+- **tipo:** término acuñado
+- **definición:** Aprender principios (30–50 horas) construyendo la marca en paralelo.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-009-052
+- **relación:** build as you learn.
+
+### legal structure
+- **tipo:** término acuñado
+- **definición:** Variante "legal structure / vision in public": un negocio es una estructura legal para lograr tu visión en público y cobrar (2024).
+- **definición:** Variante "legal structure to distribute value": definición mínima de negocio (2024).
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (todas las filas)
+- **IDs:** U-006-169, U-016-122
+- **relación:** "getting paid for what you do" (U-010-341); vision in public.
+
+### Legos
+- **tipo:** término acuñado
+- **definición:** Las notas desarrolladas como piezas para cualquier contenido (2024).
+- **definición:** Variante "Legos (in your lifestyle)": elementos del estilo de vida que se quitan y ponen aprendiendo de los errores (2023-03).
+- **definición:** Variante "Legos (work blocks)": bloques de 1–2 horas repartidos durante el día para 5–10 tareas prioritarias (2024-10).
+- **definición:** Variante "Legos with ideas": escribir es armar y jugar con ideas en pantalla; las ideas vienen en formas predecibles (pain point, ejemplo, historia, estadística, metáfora, cita, reencuadre, preguntas) (2025).
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-03 – 2025
+- **IDs:** U-015-074, U-002-089, U-017-233, U-021-136, U-022-201
+- **relación:** creative firepower; time blocks; predictable forms; building blocks. Cuatro aplicaciones de la misma metáfora (notas, estilo de vida, bloques de trabajo, ideas).
+
+### leisure
+- **tipo:** palabra común con sentido propio
+- **definición:** Variante "leisure (is a mindset) / types of leisure": una actividad deja de ser ocio cuando se ata a un resultado obligatorio de trabajo (2025-05).
+- **definición:** Variante "leisure / leisure and leverage": ocio sin obligación ("it's called leisure for a reason"); entenderlo junto con el leverage transforma la productividad (2024–2025).
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 – 2025-05
+- **IDs:** U-019-147, U-019-130, U-018-182, U-019-119
+- **relación:** work, rest and play; active rest; leisure maxing.
+
+### leisure maxing
+- **tipo:** término acuñado
+- **definición:** Variante "leisure maxing / carb load the psyche": dedicar la segunda mitad del día a nutrir la mente.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-05 (única aparición)
+- **IDs:** U-003-210
+- **relación:** fill your brain; carb load the psyche; holistic daily routine.
+
+### lens / modality
+- **tipo:** término acuñado
+- **definición:** Lo que da un libro para que el contenido corto se entienda.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-03 (única aparición)
+- **IDs:** U-002-040
+- **relación:** time under attention.
+
+### lens of perception
+- **tipo:** término acuñado
+- **definición:** Una meta es una proyección al futuro que actúa como lente.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-12 (única aparición)
+- **IDs:** U-025-140
+- **relación:** point of view; goal (aim, lens, point of view).
+
+### lens of specificity
+- **tipo:** término acuñado
+- **definición:** Mirar las disputas de copia con una lente tan específica que ignora que todo es heredado.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-08 (única aparición)
+- **IDs:** U-022-147
+- **relación:** nothing is original.
+
+### lens of your future self
+- **tipo:** término acuñado
+- **definición:** Variante "lens of your future self / lens of the goal": ver la vida diaria desde la meta: cambia lo que detiene tu scroll y cómo escuchas.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-03 – 2024-03
+- **IDs:** U-003-164, U-003-103
+- **relación:** frame; macro and micro lenses; alias lens of the goal.
+
+### lenses
+- **tipo:** término acuñado
+- **definición:** Variante "lenses (frameworks as)": frameworks y educación como lentes para situaciones concretas, no como identidad.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-09 (única aparición)
+- **IDs:** U-014-100
+- **relación:** training wheels.
+
+### lesser purpose
+- **tipo:** término acuñado
+- **definición:** Un primer propósito pequeño (ir al gimnasio tras una ruptura) cuya resolución hace aparecer el siguiente.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2024
+- **IDs:** U-003-134, U-023-064
+- **relación:** T03 (propósito).
+
+### level of mind
+- **tipo:** término acuñado
+- **definición:** Altura y apertura de la perspectiva desde la que se interpretan los problemas; contiene creencias, habilidades y posibilidades; dicta la calidad de vida (2023–2024).
+- **definición:** Variante "level(s) of mind": nivel de desarrollo que dicta qué valores, creencias y estándares están disponibles; alternativa a "consciousness" (2023-03 – 2025-07).
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-03 – 2025-07
+- **IDs:** U-005-131, U-003-151, U-027-048, U-027-049, U-016-176, U-024-038, U-023-124, U-002-043, U-020-067, U-025-117, U-022-061
+- **relación:** equivalente a level of consciousness (reformulado); levels of consciousness; perspective.
+
+### level one of narrowing your focus
+- **tipo:** término acuñado
+- **definición:** Limitar las prioridades a 2–3 tareas, por la capacidad limitada de foco profundo.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-05 (única aparición)
+- **IDs:** U-003-200
+- **relación:** narrow focus.
+
+### level one thinking
+- **tipo:** término acuñado
+- **definición:** Variante "level one thinking / low consciousness thinking": contenido de una mayoría no desarrollada que domina internet.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025 (única aparición)
+- **IDs:** U-015-165
+- **relación:** epistemic commons; low consciousness thinking; level one traps.
+
+### level one traps
+- **tipo:** término acuñado
+- **definición:** Trampas del nivel 1 en redes (adicción al contenido, etc.).
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-09 (única aparición)
+- **IDs:** U-015-164, U-015-168
+- **relación:** lizard brain; level one thinking.
+
+### level zero
+- **tipo:** término acuñado
+- **definición:** Punto de partida de todos: puro instinto de supervivencia.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-10 (única aparición)
+- **IDs:** U-024-115
+- **relación:** —
+
+### levels (walking)
+- **tipo:** término acuñado
+- **definición:** Gamificar la meta de pasos: 3.000 = nivel 1, 10.000 = nivel 100.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-06 (única aparición)
+- **IDs:** U-019-111
+- **relación:** rules.
+
+### levels of awareness
+- **tipo:** término de tercero usado por el autor
+- **definición:** Variante "levels of awareness (unaware, problem aware, solution aware, product aware, most aware)": los cinco niveles de conciencia del problema y de la solución en que está cualquier persona.
+- **acuñado por:** Eugene Schwartz (adaptado; a veces sin fuente)
+- **fechas:** 2023 – 2026
+- **IDs:** U-009-064, U-010-182, U-011-162, U-012-107, U-013-241, U-014-055, U-014-101, U-027-261
+- **relación:** market sophistication.
+
+### levels of purpose
+- **tipo:** término acuñado
+- **definición:** Variante "levels of purpose (survival, status, creativity, contribution)": etapas por las que cambia el propósito del dinero y de casi todo; círculos concéntricos con un tirón hacia adentro.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-09 (única aparición)
+- **IDs:** U-016-095 a U-016-110 (rango tal como figura en la fuente)
+- **relación:** transcend and include; job / career / calling.
+
+### levels of uncertainty
+- **tipo:** término acuñado
+- **definición:** Variante "levels of uncertainty / punch just above your weight / default path": subir de nivel de riesgo gradualmente y cubrirlo con un coste de vida bajo.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025 (única aparición)
+- **IDs:** U-024-237
+- **relación:** branch into new opportunity; punch just above your weight.
+
+### lever moving actions
+- **tipo:** término acuñado
+- **definición:** Los fundamentals: patrones repetidos entre fuentes que hay que practicar a diario (2023).
+- **definición:** Variante "lever-moving actions": las acciones diarias que mueven la aguja en cada etapa (2023, 2024).
+- **definición:** Variante "levers / lever moving actions": tareas prioritarias cuantificables que mueven la aguja; feedback de progreso (2023–2025).
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2025
+- **IDs:** U-025-048, U-025-049, U-003-140, U-023-072, U-025-051, U-024-183, U-023-265, U-023-126
+- **relación:** fundamentals; quantifiable priority tasks; casi equivalente a lever moving tasks (la fuente alterna "actions" y "tasks" y "levers" casi sin distinción).
+
+### lever moving tasks
+- **tipo:** término acuñado
+- **definición:** Tarea poco exigente y de alto impacto (escribir) para el primer bloque de la mañana (variante singular "lever moving task", 2023-07).
+- **definición:** Variante "lever moving tasks / levers / daily levers / priority tasks": las 1–3 tareas diarias que mueven la aguja hacia el proyecto y la visión (2023–2025).
+- **definición:** Variante "lever moving tasks / levers / move the needle": tareas que mueven la aguja del proyecto (y este la de la visión) según la etapa de desarrollo; los principios detrás de las tácticas (2023-01 – 2024-06).
+- **definición:** Variante "lever-moving tasks": las 3–5 tareas prioritarias que hacen avanzar (2024–2025).
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-01 – 2025
+- **IDs:** U-011-235, U-024-195, U-024-224, U-018-144, U-003-078, U-017-022, U-003-074, U-003-257, U-017-045, U-017-129, U-019-073, U-026-117, U-017-050, U-022-033, U-026-191
+- **relación:** alias levers, daily levers, priority tasks, most important tasks, high value activities, move the needle; high lever project; Priority; morning habit; lever moving actions (casi sinónimo). Ver daily levers.
+
+### leverage
+- **tipo:** término de tercero usado por el autor
+- **definición:** "The multiplier between input and output".
+- **acuñado por:** Dan Koe (a partir de Naval)
+- **fechas:** 2024 – 2026
+- **IDs:** U-010-334, U-016-009, U-019-051
+- **relación:** leveraged work; labor leverage / capital leverage / permissionless leverage; digital leverage.
+
+### leverage digital tools
+- **tipo:** término acuñado
+- **definición:** Automatizar outreach con secuencias de email y programar contenido.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-01 (única aparición)
+- **IDs:** U-017-035, U-003-087
+- **relación:** leverage.
+
+### leverage-based game
+- **tipo:** término acuñado
+- **definición:** Variante "leverage-based game / ideal lifestyle": condiciones para trabajar menos: estilo de vida ideal y fortalezas alineadas con un juego de leverage.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-05 (única aparición)
+- **IDs:** U-019-135
+- **relación:** minimalism; ideal lifestyle.
+
+### leveraged work
+- **tipo:** término de tercero usado por el autor
+- **definición:** Trabajo que requiere creatividad; lo demás se delega, automatiza o abandona (2024-05; Naval, cita).
+- **definición:** Identificar el trabajo que da más resultados con menos esfuerzo (2024).
+- **acuñado por:** Naval (cita) / Dan Koe
+- **fechas:** 2024 – 2024-05
+- **IDs:** U-016-052, U-016-058
+- **relación:** trading time for money; Koe's law (segunda acepción: trabajo apalancado).
+
+### levers / mechanics
+- **tipo:** término acuñado
+- **definición:** Las redes como videojuego con mecánicas y palancas que se aprenden.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-10-15 – 2026-05-14
+- **IDs:** U-004-095, U-004-143
+- **relación:** two levers; ver lever moving tasks (otro uso de "levers").
+
+### levers of the new Rich
+- **tipo:** término acuñado
+- **definición:** Audiencia y producto como prioridades para independizarse.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-019-077
+- **relación:** business principles.
+
+### library of information
+- **tipo:** término acuñado
+- **definición:** Lo que se construye al educar sobre las habilidades e intereses de tu good life.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-08 (única aparición)
+- **IDs:** U-010-198
+- **relación:** evergreen ideas.
+
+### Life Dinner
+- **tipo:** término de tercero usado por el autor
+- **definición:** Variante "Life Dinner / us versus problem": cita mensual de pareja para ver el panorama general.
+- **acuñado por:** Brad Feld (vía Sahil Bloom)
+- **fechas:** 2025-01 (única aparición)
+- **IDs:** U-005-090
+- **relación:** us versus problem.
+
+### life is problem-solving
+- **tipo:** término acuñado
+- **definición:** La vida se despliega hacia la complejidad; para restringir la entropía que surge de ella debe emerger una estructura ordenada mediante la creación.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-10 (única aparición)
+- **IDs:** U-024-104
+- **relación:** creation; whole parts; entropy.
+
+### life is story
+- **tipo:** término acuñado
+- **definición:** Variante "life is story / uni-verse (one song)": el universo sigue altos y bajos; las historias imitan los altos y bajos emocionales.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-11 (única aparición)
+- **IDs:** U-013-104
+- **relación:** mimic the universe; "Universe one song" (también citado en impermanence).
+
+### life itself is a practice
+- **tipo:** término acuñado
+- **definición:** La vida ideal se practica a pequeña escala desde ya.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-03 – 2023-07
+- **IDs:** U-024-091, U-002-068
+- **relación:** ideal lifestyle.
+
+### life philosophy
+- **tipo:** término acuñado
+- **definición:** Variante "life philosophy / personal philosophy": lo que culmina al desarrollar razones detrás de tus acciones.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-05 (única aparición)
+- **IDs:** U-024-058
+- **relación:** sense of mastery; hunt and stack whys; alias personal philosophy.
+
+### life project
+- **tipo:** término acuñado
+- **definición:** La visión como proyecto que se construye e itera infinitamente ("a vision is your life project personified").
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-05 (única aparición)
+- **IDs:** U-016-068
+- **relación:** minimum viable vision; infinite project.
+
+### life reset map
+- **tipo:** nombre de producto/framework
+- **definición:** Workflow-entrevista que devuelve una primera versión de la vida ideal (visión, skill development tree, metas).
+- **acuñado por:** Dan Koe
+- **fechas:** 2025 (única aparición)
+- **IDs:** U-003-194
+- **relación:** skill development tree; life reset prompt.
+
+### life reset prompt
+- **tipo:** nombre de producto/framework
+- **definición:** Prompt que te interroga y produce un plan de vida iterable.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025 (todas las filas)
+- **IDs:** U-018-112, U-024-223
+- **relación:** anti-vision (T03); life reset map.
+
+### life treadmill
+- **tipo:** término de invitado
+- **definición:** Variante "life treadmill / one x": intercambios 1 a 1 en actividades que drenan, que te mantienen donde otros quieren.
+- **acuñado por:** Sahil Bloom
+- **fechas:** 2025-01 (única aparición)
+- **IDs:** U-005-069
+- **relación:** energy drains; energy calendar; alias one x.
+
+### life's work
+- **tipo:** palabra común con sentido propio
+- **definición:** Lo que eliges hacer con tu vida; vive en lo desconocido (2022–2024; uso propio).
+- **definición:** Cómo difundes el impacto del valor que desarrollas; todo lo aprendido y resuelto como valor para otros (2023–2024).
+- **definición:** El negocio como obra de vida y vehículo del estilo de vida ideal (2023–2024).
+- **definición:** Lo que uno podría y debería haber estado haciendo; la marca personal y el internet son solo su vessel (2023-06 a 2026-06).
+- **acuñado por:** Dan Koe (uso propio)
+- **fechas:** 2022 – 2026-06
+- **IDs:** U-007-053, U-015-056, U-024-036, U-017-184, U-012-093, U-015-039, U-015-052, U-017-089, U-017-166, U-001-015, U-016-204, U-015-055, U-009-019, U-012-142, U-012-227, U-012-162, U-015-061, U-015-175, U-026-113
+- **relación:** vessel; external game; life's task (Greene); MTP (Kotler); calling; treating your life as your life's work; holistic library of knowledge; fountainhead of value.
+
+### lifeblood of society
+- **tipo:** término acuñado
+- **definición:** El dinero como sangre que mantiene vivo el mercado y el propósito.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2025
+- **IDs:** U-008-050, U-016-147, U-010-241
+- **relación:** vessel for purpose.
+
+### lifelong self-education
+- **tipo:** término acuñado
+- **definición:** Autoeducación permanente como requisito del paisaje digital; meta → creadores → inmersión → acción.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-011-217
+- **relación:** daily self-education.
+
+### lifestyle creep
+- **tipo:** palabra común con sentido propio
+- **definición:** Subir el gasto con los ingresos; lo que parece su alquiler caro y no es.
+- **acuñado por:** término común
+- **fechas:** 2025 (única aparición)
+- **IDs:** U-016-249
+- **relación:** —
+
+### lifestyle design
+- **tipo:** palabra común con sentido propio
+- **definición:** Diseñar la propia vida y jornada por experimentación, sin copiar diseños ajenos (2022-10 – 2024-12).
+- **definición:** Diseñar y sistematizar tus días sin un manager (2023–2024).
+- **definición:** Variante "lifestyle design / intentional lifestyle design": diseñar una vida propia resolviendo problemas en cadena hasta el control y la libertad; crear espacio para la obra de vida (2022-07, 2024-01).
+- **acuñado por:** Dan Koe (uso propio)
+- **fechas:** 2022-07 – 2024-12
+- **IDs:** U-007-051, U-018-176, U-020-137, U-017-185, U-001-013, U-017-041, U-024-029, U-024-028, U-017-184
+- **relación:** self-made lifestyle; optimal; life's work; alias intentional lifestyle design.
+
+### lifestyle first
+- **tipo:** término acuñado
+- **definición:** Variante "lifestyle first / energy cycles / asymmetric advantage": elegir un trabajo que deje trabajar según tus ciclos de energía y apalancar fortalezas únicas.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-05 (única aparición)
+- **IDs:** U-019-133
+- **relación:** lion work; lion hunts and rests.
+
+### lifestyle of the 1%
+- **tipo:** término acuñado
+- **definición:** Revertir la entropía cada día: perseguir metas, resolver problemas, probar y distribuir soluciones.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-03 (única aparición)
+- **IDs:** U-027-262
+- **relación:** value equation; earning in accordance with nature.
+
+### light in the dark
+- **tipo:** término acuñado
+- **definición:** Los errores revelan problemas, que son límites de la mente.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-03 (única aparición)
+- **IDs:** U-026-127
+- **relación:** —
+
+### light of awareness
+- **tipo:** término acuñado
+- **definición:** Variante "light of awareness / darkness of the map": lo explorado y conocido vs lo desconocido que se perfora lentamente.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-04 – 2023-09
+- **IDs:** U-023-109, U-020-200
+- **relación:** edge; puncture the known; darkness of the map.
+
+### lighthouse
+- **tipo:** término acuñado
+- **definición:** La meta hacia la que el sistema inteligente corrige el rumbo.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-11 – 2026-06
+- **IDs:** U-021-054, U-012-223
+- **relación:** cybernetic loop.
+
+### likes ain't cash
+- **tipo:** término de tercero usado por el autor
+- **definición:** Seguidores y likes no importan sin confianza, autoridad y lealtad (no es binario).
+- **acuñado por:** JK Molina (adaptado)
+- **fechas:** 2026-06 (única aparición)
+- **IDs:** U-012-226
+- **relación:** audience.
+
+### limbo
+- **tipo:** término acuñado
+- **definición:** Variante "limbo / vision / flow / resistance phase": secuencia predecible de cuatro fases en cada capítulo (2025-05).
+- **definición:** Variante "limbo is the laboratory": el estado de sentirse perdido como espacio de cambio: inclinarse hacia el dolor (2025-08).
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-05 – 2025-08
+- **IDs:** U-023-254, U-023-255, U-018-109
+- **relación:** four phases of life; exhausted your current stage of life; lost phase.
+
+### limitations / creative challenge
+- **tipo:** término acuñado
+- **definición:** Restricciones a las metas que fuerzan la creatividad ("a creative becomes rich at the expense of his choice").
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-04 (única aparición)
+- **IDs:** U-024-194
+- **relación:** constraints; anti-goals.
+
+### lines, levels, altitudes
+- **tipo:** término acuñado
+- **definición:** Dimensiones 1–3 del pensamiento: dominios, nivel de pensamiento por dominio y promedio global.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-02 (única aparición)
+- **IDs:** U-022-079, U-022-080, U-022-086
+- **relación:** five-dimensional thinking; fifth dimension; fourth dimension.
+
+### lion hunts and rests
+- **tipo:** término acuñado
+- **definición:** Modelo del león: cazar y descansar; ningún trabajo debe ser forzado.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 – 2025
+- **IDs:** U-017-212, U-019-133
+- **relación:** binge; lion; lifestyle first.
+
+### Little employees
+- **tipo:** término acuñado
+- **definición:** Variante "Little employees / specialized employees": prompts que hacen el 90% de tareas ajenas a tu arte.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025 (todas las filas)
+- **IDs:** U-012-148, U-025-224
+- **relación:** metaprompt; alias specialized employees; digital employee.
+
+### living as your past self
+- **tipo:** término acuñado
+- **definición:** Traer al presente experiencias estresantes pasadas hasta enfermar.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 (única aparición)
+- **IDs:** U-026-012
+- **relación:** stressful internal environment; familiar past / predictable future. Vecino de living yesterday today.
+
+### living at your edge
+- **tipo:** término acuñado
+- **definición:** Variante "living at your edge / edge of the unknown": equilibrio entre lo conocido y lo desconocido donde ocurren los eventos significativos.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 – 2025
+- **IDs:** U-023-029, U-023-270, U-023-271, U-020-093, U-021-023, U-027-052
+- **relación:** skill-challenge match; edge; edge of the known; alias edge of the unknown.
+
+### living yesterday today
+- **tipo:** término acuñado
+- **definición:** Loop en que un pensamiento al despertar reactiva el yo del pasado y crea un futuro predecible.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-05 (única aparición)
+- **IDs:** U-024-157
+- **relación:** the unknown; living as your past self.
+
+### location hopping
+- **tipo:** término acuñado
+- **definición:** Mudarse cada unos seis meses cuando se estanca.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-026-219
+- **relación:** —
+
+### Lone Wolf mentality
+- **tipo:** término acuñado
+- **definición:** Creer que se puede crecer solo; no funciona en un entorno social.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-10 (única aparición)
+- **IDs:** U-015-046
+- **relación:** engagement groups.
+
+### long form / short form promotions
+- **tipo:** término acuñado
+- **definición:** La sales page completa frente al CTA.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-009-137
+- **relación:** —
+
+### long posts / micro articles
+- **tipo:** término acuñado
+- **definición:** Piezas largas estratégicas (hilos, carruseles, posts en plantilla 4×5) publicadas 1–2 veces por semana.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-09 (única aparición)
+- **IDs:** U-009-245
+- **relación:** spray and pray; traffic firepower.
+
+### long-term, short-term, immediate
+- **tipo:** término acuñado
+- **definición:** Bloques del día: proyectos de meses, cosas que rinden pronto, y mantenimiento.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-04 (única aparición)
+- **IDs:** U-018-188
+- **relación:** priority ladder.
+
+### looks come before depth
+- **tipo:** término acuñado
+- **definición:** La superficie (apariencia, títulos) es el portal hacia la profundidad.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (todas las filas)
+- **IDs:** U-027-245, U-027-246
+- **relación:** the material is a portal into the immaterial; iceberg.
+
+### lore / perspective
+- **tipo:** término acuñado
+- **definición:** Lo que hace que te sigan: no la información sino tu perspectiva e historia.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-12 (única aparición)
+- **IDs:** U-018-165
+- **relación:** attention is the only differentiator.
+
+### loser's game
+- **tipo:** término acuñado
+- **definición:** El client work high-ticket como vía no escalable al millón.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-002-130
+- **relación:** software is now your employee.
+
+### loss of control
+- **tipo:** término de tercero usado por el autor
+- **definición:** Variante "loss of control (burnout)": el burnout viene de perder el control, no de trabajar duro.
+- **acuñado por:** Justin Welsh (según la fila)
+- **fechas:** 2021-12 (única aparición)
+- **IDs:** U-005-004
+- **relación:** full control.
+
+### lost phase
+- **tipo:** término acuñado
+- **definición:** Variante "lost phase / navigate the dark": fase mental y espiritual donde la mayoría se atasca.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-06 (única aparición)
+- **IDs:** U-026-088, U-026-089
+- **relación:** limbo phase; four phases of life; macro cycle of life (lost, curious, obsessed).
+
+### love is connection
+- **tipo:** término de tercero usado por el autor
+- **definición:** Amor desinteresado como conectar puntos y ver cómo la realidad se mueve junta.
+- **acuñado por:** Actualized.org
+- **fechas:** 2022-10 – 2024-02
+- **IDs:** U-011-117, U-001-075
+- **relación:** enjoyment / obsession.
+
+### low conscious problem
+- **tipo:** término acuñado
+- **definición:** Los problemas de corto plazo que propone la sociedad (2023-07).
+- **definición:** Variante "low Consciousness problems / landing on Saturn": resolver primero los problemas básicos antes de ideas grandiosas (2023).
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2023-07
+- **IDs:** U-017-117, U-007-201
+- **relación:** unconscious goals; micro education business model; landing on Saturn.
+
+### low consciousness
+- **tipo:** término acuñado
+- **definición:** Volverse "profeta" de una ideología por falta de comprensión de por qué funcionó (2025-09).
+- **definición:** Variante "low consciousness existence": lo que el texto persuasivo saca a la gente de ("sell people out of") (2024-01).
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-01 – 2025-09
+- **IDs:** U-024-241, U-013-157
+- **relación:** Person A vs Person B; APAG Advantage; low consciousness thinking (ver level one thinking); Lower State of Consciousness.
+
+### low entropy / mid entropy / high entropy
+- **tipo:** término acuñado
+- **definición:** Tres franjas del día: foco profundo; gente y teléfono; caos controlado que produce ideas para la mañana siguiente (variante con "controlled chaos").
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-12 (única aparición)
+- **IDs:** U-018-178
+- **relación:** release and constrain entropy; entropy management; controlled chaos; do your work when entropy is low.
+
+### low hanging fruit
+- **tipo:** palabra común con sentido propio
+- **definición:** Monetizar primero lo más fácil (tutoriales).
+- **acuñado por:** uso común
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-004-141
+- **relación:** —
+
+### low level character
+- **tipo:** término acuñado
+- **definición:** Creerse bueno por compararse con jugadores de bajo nivel.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-07 (única aparición)
+- **IDs:** U-010-094
+- **relación:** —
+
+### low leverage / high leverage distribution
+- **tipo:** término acuñado
+- **definición:** Métodos de gratificación inmediata que dejan nada si paras vs métodos acumulativos.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-08 (única aparición)
+- **IDs:** U-013-095
+- **relación:** renting others' audiences; global distribution network.
+
+### low point
+- **tipo:** término acuñado
+- **definición:** Situación concreta de fondo (p. ej., "I'm broke") desde la cual se fija una meta opuesta.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-06 (única aparición)
+- **IDs:** U-027-078
+- **relación:** anti-vision; societal machine.
+
+### low ticket / high ticket
+- **tipo:** término acuñado
+- **definición:** Los trabajos freelance baratos se automatizan; el high ticket exige aplicar creativamente una gama de habilidades.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-10 – 2024-02
+- **IDs:** U-011-083, U-001-047, U-001-049
+- **relación:** builder; high ticket client cycle.
+
+### lower class of the creator economy
+- **tipo:** término acuñado
+- **definición:** Quienes usan la IA para atajos (ebooks, contenido viral generado) y nunca compiten con quien entiende.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-01 (única aparición)
+- **IDs:** U-008-173
+- **relación:** —
+
+### lower self / higher self
+- **tipo:** término acuñado
+- **definición:** Lo que intenta seguir igual / lo que crece.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-03 (todas las filas)
+- **IDs:** U-022-004, U-022-013
+- **relación:** shell.
+
+### Lower State of Consciousness
+- **tipo:** término acuñado
+- **definición:** Estado al que lleva el aburrimiento acumulado, percibido como normal.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-07-13 (única aparición)
+- **IDs:** U-006-157
+- **relación:** monkeys in a cubicle; low consciousness.
+
+### lowest common denominator
+- **tipo:** término acuñado
+- **definición:** El tweet de 280 caracteres, transferible a cualquier formato.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-03 (única aparición)
+- **IDs:** U-016-290
+- **relación:** —
+
+### luck
+- **tipo:** palabra común con sentido propio
+- **definición:** "A concept used to describe a lack of understanding of a system".
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-016-123
+- **relación:** making money is a skill; vecino de luck surface area.
+
+### luck surface area
+- **tipo:** término de tercero usado por el autor
+- **definición:** Serendipia proporcional a hacer lo que te apasiona por la cantidad de gente a quien se comunica.
+- **acuñado por:** Jason Roberts
+- **fechas:** 2022-11 (única aparición)
+- **IDs:** U-020-035
+- **relación:** great attractor; luck.
