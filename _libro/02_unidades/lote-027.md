@@ -1895,3 +1895,278 @@
 - **fuente:** Asking For Advice Is Keeping You Unsuccessful (Here's Why).md, 19:55–20:40, 2023-08-23
 - **tension:** ninguna
 
+# Fuente: The Cure To A Mediocre Life (Become Multidimensionally Jacked).md (2023-08-30)
+
+## U-027-146
+- **tipo:** término-acuñado
+- **titulo:** Multi-dimensionally jacked: maxing out mind, body, spirit and finances as traits in the video game of life
+- **desarrollo:** Koe always had a drive to max out every area of life; he saw life as a video game where mind, body, spirit and finances were the traits to gain experience in—"I wanted to become multi-dimensionally jacked." Possible reasons: he questioned the default path early; noticed how unhappy, overweight and miserable people seemed; observed how people limited opportunities by taking a specific path. Following what most people do leads to the life most people have, "and that isn't pretty."
+- **ejemplos:** ninguno
+- **cita:** "I wanted to become multi-dimensionally jacked"
+- **terminos:** multi-dimensionally jacked; default path
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Cure To A Mediocre Life (Become Multidimensionally Jacked).md, 0:00, 2023-08-30
+- **tension:** ninguna
+
+## U-027-147
+- **tipo:** argumento
+- **titulo:** The default path's problem is compartmentalization, specialization and niching down: we focus on one dot instead of the lines connecting dots
+- **desarrollo:** The default path—the trajectory you're conditioned into since birth—suffers from compartmentalization, specialization and niching down. "We are trained to focus on one dot instead of the lines that connect the dots." In school we take biology, chemistry, math, literature in separate classes that don't connect—lacking holism, creativity and the practicality that gets abnormal results. After school we narrow further on what we'll be forever; teenagers must choose one of infinite paths before starting real life. "There doesn't seem to be a greater recipe for misery than to focus on one thing for the rest of your life"—it strips curiosity and creativity. Result: "Warriors lack brains and intellectuals lack balls." At birth we're prescribed: school, job, partner, squeeze in good activities, retire at 65 and never work again—when work is a necessary part of life that should involve investing attention in what we enjoy. In school pick a major, in business pick a niche, neglecting the other areas that make those work, and results suffer. "The effects of compartmentalized learning destroy our individual potential."
+- **ejemplos:** separate school classes; choosing a career as a teenager.
+- **cita:** "Warriors lack brains and intellectuals lack balls"
+- **terminos:** compartmentalization; specialization; niching down; connect the dots; default path
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-146
+- **fuente:** The Cure To A Mediocre Life (Become Multidimensionally Jacked).md, 0:00–3:31, 2023-08-30
+- **tension:** ninguna
+
+## U-027-148
+- **tipo:** argumento
+- **titulo:** A philosopher who can't build a business, manage emotions or create fulfilling relationships has a philosophy that means nothing
+- **desarrollo:** A philosopher may ignore practical life because they identify as an intellectual, not a warrior. But philosophy's main question is "how does one live the best life"; if they can't build a business, manage emotions or create fulfilling relationships, "their philosophy means absolutely nothing."
+- **ejemplos:** ninguno
+- **cita:** "the main question of philosophy is how does one live the best life"
+- **terminos:** intellectual; warrior
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-147
+- **fuente:** The Cure To A Mediocre Life (Become Multidimensionally Jacked).md, 1:00–1:45, 2023-08-30
+- **tension:** ninguna
+
+## U-027-149
+- **tipo:** metáfora
+- **titulo:** The frog in a blender (reductionism) vs. the cone of truth: big picture narrowed onto one aspect like a spotlight
+- **desarrollo:** Reductionist science throws a frog in a blender and observes its parts, losing the holistic nature of the frog and limiting discoveries—versus observing the frog in its environment, how it moves (even an artificial environment lacks other frogs, travel, its own behavior). Instead, take the universe into account "like a cone coming down from the sky": truth is the big picture narrowed onto one small aspect of reality, making discoveries "like a spotlight." Koe says this is metaphorical/analogous. The cone recurs: creativity requires a high level of understanding focused on specific problems "like the cone"; "big irrational goals followed by small rational steps" also follows "the cone shape that dictates truth."
+- **ejemplos:** frog in a blender.
+- **cita:** "truth is this big picture narrowed in on one small aspect of reality"
+- **terminos:** cone; spotlight; reductionist approach; holistic
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-147
+- **fuente:** The Cure To A Mediocre Life (Become Multidimensionally Jacked).md, 1:45–2:38, 3:31, 13:34, 2023-08-30
+- **tension:** ninguna
+
+## U-027-150
+- **tipo:** framework
+- **titulo:** The digital Renaissance man: self-educated, curious, builds digital leverage, trains physically, health conscious, socializes, does purposeful work, spiritually inclined
+- **desarrollo:** Shown as a graphic: the modern/digital renaissance man is self-educated, pursues curiosity, builds digital leverage, embarks on physical training, is health conscious, socializes, dedicates time to purposeful work, and is spiritually inclined. "Creativity is the path to wealth mental and financial," and creativity requires high understanding focused on specific problems. We're in "a second Golden Age" with overwhelming information; you can't learn everything but can learn a lot. People still live in a paradigm of getting very good at one thing because the past environment required it; now success is reserved for "the value Creator the specialized generalists the New Renaissance Man", someone who studies diverse interests, creates value from them and sustains an enjoyable lifestyle.
+- **ejemplos:** ninguno
+- **cita:** "creativity is the path to wealth mental and financial"
+- **terminos:** digital Renaissance Man; specialized generalists; value Creator; second Golden Age; digital leverage
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-147
+- **fuente:** The Cure To A Mediocre Life (Become Multidimensionally Jacked).md, 2:38–4:20, 2023-08-30
+- **tension:** ninguna
+
+## U-027-151
+- **tipo:** principio
+- **titulo:** Information overload only overwhelms those without goals: filter signal from noise in alignment with self-set goals
+- **desarrollo:** There's an overabundance of information, but it's overwhelming only to those without goals and intentions behind learning. That's how you "learn everything": filter signal from noise in every piece of information, aligned with conscious goals you set—not goals others set. From birth people project goal after goal onto you, shaping behavior and the lens through which you perceive and learn; those goals are how you survive.
+- **ejemplos:** ninguno
+- **cita:** "you filter signal from noise"
+- **terminos:** signal from noise; conscious goals
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Cure To A Mediocre Life (Become Multidimensionally Jacked).md, 4:20–5:06, 2023-08-30
+- **tension:** ninguna
+
+## U-027-152
+- **tipo:** metáfora
+- **titulo:** Content, courses and books are zip files for your mind; replaceable income no longer requires 4–12 years, $40,000 and a piece of paper
+- **desarrollo:** The creator economy condensed information into actionable courses on business, health, wealth, relationships. "Content courses and books are like zip files for your mind." In the modern world it no longer takes four to twelve years, forty thousand dollars and a diploma to make a replaceable income—but this implies personal responsibility: nobody holds your hand.
+- **ejemplos:** ninguno
+- **cita:** "content courses and books are like zip files for your mind"
+- **terminos:** zip files for your mind; Creator economy; personal responsibility
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-151
+- **fuente:** The Cure To A Mediocre Life (Become Multidimensionally Jacked).md, 5:06–5:55, 2023-08-30
+- **tension:** ninguna
+
+## U-027-153
+- **tipo:** principio
+- **titulo:** Point 1: become nobody—label-less, everything; subscribing to one skill, ideology or identity limits potential
+- **desarrollo:** "Become nobody become label-less become everything": be a designer, writer, marketer, socializer, runner, bodybuilder, philosopher, scientist, psychologist and polymath who sustains obsessive curiosity. "Subscribing to one's skill ideology or identity limits your potential in every situation." The universe is a shape shifter in constant flow: oceans evaporate, condense into clouds, rain into puddles, water finds its way back. Nothing is permanent—your cells are different from a few years ago. Your interests, mind and self are allowed to change. "Become the universe."
+- **ejemplos:** water cycle; cell renewal.
+- **cita:** "become nobody become label-less become everything"
+- **terminos:** become nobody; label-less; polymath; obsessive curiosity; shape shifter
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-150
+- **fuente:** The Cure To A Mediocre Life (Become Multidimensionally Jacked).md, 5:55–6:50, 2023-08-30
+- **tension:** ninguna
+
+## U-027-154
+- **tipo:** término-acuñado
+- **titulo:** Point 2: the Curiosity Compass—phases are good; evolution transcends and includes
+- **desarrollo:** As a kid, people discourage "going through a phase." Koe had an emo phase in high school, a bodybuilder phase, a raver phase—all shaped him, "because evolution is about transcending and including": you transcend and pull the good parts up with you (lessons from the gym-bro phase, different music in the emo phase, interesting people met at raves). Nothing is wrong with experimentation; something is wrong with conforming to others' whims. Even within a phase, consistently check in that you're thinking independently and not relinquishing autonomy to fit in. Prescriptions, roadmaps and long curriculums aren't bad but narrow your mind on a specific outcome—useful, but not "one and done", or you get trapped in a miserable life.
+- **ejemplos:** emo, bodybuilder, raver phases.
+- **cita:** "evolution is about transcending and including"
+- **terminos:** Curiosity Compass; transcend and include; phases
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-153
+- **fuente:** The Cure To A Mediocre Life (Become Multidimensionally Jacked).md, 6:00–7:39, 2023-08-30
+- **tension:** ninguna
+
+## U-027-155
+- **tipo:** heurística
+- **titulo:** Focus on one thing only if it's a massive unrealistic goal requiring many skills; be obsessively curious about a skill for 1–2 months, then move on
+- **desarrollo:** Pattern in himself and those he aspires to be like: they don't limit learning to one thing—everything connects. Pursuing curiosity motivates learning, and pattern recognition increases "meaningful dopamine" that solidifies high-level knowledge. "Focus on one thing" is good advice only if the one thing is a massive, unrealistic goal requiring a plethora of skills, interests and experiences. It's wise to be obsessively curious about a skill for one to two months to add it to your toolbox, then move to the next from better experience—noticing more, acquiring faster—culminating in a unique skill set nobody else has because nobody has your curiosities. This separates you from competition in skills, products/services and communication. Doing this obsessively for one to two years launches you ahead of 99% of people.
+- **ejemplos:** ninguno
+- **cita:** "it is wise to become obsessively curious with a skill for one to two months"
+- **terminos:** toolbox; meaningful dopamine; pattern recognition; unique skill set
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-154
+- **fuente:** The Cure To A Mediocre Life (Become Multidimensionally Jacked).md, 7:39–9:57, 2023-08-30
+- **tension:** matiza el "focus on one thing" convencional
+
+## U-027-156
+- **tipo:** advertencia
+- **titulo:** Niche down too far and you become a glorified search engine lacking depth and personality
+- **desarrollo:** In business, niching down for too long or too far makes you "a glorified search engine"—lacking depth and personality, the thing the future requires. People have explored niche areas enough; you needn't subscribe to one path (biologist, chemist); readily available courses, content and books let you become everything. It all points to the creator economy—distributing value you've cultivated over time, though most people don't cultivate it.
+- **ejemplos:** ninguno
+- **cita:** "you just become a glorified search engine"
+- **terminos:** glorified search engine; Niche down
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-155
+- **fuente:** The Cure To A Mediocre Life (Become Multidimensionally Jacked).md, 9:08–9:57, 2023-08-30
+- **tension:** matiza U-027-043 (niche down hacia un objetivo)
+
+## U-027-157
+- **tipo:** principio
+- **titulo:** Point 3: invest in your education—you own one thing, your mind; learn something every day, 10 minutes or three hours
+- **desarrollo:** "You own one thing your mind everything else can be taken away." School got one thing right: consistent daily education and hope for a better future—but doesn't prioritize curiosity, so most hate learning by graduation. "Learning is the foundation of the human experience and once you stop you die." Learn something every day, whether 10 minutes or three hours. It's the only way to discover a new potential not assigned to you; you can't act on opportunities that don't exist to you, nor register them without reaching a skill level by doing your own thing. Example: without having started a business, you can't see someone online and think "he has this business, I have this offer, he can pay me this much, I'll reach out in a way I know, then systemize it." When you stop learning, life stops progressing, feel-good chemicals stop flowing, life becomes mediocre, repetitive, mechanical, robotic.
+- **ejemplos:** spotting a client opportunity online.
+- **cita:** "you own one thing your mind"
+- **terminos:** daily education; new potential
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Cure To A Mediocre Life (Become Multidimensionally Jacked).md, 9:57–11:22, 2023-08-30
+- **tension:** ninguna
+
+## U-027-158
+- **tipo:** concepto
+- **titulo:** The philosophy of the Builder: learning means nothing without building; Koe's life was a meta project built from personal and business projects
+- **desarrollo:** From his book The Art of Focus (section on "the philosophy of the Builder"). Pattern in his life: he always carved out time to build something of his own; schoolwork, client work and assigned job projects were necessary but unfulfilling. "My life was The Meta project" built through personal and business projects. Projects frame attention and learning: with focus on what you build, all information is filtered through that lens. "The source of learning is struggle not memorization": encounter a problem, discover its solution, integrate it. To identify a problem you need a goal; to solve it, a solution; to create a solution, a project to invest attention in for the next one to six months.
+- **ejemplos:** ninguno
+- **cita:** "the source of learning is struggle not memorization"
+- **terminos:** philosophy of the Builder; Meta project; projects frame your attention
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-157
+- **fuente:** The Cure To A Mediocre Life (Become Multidimensionally Jacked).md, 11:22–12:54, 2023-08-30
+- **tension:** ninguna
+
+## U-027-159
+- **tipo:** proceso
+- **titulo:** First block of every morning goes to the high-lever project—even during a 9-to-5 he built one hour a day
+- **desarrollo:** With his focused/deep work and "four-hour workday philosophy", the first block of every morning was the high-lever project leading to the life he wanted. Even with a 9-to-5 he had an hour daily to build, making progress however slow. A project means something measurable and documented—not necessarily physical ("hammer, nails, wood"); it can be a weight training log, food and weight tracking plus researching fitness to correct actions. Without doing, you can't register a problem when consuming education—it goes in one ear and out the other. In business, building a product or brand involves levers you move daily (transcript says "removing"; ambiguous), milestones and components to piece together.
+- **ejemplos:** weight training log.
+- **cita:** "when I say project I mean something that is measurable and documented"
+- **terminos:** four-hour workday philosophy; high lever project; deep work
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-158
+- **fuente:** The Cure To A Mediocre Life (Become Multidimensionally Jacked).md, 12:10–13:34, 2023-08-30
+- **tension:** ninguna
+
+## U-027-160
+- **tipo:** principio
+- **titulo:** Big irrational goals followed by small rational steps; one habit each for mind, body, business
+- **desarrollo:** "Big irrational goals followed by small rational steps"—the cone shape that dictates truth. One habit to build your mind, one for your body, one for your business; experiment until you find ones you can stick with for life; "in five years you won't be the same person." Big goals beat small goals because they give vision, motivation and long-term focus: he gets more excited about building a million-dollar business in a year than sending 10 networking emails a day, more about looking shredded on the beach than weekly meal prepping.
+- **ejemplos:** million-dollar business vs. 10 networking emails; shredded on the beach vs. meal prep.
+- **cita:** "big irrational goals followed by small rational steps"
+- **terminos:** big irrational goals; small rational steps; cone
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-149
+- **fuente:** The Cure To A Mediocre Life (Become Multidimensionally Jacked).md, 13:34–14:19, 2023-08-30
+- **tension:** ninguna
+
+## U-027-161
+- **tipo:** framework
+- **titulo:** Four pillars to set a big goal for: mind, body, spirit, business—with guiding questions
+- **desarrollo:** To become multi-dimensionally jacked, create a big goal for each pillar. Mind: how do you want to handle emotions and stress; do you want the same mediocre mindset as everyone? Body: how do you want to look and feel; how does that impact other areas like how others perceive you and throw opportunities at you? Spirit: does life lack meaning, wonder, fulfillment; is life happening to you or are you flowing with it? Business: how much money do you want; why do you want it from a purposeful endeavor "unlike ninety percent of jobs"?
+- **ejemplos:** ninguno
+- **cita:** "do you feel like life is happening to you or that you are flowing with life"
+- **terminos:** mind; body; Spirit; business; pillar
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-160
+- **fuente:** The Cure To A Mediocre Life (Become Multidimensionally Jacked).md, 14:19–15:06, 2023-08-30
+- **tension:** ninguna
+
+## U-027-162
+- **tipo:** advertencia
+- **titulo:** Telling people your goals gives dopamine as if achieved, leading to no progress
+- **desarrollo:** Most people stop at goal-setting: they "mentally masturbate over their goals" and tell people, which he says is "scientifically shown to increase dopamine levels in the brain as if you achieve that goal," and they never make meaningful progress.
+- **ejemplos:** ninguno
+- **cita:** "they mentally masturbate over their goals and they tell people about it"
+- **terminos:** ninguno
+- **origen:** propia (alude a evidencia científica sin citar)
+- **nivel:** complementario
+- **prerrequisitos:** U-027-161
+- **fuente:** The Cure To A Mediocre Life (Become Multidimensionally Jacked).md, 15:06, 2023-08-30
+- **tension:** ninguna
+
+## U-027-163
+- **tipo:** método
+- **titulo:** Outline a project for each life domain: goal is the what, vision the why, project the how—milestones, variables, principles, skills
+- **desarrollo:** "The goal is the what, the vision is the why, and the project is the how." Projects have a goal, process and priority actions to knock out daily. Questions: what can you do daily to move the needle; what aspects of your goals must you educate yourself on; how can you document progress to stay motivated to return tomorrow? In a notebook, for each goal write: (1) Milestones—tangible, with realistic timelines; (2) Variables—each variable that helps achieve the goal (health: nutrition, training, sleep; business: product, traffic generation, content); (3) Principles—the priority actions that move the needle; (4) Skills—those you must acquire to actualize the goal. He urges not just watching and learning without building.
+- **ejemplos:** health and business variables.
+- **cita:** "the goal is the what the vision is the why and the project is the how"
+- **terminos:** project; Milestone; variables; principles; skills; priority actions; move the needle
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-161
+- **fuente:** The Cure To A Mediocre Life (Become Multidimensionally Jacked).md, 15:06–16:34, 2023-08-30
+- **tension:** ninguna
+
+## U-027-164
+- **tipo:** heurística
+- **titulo:** Start, then learn: outline a project, start building, learn along the way—avoid tutorial hell
+- **desarrollo:** To learn faster, don't start by learning: (1) outline a project; (2) start building; (3) learn along the way. Many get trapped in "tutorial hell", stacking useless knowledge as brain fog. Start, encounter a problem, experiment with techniques. Koe tried to learn all of Photoshop before using it; when he started he knew nothing and had to supplement with specific "create with me" tutorials. With a problem in your head when watching a video, you see what the other person does, remember far more, and return to fix your project. Hence the constant balance "learning building learning building"—"you can't have output without input." He recommends a general education habit of 10–30 minutes daily (a YouTube video, podcast, part of a book, or a short summary such as the Shortform app).
+- **ejemplos:** learning Photoshop; Shortform app.
+- **cita:** "you can't have output without input"
+- **terminos:** tutorial hell; start then learn; learning building
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-163
+- **fuente:** The Cure To A Mediocre Life (Become Multidimensionally Jacked).md, 16:34–18:01, 2023-08-30
+- **tension:** ninguna
+
+## U-027-165
+- **tipo:** principio
+- **titulo:** Point 4: lifestyle design through habit formation—the difference between you and who you want to become is your habits
+- **desarrollo:** Restates: build mind (books, self-reflection, writing), body (gym, long walks, nutrient-dense foods), business (skill acquisition, problem solving, self-promotion). "The difference between you and who you want to become are the habits that compose your lifestyle." Jacked people don't wake up one day with the best mind, body and business—they take tiny daily actions. Others say stop video games, going out and distracting yourself; Koe agrees but still plays video games ~2–5 hours a week (not habitual) and goes out with friends/stays up late every two to four weeks—because priorities are straight, he can think critically when the time comes.
+- **ejemplos:** video games 2–5 h/week; going out every 2–4 weeks.
+- **cita:** "the difference between you and who you want to become are the habits that compose your lifestyle"
+- **terminos:** lifestyle design; habit formation
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-027-160
+- **fuente:** The Cure To A Mediocre Life (Become Multidimensionally Jacked).md, 18:01–18:46, 2023-08-30
+- **tension:** ninguna
+
+## U-027-166
+- **tipo:** proceso
+- **titulo:** Koe's routine: front-load 5–11 AM with needle-moving tasks—run/walk, one hour of writing (95% of the business), project, gym 6–7 days, ~4,500 calories
+- **desarrollo:** He outpaces "95 percent of people" by front-loading mornings between 5 AM and 11 AM with needle-moving tasks: run three to four days a week, walk on other days to keep the habit of going outside; write newsletter and content for one hour—"this sustains 95% of my business"; build a new project (then: his book launch and software company). Also: gym six to seven days a week; walks between activities; nutrient-dense meals taking 10–15 minutes to prepare; eats out for dinner quite a bit; ~4,500 calories a day (he shows a physique photo as proof). Not everyone can due to time constraints, but you can change some part now to do what you want later. As you get results you become efficient and time frees up—freeing time "should be a sub goal for almost every goal you set." "When in doubt waking up an hour earlier unlocks the distraction free time that will solve most of your problems."
+- **ejemplos:** 5–11 AM block; 4,500 calories.
+- **cita:** "when in doubt waking up an hour earlier unlocks the distraction free time"
+- **terminos:** front load my mornings; needle-moving tasks
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-027-165
+- **fuente:** The Cure To A Mediocre Life (Become Multidimensionally Jacked).md, 18:46–20:11, 2023-08-30
+- **tension:** ninguna
+

@@ -2566,3 +2566,382 @@
 - **fuente:** I'm 28. Here's How To Get Ahead Of Most 20 Year Olds.md, 25:44-26:26, 2025-07-27
 - **tension:** ninguna
 
+# Fuente: You Have About 36 Months To Make It.md (2025-08-17)
+
+## U-025-197
+- **tipo:** opinión
+- **titulo:** "You have about 36 months to make it" is a circulating online claim the author neither endorses nor rejects; his reframing: you have about 36 months until the definition of "making it" changes drastically.
+- **desarrollo:** The circulating claims: AI will keep replacing jobs; money as we know it will change or cease because millions of ASIs (artificial super intelligences) will execute tasks beyond human comprehension; crypto's last incredible gains because it's being regulated and adopted and will become more like stocks. He says these aren't his opinions; he's "indifferent," expects most to be wrong. His view: "you have about 36 months until the definition of making it changes drastically." Intention: provide a perspective to notice opportunities in a fast-arriving future. Whether 24 months or 10 years, "still probably happening."
+- **ejemplos:** ASIs; crypto regulation
+- **cita:** "you have about 36 months until the definition of making it changes drastically"
+- **terminos:** making it
+- **origen:** propia (reframing of a circulating claim)
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** You Have About 36 Months To Make It.md, 0:00-0:51; 19:00, 2025-08-17
+- **tension:** ninguna
+
+## U-025-198
+- **tipo:** principio
+- **titulo:** Periods of noise, conflict and chaos signal that a new ordered structure is about to emerge; human nature stays the same, and this shift draws a clear line between machines and humans.
+- **desarrollo:** We're in a very noisy time on social media and YouTube; "when there's a lot of conflict, a lot of chaos, that means that a new ordered structure is going to emerge," though we don't know what yet. "Thankfully, human nature remains pretty much the same." This period of rapid growth marks a clear distinction between machines and humans: "Those who lean into their humanity will thrive," while those identifying with mechanical living may not.
+- **ejemplos:** ninguno
+- **cita:** "Those who lean into their humanity will thrive."
+- **terminos:** new ordered structure; mechanical living
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-025-039
+- **fuente:** You Have About 36 Months To Make It.md, 0:51-1:44, 2025-08-17
+- **tension:** ninguna
+
+## U-025-199
+- **tipo:** fuente-de-tercero
+- **titulo:** Sam Altman: the amount of power an individual has is vastly more now than at any time in the past.
+- **desarrollo:** The author sets the scene with what he calls a famous Sam Altman quote, then develops his own three-layer explanation of how that power was transferred (U-025-200).
+- **ejemplos:** ninguno
+- **cita:** "The amount of power that an individual has is vastly more now than it has been at any time in the past."
+- **terminos:** ninguno
+- **origen:** de-tercero:Sam Altman
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** You Have About 36 Months To Make It.md, 1:44, 2025-08-17
+- **tension:** ninguna
+
+## U-025-200
+- **tipo:** framework
+- **titulo:** Three layers of power transfer to the individual: internet (knowledge, away from schools/institutions), social media (audience leverage, away from employers, publishers, media, labels), AI (create/automate/outsource, away from gatekeepers).
+- **desarrollo:** (1) The internet gave access to any and all knowledge — power transferred away from schools and institutions. (2) Social media gave leverage to attract your own audience — power transferred away from employers, publishers, centralized media and record labels; people can learn, build and earn without dependence on someone else's authority. (3) AI gives the ability to create, automate and outsource almost anything — power transfers away from traditional gatekeepers and intermediaries; people will soon operate at the level of large teams with a fraction of the manpower. "Not true for all situations, but... largely true." Gen Z (and "zillennials" born ~1995-2000, like him) are digital-first; Gen Z's lives are both substantially better and worse because they haven't learned to negate the worst.
+- **ejemplos:** Gen Z; zillennials
+- **cita:** "people will soon be able to operate at the level of large teams with a fraction of the manpower"
+- **terminos:** gatekeepers; leverage; zillennial
+- **origen:** propia (building on Sam Altman's statement)
+- **nivel:** fundamental
+- **prerrequisitos:** U-025-199
+- **fuente:** You Have About 36 Months To Make It.md, 1:44-3:32, 2025-08-17
+- **tension:** ninguna
+
+## U-025-201
+- **tipo:** framework
+- **titulo:** Three superpowers available now: learning (adapt and figure out actions for specific results), persuasion (build trust and attract people to a mutually beneficial vision — not manipulation), execution (turn ideas into reality via automation, creation, delegation).
+- **desarrollo:** Whether or not you've used the three layers, you have three superpowers to take control of your future: (1) learning — the ability to adapt and figure out what actions to take to get specific results; (2) persuasion — the ability to build trust and attract people to a mutually beneficial vision or narrative ("persuasion and mutual benefit, not manipulation"); (3) execution — the ability to turn ideas into reality through automation, creation and delegation.
+- **ejemplos:** ninguno
+- **cita:** "We're talking about persuasion and mutual benefit, not manipulation."
+- **terminos:** learning; persuasion; execution; superpowers
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-025-200
+- **fuente:** You Have About 36 Months To Make It.md, 3:32-4:28, 2025-08-17
+- **tension:** ninguna
+
+## U-025-202
+- **tipo:** término-acuñado
+- **titulo:** Doers vs. directors: those assigned work versus those who assign work — to themselves (self-direction) or to AI prompts and automations; equivalent to employees vs. entrepreneurs, low vs. high agency.
+- **desarrollo:** "Are you a doer or are you a director?" — important whether AI takes over or not. The distinction: doers vs directors, employees vs entrepreneurs, low agency vs high agency, "those who assign work rather than being assigned work." Directors assign work to themselves (self-direction, directing their own career) or to an AI prompt or automation tool, letting them do more and pursue personal goals bringing meaning and fulfillment. "You need to become a director... an orchestrator... high agency."
+- **ejemplos:** ninguno
+- **cita:** "those who assign work rather than being assigned work"
+- **terminos:** doers; directors; orchestrator; high agency; self-direction
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-025-201
+- **fuente:** You Have About 36 Months To Make It.md, 1:44; 4:28; 6:19, 2025-08-17
+- **tension:** ninguna
+
+## U-025-203
+- **tipo:** definición
+- **titulo:** A free individual pursues their interests, does many things in life, and doesn't need permission to identify and solve a problem to create value.
+- **desarrollo:** "The definition of a free individual is those who pursue their interest and do many things throughout their lives. It's those that don't need permission to identify and solve a problem to create value in the world." As reality gets more complex with AI and technology, new problems emerge — more problems and opportunities than ever. Becoming a director is the best way to live regardless of AI; AI is just the catalyst, so complaining makes no sense.
+- **ejemplos:** ninguno
+- **cita:** "those that don't need permission to identify and solve a problem to create value in the world"
+- **terminos:** free individual
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-025-202
+- **fuente:** You Have About 36 Months To Make It.md, 4:28-7:07, 2025-08-17
+- **tension:** ninguna
+
+## U-025-204
+- **tipo:** fuente-de-tercero
+- **titulo:** David Deutsch's The Beginning of Infinity: problems are infinite, so solutions, value, wealth creation — and money as value exchange — are infinite too.
+- **desarrollo:** If you don't understand that problems are infinite, he recommends taking a year to read and study David Deutsch's "The Beginning of Infinity" (he summarizes it in his free book "Purpose and Profit"). His derivation: if problems are infinite, solutions/value/wealth creation are infinite; so money is infinite — not limited to the US dollar; it's changing with Bitcoin; in the past it was seashells; in the future it'll take the shape of culture and society, but it's still infinite "because it represents value exchange and that's innate to human nature."
+- **ejemplos:** seashells; Bitcoin; US dollar
+- **cita:** "if problems are infinite, then solutions or value or wealth creation is also infinite"
+- **terminos:** problems are infinite; value exchange
+- **origen:** adaptada-de:David Deutsch (The Beginning of Infinity)
+- **nivel:** intermedio
+- **prerrequisitos:** U-025-203
+- **fuente:** You Have About 36 Months To Make It.md, 5:28-6:19, 2025-08-17
+- **tension:** ninguna
+
+## U-025-205
+- **tipo:** opinión
+- **titulo:** The internet has been "dead" for a while, AI or not, yet there's still a living internet; to be on its side, understand that "taste is the new intelligence."
+- **desarrollo:** Objection: AI generates slop and will turn the internet into a wasteland; "the dead internet is accelerating" (he has a video on it). He disagrees: "The internet's been dead for a while now, AI or not, and there's still very much a living internet." To get on the living side: "taste is the new intelligence."
+- **ejemplos:** ninguno
+- **cita:** "taste is the new intelligence"
+- **terminos:** dead internet; living internet; taste; slop
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** You Have About 36 Months To Make It.md, 7:07, 2025-08-17
+- **tension:** ninguna
+
+## U-025-206
+- **tipo:** argumento
+- **titulo:** The anti-AI crowd will lose: emotional attachment to past tools, "people hate what they don't understand," and pessimism creates destructive confirmation bias — don't stop an avalanche from the bottom of the mountain.
+- **desarrollo:** He thinks the anti-AI side is the losing side; don't identify as anti-AI. As technology develops there will be an uproar of emotional people attached to past tools who discredit those integrating AI, especially in creative work, because of pent-up emotions about what creativity and art are, which blocks them from seeing AI's role. Most think AI generations are random (tell AI to make a post, play it off as art) — "you're only seeing the surface." "People hate what they don't understand." Advice: ignore them and don't become one; a pessimistic mindset over coming years creates destructive confirmation bias. Reasonable critics would respond calmly and reach a solution, "but that's not how YouTube comments go." "You become what you focus on. And if you're trying to stop an avalanche from the bottom of a mountain, you're going to get crushed."
+- **ejemplos:** YouTube commenters
+- **cita:** "if you're trying to stop an avalanche from the bottom of a mountain, you're going to get crushed"
+- **terminos:** anti-AI crowd; confirmation bias
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-025-205
+- **fuente:** You Have About 36 Months To Make It.md, 7:07-9:13, 2025-08-17
+- **tension:** ninguna
+
+## U-025-207
+- **tipo:** argumento
+- **titulo:** How we create keeps evolving (photography, video, CGI, Photoshop); artists are judged by why and how they use a tool — story, emotion, vision, soul — not by the tool or the hours of labor.
+- **desarrollo:** Highly emotional reactions happen in every technological shift: photography and video are very recent; CGI and Photoshop are considered art forms in some way; these couldn't be created before; a hyperrealistic CGI scene in a few clicks wasn't possible. They require skill, but it's easier than with previous software and keeps getting easier. "Just because a few clicks on your screen are being replaced with natural language doesn't mean it's any easier to create something we see as art," especially as what counts as art changes with rapidly shifting culture. "We don't consider people artists for what specific tool they use. We consider people artists for why and how they use the tool" — graded on final product, story, emotion, vision, soul, not labor hours. 10 years or 10 seconds writing a book doesn't make it good, or art.
+- **ejemplos:** photography; video; CGI; Photoshop; book in 10 years or 10 seconds
+- **cita:** "We consider people artists for why and how they use the tool."
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-025-206
+- **fuente:** You Have About 36 Months To Make It.md, 9:13-10:59, 2025-08-17
+- **tension:** ninguna
+
+## U-025-208
+- **tipo:** argumento
+- **titulo:** The anti-AI crowd lumps all AI users together and sees AI as a mere chat box; flooding the internet with generic outputs fails due to market sophistication — the pendulum swings back.
+- **desarrollo:** They lump everyone using AI into one category and even cut people off ("my friend in high school uses ChatGPT. He's no longer my friend"). He argues they've let "a little chat box" control their mind, boxing themselves into the ideology "AI is bad" — "that's how you become dumb... limit your ability to think and see nuance." They see AI only as a chat box (write my newsletter, make this post/image); some outputs look appealing but aren't necessarily art, useful, or able to get traction. If people flood the internet with these, "you have to understand what market sophistication is. Eventually, those things get boring," stop working, and the pendulum swings; the doomsday never arrives.
+- **ejemplos:** cutting off a friend over ChatGPT
+- **cita:** "you have to understand what market sophistication is. Eventually, those things get boring."
+- **terminos:** market sophistication; chat box; pendulum
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-025-206
+- **fuente:** You Have About 36 Months To Make It.md, 10:59-12:10, 2025-08-17
+- **tension:** ninguna
+
+## U-025-209
+- **tipo:** argumento
+- **titulo:** Anti-AI reaction exposes that people over-identified with the labor of creating visual appeal; art lies in why someone presses a series of buttons, not the buttons — though outsourcing all decisions to AI is a surefire way to become stupid.
+- **desarrollo:** "Most people have put too much emphasis on the labor that goes into creating something visually appealing so that it has become their identity," and they fight to defend it. "I personally do not believe that art should be tied to a series of buttons that people press, but instead why they press that series of buttons." Caveat: it's not smart to outsource all control, decision-making and work to AI — "a surefire way to become stupid" — but that's what stupid people do and what stupid people focus on.
+- **ejemplos:** ninguno
+- **cita:** "art should [not] be tied to a series of buttons that people press, but instead why they press that series of buttons"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-025-207
+- **fuente:** You Have About 36 Months To Make It.md, 12:10-13:17, 2025-08-17
+- **tension:** ninguna
+
+## U-025-210
+- **tipo:** concepto
+- **titulo:** AI (LLMs) has become a programming language for language itself; prompt engineering is an art — hyperspecific instructions do what Photoshop's or After Effects' buttons do: make output specific to your vision.
+- **desarrollo:** "AI has become a programming language for language itself" (speaking of LLMs). Prompt engineering lets you give hyperspecific instructions so the output is very close to what you'd have done; Photoshop, After Effects, Premiere tools are "just a way to make it more specific to the image that you're trying to create." If natural language can't do it, you may need another medium, but you can do a lot with it — "You just don't understand prompt engineering."
+- **ejemplos:** Photoshop; After Effects; Premiere
+- **cita:** "AI has become a programming language for language itself"
+- **terminos:** prompt engineering; programming language for language
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-025-209
+- **fuente:** You Have About 36 Months To Make It.md, 13:17-14:03, 2025-08-17
+- **tension:** ninguna
+
+## U-025-211
+- **tipo:** argumento
+- **titulo:** Most employed creative work is "industrial work disguised as creative work" — executing instructions you didn't set; "a word is the new brush stroke"; if you can't create art with AI, you weren't an artist, just good at a replaceable tool.
+- **desarrollo:** Photographers, video editors, etc. in jobs are "just executing project instructions that you didn't set" — the doer, not the director. "That's not art... This is still industrial work disguised as creative work. Just because you have the job title of an artist doesn't mean that you are one." They don't see that "a word is the new brush stroke, the new lasso filter [transcribed 'lowass filter'], and the new select and mask"; every minor decision imbuing personal touch is still available, and they can create beyond their dreams faster. "The single distinction that will separate art from slop is taste." Nothing changed; just a new tool, like CGI. "If you can't create art with AI, then you weren't an artist to begin with. You were simply good at using a tool and tools get replaced."
+- **ejemplos:** photographer; video editor; CGI
+- **cita:** "a word is the new brush stroke"
+- **terminos:** industrial work disguised as creative work; taste; slop
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-025-210
+- **fuente:** You Have About 36 Months To Make It.md, 14:03-15:26, 2025-08-17
+- **tension:** ninguna
+
+## U-025-212
+- **tipo:** framework
+- **titulo:** Utility vs. meaning: machines (silicon) solve utility — speed, repetition, necessity; humans (carbon) transcend to meaning — story, novelty, myth — because humans crave the potential for failure.
+- **desarrollo:** Which work goes to AI and which to us? It seems machines will solve utility so humans can transcend to meaning. We hate long DMV lines, a server getting our order wrong, meetings that could be five bullet-point emails — AI and automation solve necessary work humans hate. Conversely, "humans crave the potential for failure": we love the final batter in the ninth inning, travel across the world for five-star dining, cry at a wedding during vows — if the vows were written with ChatGPT you'd probably tell, not cry, and it wouldn't be meaningful because AI is applied to a domain it doesn't belong in. "Machines are for speed, repetition, and necessity. Humans are for story, novelty, myth, and meaning."
+- **ejemplos:** DMV; wrong order; meetings; ninth-inning batter; five-star dining; wedding vows
+- **cita:** "Machines are for speed, repetition, and necessity. Humans are for story, novelty, myth, and meaning."
+- **terminos:** utility; meaning; silicon; carbon; potential for failure
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-025-198
+- **fuente:** You Have About 36 Months To Make It.md, 15:26-16:55, 2025-08-17
+- **tension:** ninguna
+
+## U-025-213
+- **tipo:** argumento
+- **titulo:** Most people identify with machine traits (schooling, job, mundane repetitive tasks) and will be left behind; general fulfillment is abysmal because humans did work that should have been done by machines all along.
+- **desarrollo:** Identifying with the traits of a machine — schooling, the job, mundane repetitive tasks — means being left behind. "That's exactly why general fulfillment is abysmal because AI and machines are actually coming in to do the work that should have been done by machines in the first place." He acknowledges turbulence, uncertainty, and that many won't benefit; he can only see it logically, position himself and others, and share his perspective.
+- **ejemplos:** ninguno
+- **cita:** "the work that should have been done by machines in the first place"
+- **terminos:** traits of a machine
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-025-212
+- **fuente:** You Have About 36 Months To Make It.md, 16:55-17:24, 2025-08-17
+- **tension:** ninguna
+
+## U-025-214
+- **tipo:** metáfora
+- **titulo:** We've hated industrial living for decades, yet when it's taken away we react like the author's little brother when Dan grabbed a video game he never played — "Zoom in and it's scary. Zoom out and it's wonderful."
+- **desarrollo:** His little brother never played a certain game, but the second Dan picked it up he went insane: "Get out of my room. Give me my game back." That's what's happening with industrial living going away, "except you're just being irrational," lacking clarity or agency to find a new path. "Zoom in and it's scary. Zoom out and it's wonderful."
+- **ejemplos:** little brother's video game
+- **cita:** "Zoom in and it's scary. Zoom out and it's wonderful."
+- **terminos:** industrial living; zoom out
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-025-213
+- **fuente:** You Have About 36 Months To Make It.md, 17:24-18:14, 2025-08-17
+- **tension:** ninguna
+
+## U-025-215
+- **tipo:** heurística
+- **titulo:** To figure out what you want: choose something you deeply care about, dissect it ruthlessly, and shamelessly share your story, values, vision and life's work in public to form an "artisanesque lifestyle" with a small tribe; pair with AI to free room for leisure.
+- **desarrollo:** "Choose something you deeply care about, dissect it ruthlessly, and shamelessly share your story, values, vision, and accompanying life's work in public to form an artisanesque lifestyle with a small tribe of people who support what you do. Pair that with AI, and you free up room for leisure, the ultimate compliment to creative work."
+- **ejemplos:** ninguno
+- **cita:** "leisure, the ultimate compliment to creative work"
+- **terminos:** artisanesque lifestyle; small tribe; life's work; leisure
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-025-212
+- **fuente:** You Have About 36 Months To Make It.md, 18:14-19:00, 2025-08-17
+- **tension:** ninguna
+
+## U-025-216
+- **tipo:** principio
+- **titulo:** Use the urgency as a moment to turn your life around — you change most under pressure; changing your life doesn't require moving across the country, just thinking about your work, pursuing what you care about, taking risks and sharing a story worth telling.
+- **desarrollo:** Two options: sit back and do nothing (obviously not good), or "use this moment of urgency as a time to turn your life around because that's when you turn your life around the most when you're under pressure." Changing your life doesn't mean packing up, moving across the country, etc. It requires thinking about your work, thinking in general, pursuing something you care about, taking risks, creating a story worth telling and sharing it with those who can benefit. "Everything that created the good life in the past is now becoming a requirement."
+- **ejemplos:** ninguno
+- **cita:** "Everything that created the good life in the past is now becoming a requirement."
+- **terminos:** urgency; story worth telling
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-025-197
+- **fuente:** You Have About 36 Months To Make It.md, 19:00-19:48, 2025-08-17
+- **tension:** Contrasts with U-025-120 (war mode: sign an unaffordable lease, fly across the country): here dramatic relocation is explicitly not required.
+
+## U-025-217
+- **tipo:** término-acuñado
+- **titulo:** Step 1 — become a "philosopher builder": merge the polar ends (programmer/marketer, big picture/technical detail, spiritual/practical, philosopher/scientist), because a builder has always needed a thinker.
+- **desarrollo:** We respect two types: programmers vs marketers, big-picture vs technical-detail people, spiritual vs practical, philosophers vs scientists. "The future demands that we merge these polar ends because a builder has always needed a thinker." A programmer not paired with a marketer almost always gets disappointing users. "A hippie stuck in the sky and a scientist stuck in an atom are both missing the truth." Embodying this duality makes you unstoppable. Evidence: job titles shifting from designer and engineer to "design engineer" (a more complex merged skill stack); creators founding and fueling companies, pairing with programmers; coders understanding distribution and generating millions of views themselves, drastically increasing earning potential, working on their own projects and possibly out-earning any job. AI isn't directly responsible but the general technological shift is.
+- **ejemplos:** design engineer; creator-founders; coders with distribution
+- **cita:** "a builder has always needed a thinker"
+- **terminos:** philosopher builder; skill stack; distribution
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-025-216
+- **fuente:** You Have About 36 Months To Make It.md, 19:48-21:35, 2025-08-17
+- **tension:** ninguna
+
+## U-025-218
+- **tipo:** principio
+- **titulo:** The peak of human ability lies in being a specialized generalist: not so specialized you're replaced instantly or exploited via your credential, not so generalized you're effective at nothing.
+- **desarrollo:** Objection: Mark Zuckerberg paid $100 million to get top AI research(ers) — "You're not a top AI researcher." "The peak of human ability lies in being a specialized generalist. Not so specialized that you get replaced in an instant or taken advantage of because you are identified with a credential, but not so generalized that you are effective at effectively nothing."
+- **ejemplos:** Zuckerberg paying $100M for AI researchers
+- **cita:** "The peak of human ability lies in being a specialized generalist."
+- **terminos:** specialized generalist; credential
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-025-217
+- **fuente:** You Have About 36 Months To Make It.md, 21:35, 2025-08-17
+- **tension:** ninguna
+
+## U-025-219
+- **tipo:** principio
+- **titulo:** Step 2 — become a filter for ideas: ideas now matter more than execution because "taste is the new intelligence and curation is the new IQ test"; it's never been easier to create something mediocre.
+- **desarrollo:** Ideas aren't the only thing that matters but matter more now. In a world overflowing with information where anyone can create anything, "choosing what ideas deserve to be executed deserves the first seat at the table." "It's never been easier to create something mediocre." Those pumping out max content via ChatGPT and automations will lose or lack longevity, because things change and they won't understand the principles that keep producing results.
+- **ejemplos:** mass AI content
+- **cita:** "taste is the new intelligence and curation is the new IQ test"
+- **terminos:** filter for ideas; curation; taste
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-025-205
+- **fuente:** You Have About 36 Months To Make It.md, 21:35-22:26, 2025-08-17
+- **tension:** ninguna
+
+## U-025-220
+- **tipo:** argumento
+- **titulo:** Whether UBI leads to self-actualization or to laziness is a deliberate personal choice; 99% will choose lazy and mediocre, while those deliberately pursuing excellence will rise because frictionless mediocrity gets old fast.
+- **desarrollo:** UBI (universal basic income: money deposited monthly): some argue everyone will have time to self-actualize and transcend; others that everyone becomes mediocre and lazy. "The truth here is that it's just a deliberate personal choice which one you become." 99% have always proven they'll become lazy and mediocre — "the bottom of the barrel" — whether through UBI or easy mediocre content. "If there's no friction there, it's going to get old quick." The deliberate pursuers of excellence rise to the top.
+- **ejemplos:** UBI
+- **cita:** "it's just a deliberate personal choice which one you become"
+- **terminos:** UBI; friction; excellence
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-025-219
+- **fuente:** You Have About 36 Months To Make It.md, 22:26-23:13, 2025-08-17
+- **tension:** ninguna
+
+## U-025-221
+- **tipo:** principio
+- **titulo:** Your mind must become a finely tuned signal-to-noise filter, which requires your own point of view: the mind interprets reality through identity, values, code, development level and vision, and dopamine fires for information useful to your overarching goals.
+- **desarrollo:** "Your mind must become a finely tuned signal to noise filter." Your mind interprets reality based on identity and worldview, values and beliefs, "the code you live by," your level of development, and the vision you're actualizing. "Your brain releases dopamine when information is useful toward your main and overarching goals." To develop taste you need your own cultivated point of view — your own philosophy and vision — because that frames your mind to notice unique ideas worth putting into the world under your philosophy and brand.
+- **ejemplos:** ninguno
+- **cita:** "Your mind must become a finely tuned signal to noise filter."
+- **terminos:** signal to noise filter; taste; point of view; philosophy; brand
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-025-140, U-025-219
+- **fuente:** You Have About 36 Months To Make It.md, 23:13-24:03, 2025-08-17
+- **tension:** ninguna
+
+## U-025-222
+- **tipo:** heurística
+- **titulo:** Step 3 — become an AI orchestrator: the foundational decision is when to leverage AI and when to do it by hand, usually decided by what you enjoy doing (for the author, writing).
+- **desarrollo:** "The first and foundational decision to make when adopting AI lies in when to leverage it and when to do it by hand. Usually, that decision lies in what you enjoy doing." For him that's writing: books, newsletters, social posts. He still has AI prompts complementing his process — not a writing process, but "a process that refines ideas to the point of being able to put out something great."
+- **ejemplos:** the author's writing
+- **cita:** "when to leverage it and when to do it by hand"
+- **terminos:** AI orchestrator
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-025-202
+- **fuente:** You Have About 36 Months To Make It.md, 24:03-24:35, 2025-08-17
+- **tension:** ninguna
+
+## U-025-223
+- **tipo:** proceso
+- **titulo:** The author's "thought partner" prompt: it doesn't give answers but asks predictable what/why/how questions that encode his own idea-generation process, guiding him to insights faster; outputs are prototypes he refines by hand.
+- **desarrollo:** One of his favorite prompts acts as a very good thought partner: written so it doesn't give answers but asks questions relevant to a topic, guiding him toward insights faster, because he encoded how he generates his best ideas. Rationale: ideas come from thinking, debating, conversing, asking yourself questions; self-questioning runs through a predictable series (what, why, how...), so it can go into a prompt. He still goes on walks and listens to books and content, but the prompt creates a "guide for my mind." It "drastically increased the quality of my writing and creativity." All his newsletters and social content are written by hand; he changes and refines many AI ideas; "the AI output is just a prototype... an experiment... a first draft." Pasting AI output directly "is going to suck" — you're not practicing taste; pick and choose.
+- **ejemplos:** thought-partner prompt
+- **cita:** "the AI output is just a prototype. It's an experiment. It's a first draft."
+- **terminos:** thought partner; prototype; taste
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-025-222
+- **fuente:** You Have About 36 Months To Make It.md, 24:35-26:13, 2025-08-17
+- **tension:** ninguna
+
+## U-025-224
+- **tipo:** método
+- **titulo:** Outside your craft, prompts are "specialized employees": e.g., the author (who finds marketing formulaic) uploads the best copywriting books to an AI and turns them into a landing-page prompt instead of hiring an expensive marketer.
+- **desarrollo:** "Outside of what you enjoy doing, I see prompts, prompt engineering as creating specialized employees" — not completely there yet, but most of the way. He doesn't like spending time on marketing (formulaic, not his art form) but needs it to sustain his writing. Options: hire a marketer at absurd prices, or create the process with AI "and probably get better results," by uploading the best copywriting books to the AI and turning that into a prompt that helps create a landing page.
+- **ejemplos:** landing-page prompt from copywriting books
+- **cita:** "I see prompts, prompt engineering as creating specialized employees"
+- **terminos:** specialized employees; prompt engineering
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-025-222
+- **fuente:** You Have About 36 Months To Make It.md, 26:13-27:36, 2025-08-17
+- **tension:** ninguna
+
+## U-025-225
+- **tipo:** heurística
+- **titulo:** Specialize in your craft and orchestrate a fleet of tasteful prompts aligned with your values and vision; the best way to learn AI is to try automating yourself out of a job.
+- **desarrollo:** Lesson: "specialize in your craft and orchestrate a fleet of tasteful prompts that align with your values and vision." If you haven't started, "the best way to learn AI is to try automating yourself out of a job" — not just your job but things you do. Yes, it increases your current job's replacement risk, but "if you can replace the job, then someone else can"; at least you upskill, "abstract out a layer," and have more opportunity (a new job or something different) because you learned a new skill.
+- **ejemplos:** ninguno
+- **cita:** "the best way to learn AI is to try automating yourself out of a job"
+- **terminos:** fleet of tasteful prompts; abstract out a layer; upskill
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-025-224
+- **fuente:** You Have About 36 Months To Make It.md, 27:36-28:06, 2025-08-17
+- **tension:** ninguna
+

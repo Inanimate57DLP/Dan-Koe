@@ -2218,3 +2218,356 @@
 - **fuente:** If Your Life Is Spiraling Out Of Control, Here's The Solution To Feeling Lost.md, 21:47-22:35, 2024-03-10
 - **tension:** ninguna
 
+# Fuente: My Honest Advice For Those Who Feel Lost & Confused.md (2024-05-30)
+
+## U-026-171
+- **tipo:** principio
+- **titulo:** Nobody is coming to save you: not friends, family, government, nor the author
+- **desarrollo:** "Nobody is coming to save you not your friends not your family not the government they can offer advice and tools but at the end of the day it's up to you to change your mind view your situation from A New Perspective and act regardless of how you feel." He addresses those who feel in a dark place or lost, offering "a framework or at least some clarity to help you dig yourself out", and includes himself: "I'm not going to save you either". The three things that are up to you: change your mind, view your situation from a new perspective, act regardless of how you feel.
+- **ejemplos:** ninguno
+- **cita:** "they can offer advice and tools but at the end of the day it's up to you"
+- **terminos:** nobody is coming to save you
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 0:00, 2024-05-30
+- **tension:** ninguna
+
+## U-026-172
+- **tipo:** principio
+- **titulo:** If you don't take responsibility for digging yourself out of the hole, you won't get out; complaining digs you further in
+- **desarrollo:** "The mindset that you have to adopt from the beginning of this video is that if you don't take responsibility of digging yourself out of that hole you are not going to get out of that hole and by complaining and whining like most people do you're only going to dig yourself further in."
+- **ejemplos:** ninguno
+- **cita:** "by complaining and whining like most people do you're only going to dig yourself further in"
+- **terminos:** responsibility; dig yourself out
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-171
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 0:00-0:45, 2024-05-30
+- **tension:** ninguna
+
+## U-026-173
+- **tipo:** concepto
+- **titulo:** "Nobody's coming to save you" becomes relevant when you try to change your life; ideas beget behavior
+- **desarrollo:** The topic comes into play "when you're actually trying to do something with your life": taking back control, starting a business, learning a new skill, becoming financially free, finding a relationship, getting fit, or clearing your mind "so that you can have better ideas so that you can act in a better Direction because ideas beget behavior and you can't act on something that you don't know is possible".
+- **ejemplos:** Business, skill, financial freedom, relationship, fitness.
+- **cita:** "ideas beget behavior and you can't act on something that you don't know is possible"
+- **terminos:** ideas beget behavior
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-171
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 0:45, 2024-05-30
+- **tension:** ninguna
+
+## U-026-174
+- **tipo:** advertencia
+- **titulo:** A generation of whiners and complainers: surround yourself with them and you unconsciously adopt the behavior, which closes your mind
+- **desarrollo:** "We live in a generation of whiners and complainers": online, in the comment sections, friends, parents. "The more you've surrounded yourself with these people the more you've unconsciously adopted that as your own behavior and then as you whine and complain about your own situation you further narrow and close your mind off to finding a potential solution." He asks you to "just think rationally": whining or complaining "is not going to help you at all".
+- **ejemplos:** Comment sections; complaining friends and parents.
+- **cita:** "we live in a generation of whiners and complainers"
+- **terminos:** whiners and complainers; close your mind
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-172
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 0:45-2:21, 2024-05-30
+- **tension:** ninguna
+
+## U-026-175
+- **tipo:** principio
+- **titulo:** The only thing that solves the problem is solving: present tense, moving; stagnation lets entropy in
+- **desarrollo:** "The only thing that can solve the problem is solving the problem that means solving not solved not solve it's future tense [he means continuous/ongoing] it means you're doing something you're solving you're moving because if you're not moving that means you're stagnant and if you're stagnant that means you're not putting effort or energy into the system that leads to a potential end result that you want that solves the problem therefore that's when entropy comes into play."
+- **ejemplos:** ninguno
+- **cita:** "the only thing that can solve the problem is solving the problem"
+- **terminos:** solving; stagnant; system; entropy
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-172
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 2:21, 2024-05-30
+- **tension:** ninguna
+
+## U-026-176
+- **tipo:** definición
+- **titulo:** Entropy: the gradual decline into chaos when energy isn't put into a system; it goes further than Buddhist impermanence
+- **desarrollo:** "Entropy ... is the gradual decline into chaos If energy is not put into a system it's the fact that everything falls apart it's the Buddhist principle of impermanence that everything is changing and with entropy it goes even further to say that everything is in Decline unless effort is put into maintain the system." Distinction: impermanence = everything changes; entropy = everything declines unless maintained.
+- **ejemplos:** Bookshelf and room (U-026-177).
+- **cita:** "everything is in Decline unless effort is put into maintain the system"
+- **terminos:** entropy; impermanence; system
+- **origen:** adaptada-de:Buddhist principle of impermanence
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-175
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 2:21-3:14, 2024-05-30
+- **tension:** ninguna
+
+## U-026-177
+- **tipo:** ejemplo
+- **titulo:** The bookshelf and the uncleaned room: without maintenance, order decays, and your mind becomes the environment
+- **desarrollo:** Books are durable but can end up all over the house, spines warp, they get damaged or lost at a friend's house "if you don't put effort into maintaining the order of your bookshelf". Cleaning your room: many had their mom clean it as kids "unless she told you to because she understood that if you did not clean your room it would just get dirtier and dirtier ... until it just became uninhabitable". At that point "your [identity] follow[s] suit and it affects your mind so much that your mind in that environment becomes that environment it becomes dirty and sloppy and can't think in a clear corrected manner".
+- **ejemplos:** Warped books; a room becoming uninhabitable.
+- **cita:** "your mind in that environment becomes that environment"
+- **terminos:** entropy; environment
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-026-176
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 3:14-4:03, 2024-05-30
+- **tension:** ninguna
+
+## U-026-178
+- **tipo:** opinión
+- **titulo:** Tips like making your bed are fine habits but too small to make much difference
+- **desarrollo:** "I could give you tips like go make your bed every morning or organize your bookshelf or clear off your desk which I literally just did but I'm not going to give you those because that's not very big picture that's good for just adopting as a habit but it's not going to make that much of a difference."
+- **ejemplos:** Making your bed, organizing a bookshelf, clearing a desk.
+- **cita:** "that's not very big picture"
+- **terminos:** big picture
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-026-177
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 4:03, 2024-05-30
+- **tension:** ninguna
+
+## U-026-179
+- **tipo:** advertencia
+- **titulo:** Most people ask for advice as a procrastination method to hide from the problems they need to solve themselves
+- **desarrollo:** "Most people ask for advice as a procrastination method to hide from the problems that they need to solve themselves." From his social media experience: countless people comment asking for advice under a video or post on Twitter or Instagram; he answers "just for them to go on and completely ignore it or ask another one or just say that I'm flat out wrong". "What was the purpose of asking the question in the first place if you're already set on keeping your mind closed?" "It seems like people don't want solutions they want to feel as if they know what the solution is."
+- **ejemplos:** Commenters who ignore his answers.
+- **cita:** "people don't want solutions they want to feel as if they know what the solution is"
+- **terminos:** procrastination; asking for advice
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-175
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 4:03-4:52, 2024-05-30
+- **tension:** ninguna
+
+## U-026-180
+- **tipo:** heurística
+- **titulo:** Telling people your goal releases dopamine like achieving it; stay quiet, build, then tell people how they can benefit
+- **desarrollo:** People want "the dopamine hit that comes from telling people that they're doing things", instead of "the dopamine that comes from actually achieving the goal". "This is an actual scientific thing I forget the exact study but there's a study that shows that dopamine is released in the same manner for telling people you're pursuing a goal as it is for actually achieving the goal" (study not identified). People get addicted to telling others what they're doing for approval, "rather than just staying quiet building solving the problem and then showing them". Trap to avoid: "ignore the desire to tell every single person what you're doing". The only good outcome of telling is that they might help you, "on a case-by-case situation". Instead: "stay quiet start building and then tell people what you're building not I'm building this think highly of me saying I'm building this here's how you can benefit will you come help me".
+- **ejemplos:** ninguno
+- **cita:** "stay quiet start building and then tell people what you're building"
+- **terminos:** dopamine hit; approval
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-179
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 4:52-6:31, 2024-05-30
+- **tension:** In tension with his frequent advice to build and teach in public (e.g., U-026-149, "teaching public"); here the distinction is about telling for approval vs telling so others benefit.
+
+## U-026-181
+- **tipo:** concepto
+- **titulo:** You feel stuck because your mind is focused on the problem; focusing on a goal triggers pattern recognition for the solution
+- **desarrollo:** "The last reason you feel stuck or trapped ... is that you haven't expanded your mind beyond the problem so it's impossible to solve if your mind is only focused on the problem that means it's not focused on a solution." "If you have a goal but you're not clear on how to get there your mind does this magical thing called pattern recognition where you pick up information in the environment that helps you achieve the goal." "If your main focus is the problem you're going to further dig yourself into the problem." If you "consciously condition yourself to continue focusing on the goal", the mind picks up ideas toward it.
+- **ejemplos:** ninguno
+- **cita:** "your mind does this magical thing called pattern recognition"
+- **terminos:** pattern recognition; expand your mind beyond the problem
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-175
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 6:31-7:19, 2024-05-30
+- **tension:** Contrasts with U-026-136 (earlier in 2024), where you should stop focusing on the goal and become aware of the problem first; here focusing on the problem digs you deeper and the goal should be the focus.
+
+## U-026-182
+- **tipo:** advertencia
+- **titulo:** Goal focus is a form of positive thinking, but not the delusional "think positive all the time" kind
+- **desarrollo:** Conditioning yourself to focus on the goal "is like a form of positive thinking but not the delusional positive thinking of like oh just think positive all the time because evil exists negativity exists that's a stupid way to go about life and it leads to more negativity than just being negative at times and learning to deal with that".
+- **ejemplos:** ninguno
+- **cita:** "it leads to more negativity than just being negative at times and learning to deal with that"
+- **terminos:** positive thinking; delusional positive thinking
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-181
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 6:31-7:19, 2024-05-30
+- **tension:** ninguna
+
+## U-026-183
+- **tipo:** argumento
+- **titulo:** The goal on your mind biases what you highlight in books, notice in conversations and pick up while scrolling; focusing on the problem is a self-fulfilling prophecy of failure
+- **desarrollo:** "When you focus on the goal even if you don't know what it is and you continue focusing on that goal your mind will pick up ideas that help you achieve the goal." When reading any book, "your mind will bias the information and ideas that you highlight that will help you achieve the goal"; same in conversations and scrolling social media. "Everyone that has different goals on their minds are going to highlight different things in books they're going to pick up different things in conversations their perception is going to be framed to be advantageous toward the end goal that they're pursuing and if you're pursuing the problem then that's a self-fulfilling prophecy that you're going to fail."
+- **ejemplos:** Highlighting different passages of the same book depending on goal.
+- **cita:** "if you're pursuing the problem then that's a self-fulfilling prophecy that you're going to fail"
+- **terminos:** bias; perception framed; self-fulfilling prophecy
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-181
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 7:19-8:07, 2024-05-30
+- **tension:** ninguna
+
+## U-026-184
+- **tipo:** heurística
+- **titulo:** Step one: just have a goal; saying you don't know is lying to yourself; start with a minimum viable goal
+- **desarrollo:** "The first step to getting out of this rut or just taking back control of your life is one just having a goal." If you don't know, "I'm assuming that you have other people that you aspire to be like ... don't tell me that you don't know what you want to be or what goal you have you're lying to yourself just sit back and think". "It doesn't even have to be that accurate at first it just has to be a minimum viable goal something that you can at least start to put effort and energy into."
+- **ejemplos:** People you aspire to be like.
+- **cita:** "it just has to be a minimum viable goal"
+- **terminos:** minimum viable goal
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-183
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 8:07-8:49, 2024-05-30
+- **tension:** ninguna
+
+## U-026-185
+- **tipo:** principio
+- **titulo:** Motivation and passion don't precede the goal; they come at its inception and from investing energy into it
+- **desarrollo:** Putting effort and energy into a goal "is the only time when motivation and passion will start to build you don't just become motivated or become passionate it comes at the Inception of a goal and investing energy into the goal actually moving toward the goal is where those things come into play".
+- **ejemplos:** ninguno
+- **cita:** "you don't just become motivated or become passionate it comes at the Inception of a goal"
+- **terminos:** motivation; passion; investing energy
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-184
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 8:49, 2024-05-30
+- **tension:** ninguna
+
+## U-026-186
+- **tipo:** método
+- **titulo:** Stack ideas that bias a faint goal: read new books and have intentional conversations framed around the goal
+- **desarrollo:** "You need to just have this faint image of a goal or Vision that you want to actualize and now you need to start stacking ideas that bias that goal or Vision." Change and expand your mind by reading new books and having "intentional conversations not just Mindless conversations with your friends like oh did you play that new video game". Start conversations with friends, parents, partners "framed around the goal you're trying to achieve so that you can gain more clarity on how to achieve it and if you even want to achieve that goal". Conversations include "actual verbal conversations or conversations with a book or content or with your own mind".
+- **ejemplos:** Mindless talk about a new video game vs goal-framed conversations.
+- **cita:** "have the conversation framed around the goal you're trying to achieve"
+- **terminos:** stacking ideas; intentional conversations; faint image of a goal
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-184
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 8:49-9:35, 2024-05-30
+- **tension:** ninguna
+
+## U-026-187
+- **tipo:** concepto
+- **titulo:** Goals lead to goals: pursuing one opens potentials that make you aware of the next goal, up to a life's work you never thought possible
+- **desarrollo:** Only by starting conversations in the goal's direction "is how you're going to open up potentials aside from the goal that you just came up with you're going to find new possibilities and new goals that you can pursue and that may make more sense to you". If you're focused on the problem, "you're never going to think of the goal that leads to the next goal that makes you aware of the next goal that makes you aware of an idea that leads to this goal that you never thought was possible but now you're pursuing and make your life's work".
+- **ejemplos:** ninguno
+- **cita:** "the goal that leads to the next goal that makes you aware of the next goal"
+- **terminos:** life's work; new potentials
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-186
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 9:35-10:16, 2024-05-30
+- **tension:** ninguna
+
+## U-026-188
+- **tipo:** argumento
+- **titulo:** The algorithm programs your identity into your goal; importance is a signal of usefulness for survival toward your goal, assigned or chosen
+- **desarrollo:** "One thing about the algorithm is it straight up programs your identity into whatever your goal is": you notice the things that help you achieve your goals. "If you don't have a goal that means someone assigned you a goal." "Importance is a signal that that is useful for survival towards your goal." If someone assigned you a goal and you don't know it, what's important to you will stick out on social media and keep being shown to you. "If your goal is to unconscious[ly] troll on social media and just be a subhuman then the content that you're exposed to is going to condition that identity because you're going to spend more time on that content the algorithm is going to show you more and you're going to end up in this Echo chamber of content with people that you probably don't want to end up like."
+- **ejemplos:** The unconscious troll's echo chamber.
+- **cita:** "importance is a signal that that is useful for survival towards your goal"
+- **terminos:** algorithm; importance; echo chamber; assigned goal; identity
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-183
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 10:16-11:07, 2024-05-30
+- **tension:** ninguna
+
+## U-026-189
+- **tipo:** método
+- **titulo:** Reset your feed: unfollow everyone (the author included), then refollow toward your goal through comments and who they follow
+- **desarrollo:** "Use this as a time to literally unfollow everyone myself self-included then from a clear conscience and toward the goal that you're trying to pursue start to follow people": follow one person, look in their comments to find others to follow, look at the people they follow and follow them, "and be absolutely rigorous on maintaining your feed on social media because social media is such a powerful tool for Learning and building and meeting new people and actually creating the life that you want to live but it can quickly very quickly destroy your mind".
+- **ejemplos:** ninguno
+- **cita:** "be absolutely rigorous on maintaining your feed"
+- **terminos:** maintaining your feed; unfollow everyone
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-188
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 11:07-11:56, 2024-05-30
+- **tension:** ninguna
+
+## U-026-190
+- **tipo:** método
+- **titulo:** Step two: test and experiment with the ideas you're stacking
+- **desarrollo:** As you pursue a goal and stack ideas to achieve it ("new tactics that you're learning for business or new diet models that you're learning for health"), "you're starting to test and experiment with these things that's step number two is testing and experimenting".
+- **ejemplos:** Business tactics; diet models.
+- **cita:** "step number two is testing and experimenting"
+- **terminos:** testing and experimenting
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-186
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 11:56, 2024-05-30
+- **tension:** ninguna
+
+## U-026-191
+- **tipo:** heurística
+- **titulo:** Step three: view hard decisions from your ideal self 10-20 years out, but still think for yourself
+- **desarrollo:** "When you face a difficult situation or you have to make a decision view the situation from the perspective of your ideal self." It is not "I know exactly who I want to become so I'm going to think through their lens"; it's more "I need to zoom out", framing how far you zoom out into the future: "10 years from now 20 years from now what is the decision that you wish you would have made and how did that lead to you becoming the person you want to be". Example: starting a business and invited out with friends, knowing it will impact "the lever moving task" you must do: "do I actually want to go out with friends or is that just a distraction". "This is how you filter what I should do from what I shouldn't do", and consistently making the should-do decisions makes it a habit "and success compounds". Limit: "this also requires you to actually think for yourself is going out with your friends a good thing to do have you stayed in so many times that you can afford a night out".
+- **ejemplos:** Going out with friends vs the lever-moving task.
+- **cita:** "what is the decision that you wish you would have made"
+- **terminos:** ideal self; zoom out; lever moving task; success compounds
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-190
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 11:56-13:22, 2024-05-30
+- **tension:** ninguna
+
+## U-026-192
+- **tipo:** concepto
+- **titulo:** Play infinite games: games with no end, whose rules and goals keep changing and evolving, vs finite games with winners, losers and an end
+- **desarrollo:** A guideline: "play Infinite games infinite games are ones that you don't stop playing there is no end finite games are games that have a winner and a loser so that means that there are rules and a goal for people to finally achieve but then the game is over after that". "There are finite games within infinite games", and in infinite games "you can continue changing the rules and the goal so that it continues going further and further it evolves". Examples: business/entrepreneurship, health, relationships. He cites no source for the finite/infinite games distinction.
+- **ejemplos:** Business, health, relationships (U-026-193 to U-026-195).
+- **cita:** "infinite games are ones that you don't stop playing there is no end"
+- **terminos:** infinite games; finite games
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 13:22, 2024-05-30
+- **tension:** ninguna
+
+## U-026-193
+- **tipo:** ejemplo
+- **titulo:** Entrepreneurship is an infinite game; employment is a finite game you win and then get trapped on the surface
+- **desarrollo:** Business vs employment: in employment "you reach a specific rank in the corporate hierarchy" and "not everyone can be the CEO of that company"; but "everyone can be their own CEO especially in today's world with the one person business and technology". Entrepreneurship is infinite "because you can choose you make the choice of what games you want to play". "Employment is where you win the game and then everything becomes boring there's no new challenge there's no Evolution you sit there performing the same repetitive task day in day out like a specialized robot you don't discover the depth of life and you get trapped there", i.e., trapped "on the surface since there is no further goal to pursue in your life you are stuck chasing the cheap Pleasures".
+- **ejemplos:** Corporate hierarchy vs being your own CEO.
+- **cita:** "everyone can be their own CEO"
+- **terminos:** infinite game; specialized robot; cheap pleasures; one person business
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-192
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 13:22-14:17, 2024-05-30
+- **tension:** Sharper on employment than U-026-131 (assignments as stepping stones, not evil).
+
+## U-026-194
+- **tipo:** ejemplo
+- **titulo:** Long-term relationships are infinite games (change the rules at new stages); flings are a quick fix that keeps you on the surface
+- **desarrollo:** "Long-term relationships are infinite games you continue playing them and you change the rules as you reach new stages of the relationship that's how you bring meaning fulfillment and energy and passion into the relationship." "Flings here and there that's a quick fix that's how you bounce around on the surface and never invest long-term energy into one thing that brings out or allows you to dive deeper and discover more in life."
+- **ejemplos:** Long-term relationships vs flings.
+- **cita:** "you change the rules as you reach new stages of the relationship"
+- **terminos:** infinite game; quick fix; bounce around on the surface
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-192
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 14:17-15:06, 2024-05-30
+- **tension:** ninguna
+
+## U-026-195
+- **tipo:** ejemplo
+- **titulo:** Fad diets are finite games: the energy comes from the clarity of an adopted routine, not the diet, so it wears off
+- **desarrollo:** In health, "fad diets are an example": you have to zoom out and study the big-picture principles of diet and nutrition by studying various perspectives and coming up with your own way. Following a fad diet, you stick with the routine and feel very good for a while, "but then you're just going to fall off" and wonder why you don't feel as energetic. "Usually it's not the diet that's giving you energy it's the clarity that comes from the routine that you're adopting from someone else that is the fad diet model", and once it wears off you go pursue another one. "Carnivores are switching to rapat [?] Atkins diet doesn't even exist anymore they just all change." "You can notice these finite games and choose not to play them."
+- **ejemplos:** Carnivore, Atkins.
+- **cita:** "usually it's not the diet that's giving you energy it's the clarity that comes from the routine"
+- **terminos:** fad diet model; finite games; big picture principles
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-026-192
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 15:06-15:54, 2024-05-30
+- **tension:** ninguna
+
+## U-026-196
+- **tipo:** principio
+- **titulo:** You can act regardless of how you feel: if you have legs, you can stand up and walk; depressed, you can still wash the dishes
+- **desarrollo:** "You can act regardless of how you feel I don't care what thoughts you have on your mind right now if you have legs you can stand up and walk no matter how you feel ... if you are the most depressed individual in the world there's a way to get up and get to the other side of the room if you feel depressed or you're crying all the time you can still get up and wash the dishes." "By doing them that's how you break out of the conditioned closed mind that you've dug yourself into or trapped yourself in."
+- **ejemplos:** Walking across the room; washing the dishes while depressed.
+- **cita:** "you can still get up and wash the dishes"
+- **terminos:** act regardless of how you feel; conditioned closed mind
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-171
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 15:54-16:35, 2024-05-30
+- **tension:** ninguna
+
+## U-026-197
+- **tipo:** principio
+- **titulo:** The solution to most problems is forward movement: investing energy into any self-generated goal, or entropy drags you back
+- **desarrollo:** "That is the first step to actually getting out is just forward movement the solution to most of your problems is just forward movement it's investing energy into a goal any goal any self-generated goal not one that's assigned to you because if you aren't investing energy into a goal then you're stagnated and you will succumb to entropy and be dragged back into the situation that you're currently in."
+- **ejemplos:** ninguno
+- **cita:** "the solution to most of your problems is just forward movement"
+- **terminos:** forward movement; self-generated goal; assigned; entropy; stagnated
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-026-176, U-026-196
+- **fuente:** My Honest Advice For Those Who Feel Lost & Confused.md, 16:35, 2024-05-30
+- **tension:** ninguna
+
