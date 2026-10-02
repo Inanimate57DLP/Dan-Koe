@@ -2674,3 +2674,408 @@
 - **prerrequisitos:** U-017-140
 - **fuente:** The Art Of Focus – Official Book Summary By The Author Dan Koe.md, 48:23, 2024-01-18
 - **tension:** ninguna
+
+# Fuente: It's actually pretty easy to focus 12 hours a day (if you do this).md (2024-10-13)
+
+## U-017-206
+- **tipo:** principio
+- **titulo:** You won't find rare results in an average lifestyle: sometimes you must "flip the switch" and "create a glitch in the Matrix."
+- **desarrollo:** If you feel lost, tired and can't focus on progress toward the life you promised yourself, "sometimes the only thing you can do is flip the switch, create a glitch in the Matrix, become a completely different person": change your habits all at once, remove every distraction, start the business, build the project, work 12 hours a day and forget to eat — then look back and realize you've done more in 3 months than in the past 3 years. "You need seasons of intensity that launch you into a new baseline of living." Condition: if your mind already pushes back on doing something different or extreme, "this video probably isn't going to benefit you very much, so open your mind or leave."
+- **ejemplos:** 3 months vs. 3 years.
+- **cita:** "you won't find rare results in an average Lifestyle"
+- **terminos:** flip the switch, glitch in the Matrix, seasons of intensity, new baseline
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 0:00, 1:38, 2024-10-13
+- **tension:** Seems to contradict the 4-hour workday; he reconciles it via phases of life (U-017-210).
+
+## U-017-207
+- **tipo:** opinión
+- **titulo:** Consistency isn't the route to success; it's a cycle of intensity, consistency, curiosity and sometimes feeling lost.
+- **desarrollo:** "I personally don't think that consistency is the route that people should take to achieve success. I think it's a balance; it's a cycle of intensity, consistency, curiosity and sometimes feeling lost." If you're only consistent, "you're not really making any progress."
+- **ejemplos:** ninguno
+- **cita:** "I personally don't think that consistency is the route that people should take to achieve success"
+- **terminos:** intensity, consistency, curiosity, feeling lost
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 0:00, 3:50, 2024-10-13
+- **tension:** Consistent with "consistency is overrated" (U-017-127).
+
+## U-017-208
+- **tipo:** heurística
+- **titulo:** Waking at 4 a.m. (or staying up two hours later) gives 3–4 hours of a quiet reality where "distractions lack gravity."
+- **desarrollo:** Waking at 4:00 a.m. gives "3 to 4 hours of experience that others just don't get to have": a completely different, quiet reality; people aren't awake; "distraction lack[s] gravity." He's not saying you must wake at 4 — "create a glitch in the Matrix, do something different," maybe stay up 2 hours later when you're more creative. Whether spiritual, esoteric or scientific ("I'm sure there is" science), in early mornings and late nights the world is quiet, so your mind can have creative thoughts to channel into work. He prefers waking earlier because of "obvious health deficits to going to bed very late."
+- **ejemplos:** ninguno
+- **cita:** "distraction lack gravity"
+- **terminos:** glitch in the Matrix
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-030
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 0:50–1:38, 2024-10-13
+- **tension:** Earlier the sacred hours were 5–7 a.m. (U-017-030); here 4 a.m. or late nights.
+
+## U-017-209
+- **tipo:** argumento
+- **titulo:** You already can focus 12 hours a day — on video games or your phone; your life must become more interesting than the games you already play.
+- **desarrollo:** "You already have motivation; you can already focus for 12 hours a day when you're playing a video game or scrolling on your phone; it's automatic; you don't need to discipline yourself." But deep down you know you're ruining your life; "your subconscious knows that you could be doing better and that's why you feel terrible." So: create a physical, mental and spiritual environment that makes working on your dreams seamless. Two prerequisites: (1) understand 12-hour days aren't always possible, feasible or worth it — you need the right phase of life, and understanding phases lets you guide yourself into a season of intensity where you enjoy working that long; (2) remove the blockers that prevent you from seeing and wanting to play the video game of life: "your life needs to become more interesting than the games that you're already playing" — including phone scrolling (winning "the game of cheap dopamine") and almost anything with a game structure. References his video "Life is a game, here's how you win."
+- **ejemplos:** Video games; phone scrolling.
+- **cita:** "your life needs to become more interesting than the games that you're already playing"
+- **terminos:** video game of life, cheap dopamine, season of intensity
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-122
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 1:38–3:15, 2024-10-13
+- **tension:** ninguna
+
+## U-017-210
+- **tipo:** principio
+- **titulo:** The 4-hour workday is for a specific phase of life; sticking to one thing means stagnation and actually decline.
+- **desarrollo:** His 4-hour workday philosophy received a lot of controversy, mostly because people read only the headline and latch onto the idea — it either guides them positively or they say "that's impossible." But "the 4-hour workday is for a specific phase of life." He's "not a fan of sticking to something because by sticking to something you stagnate," and "you don't actually really stay the same, you start to decline unless you change and evolve."
+- **ejemplos:** ninguno
+- **cita:** "the 4-Hour workday is for a specific phase of life"
+- **terminos:** 4-hour workday philosophy, phases of life
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-017
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 3:50–4:38, 2024-10-13
+- **tension:** Recontextualizes earlier presentations of the 4-hour workday (2023) as a universal baseline; now explicitly phase-specific.
+
+## U-017-211
+- **tipo:** metáfora
+- **titulo:** Progress is nonlinear, like gym gains: newbie gains, cycles of bulking and cutting, getting thrown off, then year 10 beating year 3.
+- **desarrollo:** You don't build the same muscle every year for 10 years: you build a lot at the start ("newbie gains"), then in cycles of consistency and intensity — bulk and cut; life happens and you're thrown off for a year; the next year you regain motivation "in a hyper discipline," gaining more in year 10 than year 3. Same for productivity: times of high motivation and lots done, times of mere consistency because other goals take over. Know how to navigate between them so chaos doesn't build ("I'm not productive, I'm not making as much progress") — if your life doesn't allow it, don't get more stressed; "lean into the phase of life that you're in so you can reap the maximum benefit from it."
+- **ejemplos:** Newbie gains; bulk and cut; year 10 vs. year 3.
+- **cita:** "progress is nonlinear"
+- **terminos:** newbie gains, cycles of consistency and intensity, lean into the phase
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-007
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 4:38–6:05, 2024-10-13
+- **tension:** ninguna
+
+## U-017-212
+- **tipo:** opinión
+- **titulo:** Grinding 12 hours day in, day out is "stupid"; boundaries create more creative solutions; 12-hour days should be natural binges, never forced.
+- **desarrollo:** Many entrepreneurs think you work 12 hours a day every day; he doesn't like or live that philosophy — "I think it's just stupid." "Limiting yourself and actually creating boundaries is what allows for more creative solutions and more progress than the 12-hour workday entrepreneurs that just grind themselves into the ground." Most people don't want that lifestyle but want to be entrepreneurs; balance is possible and potentially more fulfilling. "12-hour work days shouldn't be forced; they should be natural; you should want to do it" — a binge where you feel you can't stop because you need to actualize the purpose you set. "No amount of work should be forced": if you must force yourself or are forced, change what you do or change your mind to perceive the work in a better light. "Like a lion hunts and rests to be quote unquote productive," replicate that.
+- **ejemplos:** Lion hunting and resting.
+- **cita:** "I personally believe that no amount of work should be forced"
+- **terminos:** boundaries, binge, lion hunts and rests
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-210
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 6:05–6:49, 2024-10-13
+- **tension:** Title promotes 12-hour focus; content says it must be natural and seasonal.
+
+## U-017-213
+- **tipo:** framework
+- **titulo:** The four cycles of progress (phases of life): perplexity, curiosity, intensity, consistency — chapters in a story.
+- **desarrollo:** "Perplexity, curiosity, intensity, consistency" — "my fancy way of making the words match." Think of them as chapters in a book "because humans make sense of the world in stories." (1) Perplexity: feeling lost or confused; (2) Curiosity: becoming curious about a problem to solve; (3) Intensity: the climax, all-in on one meaningful goal; (4) Consistency: maintaining progress at a new baseline, with room for experimentation. "Know which phase you're in so that you can lead yourself into the next one."
+- **ejemplos:** ninguno
+- **cita:** "perplexity curiosity intensity consistency know which phase you're in so that you can lead yourself into the next one"
+- **terminos:** cycles of progress, phases of life, perplexity, curiosity, intensity, consistency
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-211
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 6:49–7:35, 16:58, 2024-10-13
+- **tension:** ninguna
+
+## U-017-214
+- **tipo:** concepto
+- **titulo:** Perplexity: the lost phase — escape by first allowing boredom and then becoming curious; "the solution to boredom is building."
+- **desarrollo:** His tweet: "The solution to boredom is building: build a skill, build a brand, build your body, build your mind, build your social life, build anything. It doesn't matter if you don't know how — that's the entire point; you learn, act and discover your way out of boredom." Perplexity = start of the story, goal/purpose not yet found, in limbo; you can't work 12 hours because you have nothing of your own choice to work on (being told what to do at work doesn't count). Most people are here: they don't let themselves be bored, dwell in thoughts, get stuck in constant negativity, anxiety and confusion, and numb it with cheap dopamine (video games, phones, alcohol, drugs). Escape: (1) allow yourself to be bored; (2) become curious — "you have to become bored enough so that you become curious": strip life of distractions, start completely new, let your mind gravitate toward something good so you can choose it.
+- **ejemplos:** Video games, phones, alcohol, drugs.
+- **cita:** "the solution to boredom is building"
+- **terminos:** perplexity, limbo, allow yourself to be bored
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-213
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 7:35–9:10, 2024-10-13
+- **tension:** ninguna
+
+## U-017-215
+- **tipo:** concepto
+- **titulo:** Curiosity phase: problems and purpose are polar opposites on one spectrum; the problem-goal frame determines what information you perceive.
+- **desarrollo:** Curiosity usually stems from identifying a problem you want to solve, "because problems and purpose exist on the same spectrum; they're just polar opposites": purpose can't exist without a problem and vice versa. Once you discover a problem, open your mind enough to see the opposite side, where purpose lies. Problems start shallow ("I don't have enough money," "I feel sluggish and don't like how I look," "I can't get a date") — they have to: survival; solve shallow problems to transcend survival so your mind opens to spiritual/metaphysical/deeper problems for a greater life's purpose. Then search for information: goals and problems in your conscious or subconscious mind frame the information you perceive. If you have money problems and can't pay bills, you'll notice tools and resources in conversations, books and social media; "your life starts to take shape." People can't progress because they focus on the wrong problems, give attention to little negative meaningless thoughts, or distract themselves because the problem isn't important to them.
+- **ejemplos:** Money problems → noticing resources.
+- **cita:** "problems and purpose exist on the same Spectrum they're just Polar Opposites of one another"
+- **terminos:** curiosity phase, problems and purpose, framing
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-214, U-017-175
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 9:10–10:47, 2024-10-13
+- **tension:** ninguna
+
+## U-017-216
+- **tipo:** excepción
+- **titulo:** In the curiosity phase, shiny object syndrome is encouraged: try everything and see what sticks.
+- **desarrollo:** "In the curiosity phase this is where shiny object syndrome is kind of encouraged: you're supposed to try everything and see what sticks," try different techniques and experiment to solve the problem until you gain clarity and a bigger picture — then you launch into intensity.
+- **ejemplos:** ninguno
+- **cita:** "in the Curiosity phase this is where shiny object syndrome is kind of encouraged"
+- **terminos:** shiny object syndrome
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-215
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 10:47–11:35, 2024-10-13
+- **tension:** Contrasts with common anti-shiny-object advice and with "one meaningful project" (U-017-097); resolved by phase.
+
+## U-017-217
+- **tipo:** concepto
+- **titulo:** Intensity: the climax — 3 to 6 months of pure flow on one meaningful goal, when 12-hour days come naturally.
+- **desarrollo:** "Intensity is the climax of the story, the main battle, the most interesting and fulfilling part of your life; the 3 to 6 months go by in a blur; pure flow state; completely focused on actualizing one meaningful goal." Fitness: disciplined diet and training, all you think about. Relationships: the honeymoon phase. Business: building and launching a new product or a writing spree; both lead to new heights in growth and revenue. "This is when you pull 12-hour work days and it just comes naturally"; the click or aha moment happens; you know exactly what to do; it's all you can think about; take that energy, pursue and actualize the purpose — reaching a new baseline.
+- **ejemplos:** Fitness discipline, honeymoon phase, product launch, writing spree.
+- **cita:** "intensity is the climax of the story the main battle the most interesting and fulfilling part of your life"
+- **terminos:** intensity, climax, click, new baseline
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-216
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 11:35–12:18, 2024-10-13
+- **tension:** ninguna
+
+## U-017-218
+- **tipo:** advertencia
+- **titulo:** The intensity trap: burnout comes from sticking out intensity too long; know when to drop to a new baseline.
+- **desarrollo:** Intensity "can become dangerous fast": burnout and overwhelm usually stem from trying to stick out intensity too long instead of transitioning into consistency. "Don't push the bulk to the point of getting fat; don't push the cut until you're scrawny and losing muscle; don't get so obsessed with the relationship that you become needy and desperate; don't try to push revenue higher and destroy your brand reputation." Know when to drop down to a new baseline and maintain progress. Like stock or crypto trading: it won't keep going up — be wise about when to take profits; "you can't just continue going up forever or else everyone would be billionaires."
+- **ejemplos:** Bulk/cut; needy relationship; revenue vs. reputation; taking profits.
+- **cita:** "know when to drop down to a new Baseline and maintain the progress you've made"
+- **terminos:** burnout, new baseline, take profits
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-217
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 12:18–13:03, 13:56, 2024-10-13
+- **tension:** ninguna
+
+## U-017-219
+- **tipo:** definición
+- **titulo:** Consistency is a tool to maintain progress, not make progress; stagnation is death.
+- **desarrollo:** "Consistency is not everything; consistency is a tool to maintain progress, not make progress. Stagnation isn't maintaining progress; stagnation is death." Being consistent with content creation doesn't get you anywhere: become curious and experiment with new angles and strategies; when you find the right one, double down and see the most growth. In the consistency phase, things drop to the 4-hour workday philosophy (maintaining with four hours a day) but with room for experimentation inside it so you don't get trapped or fall back into the lost phase. "You don't have to go back into the lost phase": if you continuously experiment, you get out quicker or spend less time there.
+- **ejemplos:** Content creation consistency.
+- **cita:** "consistency is a tool to maintain progress not make progress"
+- **terminos:** consistency phase, stagnation is death, maintain progress
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-213
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 13:03, 15:25, 2024-10-13
+- **tension:** ninguna
+
+## U-017-220
+- **tipo:** término-acuñado
+- **titulo:** Exponential events: nonlinear jumps found by experimenting, doubling down on anomalies, then incorporating them before the market catches on.
+- **desarrollo:** "I call these exponential events": the nonlinear progress, e.g., in the gym, disciplined diet-and-training periods build the most muscle even in year 10. On social media: you try different angles, ideas and experiments instead of trapping yourself in one niche doing the same thing over and over ("Einstein's definition of insanity"); notice one that does well — "an anomaly" — and double down; do well for a while (e.g., when Instagram Reels came around, carousels, different topics); eventually it dies because "the market catches on"; maintain by incorporating it into your brand; keep experimenting until the next exponential event. This is how he grew by 200,000 YouTube subscribers when he first started doing well, and 1.2 million on Instagram.
+- **ejemplos:** 200k YouTube subscribers; 1.2M Instagram; Reels; carousels.
+- **cita:** "I call these exponential events it's the nonlinear progress that you make"
+- **terminos:** exponential events, anomaly, double down, the market catches on
+- **origen:** propia (with Einstein's definition of insanity, as commonly attributed)
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-219
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 13:03–15:25, 2024-10-13
+- **tension:** ninguna
+
+## U-017-221
+- **tipo:** principio
+- **titulo:** It's about higher lows, not higher highs — raise and maintain baselines.
+- **desarrollo:** The pattern: go up, baseline, try to maintain; go up, baseline, maintain. "It's more about higher lows than it is higher highs." Same with emotions: "you're not trying to sustain the higher highs, you're trying to sustain the higher lows" — trying not to go as low.
+- **ejemplos:** Emotions.
+- **cita:** "it's more about higher lows than it is higher highs"
+- **terminos:** higher lows, baseline
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-220
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 14:42–15:25, 2024-10-13
+- **tension:** ninguna
+
+## U-017-222
+- **tipo:** caso
+- **titulo:** First $700,000 month after a product launch: not sustainable from a ~$100k baseline; cycles over constant launches.
+- **desarrollo:** When he shot up to his first $700,000 month after a product launch, there was no way to sustain it: his previous high was maybe $200–300k and his baseline maybe $100,000. Trying to sustain $700k/month instead of going through cycles to hit new baselines wouldn't work out, and he can't launch a product every month ("maybe I could, maybe there's a way") — he prefers the cyclical nature.
+- **ejemplos:** $700k month vs. $100k baseline.
+- **cita:** "if I were to try to sustain $700,000 a month rather than going through the cycles to hit the new baselines ... that's just not going to work out"
+- **terminos:** baseline, cyclical nature
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-017-221
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 15:25–16:10, 2024-10-13
+- **tension:** ninguna
+
+## U-017-223
+- **tipo:** proceso
+- **titulo:** The author's maintenance work: writing (YouTube scripts, newsletter, content), admin and team work for Cortex, plus morning experiments that occasionally ignite intensity.
+- **desarrollo:** To maintain, his work mostly comes down to writing — building the audience is all writing: YouTube scripts, newsletter, content — plus administrative tasks, working with the Cortex team and maintenance-style things. In the morning, the first thing: experimentation — starting a new book or new product. Usually those fizzle out, but when he returns to them or starts something that takes off, it brings him into an intensity phase.
+- **ejemplos:** New book or product experiments.
+- **cita:** "usually those things would kind of fizzle out but then when I come back to them or when I start something that actually starts to take off that brings me into an intensity phase"
+- **terminos:** maintenance, experimentation, intensity phase
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-219
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 16:10–16:58, 2024-10-13
+- **tension:** ninguna
+
+## U-017-224
+- **tipo:** principio
+- **titulo:** You can't focus because your mind, life and priorities are a mess; focus is about removing whatever prevents focus.
+- **desarrollo:** "You can't focus because your mind, life and priorities are a mess and you haven't done anything about it." First, remove focus blockers: "focus is about removing anything that prevents focus." You feel lost, distracted and low-energy for that reason. The moment you sense boredom or anxiety you fill it with the closest relief; "your mind is guiding you toward a better life but instead of listening to the signals you attempt to numb the pain of not being everything you could be," worsening it long-term. The four blockers apply to the lost phase — they block you from moving into curiosity or intensity.
+- **ejemplos:** ninguno
+- **cita:** "your mind is guiding you toward a better life but instead of listening to the signals you attempt to numb the pain of not being everything you could be"
+- **terminos:** focus blockers, signals
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-214
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 16:58–17:45, 2024-10-13
+- **tension:** ninguna
+
+## U-017-225
+- **tipo:** concepto
+- **titulo:** Focus blocker 1, the purpose blocker: sit with boredom to catch an inkling of vision; clarity comes as puzzle pieces.
+- **desarrollo:** You feel lost because you lack purpose: you don't know what problem you're solving, what goal you're pursuing, or your part in a whole greater than yourself. Your mind is conditioned on society's goals; the path is known (school, job, retire); you drag your feet, get bored because you don't care, and fill boredom with laziness and pleasure instead of building toward your own goal. Remedy: allow yourself to be bored; expose yourself to higher potentials; drop everything and see what sticks; sit with your thoughts to "catch an inkling of vision," because vision clarity doesn't come all at once: you collect puzzle pieces until one fits and you start to see the image ("oh crap"), then solve faster, see the whole image, and build it.
+- **ejemplos:** Puzzle pieces.
+- **cita:** "your vision Clarity doesn't all come at once you collect the little puzzle pieces"
+- **terminos:** purpose blocker, inkling of vision, puzzle pieces
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-224
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 17:45–18:28, 2024-10-13
+- **tension:** ninguna
+
+## U-017-226
+- **tipo:** método
+- **titulo:** Focus blocker 2, environmental blockers: you're in full control of your environment — take a day and throw away anything unimportant or distracting.
+- **desarrollo:** "Your environment creates who you are, but most people forget that they're in full control of their environment." Surrounded by people, opinions and distractions in the physical and digital world, no wonder you can't focus. "Rip the Band-Aid off": take a day and literally throw away anything that (1) isn't important and (2) distracts you from what is. Don't hesitate.
+- **ejemplos:** ninguno
+- **cita:** "rip the Band-Aid off take a day and quite literally throw away anything that one isn't important and two distracts you from what is"
+- **terminos:** environmental blockers
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-224, U-017-111
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 18:28–19:08, 2024-10-13
+- **tension:** ninguna
+
+## U-017-227
+- **tipo:** método
+- **titulo:** Focus blocker 3, metabolism/food blockers: big meals shift you into rest-and-digest; for him (225 lb), meals over ~300–600 calories reduce focus.
+- **desarrollo:** You lack motivation because you eat too much in one sitting, can't digest well, or eat so much junk you feel bad and can't focus. Personally, as a 225 lb male, if he eats anything over 300 to maybe 600 calories as a meal, his focus starts to go down. Mechanism: when fed you enter the "rest and digest" state, not the "fight or flight" focus state (not that you should always be in fight or flight). If you eat too much, your body moves energy toward digestion, leaving less for work. Experiment: intermittent fasting; smaller morning meals and bigger later meals. The balance is where you put your energy; if not into work, longer focus is hard.
+- **ejemplos:** 225 lb, 300–600 calorie meals; intermittent fasting.
+- **cita:** "when you're fed you enter that rest and digest State you're not in that fight ORF flight Focus State"
+- **terminos:** metabolism blockers, food blockers, rest and digest, fight or flight
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-224
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 19:08–20:40, 2024-10-13
+- **tension:** ninguna
+
+## U-017-228
+- **tipo:** método
+- **titulo:** Focus blocker 4, knowledge blockers: bake learning into building — swap scrolling for reading, audiobooks, lectures or courses.
+- **desarrollo:** You don't know enough to get the work done, don't know what to do now, or lack the skill for the challenge. Solution: "bake in learning and building": as you build the project, learn in unison — go on walks, listen to an audiobook or YouTube lecture, exchange phone scrolling for reading or taking a course.
+- **ejemplos:** Walks with audiobooks; YouTube lectures; courses.
+- **cita:** "the solution to this problem is to just bake in learning and building"
+- **terminos:** knowledge blockers
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-224, U-017-199
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 20:40, 2024-10-13
+- **tension:** ninguna
+
+## U-017-229
+- **tipo:** método
+- **titulo:** "Throw your mind off the deep end": change identity by ripping yourself from your lifestyle and immersing in new information — "wake up tomorrow and do nothing the same."
+- **desarrollo:** Second way out of the lost phase. "Everything starts with identity": the web of ideas shaping how you view the world, the perspective shaped by decades of social conditioning that makes you desire what you desire. To love working toward your dreams, your mind must reflect that — "it can't be some idea you like the sound of; it has to be who you are." How to change who you are: reprogram your mind — rip yourself from your current lifestyle and immerse in information that slowly shapes how you see the world: follow people with the goals you want; listen to podcasts; read books; "put your money where your mouth is" by purchasing courses that give ideas that compound into clarity. "Wake up tomorrow and do nothing the same": plan a new week, set new priority tasks, have new conversations, overload yourself with new information.
+- **ejemplos:** ninguno
+- **cita:** "wake up tomorrow and do nothing the same"
+- **terminos:** throw your mind off the deep end, identity, reprogram your mind
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-111, U-017-106
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 20:40–21:22, 2024-10-13
+- **tension:** ninguna
+
+## U-017-230
+- **tipo:** método
+- **titulo:** Think bigger: in the chaos of the unknown, write an anti-vision and a vision — without one, "by definition you are lost."
+- **desarrollo:** Step three: think bigger and act smaller. Having thrown yourself into the unknown, you're in chaos and can't make sense of everything; it's up to you to create order. New ideas around you are building blocks for your vision, laid day after day. "You need a vision; without one, by definition, you are lost." Take a piece of paper: write everything you hate and don't want (anti-vision) and everything you want — the body, lifestyle, location, mind, money, anything. "Don't worry about being shallow because you can create meaning from it later." (He offers a Cortex template mapping anti-vision, vision and priority tasks; in the Writer's Bootcamp the anti-vision and vision become your brand vision — "that's how you turn yourself into the niche.") You'll revisit weekly; vision becomes clearer; you're waiting for "the click" that launches you into a season of intensity.
+- **ejemplos:** ninguno
+- **cita:** "you need a vision without one and by definition you are lost"
+- **terminos:** think bigger act smaller, anti-vision, vision, building blocks, the click, brand vision
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-173
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 21:22–22:49, 2024-10-13
+- **tension:** ninguna
+
+## U-017-231
+- **tipo:** método
+- **titulo:** Act small: reverse-engineer a minimum viable vision into 10-year, 1-year, monthly, weekly goals and daily priority tasks — big goals for motivation, small goals for clarity.
+- **desarrollo:** "Big goals are for motivation, perspective and potential; small goals are for clarity, action and sanity." Step four: act small — reverse-engineer your vision into smaller goals so you know your progression (what to learn, what to study next). With a "minimum viable vision" (doesn't have to be perfect, just a starting point), break it into 10-year goals, one-year goals, monthly goals, weekly goals, daily priority tasks; then focus on the priority task — "everything else is for clarity." To critics who said "you don't need all those goals, just act": the goals aren't there to distract but to provide clarity so you can determine what to act toward.
+- **ejemplos:** ninguno
+- **cita:** "big goals are for motivation perspective and potential small goals are for clarity action and Sanity"
+- **terminos:** act small, reverse engineer, minimum viable vision, priority tasks
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-230, U-017-118
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 22:49–23:36, 2024-10-13
+- **tension:** ninguna
+
+## U-017-232
+- **tipo:** argumento
+- **titulo:** The goal determines the system: destination > journey, because without the right destination you're on the wrong journey (with Jordan Peterson's "positive aim").
+- **desarrollo:** "The goal determines the system; the destination determines the journey. Goals and the destination are greater than systems and the journey. It's not about the journey, it's about the destination, because without the right destination you're going on the wrong journey." You can randomly enjoy the process, or set a destination and still enjoy the journey more as you head toward it. He likens this to Jordan Peterson saying you need "a positive aim for your life" — the guiding light, your vision, the destination — which determines your life and the enjoyment you get. You can enjoy the journey chaotically, but "I don't think that's the wisest thing to do."
+- **ejemplos:** ninguno
+- **cita:** "it's not about the journey it's about the destination because without the right destination you're going on the wrong Journey"
+- **terminos:** destination, journey, positive aim, guiding light
+- **origen:** adaptada-de:Jordan Peterson (positive aim)
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-231
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 23:36–24:20, 2024-10-13
+- **tension:** Pushes back against the popular "systems over goals" / "enjoy the journey" advice.
+
+## U-017-233
+- **tipo:** proceso
+- **titulo:** The author's "Lego" day: one-to-two-hour work blocks spread through the day to knock out 5–10 priority tasks, with walks, gym and meals in between.
+- **desarrollo:** He likes "two hour work blocks spread throughout the day with breaks in between": "like Legos throughout the day," scheduling one to two hour blocks to complete the 5 to 10 priority tasks for that day, depending on how long he works. Between focus blocks he walks, goes to the gym, eats, or whatever.
+- **ejemplos:** Legos.
+- **cita:** "it's like Legos throughout the day where I can schedule one to two hour work blocks"
+- **terminos:** work blocks, Legos, priority tasks
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-017-231
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 24:20–25:00, 2024-10-13
+- **tension:** Evolves from the earlier 90-minute block with two 45-minute timers (U-017-026), and from "three priority tasks" (U-017-022) to 5–10.
+
+## U-017-234
+- **tipo:** principio
+- **titulo:** Iterate with feedback: high intelligence is the ability to learn — to achieve any goal on a long enough time scale (cybernetics).
+- **desarrollo:** Step five, "arguably the most important": if you understand cybernetics, intelligence or systems, you need to iterate and improve with feedback; "that is the main sign of high intelligence." Low-intelligence people and systems hit negative feedback or roadblocks, don't progress, or repeat the same thing without results because they aren't clear on their goal — quitting or getting stuck. "High intelligence is defined by your ability to learn; it's your ability to achieve any goal on a long enough time scale because you understand that achieving any goal is possible if you work towards it."
+- **ejemplos:** ninguno
+- **cita:** "High Intelligence is defined by your ability to learn it's your ability to achieve any goal on a long enough time scale"
+- **terminos:** cybernetics, feedback, high intelligence, low intelligence
+- **origen:** adaptada-de:cybernetics (field, no specific author named)
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-232
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 25:00, 2024-10-13
+- **tension:** ninguna
+
+## U-017-235
+- **tipo:** ejercicio-del-autor
+- **titulo:** Weekly review: what went well, what didn't, what am I grateful for, what are my focus projects.
+- **desarrollo:** At the start of each week he does a weekly review to refine his system, asking: What went well last week? What didn't go well? What am I grateful for? What are my focus projects? (A Cortex template is available.) Why it matters: (1) it's a weekly way to shine light on what to add to your vision or anti-vision; (2) it clarifies and evolves the goals you pursue so "the journey can take shape with the shape of the destination"; (3) it shows minor changes to improve progress over time. "If you were to just focus on this weekly review the entire time and iterating on your vision then you're going to make it pretty far."
+- **ejemplos:** ninguno
+- **cita:** "if you were to just focus on this weekly review the entire time and iterating on your vision then you're going to make it pretty far"
+- **terminos:** weekly review, focus projects
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-017-234
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 25:00–25:48, 2024-10-13
+- **tension:** ninguna
+
+## U-017-236
+- **tipo:** método
+- **titulo:** Writer's Bootcamp premise: master digital writing in five weeks to build an audience and open career options; anti-vision and vision become brand vision.
+- **desarrollo:** Within a promotion: The Writer's Bootcamp (under Cortex, starting October 28) promises mastering digital writing in five weeks with everything needed to build an audience — important "as a creative worker going into the future of work" — or a skill enabling new career opportunities (freelancing, marketing, writing a book). Also a curriculum-only version for those who dislike cohorts. Within the bootcamp, your anti-vision and vision are used as your brand vision — "that's how you turn yourself into the niche." Only premises; no method detail.
+- **ejemplos:** ninguno
+- **cita:** "we actually use your antiv vision and your vision as your brand Vision so that's how you turn turn yourself into the nich"
+- **terminos:** Writer's Bootcamp, brand vision, turn yourself into the niche
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-017-230
+- **fuente:** It's actually pretty easy to focus 12 hours a day (if you do this).md, 3:15–3:50, 22:49, 2024-10-13
+- **tension:** ninguna
