@@ -1,0 +1,17 @@
+Trabajas en /home/user/Dan-Koe. Libro maestro sobre el sistema de Dan Koe. Fase 2, documento de léxico (parte 1).
+
+Lee `_libro/02e_sintesis/lexico-todo.md`: tabla ordenada alfabéticamente por término (columnas: término | definición | acuñado por | IDs | fechas | relación | bloque). Procesa SOLO las filas cuyo término empieza (ignorando comillas, asteriscos y mayúsculas) por las letras 0-9, $ y a–c. Lee el archivo con paginación hasta cubrir todo ese rango (usa grep -n para ubicar dónde empieza y termina el rango).
+
+Hay muchas filas duplicadas (mismo término desde distintos bloques) y variantes (singular/plural, mayúsculas, guiones, grafías mal transcritas). Fusiónalas en UNA entrada por término, conservando: todas las definiciones distintas (si el autor lo definió de dos formas en momentos distintos, conserva ambas con su fecha), todos los IDs, las fechas, quién lo acuñó (autor / invitado / tercero) y las relaciones/equivalencias con otros términos (si dos términos son sinónimos para el autor, dilo; si son distintos aunque parecidos, dilo también).
+
+Escribe `_libro/02e_sintesis/lexico-parte-1.md` en español neutro (sin voseo; términos en inglés tal cual) con este formato por entrada:
+
+### <término tal cual>
+- **tipo:** término acuñado | palabra común con sentido propio | término de invitado | término de tercero usado por el autor | nombre de producto/framework
+- **definición:** ...(si hay versiones, una por línea con fecha)
+- **acuñado por:** ...
+- **fechas:** primera y última aparición
+- **IDs:** ...
+- **relación:** sinónimos, variantes, términos opuestos o vecinos, renombres
+
+No inventes definiciones; usa solo las filas. Escribe en trozos (append). Solo ese archivo; no ejecutes git. Devuelve: número de entradas resultantes.

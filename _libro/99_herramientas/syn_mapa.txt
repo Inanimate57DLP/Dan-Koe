@@ -1,0 +1,12 @@
+Trabajas en /home/user/Dan-Koe. Libro maestro sobre el sistema de Dan Koe (164 videos, 2021–2026; 6087 unidades de conocimiento consolidadas en 1106 clústeres). Fase 2, documento `_libro/03_mapa-conocimiento.md`.
+
+Lee COMPLETOS: `_libro/02e_sintesis/resumenes-y-puentes.md` y `_libro/02e_sintesis/catalogo-compacto.md` (catálogo de todos los clústeres: ID | nombre | nivel | nº unidades | idea abreviada; si necesitas la idea completa o las dependencias de un clúster concreto, búscala con grep en `_libro/02e_sintesis/catalogo-clusters.md`). Usa paginación.
+
+Escribe `_libro/03_mapa-conocimiento.md` en español neutro (sin voseo; términos del autor en inglés tal cual): la taxonomía completa del sistema del autor tal como emerge del corpus:
+1. Visión de conjunto: cuál es el sistema del autor en una página (la tesis central y cómo se encadenan sus partes).
+2. Grandes áreas (5–9), cada una con: conceptos fundamentales, conceptos derivados, clústeres principales (cita IDs C-...), familias de ideas.
+3. Dependencias y jerarquías: qué hay que entender antes de qué (en particular, verifica en el material si la capa práctica —sistemas, rutinas, escritura, negocio— depende de la capa conceptual —identidad, consciencia, visión, entropía— y explícalo).
+4. Secuencias y puentes entre la capa conceptual (psicología, filosofía) y la capa práctica (sistemas, negocio, escritura): para cada puente, por qué la práctica se sigue del diagnóstico.
+5. Clústeres que son capas de una misma idea repartidos en bloques distintos (posibles uniones entre bloques: lista pares/grupos de C-IDs que tratan la misma idea desde bloques diferentes) — esto es crucial para la arquitectura.
+6. Conceptos transversales que reaparecen en todas las áreas (p. ej., entropía, agencia, "you are the niche", value creator...).
+No inventes. Escribe en trozos si es largo. Solo ese archivo; no ejecutes git. Devuelve: número de áreas, número de grupos de clústeres equivalentes entre bloques detectados.

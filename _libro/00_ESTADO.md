@@ -3,8 +3,8 @@
 - **CORPUS_PATH resuelto:** `.` (raíz del repositorio). La ruta configurada `Transcripts YouTube Referentes/Dan Koe` no existe; los transcripts están en la raíz.
 - **Directorio de trabajo:** `_libro/` (en la raíz)
 - **Rama de trabajo:** `libro-maestro-dan-koe` (creada desde `origin/main`, commit 1396995)
-- **Último commit:** 18c7f46 Fase 2: etiquetado temático (avance)
-- **Fase actual:** Fase 3 COMPLETA — `04_arquitectura.md`: "Crea o sé creado: el sistema completo de Dan Koe", 14 partes, 40 capítulos, 237 secciones, 2 apéndices. Control de huérfanos: 1106/1106 clústeres, 6087/6087 unidades, 0 duplicados. Material por capítulo en `04b_material/cap-NN.md`. Inicia Fase 4 (redacción, 3 subagentes en paralelo).
+- **Último commit:** 8eda4a5 Fase 4: capítulo 03 redactado
+- **Fase actual:** Fase 4 en curso — redacción de capítulos en inglés (2/40), 3 subagentes en paralelo; instrucciones en /tmp (regenerables con los scripts descritos en Notas).
 
 ## Números
 - Archivos: 164 · Palabras del corpus: 1.095.022 · Lotes: 27 (ver `01b_lotes.md`)
@@ -40,6 +40,10 @@
 - **Total parcial:** 6087 unidades en 27/27 lotes
 
 ## Fase 4 — capítulos escritos
-(ninguno todavía)
+- cap-02.md: 38722 palabras, 215 IDs en COBERTURA ✔
+- cap-03.md: 33183 palabras, 169 IDs en COBERTURA ✔
+- **Total:** 2/40 capítulos
 
 ## Notas
+- Herramientas para reanudar: `_libro/99_herramientas/` contiene las plantillas de prompts (extracción, etiquetado, consolidación, síntesis, arquitectura, redacción) y los scripts (index.py → units.json; bytheme.py/split.py → 02c; gather.py → 02e; expand.py/material.py → 04b_material y chapters.json). Los scripts usan rutas en /tmp/claude-0; si la sesión se reinicia, copia los .json y .py de 99_herramientas a /tmp/claude-0 y regenera. Para redactar un capítulo NN: rellenar `write_prompt.txt` ([N], [NN], [TITULO], [IDS] desde chapters.json, [PALABRAS]).
+- Etiquetas: los capítulos 01–04 pueden usar marcas en español o inglés (Fuente/Source, Contexto complementario/Complementary context, Ejercicios/Exercises); se normalizan en el ensamblaje.

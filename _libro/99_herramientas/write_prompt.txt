@@ -1,0 +1,44 @@
+Escribe el Capítulo [N]: "[TITULO]" del libro maestro sobre el sistema de Dan Koe.
+
+Contexto: lee `_libro/04_arquitectura.md` para saber qué viene antes y qué viene después de este capítulo. Lee `_libro/03b_evolucion.md`, `_libro/03c_lexico.md` y `_libro/03d_fuentes-citadas.md`.
+(NOTA OPERATIVA: esos tres archivos son muy extensos —50.000, 144.000 y 45.000 palabras—. Las entradas que corresponden a las unidades de este capítulo ya están extraídas en los anexos A, B y C de tu archivo de material (ver abajo). Lee esos anexos completos; consulta los archivos originales con grep solo si necesitas una entrada adicional.)
+
+Material obligatorio: estas unidades deben quedar TODAS incorporadas al capítulo: [IDS]. Léelas completas en `_libro/02_unidades/`.
+(NOTA OPERATIVA: para facilitarte el trabajo, TODAS esas unidades ya están copiadas completas, ordenadas por sección y por clúster según la arquitectura, en `_libro/04b_material/cap-[NN].md` ([PALABRAS] palabras). Léelo ÍNTEGRO con paginación (Read con offset/limit, ~300 líneas por vez) antes de escribir. Las líneas "fusiones" indican unidades sustancialmente idénticas: incorpóralas usando la unión de su contenido.)
+
+Cómo escribir:
+- Prosa educativa coherente de libro de texto. No una colección de notas. No conviertas todo en bullets. No reduzcas conceptos complejos a checklists.
+- Cada sección normalmente: introduce la idea, explica qué significa, explica por qué importa, desarrolla su lógica, muestra sus componentes, la relaciona con lo anterior, desarrolla sus implicaciones, incorpora ejemplos, introduce matices y excepciones, y conecta con lo que viene. No uses estos diez pasos como subtítulos: deben sentirse como escritura, no como plantilla.
+- Ante la elección entre una explicación corta que transmite la idea general y una extensa que conserva mecanismo, matices, condiciones, ejemplos y excepciones: elige SIEMPRE la extensa, mientras el corpus la respalde.
+- Cuando varias unidades sean capas de una misma idea, intégralas en una explicación única y rica.
+- Preserva ejemplos, casos, metáforas, analogías e historias del corpus. Una metáfora o una historia no se elimina por no parecer teoría: si ayuda a comprender, recordar, contextualizar o aplicar, entra. En este autor, la metáfora suele ser el mecanismo de la explicación.
+- Conserva la secuencia lógica de los argumentos que el autor construye por capas. Si el autor llega a una conclusión por una cadena de pasos, el capítulo debe mostrar la cadena, no solo la conclusión.
+- Los procesos y sistemas personales del autor (cómo escribe, planifica, estructura su trabajo o su negocio) van reconstruidos paso a paso, con el razonamiento de cada decisión.
+- Los frameworks que el autor explicó en pizarra o pantalla van reconstruidos con todos sus componentes y sus relaciones, en prosa y, cuando ayude, en una tabla. Si la transcripción no permite reconstruir con certeza algún elemento, dilo.
+- Preserva los términos acuñados del autor literalmente, con su definición en la primera aparición. Cuando el autor use una palabra común con sentido propio, señala que lo hace y da su definición.
+- Cuando el autor haya cambiado de posición sobre algo tratado en este capítulo, presenta ambas versiones y el cambio. No elijas ganador en silencio.
+- Distingue siempre lo que es del autor de lo que toma de un tercero, y cómo lo adapta. No atribuyas al autor ideas que él atribuye a otros ni al revés.
+- Haz visibles las conexiones que en el corpus están fragmentadas: "esto se relaciona con...", "este principio importará más adelante cuando...", "la diferencia entre X e Y es...", "este caso es una aplicación particular de...", "esta práctica se sigue de este diagnóstico porque...".
+- Distingue observación, experiencia personal, opinión, hipótesis, regla práctica, principio, metáfora explicativa y hecho. No presentes la anécdota del autor como ley universal. En particular, no presentes como hecho científico lo que el autor enuncia como marco, metáfora o interpretación personal, salvo que él lo presente como evidencia y lo respalde.
+- No inventes certeza. Si una afirmación es ambigua, di que lo es: "la fuente parece usar X en el sentido de..., aunque no da una definición explícita".
+- Conocimiento externo: úsalo solo para explicar prerrequisitos, aclarar terminología, dar contexto sobre referencias culturales, o situar brevemente a un pensador o escuela que el autor menciona sin explicar, y márcalo siempre como **Contexto complementario:**. Nunca uses conocimiento externo para desplazar o modificar en silencio las ideas del autor, ni para "corregir" su lectura de una fuente.
+- Trazabilidad discreta: para citas textuales, afirmaciones muy específicas, números, historias y procesos, indica la fuente con **Fuente:** nombre del archivo. No llenes el capítulo de referencias que interrumpan la lectura.
+- Tablas Markdown solo cuando mejoren realmente la comprensión: comparaciones, taxonomías, criterios, componentes de un framework, ventajas y limitaciones. Nada de tablas gigantes donde la prosa sea más clara.
+- Sin imágenes, diagramas externos ni nada que requiera software adicional. Solo Markdown nativo.
+- Jerarquía: `## Capítulo`, `### Sección`, `#### Subsección`. Sin saltos arbitrarios de nivel. Títulos descriptivos, pensados para el panel Outline de Obsidian.
+- Densidad alta: sin introducciones vacías, sin conclusiones repetitivas, sin frases motivacionales propias, sin relleno, sin repetir "en otras palabras", sin explicar cinco veces algo ya claro.
+- Al final del capítulo agrega una sección `### Ejercicios` con entre 4 y 8 ejercicios de razonamiento, interpretación, aplicación, pensamiento crítico, diagnóstico, comparación, creación o toma de decisiones. Preguntas abiertas: analizar un caso, aplicar un framework a la propia vida o al propio trabajo, defender una decisión, identificar errores de razonamiento, comparar dos aproximaciones, diseñar una solución, explicar un concepto con palabras propias, construir un ejemplo, cuestionar una afirmación del autor, identificar cuándo un principio dejaría de aplicar. Dado que buena parte del corpus es de autoconocimiento, incluye ejercicios de aplicación personal cuando el capítulo lo permita. **NO entregues respuestas ni solucionarios, ni ahora ni después.**
+- El libro es 80–90% teoría y 10–20% ejercicio. No lo conviertas en un curso de actividades.
+- Escribe en inglés. La traducción es un paso posterior.
+
+Al terminar, agrega al final del archivo un bloque comentado con todos los IDs efectivamente incorporados:
+`<!-- COBERTURA: U-001-003, U-001-004, ... -->`
+
+Guarda en `_libro/05_capitulos_en/cap-[NN].md`. Devuelve solo: número de palabras, IDs cubiertos e IDs que decidiste no cubrir con su razón.
+
+---
+INSTRUCCIONES OPERATIVAS (entorno):
+- Directorio del repositorio: /home/user/Dan-Koe. Escribe ÚNICAMENTE `_libro/05_capitulos_en/cap-[NN].md`. No ejecutes git.
+- El capítulo será largo: escríbelo por secciones, agregando (append) cada sección al archivo a medida que la terminas (por ejemplo con Bash y heredoc `cat >> ... <<'EOF'`), en lugar de intentar escribirlo todo de una vez. Empieza el archivo con `## Chapter [N] — <title in English>` y usa `### [N].M ...` para las secciones según la arquitectura (puedes refinar los títulos de sección; mantén el orden).
+- Antes de escribir cada sección, relee en el material las unidades de esa sección.
+- Al terminar, verifica con un script que todos los IDs de la lista obligatoria están en el bloque COBERTURA y que cada uno corresponde a contenido realmente desarrollado en el texto. En "IDs cubiertos" devuelve solo el conteo (no la lista completa) y la lista de IDs no cubiertos con su razón.

@@ -1,0 +1,9 @@
+Trabajas en /home/user/Dan-Koe. Libro maestro sobre el sistema de Dan Koe. Fase 2, documento `_libro/03d_fuentes-citadas.md`.
+
+Lee COMPLETO `_libro/02e_sintesis/fuentes-todo.md` (tabla ordenada alfabéticamente; cada fila: fuente | idea | uso/adaptación | IDs | bloque). Hay filas duplicadas para la misma fuente desde distintos bloques.
+
+Escribe `_libro/03d_fuentes-citadas.md` en español neutro (sin voseo) con:
+1. Introducción breve: qué tipo de fuentes usa el autor (filosofía, psicología del desarrollo, espiritualidad, creadores, marketing...) y cómo suele usarlas.
+2. Una entrada por fuente (deduplicada; normaliza grafías mal transcritas indicando la grafía de la transcripción, p. ej. "Mihaly Csikszentmihalyi"), agrupadas por categoría: (a) pensadores/filósofos/psicólogos, (b) libros, (c) escuelas/modelos/teorías, (d) creadores/emprendedores/invitados, (e) frameworks de marketing/copywriting, (f) herramientas/productos, (g) citas sin atribución o de atribución dudosa. Para cada una: **qué idea toma**, **cómo la usa**: propia / de-tercero / adaptada, y en qué consiste la adaptación, **IDs** (todos), **bloques**. Si el autor atribuye con duda o de forma probablemente errónea, consígnalo tal como aparece en las filas (no corrijas con conocimiento externo; si lo señalas, márcalo como **Contexto complementario:**).
+3. Separa explícitamente a los INVITADOS (Justin Welsh, Sahil Bloom, Dickie Bush, Devon Eriksen, fundadores de Stan, cofundadores de Kortex) con sus ideas propias.
+No inventes. Escribe en trozos si es largo. Solo ese archivo; no ejecutes git. Devuelve: número de fuentes por categoría.

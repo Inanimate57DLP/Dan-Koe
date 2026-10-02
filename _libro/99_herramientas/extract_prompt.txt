@@ -1,0 +1,52 @@
+Lee íntegramente estos archivos: [ARCHIVOS]. Son transcripciones de YouTube de Dan Koe. Pueden tratar sobre psicología e identidad, filosofía aplicada, visión de vida, enfoque y productividad, escritura y creación de contenido, y construcción de un negocio de una sola persona, entre otros temas que aparezcan en los textos.
+
+Tu trabajo es EXTRAER, no resumir. Debes producir una lista exhaustiva de UNIDADES DE CONOCIMIENTO. Una unidad es cualquier pieza de conocimiento con valor independiente: un concepto, un principio, un argumento, una hipótesis, un modelo, un framework, una metodología, un proceso, un procedimiento, un paso, una táctica, una estrategia, una heurística, una regla práctica, un criterio de decisión, una distinción conceptual, una definición, un matiz, una excepción, una condición, una advertencia, un error típico, una limitación, una consecuencia, una causa, una relación entre variables, un ejemplo, una analogía, una metáfora, una historia, un caso de estudio, una experiencia del autor, un dato, una estadística, una observación, una recomendación, una opinión relevante, una pregunta, un ejercicio de reflexión que el autor propone, o una conclusión.
+
+Presta atención especial a:
+- **Términos acuñados por el autor y palabras comunes usadas con sentido propio.** Extrae cada uno como unidad propia, con su definición exacta tal como el autor la da y por qué lo nombra así.
+- **Frameworks y modelos.** Extrae todos sus componentes, su orden, las relaciones entre ellos, y el problema que cada componente resuelve. Si el autor lo explica con pizarra o pantalla y la transcripción no permite reconstruirlo con certeza, anótalo como ambiguo.
+- **Argumentos construidos por capas.** Cuando el autor desarrolla una idea mediante una cadena de pasos lógicos o una metáfora que se va ampliando, extrae la cadena completa y conserva el orden del razonamiento. No extraigas solo la conclusión.
+- **Metáforas y analogías.** Son parte del mecanismo explicativo. Extráelas con su desarrollo completo.
+- **Fuentes de terceros.** Cuando el autor cite o se apoye en un pensador, libro, escuela o creador, registra quién, qué idea toma y cómo la adapta o interpreta. Distingue lo que es del autor de lo que es del tercero.
+- **Procesos y sistemas personales.** Rutinas, formas de escribir, de planificar, de estructurar contenido u ofertas, sistemas de notas, ciclos de trabajo. Extráelos paso a paso con el razonamiento de cada decisión.
+- **Números y umbrales.** Duraciones, cantidades, precios, porcentajes, plazos, conteos. Extráelos con su contexto exacto.
+- **Ejemplos concretos y casos.** Historias personales, clientes, alumnos, negocios, cuentas, momentos culturales. Consérvalos con detalle suficiente para que alguien que no los conoce entienda de qué habla.
+
+Un solo archivo puede contener entre 15 y 80 unidades. Si extraes menos de 15 unidades de un transcript largo, estás resumiendo: vuelve a pasar.
+
+Descarta únicamente: saludos, presentación de canal, llamados a suscribirse, publicidad de productos o programas sin contenido de conocimiento, patrocinios sin contenido, problemas técnicos, muletillas, charla irrelevante. Si dentro de una promoción hay un método o un modelo, extráelo.
+
+Escribe cada unidad con este formato exacto:
+
+```
+## U-[LOTE]-[NNN]
+- **tipo:** concepto | principio | framework | método | ejemplo | historia | dato | heurística | advertencia | excepción | opinión | caso | definición | término-acuñado | metáfora | argumento | proceso | fuente-de-tercero | ejercicio-del-autor
+- **titulo:** enunciado claro de la idea en una frase
+- **desarrollo:** explicación completa tal como la presenta la fuente. Aquí NO ahorres espacio: incluye el mecanismo (por qué funciona), las condiciones (cuándo aplica), los límites (cuándo NO aplica), las consecuencias y los pasos si los hay. Si la idea se construye por una cadena de argumentos o una metáfora, conserva la cadena. Escribe todo lo que la fuente permita sostener.
+- **ejemplos:** ejemplos, casos, analogías, metáforas o historias concretas asociadas, con su detalle. Si no hay, escribe "ninguno".
+- **cita:** una cita textual breve si la formulación original es especialmente clara o memorable. Si no hay, escribe "ninguna".
+- **terminos:** términos propios que usa el autor para esta idea, tal cual los escribe
+- **origen:** propia | de-tercero:[nombre] | adaptada-de:[nombre]
+- **nivel:** fundamental | intermedio | avanzado | complementario
+- **prerrequisitos:** qué hay que entender antes para entender esto
+- **fuente:** nombre del archivo + timestamp si existe + fecha si se conoce
+- **tension:** si esta unidad contradice, matiza o corrige algo que el autor sostiene en otro momento, dilo aquí. Si no, "ninguna".
+```
+
+Reglas duras:
+- Preserva la voz, la terminología, la lógica, las metáforas y los ejemplos del autor. No los conviertas en explicaciones genéricas tuyas.
+- No normalices terminología. Si el autor usa un término propio, escríbelo tal cual, no uses un sinónimo de autoayuda o de marketing.
+- No inventes nada. No completes con tu conocimiento general sobre psicología, filosofía, productividad o negocios, ni con lo que sepas del autor fuera de estos textos. Si algo es ambiguo, escríbelo como ambiguo.
+- No fusiones dos unidades porque suenen parecidas. Ante la duda, sepáralas.
+- Escribe en inglés (idioma del corpus).
+
+Guarda el resultado en `_libro/02_unidades/lote-[LOTE].md`. No devuelvas el contenido en el chat: devuelve solo el conteo de unidades extraídas, la lista de términos acuñados encontrados, la lista de pensadores o fuentes de terceros citados y una lista de los temas cubiertos.
+
+---
+INSTRUCCIONES OPERATIVAS (entorno):
+- Directorio raíz del repositorio: /home/user/Dan-Koe . CORPUS_PATH resuelto = raíz del repositorio. Las rutas de los archivos son relativas a esa raíz; los nombres tienen espacios y caracteres especiales: entrecomíllalos siempre.
+- Los archivos tienen frontmatter YAML con `upload_date`: úsalo como fecha en el campo **fuente**. Los timestamps aparecen como `**[mm:ss](url)**` al inicio de cada párrafo: usa el timestamp (mm:ss o h:mm:ss) en el campo **fuente**.
+- Para archivos largos, léelos completos con paginación (Read con offset y limit, por ejemplo 250 líneas por vez) hasta el final. No te saltes ninguna parte.
+- Procesa archivo por archivo: lee un transcript completo, extrae sus unidades y AGREGA (append) ese bloque al archivo de salida antes de pasar al siguiente transcript. Crea el archivo con un encabezado `# Lote [LOTE]` y, antes de las unidades de cada transcript, un encabezado `# Fuente: <nombre de archivo> (<fecha>)`. Para agregar, puedes usar Bash con un heredoc (`cat >> "_libro/02_unidades/lote-[LOTE].md" <<'EOF'` ... `EOF`) en trozos de tamaño razonable. Numera las unidades correlativamente en todo el lote (U-[LOTE]-001, U-[LOTE]-002, ...; usa 4 dígitos si pasas de 999).
+- Escribe ÚNICAMENTE ese archivo de salida. No modifiques ningún otro archivo. No ejecutes ningún comando git.
+- Al final, verifica con `grep -c '^## U-' "_libro/02_unidades/lote-[LOTE].md"` el conteo real.

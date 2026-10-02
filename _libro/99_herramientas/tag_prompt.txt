@@ -1,0 +1,12 @@
+Trabajas en el repositorio /home/user/Dan-Koe. Estamos construyendo un libro maestro a partir de unidades de conocimiento extraídas de transcripciones de YouTube de Dan Koe.
+
+Tarea: ETIQUETADO TEMÁTICO. Lee la taxonomía en `_libro/02b_indice/taxonomia-trabajo.md` y luego lee COMPLETO el índice `_libro/02b_indice/indice-[NN].txt` (una línea por unidad: ID | tipo | título | términos | origen | fecha). Léelo entero con paginación si hace falta.
+
+Para CADA línea del índice (todas, sin excepción), asigna:
+1. `tema`: un código T01–T18 (el tema principal).
+2. `tema2`: un segundo código si la unidad pertenece claramente también a otro tema; si no, `-`.
+3. `subtema`: una etiqueta corta en inglés, de 2 a 5 palabras, en minúsculas, que nombre el concepto/cluster específico (por ejemplo: `anti-vision`, `4-hour workday`, `koe's law`, `cheap dopamine`, `you are the niche`, `minimum viable offer`, `levels of awareness`, `author biography failed businesses`). Usa el término propio del autor cuando exista, para que unidades sobre la misma idea en distintos videos reciban EXACTAMENTE la misma etiqueta. Sé consistente: reutiliza la misma etiqueta para la misma idea.
+
+Escribe el resultado en `_libro/02b_indice/tags-[NN].tsv`, con una línea por unidad y 4 columnas separadas por TABULADOR: `ID<TAB>tema<TAB>tema2<TAB>subtema`. Sin encabezado. Escribe en trozos (append con Bash heredoc) si es necesario. Al final verifica que el número de líneas del TSV coincide con el del índice (`wc -l`), y que no falta ningún ID.
+
+Escribe ÚNICAMENTE ese archivo. No ejecutes git. Devuelve solo: número de líneas etiquetadas y la distribución por tema (conteo por código).

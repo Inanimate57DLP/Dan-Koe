@@ -1,0 +1,58 @@
+Trabajas en el repositorio /home/user/Dan-Koe. Estamos construyendo un libro maestro sobre el sistema de Dan Koe a partir de "unidades de conocimiento" extraídas de 164 transcripciones de YouTube (2021–2026). Esta es la FASE 2 — CONSOLIDACIÓN, para el bloque temático **[TEMA]** ([NOMBRE]).
+
+Material: lee ÍNTEGRO el archivo `_libro/02c_por_tema/[ARCHIVO]` (usa Read con offset/limit, por ejemplo 400 líneas por vez, hasta el final; no te saltes nada). Contiene [N] unidades completas, agrupadas por un "subtema" provisional (encabezados `### subtema: ...`). Las etiquetas de subtema son provisionales y pueden ser inconsistentes: tú decides los clústeres reales.
+
+Tu trabajo (todo en el mismo archivo de salida):
+
+1. **Clústeres.** Agrupa TODAS las unidades del archivo en clústeres de conocimiento. Un clúster es una idea/concepto/framework/proceso/historia del autor junto con todas sus capas: qué es, por qué funciona, cuándo usarlo, cuándo no, cómo se aplica, ejemplos, metáforas, casos, números, y versiones de distintas fechas. Varias unidades que explican la misma idea desde ángulos distintos van en el MISMO clúster (son capas complementarias, no redundancias). Cada unidad pertenece a exactamente UN clúster de este archivo. Ninguna unidad puede quedar fuera.
+2. **Deduplicación conservadora.** Dentro de cada clúster, identifica las unidades SUSTANCIALMENTE IDÉNTICAS: misma idea, mismo mecanismo, mismas condiciones, mismo nivel de detalle (típicamente el mismo pasaje repetido en una compilación, o el autor repitiendo casi literalmente lo mismo en dos videos sin ángulo, ejemplo, metáfora ni matiz nuevo). Solo esas se fusionan. NUNCA fusiones si difieren en matiz, condición, aplicación, mecanismo, excepción, ejemplo útil, metáfora o formulación. Ante la duda, no fusiones. Al fusionar, la unidad que se conserva es la más completa; las absorbidas quedan registradas (su contenido particular —ejemplos, citas, matices— deberá sumarse al redactar).
+3. **Evolución.** Detecta cambios de posición, correcciones, refinamientos de frameworks, renombres de conceptos y contradicciones internas del autor entre fechas (los campos `tension` y `fuente`/fecha te ayudan). No los resuelvas: documéntalos.
+4. **Léxico.** Lista todos los términos acuñados por el autor (o por invitados) y las palabras comunes que usa con sentido propio, con su definición tal como la da el autor.
+5. **Fuentes de terceros.** Lista los pensadores, libros, escuelas y creadores citados, la idea que toma de cada uno, y cómo la adapta (propia / de-tercero / adaptada).
+6. **Puentes.** Señala las conexiones con otros temas (T01–T18 de `_libro/02b_indice/taxonomia-trabajo.md`) y las dependencias (qué hay que entender antes).
+
+FORMATO EXACTO del archivo de salida `_libro/02d_consolidacion/[SALIDA]` (en español neutro, sin voseo; los nombres de clúster y términos del autor en inglés tal cual):
+
+```
+# Consolidación [TEMA] — [NOMBRE] ([ARCHIVO])
+
+## Resumen
+(3–6 líneas: qué cubre este bloque, sus ideas centrales y su orden lógico de aprendizaje.)
+
+## Clústeres
+
+### C-[CLAVE]-01: <nombre del clúster en inglés, usando el término del autor si existe>
+- **idea:** 2–5 frases que describen la idea central y sus capas (qué / por qué / cuándo / cuándo no / cómo).
+- **nivel:** fundamental | intermedio | avanzado | complementario
+- **depende_de:** clústeres o temas que hay que entender antes (o "ninguno")
+- **ids:** U-xxx-nnn, U-xxx-nnn, ...   ← TODAS las unidades del clúster, incluidas las fusionadas
+- **capas:** breve mapa de qué aporta cada grupo de unidades (ej.: "definición: U-..; mecanismo: U-..; ejemplos/historias: U-..; versión 2023 vs 2026: U-.. / U-..")
+- **fusiones:** U-conservada <= U-absorbida, U-absorbida (motivo breve) | o "ninguna"
+- **evolucion:** resumen del cambio de posición si existe | o "ninguna"
+
+(repite para cada clúster; numeración correlativa)
+
+## Fusiones (lista consolidada)
+FUSION: U-conservada <= U-absorbida1, U-absorbida2 | motivo
+(una línea por fusión; si no hay ninguna, escribe "ninguna")
+
+## Evolución y tensiones
+Para cada caso: **tema**; qué decía antes (fecha/video, IDs); qué dice después (fecha/video, IDs); en qué consiste el cambio exacto; razón que da el autor (si la da); si ambas versiones podrían aplicar a contextos distintos.
+
+## Léxico
+| Término (tal cual) | Definición según el autor | Acuñado por | IDs | Fechas | Relación/equivalencias con otros términos |
+
+## Fuentes de terceros
+| Fuente (persona/libro/escuela) | Idea que toma | Cómo la usa/adapta | IDs |
+
+## Puentes con otros temas
+- (lista breve de conexiones con T01–T18 y por qué)
+```
+
+[CLAVE] es: [CLAVEVAL]. Escribe el archivo en trozos (append con Bash heredoc `cat >> ... <<'EOF'`) si es largo.
+
+Reglas:
+- Cada ID del archivo de entrada debe aparecer exactamente una vez en las líneas `- **ids:**`. Al terminar, verifícalo con un script (por ejemplo, extrae con grep todos los `U-\d{3}-\d+` del archivo de entrada y de las líneas `- **ids:**` de tu salida y compara los conjuntos). Si falta alguno, agrégalo a su clúster; si alguno está repetido, corrígelo.
+- No inventes nada; no completes con conocimiento externo. Usa solo lo que dicen las unidades.
+- Escribe ÚNICAMENTE el archivo de salida. No ejecutes git.
+- Devuelve solo: número de unidades, número de clústeres, número de fusiones (unidades absorbidas), número de entradas de evolución, de léxico y de fuentes, y confirmación de que la verificación de IDs dio cero faltantes y cero duplicados.

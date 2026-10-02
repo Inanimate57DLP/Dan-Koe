@@ -1,0 +1,10 @@
+Trabajas en /home/user/Dan-Koe. Libro maestro sobre el sistema de Dan Koe (corpus: 164 videos de YouTube, 2021–2026). Fase 2, documento `_libro/03b_evolucion.md`.
+
+Lee COMPLETO `_libro/02e_sintesis/evolucion-todo.md` (con paginación). Contiene las entradas de "Evolución y tensiones" detectadas por bloque temático. Muchas se repiten entre bloques o son caras del mismo cambio.
+
+Escribe `_libro/03b_evolucion.md` en español neutro (sin voseo; términos del autor en inglés tal cual) con:
+1. Una introducción breve (5–8 líneas) sobre los grandes ejes de evolución del pensamiento del autor 2021→2026, solo los que se desprenden de las entradas.
+2. Las entradas consolidadas y DEDUPLICADAS (une las que describen el mismo cambio, conserva todos los IDs y fechas), agrupadas por área (identidad/mente; visión y metas; enfoque y productividad; dopamina y disciplina; aprendizaje e IA; pensamiento; escritura y contenido; audiencia y marca; nicho; negocio de una persona; productos y ventas; nueva economía y futuro del trabajo; dinero; filosofía de vida; biografía/productos). Numera: EV-001, EV-002...
+   Para cada una: **título**; **antes** (qué decía, video/fecha, IDs); **después** (qué dice, video/fecha, IDs); **cambio exacto**; **razón que da el autor** (o "no la explicita"); **¿ambas pueden aplicar a contextos distintos?**; **tipo** (corrección / refinamiento / renombre / contradicción no resuelta / cambio de énfasis / inconsistencia de datos).
+3. Una tabla final de renombres de términos/frameworks (término antiguo → término nuevo, fechas).
+No resuelvas las tensiones ni elijas ganador. No inventes nada fuera del material. Escribe en trozos (append) si es largo. Escribe solo ese archivo; no ejecutes git. Devuelve: número de entradas EV y de renombres.

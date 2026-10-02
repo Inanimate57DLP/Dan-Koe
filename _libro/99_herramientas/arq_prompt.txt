@@ -1,0 +1,48 @@
+Trabajas en /home/user/Dan-Koe. Eres el arquitecto del LIBRO MAESTRO sobre el sistema de Dan Koe, construido desde 164 transcripciones de YouTube (2021–2026). FASE 3 — ARQUITECTURA.
+
+Material (léelo completo, con paginación):
+- `_libro/03_mapa-conocimiento.md` (taxonomía, dependencias, puentes, grupos de clústeres equivalentes entre bloques).
+- `_libro/02e_sintesis/catalogo-compacto.md`: los 1106 clústeres (ID | nombre | nivel | nº de unidades | idea abreviada). Cada clúster agrupa entre 1 y ~20 unidades de conocimiento. Si necesitas más detalle sobre un clúster, búscalo con grep en `_libro/02e_sintesis/catalogo-clusters.md`.
+- `_libro/03b_evolucion.md` (cambios de posición del autor), si ya existe — consúltalo por encima; no es imprescindible para la arquitectura.
+
+Diseña el libro. Ignora por completo el orden de los archivos, las fechas de publicación y el orden de los bloques temáticos. Pregunta rectora: ¿en qué orden tendría que aprender esto una persona que parte de cero para llegar progresivamente al máximo nivel de comprensión que contiene el corpus? Progresión típica (no mecánica): fundamentos → vocabulario → principios → modelos mentales → mecanismos → relaciones → métodos → aplicaciones → casos → matices → excepciones → problemas complejos → avanzado. Verifica en el material si la capa práctica (sistemas, rutinas, escritura, negocio) depende de la capa conceptual (identidad, consciencia, visión, entropía) y, si es así, respeta ese orden: primero el modelo de la persona, después los sistemas que se apoyan en él.
+
+Reglas de diseño:
+- Partes → capítulos → secciones. Apunta a unos 30–40 capítulos. Cada capítulo debe reunir aproximadamente entre 100 y 220 unidades (suma la columna "nº unidades" de sus clústeres); ningún capítulo por encima de ~260 unidades (si se pasa, divídelo). Cada sección, típicamente 2–12 clústeres.
+- Clústeres de bloques distintos que tratan la misma idea (capas de una misma idea) deben ir en la MISMA sección, para que se integren en una explicación única.
+- La biografía y los casos del autor (T17) y los invitados no van en un capítulo aislado si sirven como ejemplo: distribúyelos donde ilustran una idea; deja en un capítulo propio solo lo que sea historia/trayectoria del autor como tal (si lo justifica).
+- Incluye un capítulo o apéndice de léxico del autor y uno de fuentes de terceros (estos apéndices no necesitan clústeres; se construirán desde 03c y 03d).
+- Cero huérfanos: TODOS los 1106 clústeres deben quedar asignados a exactamente una sección. Verifícalo con un script al final (extrae los C-IDs del catálogo y de tu archivo y compara; corrige faltantes y duplicados).
+
+FORMATO EXACTO de `_libro/04_arquitectura.md` (en español neutro, sin voseo; los términos del autor en inglés tal cual; títulos descriptivos):
+
+```
+# Arquitectura del libro
+
+**Título del libro:** ...
+**Subtítulo:** ...
+
+## Lógica general
+(10–20 líneas: la progresión elegida y por qué; cómo se respeta la dependencia conceptual → práctica)
+
+## Prerrequisitos externos (Contexto complementario)
+- lista de conceptos externos al corpus que habrá que introducir brevemente (p. ej., qué es Spiral Dynamics, Csikszentmihalyi y el flow, levels of awareness de Schwartz...)
+
+## Estructura
+
+### Parte I — <título>
+<1–3 líneas de propósito>
+
+#### Capítulo 1 — <título>
+<2–4 líneas: qué aprende el lector, qué necesita de antes, qué prepara para después>
+- **1.1 <título de sección>** — <propósito en una línea> — clústeres: C-xxx-nn, C-xxx-nn
+- **1.2 <título>** — ... — clústeres: ...
+
+(... todos los capítulos ...)
+
+### Apéndices
+#### Apéndice A — Léxico del autor
+#### Apéndice B — Fuentes y referentes del autor
+```
+
+La numeración de capítulos es correlativa en todo el libro (1, 2, 3...), las secciones N.M. Escribe en trozos (append) si es largo. Solo ese archivo; no ejecutes git. Devuelve: título, número de partes, capítulos y secciones, y confirmación de cero huérfanos y cero duplicados (1106/1106).
