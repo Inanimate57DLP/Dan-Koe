@@ -832,7 +832,7 @@
 - **ejemplos:** Sunday 10am-2pm; jobs providing structure.
 - **cita:** "people say that they hate their jobs yet jobs provide a clear state of mind"
 - **terminos:** structure their mind
-- **origen:** propia (dato sin fuente citada)
+- **origen:** propia
 - **nivel:** intermedio
 - **prerrequisitos:** U-024-063
 - **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 0:00-0:50, 2023-07-25
@@ -949,7 +949,7 @@
 - **ejemplos:** Molly, marijuana, alcohol as unsustainable routes.
 - **cita:** "there are other neurotransmitters that are called the Here and Now neurotransmitters"
 - **terminos:** Here and Now neurotransmitters
-- **origen:** propia (el término "Here and Now" se presenta como nombre existente, sin fuente citada)
+- **origen:** propia
 - **nivel:** intermedio
 - **prerrequisitos:** U-024-071
 - **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 4:47-5:36, 2023-07-25
@@ -1253,4 +1253,1936 @@
 - **prerrequisitos:** U-024-095
 - **fuente:** A Full Guide To Reinvent Your Life (In 6-12 Months).md, 21:01-21:41, 2023-07-25
 - **tension:** ninguna
+
+# Fuente: A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md (2025-10-19)
+
+## U-024-097
+- **tipo:** historia
+- **titulo:** The author's lifelong desire to become "multi-dimensionally jacked": max out all stats, not be an NPC, be a level 100 player
+- **desarrollo:** "As corny as this may sound", Dan Koe always wanted to become "a force to be reckoned with", "an absolute unit of an individual" — not just a muscular body but developed in every domain. "I wanted to become multi-dimensionally jacked. I wanted to max out all of my stats. I didn't want to be an NPC. I wanted to be a level 100 player. All areas of the map unlocked. Maxed out physicality, intellect, and professions. Bank overflowing with gold." Mind, body, spirit, relationships, money. This desire drove his path: as a teenager obsessed with fitness; then absorbing as much knowledge as possible; then wanting freedom, failing at multiple business models until one worked; then spiritual and philosophical stints that gave him deeper perspective on "superficial" things like fitness or money. That's why he wrote the book "Purpose and Profit", because most people think the two don't go together.
+- **ejemplos:** His own path: fitness → knowledge → business → spirituality/philosophy.
+- **cita:** "I wanted to become multi-dimensionally jacked. I wanted to max out all of my stats."
+- **terminos:** multi-dimensionally jacked; max out all of my stats; level 100 player; NPC; Purpose and Profit
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 0:00-0:50, 2025-10-19
+- **tension:** ninguna
+
+## U-024-098
+- **tipo:** término-acuñado
+- **titulo:** Human 3.0: a synthesized map to navigate the modern landscape, escape mediocrity and actualize your highest potential
+- **desarrollo:** Over 15 years Dan Koe researched psychology, personal development, philosophy, social dynamics, technology, the internet, startups, money, religion and meaning; after writing online for 5 years he noticed "critical overlapping patterns that have begun to form a new philosophy for today's world". "That's where Human 3.0 comes in." Goal: synthesize everything into "one comprehensive map to navigate the modern landscape" and provide knowledge, skills and principles to "escape mediocrity and actualize your highest potential". Subtitle: "a map to reach the 1%, to reach your potential". It offers the big picture: "not a dogmatic set of actionable steps, but a set of guidelines for reaching your maximum potential" that lets you bust through mental, physical, spiritual and vocational plateaus. It "orients patterns found across human development" and builds on scientific, psychological, spiritual and vocational models that did the heavy lifting: "take the best parts of the world's greatest theories and apply them to the life of the individual". He provides a Human 3.0 knowledge base and a "metatype prompt" (linked in description).
+- **ejemplos:** ninguno
+- **cita:** "I want to synthesize everything I've learned into one comprehensive map to navigate the modern landscape."
+- **terminos:** Human 3.0; comprehensive map; plateaus; knowledge base; metatype prompt
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 0:50-4:03, 2025-10-19
+- **tension:** ninguna
+
+## U-024-099
+- **tipo:** opinión
+- **titulo:** "Placing the burden of nuance on you": the author chooses clarity and conviction over watered-down nuance
+- **desarrollo:** He will try to make Human 3.0 "as non-dogmatic and scientific as possible", but wants to get the point across with clarity and conviction. "If I just water things down all day with like 'oh here's the science, here's the nuance', then it starts to lose its impact. So I'm placing the burden of nuance on you, the viewer."
+- **ejemplos:** ninguno
+- **cita:** "I'm placing the burden of nuance on you, the viewer."
+- **terminos:** burden of nuance
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-024-098
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 1:43, 2025-10-19
+- **tension:** ninguna
+
+## U-024-100
+- **tipo:** argumento
+- **titulo:** The critical flaw of existing models: they are siloed in one domain, pre-internet, and rarely talk about money
+- **desarrollo:** There are many models and gurus: Spiral Dynamics for psychology; Buddhism and Christianity for meaning; materialism and mentalism for the nature of reality; e-commerce and consulting for business; red pill and feminism for social dynamics. "All of them have their truths. They're just a perspective." Flaws: (1) most are isolated to one domain — like school teaching math, English and science as siloed classes "when knowledge is a web", or dissecting frogs without considering the ecosystem; (2) the "hard pill to swallow": many spiritual teachers have frail bodies, many businessmen can't maintain relationships, many alpha males are emotionally unaligned — being developed in one domain is great, but "it is growing increasingly rare that a single person is truly self-developed"; (3) even multi-domain models like ancient Greek philosophies were created before the internet, AI and technology changed everything; (4) "very few of them talk about money", surprising since money dominates most people's minds and lives.
+- **ejemplos:** Spiritual teachers with frail bodies; businessmen without relationships; alpha males emotionally unaligned; frog dissection.
+- **cita:** "we learn math, English, and science as singular siloed classes when knowledge is a web"
+- **terminos:** siloed; knowledge is a web
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-098
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 1:43-3:11, 2025-10-19
+- **tension:** ninguna
+
+## U-024-101
+- **tipo:** framework
+- **titulo:** Human 3.0 structure: quadrants → levels → phases → traits, plus channels, glitches, archetypes and metatypes
+- **desarrollo:** Overview of the model (shown as a graph; visual layout only partly reconstructible from the transcript). (1) Four quadrants: mind, body, spirit, vocation. (2) Three levels of development within each: Human 1.0, 2.0, 3.0 (colored red, blue, green; low, mid, high consciousness). (3) Within each level, three phases to reach the next: dissonance, uncertainty, discovery. (4) To advance through phases you acquire traits: knowledge, experience, skill. "It goes traits to phases, phases to levels, levels across all quadrants." (5) Channels (curly brackets on the graph): ways to accelerate through levels. (6) Glitches: tactics/technologies to force a channel or bust plateaus. (7) Archetypes: your level pattern within a quadrant; (8) Metatype: the synthesis of your four archetypes. You map your level in each quadrant (archetype), then your overall development (metatype), then aim toward "a 3.0 plus level metatype, one who has maximized all areas of life". The map "prevents partial thinking and doesn't reduce problems to one perspective".
+- **ejemplos:** ninguno
+- **cita:** "so it goes traits to phases, phases to levels, levels across all quadrants"
+- **terminos:** quadrants; levels; phases; traits; channels; glitches; archetypes; metatypes; Human 1.0/2.0/3.0
+- **origen:** adaptada-de:Ken Wilber (AQAL), Spiral Dynamics, nine stages of ego development
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-098
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 3:11-6:52, 20:49, 2025-10-19
+- **tension:** ninguna
+
+## U-024-102
+- **tipo:** framework
+- **titulo:** The four quadrants: mind (personal interior), body (personal exterior), spirit (collective interior), vocation (collective exterior)
+- **desarrollo:** The four quadrants represent the four domains of life, or "the four fundamental perspectives, as Ken Wilber says", that allow a generalized map of reality. Mind: thoughts, emotions, beliefs, internal world; how you interpret the world; the personal interior subjective world. Body: personal exterior — behavior and appearance; "how the world interprets you", your habits and actions. Spirit: collective mental/interior world — your relationship to environment, community, culture, family, friends, colleagues and reality; "the domain of meaning and connection". Vocation: collective physical/external world — relationship to systems, structures and social institutions; education, career and economy; how you contribute to society ("vocational is like business or how you contribute to the world"). Adapted from Ken Wilber's AQAL model; he refers to his video "This Mental Model Will Help You Think Like a Genius".
+- **ejemplos:** ninguno
+- **cita:** "so you have personal interior, personal exterior, collective interior, collective exterior"
+- **terminos:** mind; body; spirit; vocation; four quadrants; AQAL
+- **origen:** adaptada-de:Ken Wilber (AQAL)
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-101
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 4:03-5:58, 9:04, 2025-10-19
+- **tension:** ninguna
+
+## U-024-103
+- **tipo:** principio
+- **titulo:** Don't solve a problem with the wrong quadrant: each domain's model causes pain when applied to other domains
+- **desarrollo:** "An internal mental problem may not be best solved by vocational means like getting a new job. A spiritual problem may not be best solved by bodily means like nutrition. A capitalist and Christian are developed in their respective domains, but will experience unnecessary pain when trying to apply their model to problems within other domains. Money often doesn't solve for meaning and vice versa, but that doesn't mean they aren't intimately connected." All domains overlap; developing in all of them lets you "become in control of your future".
+- **ejemplos:** New job for a mental problem; nutrition for a spiritual problem; capitalist vs Christian.
+- **cita:** "money often doesn't solve for meaning and vice versa, but that doesn't mean they aren't intimately connected"
+- **terminos:** partial thinking
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-102
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 5:58-6:52, 2025-10-19
+- **tension:** ninguna
+
+## U-024-104
+- **tipo:** argumento
+- **titulo:** Life is problem-solving: life unfolds toward complexity, and ordered structures are created to contain that chaos (the seed and flower)
+- **desarrollo:** "Since life, development, and evolution follow a general unfolding toward more chaos or complexity, and ordered structures are created to contain that chaos, we can call the process of life, especially your personal life, problem-solving." A seed unfolds into a flower, many times more complex, needing resources from its environment to self-develop. The seed has a natural desire to grow and, through evolution, solved the problems that killed other plant species. One may not think the seed consciously solves problems, but we label its behavior that way because we have language; seeds don't. So "there is a natural flow of life toward greater complexity. Complexity introduces problems, and to constrain the entropy that stems from complexity, an ordered structure must emerge through creation." He admits this is "starting off a bit deep" and recommends rewatching a week later, since the pattern "can be noticed and observed across all planes of reality".
+- **ejemplos:** Seed becoming a flower.
+- **cita:** "complexity introduces problems, and to constrain the entropy that stems from complexity, an ordered structure must emerge through creation"
+- **terminos:** complexity; entropy; ordered structure; problem-solving
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-024-065
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 6:52-8:11, 2025-10-19
+- **tension:** ninguna
+
+## U-024-105
+- **tipo:** proceso
+- **titulo:** The personal evolution loop: desire → step into the unknown → chaos → acquire knowledge/skill or stagnate → identity expands → repeat
+- **desarrollo:** Applied to personal growth: (1) you have the desire to reach your potential; (2) you take a step into the unknown and are introduced to complexity or chaos; (3) you acquire knowledge and skill to solve the problems preventing forward movement — or stagnate and "let chaos consume you"; (4) your identity expands and ascends to a new level; (5) the process repeats "unless you get stuck".
+- **ejemplos:** ninguno
+- **cita:** "then, your identity expands and ascends to a new level. And then the process repeats unless you get stuck"
+- **terminos:** step into the unknown; complexity or chaos; identity expands
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-104
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 8:11, 2025-10-19
+- **tension:** ninguna
+
+## U-024-106
+- **tipo:** framework
+- **titulo:** Cross-quadrant unlock patterns: problems in one domain are often blocked by lack of development in another
+- **desarrollo:** Since growth is solving problems, "life problems within a specific domain are often blocked by a lack of development in another". Unlocks as listed: body unlocks spirit (physical vitality creates energy for deeper connections and presence); mind unlocks vocation (mental clarity reveals authentic career paths and creative solutions); vocation unlocks body (financial stability enables investment in health and training); spirit unlocks mind (community support provides safety to question beliefs); body unlocks mind (exercise and nutrition directly impact cognitive function); mind unlocks spirit (self-awareness enables genuine intimacy and connection). Implication: an ambitious person focused only on money/business "can only get so far in business when other areas of your life fall down".
+- **ejemplos:** Ambitious entrepreneur neglecting mind, body, spirit.
+- **cita:** "life problems within a specific domain are often blocked by a lack of development in another"
+- **terminos:** cross-quadrant unlock patterns
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-102
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 9:04-9:54, 2025-10-19
+- **tension:** ninguna
+
+## U-024-107
+- **tipo:** metáfora
+- **titulo:** The skill tree: skills on the right stay grayed out until you unlock the right sequence — you don't know what you're capable of in business
+- **desarrollo:** In a video game skill tree, choosing a skill creates branches to others, but some remain grayed out until you hit the right level and unlock the right sequence. So "you don't even know what you're capable of in business or how far you can go or how much you're missing out on because you haven't prioritized any part of your mind, your body, or your spirit. You're just focused on vocation."
+- **ejemplos:** Video game skill tree.
+- **cita:** "you don't even know what you're capable of in business or how far you can go"
+- **terminos:** skill tree; grayed out
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-106
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 9:54-10:45, 2025-10-19
+- **tension:** ninguna
+
+## U-024-108
+- **tipo:** caso
+- **titulo:** Superhuman 90: a 90-day non-business reset combining training, nutrition, dopamine detox, monk mode and lifestyle redesign
+- **desarrollo:** (Product with method content.) Dan Koe always had an obsession with health and fitness but never knew how to fit it into a productivity/business/philosophy brand without "go beast mode" masculine aura that wouldn't motivate people. So he built Superhuman 90, "a 90-day reset, a complete reset on your life, but not in the business domain". He worked with his trainer Randy on training and nutrition (spreadsheet to map weights, how to track, how to get in the gym, feel confident and not feel stared at), plus a dopamine detox side, monk mode side and lifestyle redesign side. Structure: first dissect your psyche to understand motivations; turn that into fuel to commit for 90 days of change; at the end, transformation of mind and body. The landing page maps day 1 through day 90: what each milestone feels and looks like, what happens to brain and body. Later he lists its protocols: dopamine detox protocol, nutrition protocol, lifestyle design protocol, training program ("the one that I personally use").
+- **ejemplos:** Trainer Randy; weight-tracking spreadsheet; day 1-90 milestone landing page.
+- **cita:** "this is just a 90-day reset, a complete reset on your life, but not in the business domain"
+- **terminos:** Superhuman 90; dopamine detox; monk mode; lifestyle redesign
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-024-106
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 10:45-12:16, 22:29-23:12, 2025-10-19
+- **tension:** ninguna
+
+## U-024-109
+- **tipo:** fuente-de-tercero
+- **titulo:** Levels adapted from developmental psychology: Spiral Dynamics and the nine stages of ego development (impulsive to unitive)
+- **desarrollo:** The three macro levels (low, mid, high consciousness) were "adapted from various models in developmental psychology like Spiral Dynamics" and "the nine stages of ego development from impulsive to unitive" (discussed in his "how to become more intelligent than 99% of people" video). These models show that "our mind, which is our values, beliefs, and worldview that influence how we think and make decisions, evolves through predictable stages over time". Spiral Dynamics also describes how individuals shift focus between self and other during development (e.g., rejecting the religion you grew up in to embrace individual atheism), which justifies his three-stage design. The ego-development model's author is not named in the transcript.
+- **ejemplos:** Rejecting childhood religion for atheism.
+- **cita:** "our mind... evolves through predictable stages over time"
+- **terminos:** Spiral Dynamics; nine stages of ego development; impulsive; unitive
+- **origen:** adaptada-de:Spiral Dynamics; adaptada-de:nine stages of ego development (autor no nombrado)
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-101
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 12:16-12:59, 13:52-14:28, 2025-10-19
+- **tension:** ninguna
+
+## U-024-110
+- **tipo:** definición
+- **titulo:** Human 1.0, the conformist: low consciousness, values authority and tradition, black-and-white thinking, "one right way"
+- **desarrollo:** Level one, "the conformist stage", is the low consciousness way of thinking. These people value established authority and tradition. Characterized by narrow-mindedness, black and white thinking, and believing there is only one right way, often stemming from childhood conditioning.
+- **ejemplos:** Bible thumpers (spirit level 1); someone who thinks AI is purely evil (vocation level 1).
+- **cita:** "believing there's only one right way, which often stems from childhood conditioning"
+- **terminos:** Human 1.0; conformist; low consciousness
+- **origen:** adaptada-de:developmental psychology (Spiral Dynamics, ego development)
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-109
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 12:59, 2025-10-19
+- **tension:** ninguna
+
+## U-024-111
+- **tipo:** definición
+- **titulo:** Human 2.0, the individualist: rejects the norm, pursues own goals and status, but believes their way is the one right way
+- **desarrollo:** Human 2.0, mid consciousness, "the individualist", rejects the norm and pursues their own goals; desires to acquire status and be perceived as valuable. Less narrow-minded, "but now believe that their way is the one right way". Dan Koe estimates "80 to 90% of the entire population falls within those two stages" (1.0 and 2.0).
+- **ejemplos:** ninguno
+- **cita:** "they are less narrow-minded, but now believe that their way is the one right way"
+- **terminos:** Human 2.0; individualist; mid consciousness
+- **origen:** adaptada-de:developmental psychology
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-110
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 12:59-13:52, 2025-10-19
+- **tension:** En otro video del lote estima "95%" de la población viviendo robóticamente (U-024-033); aquí 80-90% entre niveles 1 y 2.
+
+## U-024-112
+- **tipo:** definición
+- **titulo:** Human 3.0, the synthesist: adopts multiple perspectives, connects patterns, strategizes new paths; narrow-mindedness becomes intentional
+- **desarrollo:** Level three, high consciousness, "the synthesist". Able to adopt multiple perspectives, connect various patterns of reality, and strategize new paths. "They understand that all perspectives hold truths that can be synthesized for more holistic and mutually beneficial results." They can display what may seem like level-one traits such as narrow-mindedness, "but it is an intentional choice to tune out noise" (linked to the pre/trans fallacy). Reaching level three "just makes life that much better".
+- **ejemplos:** 3.0 in vocation leveraging AI for life's work.
+- **cita:** "they understand that all perspectives hold truths that can be synthesized"
+- **terminos:** Human 3.0; synthesist; high consciousness; tune out noise
+- **origen:** adaptada-de:developmental psychology
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-111
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 13:52, 2025-10-19
+- **tension:** ninguna
+
+## U-024-113
+- **tipo:** concepto
+- **titulo:** Levels are per quadrant: you can be level 3 in body and level 1 in mind (the meathead; the smart but amoral person)
+- **desarrollo:** Leveling up happens per quadrant; "you're not just leveling up through all of the above unless you're trying to do that. Most people are leveling up a little bit in one." Someone can be level two or three in body but have a level one mind: "the typical meathead", a person who loves fitness "but is just dumb as a rock". Or spiritually underdeveloped but very smart — "maybe you get the Hitler scenario where they're very smart people, they just have zero morals". Level descriptions take different shapes per quadrant: a 3.0 synthesist in vocation (lower right) leverages AI to pursue life's work while a 1.0 conformist believes AI is purely evil due to lack of knowledge, skill and experience; in body (upper right), low consciousness means no understanding of nutrition, leading to obesity and sloth, while high consciousness understands how nutrients interact and tweaks diet to serve goals.
+- **ejemplos:** Meathead; Hitler scenario; AI in vocation; nutrition in body.
+- **cita:** "someone can easily be a level two or level three in body, but have a level one mind"
+- **terminos:** quadrant levels; upper right; lower right
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-112
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 14:28-15:55, 2025-10-19
+- **tension:** ninguna
+
+## U-024-114
+- **tipo:** metáfora
+- **titulo:** Levels as video game roles: NPC running a script, main character choosing their storyline, programmer creating new games
+- **desarrollo:** Levels "represent your complexity of self in any given domain. The entire Human 3.0 graph is you." The more complex you are, by cultivating perspective and expanding consciousness, the more interesting life becomes, because you can choose the challenges you take on. "Level one is similar to an NPC or non-player character running on a script. Level two is the main character choosing their storyline, and level three is the programmer who can create new games that others also enjoy playing."
+- **ejemplos:** NPC, main character, programmer.
+- **cita:** "level three is the programmer who can create new games that others also enjoy playing"
+- **terminos:** complexity of self; NPC; main character; programmer
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-112
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 15:55, 2025-10-19
+- **tension:** ninguna
+
+## U-024-115
+- **tipo:** advertencia
+- **titulo:** Higher levels aren't "better": everyone starts at level zero (survival instinct); family background gives a head start or more conditioning to undo
+- **desarrollo:** "Lower or higher levels aren't bad or good. They are points of development along someone's journey." Everyone starts at level zero, "pure survival instinct", then grows and learns. Born into a good family, you have a head start; born into a bad family, you have "a lot of conditioning to undo yourself". "A person who is high consciousness is not somehow better, they're just more developed, and that development obviously has its perks."
+- **ejemplos:** ninguno
+- **cita:** "a person who is high consciousness is not somehow better, they're just more developed"
+- **terminos:** level zero; pure survival instinct
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-114
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 15:55-16:43, 2025-10-19
+- **tension:** ninguna
+
+## U-024-116
+- **tipo:** principio
+- **titulo:** Transcend and include: you never leave a level; lower levels become tools in your toolbox
+- **desarrollo:** "You never leave any given level... You transcend and include. A level one perspective becomes a tool in your toolbox when you transcend to level two and so on." Being "wholly level three" doesn't mean you won't get angry, act out, be human or do stupid things, "because you are still part level one and level two". With a knife to your throat you tap into level zero/one thinking — pure survival instinct: "you're going to turn into an animal for a second", fight, flight or freeze. (The phrase "transcend and include" is used without attribution in this transcript.)
+- **ejemplos:** Knife to the throat → survival instinct.
+- **cita:** "you transcend and include. A level one perspective becomes a tool in your toolbox"
+- **terminos:** transcend and include; toolbox; fight, flight, or freeze
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-115
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 16:43-17:30, 2025-10-19
+- **tension:** ninguna
+
+## U-024-117
+- **tipo:** concepto
+- **titulo:** Vertical vs horizontal development: phases move you up or down levels; traits fill the level horizontally
+- **desarrollo:** Phases "represent vertical development, which is moving up a level or regressing back down". Traits are "horizontal development". "You kind of need to fill the space of the level vertically and horizontally so that you can move to the next one."
+- **ejemplos:** ninguno
+- **cita:** "you kind of need to fill the space of the level vertically and horizontally"
+- **terminos:** vertical development; horizontal development; phases; traits
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-101
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 17:57, 2025-10-19
+- **tension:** ninguna
+
+## U-024-118
+- **tipo:** framework
+- **titulo:** Three phases of profound change: dissonance, uncertainty, discovery
+- **desarrollo:** Three general patterns observed when an individual goes through profound change (moving levels). Phase 1, dissonance: once an individual has gotten "their taste of their current stage of life", and if they are not numbed by narrow-mindedness and comfort, they feel tired of where they are but unsure what life comes next — "this isn't the life I want to live, but I don't know what life I do want to live"; you feel lost, in a rut. Phase 2, uncertainty: if aware enough of their distaste, they take "an uncertain step into the unknown" and open themselves to new knowledge and skill — you become okay with it and understand the only thing to do is take an uncertain step and do something new. Phase 3, discovery: "like navigating a map", they discover the education, tools, resources and insights that allow them to reach the next level, new avenues to a higher potential.
+- **ejemplos:** ninguno
+- **cita:** "this isn't the life I want to live, but I don't know what life I do want to live"
+- **terminos:** dissonance; uncertainty; discovery; phases
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-117
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 17:57-19:20, 2025-10-19
+- **tension:** ninguna
+
+## U-024-119
+- **tipo:** término-acuñado
+- **titulo:** False transformation: wearing the mask of a higher level, which prolongs development because the real problems collect dust
+- **desarrollo:** "A false transformation is when someone puts on the mask showing that they are at a higher level of development when they really aren't, and by doing so, they prolong their development and growth even more." Acting higher than they are, they don't solve the problems keeping them lower, "and then those things start to collect dust and actually pull them down". Examples: aesthetic without function (perfect gym selfies but can't perform basic athletic movements); spiritual materialism (collecting practices, teachers and experiences as status symbols); title inflation (startup people proudly calling themselves CEO of a company that hasn't made any money — transcribed as "tool inflation"); tool obsession (believing the latest productivity app or AI will solve fundamental work ethic issues — "that one hurts"). Also: some people with fat personal trainer syndrome think "being fat is being healthy"; and the longevity trend (see U-024-133).
+- **ejemplos:** Gym selfies without function; spiritual materialism; CEO of a zero-revenue company; productivity app obsession.
+- **cita:** "they don't actually solve the problems that are keeping them lower, and then those things start to collect dust and actually pull them down"
+- **terminos:** false transformation; aesthetic without function; spiritual materialism; tool inflation (ambiguo: posiblemente "title inflation"); tool obsession
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-118
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 19:20-19:56, 21:44, 2025-10-19
+- **tension:** ninguna
+
+## U-024-120
+- **tipo:** principio
+- **titulo:** An enjoyable life resides in progressing through the phases by overcoming resistance; intentional vision makes the chaos tolerable
+- **desarrollo:** "An enjoyable life, as shown in flow psychology and the musings of many philosophers such as Nietzsche, resides in the progression through these phases by overcoming resistance. Profound change rarely happens by accident." When you are intentional about your vision, goals and priorities without regressing through distractions and comfort, the chaos that would consume most people during these phases becomes tolerable "and often the most fulfilling parts of life that you hold close to your heart". At level three and beyond, individuals can pursue more complex challenges and "simulate these phases for the love of the game", like a CEO who sells their company, becomes depressed, and starts another from a more enlightened view; since they create the game, "it becomes infinite".
+- **ejemplos:** CEO who sells company, gets depressed, starts another.
+- **cita:** "profound change rarely happens by accident"
+- **terminos:** overcoming resistance; for the love of the game; infinite game
+- **origen:** adaptada-de:flow psychology; adaptada-de:Friedrich Nietzsche
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-118
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 19:56-20:49, 2025-10-19
+- **tension:** ninguna
+
+## U-024-121
+- **tipo:** concepto
+- **titulo:** Traits — knowledge, experience, skill — must be acquired before the next level reveals itself; knowledge fits uncertainty, practice fits discovery
+- **desarrollo:** "The traits, knowledge, skill, and experience must be acquired before the next level reveals itself to you." A common imbalance: knowledge without experience or experience without knowledge — "fat personal trainer syndrome": very knowledgeable in fitness but hasn't practiced or developed the skill or experience to reflect it in their physique. Mapping to phases: in uncertainty, stepping into the unknown, "you need to learn" — that's what helps with uncertainty, because you lack clarity. In discovery, when you're clearer, "you need to practice. You need to build something of your own toward a goal you're trying to achieve."
+- **ejemplos:** Fat personal trainer syndrome.
+- **cita:** "the traits, knowledge, skill, and experience must be acquired before the next level reveals itself to you"
+- **terminos:** traits; knowledge; experience; skill; fat personal trainer syndrome
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-118
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 20:49-22:29, 2025-10-19
+- **tension:** ninguna
+
+## U-024-122
+- **tipo:** término-acuñado
+- **titulo:** Channels: a rabbit hole of knowledge or skill (like a flow state or exciting quest) that accelerates development through a level
+- **desarrollo:** Channels (drawn as curly brackets on the graph) are "how you accelerate through your development". Think of a channel as "an exciting quest in a video game, a rabbit hole of knowledge or skill" — when you can't stop researching a topic or working on a project and time passes surprisingly fast; like a flow state. Examples by quadrant. Mind: becoming immersed in a deep meditative state (skill); following a line of thought that keeps you up at night, producing a plethora of ideas (knowledge). Body: finding a new diet, supplement or methodology and binge-watching all content about it (knowledge); becoming obsessed with running or lifting for a three-month period, making more gains than ever (skill). Spirit: mystical experiences, honeymoon phases, intimate moments, finding a philosophy that clicks with your current phase. Vocation: reaching maximum clarity that quickly leads to an exciting career change, product launch or creative stint (skill); finding the perfect opportunity and being unable to stop learning the skills to start a business (knowledge). You can tell someone is in a channel by how excited they are talking about it — like someone writing a book "where the words can't stop flowing".
+- **ejemplos:** Meditation, late-night line of thought, diet rabbit hole, 3-month lifting obsession, mystical experience, product launch, book writing.
+- **cita:** "you can think of a channel as an exciting quest in a video game, a rabbit hole of knowledge or skill"
+- **terminos:** channels; rabbit hole; flow state
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-121
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 21:44-23:45, 2025-10-19
+- **tension:** ninguna
+
+## U-024-123
+- **tipo:** proceso
+- **titulo:** How to enter a channel: acclimate, reach dissonance, use distaste as fuel, set an aim in one quadrant, learn and do, refine, experiment until sucked in
+- **desarrollo:** (1) Reach the dissonance phase after fully acclimating to your current level. (2) Once tired of where you are, and if you don't become numb to your problems, "use your distaste as fuel to push into the unknown". (3) Create an aim, vision or goal within a specific quadrant, like body. (4) Begin acquiring knowledge and skill: learn and do. (5) Make mistakes and refine your aim. (6) Experiment enough until you find the channel you get sucked into. Then vision plus skill and knowledge provide clarity "that allows them to shoot forward in progress".
+- **ejemplos:** Writer in flow on a book.
+- **cita:** "you use your distaste as fuel to push into the unknown"
+- **terminos:** channel; dissonance; distaste as fuel; aim
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-122
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 23:45-24:30, 2025-10-19
+- **tension:** ninguna
+
+## U-024-124
+- **tipo:** heurística
+- **titulo:** When lost or in a rut, try more things: search for excitement and enthusiasm and pursue them without shame
+- **desarrollo:** In a dissonance phase, feeling lost or stuck in a rut, "the best advice I can give is to try more things. Try new things." To make it more complex: "you search for excitement and enthusiasm and pursue those things without shame, because that shame signals a lower level of mind, and you can develop the skill of confidence during that".
+- **ejemplos:** ninguno
+- **cita:** "you search for excitement and enthusiasm and pursue those things without shame"
+- **terminos:** dissonance phase; excitement and enthusiasm; lower level of mind
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-118
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 24:30, 2025-10-19
+- **tension:** ninguna
+
+## U-024-125
+- **tipo:** término-acuñado
+- **titulo:** Glitches: tactics or technologies that force you into a channel or bust developmental plateaus (glitches in the matrix of levels 1 and 2)
+- **desarrollo:** "One aspect of Human 3.0 that very few models talk about, and I call them glitches." Like a glitch in the matrix — "if the matrix were boundaries of level one and two until you create your own in level three" — they are tactics to force yourself into a channel or bust through plateaus, often using technology. Examples: psychedelics can force a mystical experience; PEDs accelerate fitness progress (Lance Armstrong, The Rock, "Thor"); moving into an apartment you can't afford to create a real deadline, forcing you to learn and do until your side business works — "tactical stress, a tool to kick you into an intense season of progress". "AI is the most recent and widely available glitch that crosses into all domains, and it can be used to self-develop or self-destruct rapidly."
+- **ejemplos:** Psychedelics; PEDs; unaffordable apartment; AI.
+- **cita:** "AI is the most recent and widely available glitch that crosses into all domains"
+- **terminos:** glitches; glitch in the matrix; tactical stress; season of progress
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-024-122
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 24:30-25:55, 2025-10-19
+- **tension:** ninguna
+
+## U-024-126
+- **tipo:** advertencia
+- **titulo:** Glitches increase in risk at lower levels of consciousness: max out natural potential first so you don't get one-shotted
+- **desarrollo:** "This is why taste and discernment is required. AI is only pure good or pure evil from a limited level one perspective." Even if glitches accelerate progress, "they increase in risk at lower levels of consciousness". Psychedelics without prior experience to interpret the altered state: "you may go insane". PEDs from an uneducated state without risk mitigation: "you're going to die early of heart failure". "AI psychosis and outsourcing your mind to AI is becoming more prevalent, not because AI is bad, but because it's like taking steroids": if you haven't built a base, studied all domains of nutrition, understood interactions and trained five-plus years (metaphorically), AI will have nasty side effects. Many high-reward mechanisms come at a cost no matter how careful you are; for certain people with certain goals, one can consciously take that risk; "for most people, especially in level one, they're death sentences". "Max out your natural potential first, so you have ample experience and don't get one-shotted."
+- **ejemplos:** Psychedelics → insanity; PEDs → heart failure; AI psychosis as steroids without a base.
+- **cita:** "max out your natural potential first, so you have ample experience and don't get one-shotted"
+- **terminos:** taste and discernment; AI psychosis; outsourcing your mind to AI; one-shotted; natural potential
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-024-125
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 25:55-26:46, 2025-10-19
+- **tension:** ninguna
+
+## U-024-127
+- **tipo:** definición
+- **titulo:** Archetype vs metatype: a pattern of people at a level within a quadrant vs the synthesis of one person's four archetypes
+- **desarrollo:** "An archetype is a pattern of people that show up in a specific quadrants and levels within those quadrants. Metatypes are the synthesis of a single person's four archetypes within each quadrant." There is a general progression from low to high consciousness within a quadrant: NPC → player → creator (mind); incel → Chad → sigma (body); religion → atheism → mysticism (spirit); job → career → calling (vocation).
+- **ejemplos:** See U-024-128.
+- **cita:** "metatypes are the synthesis of a single person's four archetypes within each quadrant"
+- **terminos:** archetype; metatype
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-101
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 26:46-27:23, 2025-10-19
+- **tension:** ninguna
+
+## U-024-128
+- **tipo:** framework
+- **titulo:** Main archetype progressions per quadrant: NPC-player-creator; incel-Chad-sigma; religion-atheism-mysticism; job-career-calling
+- **desarrollo:** Mind: NPC (running on a script) → player (level 2) → creator (level 3). Body: incel ("kind of skinny-fat body") → Chad ("only focused on vanity") → sigma ("has a developed body but has tacked on a philosophical sense of mastery behind their actual fitness and health"). Vocation: job → career → calling. Spirit ("this one's going to make some people angry"): religion → atheism → mysticism.
+- **ejemplos:** ninguno
+- **cita:** "a sigma who has a developed body but has tacked on a philosophical sense of mastery"
+- **terminos:** NPC; player; creator; incel; Chad; sigma; job; career; calling; religion; atheism; mysticism
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-127
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 27:23-28:02, 2025-10-19
+- **tension:** ninguna
+
+## U-024-129
+- **tipo:** fuente-de-tercero
+- **titulo:** Ken Wilber's pre/trans fallacy: confusing pre-rational (level 1) with trans-rational (level 3) because both look non-rational from level 2
+- **desarrollo:** "The pre/trans fallacy by Ken Wilber... occurs when people confuse pre-rational or level one states with trans-rational or level three states, because both appear non-rational from a conventional rational or level two perspective." One can elevate a level-one primitive state to level-three status, and some reduce genuine level-three development to primitive thinking. Example: in religion, level one are "the Bible thumpers" — submit to authority, never question. Level three is mysticism or a more enlightened Christianity (religion/ideology agnostic). Dan Koe's point: most level-three characteristics and principles you live by "are going to also be found in the level one style of thinking. You just don't submit to the authority, and you came to that conclusion on your own." He references the bell-curve-style meme (level 1 and 3 think similarly, level 2 objects) as "the most true meme that has ever came out". Also explains why level-3 people may look narrow-minded: intentional noise filtering.
+- **ejemplos:** Bible thumpers vs mystics; the midwit meme.
+- **cita:** "you just don't submit to the authority, and you came to that conclusion on your own"
+- **terminos:** pre/trans fallacy; pre-rational; trans-rational
+- **origen:** de-tercero:Ken Wilber
+- **nivel:** avanzado
+- **prerrequisitos:** U-024-112
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 28:02-29:47, 13:52, 2025-10-19
+- **tension:** ninguna
+
+## U-024-130
+- **tipo:** ejemplo
+- **titulo:** Example metatype "the outlier": 4 points red, 8 blue, 12 green → overall Human 2.0, drifted from mainstream without rebellion
+- **desarrollo:** On the graph Dan Koe mapped sample points (white area): four points in the red area, eight in the blue, twelve in the green. "Overall, this person at this level of development is human 2.0, and the metatype we came up with is called the outlier": "someone who has drifted away from mainstream patterns without rebellion and is operating from a countercultural lens". How points are assigned or scored is not explained in the transcript (ambiguous; refers to the metatype prompt). Note: despite more green points, the overall classification is 2.0 — the aggregation logic is unclear from the transcript.
+- **ejemplos:** The outlier.
+- **cita:** "someone who has drifted away from mainstream patterns without rebellion and is operating from a countercultural lens"
+- **terminos:** metatype; the outlier
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-024-127
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 29:01-29:47, 2025-10-19
+- **tension:** ninguna
+
+## U-024-131
+- **tipo:** framework
+- **titulo:** Potential archetypes for mind and body by level
+- **desarrollo:** Mind — Level 1: program, sleeper, follower, repeater, echo ("just like echoing what they've heard"). Level 2: questioner, skeptic, contrarian, philosopher, analyst. Level 3: synthesizer, architect, oracle, systems thinker, meta-mind. Body — Level 1: couch potato, skinny fat, walking dead, mall walker, diet hopper. Level 2: gym bro, cardio bunny, biohacker, athlete, orthorexic. Level 3: integrated mover, physical artist, body master, longevity optimizer. He notes "these aren't specific to any level, these are just examples" (said after the body list; meaning ambiguous — likely that they're illustrative, not definitive).
+- **ejemplos:** ninguno
+- **cita:** "these aren't specific to any level, these are just examples"
+- **terminos:** archetypes (lista)
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-024-127
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 29:47-30:33, 2025-10-19
+- **tension:** ninguna
+
+## U-024-132
+- **tipo:** framework
+- **titulo:** Potential archetypes for spirit and vocation by level
+- **desarrollo:** Spirit — Level 1: true believer, fundamentalist, tribalist, tradition keeper, blind faith. Level 2: spiritual shopper, nihilist, hedonist, new age wanderer, militant atheist. Level 3: bridge builder, sacred secular, modern mystic, community weaver, integral. Vocation — Level 1: clock puncher, wage slave, complainer, cog. Level 2: hustler, wantrepreneur, freelancer, ladder climber, side gigger. Level 3: mission driven, system builder, value creator, Renaissance professional, game designer.
+- **ejemplos:** ninguno
+- **cita:** ninguna
+- **terminos:** archetypes (lista)
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-024-127
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 30:33-31:37, 2025-10-19
+- **tension:** ninguna
+
+## U-024-133
+- **tipo:** opinión
+- **titulo:** The longevity trend is the new status game and prone to false transformation
+- **desarrollo:** About the body level-3 archetype "longevity optimizer": "this one is big on false transformations". "Everyone is hopping on the longevity game now. It's the new status game." He argues "most people hopping on the Brian Johnson longevity optimization aren't optimizing their longevity at all and aren't thinking for themselves".
+- **ejemplos:** Brian Johnson followers.
+- **cita:** "everyone is hopping on the longevity game now. It's the new status game."
+- **terminos:** false transformation; status game; longevity optimizer
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-024-119
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 30:33, 2025-10-19
+- **tension:** ninguna
+
+## U-024-134
+- **tipo:** principio
+- **titulo:** The ultimate goal: a lifestyle where all quadrants are accounted for through problem-solving
+- **desarrollo:** How to move up and balance development when one quadrant (e.g., a 9-5) exhausts your focus and energy: "The ultimate goal is to create a lifestyle where all quadrants are accounted for through problem-solving." If vocation consumes so much time that your mind is distraught, you're too drained for body and can't entertain spirit, "that is an obvious problem that you must attempt to solve through knowledge and skill acquisition, creating the chance for a channel or flow state or season of progress". E.g., study business opportunities an hour every day and make some time for practice. It may take longer than for others, but once you move through the phases you feel more confident you can decrease or eliminate the job taking your time.
+- **ejemplos:** 9-5 worker studying business one hour a day.
+- **cita:** "the ultimate goal is to create a lifestyle where all quadrants are accounted for through problem-solving"
+- **terminos:** season of progress; channel
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-106
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 31:37-32:26, 2025-10-19
+- **tension:** ninguna
+
+## U-024-135
+- **tipo:** argumento
+- **titulo:** Choose the highest-leverage skill: writing is media, media is leverage, and writing is the foundation of almost all business work
+- **desarrollo:** Understand "what the highest lever moving skills are" and base opportunities on them. His business "is built off of two hours of writing in the morning, that's my entire routine", because "writing is media and digital media is leverage because one person can write it and a million people can see it". Writing is also a way to clarify thoughts, journal, learn and research. Almost everything in business — landing pages, content, captions, ads, video scripts — has writing as the foundation. "If you choose a skill that isn't as holistic, then it's going to take a lot longer to see results." That's why he created "Two-Hour Writer" (his systems), which "almost 30,000 people have bought".
+- **ejemplos:** Two hours of writing each morning; Two-Hour Writer, ~30,000 buyers.
+- **cita:** "writing is media and digital media is leverage because one person can write it and a million people can see it"
+- **terminos:** leverage; holistic skill; Two-Hour Writer
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-134
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 32:26-33:17, 2025-10-19
+- **tension:** ninguna
+
+## U-024-136
+- **tipo:** principio
+- **titulo:** Solving one problem makes another apparent: the next business level may require body, mind or spirit development
+- **desarrollo:** As you solve a problem that takes from other quadrants, "that shift may make another problem more apparent". If you're starting a business but still low energy, it's hard to land customers, write well or have great ideas. "Reaching the next level of business may not require more development in business, but in solving problems related to the body, mind, or spirit." Even with an incredible business and all the money in the world, "you can have a hole in the middle of your chest due to a lack of meaning in your vocational pursuits". By the nature of problem-solving and staying vigilant of distractions that prevent you from noticing problems, "you create a lifestyle where work becomes play, health is your default state, meaning is abundant, and your mind is on your side".
+- **ejemplos:** Low-energy founder struggling to sell and write.
+- **cita:** "you create a lifestyle where work becomes play, health is your default state, meaning is abundant, and your mind is on your side"
+- **terminos:** hole in the middle of your chest
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-106
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 33:17-34:01, 2025-10-19
+- **tension:** ninguna
+
+## U-024-137
+- **tipo:** método
+- **titulo:** Study Human 3.0 with AI: paste the knowledge base into an AI project and question it; use the metatype prompt to be interviewed
+- **desarrollo:** To study the model on your own: get the Human 3.0 knowledge base, copy-paste it into AI or an AI project, and start asking it questions. To find your metatype: send the metatype prompt into Claude or ChatGPT; it asks you questions and breaks it down. Anecdote: a business partner/close friend plugged it in "and it made him cry because it went that deep".
+- **ejemplos:** Friend who cried using the metatype prompt.
+- **cita:** "it made him cry because it went that deep"
+- **terminos:** knowledge base; metatype prompt
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-024-127
+- **fuente:** A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md, 34:01-34:47, 2025-10-19
+- **tension:** ninguna
+
+# Fuente: How To Completely Reinvent Yourself In 6-12 Months.md (2026-05-02)
+
+## U-024-138
+- **tipo:** opinión
+- **titulo:** In your 20s the people around you stop believing in themselves — you can't save them; don't let it infect your mind
+- **desarrollo:** "At some point, usually in your 20s, you'll notice that the people around you stop believing in themselves. And no matter how hard you try, you can't save them. By all means, do not let it infect your mind. Stay on your path." Dan Koe says the more he mulled over this thought, the deeper the problem went.
+- **ejemplos:** ninguno
+- **cita:** "no matter how hard you try, you can't save them. By all means, do not let it infect your mind."
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 0:00, 2026-05-02
+- **tension:** ninguna
+
+## U-024-139
+- **tipo:** concepto
+- **titulo:** The vicious motivation cycle of 20-35 year olds: external motivation, go all in, fall off in days, repeat for years
+- **desarrollo:** People between 20 and 35 get trapped in a vicious cycle: motivated by an external source (a video, book, conversation), they feel "this is your moment" and go all in — start the business, start working out, start learning a skill. Then "like clockwork, 2 days, a week, 2 weeks later, you fall off". You easily go back to the life you swore you despised, as if addicted to it, as if you preferred it, "as if the desire to change your life was just another form of cheap dopamine that you couldn't resist". You get another hit of motivation, start from zero, repeat; frustrated "but not enough to solidify the change". Then you wake up 1, 2, 10 years later. Another video on productivity, self-help, motivation, discipline or dopamine "isn't even going to solve half the problem": we need to understand "the composition of the mind" — how the intangible parts of your mind act "like a puppet master over your actions".
+- **ejemplos:** Starting a business/workout/skill and falling off within two weeks.
+- **cita:** "as if the desire to change your life was just another form of cheap dopamine that you couldn't resist"
+- **terminos:** vicious cycle; cheap dopamine; composition of the mind; puppet master
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 0:00-2:03, 2026-05-02
+- **tension:** ninguna
+
+## U-024-140
+- **tipo:** principio
+- **titulo:** The admirable trait: work with tremendous intensity on what matters and be strangely unbothered when it doesn't work out
+- **desarrollo:** The goal of the video is to adopt the traits of a highly successful person, specifically "a person who works with tremendous intensity on things that matter to you, and more importantly, a person who is strangely unbothered when those things don't work out". Later: "The greatest trait you can acquire". He warns the first part is dense and many will fall off; if you try to understand rather than "hoard the knowledge like you do every other video", your life will look drastically different "in 3 to 6 to 12 months".
+- **ejemplos:** ninguno
+- **cita:** "a person who works with tremendous intensity on things that matter to you, and more importantly, a person who is strangely unbothered when those things don't work out"
+- **terminos:** tremendous intensity; strangely unbothered; hoard the knowledge
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 2:03, 31:38, 2026-05-02
+- **tension:** ninguna
+
+## U-024-141
+- **tipo:** principio
+- **titulo:** Your mind is a collection of survival strategies; survival is the engine behind every thought, emotion and action
+- **desarrollo:** "Your mind is a collection of survival strategies." "Survival is the mechanical, often unconscious, engine behind every thought, emotion, and action. Everything you think, feel, or do is rooted in survival... your entire human experience right now is directed by survival." It is "the root of what's keeping you the same". Objection: "I'm not about to be attacked by another tribe, my basic needs are met" — he's not talking about that kind of survival. "You cannot win this survival game. You can only transcend and include it. You can only learn how to play it. Trying to win this game is the ultimate source of suffering."
+- **ejemplos:** ninguno
+- **cita:** "you cannot win this survival game. You can only transcend and include it... Trying to win this game is the ultimate source of suffering."
+- **terminos:** survival strategies; survival game; transcend and include
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 2:03-3:31, 2026-05-02
+- **tension:** ninguna
+
+## U-024-142
+- **tipo:** concepto
+- **titulo:** Two types of survival: physical (reproduce genes) and psychological (reproduce the information in consciousness, preserve the non-physical identity)
+- **desarrollo:** Most people only understand the first. Physical survival: like animals, we attempt to reproduce the information in our genes; this is largely solved today (most aren't worried about being eaten or starving). Psychological survival: "we also attempt to reproduce the information in our consciousness. We feel the drive to preserve our non-physical identity, the ideas, beliefs, practices, and worldview that shape our mind."
+- **ejemplos:** ninguno
+- **cita:** "we feel the drive to preserve our non-physical identity"
+- **terminos:** physical survival; psychological survival; non-physical identity
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-141
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 3:31, 2026-05-02
+- **tension:** ninguna
+
+## U-024-143
+- **tipo:** argumento
+- **titulo:** From genes to memes: evolution selected self-replicators that built protective structures; the same process continued with units of culture
+- **desarrollo:** The gist of evolution as he gives it: billions of years ago self-replicating molecules existed; some replicated more successfully; those that built protective structures around themselves (cell walls, then cells, then multicellular bodies) replicated better. Over billions of iterations of natural selection, "we have genes that are very good at building bodies that can survive". Then human consciousness appeared ("I don't know how. Don't ask me how"), and the same process continued: genes and then memes. "What a meme really is is a unit of culture that is spread from mind to mind" — words, language, concepts, beliefs your parents passed down that you couldn't question as a kid; school's reward/punishment for grades; being told "go to school, get a job, retire at 65", which with AI accelerating "is not beneficial for your future". Many are stuck in that paradigm: the memes composing their mind aren't aligned with success today. If genes compose the body, memes do the same for the mind: ideas, beliefs, habits, practices, traditions. Memes "have naturally selected over time and culture through creation and destruction" to the point where their "sole goal is to persist", to survive, to self-replicate. "That's why the memes that compose who you are right now don't want you to change." (The meme concept is used without naming its originator in the transcript.)
+- **ejemplos:** Parents' beliefs; school grades; "go to school, get a job, retire at 65".
+- **cita:** "our bodies are built by genes to replicate genes. Our identities are built by memes to replicate memes."
+- **terminos:** genes; memes; unit of culture; self-replicate; persist
+- **origen:** adaptada-de:teoría de los memes (autor no nombrado en la transcripción)
+- **nivel:** avanzado
+- **prerrequisitos:** U-024-142
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 3:31-6:02, 8:19, 2026-05-02
+- **tension:** ninguna
+
+## U-024-144
+- **tipo:** concepto
+- **titulo:** Institutions and ideologies are survival mechanisms of memes: religions, nations, parties and corporations protect and replicate their founding beliefs
+- **desarrollo:** "One important survival mechanism of memes are institutions and ideologies." We create larger structures like religions, nations, political parties and corporations "that have the goal of protecting, perpetuating, and replicating the beliefs and values they were founded on. Religions want more members, nations want more control, and corporations want more customers." A religion telling adherents to have children and convert others spreads faster than one telling people not to have kids and stay quiet. The memes in your head, who you are, how you act, are shaped by such information and are "fighting for survival because they're like genes".
+- **ejemplos:** Proselytizing, pro-natal religion vs quiet, anti-natal one.
+- **cita:** "religions want more members, nations want more control, and corporations want more customers"
+- **terminos:** institutions; ideologies; memes
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-024-143
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 6:02-7:31, 2026-05-02
+- **tension:** ninguna
+
+## U-024-145
+- **tipo:** término-acuñado
+- **titulo:** Everything is a religion — the religionization of everything via social media
+- **desarrollo:** The meme logic applies to political ideologies, brands, conspiracy theories, jokes, fashion, video games (and the culture you identify with), coffee, alcohol, team Apple vs Android, team Claude vs ChatGPT vs anti-AI, team keto vs carnivore vs vegan, and anything else. "What you need to understand is that everything is a religion. Your morning routine is a religion. Your political opinions are a religion. Your identity as a gamer, a lifter, a minimalist, a stoic, a craft beer enthusiast, they're all religions." With social media and global access to information, "we're experiencing the religionization of everything. Very few people actually do things because they want to anymore." Almost everyone's life is built around actions that let them fit into "the digital tribe or the digital culture".
+- **ejemplos:** Apple vs Android; Claude vs ChatGPT; keto/carnivore/vegan; gamer, lifter, minimalist, stoic, craft beer enthusiast.
+- **cita:** "everything is a religion. Your morning routine is a religion."
+- **terminos:** everything is a religion; religionization of everything; digital tribe
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-143
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 7:31-9:00, 2026-05-02
+- **tension:** ninguna
+
+## U-024-146
+- **tipo:** argumento
+- **titulo:** The mind is a self-deception machine: pursuing an identity-changing goal triggers ego defenses like an addict's withdrawal or fight or flight
+- **desarrollo:** Why the motivation cycle happens: "your mind is a self-deception machine". When you pursue a goal that would fundamentally change your self-image or identity — hard to conceptualize because you think your body is you, but there is a "mental body", a composition of ideas, beliefs and worldviews conditioned by parents, teachers and peers that you never questioned or examined ("this web of ideas") — the change is hard to notice "because your mind doesn't want you to notice". The memes in your head try to survive, so "your ego starts throwing out defensive reactions left and right": anxiety, fear of failure, irrational thinking, and "the closest distraction that will give you a quick hit of comfort". "It's like an addict going through withdrawals." Those reactions are "your old identity trying to claw its way back", synonymous with fight or flight when held at gunpoint, "because your identity, or your psychological body, is trying not to die". This is natural; the human advantage is the ability to "zoom out and detach from this stuff".
+- **ejemplos:** Addict in withdrawal; being held at gunpoint.
+- **cita:** "your identity, or your psychological body, is trying not to die"
+- **terminos:** self-deception machine; mental body; psychological body; web of ideas; defensive reactions; old identity
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-143
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 9:00-10:34, 2026-05-02
+- **tension:** ninguna
+
+## U-024-147
+- **tipo:** principio
+- **titulo:** The key reversal: what if you felt threatened when you stopped pursuing a meaningful goal?
+- **desarrollo:** "This is the mind-blowing part if you get it. What if you felt threatened when you stopped pursuing a meaningful goal? So much so that achieving the meaningful goal didn't require much discipline because it's just a part of who you are. It's what your mind wants to survive." The aim is to reprogram the mind so the survival mechanism works for the goal. "You can change from a person who is threatened by success to a person who is threatened by failure" — "weaponize your survival mechanism". But you will still suffer until you transcend the game.
+- **ejemplos:** ninguno
+- **cita:** "what if you felt threatened when you stopped pursuing a meaningful goal?"
+- **terminos:** weaponize your survival mechanism; threatened by success vs threatened by failure
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-146
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 10:34, 17:01, 2026-05-02
+- **tension:** ninguna
+
+## U-024-148
+- **tipo:** concepto
+- **titulo:** The mind game: most people are slaves to their mind, and the characteristic of being a slave is not knowing it
+- **desarrollo:** "Just think of this as the mind game... the mind game of life. And most people don't play it because they are a slave to their mind. And the characteristic of being a slave to your mind is that you don't even know it." You need to become the master instead.
+- **ejemplos:** ninguno
+- **cita:** "the characteristic of being a slave to your mind is that you don't even know it"
+- **terminos:** mind game; slave to your mind
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-147
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 11:30, 2026-05-02
+- **tension:** ninguna
+
+## U-024-149
+- **tipo:** principio
+- **titulo:** Effortless self-discipline: when the desire to become your highest version outweighs the desires of your lowest version
+- **desarrollo:** "Effortless self-discipline happens when the desire to become the highest version of yourself outweighs the desires of the lowest version of yourself."
+- **ejemplos:** ninguno
+- **cita:** "effortless self-discipline happens when the desire to become the highest version of yourself outweighs the desires of the lowest version of yourself"
+- **terminos:** effortless self-discipline; highest version; lowest version
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-147
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 11:30, 2026-05-02
+- **tension:** ninguna
+
+## U-024-150
+- **tipo:** principio
+- **titulo:** Losers are afraid of success; winners are afraid of mediocrity
+- **desarrollo:** "The core difference between winners and losers is that losers are afraid of success, while winners are afraid of mediocrity." Explained through identity-threat: the person who doesn't identify as fit feels threatened when committing to health; the fit person feels threatened by the opposite.
+- **ejemplos:** See U-024-151 and U-024-152.
+- **cita:** "losers are afraid of success, while winners are afraid of mediocrity"
+- **terminos:** afraid of success; afraid of mediocrity
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-147
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 11:30-12:15, 2026-05-02
+- **tension:** ninguna
+
+## U-024-151
+- **tipo:** ejemplo
+- **titulo:** The unfit person's mind sends warning signals: partying, late-night Netflix snacks, the couch, the stick of butter
+- **desarrollo:** You may not consciously identify as unfit, "but you identify with the preferences, habits, and abilities, or the properties of the self" an unfit person would have. When you try to become healthy, your mind sends warning signals: "What happens to going out and partying with my friends? What happens to the late night snacks while watching Netflix? What happens to relaxing on the couch instead of going on a walk?" "You're telling me I can't add an entire stick of butter?" Counterfactual: if you had never had butter in your food or didn't know it existed, would you resist? Would bland food be good to you because that's all you know? When the opportunity comes to go out or add butter, can you break that ingrained pattern?
+- **ejemplos:** Partying, Netflix snacks, couch, stick of butter, bland food.
+- **cita:** "you identify with the preferences, habits, and abilities, or the properties of the self of your mind that an unfit person would have"
+- **terminos:** properties of the self; warning signals
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-150
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 12:15-13:04, 2026-05-02
+- **tension:** ninguna
+
+## U-024-152
+- **tipo:** ejemplo
+- **titulo:** The fit person at McDonald's and the businessman with falling revenue: identity threat works in the opposite direction
+- **desarrollo:** "The fit person would be threatened by the opposite. This is the key to changing your life in general", baffling the unfit person. If a fit person travels and the only place to eat is McDonald's, they "almost spontaneously combust", thinking they'll lose their gains: "I've worked so hard for this. This is who I am... If I touch this one single seed oil, then I die" — because they adopted the anti-seed-oil meme from Twitter/Instagram as identity, joined a tribe, and eating one would mean being "cast out from the tribe"; the mind, wired like ancestors', can't distinguish then from now and feels it will die, so it "fights tooth and nail" to keep them fit. Same for money: someone whose business is part of their identity "would feel like a failure if their revenue started to go down", so they'd do anything — study, learn, talk to people, find the bottleneck, implement new things, fire people, compete, copy competitors' features — and couldn't sleep until resolved. He admits hyperbole/extreme cases, but even subtle cases are enough to influence behavior "to the point of staying the same".
+- **ejemplos:** Fit person at McDonald's; seed oils; business owner with declining revenue.
+- **cita:** "if I eat even one seed oil, I'm cast out from the tribe"
+- **terminos:** tribe; meme; identity threat
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-150
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 13:04-15:51, 2026-05-02
+- **tension:** ninguna
+
+## U-024-153
+- **tipo:** argumento
+- **titulo:** How you got stuck: inherited worldviews, subtle programming from teachers and peers, and unguarded social media tribes
+- **desarrollo:** When young, people expected you to act, think and behave a certain way; your parents were influenced by their parents and culture, and passed their worldview to you. Maybe you rebelled, but couldn't escape subtle programming from teachers, peers and, "even worse in today's world, social media". You could search any information and "program yourself into being a part of a tribe whose general actions aren't beneficial to a meaningful future". "Literally, the places that you hang out on the internet could dictate the entire outcome of your life, and you don't pay any attention to it." You let all these things "unguarded go into your mind".
+- **ejemplos:** ninguno
+- **cita:** "the places that you hang out on the internet could dictate the entire outcome of your life"
+- **terminos:** subtle programming; tribe
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-146
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 15:51-16:37, 2026-05-02
+- **tension:** ninguna
+
+## U-024-154
+- **tipo:** metáfora
+- **titulo:** The mind as a house with the door unlocked: 100 strangers living in your small apartment eating all your food
+- **desarrollo:** Letting information into your mind unguarded is like leaving the door of your house unlocked, letting everyone come in, party, ruin the house and leave or even stay — "100 people live in your small apartment with you on your bed", eating all your food. "That's what's happening in your mind." But you can flip the script: "not easily, but you can turn it around".
+- **ejemplos:** House/apartment overrun by strangers.
+- **cita:** "are you going to let 100 people live in your small apartment with you on your bed"
+- **terminos:** flip the script
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-153
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 16:37-17:01, 2026-05-02
+- **tension:** ninguna
+
+## U-024-155
+- **tipo:** framework
+- **titulo:** Four overlapping patterns to recreate yourself: high-gravity reason, brutal awareness of who you don't want to become, change environment faster than identity recalibrates, increase the gap
+- **desarrollo:** This won't happen overnight: "you're going to go through withdrawals. You will have relapses." The four things "are what I found to be the most potent for recreating yourself" — not exhaustive, may not help you specifically, "but these are what helped me". They "overlap and synergize with each other... one leads to another and they stack". (1) A reason with extremely high gravitational pull (and find another when it fades). (2) Become brutally aware of who you don't want to become. (3) Change your environment faster than the identity can recalibrate. (4) Increase the gap between impulse and response.
+- **ejemplos:** ninguno
+- **cita:** "all of these four things overlap and synergize with each other. So, one leads to another and they stack"
+- **terminos:** reason with extremely high gravitational pull; withdrawals; relapses
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-147
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 17:01-17:43, 2026-05-02
+- **tension:** ninguna
+
+## U-024-156
+- **tipo:** principio
+- **titulo:** Pattern 1: you need a reason with extremely high gravitational pull, found at the right moment, not forced; when it fades, find another
+- **desarrollo:** "The most intense periods of my life came after I stumbled across a very intense reason to change" — a reason with such pull that he couldn't focus on anything but actualizing the positive trajectory of his life. It "doesn't last forever": months later you can be back in a rut "because you let autopilot take over", and it is very difficult to force. When he puts out a video he thinks it won't hit for most viewers because "they're not at the right phase in life in which this information will cause that spark to change". People try to force action or think through everything and still can't change. "You have to find the reason in a book, a conversation, or experience that happens at such a perfect moment that everything clicks for you." You discover it by breaking out of "the familiar past and predictable future".
+- **ejemplos:** ninguno
+- **cita:** "you need a reason with extremely high gravitational pull and when that fades, you must find another"
+- **terminos:** gravitational pull; autopilot; spark to change; familiar past and predictable future
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-155
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 17:43-18:31, 2026-05-02
+- **tension:** ninguna
+
+## U-024-157
+- **tipo:** concepto
+- **titulo:** Living yesterday today: a waking thought triggers a past behavior and feeling, which creates a predictable future; novel insight only lives in the unknown
+- **desarrollo:** For most people, right when they wake up "they are met with a thought that triggers a behavior, and instantly they are now operating as the past version of themselves". You think about the commute, which was stressful in the past, bring that feeling into the present, and are stressed and narrow-minded. The cascade continues: you experience past feelings and behaviors, "which create a predictable future that you don't want. You get stuck in this loop of living yesterday today." "Only in the unknown, only in the things that you haven't experienced so far, or at least internalized or made repetitive, is where you will find the novel insight that will launch you into the next phase of life."
+- **ejemplos:** Stressful commute thought upon waking.
+- **cita:** "you get stuck in this loop of living yesterday today"
+- **terminos:** living yesterday today; past version of themselves; novel insight; the unknown
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-156
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 18:31-19:18, 2026-05-02
+- **tension:** ninguna
+
+## U-024-158
+- **tipo:** ejercicio-del-autor
+- **titulo:** Pattern 2: the most powerful visualization — log a day of actions and write where your life ends up; let the disgust slingshot you
+- **desarrollo:** "You need to become brutally aware of who you don't want to become." The most powerful visualization exercise in his opinion: for the next day, look at all your current actions — when you wake up, during the day, at night. Then sit with pen and paper and write exactly where your life will end up if you keep doing the same thing. If honest, the answer "preferably would disgust you". "That disgust can be used as this ultra-potent fuel to slingshot you in a positive direction for quite a long time until you need a new reason." None of this is permanent: "You aren't going to find your quick little fix... Nothing is permanent."
+- **ejemplos:** ninguno
+- **cita:** "that disgust can be used as this ultra-potent fuel to slingshot you in a positive direction"
+- **terminos:** brutally aware; who you don't want to become; disgust as fuel
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-155
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 19:18-20:47, 2026-05-02
+- **tension:** ninguna
+
+## U-024-159
+- **tipo:** advertencia
+- **titulo:** The visualization fails because the self doing the exercise is the self being evaluated — it softens the blow to survive
+- **desarrollo:** Most people are dishonest: the visualization doesn't hit them. Why: "the self doing the exercise is the self being evaluated. You are asking the current identity to honestly assess where the current identity is heading, but the current identity has a survival interest in not seeing this clearly, because seeing it clearly would mean death." So you soften the blow, rationalize, imagine future variables that may rescue you, so changing now doesn't matter. "For this exercise to work, you have to be able to receive the honest answer."
+- **ejemplos:** ninguno
+- **cita:** "the self doing the exercise is the self being evaluated"
+- **terminos:** current identity; survival interest
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-024-158
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 20:47, 2026-05-02
+- **tension:** ninguna
+
+## U-024-160
+- **tipo:** método
+- **titulo:** Ground the visualization in reality with anchors: observe parents, grocery-store strangers, gym-goers, lifeless city crowds
+- **desarrollo:** What helps is grounding the exercise in reality: "you have to observe society. You have to observe the people around you. That's very potent. You have to find an anchor for where your life is going to end up." Anchors could be your parents, a random person at the grocery store, a person at the gym; if you live in a city, "just go walk out in the city and look at how lifeless people look".
+- **ejemplos:** Parents; grocery store; gym; city streets.
+- **cita:** "you have to find an anchor for where your life is going to end up"
+- **terminos:** anchor; observe society
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-159
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 20:47-21:35, 2026-05-02
+- **tension:** ninguna
+
+## U-024-161
+- **tipo:** concepto
+- **titulo:** You need something that already created a crack: catastrophic events (car breakdown, health scare, a death, a breakup) make the exercise split you open
+- **desarrollo:** The real requirement, "hard to fake": "you need something that has already created a crack", so the visualization "just splits you open". For most people "something catastrophic has to happen before they actually make the real decision to change": the car breaks down and they realize how broke they are and must make more money to fix it or prevent it, because they hated the experience; a health scare like a heart attack ("I'm not saying go and do that"); a parent or loved one dies; or, commonly, a breakup as a kid, emotional turmoil, and the decision "I'm going to go to the gym, get jacked, make sure this never happens again" — which "obviously doesn't solve the problem", but shows behavior can change very fast after a catastrophic event.
+- **ejemplos:** Car breakdown; heart attack; loved one's death; teenage breakup → gym.
+- **cita:** "you need something that has already created a crack"
+- **terminos:** crack; catastrophic event
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-158
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 21:35-22:44, 2026-05-02
+- **tension:** Retoma la ruta del "rock bottom" del video de 2022 (U-024-016, U-024-017).
+
+## U-024-162
+- **tipo:** principio
+- **titulo:** Pattern 3: change your environment faster than the identity can recalibrate, because the old self is stored in your surroundings
+- **desarrollo:** "You need to change your environment faster than the identity can recalibrate because your old self is partly stored in your surroundings": the people you follow online, your bed, your routine, the people you hang out with ("a big one"). "Your identity is often programmed socially. The same person in two different friend groups will behave like two different people." When you log on to social media, you also become a different person.
+- **ejemplos:** Same person in two friend groups.
+- **cita:** "your old self is partly stored in your surroundings"
+- **terminos:** environment; identity recalibrate; programmed socially
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-155
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 22:44-23:13, 2026-05-02
+- **tension:** ninguna
+
+## U-024-163
+- **tipo:** método
+- **titulo:** Wipe your phone (or get a new one), only download what's necessary, and go through the friction
+- **desarrollo:** "A simple move here is to just wipe your phone or throw your phone in a lake and get a new one and start from scratch and you'll really be able to notice the threat response then": "What about all my contacts, apps, accounts?" Dan Koe admits he'd feel the same, but the last time he had to switch phones he started from a clean slate: if people needed him they'd contact him; if he needed someone he'd figure it out; if he needed something he'd get it. Method: wipe your phone, only download what's necessary; if you need to do something, do it — "go through the friction of doing it. Don't make it this easily accessible thing."
+- **ejemplos:** His own phone switch from a clean slate.
+- **cita:** "go through the friction of doing it"
+- **terminos:** clean slate; friction; threat response
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-162
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 23:13-24:28, 2026-05-02
+- **tension:** ninguna
+
+## U-024-164
+- **tipo:** opinión
+- **titulo:** We're not wired for everyone being able to reach us; comment sections are the most toxic part of social media
+- **desarrollo:** "I just hate the fact that anyone can get a hold of you nowadays... That shouldn't happen. Like we're not wired for that. So, if I don't respond to an email that you sent, that's why." He thinks social media should abolish the comment section — "not because there aren't good comments, but because that's the most toxic part of social media, where people go and identify with things so strongly"; people can't form their own opinion because they're bombarded from all angles. He softens: maybe not abolish it, "but something needs to happen"; comment sections are "a war zone".
+- **ejemplos:** Comment sections as war zones.
+- **cita:** "that's the most toxic part of social media, where people go and identify with things so strongly"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-024-145
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 23:51-24:28, 2026-05-02
+- **tension:** ninguna
+
+## U-024-165
+- **tipo:** método
+- **titulo:** Take a sabbatical: a week alone in the woods or a remote Airbnb with only a laptop to remove yourself from your environment
+- **desarrollo:** Another difficult thing many successful people do: take a sabbatical — go for a week, often to the woods, or rent a remote Airbnb, alone, bringing only a laptop. Many creatives do this to re-spark creativity and have better ideas for something important (e.g., writing a book). It immediately removes you from your environment so you can form new habits and behaviors.
+- **ejemplos:** Creatives writing a book in a remote Airbnb.
+- **cita:** "all they bring is their laptop"
+- **terminos:** sabbatical
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-162
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 24:28-25:16, 2026-05-02
+- **tension:** ninguna
+
+## U-024-166
+- **tipo:** método
+- **titulo:** Immerse your mind in the environment of your future self: bathe your psyche in that person's opinions, beliefs and education without judgment
+- **desarrollo:** "If you want to change your life fast, the most useful thing you can do is immerse your mind in the environment of your future self. Bathe your psyche in the opinions, beliefs, and education that person would have without judgment." A course is useful for learning structured knowledge, "but the ins and outs and the opinions, all of the different angles, are best learned by just diving into a new environment where that's all there is". The beauty of modern living: in the past you were in your little tribe; today "you can pick and choose. You can become anything... plop yourself in the environment, deal with the discomfort, and you'll want to become that person because memes replicate."
+- **ejemplos:** See U-024-167.
+- **cita:** "bathe your psyche in the opinions, beliefs, and education that person would have without judgment"
+- **terminos:** environment of your future self; bathe your psyche; memes replicate
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-162, U-024-143
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 25:16-26:42, 2026-05-02
+- **tension:** ninguna
+
+## U-024-167
+- **tipo:** historia
+- **titulo:** How Dan Koe started a business to fit into the environment he immersed himself in (after a confusing Mailchimp course)
+- **desarrollo:** When first getting into business he was just curious, didn't know where to start or learn or what business to start. He searched for courses and took a few that didn't make sense: a digital marketing course taught Mailchimp and other things — "What do I do with this? Why am I learning Mailchimp? What do you mean emails? What do you mean lead magnet?" It wasn't until everything he read, every video he watched, every person he followed and all his conversations revolved around business that he learned. He picked up tips from videos and books, "but more importantly, in this environment, if I wasn't building a business, I didn't fit into the environment. And so, that felt wrong. And so, inadvertently, I started a business so I could fit in."
+- **ejemplos:** Digital marketing course on Mailchimp and lead magnets.
+- **cita:** "inadvertently, I started a business so I could fit in"
+- **terminos:** environment; fit in
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-024-166
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 25:16-27:23, 2026-05-02
+- **tension:** ninguna
+
+## U-024-168
+- **tipo:** principio
+- **titulo:** Identity is created through learning — but only if you're not reacting; expose yourself to perspectives you disagree with and find why they're right
+- **desarrollo:** "Identity is created through learning. That's like the lesson." But you aren't learning if you're just reacting all the time or think you know everything, so you don't absorb information. "So, you must willingly expose yourself to perspectives that you disagree with and try to understand why they are right."
+- **ejemplos:** ninguno
+- **cita:** "you must willingly expose yourself to perspectives that you disagree with and try to understand why they are right"
+- **terminos:** identity is created through learning
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-166
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 27:23, 2026-05-02
+- **tension:** ninguna
+
+## U-024-169
+- **tipo:** principio
+- **titulo:** Pattern 4: increase the gap between impulse and response — doing nothing is the only way to interrupt the survival mechanism in real time
+- **desarrollo:** Echoing a social media audio, "break the pattern today or you'll repeat the loop tomorrow". "The way that you detach from old patterns is to do nothing. You increase the gap because doing nothing is the only way that you can interrupt the survival mechanism in real time." Finding a reason or changing environment happens outside the moment of the urge to remain your past self; they create better conditions "but they don't help you in the 3 seconds when your hand is reaching for your phone" (and it's not just the phone, it's everything). "Your job is to starve the old self that is trying to survive of the normal feedback it receives." Observe and examine yourself throughout the day: are you repeating yesterday on autopilot? When you read an opinion, do you solidify your stance by arguing in your head? "When you sit with this uncomfortable feeling without making a decision, you train your nervous system to tolerate the gap between impulse and action. From that neutral state, it's much easier to make a conscious choice in the right direction."
+- **ejemplos:** The 3 seconds when your hand reaches for your phone; arguing in your head with an opinion.
+- **cita:** "your job is to starve the old self that is trying to survive of the normal feedback it receives"
+- **terminos:** gap between impulse and response; starve the old self; neutral state; break the pattern
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-155
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 27:23-29:18, 2026-05-02
+- **tension:** ninguna
+
+## U-024-170
+- **tipo:** advertencia
+- **titulo:** Meditation, cold exposure and fasting train the gap, but don't join the religion of doing the thing
+- **desarrollo:** Popular ways to train the gap — meditation, cold showers/exposure, fasting — "become popularized and kind of bastardized from what they're supposed to be... those things have become religions. That's the exact opposite of what we're trying to accomplish." "Anything that helps you delay gratification is useful, but just don't join the religion of doing the thing." You don't need an opinion on whether cold showers are good or bad; "they're just a tool for increasing the gap". He doesn't think you need any of them aside from meditation.
+- **ejemplos:** Cold showers; fasting; meditation.
+- **cita:** "anything that helps you delay gratification is useful, but just don't join the religion of doing the thing"
+- **terminos:** religion of doing the thing; delay gratification
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-169, U-024-145
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 29:18, 2026-05-02
+- **tension:** ninguna
+
+## U-024-171
+- **tipo:** método
+- **titulo:** 24/7 meditation: become the observer of the self that's trying to survive; train expanding and contracting the mind like a muscle
+- **desarrollo:** "The most impactful thing you can do is to practice some kind of a 24/7 meditation. You have to become the observer of the self that's trying to survive", operating from a higher, more expanded level of mind. Get good at expanding and contracting the mind: zoom out very far and hold many ideas at once (creativity), then zoom in, work, get into flow (productivity) — a spectrum. The further you expand and the deeper you contract, the more focused work or deep conversation you get done ("zooming into reality right here, right now. What's the task that I'm working on?"). "It's just like training a muscle... Eccentric, concentric." The problem: "most people just live in a perpetually zoomed-in state. We call it survival mode." Goal: notice the impulse, do nothing about it, neutralize it, wait until calm arrives, then make your own choice in the direction you want.
+- **ejemplos:** Eccentric/concentric muscle contraction.
+- **cita:** "most people just live in a perpetually zoomed-in state. We call it survival mode."
+- **terminos:** 24/7 meditation; observer of the self; expanding and contracting the mind; survival mode; psychic muscle
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-024-169
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 29:18-31:38, 35:10, 2026-05-02
+- **tension:** ninguna
+
+## U-024-172
+- **tipo:** concepto
+- **titulo:** Weaponizing survival summarized: identify as who you want to become, put yourself in that environment, reprogram so actions become automatic
+- **desarrollo:** "That's kind of how you can weaponize your survival: you start to identify as the person you want to become. You put yourself in that environment. You reprogram your mind so that naturally, almost automatically, you start just doing the actions that are going to make you that person." But "you're still playing the game. You're still going to be stuck in this kind of cycle of suffering."
+- **ejemplos:** ninguno
+- **cita:** "you reprogram your mind so that naturally, almost automatically, you start just doing the actions that are going to make you that person"
+- **terminos:** weaponize your survival; reprogram your mind
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-155
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 30:51-31:38, 2026-05-02
+- **tension:** ninguna
+
+## U-024-173
+- **tipo:** argumento
+- **titulo:** Winning the game is how you discover it's the wrong game: we replaced one survival game (source of suffering) with another
+- **desarrollo:** "If you're smart, you've noticed... that we've replaced one survival game with another. Meaning, we replaced one source of suffering with another." Stressing yourself into becoming a hyper-successful businessman or building an aesthetic physique is better, in his opinion, than the endless stress loop of being overweight and broke. But: the business owner is unhappy until a certain money level, "like a hundred million dollars", and even then has the same identity, so unless the money increases they remain unhappy. People who sell a business for a huge payout have an existential crisis: "I don't know what to do with my time. I'm depressed." "You kind of have to experience it before you can transcend it." The bodybuilder won't be happy until the pro card, but without a shift in who they are, they keep moving the goalpost until an existential crisis and deep depression force change. You think you want the lives of business and fitness influencers, but look closer: "they are covering up their lack of fulfillment with more work". Goal: play the survival game (there's fulfillment in continuous growth; stagnation is bad) "but you must also transcend the game" — remain largely unbothered when things don't work out.
+- **ejemplos:** $100M business owner; founder after exit; bodybuilder and pro card; influencers covering lack of fulfillment.
+- **cita:** "winning the game is how you discover it's the wrong game"
+- **terminos:** wrong game; survival game; moving the goalpost; existential crisis; transcend the game
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-024-172
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 31:38-33:32, 2026-05-02
+- **tension:** Matiza lo anterior del mismo video (armar el mecanismo de supervivencia) y la visión de U-024-120 sobre el CEO que vende y empieza otra empresa.
+
+## U-024-174
+- **tipo:** advertencia
+- **titulo:** You can't try to be unbothered: detaching from outcomes becomes the outcome you're attached to (premature transcendence)
+- **desarrollo:** "You can't try to be unbothered. You can't try to be cool and lax because the bothered self attempting to become the unbothered self is just another survival strategy. The person who says, 'I'm going to detach from outcomes' has just made not being attached to outcomes the outcome they're attached to. So, it becomes the axis of their suffering." This is "a huge spiritual trap": you read one spirituality book, see a higher form of being, and act like that person so others perceive you as wise, "but you haven't put in the years of work to naturally become that". "It's premature transcendent[ce]." Most people "have to be deeply attached to something before their attachment becomes visible enough to see through". There is no quick fix. He was hesitant to include this since most YouTube viewers want "the higher form of the cheap dopamine hit" — a video promising success so they feel they know more or are progressing when they aren't.
+- **ejemplos:** Reading one spirituality book and performing wisdom.
+- **cita:** "the person who says, 'I'm going to detach from outcomes' has just made not being attached to outcomes the outcome they're attached to"
+- **terminos:** premature transcendence; spiritual trap; axis of their suffering
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-024-173
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 33:32-35:10, 2026-05-02
+- **tension:** ninguna
+
+## U-024-175
+- **tipo:** concepto
+- **titulo:** Pain vs suffering: pain is a feature of life; suffering is the identity's refusal to accept the event
+- **desarrollo:** What to do anyway: (1) keep increasing the gap between impulse and response — "work your psychic muscle", expand and contract the mind, be familiar with those states of consciousness. (2) "Distinguish pain from suffering. Pain is a feature of life. Suffering is the identity's refusal to accept the event." Becoming more conscious and open-minded "doesn't remove pain, but it removes the second layer". The businessman whose revenue drops "still feels the punch", but needn't feel the subsequent spiral: "this shouldn't be happening to me. I feel like a failure. My life is ruined."
+- **ejemplos:** Businessman whose revenue drops.
+- **cita:** "pain is a feature of life. Suffering is the identity's refusal to accept the event."
+- **terminos:** pain vs suffering; second layer; psychic muscle
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-174
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 35:10-35:47, 2026-05-02
+- **tension:** Complementa U-024-041 (suffering is good when perceived that way); aquí el sufrimiento es la capa evitable sobre el dolor.
+
+## U-024-176
+- **tipo:** concepto
+- **titulo:** The intense and unbothered personality: a walking contradiction near the pinnacle of development — holding two opposing forces at once
+- **desarrollo:** "The intense and unbothered personality is powerful. It is near the pinnacle of human development across both material and spiritual planes. They are a walking contradiction. They fear mediocrity enough to work hard and they're unbothered enough to not collapse when things don't work out. It is the mark of a mature mind to be able to hold two opposing forces at once."
+- **ejemplos:** ninguno
+- **cita:** "it is the mark of a mature mind to be able to hold two opposing forces at once"
+- **terminos:** intense and unbothered; walking contradiction
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-024-140, U-024-175
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 35:47, 2026-05-02
+- **tension:** ninguna
+
+## U-024-177
+- **tipo:** fuente-de-tercero
+- **titulo:** Max Bernstein's "cognitive fingerprint": using AI to uncover what you have to say when you feel you have no ideas
+- **desarrollo:** Inside a promotion of his paid Substack (AI prompts, writing strategies — how to put ideas into a form people want to read, watch, study, since "if you're pursuing your life's work, you need to attract people to your life's work" — and marketing strategy — how to package what you know into something valuable and get paid), Dan Koe mentions monthly live streams breaking down successful creators. Max Bernstein presented his "cognitive fingerprint", meant for people who feel they have nothing to say or no ideas worth putting out; with the help of AI it uncovers what you do have to say that is stuck in your head. Details of the method are not given in the transcript.
+- **ejemplos:** ninguno
+- **cita:** "if you're pursuing your life's work, you need to attract people to your life's work"
+- **terminos:** cognitive fingerprint; life's work
+- **origen:** de-tercero:Max Bernstein
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** How To Completely Reinvent Yourself In 6-12 Months.md, 35:47-37:20, 2026-05-02
+- **tension:** ninguna
+
+# Fuente: Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md (2024-04-14)
+
+## U-024-178
+- **tipo:** opinión
+- **titulo:** Successful people disappear from the world for months to force pure focus on themselves and one meaningful goal
+- **desarrollo:** "A pattern I've noticed in successful people is that they disappear from the world for months at a time to force pure focus on themselves and their vision. They laser in on one meaningful goal and make it a reality."
+- **ejemplos:** ninguno
+- **cita:** "they disappear from the world for months at a time to force pure focus on themselves and their vision"
+- **terminos:** disappear; pure focus
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 0:00, 2024-04-14
+- **tension:** ninguna
+
+## U-024-179
+- **tipo:** argumento
+- **titulo:** "I don't know what I want" really means "I don't want to do the work": you already know what you don't want, so you know what you want
+- **desarrollo:** Dan Koe says (not to sound arrogant) he never had a problem knowing what he wants. When people say "I don't know what I want", he thinks they mean "I don't want to do the work it takes to get what I want". "It's not that you don't know what you want, it's that you know what you don't want already, meaning you know what you want and are hiding from what it takes to get away from it." He always knew "because it's extremely simple to observe society and discern good from bad".
+- **ejemplos:** ninguno
+- **cita:** "it's not that you don't know what you want it's that you know what you don't want already"
+- **terminos:** observe society
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 0:00, 2024-04-14
+- **tension:** Matiza U-024-022 (2022), donde reconoce que uno puede no saber lo que quiere y propone trabajar desde lo que no quiere.
+
+## U-024-180
+- **tipo:** historia
+- **titulo:** Dan Koe's own derivation from anti-vision to path: entrepreneur, writing and social media for leverage, gym and nutrition, then a peaceful mind
+- **desarrollo:** "I know that I don't want a job I hate, work I hate, a body I hate, a partner I hate, a mind that hates me." From that alone it was easy to figure out what to do: become an entrepreneur no matter how many times he failed ("it took seven failures"); gain the power to get rid of work he didn't want to do "with writing and social media for leverage"; go to the gym and work on nutrition for his body; allow those three to open more opportunities in every domain; then "let that path create a peaceful mind from the progressive overload of responsibility" — "weights feel lighter as you get stronger". Everybody knows some form of this path is what they should do to not be stuck in a life they don't want.
+- **ejemplos:** Seven business failures; writing and social media as leverage.
+- **cita:** "let that path create a peaceful mind from the progressive overload of responsibility weights feel lighter as you get stronger"
+- **terminos:** progressive overload of responsibility; leverage
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-179
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 0:44, 2024-04-14
+- **tension:** ninguna
+
+## U-024-181
+- **tipo:** argumento
+- **titulo:** The psyche craves actualization and transcendence, but the ego is distracted; without a plan with more gravity than distractions you get trapped in short-term stress
+- **desarrollo:** "Your psyche craves actualization and transcendence. The depth of your being wants these things, but your ego is distracted by things it thinks it wants, and that's the problem. You don't have a way to focus your mind. You don't have a plan for the future that holds more gravity than the distractions in your life, so you struggle to maintain a long-term time horizon and get trapped in never-ending short-term stress-inducing tasks." He proposes one single framework you can refer to whenever lost.
+- **ejemplos:** ninguno
+- **cita:** "you don't have a plan for the future that holds more gravity than the distractions in your life"
+- **terminos:** actualization and transcendence; ego; gravity; long-term time horizon
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 1:29, 2024-04-14
+- **tension:** ninguna
+
+## U-024-182
+- **tipo:** principio
+- **titulo:** "You need a plan because if you don't have one, society does" (The Art of Focus)
+- **desarrollo:** Quote from his book "The Art of Focus": "You need a plan because if you don't have one, society does, and they've been planning your life for decades."
+- **ejemplos:** ninguno
+- **cita:** "you need a plan because if you don't have one society does and they've been planning your life for decades"
+- **terminos:** plan
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 1:29, 2024-04-14
+- **tension:** ninguna
+
+## U-024-183
+- **tipo:** ejercicio-del-autor
+- **titulo:** Practical warm-up: write exactly what you want, break it into decade/year/month/week/day goals, and each day write three levers
+- **desarrollo:** Before the 12 rules: grab a notebook; write out exactly what you want in your future, "don't miss a detail"; break it down into goals — decades, years, months, weeks, days; "every day write down the three levers you can move to create your vision". "A dream without clarity is a nightmare."
+- **ejemplos:** ninguno
+- **cita:** "a dream without clarity is a nightmare"
+- **terminos:** levers; goals by decade/year/month/week/day
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 1:29-2:19, 2024-04-14
+- **tension:** ninguna
+
+## U-024-184
+- **tipo:** principio
+- **titulo:** Your goals compose your identity: assigned goals frame how you see the world, which skills you learn and which opportunities you register
+- **desarrollo:** "You've been assigned goals since the day you were born. These goals went on to frame how you view the world because your goals compose your identity. You learn skills to achieve those goals. You registered opportunities in alignment with those goals. Everything you experience in life is through the lens of the conscious or unconscious goals guiding the systems being formed in your head." To build a life of meaning, money and impact "we must pursue our ideal future, create a story worth telling, and pass that path to those who are ready to receive it".
+- **ejemplos:** ninguno
+- **cita:** "your goals compose your identity"
+- **terminos:** assigned goals; lens; meaning, money and impact; story worth telling
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 2:19, 2024-04-14
+- **tension:** ninguna
+
+## U-024-185
+- **tipo:** término-acuñado
+- **titulo:** The 12 rules of creation: a universal framework for creating anything — a life, a business, a product, a tweet, a conversation
+- **desarrollo:** After "a decade of dancing between creative success and failure", Dan Koe built a framework "that will bring you success in anything that you do", through multidisciplinary study, pulling principles and patterns from marketing, sales, human behavior, peak performance, psychology, stories, games, the structure of billion-dollar companies, successful product development, and anything involved in creating and distributing value. Uses: as "the guiding light of your life" — to change your life, start a business, build a product, write a tweet, newsletter or landing page, have a beneficial conversation — "anytime you do absolutely anything so that you make sure you are creating something and not doing something that's already been done". The 12 rules: (1) anti-vision, (2) vision, (3) mission, (4) standards, (5) goals, (6) projects, (7) education, (8) limitations, (9) levers, (10) challenge, (11) curiosity, (12) experimentation. When lost — relationships failing, business not taking off — "run through all 12 of those rules".
+- **ejemplos:** Tweet, newsletter, landing page, conversation, business, product.
+- **cita:** "you're going to use this anytime you do absolutely anything so that you make sure you are creating something and not doing something that's already been done"
+- **terminos:** 12 rules of creation; guiding light
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 1:29-3:53, 12:01, 2024-04-14
+- **tension:** ninguna
+
+## U-024-186
+- **tipo:** método
+- **titulo:** Rule 1 — Anti-vision: a positive fear mechanism; keep a running note of what you don't want and treat each as a problem to solve
+- **desarrollo:** "The bane of your existence, the life that you do not want to live, a positive fear mechanism that kicks you into action." Start a running note of experiences you don't want to repeat, material you don't care to learn, work you don't care to complete, arguments you don't wish to have. You won't get rid of them in an instant; "you are meant to identify them as problems to be solved. This is what you do in business when you create a product": identify a problem, create a solution. "You can't change unless you are aware of a problem and you aren't going to change unless you are brutally aware of how that problem impacts your life."
+- **ejemplos:** Business product creation as analog.
+- **cita:** "you aren't going to change unless you are brutally aware of how that problem impacts your life"
+- **terminos:** anti-vision; positive fear mechanism; running note
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-185
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 3:53, 2024-04-14
+- **tension:** ninguna
+
+## U-024-187
+- **tipo:** método
+- **titulo:** Rule 2 — Vision: filter every decision through it; spend 30 minutes on a minimum viable vision and iterate
+- **desarrollo:** "If you don't have a vision you are lost. You can't create outcomes so you are doomed to the mechanical living of determined outcomes." Every decision in any domain "needs to be filtered through a vision" — that brings meaning to actions and minimizes distractions. Write down exactly what you want, don't miss a detail, but it's iterative: "you won't get it right the first time around and you probably never will and that's not the point". "Spend 30 minutes creating a minimum viable vision" for whatever you're creating; start with your life's vision; come back often to add, subtract, remove.
+- **ejemplos:** ninguno
+- **cita:** "just spend 30 minutes creating a minimum viable vision"
+- **terminos:** vision; minimum viable vision; mechanical living of determined outcomes
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-186
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 3:53-4:41, 2024-04-14
+- **tension:** ninguna
+
+## U-024-188
+- **tipo:** definición
+- **titulo:** Rule 3 — Mission: the bridge between vision and anti-vision; anything not aligned is a distraction; it requires faith
+- **desarrollo:** "Your mission is the most important thing in your life. It is the bridge between what you do and what you don't want, your vision and your anti-vision. Anything that does not align with your mission is to be treated as a distraction. Your mission evolves with awareness of new beliefs, opportunities and knowledge. Your mission requires faith: you can't see the next step unless you take the first, and once you do the second may be completely different from anything you could have imagined."
+- **ejemplos:** ninguno
+- **cita:** "anything that does not align with your mission is to be treated as a distraction"
+- **terminos:** mission; bridge; faith
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-187
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 4:41-5:29, 2024-04-14
+- **tension:** ninguna
+
+## U-024-189
+- **tipo:** principio
+- **titulo:** Rule 4 — Standards: you aren't where you want to be because you're okay with where you are; standards are absorbed from your environment and filter what you register as a problem
+- **desarrollo:** "You aren't where you want to be because you are okay with where you are. You don't submit to your situation, you accept it so you can move forward." Standards are absorbed from your environment: friends, books, media, parents, teachers "who knew it all". They create standards in your head "that help filter information so that you can make decisions". If your standard for your bank account is $10, you won't register anything over $10 as a problem — and that overlaps with nutrition: if you're okay with $10, you're probably okay with junk food daily. It doesn't matter whether you can afford nutritious food; it matters whether you're okay with it and doing something to change it. "You need awareness of the problem in order to create a solution."
+- **ejemplos:** $10 bank account standard; junk food.
+- **cita:** "if your standards for how much money you have in your bank account is $10 you aren't going to register anything over $10 as a problem"
+- **terminos:** standards; register as a problem; accept vs submit
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-185
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 5:29-6:16, 2024-04-14
+- **tension:** ninguna
+
+## U-024-190
+- **tipo:** ejemplo
+- **titulo:** The terrible car: low standards mean waiting for a catastrophe, then returning to equilibrium without changing
+- **desarrollo:** You can be okay with being broke and having a terrible car, but that sets you up for failure: you're not aware of the car as a problem, so you wait for a catastrophic event; it blows up out of nowhere, you spend more money, and you're "screwed royally" for a long time until it normalizes. Unless you use that moment to change your life, "you're just going to sit out the pain until it comes back to equilibrium", then go back to being okay with $10 in the bank and never change, "because you didn't see the catastrophe as an actual problem and you didn't believe in yourself enough to change it".
+- **ejemplos:** Terrible car breaking down.
+- **cita:** "you're just going to sit out the pain until it comes back to equilibrium"
+- **terminos:** catastrophic event; equilibrium
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-189
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 6:16-7:01, 2024-04-14
+- **tension:** Contrasta con U-024-161: allí la catástrofe crea la grieta que permite cambiar; aquí, sin estándares, la catástrofe se absorbe sin cambio.
+
+## U-024-191
+- **tipo:** principio
+- **titulo:** Rule 5 — Goals: big goals for direction, small goals for clarity; be stubborn with vision and loose with details
+- **desarrollo:** "Big goals are for direction, small goals are for clarity. You don't need motivation when the task in front of you is so stupidly simple that you can't help but complete it." Break the vision into goals by decade, year, month, week and day. "They are your guide not your master. Be stubborn with vision and loose with details. Your goals will change as you do; be okay with that." And write it all down: "if you aren't writing anything down right now what are you doing".
+- **ejemplos:** ninguno
+- **cita:** "be stubborn with vision and loose with details"
+- **terminos:** big goals; small goals; guide not your master
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-187
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 7:01-7:45, 2024-04-14
+- **tension:** ninguna
+
+## U-024-192
+- **tipo:** método
+- **titulo:** Rule 6 — Projects: learning comes from struggle; architect, outline, set milestones and deadlines, build then learn
+- **desarrollo:** "Learning comes from struggle, not memorization. You need a series of tangible products to build that will actualize your vision, so turn your goals into projects": architect and outline, determine milestones, set deadlines, map out areas of research. "Build then learn: start the project, expose your lack of knowledge and skill, and use that as a reference point for your education."
+- **ejemplos:** ninguno
+- **cita:** "learning comes from struggle not memorization"
+- **terminos:** projects; milestones; build then learn
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-191
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 7:45, 2024-04-14
+- **tension:** ninguna
+
+## U-024-193
+- **tipo:** principio
+- **titulo:** Rule 7 — Education: daily self-education as a cornerstone habit; education fuels experimentation
+- **desarrollo:** "You aren't where you want to be because you aren't as smart as you think you are." Every project requires a skill set and mindset, so you need education to achieve goals and complete projects. "Daily self-education must become a cornerstone habit in your life. If you stop learning you stop evolving, opportunities stop presenting themselves and you get trapped in your current stage of development. Education is the fuel for experimentation, and without experimentation you are doing what other people tell you to do."
+- **ejemplos:** ninguno
+- **cita:** "education is the fuel for experimentation and without experimentation you are doing what other people tell you to do"
+- **terminos:** self-education; cornerstone habit; stage of development
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-192
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 7:45-8:40, 2024-04-14
+- **tension:** ninguna
+
+## U-024-194
+- **tipo:** principio
+- **titulo:** Rule 8 — Limitations: a fool gets rich at the expense of everything good; a creative gets rich at the expense of chosen limitations
+- **desarrollo:** "A fool becomes rich at the expense of everything good in life. A creative becomes rich at the expense of his choice." "Limitations on your goals force creativity." The question: "what are you not willing to sacrifice to achieve your goals?" The creative challenge appears when you try to achieve goals without betraying your vision: become rich without sacrificing your family, healthy without sacrificing your work, valuable without sacrificing what makes life worth living.
+- **ejemplos:** Rich without sacrificing family; healthy without sacrificing work.
+- **cita:** "limitations on your goals force creativity"
+- **terminos:** limitations; creative challenge
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-191
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 8:40-9:35, 2024-04-14
+- **tension:** ninguna
+
+## U-024-195
+- **tipo:** método
+- **titulo:** Rule 9 — Levers: daily priority tasks that move the needle; boring fundamentals made bearable by a sense of mastery
+- **desarrollo:** "Every day you need priority tasks that move the needle toward your projects, goals and vision from the ground up." These are often seen as boring fundamentals "unless you cultivate a sense of mastery behind what you do": you see every day as a practice and a process rather than an outcome, "or else it becomes boring". "Do what needs to be done but grip your vision as the anchor into the [unknown]" (transcribed "known"; ambiguous). "If you aren't making progress it's because you aren't moving levers, even if you think you are."
+- **ejemplos:** See U-024-196.
+- **cita:** "if you aren't making progress it's because you aren't moving levers even if you think you are"
+- **terminos:** levers; priority tasks; sense of mastery; practice and process
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-192
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 9:35, 2024-04-14
+- **tension:** ninguna
+
+## U-024-196
+- **tipo:** caso
+- **titulo:** Writing as Dan Koe's main lever: the first 2-3 hours of every day; why he dropped other courses to sell 2 Hour Writer
+- **desarrollo:** Writing is one of his main levers: he needs to write a book, newsletters, content, emails, responses to clients, students and business contacts. "Writing is literally the only thing I do for the first 2 to 3 hours of the day." If you're building an (online) business and aren't writing and getting it in front of people, "you're not making progress". That's why he got rid of his other courses and now sells "2 Hour Writer" and what they help with in "Kortex University" (transcribed "cortex University"): writing is "the main catalyst", and he feels weird selling anything else before it.
+- **ejemplos:** 2-3 hours of writing daily; 2 Hour Writer; Kortex University.
+- **cita:** "writing is literally the only thing I do for the first 2 to three hours of the day"
+- **terminos:** lever; 2 Hour Writer; main catalyst
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-195
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 9:35-10:21, 2024-04-14
+- **tension:** ninguna
+
+## U-024-197
+- **tipo:** principio
+- **titulo:** Rule 10 — Challenge: novice vs master bores and stresses both; enjoyment lives on the tightrope between boredom and anxiety
+- **desarrollo:** "When a novice plays against a master neither of them have fun": the novice becomes anxious, the master bored. "When your skill is the perfect match for the challenge of a situation the world goes quiet and you move forward with grace. Challenge is the source of enjoyment. Enjoyment is found on the tightrope between boredom and anxiety at the edge of your abilities. The path to meaningful living is often found in a simple shift in perspective."
+- **ejemplos:** Novice vs master game.
+- **cita:** "enjoyment is found on the tight rope between boredom and anxiety at the edge of your abilities"
+- **terminos:** challenge; edge of your abilities
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-185
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 10:21-11:08, 2024-04-14
+- **tension:** ninguna
+
+## U-024-198
+- **tipo:** principio
+- **titulo:** Rule 11 — Curiosity: be willing to steer off course; your vision is a battery fueled by experience, education and misdirection
+- **desarrollo:** "Be willing to steer off course and discover new potential, because it is too easy to lock ourselves in a mechanical routine like the one we were trying to escape. Be curious, dive deep into your interests, let few questions go unanswered, avoid getting locked into paradigms and beliefs that narrow your mind on one idolized path. Your vision is like a battery: you must fuel it with experience, education and misdirection."
+- **ejemplos:** ninguno
+- **cita:** "your vision is like a battery you must fuel it with experience education and misdirection"
+- **terminos:** curiosity; vision as a battery; misdirection; idolized path
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-187
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 11:08, 2024-04-14
+- **tension:** ninguna
+
+## U-024-199
+- **tipo:** principio
+- **titulo:** Rule 12 — Experimentation: if you do what everyone does you get their results; there is no right way, only your way
+- **desarrollo:** "If you only do the same thing as everyone else you are bound to the results of everyone else." Research processes others teach that they've had success with; try multiple techniques to see which get the best results; create your own process you can stay consistent with. In fitness, try different training and nutrition programs; in relationships, try therapy or self-help books; in business, try cold outreach or organic content. "Avoid becoming dogmatic about the single right way because there is no right way, there is only your way, because people can't teach you what to do, how to write, how to start a business, they can only teach you how they did it."
+- **ejemplos:** Training programs; therapy; cold outreach vs organic content.
+- **cita:** "there is no right way there is only your way"
+- **terminos:** experimentation; your own process
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-193
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 11:08-12:01, 2024-04-14
+- **tension:** ninguna
+
+## U-024-200
+- **tipo:** principio
+- **titulo:** Every successful interaction with reality: a clear image of what you want, clarity on how, and creative execution for rare results
+- **desarrollo:** "Every successful interaction with reality starts and ends with a clear image of what they want, clarity on how to achieve it, and creative execution to acquire rare results." Summarizes the purpose of the 12 rules.
+- **ejemplos:** ninguno
+- **cita:** "every successful interaction with reality starts and ends with a clear image of what they want clarity on how to achieve it and creative execution to acquire rare results"
+- **terminos:** creative execution; rare results
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-185
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 12:01, 2024-04-14
+- **tension:** ninguna
+
+## U-024-201
+- **tipo:** principio
+- **titulo:** You are the manifestation of your past choices; your future self is watching your every move
+- **desarrollo:** "You feel terrible because your future self is watching your every move and they don't like what they see." You aren't where you want to be because you didn't make the choices that led to a purposeful career, fulfilling relationships, or a healthy and aesthetic body. "You right now are the manifestation of your past choices", so if you want to control who you become, "your choices are the most important thing in this world".
+- **ejemplos:** ninguno
+- **cita:** "you right now are the manifestation of your past choices"
+- **terminos:** future self; choices
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 12:48, 2024-04-14
+- **tension:** ninguna
+
+## U-024-202
+- **tipo:** método
+- **titulo:** Better decisions come from perspective (zooming out to who you want to become) and perception (zooming in on the choice)
+- **desarrollo:** Two things: (1) who you want to become — "perspective and zooming out into the future"; (2) the choices that will take you there — "perception and zooming in". "The good life is created by constant reminder of your vision and programming the identity that would actualize it through aligned action." Daily: zoom out and remind yourself of what you don't want; "you don't need to focus on what you want because that will make itself apparent through your choices". Hold that frame at the top of your mind; don't let distractions penetrate it. When a choice comes up, zoom out and align: "will this benefit the future I am trying to create?" Then be decisive. "Allow failure into your life so you can correct your behavior the next time around."
+- **ejemplos:** ninguno
+- **cita:** "will this benefit the future I am trying to create then be decisive"
+- **terminos:** perspective; perception; zooming out; zooming in; frame; aligned action
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-201
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 12:48-13:35, 2024-04-14
+- **tension:** ninguna
+
+## U-024-203
+- **tipo:** principio
+- **titulo:** Awareness is a cure: you don't have to quit bad habits, just view them and their consequences through your vision long enough
+- **desarrollo:** "Awareness is a cure. You don't have to quit all of your bad habits, you just have to view them and their consequences through the lens of your vision for long enough."
+- **ejemplos:** ninguno
+- **cita:** "awareness is a cure"
+- **terminos:** awareness; lens of your vision
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-202
+- **fuente:** Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md, 13:35, 2024-04-14
+- **tension:** ninguna
+
+# Fuente: 12 Rules To Change Your Life In 12 Months.md (2025-09-14)
+
+## U-024-204
+- **tipo:** argumento
+- **titulo:** Absolute freedom is absolute chaos: you only think you want freedom because you live by rules you didn't create
+- **desarrollo:** "Life is so much better when you have a code to operate by because most people have been tricked to think that they want freedom." "Absolute freedom, so no limitations, no restrictions, is synonymous with absolute chaos. The only reason you think you want freedom is because you're living by a set of rules you didn't create." When you feel you need to escape, you go on vacation, but after a week "the simulated honeymoon phase ends and the tourist novelty wears off" and you want structure again. "You don't want freedom. You want the freedom to create your own rules of the game." You don't want goals assigned by parents, teachers or employers, but mistake that for not wanting structure, "so you crave the one thing, freedom, that will make your life substantially worse".
+- **ejemplos:** Vacation novelty wearing off after a week.
+- **cita:** "absolute freedom... is synonymous with absolute chaos"
+- **terminos:** code to operate by; absolute freedom; freedom to create your own rules of the game; simulated honeymoon phase
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 0:00-1:59, 2025-09-14
+- **tension:** ninguna
+
+## U-024-205
+- **tipo:** metáfora
+- **titulo:** Retirement is a ClickFunnels landing page with a 40-year countdown timer — and just another vacation you'll get bored of
+- **desarrollo:** For people who hate their jobs (he used to hate his), the hope is retirement — "a promise that was marketed to you since you were a child, like a ClickFunnels landing page with a 40-year countdown timer". "Your idea of retirement is just another vacation that you will get bored of because that's how the mind works." The core mechanism: brains "are pattern-making machines evolved to solve specific problems with limited resources, not to handle unlimited possibilities".
+- **ejemplos:** ClickFunnels landing page countdown timer.
+- **cita:** "like a ClickFunnels landing page with a 40-year countdown timer"
+- **terminos:** pattern-making machines
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-204
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 0:33-1:59, 2025-09-14
+- **tension:** ninguna
+
+## U-024-206
+- **tipo:** fuente-de-tercero
+- **titulo:** Csikszentmihalyi: happiness comes from taking control over the contents of consciousness — order in consciousness equals enjoyment
+- **desarrollo:** Mihaly Csikszentmihalyi, "the godfather of flow psychology", argued that happiness comes from taking control over the contents of our consciousness, creating the flow state: "periods of complete absorption where people experience deep enjoyment, creativity, and the total involvement with life". Dan Koe's restatement: "order in consciousness equals enjoyment. Chaos in consciousness, or disorder in the mind, or mental disorder, equals not enjoyment."
+- **ejemplos:** ninguno
+- **cita:** "order in consciousness equals enjoyment"
+- **terminos:** flow state; order in consciousness
+- **origen:** de-tercero:Mihaly Csikszentmihalyi
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 0:58-1:59, 2025-09-14
+- **tension:** ninguna
+
+## U-024-207
+- **tipo:** principio
+- **titulo:** Create your own little world: a navigation system to create your own destination and steps, not another guru's system
+- **desarrollo:** To increase enjoyment and creativity and reduce distraction, do what every successful person has done: "discover and create a set of principles that you operate by. You need to create your own little world and become immersed in it." Most people give you the destination (what you find on social media, even "12 months to change your life"); some give steps in the journey; "very few people give you the navigation system to create your own destination and create the steps". So this video offers not a proven system but "a framework, a meta view" to discover your unique rules: "12 rules to create your own rules".
+- **ejemplos:** ninguno
+- **cita:** "very few people give you the navigation system to create your own destination and create the steps"
+- **terminos:** your own little world; navigation system; meta view; 12 rules to create your own rules
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-204
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 1:59-2:40, 2025-09-14
+- **tension:** ninguna
+
+## U-024-208
+- **tipo:** principio
+- **titulo:** Rule 1 — Reject the average life: the single decision that determines all others is vehemently rejecting the trajectory set at birth
+- **desarrollo:** Rule one "absolutely has to come first" because everything else is downstream: "reject the average life. Reject being regular. Reject being boring." "Life is a series of decisions and the single decision that determines all other decisions is to vehemently reject the trajectory you are set on at birth." "When you truly despise the outcome of being like everyone else, you begin to form an anti-vision." If it didn't work for you before, you may not have been in the life situation where it would work. It's not a 30-minute exercise for "a quick dopamine hit"; "this is a lifelong thing".
+- **ejemplos:** ninguno
+- **cita:** "the single decision that determines all other decisions is to vehemently reject the trajectory you are set on at birth"
+- **terminos:** reject the average life; anti-vision; trajectory set at birth
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-207
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 2:40-4:05, 2025-09-14
+- **tension:** Matiza U-024-187 (2024), donde propone 30 minutos para una "minimum viable vision"; aquí advierte que no es algo de 30 minutos sino de toda la vida.
+
+## U-024-209
+- **tipo:** principio
+- **titulo:** Use both poles: positive thinking alone isn't sustainable; the negative is a potent energy source that pushes toward the positive — but don't get absorbed in it
+- **desarrollo:** The anti-vision creates "this potent negative source of energy that can lead you toward the positive". "You don't just think positively and hope that you move towards it. Sometimes that works, sometimes it doesn't. It's not a sustainable tactic. But you can round that out by having a negative side too." "But if you get absorbed in the negative, then obviously your life is going to end up negative. So you need both." The negative is the foundation.
+- **ejemplos:** ninguno
+- **cita:** "the negative is a very very potent energy source that can push you toward the positive"
+- **terminos:** anti-vision; negative energy source
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-208
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 4:05-4:33, 2025-09-14
+- **tension:** ninguna
+
+## U-024-210
+- **tipo:** método
+- **titulo:** Building the anti-vision: write down every dislike, walk and project your trajectory, note what you never want again, gather skipped data points
+- **desarrollo:** "Every time you experience something you dislike, write it down. Go on a walk and think about where your life is heading if you keep doing the same things. Reflect on your past and note what you never want to experience again. Gather all of the data points you skipped over while you were under the spell of someone else's structure." Once the anti-vision is "at least somewhat clear" and potent ("you feel it"), you can stop and consider each decision, because "now you have something to work away from". Simply making decisions that move away from it moves you in a better direction; a vision makes it more accurate.
+- **ejemplos:** ninguno
+- **cita:** "gather all of the data points you skipped over while you were under the spell of someone else's structure"
+- **terminos:** anti-vision; data points; under the spell of someone else's structure
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-208
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 4:33-5:17, 2025-09-14
+- **tension:** ninguna
+
+## U-024-211
+- **tipo:** método
+- **titulo:** Judge (observe and discern) people's posture — and their lives — to correct your own, as his wife's Pilates instructor taught
+- **desarrollo:** His fiancée/wife was getting her Pilates certification; her instructor ("the big boss Pilates girl") taught that to fix your posture over time, in public spaces "you just judge people's posture" — noticing what bad looks like, you slowly correct your own. "The same holds true for me." Judging sounds bad, "let's call it observation and discernment". As a youth at the grocery store he saw people who didn't look or act how he wanted — what they bought, how they shopped, how they spoke — and corrected his own actions; at school and church too. "You can see mediocrity all around you just because that's the natural state of how things are unless people put effort into creating their own vision." "So judge or observe society more. You don't need to tell them these things. You simply observe and correct your own actions."
+- **ejemplos:** Pilates posture; grocery store; school; church.
+- **cita:** "you don't need to tell them these things. You simply observe and correct your own actions."
+- **terminos:** observation and discernment; observe society
+- **origen:** adaptada-de:instructora de Pilates de su esposa (no nombrada)
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-210
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 5:17-7:28, 2025-09-14
+- **tension:** ninguna
+
+## U-024-212
+- **tipo:** principio
+- **titulo:** Rule 2 — Commit to excellence: his version was entrepreneurship, a strong body via self-taught training and nutrition, and a mind built by the progressive overload of uncertainty
+- **desarrollo:** From observing what he didn't want, "I had to commit to excellence. I had to do something great." For him: becoming an entrepreneur no matter how many failures ("it took seven failures") to control how long and on what he works; building "a strong aesthetic and energetic body by making training and nutrition a non-negotiable" — becoming his own teacher and personal trainer; he still loves studying how chemicals and nutrients interact with the body; once you understand, decisions become automatic — knowing the downstream long-term effects, "you just don't want to put it in your mouth no matter how good it tastes. You see it as slop." And nurturing "a strong mind through the progressive overload of uncertainty and emotional labor". These examples may not resonate, but "everyone wants some form of those things".
+- **ejemplos:** Seven failures; nutrition knowledge making food choices automatic ("slop").
+- **cita:** "I knew that I had to nurture a strong mind through the progressive overload of uncertainty and emotional labor"
+- **terminos:** commit to excellence; non-negotiable; slop; progressive overload of uncertainty and emotional labor
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-210
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 5:17-9:31, 2025-09-14
+- **tension:** ninguna
+
+## U-024-213
+- **tipo:** definición
+- **titulo:** Your frame of reference = vision (commitment to excellence) + anti-vision (moving away from mediocrity); distraction is breaking out of the frame and not returning
+- **desarrollo:** The commitment to excellence created a vision. "If I trained my mind to stay within that frame, if I didn't get distracted — that's what distracted is. It's breaking outside of your frame of reference and not bringing yourself back in." "Your frame of reference, how you interpret and see the world and make decisions, is formed: one half is your vision, commitment to excellence, and the second half is your anti-vision, which is moving away from mediocrity." "That's the outer frame of the code that you live your life by." If you do that, "your life will end up great no matter the steps you take", because steps go from anti-vision "all over the place" toward vision: "you're not going to hit an exact spot, but you're just moving in the right direction".
+- **ejemplos:** ninguno
+- **cita:** "that's what distracted is. It's breaking outside of your frame of reference and not bringing yourself back in."
+- **terminos:** frame of reference; distraction; outer frame of the code
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-212
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 8:16-9:31, 2025-09-14
+- **tension:** ninguna
+
+## U-024-214
+- **tipo:** argumento
+- **titulo:** People misread their desire for freedom as retirement; what they want is to grow — progress in mind, body, spirit and business
+- **desarrollo:** People "misinterpret their desire for freedom as retirement or what the default path set them on. In reality, what they want is to grow. They want to evolve. They want to transcend and include their past self. They want to solve their own problems. Remove the limits on their potential." "You know deep down that the answer to 'what do I do with my life' is to progress in the only areas that matter: mind, body, spirit, business." "Business is also partially spirit. It's value exchange. It's community. It's contributing to the world that you take resources from. You're giving back."
+- **ejemplos:** ninguno
+- **cita:** "business is also partially spirit. It's value exchange. It's community."
+- **terminos:** transcend and include; mind, body, spirit, business
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-204
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 9:31-10:07, 2025-09-14
+- **tension:** ninguna
+
+## U-024-215
+- **tipo:** principio
+- **titulo:** The fear of the unknown is greater than the fear of ending up like everyone else — invert that ratio to act
+- **desarrollo:** "The fear of the unknown, the fear of doing something different with your life is greater than the fear of ending up like everyone else. So we need to decrease that perceived fear of stepping into the unknown. That way ending up like everyone else takes priority and then you are more likely to act."
+- **ejemplos:** ninguno
+- **cita:** "the fear of the unknown... is greater than the fear of ending up like everyone else"
+- **terminos:** fear of the unknown
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-213
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 10:07, 2025-09-14
+- **tension:** ninguna
+
+## U-024-216
+- **tipo:** principio
+- **titulo:** Rule 3 — Standards create identity: what you're okay with determines which problems and opportunities you see
+- **desarrollo:** "You aren't where you want to be because you are okay with where you are." If okay with 50 cents in the bank, you won't desire to change it, and many opportunities to improve health, relationships or finances are closed off. If okay with $100,000, anything less is a problem to fix. "Problems, when treated as projects, are what make life enjoyable because projects are another way to bring order to consciousness." Life as "a series of projects that solve problems that remove the limits on your potential" brings you closer to flow.
+- **ejemplos:** 50 cents vs $100,000 in the bank.
+- **cita:** "problems, when treated as projects, are what make life enjoyable"
+- **terminos:** standards create identity; problems as projects; order to consciousness
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-206
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 10:07-10:57, 2025-09-14
+- **tension:** ninguna
+
+## U-024-217
+- **tipo:** argumento
+- **titulo:** High standards recruit the mind's survival mechanism: falling below them creates conceptual pain that drives search and compounding choices
+- **desarrollo:** "When you have high standards, your mind's survival mechanism notices opportunities that help you maintain those standards." We survive on a mental level too: "we have a mental body. It's called our identity." If your identity or standards are threatened, "you quite literally feel stressed. Dogs don't do that... because they don't have language... they don't live in the world of concepts." If your bank balance falls below your standard, you feel pain that pushes you back above it — "that's where dopamine comes into play. You notice survival opportunities": your Google searches change to acquire better skills, you talk about money with friends; "all of these tiny choices begin to compound into results". "You rewire your thinking patterns based on your intentional search for specific information relating to the problem you are facing." Conversely, surrounding yourself (physically or digitally) with people who make it seem okay to be 100 pounds overweight, have zero money, work a hated job, stay with a despised partner or get drunk nightly determines where you end up.
+- **ejemplos:** Bank balance below standard; Google searches; money talk with friends.
+- **cita:** "we don't only have a physical body, we have a mental body. It's called our identity."
+- **terminos:** mental body; survival mechanism; world of concepts; compound
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-216
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 10:57-12:29, 2025-09-14
+- **tension:** ninguna
+
+## U-024-218
+- **tipo:** heurística
+- **titulo:** If you feel the need to defend why video games are good for you, that's a sign they're not (the "fast food" metaphors)
+- **desarrollo:** In his previous video he said "social media is the fast food of socialization" and "video games are the fast food of entertainment", and people disliked it. His point: he eats fast food sometimes and that's okay because he understands its overall impact on his progress. There are games "that aren't inherently entropic to your mind", but for most people — and his past self clocking "12 hours a day of World of Warcraft just ruining my life" — it's not to be defended. "If you have the desire to tell me or justify why video games are good for you, then that's kind of a surefire sign that they're not", because with a big-picture, nuanced understanding of where they sit in your life "you wouldn't feel the need to defend yourself". You only think eating clean or looking at McDonald's or video games in disgust sounds stupid "because your standards are abysmal". Someone who values fitness finds it painful not to eat clean; eating clean is enjoyable to them.
+- **ejemplos:** 12 hours/day of World of Warcraft; fast food occasionally.
+- **cita:** "if you have the desire to tell me or justify why video games are good for you, then that's kind of a surefire sign that they're not"
+- **terminos:** fast food of socialization; fast food of entertainment; entropic
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-216
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 12:29-14:10, 2025-09-14
+- **tension:** ninguna
+
+## U-024-219
+- **tipo:** término-acuñado
+- **titulo:** Anti-standards: what you are not willing to do or sacrifice to achieve your goals — constraints that force creative results
+- **desarrollo:** "Let's just call them anti-standards for the sake of cohesiveness": "what you are not willing to do or sacrifice to achieve your goals". This narrows the frame further so you can't get distracted, get into flow and enjoy life. For himself: one goal among many is building a business, "but I am not willing to sacrifice my health like most people do or my relationships like most people do". Most think that's natural ("you have to work long hours") — "No, you don't." "Setting constraints is how you actually get creative results": not sacrificing health, relationships or work hours forces creative thinking, your own insights and conclusions, and real understanding of your goals.
+- **ejemplos:** Building a business without sacrificing health or relationships.
+- **cita:** "setting constraints is how you actually get creative results"
+- **terminos:** anti-standards; constraints; narrow our frame
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-216
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 14:10-14:49, 2025-09-14
+- **tension:** ninguna
+
+## U-024-220
+- **tipo:** caso
+- **titulo:** JK Molina: from 12-hour agency days to a million-dollar business on ~3-4 hours a day because the constraint revealed higher-leverage opportunities
+- **desarrollo:** If you commit to 4 hours a day instead of the 12 of "hustle and grind entrepreneurs", you'd end up like JK Molina, who left an agency (with another person) working 12 hours a day and making a lot of money, reasoning he had the knowledge and skill "to make a million bucks working 4 hours a day" — he's actually working 3 hours a day. The constraint makes "your mind notice higher leverage business opportunities that you wouldn't have noticed when you're pursuing another goal". His offer and delivery are so valuable that he charges higher prices, works with fewer people and spends less time.
+- **ejemplos:** JK Molina.
+- **cita:** "your mind notices higher leverage business opportunities that you wouldn't have noticed when you're pursuing another goal"
+- **terminos:** leverage; constraint
+- **origen:** de-tercero:JK Molina (caso)
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-219
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 14:49-15:37, 2025-09-14
+- **tension:** ninguna
+
+## U-024-221
+- **tipo:** principio
+- **titulo:** Rule 4 — Project-based learning: build a real project and search for information only when needed; tutorials and books for learning are mostly entertainment
+- **desarrollo:** You know what you don't want and have an idea of what you want; now acquire the skills and knowledge that bridge the gap. You move into the unknown "by having a way to order any potential chaos": personal projects. "The best way to learn is to build a real world project and only search for information when you need it. How much you learn is directly correlated with how much progress you make on the project." Endless tutorials fill the mind with excess noise; most information is wasted because unapplied — like reading a book and stuttering when explaining it to a friend. Books and YouTube aren't bad, "but that's not learning. That's entertainment" — for another domain (mental clarity, calming, stress relief); it can be learning, but very ineffective, and reading/watching for learning "you're filling your mind with endless options. You're just creating more chaos."
+- **ejemplos:** Stuttering when explaining a book to a friend.
+- **cita:** "how much you learn is directly correlated with how much progress you make on the project"
+- **terminos:** project-based learning; excess noise; endless options
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-213
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 15:37-17:33, 2025-09-14
+- **tension:** Contrasta con U-024-053 (2023), que recomienda comprar y "devorar" 1-3 libros sobre el tema.
+
+## U-024-222
+- **tipo:** definición
+- **titulo:** A project is when a plan and a strategy meet action; the bridge to where you want to be is a series of projects — and a project can become a product
+- **desarrollo:** "A project can be anything": your health, your business, an image in Photoshop. "A project is simply a structured way of achieving a goal or making progress toward a goal. A project is when a plan and a strategy meet action." Don't focus on plan or strategy — they are byproducts; act, build, iterate on them, "because the plan and a strategy without action and without iteration are just a list of things that aren't going to happen". "The bridge between where you are and where you want to be is a series of projects that reflect the value you've developed in yourself." You can turn a project into a product because you've solved the problem in your life and can help others. "A project is the only qualification you need to start earning an independent income."
+- **ejemplos:** Health, business, Photoshop image as projects.
+- **cita:** "a project is when a plan and a strategy meet action"
+- **terminos:** project; plan; strategy; product; independent income
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-221
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 17:33-18:17, 2025-09-14
+- **tension:** ninguna
+
+## U-024-223
+- **tipo:** método
+- **titulo:** The life reset prompt: an AI conversation that questions you to produce an iterable life plan (anti-vision, vision, projects)
+- **desarrollo:** If you struggle to think through anti-vision, vision and projects/plan, he recommends his "life reset prompt" (linked): "it questions you. It converses with you to come up with all of these things and it spits out a document with kind of your entire life plan that isn't static that you can iterate on and improve."
+- **ejemplos:** ninguno
+- **cita:** "it spits out a document with kind of your entire life plan that isn't static"
+- **terminos:** life reset prompt
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-024-222
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 18:17, 2025-09-14
+- **tension:** ninguna
+
+## U-024-224
+- **tipo:** heurística
+- **titulo:** Rule 5 — Daily levers: complete 1-3 priority tasks a day; if no noticeable progress in two weeks, you're moving the wrong levers
+- **desarrollo:** "Every single day, complete at least one to three priority tasks that move the needle toward completing your project. That is the only piece of productivity advice you will ever need in your life." Rule of thumb: "After two weeks, if you haven't made any noticeable progress toward your goals, you are not moving the right levers. You are doing something wrong." Most people won't admit it, or intentionally do busy work to avoid progress "because secretly they want to fail": the mind notices opportunities to achieve its goals, and most people have "this deep and unconscious programmed goal of staying the same", so that's what they work toward without realizing.
+- **ejemplos:** ninguno
+- **cita:** "after two weeks, if you haven't made any noticeable progress toward your goals, you are not moving the right levers"
+- **terminos:** daily levers; priority tasks; busy work; unconscious programmed goal of staying the same
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-222
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 18:17-19:04, 2025-09-14
+- **tension:** ninguna
+
+## U-024-225
+- **tipo:** framework
+- **titulo:** The code so far: anti-vision → vision → standards → projects → levers, a tight feedback loop from mediocrity toward excellence
+- **desarrollo:** "So far our frame, the thing that is going to bring enjoyment to our life, the code that we operate by is composed of anti-vision, then vision, then standards, then projects, then levers that lead to progress away from mediocrity and toward excellence, creating a tight feedback loop that makes life an enjoyable game for the most part." That's the foundation pushing you deeper into the unknown; the remaining rules address navigating highs, lows, emotions and uncertainty.
+- **ejemplos:** ninguno
+- **cita:** "creating a tight feedback loop that makes life an enjoyable game for the most part"
+- **terminos:** code; frame; tight feedback loop
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-224
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 19:04-19:55, 2025-09-14
+- **tension:** ninguna
+
+## U-024-226
+- **tipo:** fuente-de-tercero
+- **titulo:** Daniel Schmachtenberger: hyper-specialization makes people subservient to the dominant system; be a deep generalist
+- **desarrollo:** Rule 6, become a deep generalist, opens with a quote from Daniel Schmachtenberger (transcribed "Schmenberger"): "Traditional education and hyperspecialization is a way to make people subservient to the dominant paradigm or system. Study the generalized principles of nature and be a deep generalist."
+- **ejemplos:** ninguno
+- **cita:** "study the generalized principles of nature and be a deep generalist"
+- **terminos:** deep generalist; hyperspecialization; dominant paradigm
+- **origen:** de-tercero:Daniel Schmachtenberger
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 19:55, 2025-09-14
+- **tension:** ninguna
+
+## U-024-227
+- **tipo:** argumento
+- **titulo:** Humans are natural generalists and tool builders: the polar bear and the lion die outside their niche, humans build coats, AC and mental tools
+- **desarrollo:** Humans don't thrive in a specific niche like a polar bear in Alaska; if it went to the savannah where the lion thrives it would die, and vice versa. Humans go to Alaska because they built tools — a coat, heating; to the savannah with a car with air conditioning or a water bottle. "You're a tool builder. Humans build tools to adapt and thrive in any environment." This extends to mental tools: "language, culture, concepts, religion, and stories" to adapt, build and acquire knowledge and skills to thrive anywhere. "This is the ability that makes us unique. This is the ability that most people have lost."
+- **ejemplos:** Polar bear vs lion; coat, AC, water bottle.
+- **cita:** "humans build tools to adapt and thrive in any environment"
+- **terminos:** tool builder; mental tools; natural generalists
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-226
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 19:55-20:46, 2025-09-14
+- **tension:** ninguna
+
+## U-024-228
+- **tipo:** argumento
+- **titulo:** How children lose their generalist ability: learning shifts from real mistakes to suppressing traits adults dislike, then the default path
+- **desarrollo:** As children we love to adventure, discover, figure things out, make mistakes and learn (touch fire, take risks). "But then our learning stops being about real mistakes. It starts being about the traits our parents and teachers dislike in us" — traits they find annoying or uncivilized, or that won't lead to the version of success they were conditioned to see as "the only one true path". The default path is why you feel lost, confused, anxious, overwhelmed; "it was the path that was supposed to be safe and secure, but was the least safe and secure". You were placed in front of "a government-trained expert, trained by government-trained experts who are clearly not doing what you want to do in life", six hours a day, told what to learn and how to act, prodded toward "the status symbol of a job and degree". The goals composing your worldview (fancy degrees, high-paying jobs) determine your mind's potential development and freedom: "Your aim determines what you see." So "give yourself permission to study and pursue multiple interests. You have the internet. You have AI."
+- **ejemplos:** Touching fire as a child; six hours a day in school.
+- **cita:** "your aim determines what you see"
+- **terminos:** default path; one true path; aim
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-227
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 20:46-22:03, 2025-09-14
+- **tension:** ninguna
+
+## U-024-229
+- **tipo:** opinión
+- **titulo:** Prediction: the future of work is entrepreneurs or elite entrepreneurial employees; the entry level goes extinct — AI raises the bar
+- **desarrollo:** Rule 7, "entrepreneurship is spiritual". His prediction: "the future of work will consist mostly of entrepreneurs and if not entrepreneurs, elite employees who have entrepreneurial traits in increasingly rare positions. The entry level will go extinct. AI isn't replacing the bar, it's raising the bar." Two options remain: "rely on government support with a marginal chance at a good life or take full responsibility and become an entrepreneur".
+- **ejemplos:** ninguno
+- **cita:** "AI isn't replacing the bar, it's raising the bar"
+- **terminos:** entrepreneurship is spiritual; elite employees; entry level will go extinct
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 22:03-22:57, 2025-09-14
+- **tension:** ninguna
+
+## U-024-230
+- **tipo:** definición
+- **titulo:** Employee vs entrepreneur as states of mind: low agency (assigned goals) vs high agency (own goals without permission)
+- **desarrollo:** Entrepreneurship and business "have become dirty words", believed reserved for talented people with lots of money and time. Redefinition: "The difference between employee and entrepreneur is the difference between low agency and high agency. High agency individuals create their own goals and pursue them without permission. Low agency individuals are assigned goals and pursue them because their programming doesn't allow them to see other options." "Stop thinking of employee and entrepreneur as titles. Think of them as states of mind. Employees are passive individuals told what to learn. Entrepreneurs are assertive individuals who set their own vision, learn by curiosity, and create solutions that push humanity forward." Industrial-style schooling and employment "breed complacency and are dangerous for your psyche", against our nature of needing uncertainty, challenge and constant improvement — "growth, evolution. That's what the universe is doing."
+- **ejemplos:** ninguno
+- **cita:** "the difference between employee and entrepreneur is the difference between low agency and high agency"
+- **terminos:** high agency; low agency; states of mind
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-229
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 22:57-24:29, 2025-09-14
+- **tension:** ninguna
+
+## U-024-231
+- **tipo:** argumento
+- **titulo:** Entrepreneurship is the only logical option for long-term thinkers: the mind craves challenge, ladders and vacations become boring, and people don't believe good work exists
+- **desarrollo:** People climb ladders like the corporate ladder because the mind craves challenge, but they get used to it and it becomes boring; vacation and retirement likewise. You need the next challenge, usually involving work — but most hate their work, so they don't think good work exists, or that they can create it, pursue their life's work and enjoy and control it. "Entrepreneurship is the only logical option for long-term thinkers. It's the path of uncertainty requiring skills not taught in schools. You must be okay with failure, rejection, and slow progress." "The secret is cultivating a skill set so impactful that you can't help but share it. You solve your own problems, sell the solution, and improve humanity. That's entrepreneurship." "Employment isn't our natural state. Your psyche is wired to hunt. But today's threats are psychological and spiritual, not physical. Nobody wants to be a monkey in a cubicle."
+- **ejemplos:** Corporate ladder; monkey in a cubicle.
+- **cita:** "you solve your own problems, sell the solution, and improve humanity. That's entrepreneurship."
+- **terminos:** life's work; wired to hunt
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-230
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 23:48-25:19, 2025-09-14
+- **tension:** ninguna
+
+## U-024-232
+- **tipo:** argumento
+- **titulo:** Rule 8 — Become a creator: creativity was once reserved for the gods; the key to using AI well is to maintain the role of creator
+- **desarrollo:** "For millions of years, creativity was reserved for the gods." Humans didn't know how things worked or build tools; then we created fire, then planes, now AI. "We built tools that allowed us to survive in any environment, harnessed energy and transformed the earth. Humans took over the role of creator, but so many have lost their path. And so many are giving up their role as creator to AI. The entire key to using AI well is to maintain the role as the creator." The AI future is uncertain and "probably not going to be as drastic as many people made it out to seem, myself included".
+- **ejemplos:** Fire, planes, AI.
+- **cita:** "the entire key to using AI well is to maintain the role as the creator"
+- **terminos:** creator; role as the creator
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-231
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 24:29-26:05, 2025-09-14
+- **tension:** ninguna
+
+## U-024-233
+- **tipo:** principio
+- **titulo:** Problems are infinite and problems are soluble: evolution creates complexity, which creates new problems and opportunities forever
+- **desarrollo:** "We know two things. One, problems are infinite and two, problems are soluble." No matter how developed we become, there will always be a new problem "because evolution creates more complexity", like AI giving access to more information — "that's not better to an extent, that's more chaotic, that introduces more problems", and those problems create jobs or entrepreneurial opportunities for more solutions building on current ones, "forever and ever until the sun dies out unless we solve that problem".
+- **ejemplos:** AI creating more information chaos and new problems.
+- **cita:** "problems are infinite and two, problems are soluble"
+- **terminos:** problems are infinite; problems are soluble; complexity
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-232
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 25:19-26:05, 2025-09-14
+- **tension:** ninguna
+
+## U-024-234
+- **tipo:** argumento
+- **titulo:** From "Purpose and Profit": if enjoyment = progress + contribution, both come from solving problems, and problems are solved through creativity, then the fundamental aim is to become a creator
+- **desarrollo:** Excerpt from his book "Purpose and Profit" (free on his Substack): "If happiness or enjoyment is the combination of progress being made and contribution to something greater than yourself, and both are accomplished by solving problems for yourself and others, and problems are solved through creativity, then the only logical and fundamental aim for your future is to embody creativity by becoming a creator. In other words, you find the intersection of purpose and profit by creating solutions to problems you deem interesting, passing on those solutions to contribute to the progress of humanity, and repeating the process when the next set of more complex problems arise. Although problems become more complex, you become more equipped with knowledge, skill, and experience to solve them. Life gets better as problems get harder if you learn to keep chaos at bay, which is a problem within itself." "With every problem comes the opportunity to reach a new level of purpose."
+- **ejemplos:** ninguno
+- **cita:** "life gets better as problems get harder if you learn to keep chaos at bay"
+- **terminos:** intersection of purpose and profit; creator; progress and contribution
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-233
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 26:05-27:32, 2025-09-14
+- **tension:** ninguna
+
+## U-024-235
+- **tipo:** proceso
+- **titulo:** The path to becoming future-proof in the second renaissance: consumer to creator, solve your problems, distribute in the global town square, attract 1,000 true fans
+- **desarrollo:** Becoming a creator was always possible, "but it's never been so accessible. We're in the second renaissance and it's happening on the internet", "a digital society where anyone can be the next Einstein or Shakespeare". The path: (1) shift from consumer to creator; (2) solve your own problems; (3) distribute your solutions in the global town square, the internet; (4) attract people who share your vision. "Even with just a thousand true fans, you'll find the power to create a good life." (The "thousand true fans" idea is used without attribution in the transcript.)
+- **ejemplos:** ninguno
+- **cita:** "shift from consumer to creator. Solve your own problems. Distribute your solutions in the global town square"
+- **terminos:** second renaissance; futureproof; consumer to creator; global town square; a thousand true fans
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-234
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 27:32-28:03, 2025-09-14
+- **tension:** ninguna
+
+## U-024-236
+- **tipo:** principio
+- **titulo:** Rule 9 — Uncertainty is signal, not noise: your potential is determined by the uncertainty you're willing to embrace
+- **desarrollo:** "You're supposed to feel lost. You're supposed to feel overwhelmed. You're supposed to feel like you have no idea what you're doing. Everyone feels that way." Did you expect all knowledge and skill to be deposited in your head the second you started? "When you commit to excellence, you commit to a life of uncertainty because you commit to a life of learning. Your potential is determined by the amount of uncertainty you're willing to embrace." The most successful people "don't perceive uncertainty as something dangerous" because "all outsized gains lie in their ability to embrace, manage, and extend uncertainty". "The certain life is the least rewarding. A job is certain. Your paycheck reflects that."
+- **ejemplos:** Job paycheck as the price of certainty.
+- **cita:** "your potential is determined by the amount of uncertainty you're willing to embrace"
+- **terminos:** uncertainty is signal; outsized gains; embrace, manage, and extend uncertainty
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-212
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 28:03-28:52, 2025-09-14
+- **tension:** ninguna
+
+## U-024-237
+- **tipo:** framework
+- **titulo:** Levels of uncertainty in business and investing: punch just above your weight, hedge risk by lowering your cost of living
+- **desarrollo:** Business uncertainty depends on level. Level one: local business, agency work, freelancing, or information products — uncertain but simple, "a cap of about 1 to 5 million a year" before you must raise stakes by hiring a team or expanding to software or physical products. Investing: level one, a certain 401k; level two, the stock market (somewhat predictable, likely more return); level three, businesses, crypto or more uncertain assets — highest returns, but requires navigating and understanding risk. Hedge against risk, especially when starting to change your life: "you punch just above your weight", going level one → two → three, not taking a challenge you can't handle. If you take a level-three challenge anyway, hedge by changing your environment: move into a cheap apartment, "live on beans and rice for a year". "The more responsibilities that you adopt before you've had a chance to take risks in your youth, the more difficult it is to justify changing your life. That's the horrible trap of the default path."
+- **ejemplos:** 401k vs stocks vs crypto/businesses; $1-5M cap for level-one businesses; beans and rice for a year.
+- **cita:** "you punch just above your weight"
+- **terminos:** levels of uncertainty; hedge against risk; punch just above your weight; default path
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-236
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 28:52-30:20, 2025-09-14
+- **tension:** Contrasta con U-024-125 (mudarse a un apartamento que no puedes pagar como "glitch"/tactical stress); aquí recomienda un apartamento barato para cubrir el riesgo.
+
+## U-024-238
+- **tipo:** término-acuñado
+- **titulo:** Rule 10 — Engineer enthusiasm: "obsession" is the edgy word; enthusiasm (enthousiasmos, "God within") is the real aim
+- **desarrollo:** We hear you need to be obsessed with your goal; that's how people describe successful people with an intense spirit. An obsessive personality "can really hurt your life unless you learn to direct it away from people and toward other things like a skill or an interest or a business". "But the real word for this is enthusiasm. That's what we should aim for. That just doesn't feel as cool or edgy as obsession." The word comes from the Greek "enthusiasmos", literally "having God within" or "God inspired" — being possessed or inspired by a divine spirit, suggesting true creative or spiritual power came from beyond the individual self. "The master key to the good life is to fill your average day with that which makes you enthusiastic."
+- **ejemplos:** ninguno
+- **cita:** "the master key to the good life is to fill your average day with that which makes you enthusiastic"
+- **terminos:** engineer enthusiasm; enthusiasmos; obsession vs enthusiasm
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 30:20-31:13, 2025-09-14
+- **tension:** ninguna
+
+## U-024-239
+- **tipo:** método
+- **titulo:** Reverse engineer enthusiasm: notice what energizes, distorts time, makes focus effortless or keeps you up with ideas; eliminate, outsource or accept the rest; block 1-2 hours daily
+- **desarrollo:** "Reverse engineer where enthusiasm comes from in your life and then eliminate, outsource, or accept all of the things that don't align." Notice which activities make you feel energized, which distort time, which make focus effortless; what makes you excited, curious and open-minded; "especially notice when you can't sleep because you are having too many ideas". Fill your day with more of these and remove what prevents it. "Literally block off one to two hours a day to pursue your enthusiasm."
+- **ejemplos:** Sleepless nights from too many ideas.
+- **cita:** "literally block off one to two hours a day to pursue your enthusiasm"
+- **terminos:** reverse engineer enthusiasm; eliminate, outsource, or accept
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-238
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 31:13-31:54, 2025-09-14
+- **tension:** ninguna
+
+## U-024-240
+- **tipo:** principio
+- **titulo:** Rule 11 — Self-experimentation is the only way to solve your problems for good; others' prescriptions ignore your perspective, goals and experience
+- **desarrollo:** "Self-experimentation is the only way to solve your problems for good. People can diagnose and prescribe solutions to your problems, but they often lack regard for the difference in perspective, goals, and experience from the person with the problem." If your relationship struggles: hire a therapist, binge YouTube advice, go on a retreat, experiment until you find the right solution — "the first one you try probably isn't the best way". If your business isn't growing: buy a course, hire a coach, test new software, zoom out, or create a new strategy. "There's always a way to solve your problems, and you strip yourself of that power when you latch on to one solution that probably won't solve the problem for good."
+- **ejemplos:** Relationship: therapist, YouTube, retreat; business: course, coach, software.
+- **cita:** "you strip yourself of that power when you latch on to one solution"
+- **terminos:** self-experimentation
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-199
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 31:54-33:29, 2025-09-14
+- **tension:** ninguna
+
+## U-024-241
+- **tipo:** ejemplo
+- **titulo:** Person A vs Person B: following one guru's blueprint (and becoming a vegan prophet) vs extracting principles from patterns across many sources
+- **desarrollo:** Making money: Person A follows exactly what a guru says, plays it safe, follows rules, downgrades lifestyle on someone else's blueprint. Person B pulls advice from multiple sources and decides based on patterns between them, using how-to advice "only to discover principles that can be integrated into the pursuit of their goals"; with education and effort "it clicks and they know how to make it work in their own unique way". Nutrition: Person A finds a guru preaching veganism, cleans up their diet, follows it as law, sees results, attaches to the ideology "and become[s] a prophet for it" — "dangerous and the definition of low consciousness": they lost weight and gained energy but, from lack of understanding, decided only veganism can do that. (He uses veganism only as a "punching bag"; he doesn't care which diet.)
+- **ejemplos:** Guru follower vs pattern-seeker; vegan prophet.
+- **cita:** "they use how-to advice, but only to discover principles that can be integrated into the pursuit of their goals"
+- **terminos:** low consciousness; principles; patterns
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-240
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 31:54-33:29, 2025-09-14
+- **tension:** ninguna
+
+## U-024-242
+- **tipo:** principio
+- **titulo:** Rule 12 — The greatest mistake is not making mistakes: you aren't where you want to be because you're afraid of making mistakes; mistakes are nature's compass
+- **desarrollo:** Addressed to the observant, quiet viewer who doesn't want the default life, afraid to speak because "they won't listen anyway" — "that silence is killing you". You tried to fit in, trusted others with your future, demonized money and success. But "you need to build" — that's how you contribute to others, connect to something greater, and end robotic living by having the money to remove your dependency on it. You're still looking for the one true path: there isn't one. "You aren't where you want to be because you're afraid of making mistakes... If there were one true sentence in which to orient your life, that would be it. Mistakes are nature's compass." "If happiness can't exist without sadness as a reference point, success can't exist without failure. It's a universal law... because something can't exist without nothing." Mistakes on the conventional path (school, jobs) only lead to feeling sorry for yourself, since you work toward a narrow goal; when you reject assigned goals, "your mistakes are your light in the dark".
+- **ejemplos:** ninguno
+- **cita:** "mistakes are nature's compass"
+- **terminos:** nature's compass; one true path; robotic living; light in the dark
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-208
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 33:29-35:02, 2025-09-14
+- **tension:** ninguna
+
+## U-024-243
+- **tipo:** principio
+- **titulo:** You will never know what you want — it's in the future, imaginary; it becomes clear through mistakes and working away from what you don't want
+- **desarrollo:** "You don't know what you want. That's the problem. You don't realize that you will never know what you want. It's in the future. It doesn't exist. It's imaginary. Life changes." What you want now will be different tomorrow or next decade. You never begin "this process of refinement and purification because you can't seem to allow yourself to fail". "What you want out of life becomes clear when you realize what you don't want out of life and work in the other direction. Since you haven't made any mistakes on your own path, it's obvious why you don't know what you want."
+- **ejemplos:** ninguno
+- **cita:** "you will never know what you want. It's in the future. It doesn't exist. It's imaginary."
+- **terminos:** refinement and purification
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-024-242
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 35:02-35:37, 2025-09-14
+- **tension:** Tensiona con U-024-179 (2024: "no es que no sepas lo que quieres") y U-024-212 ("nunca tuve problema sabiendo lo que quería"); aquí afirma que nunca sabrás lo que quieres.
+
+## U-024-244
+- **tipo:** heurística
+- **titulo:** Do what you want without permission — denying desires binds you to them — but learn to recognize when they're mistakes relative to your own goals
+- **desarrollo:** "Do what you want without permission from someone else. Go to the party, get drunk, start the business, scroll on your phone all night... because denying those desires is only going to bind you to them." The catch: "you need to be able to realize when those things are a mistake". Getting drunk every night isn't a mistake if you have no meaningful responsibilities each morning; it isn't hurting a goal. "Managing parties and alcohol becomes a lot easier when it impacts something more important than parties and alcohol." Since schooling and job aren't more important to you, you do it anyway. "You need your own goals. And you can only generate those goals by getting absolutely fed up with where you are and rejecting everything you thought was true. You need to start from scratch."
+- **ejemplos:** Partying and drinking without meaningful morning responsibilities.
+- **cita:** "denying those desires is only going to bind you to them"
+- **terminos:** start from scratch; fed up
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-024-242
+- **fuente:** 12 Rules To Change Your Life In 12 Months.md, 35:37-36:22, 2025-09-14
+- **tension:** Coherente con U-024-057 (hábitos de ocio conscientes); matiza la recomendación de "starve the old self" (U-024-169).
 
