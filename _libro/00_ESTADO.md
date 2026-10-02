@@ -4,7 +4,7 @@
 - **Directorio de trabajo:** `_libro/` (en la raíz)
 - **Rama de trabajo:** `libro-maestro-dan-koe` (creada desde `origin/main`, commit 1396995)
 - **Último commit:** 18c7f46 Fase 2: etiquetado temático (avance)
-- **Fase actual:** Fase 2 COMPLETA (03_mapa: 9 áreas; 03b: 307 entradas EV + 67 renombres; 03c: 2764 términos; 03d: 338 fuentes; 1106 clústeres; 260 unidades absorbidas en 233 fusiones). Fase 3 (arquitectura) en curso.
+- **Fase actual:** Fase 3 COMPLETA — `04_arquitectura.md`: "Crea o sé creado: el sistema completo de Dan Koe", 14 partes, 40 capítulos, 237 secciones, 2 apéndices. Control de huérfanos: 1106/1106 clústeres, 6087/6087 unidades, 0 duplicados. Material por capítulo en `04b_material/cap-NN.md`. Inicia Fase 4 (redacción, 3 subagentes en paralelo).
 
 ## Números
 - Archivos: 164 · Palabras del corpus: 1.095.022 · Lotes: 27 (ver `01b_lotes.md`)
