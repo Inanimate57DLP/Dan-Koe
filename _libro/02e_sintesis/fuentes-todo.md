@@ -3,20 +3,29 @@
 | "1,000 true fans" (concepto, sin autor nombrado en la fuente) | Bastan unos mil fans para vivir | Adaptada con precios de referencia y la jerarquía de confianza | U-012-167, U-014-156, U-009-268 | T10-a |
 | "Bala G" (nombre ambiguo, posiblemente Balaji) | Physical → digital → native digital | adaptada: ya eres un content creator con una fracción del leverage | U-008-080 | T10-b |
 | "Caleb Rston" (transcrito así) | Video de marca personal de seis horas | Ejemplo de fuente experta para un prompt de extracción | U-021-179 | T14-a |
+| "Devin Erickson" (así transcrito) | Formar personas high-agency, perceptivas, automotivadas y adaptables en lugar de preocuparse por qué habilidades tomará la IA | De-tercero: cita que abre un principio sobre pensamiento estratégico | U-022-129 | T14-b |
+| "Everything in moderation, even moderation" (autor desconocido) | Moderar incluso la moderación | Adaptada: moderar la exposición a cada extremo; reconcilia peace and progress con la polaridad de Dickie Bush | U-002-036 | T16-b |
 | "Flow triggers" (sin atribución) | Encarnación profunda, novedad, imprevisibilidad | Usado para explicar por qué el aburrimiento verdadero prepara el flow | U-022-218 | T03-b |
 | "Forgive them for they know not what they do" (dicho, sin fuente nombrada) | Perdón a quienes no saben lo que hacen | de-tercero: ilustra la destrucción inconsciente | U-016-197 | T01-b |
 | "Justin Scott" (según transcripción; posiblemente Justin y Scott) | "The internet is the great attractor"; "put your intentions out into the ether" | Adaptada a la metáfora de lanzar ideas al vacío | U-002-008, U-008-054 | T10-a |
+| "Make something people want" (lema citado por Matt) | La misión de una startup temprana es encontrar PMF | de-tercero, citado entre comillas como definición del PMF | U-015-195 | T18 |
 | "Max" (youtuber fitness, nombre ambiguo en la transcripción) | ~$100K/año de AdSense vs $1M/año de sponsorships | caso de tercero; conclusión propia: los productos o servicios propios "always make you the most money" | U-009-036 | T12-b |
+| "Old startup saying": do things that don't scale | Hacer cosas que no escalan para escalar | adaptada por John al tiempo no escalable de los líderes con clientes | U-004-043 | T18 |
 | "orange book" (cuenta de X) | "No one ever suddenly gets lucky": la suerte se alinea con las elecciones | De-tercero + propia: base del principio de la visión (dardos sin diana) | U-022-124 | T03-b |
+| "Paul Musso" (así transcrito; caso) | Escuela de filosofía moderna en el tier pago de Substack | Caso: modelo de un solo interés; podría tener una app (systems economy) | U-010-338, U-010-364 | T14-b |
 | "Paul" (apellido no dado) | Trabajar en un proyecto propio no te hace más feliz sino "awake and alive", como un animal en su hábitat | De-tercero; primer paso para "build your own thing" | U-019-035 | T03-a |
 | "People don't remember what you say, they remember how you make them feel" (cita difundida, sin autor) | La emoción por encima del contenido literal | propia (base del dopamine dealer) | U-013-103 | T09-a |
 | "pollinator 3000" (Twitter) | Prompt del strategic advisor | Adaptado y combinado con discipline coach y study regimen | U-021-114 | T07-b |
+| "poppy Nal" (nombre ilegible en la transcripción) | "Learn to sell, learn to build; if you can do both you will be unstoppable" | De-tercero: completa el Irreplaceable individual | U-016-035 | T14-b |
 | "Portfolio of small bets" (sin autor nombrado) | Apuestas pequeñas y graduales | Equivalente de stacking small wins | U-024-019 | T02-b |
+| "Sacred economics" (argumento sin autor nombrado) | Volver a una sociedad del regalo o de intercambio de servicios | Crítica: concede que conviene regalar más, pero el trueque no escala; "there has to be a currency" | U-016-153 | T15 |
 | "Sellingman" (nombre según la transcripción): experimento de los perros | Los perros con descargas inevitables dejan de intentar escapar | adaptada: "trained to bear the shocks of the default path"; la agencia se cultiva | U-013-198 | T01-a |
+| "Some people on Twitter" | "The moat is the app layer" | Adaptada: "everything is a wrapper" y "the ultimate wrapper is you" (con DeepSeek R1 y Typeform como casos) | U-012-144 | T14-b |
 | "Some" (no nombrados) | Llamar a la entropía "Nature's tax" | Tomada tal cual | U-003-064, U-017-014 | T04 |
 | "Steal like an artist" (frase, autor no nombrado) | Copiar bien en lugar de plagiar | adaptada: intelligent imitation | U-007-083 | T09-a |
 | "Steal like an artist" (frase/libro; autor no nombrado) | Toda creación toma de otros | adaptada: validated content, translator of ideas ("we disguise stealing like an artist as research") | U-021-217, U-004-102, U-010-309 | T09-b |
 | "The Gentle Seduction" (relato, autor no nombrado); comunidad biohacking | Futuro de mejora química, cyborgs, longevidad | Adaptada como especulación: la evolución intenta revertir la entropía | U-017-099 | T04 |
+| "The Power of Now"; "Rest" (Alex Soojung-Kim Pang) | Libros que le resuenan | De tercero: listado; lo importante es buscar lo que te resuena | U-011-090 | T16-b |
 | "Transcend and include" / "a whole and a part" (sin fuente nombrada) | Cada nivel superior contiene al inferior | Usada como ley de los niveles de propósito y de job/career/calling | U-016-110, U-016-115 | T03-b |
 | "Tribe of mentors" (frase sin atribución) | Aprender de quienes aspiras a ser | Adaptada como prompt de IA | U-019-120 | T14-a |
 | "Various studies" (sin especificar) | Las creencias cristalizan alrededor de los 25 | propia, con apoyo vago | U-019-054 | T01-a |
@@ -30,6 +39,7 @@
 | actualize.org, video "The Social Matrix" (Leo Gura, no nombrado en la transcripción) | La social matrix como bucle autorreproductor (padres, lenguaje, escuela, información, sociedad) | adaptada: "condensation and my own thoughts"; base del video de 2025 | U-023-204, U-023-205, U-023-206, U-023-207, U-023-208, U-023-212, U-023-214 | T01-b |
 | Actualized.org | Conferencias largas que escucha al caminar | Contenido favorito para el creativity block | U-019-106 | T05-a |
 | Actualized.org (Leo Gura) | Instituciones compartimentadas, realidad no | Adaptada: necesidad de sintetizadores | U-011-094, U-001-055 | T08 |
+| Actualized.org (Leo Gura) | "Love is connection": amor desinteresado como conectar los puntos | Adaptada: explica lo que cambió su newsletter (conectar neurociencia y filosofía) | U-011-117, U-001-075 | T16-a |
 | Actualized.org (nueve etapas de ego development) y Spiral Dynamics | Etapas de desarrollo | Señala que se solapan con los niveles de awareness | U-011-162 | T13-a |
 | Adam Smith | "The man whose whole life is spent in performing a few simple operations..." | de-tercero: ironía sobre el padre del capitalismo; aclara que no está contra el capitalismo | U-010-267 | T01-a |
 | Adam Smith (fábrica de alfileres) | 20 alfileres por obrero vs 48.000 con división del trabajo | adaptada: origen de la especialización y de los humanos como líneas de montaje | U-010-268 | T01-b |
@@ -46,8 +56,12 @@
 | Alan Watts | "Sensible people get paid for doing what they enjoy doing" | de-tercero, como legitimación de unir disfrute e ingreso en el negocio | U-005-136, U-023-131 | T12-a |
 | Alan Watts | Escribir como un filósofo | contraejemplo: sin crecimiento ni ventas no es sostenible a tiempo completo | U-001-065 | T12-b |
 | Alan Watts | "Sensible people get paid for doing what they enjoy doing" | Adaptada como tesis de la nueva economía | U-011-182 | T14-a |
+| Alan Watts | El bodhisattva que conoce lo místico y vive en lo material; "sensible people get paid for doing what they enjoy doing"; idea que el autor pinta con el sauna | Adaptada: el bodhisattva como modelo preferido frente al "no self" del monje; la cita como base de "the art of living is getting paid to play" y de los cinco impulsos intrínsecos; el sauna como metáfora propia de la idea de Watts | U-023-028, U-016-045, U-016-111, U-003-154, U-024-005 | T16-a |
+| Alan Watts | En el frío tiemblas porque resistes; relájate y ve con él | De tercero: apoya la idea de no resistir las olas de la vida | U-024-004 | T16-b |
 | Alan Watts (atribución ambigua en la transcripción) | El final de una melodía no es su meta | Discute la idea: la meta del artista era crear la melodía; "the destination determines the journey" | U-021-057 | T03-a |
 | Alan Watts (biografía) | Murió de alcoholismo (según lo que el autor escuchó) | Detonante para cuestionar y explorar la filosofía de beber | U-002-074 | T06 |
+| Alan Watts (obra en general) | Lecturas que le resuenan | De tercero: listado sin desarrollar ideas | U-011-090 | T16-b |
+| Alan Watts (y otros); concepto hindú de Brahman | "You are God" | Adaptada: adoptar la perspectiva del universo/Brahman/el absoluto, no el "man in the sky"; "think big, act small" | U-017-087, U-017-155 | T16-b |
 | Alan Watts, *The Wisdom of Insecurity* | Escritura poética como arte | Modelo de escritura y pensamiento | U-020-195 | T07-b |
 | Alan Watts; Rest (Alex Soojung-Kim Pang) | Libros/autores resonantes | ejemplos de curiosidad por experiencia | U-001-051 | T07-a |
 | Albert Einstein (atribución con reservas) | "You can't solve a problem from the same level of consciousness that created it" | Adaptada a "level of mind"; la atribución varía (sin atribuir, firme, "supposedly") | U-021-079, U-025-115, U-027-171, U-027-048, U-023-124, U-009-083 | T02-b |
@@ -64,35 +78,56 @@
 | Alex Hormozi | Tuit sobre mantener el buen humor como "la mayor habilidad" | ejemplo hipotético del autor sobre pattern interrupt y clips | U-022-191 | T10-b |
 | Alex Hormozi | Direct response como habilidad que lo hizo rico; apuesta por education products en su portafolio | Ejemplo de autoridad | U-001-147, U-009-152 | T13-a |
 | Alex Hormozi | Se hizo rico con el direct response antes de regalarlo todo; "sell to the rich"; apuntar a gente con dinero en agencias o venta directa | adaptada como ejemplo y contrastada: el autor propone venderle al yo pasado como ruta alternativa | U-007-148, U-010-305, U-009-165 | T13-b |
+| Alex Hormozi | "Ignorance tax" (vía Dickie Bush); "it's a lot easier to make a million than it is $100,000" | De tercero (ignorance tax, interpretado por Dickie); adaptada (apuntar más alto, en la voz del autor) | U-002-062, U-009-227 | T15 |
 | Alex Hormozi; Ali Abdaal | Métodos propios de creación de videos; el PDF de ofertas de Hormozi como fuente experta | Ejemplos: los creadores top cultivan métodos propios; fuente de instrucciones para prompts | U-021-170, U-021-175 | T14-a |
+| Alex Hormozi; Breakthrough Advertising; Great Leads | Creación de ofertas; copywriting | Adaptada: se convierten en guías y prompts con IA | U-021-190 | T14-b |
 | Alex Lieberman | Owned audience más importante que nunca con el interest graph; márgenes del newsletter | de-tercero (tuit); apoya la tesis del newsletter como hub | U-014-147 | T10-b |
 | Alex Soojung-Kim Pang, Rest | El cerebro sigue trabajando en reposo; DMN, autoconciencia, empatía; el doing mode | Adaptada: base de su tesis de descanso intencional y productividad minimalista | U-019-031, U-019-033, U-019-126, U-019-001, U-019-117 | T05-a |
 | Alex Soojung-Kim Pang, Rest | "The clever man may work smarter... but the creative man doesn't work at all"; los griegos y el descanso como cima de la vida civilizada; los estoicos romanos; Watson y el tenis; el logro creativo oblicuo | De tercero / adaptada: fundamento de su aversión a la cultura de 80 horas y de "rest gets the right things done"; luego usa la frase sin atribución | U-003-259, U-019-004, U-019-007, U-019-022, U-019-130, U-003-260, U-018-151 | T05-b |
+| Alex Soojung-Kim Pang, Rest; Awareness; The Way of the Superior Man | Libros que "resuenan" con él | de-tercero: ejemplos de consumo guiado por la curiosidad (autores de los dos últimos no nombrados) | U-001-052 | T17 |
 | Alfred Adler | Cita previa al principio "all behavior is goal-oriented" (la cita no se reproduce en la unidad) | El principio se presenta como propio, sin atribución explícita | U-025-138 | T02-a |
 | Alfred Adler (psicología adleriana) | Teleología: "pulled by our goals"; "Trust only movement. Life happens at the level of events, not of words." | Adaptada: "you are in your current situation because you want to be"; juzgar por la conducta | U-023-259, U-025-137 | T02-b |
+| Ali Abdaal | "If you want to get rich then you kind of have to be obsessed with it" | Adaptada: primero la rechaza, luego la reconoce en su pasado y la convierte en "concentration of force" | U-016-237 | T15 |
+| Alquimia | Transmutación; Law of Equivalent Exchange | Adaptada metafóricamente: emotional transmutation de un punto bajo; sacrificio para "subir" (globo) | U-027-072, U-027-074 | T16-a |
 | Amigo no nombrado | "People are dopamine junkies, even businessmen" | Base de "become your own dopamine dealer" | U-016-218 | T06 |
+| Andrew Huberman | Sol a primera hora de la mañana | De tercero: el autor lo considera más beneficioso que optimizar el ritmo circadiano | U-019-104 | T16-b |
+| Andrew Tate (mención) | Curso de $50 "para escapar de la matrix" | El autor no es fan ni compró el producto; lo usa para defender que aprender habilidades comercializables barato funciona | U-011-188 | T15 |
+| Anthony de Mello | Quita la obstrucción de la mente y tienes paz; del corazón y tienes amor | Adaptada: la extiende al negocio (dinero) y a cualquier sistema (resultado) | U-026-056 | T16-b |
 | Anthony de Mello (Awareness); levels of awareness del marketing | Conciencia; niveles problem/solution/product aware | Conexión entre disciplinas para una perspectiva original | U-022-176 | T08 |
 | Anthony de Mello, *Awareness* | El mismo libro rinde ideas distintas según el momento de vida del lector | ejemplo para explicar cómo las metas filtran la percepción y hacen única la marca | U-007-212 | T12-b |
 | Anthony de Mello, Awareness | No tomarse la vida tan en serio | lista de relecturas y libros resonantes | U-020-146, U-001-051 | T07-a |
 | Anthony de Mello, Awareness (recomendado por JK Molina) | Awareness para disolver rasgos y creencias de condicionamiento cultural | de-tercero (recomendación de libro) | U-020-196 | T01-a |
+| Antiguos griegos (vía Sahil Bloom) | Chronos vs kairos | Adaptada por Sahil a ventanas relacionales | U-005-062 | T16-a |
 | Antiguos griegos y estoicos romanos | El ocio/descanso como cima de la vida civilizada; no hay buena vida sin buen trabajo | De tercero (vía Rest): ambos son contrapesos necesarios | U-019-004, U-019-130, U-003-260 | T05-b |
 | Antiguos romanos y griegos, Steve Jobs | Éxito atribuido a pocas horas y mucho descanso | Referencias históricas de apoyo | U-017-063 | T05-a |
 | Análisis SWOT | Fortalezas, debilidades, oportunidades, amenazas | Adaptada al autoanálisis personal | U-022-029 | T08 |
 | April Lyn Alter; Ali Abdaal; *Breakthrough Advertising* | Referencias de alto rendimiento (intro de YouTube, video top, guía de copy) | Material que la IA descompone en pasos para crear metaprompts | U-019-146, U-012-156, U-012-158 | T07-b |
+| Ari (cofundador técnico/CTO de Kortex/Eden) | Persistencia sobre habilidad técnica, infraestructura propia como error, rebuild con proveedores externos, "until you try, giving up is meaningless" | de-tercero | U-015-187, U-015-188, U-015-194, U-015-196, U-015-208, U-015-212 | T18 |
 | Aristóteles | Causa final | De tercero, base de la teleología | U-023-259 | T02-b |
+| Aristóteles | El trabajo sostiene la vida biológica; el ocio debería sostener lo que nos hace humanos | De tercero: base para su adaptación sobre trabajo/descanso y dinero (U-008-116, fuera de este archivo) | U-008-115 | T16-b |
 | Aristóteles (atribución del autor) | "The purpose of knowledge is action, not knowledge" | De tercero: enmarca la capa de digestión de la lectura | U-021-148 | T07-b |
 | Aristóteles (mención) | Conocimiento para la acción | De-tercero mencionado de paso al presentar el "clarity bridge" | U-021-162 | T03-a |
+| Aristóteles y los antiguos griegos | El trabajo manual daña cuerpo y alma; el trabajo es medio para el ocio, la creatividad y la contemplación | Adaptada: el trabajo manual no es malo en sí, pero el trabajo robótico te vuelve reemplazable por robots | U-011-193, U-012-010 | T14-b |
 | Arnold Schwarzenegger | Comparación de "the pump" con el placer sexual | Adaptada: "creativity is mental bodybuilding, creation is spiritual sex" | U-027-090 | T14-a |
+| Arnold Schwarzenegger | El "pump" del gimnasio como placer | De-tercero: analogía del placer de crear | U-027-091 | T14-b |
+| Arquímedes | "Dame una palanca lo bastante larga y un punto de apoyo y moveré la Tierra" | De tercero: introduce el concepto de leverage | U-011-037 | T15 |
 | Arvind Narayanan y Sayash Kapoor; paper "ChatGPT is bullshit" (atribución ambigua en la transcripción) | Los programas no se preocupan por la verdad | Adaptada: las máquinas carecen de experiencia consciente; la consciencia autorreflexiva es la ventaja humana | U-006-182 | T14-a |
 | Atomic Habits (mencionado por Sahil Bloom) | Ejemplo de leer sobre hábitos sin aplicarlos | De-tercero: ilustración de la dopamina de reunir información | U-005-067 | T06 |
+| Ayn Rand | El verdadero egoísta no sacrifica a otros ni se sacrifica; rechaza al depredador y al felpudo | De tercero: define el self-interest sano dentro de la soberanía individual | U-010-274 | T15 |
+| Balaji (Srinivasan) | "It's a digital first world, physical is now a premium product"; "physical, then digital, then native digital" | De-tercero: presentada sin desarrollo, para introducir los productos digitales como leverage | U-019-066 | T14-b |
 | Balaji (The Anthology of Balaji) | "First physical, then digital, then native digital"; el dinero como herramienta para construir lo que no existe | De tercero; razón por la que aprender código y contenido "is not optional" | U-012-013 | T14-a |
 | Biblioteca infinita; monos infinitos (sin atribuir) | Experimentos mentales | "Curation matters more than creation" | U-012-198 | T08 |
+| Billy Willson, "six-figure agency course" | Generación de leads, publicidad y copywriting para agencias | de-tercero: buen curso que no le funcionó por falta de interés, outreach agotador y nicho incierto | U-010-001, U-007-106, U-010-004, U-010-006 | T17 |
 | Black Mirror, "Nosedive" | Sociedad de reputación | Analogía: sin marca personal pierdes, "but in a good way" | U-011-182 | T14-a |
 | Bobby Fischer | "Tactics flow from a superior position" | De-tercero: ejemplo del ajedrez | U-022-108, U-022-109 | T08 |
+| Brad Feld (vía Sahil Bloom) | La "Life Dinner" mensual | Adaptada como método de pareja | U-005-090 | T16-a |
 | Brandon Sanderson (conferencias de escritura) | Clases de ciencia ficción y fantasía | caso de uso de la IA como study partner | U-021-126 | T07-a |
 | Breakthrough Advertising; Great Leads | Métodos de copywriting | extraer instrucciones de libros para convertirlas en prompts | U-012-157 | T07-a |
+| Brian Johnson / "Huberman cult" | Moda de la optimización de longevidad; absolutismo de salud | Criticadas como status game y neurosis | U-024-133, U-026-228 | T16-a |
 | Bruce Lee | "Be water... you put water into a cup, it becomes the cup" | adaptada: la taza = perspectiva; flow vs apertura; no "freezing into one cup" | U-017-083 | T01-a |
 | Buckminster Fuller (Operating Manual for Spaceship Earth) | Metáfora de los Great Pirates | Adaptada a una crítica de la escuela y del prestigio de la especialización ("just a metaphor") | U-006-084 | T11 |
+| Budismo | Impermanencia; el sufrimiento como palabra central | Adaptada: la identificación con ideologías/dogmas como fuente de sufrimiento; comparison vs connection (la unidad también menciona a Alan Watts como influencia) | U-026-246, U-027-009 | T16-a |
+| Budismo | "Life is suffering" | Adaptada/crítica: dice que se malinterpreta; el sufrimiento no se elimina, se fluye con él | U-024-041 | T16-b |
 | Budismo ("beginner's mind") | La mente de principiante | Adaptada: resultado de invertir la cinta hedónica | U-018-057 | T06 |
 | Budismo (impermanencia) | Nada es permanente; todo cambia | Adaptada: la entropía "goes even further" (todo declina salvo que se mantenga); aplicada a las fases de la vida | U-026-176, U-026-095 | T04 |
 | Cal Newport | "Who you are, what you think, feel, and do, what you love is the sum of what you focus on" | Cita de apertura para limitar las prioridades a 2–3 tareas | U-003-200 | T05-b |
@@ -103,6 +138,7 @@
 | Carl Jung | "No tree can grow to Heaven unless its roots reach down to Hell"; y (parafraseado, con dudas) "if you don't make the unconscious conscious, it will determine your fate" | De-tercero; apoyo de la anti-visión y de volver conscientes las metas | U-015-058, U-010-179 | T03-a |
 | Carl Jung | Shadow work: confrontar los aspectos incómodos que evitamos | Adaptada: sentarse con el aburrimiento "hace exactamente esto" | U-018-056, U-022-217 | T06 |
 | Carl Jung (alquimia junguiana) | Proceso psicológico y espiritual de transformación | marco recomendado para entender el cambio profundo | U-022-152 | T07-a |
+| Cashvertising | Marketing para hacer atractiva una oferta | de-tercero: con él "everything started to click" | U-005-049 | T17 |
 | Cashvertising (libro; autor no nombrado) | Fundamentos como AIDA | de-tercero; lectura inicial del autor | U-015-113 | T09-b |
 | Cashvertising (libro; transcrito como "cash advertising") | Base del aprendizaje de copywriting y direct response | de-tercero: Justin lo cita y Dan lo recomienda como puerta de entrada al marketing | U-005-022, U-007-148 | T13-b |
 | Casos citados: Zuby, Hamza, Iman Gadzhi, Ali Abdaal, Elon Musk, Bezos, Kinobody, Steve Cook, Codie Sanchez, Mark Roberge, Mark Zuckerberg | Creadores y empresarios como ejemplos | Ilustran marcas amplias, nichos de autorrealización, productos distintos en un mismo campo, el costo de no nichar y la objeción del especialista mejor pagado | U-008-011, U-010-174, U-012-074, U-010-106, U-002-046, U-012-030, U-012-099, U-006-112, U-012-060, U-005-109, U-005-044, U-025-218 | T11 |
@@ -129,16 +165,21 @@
 | Cita no atribuida sobre AI native | "From how do we scale humans to how do we scale decisions, creativity, and action with machines" | De tercero; definición del modelo operativo AI-native | U-012-150 | T14-a |
 | Cita no atribuida sobre vivir en el borde | El propósito más profundo se revela en capas al vivir en tu borde | De-tercero no atribuida, integrada al concepto propio de "living at your edge" | U-027-052 | T03-b |
 | Clark Kegley | Conversación que derivó en "say one thing a thousand different ways" | propia surgida de conversación | U-011-207 | T09-b |
+| Claude; Intercom (agente Fin); centros de ayuda de Notion y Miro | IA para escribir y responder; estructura de centros de ayuda | propia: proceso de 30 artículos en dos horas con preguntas aclaratorias y revisión humana; conexión de Eden con Claude | U-008-183, U-012-234 | T17 |
 | Clip de entrevista (miembro del board de OpenAI; también se menciona a Mustafa Suleyman; hablantes ambiguos) | "I would be telling my grandchild not to go study coding" | De tercero; evidencia de la obsolescencia de habilidades específicas | U-006-103 | T14-a |
 | Clip no identificado ("chth" en la transcripción) | "Focus on the content creator side… that's where the puck is going" | De tercero; respaldo de la tesis del creador | U-010-242 | T14-a |
 | Coca-Cola | Quien vende Coca-Cola crea el producto (no necesita experiencia previa vendiendo) | ejemplo de desarrollo de producto | U-019-087 | T13-b |
 | Concepto "1,000 true fans" (autor no nombrado en la transcripción) | Bastan 500–1.000 fans verdaderos | Usado sin atribución como meta de audiencia | U-012-089, U-024-235 | T14-a |
+| Concepto japonés de ikigai | Trabajo que paga, se disfruta y es valorado | De tercero, para describir su bucle de disfrute mutuo con la audiencia | U-016-161 | T16-a |
 | Concepto NPC de los videojuegos; World of Warcraft | Personajes programados; patrones de juego (oro, profesión, niveles) | adaptada: tipología NPC vs main character; "the system is rigged" | U-023-081, U-023-232, U-023-230 | T01-b |
 | Conrad (Teachable), vía Vitali (Stan) | Es irracional terminar un curso antes de venderlo; drip, encuestas, PDF de dos páginas | de-tercero (contado por el cofundador de Stan) | U-004-035 | T13-b |
 | Consejo común "learn a skill, sell a skill, teach a skill" | Ruta skill-based estándar | adaptada: buen punto de partida pero unidimensional; debe construirse para evolucionar más allá | U-001-017, U-007-055, U-007-203, U-006-120 | T12-b |
+| Consejo común de nicho ("pick a niche, customer avatar") y drop servicing | Modelos de freelance para principiantes | de-tercero: siguió el consejo sin éxito por falta de habilidad | U-014-135, U-010-157 | T17 |
 | Cuenta de Twitter citada como "Daniel fio Cil wizard" (transcripción dudosa) | La mayoría de dueños de negocio necesita consultoría más que freelance | de-tercero, como apoyo para saltar el freelance | U-008-126 | T12-a |
 | Cursos de freelancing/marketing | Patrón starving market → sub-market → niche market | Adaptada y criticada ("still works", pero no para la marca) | U-010-095 | T11 |
+| Dakota Robertson (cohorte de ghostwriting) | Contexto donde Matt conoció a Dan | anécdota biográfica | U-015-185 | T18 |
 | Daniel Fazio (Cold Email Wizard) | Ciclos de venta más largos; gana quien tiene más y mejor contenido | De-tercero; Dan lo especifica hacia el long form (YouTube, podcasts) | U-013-088 | T10-a |
+| Daniel Priestley (transcrito "Daniel Presley") | "The biggest leverage is no longer capital... the biggest leverage is personal brand" | De-tercero: abre "old leverage versus new leverage" | U-014-172 | T14-b |
 | Daniel Schmachtenberger | Epistemic commons | adaptada: analogía propia del agua para la información | U-014-114 | T01-a |
 | Daniel Schmachtenberger | Metacrisis, generator functions, attractors, third attractor; poder de dioses requiere sabiduría de dioses; la palabra escrita y la democracia; ser "deep generalist" | de-tercero: marco para las redes, la escritura y el pensamiento de panorama | U-014-117, U-014-118, U-014-119, U-015-161, U-015-162, U-015-174, U-006-171 | T01-b |
 | Daniel Schmachtenberger | La genética seleccionó para la memética, la neuroplasticidad y los "software upgrades" | Base de que el level of mind se puede mejorar | U-022-060 | T02-b |
@@ -148,24 +189,35 @@
 | Daniel Schmachtenberger | Dinámicas rivales que optimizan para engagement y no para transformación; epistemic commons | Adaptada al internet de creadores y a la IA | U-014-120 | T10-a |
 | Daniel Schmachtenberger | Educación tradicional e hiperespecialización vuelven a la gente subordinada; "be a deep generalist" | De-tercero; adoptada como identidad future-proof (variante "deep specialist" en una ocasión) | U-006-083, U-010-215, U-024-226, U-012-096 | T11 |
 | Daniel Schmachtenberger; Naval (modo de pensar) | Formas de pensar de referencia | Ejemplo para crear un creative thought partner | U-021-186 | T14-a |
+| Daniel Vassallo (vía Justin Welsh) | Small bets: diversificar el riesgo en varios negocios | De tercero (consejo de Justin Welsh en la entrevista) | U-005-059 | T15 |
 | Danny Miranda | Podcast que lo tituló "the king of walking" | Dato biográfico | U-019-093 | T05-b |
+| Datos sin fuente | "60% of new jobs haven't been created yet"; ~80% de autónomos preindustriales vs ~10% hoy; encuesta infantil "YouTuber"; gráfico de apps con IA agéntica | Usados como apoyo retórico sin atribución | U-011-043, U-001-050, U-012-151, U-016-175, U-012-215 | T14-b |
 | David Deida (The Way of the Superior Man) | Alumno de Wilber que usó sus ideas para explicar la sexualidad y la masculinidad | Solo mención | U-023-044, U-003-118 | T02-b |
+| David Deida, "The Way of the Superior Man" | "Your edge is where you stop short... and instead cater to your fears" | De tercero: introduce vivir en el borde entre lo conocido y lo desconocido; también en su lista de libros | U-023-026, U-011-090 | T16-b |
 | David Deida, *The Way of the Superior Man* | Guía espiritual de la masculinidad | Recomendación de lectura | U-020-192 | T07-b |
 | David Deida, The Way of the Superior Man | Dinámicas masculino/femenino y crecimiento espiritual | lista de relecturas y libros resonantes | U-020-146, U-001-051 | T07-a |
 | David Deutsch | Libro que estaba leyendo, enlazado en su planner | Ejemplo de uso de la plantilla de Cortex | U-018-174 | T05-b |
+| David Deutsch | La riqueza como el conjunto de transformaciones que puedes hacer, la capacidad de crear | Adaptada: "your ability to create is your capacity to generate wealth" | U-025-124 | T15 |
+| David Deutsch, The Beginning of Infinity | Los problemas son infinitos | Adaptada: deriva que valor, riqueza y dinero (como intercambio de valor) son infinitos; recomienda estudiar el libro un año | U-025-204 | T14-b |
 | David Goggins | Imagen cultural de la disciplina extrema y del dolor elegido | Doble uso: ejemplo de alguien que quiere lo difícil (U-025-031/032) y crítica de la idea de "azotarse" (U-018-099) | U-025-031, U-025-032, U-018-099 | T06 |
 | David Ogilvy | Investigación intensiva y luego desconexión; las grandes ideas vienen de un inconsciente bien informado | De tercero: ejemplo del patrón "intense focused work blocks followed by relentless rest" | U-019-125 | T05-b |
 | David Ogilvy, Ogilvy on Advertising | Clásico de copywriting | de-tercero (lectura de Justin Welsh) | U-005-022 | T13-b |
 | David Patterson / Elon Musk; CEO de Fiverr (transcrito "Micah Kaufman"); CEO de Shopify; Duolingo | Señales de reemplazo por IA ("easy tasks will no longer exist…"; volverse AI-first) | De tercero; como contexto de urgencia, que Dan reencuadra como oportunidad | U-012-145 | T14-a |
 | David R. Hawkins | Mapa de los niveles de consciencia | De tercero, mencionada junto a states vs stages | U-023-165 | T02-b |
 | David Shapiro | Dijo que nunca le resultó difícil ni trabajó tanto | De-tercero, contrafuente | U-019-117 | T05-a |
+| David Shapiro (post-labor economics, libro "Labor Zero") | La IA rompe el bucle salarial; tres fuentes de ingreso (wages, transfers, capital) | De-tercero con postura propia: rechaza vivir de transferencias y apuesta por crear sentido | U-012-174 | T14-b |
 | Default mode network (neurociencia) | Red cerebral que procesa en reposo | adaptada para explicar el writer's block | U-023-041 | T09-b |
 | Default mode network (neurociencia, sin fuente concreta) | Red cerebral activa en reposo que conecta ideas | Adaptada: mecanismo de por qué el descanso y el trabajo corto alimentan la creatividad; también justifica trabajar "tired" o temprano | U-016-081, U-011-196, U-011-134, U-017-131, U-017-030, U-003-083 | T05-b |
+| Derek (More Plates More Dates; caso) | Gran creador que emplea a otros creadores | Caso: no hace falta gran audiencia para trabajar en la creator economy | U-010-115 | T14-b |
+| Devon (término "depression apartment") | Vivir en un apartamento que no cuesta nada en los años jóvenes | Adaptada: lo usa como táctica para cubrirse del riesgo | U-022-136 | T15 |
+| Devon Ericson, "The third ingredient of success" (artículo) | "To have agency is to be the subject of a sentence rather than its direct object" | De tercero: primera señal de la agencia, que el autor extiende con la iteración (la grafía difiere de "Devon Eriksen"; probablemente es la misma persona, pero el texto no lo confirma) | U-013-195 | T15 |
 | Devon Eriksen | "Whoever said you had to do one thing with your whole life"; permission to suck; las filosofías políticas como herramientas; la inteligencia como capacidad de contar historias y "effectiveness" | De tercero, con matices de Dan (la libertad absoluta no siempre libera; corrección de "intelligence" a "perspective") | U-006-035, U-006-017, U-006-055, U-006-030, U-006-031, U-006-011 | T02-b |
 | Devon Eriksen | Educación como aprender a enseñarse; moving target y feedback loop; agency como disposición a equivocarse | de-tercero; Dan añade "time in the market beats timing the market" | U-006-005, U-006-018, U-006-019 | T07-a |
 | Devon Eriksen | Las historias como ADN de las sociedades; la ciencia ficción como tecnología de pensamiento; demanda de ficción optimista; escribir como dragar el subconsciente | de-tercero (invitado); cita como ejemplos a Elon Musk, Heinlein, Niven, Pournelle y Ringworld | U-006-039, U-006-040, U-006-046, U-006-044 | T09-b |
 | Devon Eriksen | Las editoriales como VC, el midlist, la ruptura del modelo; "your product is you"; venderlo uno mismo como medida de valor; Kickstarter | de-tercero (entrevista); el autor lo enlaza con las one-person media companies | U-006-062, U-006-064, U-006-065, U-006-067, U-006-068, U-006-070 | T10-b |
 | Devon Eriksen | Humanos generalistas que construyen herramientas; encuadre esclavo/libre | Adaptada: guepardo/oso polar/parka; esclavos = especialistas | U-006-025, U-013-210 | T11 |
+| Devon Eriksen | "Natural stupidity"; la educación crea herramientas de propósito único; humanos como "Navigators of an everchanging environment" | De-tercero (invitado): fundamenta la agency frente a la IA | U-006-024 | T14-b |
+| Devon Eriksen | Agencia como factor raro y cuello de botella; definición de agencia; la inteligencia como necesaria pero no suficiente y biológica; belief in the existence of hard problems; reconstruir la agencia como músculo (pesas); greenfield; ego-defending beliefs; "money is a measure of [shit] given"; objetar ganancias ajenas como imposición de prioridades; derechos de propiedad; vender tiempo no escala; vender tiempo por baja agencia; build once sell forever; "feature, not a bug"; no esperar permiso para crear | De tercero en la conversación; el autor la adapta después: la tipología fácil/imposible/difícil reaparece como esquema propio (U-023-221); discrepa en la noción de inteligencia (U-006-010, U-025-150) | U-006-006, U-006-007, U-006-008, U-006-010, U-006-012, U-006-013, U-006-015, U-006-016, U-006-034, U-006-038, U-006-047, U-006-048, U-006-049, U-006-050, U-006-051, U-006-054, U-006-056, U-006-057, U-006-069 | T15 |
 | Devon Eriksen ("Devon Ericson" en una transcripción) | Seven Liberal Arts / liberating arts; réplica a Harari ("this dude doesn't know what education is") | Adaptada: añade los tres vessels, agency como pegamento y el método de sostenerlas en la mente | U-006-001, U-006-002, U-006-089, U-006-090, U-013-170 | T07-b |
 | Devon Eriksen ("Ericson" en algunas transcripciones) | Escuela gubernamental = éxito como evitar el fracaso; solo los esclavos hacen una tarea toda la vida; true education; "raised to be afraid" | de-tercero y adaptada: Koe resume ("the greatest mistake is no mistake at all") y desarrolla el wage slave | U-006-014, U-006-052, U-013-165, U-013-167 | T01-b |
 | Devon Eriksen ("Ericson" en la transcripción) | "A free man is expected to act on his interests and do many things throughout his life" | Adaptada: la conecta con "if you don't choose a purpose you will be assigned one" y la cadena meta → aprendizaje → destino | U-013-166 | T03-a |
@@ -177,6 +229,7 @@
 | Devon Eriksen (invitado; también "Devin Ericson" en transcripción) | Audiencia = gente que confía en ti; ser trustworthy y regalar muestras; integridad y calidad; rechazo de "content creator"; la editorial como "useless buffer" del feedback loop | De-tercero; Dan coincide y lo usa como caso de autor autopublicado (Theft of Fire) y de ventas como subproducto | U-006-060, U-006-061, U-006-072, U-006-059, U-006-066, U-010-250, U-025-110 | T10-a |
 | Devon Eriksen (Theft of Fire) | "Artificial stupidity"; la IA como máquinas específicas para una tarea; "nothing magical about meat"; "don't be a tool"; el futuro del audiolibro; "dumber than a sack of wet hammers" | De tercero (entrevista) y adaptada: el post de "Ericson" (transcrito así) da origen al future-proof skill stack, que Dan reinterpreta desde la visión del creador | U-006-020, U-006-021, U-006-026, U-006-028, U-006-071, U-021-218, U-013-171 | T14-a |
 | Devon Eriksen / "Devon Ericson" (invitado; novela Theft of Fire) | La causa raíz de la mala educación es que paga un tercero; fuente del video sobre educación descentralizada | de-tercero (U-006-003) y mezcla de sus ideas con las propias (U-013-164) | U-006-003, U-013-164 | T01-a |
+| Diccionario (definiciones de "slave", "force", "agency") | Definiciones léxicas | Propia: las usa como punto de partida para redefinir wage slavery y agency | U-016-184, U-016-185, U-013-189 | T15 |
 | Dicho "jack of all trades" (atribuido por el autor a Shakespeare) | "...but oftentimes better than a master of one" | Adaptada; Shakespeare como sintetizador cuyo oficio era solo un vessel | U-013-205 | T11 |
 | Dicho "people need to be reminded more than they need to be taught/something new" (sin atribuir) | La gente necesita recordatorios más que novedades | adaptado a "reminded with something new" (2023) y citado en su forma original (2025) | U-002-097, U-015-096 | T09-b |
 | Dickie Bush | Identity lists; pedir un nombre para "the opposite of lifestyle inflation" | De tercero (inspirada en James Clear y Alex Hormozi); Dan la resume y la relaciona con su tactical stress | U-002-017, U-002-014, U-002-063 | T02-b |
@@ -190,12 +243,17 @@
 | Dickie Bush | El término "forcing function" | adaptada: el one-person business como forcing function para mejorar todas las áreas | U-002-045 | T12-a |
 | Dickie Bush | La idea de una manifestación física de la comunidad online (the shipyard); Ship 30 como ejemplo de que escribir a diario mejora otras áreas | adaptada: el autor la reformula como "mastery facility", una "physical synthesis" que resuelve las carencias de su lugar | U-002-056 | T12-b |
 | Dickie Bush | "Technology is an accelerant of polarity" (ley de potencia; WALL-E) | De tercero; Dan añade que la awareness es el primer paso | U-002-047 | T14-a |
+| Dickie Bush | Abundant financial mindset; su historia financiera ("tutor to a test", BlackRock, escasez en NYC); control sobre el ingreso (inputs → outputs); el primer dólar; "just make more money"; equity vs dividends; indicators of growth; ideal scene; entrepreneurial barbell; financial confidence vs security | De tercero; Dan respalda equity vs dividends ("that's the entire way I think about it"), enmarca el barbell y corrige "just make more money" | U-002-018, U-002-019, U-002-020, U-002-026, U-002-059, U-002-060, U-002-061, U-002-062, U-002-064, U-002-065, U-002-066 | T15 |
+| Dickie Bush | Polaridad/equilibrio por extremos; cimientos tempranos de salud y finanzas; Whoop y el exceso de feedback; fitness como gateway drug; dieta (calorías, proteína); costos reales del estilo de vida | De tercero (invitado); Dan nombra "the destructive self-improvement game" a partir de su historia | U-002-035, U-002-069, U-002-087, U-002-003, U-002-085, U-002-072 | T16-a |
+| Dickie Bush | La progresión como valor central; visión polar frente al punto medio | Diálogo: Dan responde con peace and progress y "even moderation" | U-002-034, U-002-036 | T16-b |
+| Dickie Bush | Interlocutor a quien anunció que solo hablaría de one-person business | de-tercero (contexto) | U-002-010, U-002-076 | T17 |
 | Dickie Bush (anfitrión) y creadores de YouTube fitness (Matt Ogus, Chris Lovato, Joe Delaney), ciclista Abdul | Conversaciones largas sin filtro como fuente de perspectiva | ejemplos del valor del long form | U-002-001 | T09-a |
 | Dickie Bush (invitado) | Golden handcuffs e inflación del estilo de vida; "self-awareness all the way down" | de-tercero, con añadidos de Dan | U-002-048, U-002-088 | T01-a |
 | Dickie Bush (invitado) | "The liquid takes the shape of its container" | De tercero, apoyado en James Clear y Alex Hormozi | U-002-016 | T02-a |
 | Dickie Bush (invitado) | Se aprende más rápido destilando con la lente de compartir | De-tercero, integrado en el "perspective vessel" | U-002-055 | T08 |
 | Dickie Bush (invitado) | Documentar crea relación; public forcing function; trusted curator; articulación de la metáfora de las acciones | De-tercero / co-construida con Dan; además caso de DM estratégico | U-002-002, U-002-025, U-002-042, U-002-009, U-015-120, U-002-004 | T10-a |
 | Dickie Bush (invitado) | Cita de Dan sobre "$100,000 worth of product ideas" y el frame breaking del primer mes de $10k | Testimonio que refuerza una idea propia de Dan; menciona a un "Will" de forma ambigua | U-002-022 | T13-a |
+| Dickie Bush (invitado) | La tecnología amplía la brecha | Objeción registrada a la tesis del "mental plane" | U-002-044 | T14-b |
 | Dickie Bush (Ship 30 for 30) | Two-year test; de lo táctico a lo de alto nivel o volver a bajar con un ángulo nuevo | de-tercero (conversación); el autor lo integra con su giro a lo "pithy" | U-002-052, U-002-054 | T09-b |
 | Digital Millionaire Secrets (libro) | Entender lo que pasa online con lente de marketing | recomendado (de-tercero) con reservas por el título | U-007-213 | T09-b |
 | Distinción mapa/territorio (no atribuida) | El mapa no es el territorio | adaptada: cursos y consejos como "a candle in the distance" | U-022-024 | T07-a |
@@ -205,10 +263,12 @@
 | Eckhart Tolle (The Power of Now) | Idea asociada a un autor | Ejemplo para explicar el mental monopoly | U-001-135, U-007-136 | T11 |
 | Eckhart Tolle, The Power of Now | Libro espiritual | historia: superar la incomodidad con "God" siendo ateo; ejemplo de "missing the point" | U-017-081 | T01-a |
 | Eckhart Tolle, The Power of Now | Ideas que se pegan y se replican; puso el mindfulness en el mapa; inversión de horas de atención | ejemplo de idea warfare, de monetización indirecta y del poder del long form | U-009-017, U-007-140, U-001-139, U-017-067 | T09-a |
+| Eckhart Tolle, The Power of Now (y A New Earth) | Libro de espiritualidad y presencia que alivió su preocupación tras el arresto | de-tercero: lo presenta como "catalyst to it all" y como ejemplo de retención por intención; recomienda la secuela | U-007-100, U-020-120, U-020-001, U-020-002, U-020-189, U-001-052 | T17 |
 | Eddie Shlainer | Idea del "peek behind the curtain" | de-tercero, adaptada por Justin Welsh | U-005-037 | T13-b |
 | Eddie Shlainer (verygoodcopy.com), vía Justin Welsh | Curtain language | Adaptada por Justin para sus secuencias de promoción; matizada por la idea de aggregation | U-005-036 | T13-a |
 | Edward Herman y Noam Chomsky (modelo de propaganda) | Cinco filtros de los medios | de-tercero: capa 5 de la social matrix; redes e IA lo llevan a otro nivel | U-023-209 | T01-b |
 | Efecto mariposa (recordado de forma imprecisa) | Pequeñas acciones, grandes efectos | Las acciones del perspective vessel tienen efecto dominó | U-017-094 | T08 |
+| Efecto Pygmalion (vía Sahil Bloom) | Te elevas al nivel de expectativas que otros tienen de ti | Adaptada: elegir tu tribu | U-005-082 | T16-b |
 | Efecto Zeigarnik | Concepto para vencer la procrastinación | ejemplo de formato "aprendí este concepto esta semana" | U-021-134 | T09-b |
 | Efecto Zeigarnik | "The brain hates uncompleted tasks" | Adaptada a la palanca "give the first step" | U-013-247 | T13-a |
 | Efecto Zeigarnik (psicología) | El cerebro retiene tareas incompletas (open loops) | Adaptada en dos sentidos: cortar un bloque antes para volver con ideas; reflexionar de noche para cerrar bucles | U-003-204, U-018-071 | T05-b |
@@ -219,6 +279,7 @@
 | Elon Musk | Ejemplo de que todos los admirados son creators que comparten su voz | ejemplo | U-010-254 | T12-a |
 | Elon Musk (despidos en Twitter); Tesla | 80% del staff despedido; fábricas automatizadas en más de 75% | Datos de contexto de la disrupción y la automatización | U-006-073, U-008-118 | T14-a |
 | Elon Musk (ejemplo) | La exploración espacial por pasión | ejemplo de contraste con elevar la consciencia colectiva | U-024-061 | T01-a |
+| Elon Musk (ejemplo) | Visión imposible hoy con pasos construidos; "making money to create"; motivado por un propósito | Ejemplo usado por Devon, Sahil y Dan | U-006-006, U-006-009, U-005-115, U-005-116, U-005-111 | T15 |
 | Elon Musk (tuit) | "Who wrote the software running in your head?" | de-tercero: encuadre del video de 2025 | U-023-201 | T01-b |
 | Elon Musk / Tesla / Optimus | Iteraciones y feedback negativo que corrigen los bugs | Ejemplo de Nature's Compass | U-020-082 | T07-b |
 | Elon Musk; MrBeast | La atención atrae capital, talento y recursos | Ejemplos extremos de attention as leverage; MrBeast también criticado por su monetización | U-012-188, U-015-041, U-016-129 | T10-a |
@@ -237,10 +298,13 @@
 | Excision (y artistas de EDM/punk) | El público quiere el mismo sonido | metáfora del autor para la repetición | U-011-223, U-022-188, U-011-207 | T09-b |
 | Facebook (dato) | Más de 20.000 millones de dólares anuales en I+D | Evidencia de la inversión en dopamine loops | U-012-119 | T06 |
 | Filosofía griega | Actividades télicas vs atélicas ("telos" = meta) | Adaptada: enfocarse en el presente con la meta en el fondo de la mente (interpretación ambigua) | U-027-055 | T03-b |
+| Filosofía perenne | Todas las grandes tradiciones comparten un núcleo metafísico | De tercero: "the antithesis of black and white dogmatic thinking" | U-022-150 | T16-b |
+| Flora | App de canvas cuyo logo coincidía con el de Eden | anécdota; motivó el cambio de logo | U-015-207 | T18 |
 | Frameworks de copywriting AIDA, PAS/PASO, PASTOR (autores no nombrados) | Estructuras de copy | De-tercero; los usa como contenedores de sus ocho piezas de value creation y extrae su mecánica común (causa y efecto, information gap) | U-011-110, U-001-070, U-011-177, U-013-149, U-014-097, U-014-098, U-004-034 | T13-a |
 | Frameworks de copywriting PAS, AIDA, PASTOR | Estructuras persuasivas | adaptada: training wheels; BPAS como evolución propia de PAS | U-009-028, U-014-166 | T09-a |
 | Frank Yang (citando a Sigmund Freud) | Sex drive y death drive; buscar el dolor bueno | Adaptada: "mental bodybuilding", dejar morir partes de la identidad y curar entornos tipo gimnasio | U-027-133 | T02-a |
 | Friedrich Nietzsche | La vida disfrutable en la superación de la resistencia ("musings of many philosophers") | Adaptada, junto con la psicología del flow | U-024-120 | T02-b |
+| Friedrich Nietzsche | "Happiness is the feeling that power increases, that resistance is being overcome" | Adaptada: la aplica al progreso personal y la extiende al negocio como vehículo; se vuelve espiritual al ayudar a otros a progresar | U-016-156 | T16-b |
 | Fuente no nombrada (cifras de bits) | Mente consciente 40–50 bits/s vs inconsciente 11 millones | Dato citado sin fuente ("there's some fact or something like that") | U-021-019, U-026-074, U-027-003, U-023-108, U-025-060, U-017-137, U-027-092 | T04 |
 | Fuente no nombrada (gran cadena del ser / filosofías ascendentes) | Ascending vs descending; physiosphere, biosphere, noosphere | adaptada: explica la demonización del dinero y el sexo | U-018-022 | T01-a |
 | Fuente no nombrada (posible teoría integral) | Bases tecnoeconómicas de la sociedad; el arado y el patriarcado | adaptada (fuente no identificada en la transcripción) | U-018-020, U-018-021 | T01-b |
@@ -250,12 +314,16 @@
 | Gary Halbert o David Ogilvy (atribución incierta) | Delinear y luego desconectar hasta que llega el aha moment | de-tercero; lo generaliza a la iteración de la visión de vida | U-026-029 | T09-b |
 | George Leonard, *Mastery* | La maestría como proceso en que lo difícil se vuelve fácil y placentero con la práctica | Adaptada: la opone a la gratificación instantánea y a querer entender todo ya | U-013-063 | T07-b |
 | Goethe | "Music is liquid architecture, architecture is frozen music" | Adaptada: todo tiene estructura de historia, y el marketing guía a la gente por ese viaje | U-016-168 | T13-a |
+| Google Drive, Miro, Poppy, Frame.io | Herramientas cuyo equivalente integra Eden | referencia de alcance (Matt) y de ambición ("better than Google Drive") | U-015-204, U-015-208 | T18 |
 | Greg McKeown (Essentialism) | ¿Hay un punto en que hacer menos y pensar más produce mejores resultados? | De-tercero: introduce concentration of force | U-022-137 | T08 |
+| Greg McKeown (Essentialism) | La capacidad de elegir "can only be forgotten" | De tercero, para sostener que siempre puedes elegir distinto (cita transcrita de forma ambigua) | U-027-170 | T16-a |
 | Greg O'Gallagher | Unió intermittent fasting y reverse pyramid training en un programa propio | de-tercero: caso de unique mechanism | U-011-169 | T13-b |
+| Gutenberg / la imprenta; Leonardo da Vinci, Michelangelo, Einstein | La imprenta derrumbó el coste del conocimiento y produjo el Renacimiento y a sus polímatas | Adaptada: paralelo con internet e IA ("the pattern is still there"), sostenido como especulación | U-010-284, U-010-285, U-010-227 | T14-b |
 | Hamza | Ejemplo de cuenta achiever en redes | Ejemplo | U-021-092 | T02-a |
 | Hamza | Ejemplo de ramificarse a nuevas oportunidades sin dejar las redes | ejemplo | U-008-042 | T12-a |
 | Hamza; The Way of the Superior Man | Libro espiritual leído en clave "red pill" | Ejemplo de atraer en la etapa achiever y elevar dentro | U-021-093 | T10-a |
 | Harrington Emerson | Los métodos son millones, los principios pocos | Adaptada: las lever-moving tasks son los principios detrás de las tácticas; justifica no dar recetas | U-017-129 | T05-b |
+| Harvard Study of Adult Development (vía Sahil Bloom) | La satisfacción relacional a los 50 predice la salud física a los 80 | Evidencia para tomarse las relaciones en serio | U-005-078 | T16-a |
 | Henry Ford | Líneas de montaje y la jornada 9-to-5 | Hito en la cadena histórica de la abundancia | U-018-024 | T06 |
 | Hermann Hesse | "Determine what is important and laugh at the rest" | Adaptada: "zoom in on what's important and zoom out from everything else" | U-014-024 | T08 |
 | Hermetismo / *The Kybalion* | "Hermetic law of use"; siete principios herméticos de la realidad | Adaptada (ley del uso aplicada al consumo de información) y recomendación de lectura | U-014-032, U-020-193 | T07-b |
@@ -263,12 +331,15 @@
 | Herramientas y plataformas (Stan, Notion, Lovable, Bolt, Udemy, Stripe, PayPal) | Plataformas de venta, construcción o pago | Referencias prácticas, no fuentes conceptuales | U-004-034, U-009-188, U-009-151, U-007-187, U-009-263, U-016-133 | T13-a |
 | Hoffman (teoría de la percepción, según la transcripción) | Percepciones basadas en fitness | de-tercero: la conecta con McKenna, la no dualidad, el idealismo, el hinduismo y el budismo; "feels more right" | U-023-120 | T01-a |
 | Horace Mann y el sistema prusiano | Modelo para crear obreros obedientes (asistencia obligatoria, grados, exámenes) | de-tercero/interpretación del autor: "property of the system", no conspiración | U-010-220, U-021-138, U-013-208, U-023-207 | T01-b |
+| Ian (miembro temprano de Kortex) | Rediseño completo no solicitado; primeros features del editor | ejemplo de alta agencia (2024) y de la estructura compartimentada (2025) | U-006-176, U-015-189 | T18 |
 | Idea mimética (sin atribución) | Los humanos son criaturas miméticas | propia (sin atribuir): aplicada a la cultura del grind | U-019-123 | T01-a |
 | Ikigai (concepto japonés) | Intereses, pasión, lo que el mundo necesita | Comparación: AQAL como "ikigai on steroids" | U-022-053 | T08 |
 | Ilya Prigogine (*The End of Uncertainty*, como lo nombra) | La flecha del tiempo es real; sistemas lejos del equilibrio crean dissipative structures | De-tercero; adaptada a la psicología: el caos vital como oportunidad de que emerja una versión superior | U-019-155, U-019-157 | T04 |
+| Imagen "finger at the moon" (sin atribución) | El dedo que señala la luna | Aplicada a la infelicidad que señala una lección | U-026-248 | T16-a |
 | Instructora de Pilates de su esposa (no nombrada) | Juzgar la postura ajena para corregir la propia | Adaptada a observar y discernir la vida de otros | U-024-211 | T08 |
 | Integral theory, Spiral Dynamics | Lentes para dar sentido a la realidad | mencionadas como parte del worldview del que nace su punto de vista | U-021-224 | T10-b |
 | Intermittent fasting; StrongLifts 5x5 | Sistemas personales populares | ejemplos de personal system y unique mechanism | U-009-174, U-009-215, U-011-169 | T13-b |
+| Investigación psicológica sobre necesidades y desarrollo humano (no nombrada) | Autorrealización | Mencionada de forma genérica ("decades of psychological research") | U-025-195 | T16-b |
 | Invitado del podcast de David Senra (sin nombre) | "Asset creation is a necessary but insufficient condition for hit creation" | De tercero; respaldo de los five ingredients | U-012-214 | T14-a |
 | Ira Glass | El "taste gap" y cerrarlo con volumen y plazos | De-tercero | U-010-228 | T08 |
 | Jack Butcher | "Build distribution then build whatever you want" | Cita literal (de-tercero) y luego adaptada con una secuencia propia y el umbral 10,000/1,000/100; la conecta con "distribution equals freedom" | U-011-033, U-009-038, U-012-037, U-013-095 | T10-a |
@@ -285,10 +356,14 @@
 | James Clear, Atomic Habits | Asociación entre una palabra ("habits") y un autor gracias a experimentos de conducta | ejemplo de "make tangibility tangible" | U-004-011 | T09-a |
 | James Clear, Naval Ravikant, Andrew Huberman | Contenido corto con un fin significativo, libros y formatos largos | Ejemplos de contenido "syntropic" frente al entrópico | U-015-176 | T04 |
 | James Patterson | Usa ghostwriters, pero orquesta la trama y el negocio | Ejemplo de la metáfora de la IA como ghostwriter | U-012-130 | T14-a |
+| James Patterson (caso) | Usa ghostwriter pero conserva trama, tono y conciencia de ventas | Caso: el maestro sigue siendo generalista y emprendedor con IA | U-018-161 | T14-b |
 | Jason Fried y David Heinemeier Hansson, Rework (37signals); Shark Tank | El consenso de "build an audience" | De-tercero, como evidencia de consenso (sin detallar el libro) | U-009-232 | T10-a |
 | Jason Roberts | Luck surface area | De-tercero; justifica comunicar públicamente tu obra | U-020-035 | T10-a |
+| Jeff Bezos | "All overnight success takes about 10 years" | De tercero: dejar de compararse con quien lleva 5–10 años | U-015-086 | T16-b |
 | Jerarquía de necesidades ("hierarchy of needs") | Necesidades básicas que acaparan la atención | Obstáculo para perseguir la curiosidad y construir el personal monopoly | U-001-130 | T11 |
 | Jerarquía de necesidades (autor no nombrado en la transcripción) | Necesidades básicas antes de la autoactualización | Adaptada: dominar la supervivencia antes de perseguir la curiosidad; antecedente de los niveles de propósito | U-007-130 | T03-b |
+| Jerarquía de necesidades de Maslow | Lista de necesidades humanas | Propia con referencia: "la mayoría hoy requieren dinero" | U-016-162 | T15 |
+| Jesucristo y Buda | Ejemplos de individuos de alta consciencia | Propia: ilustran la empatía de la consciencia superior al hacer zoom out (sin "traer religión") | U-026-105 | T16-b |
 | Jiddu Krishnamurti | "Thought is always conditioned and therefore mechanical"; "only those who are in constant revolt discover what is true"; la tradición como seguridad y la mente segura "in decay" | de-tercero (citas) y adaptada (glosa sobre patrones guardados; conexión con la entropía) | U-023-203, U-013-190, U-027-205 | T01-a |
 | Jiddu Krishnamurti | "It is no measure of health to be well-adjusted to a profoundly sick society" | de-tercero: apertura de la sección de historia | U-022-092 | T01-b |
 | Jiddu Krishnamurti | "Not to imitate but to discover, that is education"; rebelarse contra todo para descubrir la verdad | De tercero: cita como fundamento de true education | U-006-154 | T07-b |
@@ -299,9 +374,11 @@
 | JK Molina | "If your offer sucks, it doesn't matter how much traffic you send to it" | adaptada: Dan la amplía con la analogía de las citas, la suerte y el leverage | U-007-122 | T13-b |
 | Jocko Willink ("Jocko"; transcrito como "Draco willing") | "Discipline equals freedom" | Adaptada: "in business, distribution equals freedom" | U-001-133, U-007-134, U-013-048 | T10-a |
 | Joe Dispenza | "Your personality creates your personal reality" | Adaptada: identidad → perspectiva → percepción → elecciones | U-023-085 | T02-a |
+| Joe Dispenza | Explicación neurocientífica del cambio | Contraste: el autor prefiere la lente espiritual por congruencia | U-026-011 | T16-b |
 | Joe Dispenza, Becoming Supernatural | Familiar past / predictable future que cablean la personalidad | adaptada: toma la idea y deja la ciencia para Dispenza; prefiere la lente espiritual | U-026-010 | T01-a |
 | Joe Dispenza, Becoming Supernatural | Romper el ciclo de repetición de lo conocido ("potentially pseudoscience") | lista de relecturas | U-020-146 | T07-a |
 | Joe Rogan, MrBeast | Rogan mezcla educación, inspiración y entretenimiento; MrBeast es solo entretenimiento | ejemplos del framework de los tres pilares | U-009-015, U-009-014 | T09-a |
+| Joey (socio de Dan) | Primera incursión en software con desarrollo externalizado | anécdota | U-015-186 | T18 |
 | John Hu / "John Hugh" (Stan) | Caso del currículum de Goldman Sachs vendido a $10; SKUs y plantillas como "process in template" | de-tercero: caso ejemplar del micro product y formatos para escalar | U-008-153, U-015-155, U-004-033 | T13-b |
 | John Hugh (cofundador de Stan) | El rendimiento depende de cuánto hace sentir el contenido; competir con memes; tangibilidad; "give give give" | de-tercero; Koe la extiende con "make tangibility tangible" | U-004-009, U-004-010, U-004-017 | T09-a |
 | John Hugh (cofundador de Stan) | Escribir para tu yo joven; la historia mínima es tensión y conflicto | de-tercero (invitado) | U-004-002, U-004-014 | T09-b |
@@ -310,8 +387,11 @@
 | John Hugh (cofundador de Stan) | "You are the niche" vía autenticidad; "in wedge"; value proposition | De-tercero (invitado) | U-004-025, U-004-026, U-004-031 | T11 |
 | John Hugh (cofundador de Stan) | Empezar con coaching o consultoría, "paid in the learning insights", detectar patrones en 5–10 clientes y productizar | de-tercero | U-004-032 | T12-a |
 | John Hugh (cofundador de Stan) | La audiencia te dice qué vender; involucrar pronto a los seguidores contra el perfeccionismo | De-tercero | U-004-005, U-004-037 | T13-a |
+| John Hugh (cofundador de Stan) | Cuellos de botella, soporte humano, cuándo y cómo contratar (zones of genius, visualización), encontrar 10x como problema de marketing, ownership, qué significa escalar, curse of the individual contributor, build an organization, distribución por contenido, conocer quién eres, PMF por iteración, meta time, construir en persona, Pop Quiz | de-tercero (entrevista); Dan resume ("Stan as the offer") y matiza (U-004-061) | U-004-043, U-004-045, U-004-047, U-004-048, U-004-049, U-004-052, U-004-053, U-004-056, U-004-060, U-004-069, U-004-071, U-004-072, U-004-073, U-004-076, U-004-077, U-004-078, U-004-079, U-004-081, U-004-082, U-004-083, U-004-084 | T18 |
 | John Hugh (Stan) | Repeticiones pequeñas diarias, primeras horas sin teléfono, "creative spark" | De-tercero | U-004-063 | T05-a |
 | John Hugh (Stan) | Adicción a lo urgente, Slack y email; el modelo input/output de finanzas falla a escala creativa | De tercero (entrevista), apoyado en Naval | U-004-064 | T05-b |
+| John Hugh y Vitali (cofundadores de Stan) | La persistencia como único rasgo común de los exitosos; "nothing is impossible"; "your level of confidence defines your level of achievement" | De tercero (invitados) | U-004-086 | T16-b |
+| John Hugh y Vitali (fundadores de Stan) | Vender lo auténtico a la audiencia (la plantilla de currículum); agilidad organizativa | de-tercero: casos y testimonio del onboarding del autor | U-004-006, U-004-050 | T17 |
 | Jordan Peterson | "What you aim at determines what you see" | De-tercero; confirma la tesis de que las metas moldean la percepción | U-027-216 | T03-a |
 | Jordan Peterson | "A positive aim for your life" | Adaptada: el destino determina el viaje (contra "systems over goals") | U-017-232 | T03-b |
 | Jordan Peterson | Articulación basada en un body of work | ejemplo | U-022-187 | T09-a |
@@ -321,9 +401,12 @@
 | Jordan Peterson (ejemplo) | Difundió sus ideas por tener una "business mindset" | ejemplo ilustrativo | U-010-048 | T01-a |
 | Jordan Peterson (We Who Wrestle With God) | Trayectoria de cristiano a agnóstico y de vuelta a Dios con lectura simbólica | Caso de pre-rational → rational → post-rational; Dan lo ubica entre strategist y construct-aware | U-021-090, U-021-101 | T02-b |
 | Jordan Peterson / Alan Watts | Articulación y capacidad de pensar como ejemplos de inteligencia desarrollada | ejemplos de lo que tarda años | U-021-051 | T07-a |
+| Jordan Peterson, Alan Watts, Daniel Schmachtenberger | Modelos de articulación de ideas profundas | adaptada: la admiración que lo llevó a escribir para volverse articulado; Watts también en sus lecturas de referencia | U-022-155, U-022-184, U-014-171, U-001-052 | T17 |
 | Jordan Peterson, Alan Watts, Daniel Schmachtenberger, Seneca, Nietzsche | Articulación, magia/poética, claridad, consejo conciso, lo críptico, elegancia | Modelos admirados de pensamiento y articulación | U-021-002, U-022-045, U-022-169 | T08 |
+| Jordan Peterson, Andrew Huberman, Alan Watts (casos) | Personas con marca alineada con su propósito; Peterson no es "content creator" | Casos: life's work, marca como vessel, "true creators will adapt" | U-012-143, U-012-227 | T14-b |
 | Jordan Peterson, Andrew Huberman, Marco Aurelio | Investigan sus intereses como trabajo | Ejemplos de "researcher and a vessel" | U-010-347 | T07-b |
 | Jose Rosado | Caso: banners → diseño web → productos digitales | ejemplo | U-006-127 | T12-a |
+| Jose Rosado | Tuits de autoayuda ("harsh truths") junto a servicios de diseño web | de-tercero: puerta de entrada a Money Twitter y prueba de que se atraían clientes escribiendo | U-010-012, U-010-100 | T17 |
 | Justin Welsh | Rutina estructurada; eliminate, automate, delegate; auditar por energía | De-tercero; Dan lo adopta como "a big thing of mine" | U-005-013, U-005-014 | T05-a |
 | Justin Welsh | Phone-less walks como tiempo claro para pensar; caminatas de 90 minutos "quasi work and quasi play"; ajustar tareas a la curva de energía y probar el cambio | De tercero (entrevista); inspira la reflexión de Dan sobre su "morning problem" | U-005-010, U-005-012, U-005-016, U-005-015 | T05-b |
 | Justin Welsh | 90 días sin alcohol para "reset my balance"; el alcohol como mecanismo de afrontamiento | De-tercero: caso de reinicio por abstinencia | U-005-007 | T06 |
@@ -335,6 +418,11 @@
 | Justin Welsh | Historia del estigma de llamarse "entrepreneur" | de-tercero; el autor la relaciona con el estigma de la palabra | U-005-034 | T12-a |
 | Justin Welsh | "Walking business" en lugar de personal brand; "service before product" (coaching barato a 20 personas → producto); subir tarifas y enrutar entre producto y servicio; loop servicio → productizar → repetir; comunidad privada paga como distribución propia; "one-person businesses are mostly about marketing"; one-man ≠ no-code business | de-tercero (invitado en entrevista); el autor lo adopta en su propia secuencia servicio → producto | U-005-033, U-005-056, U-005-057, U-005-052, U-005-040, U-005-048, U-005-051 | T12-b |
 | Justin Welsh | Trust tripwires; secuencia de promoción (setting the table, peek behind the curtain); testimonial flywheel; dos productos de $150 que suman $1M al año; camino del direct response a la voz auténtica | de-tercero (entrevista de 2021) y caso citado por Dan; el autor lo usa como modelo del one-person business | U-005-032, U-005-037, U-005-038, U-005-022, U-009-037, U-007-148 | T13-b |
+| Justin Welsh | "I'd rather build 10 $50,000 businesses than one $500,000 business" | De tercero | U-005-059 | T15 |
+| Justin Welsh | Burnout como pérdida de control; persona "binary"; filosofía "do what I want with whom I want whenever I want" | De tercero (invitado); Dan la generaliza como "personal sovereignty" | U-005-004, U-005-009, U-005-003 | T16-a |
+| Justin Welsh | Ataque de pánico como punto de inflexión; caminar 10 millas al día, sin alcohol, para ganar claridad | De tercero (invitado): casos de reinicio de salud previo a emprender | U-005-005, U-005-008 | T16-b |
+| Justin Welsh | "Who do you like to spend time with" como criterio para elegir clientes; su trayectoria SaaS → negocio de una persona | de-tercero/adaptada: el autor aplicó la pregunta al elegir consultar a creadores | U-005-058, U-005-002, U-005-049 | T17 |
+| Justin Welsh (caso) | De ejecutivo quemado a consultoría y cursos; negocio multimillonario con 2–4 horas al día | Caso propio del autor sobre un tercero: prueba de que los media products no son estafa y de que el mercado no es winner-takes-all | U-010-247, U-012-189 | T14-b |
 | Justin Welsh (como ejemplo) | "Rey" del humble flex (post de "12x days" con captura de ingresos) | adaptada: ejemplo del mandamiento 7 | U-013-114 | T09-a |
 | Justin Welsh (invitado) | Resolver primero el problema parecido de otra persona | De-tercero; el autor lo conecta con "soy bueno en el marketing ajeno" | U-005-011 | T08 |
 | Justin Welsh (invitado) | Content matrix, pipeline por lotes (Hypefury, Hemingway), loop de datos de ventas, adicción a la atención | de-tercero: el sistema de Justin, expuesto por él mismo | U-005-027, U-005-028, U-005-021, U-005-023 | T09-a |
@@ -351,6 +439,7 @@
 | Ken Wilber (AQAL; A Brief History of Everything) | AQAL como "map of all knowledge": cuatro cuadrantes, niveles, líneas, estados y estadios; todos los cuadrantes contienen verdad | Adaptada: base de la definición de stupid thinking y de la "fourth dimension" de su framework propio | U-022-046, U-022-050, U-022-051, U-022-088, U-022-079 | T08 |
 | Ken Wilber (controversia) / Alan Watts (alcoholismo) | Maestros imperfectos | Propia: "the medium and the message are separate" | U-023-046 | T08 |
 | Ken Wilber (holones) | Partes y todos anidados | Propia aplicando a Wilber: tú → intereses → nicho → mercado → redes | U-003-123 | T11 |
+| Ken Wilber (inferido, no nombrado) | Tenet de los holones: destruir lo inferior destruye lo superior | Adaptada al cuerpo como base de mente, trabajo y relaciones | U-019-171 | T16-a |
 | Ken Wilber (inferido, sin atribución explícita) | Whole/parts (holones) y secuencias evolutivas (materia-vida-mente-alma-espíritu; fases tecnoeconómicas) | Adaptada (según la unidad, el vocabulario se asemeja al de Wilber pero no lo acredita en ese pasaje) para afirmar que del desorden emerge un nuevo todo | U-019-156 | T04 |
 | Ken Wilber, A Brief History of Everything | Entender el mundo holísticamente | lista de relecturas | U-020-146 | T07-a |
 | Kevin (tuit, sin apellido en la fuente) | No intentes construir una marca personal: sé tú mismo online | adaptada: "online character" | U-012-135 | T10-b |
@@ -358,6 +447,7 @@
 | Kevin Dorsey | Escribía en LinkedIn como thought leader de ventas | de-tercero: modelo que Justin Welsh copió para elegir plataforma | U-005-018 | T10-b |
 | Kevin Kelly | "Thousand true fans" | Citado por Justin Welsh como resultado del niche of one | U-005-045 | T11 |
 | Labor theory of value (concepto económico) | Pago proporcional al trabajo | crítica: la usa para describir la mentalidad del empleado frente al ingreso asimétrico | U-014-158 | T12-a |
+| Labor theory of value (concepto económico, sin autor atribuido) | Pagar según la cantidad de trabajo | Crítica: la convierte en el "frame" o "old paradigm" que hay que romper | U-016-002, U-019-009, U-016-270 | T15 |
 | Lance Armstrong, The Rock | Uso de PEDs | Ejemplos de glitches | U-024-125 | T02-a |
 | Lawrence Freedman | Estrategia como evolución de una idea central en circunstancias cambiantes | De-tercero: base de la estrategia de vida | U-022-026 | T08 |
 | Leo Gura | "Figments of Consciousness" | Término alternativo que Dan descarta en favor de "units of mind" | U-010-110 | T02-b |
@@ -369,6 +459,7 @@
 | Ley de Parkinson (sin autor nombrado) | El trabajo se expande hasta llenar el tiempo disponible | Adaptada como razón por la que funciona el estrés táctico | U-027-212 | T06 |
 | Libro *Games* (autor no nombrado; subtítulo "Agency as Art") | En los juegos tomamos un fin por los medios ("motivational inversion"); los juegos "record agencies" | Adaptada: la agencia se desarrolla practicando las agencias de otros hasta crear la propia; saber cuándo romper con la conformidad | U-013-219 | T03-a |
 | Libro no identificado (Heisenberg) | Un descubrimiento relacionado con la bomba atómica llegó a Heisenberg cruzando la calle | De-tercero de segunda mano (fuente ambigua) | U-019-034 | T05-a |
+| Liver King | Ejemplo extremo del dogmatismo de fitness en Twitter | de-tercero: contraejemplo | U-002-010 | T17 |
 | Ludwig Wittgenstein | "To show the fly the way out of the fly-bottle" | de-tercero: imagen que enmarca todo un video | U-022-006 | T01-a |
 | Maestros espirituales (genérico) | La presencia | Contrastada con el flow | U-023-139 | T03-b |
 | Maestros espirituales y antiguos (genérico); "the now", "no mind" | La pérdida de autoconsciencia y egocentrismo como fin del sufrimiento; el presente | Adaptada: equipara esos estados con grados de flow | U-023-226, U-003-015, U-020-198, U-023-110 | T03-a |
@@ -377,6 +468,8 @@
 | Marco Aurelio (Meditaciones) | Ideas que sobreviven a su autor | Ejemplo de transmisión que eleva la conciencia colectiva | U-027-085 | T11 |
 | Marco Aurelio, Alan Watts | Figuras cuya reputación hace valiosa cualquier frase | contraejemplo para principiantes | U-016-279 | T09-b |
 | Marcus Aurelius | Contraste con los "fortune cookie tweets" | ejemplo negativo: no basta con aforismos, hay que entender attention mechanics | U-010-346 | T12-a |
+| Marcus Aurelius | La educación uno a uno de las clases altas griegas; ejemplo de marca personal | Adaptada: internet devuelve esa educación; incluso él tiene "marca" por su alineación con el propósito | U-027-239, U-012-227 | T14-b |
+| Marcus Aurelius (Meditations) | Vivir de acuerdo con la naturaleza | De tercero, como respaldo de "live in accordance with what is / reality / God" | U-027-086 | T16-a |
 | Marcus Aurelius, Alejandro Magno (ejemplos) | Ídolos cuyas historias son highlight reels | ejemplo | U-002-088 | T01-a |
 | Mark Manson | Libros que eximen de optimizar el contenido | Ejemplo | U-012-111 | T10-a |
 | Mark Manson ("The Rise and Fall of Ken Wilber") | "Even the most conscious beings are still human, we still have egos" | Base del principio "the medium and the message are separate" | U-023-045, U-003-118 | T02-b |
@@ -384,18 +477,22 @@
 | Marketers y copywriters tradicionales (direct response) | Hacks de copy y ventas, tácticas de direct response | adaptada y relativizada: el autor usa el skill set de forma auténtica y sostiene que con una marca de confianza "your content has already done the selling" | U-007-175, U-015-153 | T12-b |
 | Marketing de podómetros | Los 10.000 pasos como cifra comercial | Corrige la cifra: 7.000–8.000 como punto dulce | U-018-063 | T05-b |
 | Marques Brownlee | Chief Creative Partner de una empresa | Evidencia de que las empresas incorporan creadores | U-006-114 | T14-a |
+| Martin Berkhan (Leangains) y Thomas DeLauer | Ayuno intermitente, proteína alta, entrenamiento compuesto | Referencias citadas por Dan, con duda sobre causalidad | U-002-085 | T16-a |
 | Martin Luther King Jr., Kobe Bryant ("Black Mamba"), Eddie Hall | Ejemplos de alter egos y de tomar cualidades de otra situación o identidad | De tercero (probablemente vía Herman, no declarado) | U-025-098 | T02-a |
 | Marvel Cinematic Universe | Universo de películas, figuras y lore para consumir de corrido | metáfora para "build a world not a funnel" | U-015-126 | T12-a |
 | Maslow (jerarquía de necesidades) | Autorrealización y autotrascendencia | Adaptada: los negocios de información ayudan a más gente a llegar a esas etapas | U-001-103 | T13-a |
+| Maslow (jerarquía de necesidades) | Autorrealización y autotrascendencia | Adaptada: el information business lleva a más personas a esos niveles; basic vs growth needs | U-007-165, U-006-180, U-006-110 | T14-b |
 | Mason Currey, Daily Rituals | Rutinas de creativos; la de Darwin | De-tercero; inspiración para experimentar con su rutina | U-018-177 | T05-a |
 | MasterClass, Udemy, Skillshare, Reddit | Fuentes para investigar ideas de producto | herramientas de investigación | U-009-160 | T13-b |
 | Matt (cofundador de Cortex) | Conclusión compartida: la IA es inteligencia útil para aprender | Conversación que respalda "intelligence is not creativity" | U-021-152 | T14-a |
+| Matt (cofundador de producto de Kortex/Eden) | Velocidad como única ventaja, equipo compartimentado vs full stack, plazos agresivos como stress test, rebuild en Japón, errores necesarios, grandes riesgos, visión de captura y búsqueda | de-tercero, en conversación con Dan, quien extrae su propia lección (U-015-210) | U-015-184, U-015-185, U-015-186, U-015-189, U-015-191, U-015-192, U-015-194, U-015-195, U-015-196, U-015-200, U-015-201, U-015-204, U-015-205, U-015-206, U-015-207, U-015-208, U-015-209, U-015-212 | T18 |
 | Matt (cofundador/colaborador de Kortex) | El second brain como store and retrieve, "a search engine for your memories" | De tercero; Koe añade "curated space" | U-015-199 | T07-b |
 | Matt / Ari (equipo de Eden) | Chat de IA con información visual | herramienta del producto del autor | U-015-202 | T07-a |
 | Matt Gray | Podcast donde el autor se dio cuenta de la importancia de la profundidad | contexto de la reflexión sobre long form | U-017-067 | T09-a |
 | Matt Mike (thread de Twitter) | Tres capas de valor: platforms → apps → creators; los creadores atomizan las redes | adaptada: refuerza la teoría de que todos serán creadores | U-011-201 | T10-b |
 | Matt Ogus | Le recomendó The Power of Now; lo introdujo al gimnasio | fuente de confianza que motivó la lectura | U-020-005 | T07-a |
 | Matt Ogus | Recomendó The Power of Now a Dan | Ejemplo del "primer maestro recordado" | U-010-201, U-002-002 | T10-a |
+| Matt Ogus (youtuber de fitness; programa Ogus 753) | Recomendó repetidamente The Power of Now durante su preparación de competencia; modelo de creador que hace lo que ama | adaptada: la confianza en el recomendador como motor de la curiosidad y la lectura atenta | U-020-006, U-020-189, U-007-100, U-008-078 | T17 |
 | Matt Ogus, "Chris Levado" (transcrito así) | YouTubers de fitness de la Golden Age | Historia personal de influencia | U-015-037 | T14-a |
 | Matt y Ari (cofundadores de Eden); Google Drive | Comparación de Eden con Google Drive | ejemplo del autor sobre sistemas hiperespecíficos | U-010-325 | T13-b |
 | Max Bernstein | "Cognitive fingerprint" con IA | de-tercero (detalles no dados) | U-024-177 | T07-a |
@@ -412,8 +509,10 @@
 | Mihaly Csikszentmihalyi | Construir un yo que sea "a conscious personal creation" | De-tercero; cierre del argumento de evolucionar sin parar | U-003-046 | T03-a |
 | Mihaly Csikszentmihalyi | Control de la consciencia (enfocar la atención a voluntad, concentrarse "for as long as it takes... and not longer"); la experiencia óptima depende de controlar la consciencia momento a momento | De-tercero; interpreta el disfrute como beneficio principal de tener visión y claridad, y lo aplica a que un plan estrecha la atención | U-014-016, U-025-107 | T04 |
 | Mihaly Csikszentmihalyi | La vida compuesta de estados de flow, en la que desafío y habilidad danzan en armonía, como la aspiración humana más alta | Adaptada: el detox como base para esa vida | U-018-059 | T06 |
+| Mihaly Csikszentmihalyi | No se puede sentir control sin renunciar a las rutinas protectoras | De tercero, con lectura propia: una estrategia o rutina rígida es perdedora en un mundo de cambio extremo | U-022-142 | T16-b |
 | Mihaly Csikszentmihalyi ("the godfather of flow"; Flow) | Flow como experiencia óptima; proporción habilidad/desafío (ansiedad vs aburrimiento); la información almacenada en la conciencia | Adaptada: gráfico desafío/habilidad aplicado a juegos, a la sobreestimulación y al detox de dopamina; el mapa de videojuego y los "185 billion bits" como potencial | U-018-055, U-023-116, U-023-147, U-017-165, U-020-200, U-019-152 | T03-b |
 | Mihaly Csikszentmihalyi / flow psychology | La complejidad del self; la vida disfrutable al superar resistencias | Adaptada en "leveling up increases the complexity of the self" y en las fases del cambio | U-023-236, U-024-120 | T02-b |
+| Mihaly Csikszentmihalyi, "Flow" | Libro que le resuena | De tercero: listado | U-011-090 | T16-b |
 | Mihaly Csikszentmihalyi, *Flow* | El flow como orden en la consciencia cuando la atención se invierte en metas realistas y la habilidad iguala la oportunidad; atención absorbida sin energía psíquica sobrante; la felicidad como control del contenido de la consciencia | De-tercero citado literalmente; lo resume como "order in consciousness equals enjoyment" y lo vuelve la base de la vida como juego y de la jerarquía de metas | U-023-110, U-024-049, U-024-206, U-020-198, U-023-226, U-003-015, U-023-138 | T03-a |
 | Mihaly Csikszentmihalyi, *Flow* | La autonomía exige independizarse de las recompensas y castigos sociales y darse recompensas a uno mismo | De-tercero; apoyo para crear visión y jerarquía de metas propias | U-014-013 | T03-a |
 | Mihaly Csikszentmihalyi, *Flow* | "The optimal state of inner experience is one in which there is order in consciousness", cuando la atención se invierte en metas realistas y la habilidad iguala la oportunidad | De-tercero, citado literalmente en cinco videos; lo usa para sostener que las metas ordenan la mente, para revertir la psychic entropy, para tratar el trabajo como quests y para convertir la vida en videojuego | U-003-195, U-018-127, U-020-054, U-021-064, U-025-165 | T04 |
@@ -422,6 +521,7 @@
 | Mihaly Csikszentmihalyi, *Flow* (psychic entropy; bits de información) | El concepto de psychic entropy y las cifras de procesamiento (126 bits/s) | Adaptada: en 2022-04 lo presenta como lección de Flow; después lo usa sin atribución como vocabulario propio, lo acuña como "mental disorder" y le añade "psychic negentropy" | U-020-199, U-023-115, U-003-234, U-013-134, U-017-141, U-014-128 | T04 |
 | Mihaly Csikszentmihalyi, *Flow* y *The Evolving Self* | Gráfico desafío/habilidad (ansiedad, flow, aburrimiento) | Adaptada: añade el par ansiedad = autoconsciencia / aburrimiento = egocentrismo, la lectura "anxiety = lack of clarity → self-education", el flow como "nature's signal" y la aplicación a empleos y emprendedores | U-023-246, U-003-042, U-023-248, U-003-045, U-003-236, U-017-059, U-026-035, U-003-191, U-003-238, U-009-095, U-011-149, U-012-204 | T03-a |
 | Mihaly Csikszentmihalyi, Flow | Sostener el disfrute de la vida | lista de relecturas y libros resonantes | U-020-146, U-001-051 | T07-a |
+| Mihaly Csikszentmihalyi, Flow | "A self that is not simply the outcome of biological drives and cultural habits but a conscious personal creation" | adaptada: enmarca la metáfora de la creación del personaje de WoW; Flow entre sus libros de referencia | U-023-249, U-001-052 | T17 |
 | Mike Mentzer (HIT), StrongLifts 5x5, Greg O'Gallagher, Wendler 5/3/1, Greg Doucette; IIFYM, ancestral, vegana, keto | Programas de entrenamiento y dietas | material de experimentación hasta crear su propio sistema | U-027-142, U-007-182 | T07-a |
 | Mike Thurston | Anécdota: el dolor de no poder comer sano al viajar | Ejemplo del "memetic level" | U-018-103 | T02-a |
 | Minimum viable product (concepto de negocio) | Lanzar una primera versión y mejorarla con el uso | Adaptada: minimum viable vision; "a vision is like a product" | U-017-020, U-003-072, U-025-161 | T03-b |
@@ -444,6 +544,7 @@
 | Naval (Ravikant) | "If the work doesn't require creativity, delegate it, automate it or leave it" | Adaptada: añade que la creatividad equilibra la productividad | U-017-062 | T05-a |
 | Naval (según el autor) | "All of humanity's problems stem from man's inability to sit quietly in a room alone" | De-tercero (atribución del autor): el aburrimiento crea espacio para el sense-making | U-022-220 | T08 |
 | Naval (según la atribución del autor) | "All of humanity's problems stem from man's inability to sit quietly in a room alone" | Cita de apoyo para el aburrimiento y el espacio de emergencia | U-018-058 | T06 |
+| Naval (specific knowledge) | Specific knowledge | Adaptada: se crea zambulléndose en lo desconocido y conectando puntos; se actualiza siendo creador | U-011-069 | T16-b |
 | Naval Ravikant | "Your purpose is your axis of suffering" | Adaptada: base de la conceptual survival (elegir con qué identificarse) | U-002-015 | T02-a |
 | Naval Ravikant | No preocuparse por empleos, carreras ni IA | Guiño en la idea de self-governance | U-012-139 | T02-b |
 | Naval Ravikant | La inteligencia es obtener lo que quieres de la vida; foco en las ideas de mayor señal | Adaptada: la cibernética es la ciencia de hacerlo; Naval como ejemplo de short-form "syntropic" | U-021-053, U-025-151, U-015-176 | T04 |
@@ -456,19 +557,32 @@
 | Naval Ravikant | Media y code como leverage sin permiso | adaptada con divergencia: el autor prioriza media sobre code para principiantes | U-019-069 | T12-a |
 | Naval Ravikant | Los productos digitales no tienen costo marginal de replicación | adaptada: base de su definición de producto digital ("media and code") | U-019-067 | T13-b |
 | Naval Ravikant | "Almost 7 billion people… someday almost 7 billion companies"; "eventually everybody will be in the creator economy"; "if the work doesn't require creativity, delegate it, automate it, or leave it"; la insinuación de que todos deberían ser emprendedores | Adaptada: la lee como descentralización del trabajo (2023), sinergia emergente (2024) y la oportunidad de que cada persona sea su propia empresa con IA (2026); el tweet sobre la creatividad, como llamado a la responsabilidad personal | U-012-012, U-019-062, U-012-177, U-023-128, U-011-046, U-012-136 | T14-a |
+| Naval Ravikant | "Someday I hope there will be almost 7 billion companies" | Adaptada: de idea incomprendida a tesis del futuro del trabajo (one-person businesses) y luego a "speculation" con UBI | U-011-035, U-006-079, U-015-062 | T14-b |
+| Naval Ravikant | "Code and media are permissionless leverage... the leverage behind the newly rich" | Adaptada: base del full stack creator (2023), de media and code como front/back end (2022) y del poder individual con IA (2026) | U-011-022, U-013-092, U-012-224, U-012-227 | T14-b |
+| Naval Ravikant | Labor como leverage en declive; todos quieren ser "top monkey" ("a volatile status game") | Adaptada: lo une a su tesis de la hiperespecialización y a su uso de contratistas | U-019-060 | T14-b |
+| Naval Ravikant | "Go do something great and your network will instantly emerge"; la automatización asumirá el trabajo mecánico | Adaptada: para unirse a la meaning economy y para el "mental plane" | U-015-177, U-002-044 | T14-b |
+| Naval Ravikant | Las fortunas requieren leverage; formas de leverage (capital, personas/labor, code y media / productos sin costo marginal de replicación); "code and media are permissionless leverage"; "getting rich is about knowing what to do, who to do it with and when"; aspirational hourly rate; leverage of the newly rich | Adaptada: declara que la filosofía de Naval "se volvió la mía sin darme cuenta"; renombra la tercera forma como "permissionless leverage" y luego "new leverage: media, data and code"; desarrolla la tarifa aspiracional con ejemplos y listas propias | U-011-037, U-019-059, U-019-139, U-019-064, U-010-332, U-014-173, U-016-228 | T15 |
 | Naval Ravikant ("Escape Competition Through Authenticity") | Artistas y emprendedores son auténticos por definición | De-tercero, aplicada a convertir intereses en ingreso sin volverse "a hollow shell"; John Hugh la usa para "you are the niche" | U-015-136, U-004-025 | T11 |
 | Naval Ravikant ("How to Get Rich (without getting lucky)") | Specific knowledge; "seven billion businesses" | De-tercero y adaptada: amplificar tu voz, el iceberg, construir software con IA | U-011-012, U-011-070, U-021-206, U-008-194 | T11 |
+| Naval Ravikant (transcrito "Nal rant") | "If the work doesn't require creativity, delegate it, automate it or leave it" | De-tercero: criterio para separar trabajo creativo/apalancado de trabajo replicable | U-016-052 | T14-b |
 | Naval Ravikant; Alan Watts | Ideas que cambiaron vidas (leverage digital; no tomarse la vida tan en serio) | Ejemplos de "brand is transformation" | U-010-349 | T10-a |
+| Naval, Daniel Schmachtenberger, Krishnamurti, Mihaly Csikszentmihalyi | Sus cosmovisiones completas | Adaptada: "intellectual sparring partner" con IA | U-021-184 | T14-b |
 | Navalism, Farnam Street, Maxwell Daily Reader | Curaduría de ideas validadas | fuentes de alta idea density para el idea museum | U-010-320 | T09-a |
 | Neil Patel | Tweet: "do what you want, buy them, but learn from your mistakes" | Ejemplo dentro de "looks come before depth" | U-027-245 | T13-a |
 | Neurociencia (default mode network; salience network) | La red neuronal por defecto que divaga, imagina y reflexiona, inactiva mientras se consume; el cerebro prioriza lo más dopaminérgico | Citadas como mecanismo del protocolo de 7 días y del detox | U-022-222, U-018-054 | T06 |
 | Neurociencia (sistema de activación reticular) | Mecanismo atencional guiado por lo importante | Adaptada: principal catalizador de la creatividad | U-022-228 | T08 |
+| Nietzsche | "Happiness is the feeling that power increases, that resistance is being overcome" | De tercero en 2023; luego integrada como fórmula propia con "connection to something greater"; en 2026 citada como "niche quote" sin fuente segura | U-027-177, U-012-180 | T16-a |
 | Niveles de awareness del marketing (sin autor citado) | Llevar a la gente del problema a la solución y al producto | adaptada: mandamiento 5, ventas auténticas en long form y la Attention de APAG | U-013-112, U-001-149, U-013-151 | T09-a |
 | Niveles/etapas de awareness (marco de marketing; autor no nombrado) | Subir al lector por niveles de conciencia hasta querer el producto | adaptada; "five levels of awareness come before the pyramid principle" | U-014-091, U-007-150, U-014-067 | T09-b |
 | No-dualidad | Las cosas se dividen y se reúnen; principio de división y unidad | Adaptada: de la dominación corporativa al poder individual | U-007-195, U-023-128 | T14-a |
+| Notion, Obsidian, Claude, ChatGPT, Gemini | Referencias de mercado: Notion tardó ~4 años en el modo offline; Kortex como "Obsidian con un chat de IA"; el chat multi-modelo ya existe en Notion o Claude | comparación usada por Matt y Dan para diagnosticar el producto | U-015-193, U-015-194 | T18 |
+| Nutrient Timing for Peak Performance | Nutrición deportiva | de-tercero: lectura de secundaria en el autobús | U-018-116 | T17 |
 | Odysseas (transcrito "Odysseus") | Videos sobre gestionar múltiples intereses | crítica: los sistemas de notas sin meta superior no son la respuesta | U-010-278 | T07-a |
 | Orador no identificado | "I'm interested in the quality of working hours, not the quantity" | Cita de apertura para el video de la hora diaria | U-019-048 | T05-b |
+| Orador no identificado (clip insertado; posición similar a la de Harari, sin nombrarlo) | "Nobody has any idea what to teach young people that will still be relevant in 20 years" | De-tercero: premisa que el autor responde con tres recomendaciones | U-006-074 | T14-b |
 | Orange Book (@orangebook_) | Voz estoica, concisa y filosófica | de-tercero; modelo de su propia voz | U-027-118 | T09-b |
+| Padres de Ari | "Anything's possible"; vender un palillo a suficiente gente | de-tercero (anécdota); Dan contrasta con lo que le dijeron sus padres | U-015-188 | T18 |
+| Panda Planner y planners de Barnes & Noble | Sistemas de productividad en papel | adaptada: patrones comunes reunidos en su propio Power Planner | U-010-066 | T17 |
 | Parkinson's law (el autor de la ley no se nombra) | "Work expands to fill the time allotted for its completion" | Adaptada: base del pseudo-deadline de 4 horas, del batching y del gimnasio como corte; la supera con Koe's Law ("your work expands but your income doesn't") y la acerca a su "tactical stress" | U-017-019, U-003-071, U-005-072, U-019-076, U-026-206, U-019-148, U-003-224, U-008-123, U-006-143 | T05-b |
 | PAS (framework estándar de copywriting) | Problem, amplify, solution | de-tercero no reclamado como propio; adaptado a promociones en redes | U-002-134 | T13-b |
 | Paul Graham | Ensayos queridos en un sitio HTML básico | Ejemplo de que el diseño de marca no importa | U-010-311 | T10-a |
@@ -478,7 +592,9 @@
 | Peter Thiel / teoría mimética | Deseo mimético; Thiel invirtió en Facebook por entenderlo | adaptada: redes como "mimetic desire amplification machine" | U-023-210 | T01-b |
 | Pieter Levels (levels.io) | Construir un juego con IA en público | Ejemplo de build in public | U-021-129 | T10-a |
 | Pomodoro Technique | Trabajo por temporizador | Contraste: prefiere 90 minutos en dos tramos de 45; luego lo recomienda como marco para el deep work | U-017-026, U-003-079, U-023-242 | T05-b |
+| Posmodernismo | Ningún punto de vista privilegiado; nada objetivamente verdadero | Usado como "acto tres" de la historia del sentido ("meaning nowhere") | U-012-172 | T16-a |
 | Post anónimo en redes | 0,50–1 USD por seguidor al mes | adaptada: válida solo con producto propio; comprobada por el autor en sus años 1–3 y rota a escala | U-002-122 | T12-a |
+| Primeros YouTubers de fitness | Le enseñaron el gimnasio y cambiaron su vida | Modelo del creador como role model y de la confianza en creadores sobre títulos | U-015-038, U-001-046 | T14-b |
 | Principio "buyers buy again" | Quien ya compró vuelve a comprar | aplicado al paso de curso a servicio uno a uno | U-008-068 | T12-b |
 | Principio militar de concentración de fuerzas (Francia 1940) | Concentrar recursos en el punto decisivo | Adaptada al foco personal | U-022-137, U-022-032 | T08 |
 | Protégé effect (ciencia del aprendizaje / psicología; sin autor nombrado) | Enseñar mejora la retención y la comprensión | Adaptada: escribir como enseñar, teach in public, consumer vs contributor | U-006-118, U-014-185, U-023-195, U-027-238 | T07-b |
@@ -488,15 +604,20 @@
 | Psicología (learned helplessness) | Definición estándar de indefensión aprendida | De tercero, sin autor nombrado; diagnóstico de la causa raíz | U-022-001 | T02-b |
 | Psicología (sesgo de negatividad; jerarquía de necesidades básicas → autorrealización; dopamina en la persecución) | Es más fácil registrar lo negativo; primero necesidades básicas, luego de autorrealización; la dopamina sube más al perseguir que al lograr | Adaptadas sin fuente nombrada | U-024-022, U-012-161, U-016-233 | T03-a |
 | Psicología del flow (sin autor citado) | Psychic entropy; desafío a la medida de la habilidad | adaptada: ejemplo de enmarcar ideas por la misión; Gamify en APAG | U-010-357, U-013-158 | T09-a |
+| Psicología del flow (sin autor nombrado) | Flow drivers (curiosidad, pasión, propósito, autonomía, maestría); desafío creciente con desarrollo creciente | Adaptada: fundamenta que el emprendimiento es el modo de vida más disfrutable y critica los empleos sin progreso | U-010-299, U-023-186, U-011-184, U-025-180, U-016-243 | T15 |
 | Psicología/neurociencia (task positive network, default mode network) | Redes cerebrales de foco externo e interno | Adaptada: base de la Focus Matrix y de los modos productividad/creatividad | U-017-010, U-003-061, U-017-054, U-017-056, U-020-026, U-021-117, U-019-126 | T05-a |
 | Pyramid principle (marco de comunicación; autor no nombrado) | Answer first, argumentos clave, evidencia | adaptada como "meta framework" y framework intermedio | U-014-091, U-022-199, U-022-179 | T09-b |
 | Pyramid principle (sin autor citado) | "State, argue, back up your point" | adaptada: punto de partida de la persuasión y meta document | U-014-111, U-014-110 | T09-a |
+| Ralph Lauren ("the Ralph Lauren move") | Crear el producto que uno mismo querría usar | adaptada: diseño de Modern Mastery como la comunidad que él habría querido | U-010-052 | T17 |
 | Randy (amigo del autor) | Entrenador con 10,000 seguidores y más de $100,000 al mes | Caso | U-014-178 | T10-a |
+| Ray Dalio (ejemplo, vía Dickie) | Un libro barato vs su tiempo uno a uno, carísimo | Ejemplo de la ideal scene | U-002-064 | T15 |
+| Ray Peat, dieta ancestral, carnívora, flexible dieting | Estilos de vida donde el sol y la luz azul son temas centrales | Adaptada: mezcla patrones de cada una sin dogmatismo, juzgando por experiencia directa | U-019-104 | T16-b |
 | Readwise, Shortform, Obsidian, Claude Code, MyMind | Herramientas de subrayado, resúmenes y gestión de conocimiento | Instrumentales en sus flujos de lectura y second subconscious | U-020-150, U-027-164, U-021-219 | T07-b |
 | Red Bull | Instagram sin fotos de producto, solo estilo de vida | Caso | U-010-207 | T10-a |
 | Referencia no especificada | "Only slaves were expected to do one thing their entire lives" | De-tercero; los hombres libres hacen muchas cosas | U-019-080 | T11 |
 | Richard Feynman (cita recordada sin precisión) | La física profundizó su apreciación de la naturaleza | Ejemplo de leer para añadir nodos a la red de ideas | U-021-154 | T07-b |
 | Richard Feynman (técnica de Feynman) | Aprender explicando en términos simples e identificando huecos | adaptada: Dan la liga a la escritura, la enseñanza en público y la digestion | U-021-131, U-021-165, U-023-042, U-027-030 | T07-a |
+| Roam Research, Notion, Obsidian | Herramientas de notas y segundo cerebro | adaptada: Roam como "preparative research"; Notion/Obsidian como referencia que Cortex mejora "a bit" | U-021-213, U-009-237 | T17 |
 | Robert A. Heinlein | "Specialization is for insects" | De-tercero, respaldo del argumento generalista | U-001-010, U-007-047, U-010-219 | T11 |
 | Robert Cialdini | Consistency bias como gran motor de la conducta | Citado por Dickie Bush | U-002-014 | T02-b |
 | Robert Cialdini, *Influence* | Ley de reciprocidad; principios de influencia | adaptada: base de los pasos del non-needy networking (elogio y valor generan obligación de devolver) | U-015-030, U-015-024, U-004-127 | T10-b |
@@ -516,16 +637,20 @@
 | Sahil Bloom | Lanzamiento de "The 5 Types of Wealth" pidiendo shares de páginas marcadas | Caso narrado por Dan | U-015-117 | T10-a |
 | Sahil Bloom | "Personal brands are the ultimate business hack"; origen en Twitter explicando finanzas y vocación de crear valor | de-tercero; el autor lo usa para defender que la audiencia paga porque quiere | U-011-220, U-005-110 | T10-b |
 | Sahil Bloom | "Storytelling and salesmanship" como habilidades vitales; "life is about sales"; iterar sobre la repetición | de-tercero (entrevista); Dan añade su defensa de "marketing and sales" | U-005-117, U-005-118, U-005-119 | T13-b |
+| Sahil Bloom | Eject button; "enterprising" dentro de un 9-to-5; ejercicio de la libreta de una semana; identificar antes de resolver (open the aperture); kink in the hose; cinco niveles de riqueza financiera; enough life; perseguir más con propósito vs rich yet miserable | De tercero: capas sobre las creencias de Dan (suaviza "todos deberían emprender"; resuelve su tensión con "enough") | U-005-073, U-005-097, U-005-098, U-005-100, U-005-101, U-005-112, U-005-114, U-005-115 | T15 |
+| Sahil Bloom ("The 5 Types of Wealth") | Time billionaire, gráfico del tiempo con personas, ejercicio de Warren Buffett, "unwind vs change your life", eject button, shared struggle, tourists not locals, staying in touch como práctica, estructura para el zoom out, crítica al "zero alcohol" | De tercero (invitado); Dan añade el tight-knit group y el valor de los rituales | U-005-061, U-005-063, U-005-065, U-005-066, U-005-074, U-005-079, U-005-083, U-005-084, U-005-085, U-005-087, U-005-091 | T16-b |
 | Sahil Bloom (citando a David Foster Wallace) | "Some people die at 25 and aren't buried until 75"; default path, default definition of success, "default settings" | de-tercero (invitado); base del término default path | U-005-094 | T01-a |
 | Sahil Bloom (entrevista) | Contexto de la conversación sobre aprender compartiendo | Koe formula su propia idea de construir audiencia como aprendizaje | U-005-104 | T07-b |
 | Sahil Bloom (invitado) | "You are the hero in your hero's journey"; el propósito puede vivirse en un empleo, proveyendo para los tuyos | De-tercero (invitado); matiza la insistencia del autor en emprender | U-005-095 | T03-a |
 | Sahil Bloom (invitado) | No aceptar dogmas; pasar el consejo por tus propios filtros | De-tercero | U-005-089 | T08 |
 | Sahil Bloom (invitado) | La escritura diaria como "daily craft" que construye una mente articulada | de-tercero; Koe asocia además la idea de "recovery speed" a su estilo | U-005-106, U-004-103 | T09-a |
 | Sahil Bloom (The 5 Types of Wealth) | Su libro como reescritura de la historia que se contaba ("rejecting the defaults") | Caso de la identidad como historia | U-005-120 | T02-b |
+| Sahil Bloom (The Time Billionaire) | Kairos time windows; finitud del tiempo; front row of your funeral; tiny investments; dar sin expectativa; focus on the people | De tercero (invitado) | U-005-062, U-005-064, U-005-076, U-005-077, U-005-080, U-005-081 | T16-a |
 | Sahil Bloom (y su abuelo) | Test de diez años; "defined by your niche"; costo de no nichar | De-tercero (invitado) | U-005-107, U-005-108, U-005-109 | T11 |
 | Sam Altman | "Focus is a force multiplier on work"; lo correcto importa más que las horas | De-tercero, como evidencia de que los exitosos valoran el foco | U-003-216 | T05-a |
 | Sam Altman | Clip (contenido no transcrito) usado para introducir el one-person business de $5–10M | referencia; la tesis de la audiencia como leverage es propia | U-008-112 | T12-b |
 | Sam Altman | Chat grupal que apuesta por el primer negocio de una persona de mil millones | De tercero; evidencia del techo del negocio de una persona | U-008-134 | T14-a |
+| Sam Altman | "The amount of power that an individual has is vastly more now than... at any time in the past"; el código cambiará de forma pero pensar problemas persiste | Adaptada: punto de partida de las tres capas de transferencia de poder; apoyo al technical know-how | U-025-199, U-025-200, U-013-175 | T14-b |
 | Sam Altman, Elon Musk, Tes Dosa | Altman y Musk como referentes engañosos de jornadas largas para principiantes; Altman también como ejemplo de apertura sobre cuánto trabaja; Tes Dosa como ejemplo de cómo trabajan los millonarios | Contraejemplos y ejemplos | U-019-049, U-003-259, U-003-215 | T05-b |
 | Sean Puri | Newsletter de ~100K suscriptores con $50.000/mes en sponsorships | caso de tercero para mostrar que los sponsorships pagan, aunque los productos propios pagan más | U-009-035 | T12-b |
 | Segunda ley de la termodinámica / física | La entropía como medida del desorden; todo sistema ordenado requiere energía para resistir el decaimiento | Adaptada como "the supreme law of the universe" y aplicada a la vida, la mente, la productividad y la evolución | U-003-187, U-003-064, U-017-014, U-022-149, U-019-155 | T04 |
@@ -541,6 +666,7 @@
 | Spiral Dynamics (Christopher Cowan y Don Beck) | Desarrollo de los sistemas de valores en tiers; alternancia entre foco en uno mismo y en el otro | Adaptada en los tres macro niveles, en tier 1 / tier 2 y en la tensión de progreso del marketing; también como tema de estudio | U-022-151, U-024-109, U-025-146, U-021-096, U-013-234, U-005-133 | T02-b |
 | Spiral Dynamics / ego development | Etapas de desarrollo; el estratega | Adaptada para situar al master/strategist | U-022-119 | T11 |
 | Stan (plataforma); Steven Bartlett | Plataforma para alojar productos, coaching y landing pages de solo texto; Bartlett como copropietario | herramienta recomendada por el autor | U-008-144, U-009-184, U-015-155 | T13-b |
+| Stan Efferding (vertical diet) | Dieta de carne roja, arroz blanco y micronutrientes | Adaptada como su dieta de eliminación/base | U-018-067 | T16-a |
 | Steve Jobs | Cómo construye un producto | tema validado reencuadrado para creadores | U-015-147 | T09-a |
 | Steve Jobs, Charles Darwin, Hemingway, Tarantino | Jornadas cortas, caminatas y rutinas como parte del éxito creativo (Darwin y sus libros) | Ejemplos históricos, sin fuente precisa (posiblemente vía Rest) | U-003-260, U-019-094, U-005-093 | T05-b |
 | Steve Jobs, John Hu y Vitalii (Stan), Jesucristo, Gautama Buddha, Goku | Arquetipos aspiracionales de los que tomar cualidades | Ejemplos del proceso del alter ego | U-025-116 | T02-a |
@@ -561,8 +687,10 @@
 | Susanne Cook-Greuter; Spiral Dynamics | Investigación del desarrollo cognitivo; first/second tier; estadios del ego | Adaptada: cinco niveles de pensamiento y cualidades del strategist stage | U-022-081, U-022-082, U-022-120 | T08 |
 | Séneca | Recoger polen de muchas flores y digerirlo en tu propia miel | de-tercero; lo equipara a "steal like an artist" y lo usa como antídoto del writer's block | U-021-217 | T09-b |
 | Sócrates | Consejos de hace siglos | Ejemplo de que el consejo ajeno opera desde otra visión del mundo | U-023-251 | T02-a |
+| Sócrates | Nadie tiene derecho a ser amateur en el entrenamiento físico | De tercero: abre su hábito "one workout" | U-019-170 | T16-b |
 | Sócrates, Platón, estoicos antiguos | Hablaban en su vernáculo y hoy parecen mitológicos | ejemplo para animar a "speak your truth" | U-027-006 | T09-b |
 | Tai Lopez | — | Referencia autoirónica ("I sound like Tai Lopez") | U-008-061 | T10-a |
+| Taoísmo | Tao, wu wei, yin yang, maestría sin esfuerzo | De tercero: tradición recomendada para el pensamiento estratégico; el Tao como una de las etiquetas de la realidad | U-022-150, U-017-155 | T16-b |
 | Taylin Simmons | Tweet de yoga con importancia, curveball y beneficios | de-tercero, analizado como caso | U-014-067 | T09-b |
 | Tej/Tes Dosa (tuit) | El valor no está en las horas sino en dónde pones atención, awareness y consciencia | De-tercero; Dan subraya la última parte como crucial | U-017-049, U-003-217 | T05-a |
 | Teleología / kosmos griego | Todo sirve a un propósito como parte de un todo mayor | Adaptada como lente para afirmar que las metas determinan cómo se ve el mundo | U-025-154 | T04 |
@@ -578,7 +706,9 @@
 | Terence McKenna (cita mencionada) | La ideología como "casa mental" | adaptada: "mental home" y ciclos políticos | U-023-020 | T01-b |
 | Terence McKenna, Alan Watts, actualize.org | Conferencias largas | Material para escuchar caminando durante días | U-023-015 | T06 |
 | Test del malvavisco (aludido sin nombrar el estudio) | Un malvavisco ahora o dos después | Adaptada como "one marshmallow thinking" de una sociedad optimizada para la gratificación instantánea | U-015-160 | T04 |
+| The Art of Focus (libro del autor) | "The ability to earn with your intelligence not your time labor or looks…" | Propia: autocita | U-008-084, U-017-182 | T15 |
 | The Art of Focus (libro del propio autor) | Default path, educación de esclavos, "Uncommon Sense of the rain cycle" | propia (autocita) | U-017-134, U-017-136, U-006-076, U-008-113 | T01-a |
+| The Art of Focus (libro del propio autor) | "Life unfolds in chapters and phases" | Autocita | U-026-096 | T16-a |
 | The Kybalion | "The lips of wisdom are closed except to the ears of understanding" | De tercero: no se puede ayudar a quien no quiere ser ayudado (ego trap) | U-001-045 | T02-a |
 | The Kybalion | "The lips of wisdom are closed except to the ears of understanding" | No se puede ayudar a quien no quiere ser ayudado | U-007-036 | T02-b |
 | The Kybalion (filosofía hermética) | Principios o leyes universales | de-tercero: lectura recomendada para entrenar el pensamiento de panorama | U-006-171 | T01-b |
@@ -590,9 +720,11 @@
 | The Power of Now (libro) | Ejemplo de enseñanza que a muchos les parece "too woo-woo" | ejemplo: por qué una enseñanza registra o no | U-020-004 | T01-b |
 | The Power of Now (libro; autor no nombrado en la unidad) | Enseñanza espiritual que exige cierto nivel de desarrollo | Ejemplo de la pre/trans fallacy ("too woo woo") | U-020-190 | T02-b |
 | The Power of Now (recomendado por Matt Ogus) | Enseñanzas espirituales | caso de retención (intención, curiosidad, execution gap) y de relectura cinco años después | U-020-003, U-020-005, U-023-040, U-001-051 | T07-a |
+| The Sovereign Individual (libro; el autor no nombra a sus autores) | Las naciones se fragmentan en city-states e individual estates; la sociedad se moldea según cómo se gana dinero | Adaptada: brands = city-states, creators = individual estates | U-011-212 | T14-b |
 | The Systems View of Life | Visión sistémica (densa, científica) | lectura recomendada "si buscas información" | U-021-100 | T07-a |
 | The Systems View of Life (libro) | Pasajes que convierte en posts | ejemplo de tomar notas de libros como hook-body-conclusion | U-009-247 | T09-b |
 | The Way of the Superior Man | Libro que relee cada año en sus caminatas | Recomendación "for anyone looking to live a life of purpose" | U-018-191 | T05-b |
+| Theft of Fire (novela de Devon Eriksen) | "The reason most people spend their whole lives making someone else rich is that they sell their time" | De tercero: el autor lee el pasaje para ilustrar que vender tiempo no escala | U-006-047 | T15 |
 | Thomas Sowell | "Solutions don't really exist, but trade-offs do" | De-tercero: el pensamiento de segundo nivel llega a trade-offs | U-022-082 | T08 |
 | Tim Ferriss / The 4-Hour Workweek | Base de su spin-off "4-Hour Workday" | adaptada; ejemplo de lo que se puede y no se puede reclamar | U-004-102 | T09-b |
 | Tim Ferriss, The 4-Hour Workweek (solo el título; explícitamente no leído) | La idea de trabajar 4 horas | Adaptada: lo malinterpretó como "4-hour workday" y lo convirtió en identidad y detector de problemas | U-017-001, U-003-052, U-019-023, U-017-187 | T05-a |
@@ -601,18 +733,31 @@
 | Tradición cristiana ("What would Jesus do?"; Christ Consciousness) | Jesús como símbolo de una conciencia alta, con identidad no atada a nada | Adaptada: el autor no es cristiano; lo usa como alter ego más desarrollado y como ejemplo de identidad sin apegos | U-025-114, U-027-066 | T02-a |
 | Tradición del commonplace book (Marco Aurelio, da Vinci, Twain, Lovecraft, Jefferson, Reagan, Rick Rubin) | Colecciones de ideas que alimentaban creaciones | adaptada: contrapuesta al "second brain productivity bro" | U-021-215 | T07-a |
 | Tradición del copywriting y del marketing (sin autor) | Desired outcome, proof, big idea, risk reversal, above the fold | Adaptada como los nueve "Legos" de la escritura persuasiva | U-013-083, U-011-177 | T13-a |
+| Tríada clásica (no atribuida) | Lo bueno, lo verdadero y lo bello | Adaptada como verdad intersubjetiva/objetiva/subjetiva y aplicada al trabajo | U-019-163, U-019-167 | T16-a |
 | Tucker Carlson | Pasó de medios tradicionales a su canal propio | ejemplo de la migración de la atención | U-018-186 | T09-b |
 | Tweet Hunter | Programación de tweets | Herramienta para liberar atención | U-017-035, U-003-087 | T05-b |
+| Tweet no identificado | "At the end of everyone's journey they are a life coach" | Base de "everyone's niche is the good life" | U-008-024 | T16-a |
+| Twitter (recorte de ~90% de plantilla) | Evidencia de que las tecnológicas están sobredimensionadas | adaptada por Vitali como "first principle signal" | U-004-039 | T18 |
 | UC San Diego (investigación citada) | Las escuelas públicas se crearon para reforzar la obediencia | de-tercero, citada sin detalle | U-023-207 | T01-b |
+| Udemy, freeCodeCamp, cursos de dropshipping y de Facebook ads | Educación online asequible | de-tercero: vías de su autoaprendizaje; Udemy como competencia que evitó con su audiencia | U-010-001, U-002-109, U-001-124, U-007-107, U-015-132 | T17 |
+| United Airlines, Comcast | Ejemplos de malas experiencias de cliente por jerarquías estratificadas | contraejemplo usado por John | U-004-043 | T18 |
+| Valve (employee handbook) | Contratar solo personas en forma de T | adaptada: Dan la cita y Vitali la integra a su definición de 10x | U-004-059 | T18 |
+| Visuals of Julius | Composiciones surrealistas en Instagram y su curso | adaptada: inspiración de su arte; en retrospectiva, modelo de cómo habría monetizado (curso sobre sus mejores piezas) | U-004-133, U-004-140, U-011-153 | T17 |
 | Vitali (cofundador de Stan) | Una historia puede tener cualquier extensión; la concisión sale de la intención y la práctica | de-tercero (con la cita "if I had more time I would have written you a shorter letter", de autor no nombrado) | U-004-013 | T09-a |
 | Vitali (cofundador de Stan) | Notar lo interesante de tu vida; dos estructuras (first principles vs historia personal); foco en la audiencia | de-tercero (invitado) | U-004-007, U-004-012, U-004-016 | T09-b |
 | Vitali (cofundador de Stan) | Vote of approval, find your group; consistencia que compone | De-tercero | U-004-019, U-004-023 | T10-a |
 | Vitali (cofundador de Stan) | Nicho que se sienta como juego; "people follow people"; ~70% de expertise | De-tercero (invitado) | U-004-028, U-004-029 | T11 |
+| Vitali (cofundador de Stan) | 10x person, time to value, Creator first, core job to be done, death by complexity, presencia del cliente, usar el propio producto, 10 ingenieros, crecimiento no proporcional, cultura como acciones, confiar en que la gente se equivoque, alineación, founder-market fit, PMF por resultados del cliente | de-tercero (entrevista); Dan adopta explícitamente el core job to be done para Kortex y conecta el 10x con Valve | U-004-039, U-004-040, U-004-041, U-004-042, U-004-044, U-004-045, U-004-047, U-004-051, U-004-052, U-004-053, U-004-054, U-004-057, U-004-058, U-004-059, U-004-060, U-004-066, U-004-069, U-004-070, U-004-074, U-004-075, U-004-076, U-004-079, U-004-080, U-004-085 | T18 |
 | Vitali (Stan) | Definición de trabajo como progreso tangible; cita la lección del 2 Hour Writer | De-tercero (y relevo de una idea propia de Dan) | U-004-065, U-004-068 | T05-a |
+| Vocabulario finite/infinite game (sin fuente nombrada) | Juegos finitos vs juego infinito | Adaptado a metas, relaciones, dietas y trabajo como juego | U-019-061, U-021-060, U-026-194, U-026-195 | T16-a |
 | WALL-E (película) | Humanos pasivos en cápsulas alimentados con placer | Ilustración de la distopía sin curaduría | U-018-034, U-012-119 | T06 |
+| WALL-E (película) | La imagen de personas en tumbonas alimentadas con refresco frente a la TV | adaptada: símbolo de la vida repetitiva que rechazó | U-012-079 | T17 |
+| Walt Disney | "You start creating to make money, and then you start making money to create" | Adaptada (paráfrasis que el autor admite inexacta); antes aparecía como tweet propio (U-010-055) | U-005-111, U-005-116 | T15 |
 | Wikipedia, Dead Internet Theory | Teoría de que internet está dominado por bots y contenido de IA desde 2016–2017 | Adaptada: la reencuadra como oportunidad para destacar | U-012-116 | T10-a |
 | William Faulkner | "I only write when inspiration strikes; fortunately it strikes at nine every morning" | adaptada: base de la law of inspired action | U-020-014, U-020-015 | T07-a |
 | Wilson Mizner; "steal like an artist" | Tomar de uno es plagio, de muchos es investigación | De-tercero: ancla de la intelligent imitation | U-010-026 | T08 |
+| Youtubers de fitness de la "golden era" (Elliot Holz/Elliott Hulse, Chris Lavado, Chris Jones, Scott Herman) | Creadores que impactaban a escala haciendo lo que amaban; estilo de "harsh truths" en el garaje | adaptada: modelo de su propio camino de creador; Hulse como estilo que imitó en su segundo canal | U-008-078, U-018-116, U-007-101 | T17 |
 | Yuval Noah Harari | Nadie sabe qué aprender porque nadie sabe qué será relevante en 20 años | Contraejemplo, vía la réplica de Devon Eriksen | U-006-001 | T07-b |
+| Zade K. Dage, "Analyze and Optimize", "Grim Hood" (nombres según transcripción) | Salud, sol, luz azul, "solar callus" | De tercero: cuentas recomendadas; aclara que sus tuits no son necesariamente su creencia | U-019-104, U-019-105 | T16-b |
 | Zeigarnik effect y Justin Sung ("Justin Sun" en la transcripción) | Las tareas inconclusas se recuerdan más; "Zeigarnik effect squared" | Adaptada: rituales de arranque (escritorio, café, outline, caminata de 5 min) | U-021-124 | T07-b |
 | Zero HP Lovecraft | La singularidad real será "a gradual erosion of human labor" | De tercero; base de su tesis de la erosión del trabajo | U-011-192 | T14-a |

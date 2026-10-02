@@ -78,6 +78,15 @@ Este bloque reúne la "economía política personal" del sistema de Dan Koe: qu�
 ### T16-a
 Este bloque reúne la "filosofía de vida" que sostiene el sistema de Dan Koe. Su núcleo: la felicidad no se recibe sino que se construye como una habilidad; nace del progreso (resistencia superada) y de la conexión con algo mayor (contribución), y se distingue del placer barato. El orden lógico de aprendizaje es: (1) qué son felicidad, disfrute y sentido (happiness is a skill, enjoyment vs pleasure, resistance overcome + connection, anatomy of meaning, high highs and low lows); (2) cómo se relaciona uno con la dificultad (expectativa vs realidad, elegir por qué sufrir, impermanencia, being and doing, comparison vs connection); (3) la vida como capítulos y fases y cómo atravesar el estado de "sentirse perdido" (chapters, phase models, lost phase, experiment inward/outward, entrar en lo desconocido, el fracaso como refinamiento, la confianza, intense and unbothered, autonomía vs libertad); (4) el desarrollo holístico aplicado al cuerpo, la nutrición, los 20s y el estilo de vida; (5) el trabajo como juego y vía de contribución (getting paid to play, the good/true/beautiful, Creator philosophy, eternal markets); y (6) relaciones, espiritualidad y el "infinite game" como horizonte de sentido.
 
+### T16-b
+Este bloque reúne la "filosofía de vida" práctica de Dan Koe (segunda mitad alfabética del tema T16). Su núcleo es la polaridad: nada existe sin su opuesto, por lo que la lucha, la dificultad y los puntos bajos son parte necesaria de la vida (novel emergence, waves of life, seasons of intensity/experimentation). Sobre esa base se distingue dolor de sufrimiento (expectativas, resistencia, identidad), se redefine la comodidad, la felicidad (no euforia; peace and progress sostenidos por un sense of mastery) y el sentido (lucha elegida, curiosidad, reconocimiento; elevar la consciencia propia y colectiva; crear). Luego aplica esa filosofía a la vida concreta: resolver primero los problemas superficiales y egoístas (cuerpo, dinero, competencia) para llegar a lo profundo, volverse "multi-dimensionally jacked", no desperdiciar los 20s, salud (pesas, caminar, sol, meditación), relaciones (shared struggle, time billionaire) y espiritualidad entendida como lente y como tu parte en el todo, no como identidad ni como excusa contra el dinero o el poder. Orden lógico sugerido: polaridad y lucha → dolor vs sufrimiento, comodidad y lo desconocido → sentirse perdido y cómo salir (temporadas, honestidad radical, autoexperimentación, errores) → felicidad, peace and progress y sentido → aplicación por dominios (20s, cuerpo, meditación, relaciones, tiempo) → espiritualidad y perspectiva del Universo.
+
+### T17
+Este bloque reúne la autobiografía que Dan Koe usa como evidencia y como material narrativo en todo su sistema. El orden lógico es cronológico: (1) los orígenes (los "anti-role models", la familia religiosa de clase media, el rechazo del camino por defecto, el aprendizaje online con los youtubers de fitness y el gimnasio como primer propósito, los videojuegos); (2) la universidad como cuenta regresiva, el arresto y The Power of Now, el autoaprendizaje del código; (3) los siete negocios fallidos y sus dos lecturas (la trampa de ser "the architect of the business" sin clientes, y las fallas como skill stack que se compone); (4) el empleo en la agencia de diseño web, el éxito como freelancer, el descubrimiento de Twitter y el crecimiento de la audiencia; (5) la evolución de la oferta (consultoría para creadores, brand advisor, productos "how I do it", offer stack, 2 Hour Writer, Digital Economics) y las cifras de ingresos con sus baselines; (6) las decisiones de estrés táctico, las rutinas de 2–4 horas, la escritura matinal y las estaciones de intensidad y de vacío; (7) la salida del "one-person business" hacia la startup (Cortex, luego Eden) y los libros. Funciona como bloque complementario: casi todos sus clústeres ilustran principios que se desarrollan en T01–T16 y T18.
+
+### T18
+Este bloque reúne lo que el autor aprendió (y lo que aprendió de sus invitados) al pasar del negocio de una persona a construir startups con equipo. Se apoya en dos fuentes principales: la conversación con los cofundadores de Stan, Vitali y John Hugh (2025-01), y el post-mortem de Kortex con Matt y Ari (2025-11), más tres piezas sueltas de Dan (2023-09, 2024-07, 2025-12). El orden lógico de aprendizaje es: (1) la velocidad como única ventaja de una startup y el product-market fit como misión inicial; (2) partir del cliente (Creator first, core job to be done, tiempo en presencia del cliente, usar el propio producto); (3) distribución por contenido y founder-market fit; (4) el caso Kortex como "serie de errores necesarios" (equipo compartimentado, infraestructura propia, plazos agresivos, producto poco convincente, rebrand hacia Eden); (5) diseño de la organización (pocos ingenieros, personal donde hay conexión humana), cuándo y cómo contratar, qué es y cómo se encuentra una persona 10x; (6) cultura como acciones, agencia y propiedad; y (7) lo que se rompe al escalar: complejidad de la red, el techo del contribuidor individual y la alineación.
+
 # Puentes
 
 ### T01-a
@@ -502,9 +511,114 @@ Este bloque reúne la "filosofía de vida" que sostiene el sistema de Dan Koe. S
 - **T18 (startups y equipos):** el modelo operativo AI-native, Cortex y su documentación automatizada (C-T14a-30).
 
 ### T14-b
-
+- **T01 (Matrix, condicionamiento, crítica a la escuela y al empleo):** la crítica al sistema escolar que entrena para empleos (C-T14b-17, C-T14b-03), la programación que deja inactiva a la mayoría (U-010-227), "natural stupidity" (U-006-024) y "the centralized authority over learning meaning and earning is only a thing for those who are still asleep" (U-026-155). Conviene leer T01 antes de C-T14b-17.
+- **T02 (niveles de desarrollo, Human 3.0):** los tres niveles de contenido son "one little small subset" del modelo de niveles (C-T14b-26).
+- **T03 (visión, metas, life's work, juego infinito):** metas autogeneradas vs asignadas (technicians vs creators, U-019-003; new school system, U-007-197), life's work (C-T14b-25), infinite game (C-T14b-16), "patch the game" (U-023-231).
+- **T04 (entropía y orden):** "a new ordered structure is going to emerge" tras el caos (U-025-198).
+- **T05 (4-hour workday, leverage del tiempo):** la guideline de elegir una carrera que permita jornada de 4 horas (U-003-255) y Justin Welsh con 2–4 horas (U-010-247).
+- **T06 (dopamina, distracción):** "isolated dopamine hit" de los trendjackers (U-015-166), "AI slot machine" (U-014-127), dopamina de ver agentes trabajar (U-016-259), renacimiento solo para individuos conscientes (U-018-027).
+- **T07 (aprendizaje, IA para aprender, prompts):** new school system, aprendizaje no lineal (U-011-130), meta prompt y prompt library (C-T14b-35), aprender y construir a la vez (U-021-188), full life cycle of knowledge (U-016-072).
+- **T08 (pensamiento original, taste, síntesis):** taste, perspective y opinion como moat (C-T14b-30, C-T14b-31), synthesizer (U-012-020), respetado por la mente (U-022-157).
+- **T09 (escritura y contenido):** writing como medio y base de todo contenido (U-009-242, U-010-253), no dejar que la IA escriba por uno (U-012-164, U-021-189), ensayos como algo solo humano (U-014-124).
+- **T10 (audiencia, marca personal, distribución, muerte de las redes):** public resume (C-T14b-19), media > code por distribución (U-012-225), tres niveles de contenido (C-T14b-26), marca como vessel (U-012-227).
+- **T11 (nicho, niche of one, múltiples intereses, generalista):** "you are the niche" como ultimate wrapper (U-012-144), crevice of reality, generalistas vs hiperespecialistas (C-T14b-08), interest agnostic (U-010-251), da Vinci y el polímata (U-010-285).
+- **T12 (one-person business):** el value creator es "one way" de hacer el one-person business (C-T14b-15); definición de negocio y tesis de los 7 billion companies (C-T14b-20). Dependencia: T12 da el modelo operativo que este bloque justifica.
+- **T13 (productos, info products, copy, ofertas):** info products → software (C-T14b-36), micro education business (U-009-213), offer blueprint y copy con IA (U-021-190), crítica al direct response (U-017-065).
+- **T15 (dinero, leverage, wage slavery, agencia):** permissionless leverage (C-T14b-24), labor leverage en declive (U-019-060), salida del wage slavery como value creator (U-016-199), dinero como intercambio de valor (U-025-204, U-010-117).
+- **T16 (filosofía de vida, sentido, felicidad):** felicidad = progreso + contribución (U-023-224), meaning economy (C-T14b-38), UBI y elección personal (U-025-220).
+- **T17 (biografía y productos del autor):** sus años fallidos sin skill stack monetizable (U-002-111), el curso de agencia (U-010-005), 2 Hour Writer (U-015-080), Eden (U-012-201, U-016-259), The Art of Focus y Purpose and Profit (U-024-042, U-008-179), su capacidad de lanzar en dos semanas (U-013-097).
+- **T18 (startups y equipos):** Kortex/Eden como "a bunch of one-person businesses coming together" con contratistas (U-019-060), la alternativa a Dropbox que construye con su equipo (U-010-289).
 
 ### T15
-
+- **T01 (Matrix, condicionamiento, crítica a escuela y empleo):** wage slavery, default path, money programming, social matrix y "slaves don't know they're slaves" son la aplicación económica de la crítica al condicionamiento; hay que entender T01 antes de C-T15-04, C-T15-08 y C-T15-12.
+- **T02 (identidad, ego, mental body):** la reacción a las palabras "money" y "business", las ego-defending beliefs y la threat response de quien se identifica con su empleo (U-012-210, U-006-054, U-002-018) dependen de la teoría de la identidad.
+- **T03 (visión, metas, propósito, flow, vida como videojuego):** metas asignadas vs propias (hunting), el emprendimiento como juego infinito, el desafío creciente y los flow drivers, y la idea de "you need a purpose or else you will be assigned one" se apoyan en T03.
+- **T04 (entropía, la mente como sistema):** feedback, trial and error, "reverse entropy" y el ciclo de feedback que aporta la agencia conectan con la cibernética de T04.
+- **T05 (deep work, una hora al día):** "one hour building your own" y el eject button se ejecutan con la rutina de deep work.
+- **T06 (dopamina):** el emprendimiento como fuente de good dopamine, la dopamina como brújula de la caza y el "eternal known" con dopamina superficial.
+- **T07 (aprendizaje e inteligencia):** making money is a skill, aprender rápido (20–40% en seis meses), self-education y el debate inteligencia vs agencia.
+- **T08 (pensamiento estratégico):** acquire resources, depression apartment y stepping stone goals provienen del video sobre pensamiento estratégico.
+- **T10 (audiencia y distribución):** el leverage de media, la audiencia como "new leverage", el tráfico como condición del ingreso sin techo y la lista de email como activo.
+- **T11 (nicho, generalista):** la soberanía individual hace emerger al generalista; tener un ingreso es la condición para vivir de múltiples intereses.
+- **T12 (modelo de negocio de una persona):** el producto digital que reemplaza el ingreso, el control de producto y tráfico, los mil clientes mensuales y el paso de servicio (client work) a producto.
+- **T13 (productos, ofertas y ventas):** selling equals survival, "you're already selling one", equity vs dividends en las promociones y el negocio educativo.
+- **T14 (nueva economía, IA):** el reemplazo masivo por la IA, el dinero como herramienta de agencia si desaparecen los empleos, old vs new leverage y la confiscación de activos físicos.
+- **T16 (filosofía de vida):** enough life, materialismo, felicidad en el empleo y la vida de mind, body, spirit, business.
+- **T17 (biografía del autor):** la madre que le aconsejaba invertir, el año en la agencia web, los $5.000 por hora rechazados, Cortex y el aumento de trabajo manual, su obsesión pasada por el dinero.
+- **T18 (startups y equipos):** los contratados de alta agencia del cofundador Matt (U-005-099) y la necesidad de ganar para pagar al equipo (U-005-113).
 
 ### T16-a
+- **T01 (Matrix, condicionamiento):** las expectativas condicionadas (U-027-041), el guion que deja a la gente en limbo (U-023-255), la "robotic living" (U-027-198) y lo místico más allá de la Matrix (U-023-024) dependen de entender el condicionamiento social.
+- **T02 (identidad, ego):** la ideología dietética como identidad (C-T16a-23), el ego que corta el hilo de la mejora (C-T16a-02) y el observador del yo que sobrevive (C-T16a-18) presuponen la teoría de identidad y ego.
+- **T03 (visión, metas, la vida como videojuego, flow):** las fases de capítulo, el experimento outward con la lente de una meta, el helicóptero y el mapa del juego, y las metas teleológicas como espiritualidad (C-T16a-12, 14, 15, 33) se apoyan en la jerarquía de metas y el flow.
+- **T04 (entropía, orden de la consciencia):** "four pillars of the good life" revierten la entropía (U-018-133); la claridad ordena la consciencia (U-026-258); la psychic energy liberada (U-026-255).
+- **T05 (enfoque, descanso, caminar, rutinas):** polaridad trabajo/descanso, caminatas, overwork vs holismo, frontloading (C-T16a-09, 20, 24).
+- **T06 (dopamina, detox, hábitos):** enjoyment vs pleasure, meaningful vs cheap dopamine, honeymoon trap, dieta de eliminación y ejercicio dentro del protocolo de detox (C-T16a-02, 21, 22, 24, 32).
+- **T07 (aprendizaje):** curiosidad y "everything is interesting" (U-010-329), lecciones que solo se aprenden haciendo (U-026-236).
+- **T08 (pensamiento):** alejar el zoom, perspectiva meta y comparison vs connection (C-T16a-10, 11).
+- **T09 (escritura y contenido):** los altibajos deben incorporarse a lo que se escribe (U-013-105); la creatividad como vehículo de la felicidad (U-027-224).
+- **T10 (audiencia):** la apariencia como captación de atención análoga al contenido (U-005-128, U-003-149).
+- **T11 (nicho):** "everyone's niche is self-improvement / the good life" (C-T16a-30).
+- **T12 (negocio de una persona):** el negocio como "vessel" y la Creator philosophy como forma de vida (C-T16a-29), el estilo de vida de control total (U-007-071).
+- **T13 (productos y ventas):** los eternal markets y los burning problems como base de la oferta (C-T16a-30).
+- **T14 (nueva economía, meaning economy):** "creatives are the meaning architects of society" y la anatomía del sentido (C-T16a-04).
+- **T15 (dinero, libertad, agencia):** autonomía vs libertad, control y salida de la "robotic living" gracias al dinero (C-T16a-19, U-027-198).
+- **T17 (biografía del autor):** gimnasio como primera obsesión, error de Costa Rica, trampa del nómada digital, su desayuno y su rutina, Cortex (U-005-126, U-026-236, U-007-039, U-018-190, U-027-224).
+- **T18 (startups):** la elección de construir Cortex por el desafío creativo (U-027-224).
+- **Dependencias internas:** para entender las fases de la vida y el estado perdido (C-T16a-11 a 14) hay que entender antes la impermanencia y la tensión entre expectativa y realidad (C-T16a-06, 08); para el sentido y la espiritualidad (C-T16a-04, 33) hacen falta antes la fórmula de la felicidad y el disfrute (C-T16a-02, 03).
+
+### T16-b
+- **T16-a (primera mitad de T16):** varias unidades dependen de prerrequisitos fuera de este archivo (p. ej. U-026-235, U-024-172, U-005-090, U-003-133, U-005-006, U-005-007, U-002-035); ambas mitades deben redactarse juntas.
+- **T01 (Matrix, condicionamiento, consciencia):** social conditioning como trampa de la juventud (C-T16b-28), mindless autopilot y surface level living (C-T16b-08, C-T16b-31), metas asignadas al nacer frente a errores como brújula (C-T16b-12), "the Matrix Is Real" como origen de lo desconocido y del equilibrio espiritualidad/practicidad.
+- **T02 (identidad, niveles de mente):** el sufrimiento como negativa de la identidad (C-T16b-04), premature transcendence y el juego de supervivencia (C-T16b-19), "lower level of mind" en la fase de disonancia (C-T16b-10), introverted identity (C-T16b-33), espiritualidad como identidad vs lente (C-T16b-36). Requisito previo para C-T16b-04 y C-T16b-19.
+- **T03 (visión, anti-visión, la vida como videojuego, flow):** emociones negativas como combustible de la anti-visión (C-T16b-01), la vida como videojuego (C-T16b-16, C-T16b-25, C-T16b-27), desafío/habilidad y progressive overload (C-T16b-11), "infinite string of problems" hacia la visión (C-T16b-10).
+- **T04 (entropía, orden de la consciencia):** espiritualidad como revertir la entropía (C-T16b-35), estancarse aumenta la entropía (C-T16b-26), el trabajo ordena la mente (C-T16b-18), salud mental como dar sentido (C-T16b-07).
+- **T05 (deep work, descanso, caminar, rutinas):** caminar como hábito de paz (C-T16b-16, C-T16b-30), descanso como recuperación para trabajo significativo (C-T16b-18), rutinas y rituales (C-T16b-08), 30–60 minutos diarios (C-T16b-34).
+- **T06 (dopamina, detox, hábitos):** felicidad vs euforia y dopamina barata (C-T16b-15, C-T16b-27), dopamine-laden entertainment (C-T16b-28), el gimnasio como paso del detox (C-T16b-29), "pattern recognition equals dopamine" (C-T16b-11).
+- **T07 (aprendizaje):** lanzarse a lo desconocido aprendiendo y construyendo (C-T16b-06), autoexperimentación como forma de aprender (C-T16b-11), libros y resonancia (C-T16b-36).
+- **T08 (pensamiento):** taoísmo y filosofía perenne como antídoto del pensamiento dogmático (C-T16b-37); curiosidad como atención no lineal (C-T16b-20).
+- **T09 (escritura):** escribir como hábito de progreso (C-T16b-16) y como forma de entregar el "map of reality" (C-T16b-21); sense of mastery al escribir por dinero (C-T16b-17).
+- **T10 (audiencia):** el post sin interacciones (C-T16b-08), self-awareness como hack (C-T16b-23), Pygmalion y tribu (C-T16b-33).
+- **T11 (nicho):** "solve your own problems and sell the solution", measurable personal project, be the niche (C-T16b-23, C-T16b-25), múltiples intereses como forma de vida (C-T16b-18).
+- **T12 (negocio de una persona):** el negocio como vehículo de autorrealización y de la consciencia colectiva (C-T16b-21), self-reliance como requisito (C-T16b-24).
+- **T13 (productos y ventas):** productos como mapa ("zip file") (C-T16b-21), starving artist y estudiar psicología (C-T16b-23).
+- **T14 (nueva economía):** meaning generators y story engine en el futuro del trabajo con IA (C-T16b-20), trabajo como juego (C-T16b-18), value creator (C-T16b-15).
+- **T15 (dinero, libertad):** espiritualidad del dinero (C-T16b-35), wage slavery y felicidad (C-T16b-15), libertad de tiempo y time billionaire (C-T16b-34), éxito como control del tiempo (C-T16b-25).
+- **T17 (biografía):** tormenta en Catalina (C-T16b-03), ruptura en Costa Rica (C-T16b-01), decisiones "estúpidas" 2018–2023 (C-T16b-12), su rutina de entrenamiento y estilo de vida (C-T16b-16, C-T16b-29, C-T16b-30), su edad a los 26 y 28 años (C-T16b-27).
+- **T18 (startups y equipos):** la persistencia según los fundadores de Stan (C-T16b-13).
+- **Dependencias internas clave:** C-T16b-01 (polaridad) y C-T16b-02 (lucha universal) son la base de casi todo el bloque; C-T16b-04 → C-T16b-05 → C-T16b-06 forman la secuencia sufrimiento/comodidad/desconocido; C-T16b-09 → C-T16b-10 → C-T16b-11 forman la secuencia para salir de sentirse perdido; C-T16b-24 (lo superficial primero) precede a C-T16b-21 y C-T16b-35 (consciencia y espiritualidad).
+
+### T17
+- **T01 (Matrix, condicionamiento, NPC):** los anti-role models, el preset future, la crítica a la escuela y el "conventional life path" (C-T17-01, C-T17-05, C-T17-13) son la base biográfica de su crítica al condicionamiento; agradece su propio "programming or conditioning" (U-011-121).
+- **T02 (identidad, niveles de mente, reinvención):** "nothing happens then everything happens" y los niveles de mente (U-024-039), el paso de identidad al volverse "unemployable" (U-012-217), el negocio como "vessel for personal growth" (U-010-248) y el WoW como metáfora de identidad (C-T17-04).
+- **T03 (visión, anti-visión, propósito, la vida como videojuego):** lesser purpose (C-T17-03), anti-visión y multi-dimensionally jacked (C-T17-37), self-corrective compass (C-T17-38), videojuegos (C-T17-04); hay que entender T03 para leer estos clústeres como ejemplos.
+- **T04 (entropía):** publicar cada semana para que no "se libere la entropía" (U-020-185).
+- **T05 (4-hour workday, estaciones, caminar):** C-T17-26, C-T17-28 y C-T17-34 son los casos personales del 4-hour workday, de las fases de intensidad y mantenimiento y del hábito de caminar.
+- **T06 (monk mode, dopamina, disciplina, estrés táctico):** C-T17-25, C-T17-33, C-T17-35 y C-T17-36 ilustran tactical stress, disappear, la nicotina, el alcohol y la disciplina natural.
+- **T07 (aprendizaje, tutorial hell, lectura, second brain):** autoaprendizaje del código (C-T17-06), tutorial hell (C-T17-11), retención de The Power of Now (C-T17-07) y Cortex como segundo cerebro (C-T17-31).
+- **T08 (pensamiento, articulación, estrategia):** C-T17-27 (articulación), C-T17-39 (deep thinker, síntesis de intereses) y la estrategia como pieza faltante (U-022-106).
+- **T09 (escritura y repurposing):** 2 Hour Writer (C-T17-22), la escritura matinal (C-T17-27) y "writing is the force multiplier" (U-013-142).
+- **T10 (audiencia, redes, networking):** C-T17-10, C-T17-16, C-T17-17 y C-T17-40 son los casos de crecimiento y de serendipia social.
+- **T11 (nicho, múltiples intereses):** "what is my niche" (U-010-006), la búsqueda de nichos (U-010-157), obsessive cycles (C-T17-12), I am the niche (U-019-058) y Solopreneur Sprints (C-T17-21).
+- **T12 (modelo de negocio de una persona, servicio → producto):** C-T17-14, C-T17-15, C-T17-18, C-T17-19, C-T17-20 y C-T17-30 recorren el roadmap completo desde el freelance hasta el producto y la startup.
+- **T13 (productos, ofertas, precios, ventas):** offer stack, buyers buy again, precios de 2 Hour Writer, Digital Economics y Solopreneur Sprints (C-T17-19 a C-T17-22) y "the architect of the business" (C-T17-11).
+- **T14 (nueva economía, IA, skill stacks):** digital economy (U-011-006), modern renaissance man (U-016-220), Eden y el uso de Claude (C-T17-32), la carrera de la IA (U-019-131).
+- **T15 (dinero, wage slavery, leverage):** cifras de ingresos (C-T17-23, C-T17-24), escapar de la wage slavery (U-016-211), mala relación con el dinero (U-006-053, U-009-252) y las compras como forcing function (C-T17-25).
+- **T16 (filosofía de vida, salud, los 20s):** alcohol (U-005-088), el gimnasio (C-T17-03, C-T17-36), los 20s y la sabiduría (C-T17-41), las fases de pérdida (C-T17-28).
+- **T18 (startups y equipos):** C-T17-30 a C-T17-32 y C-T17-42 (Cortex/Eden, contratar, Stan) son la antesala biográfica de T18.
+- **Dependencias internas:** C-T17-01 → C-T17-02 → C-T17-03; C-T17-05 → C-T17-06 → C-T17-13 → C-T17-14 → C-T17-15 → C-T17-16 → C-T17-17; C-T17-08 → (C-T17-09, C-T17-10) → C-T17-11 ↔ C-T17-12; C-T17-18 → C-T17-19 → C-T17-20 → (C-T17-21, C-T17-22); C-T17-23 → C-T17-24 → C-T17-25; C-T17-26 → C-T17-28 → C-T17-29; C-T17-30 → C-T17-31 → C-T17-32.
+
+### T18
+- **T17 (biografía y productos del autor):** Kortex, Eden, la cifra de "3 millones" y la historia de cómo se formó el equipo son biografía del autor; C-T18-07 a C-T18-13 dependen de ese contexto.
+- **T12 (modelo de negocio de una persona):** el bloque es su contrapunto: los principios del negocio individual no se transfieren uno a uno a una startup (C-T18-10); contratar como creador solo empieza por un asistente ejecutivo (C-T18-17); el "single player" y su techo (C-T18-23). Conviene entender T12 antes.
+- **T05 (enfoque, deadlines):** la presión de plazos y su fracaso con un equipo (C-T18-10) matiza las ideas de deadlines y "bursts of intensity" de T05.
+- **T10 (audiencia y distribución):** distribución inbound por contenido, creadores en plantilla y alianzas con creadores (C-T18-05, C-T18-06); prerrequisito para entender por qué Stan creció sin marketing pagado.
+- **T13 (productos, ofertas, landing pages):** landing pages simples que convierten (C-T18-03), "productizing a company" y la propuesta de valor para atraer talento (C-T18-19), mensaje sobrecomplicado (C-T18-11).
+- **T02 (identidad):** la contratación por encaje entre identidad y conducta (U-025-133, C-T18-20) aplica la teoría de identidad de T02.
+- **T14 (IA, creator economy, futuro del trabajo):** IA en soporte y en el apalancamiento del código (C-T18-16), "AI slop" frente al artesano (C-T18-12), skill stacks y personas en forma de T (C-T18-18).
+- **T15 (leverage, agencia):** el código como apalancamiento casi infinito (C-T18-16), el aprendizaje del equipo como apalancamiento futuro del líder y la alta agencia (C-T18-21).
+- **T07 (aprendizaje construyendo):** iterar, equivocarse y no repetir errores (C-T18-07, C-T18-01); la persistencia por encima del talento técnico (C-T18-14).
+- **T08 (pensamiento de primeros principios):** John y Vitali razonan desde primeros principios (contratación, 10 ingenieros) (C-T18-15, C-T18-19); Dan busca la "deeper underlying truth" de sus principios (C-T18-10).
+- **T03 (visión):** la visión a 10 años para reposicionar la marca (C-T18-12) y la alineación en torno a una meta anual (C-T18-24).
+- **T16 (filosofía de vida):** tomar grandes riesgos y persistir ante el "es demasiado difícil" (C-T18-14).
+- **Dependencias internas:** C-T18-01 (velocidad) y C-T18-02 (PMF) son la base; C-T18-03/04 precisan cómo se busca el PMF; el caso Kortex (C-T18-07 a C-T18-13) ilustra sus violaciones; C-T18-15/16 → C-T18-17 → C-T18-18/19 → C-T18-20/21 forman la secuencia de equipo; C-T18-22 → C-T18-23/24 → C-T18-25 la de escala.
