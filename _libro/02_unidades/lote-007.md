@@ -1215,3 +1215,865 @@
 - **fuente:** 11 Lessons From Growing A 7-Figure One Person Business.md, 29:57-32:20, 2022-11-06
 - **tension:** ninguna
 
+# Fuente: 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md (2022-06-18)
+
+## U-007-094
+- **tipo:** historia
+- **titulo:** Childhood observation: everywhere people were unhappy, so there had to be a better way
+- **desarrollo:** Dan was observant as a child: everywhere he looked people seemed unhappy with careers, jobs, spouses, day-to-day life; everything caused complaint. He allows this may have been his environment, plus the "negativity bias" our brains default to (we pick up on negative things most). He knew deep down that this wasn't and shouldn't be the default outcome of everyone's life, so why emulate that path? Taking matters into his own hands seemed the only option: personal responsibility, self-education and making his own decisions became priorities before age 20.
+- **ejemplos:** ninguno
+- **cita:** "that shouldn't be the default outcome of everyone's life so why would i try to emulate or follow that path"
+- **terminos:** negativity bias; default outcome; personal responsibility; self-education
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** none
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 0:00-1:01, 2022-06-18
+- **tension:** ninguna
+
+## U-007-095
+- **tipo:** argumento
+- **titulo:** Contrarian inputs: if everyone consumes the same information and it leads to an outcome you don't want, don't consume it
+- **desarrollo:** If everyone did something, Dan wanted the opposite: everyone wanted to retire at 65, he wanted to retire at 30; everyone watched TV at night, he went to the gym or watched educational YouTube to increase his skill set so he wouldn't get stuck in a low-skill labor job (which are consistently being phased out). Watching the news, "keeping up with the Kardashians", staying informed on everything didn't appeal; he wanted to read books and develop skills. The connection he made: if everyone consumes the same information and it leads to a specific life outcome, why would he consume that information?
+- **ejemplos:** retire at 65 vs 30; TV vs gym or educational YouTube; news and Kardashians vs books.
+- **cita:** "if everyone is consuming the same information and it's leading to this specific outcome in life then why would i consume that specific information"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-094
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 1:01-1:57, 2022-06-18
+- **tension:** ninguna
+
+## U-007-096
+- **tipo:** historia
+- **titulo:** College as a countdown: he went to delay the 9-to-5 and test the waters
+- **desarrollo:** College was a default path Dan looked forward to; he saw its positives but knew young that he didn't need it to make an income, and that no one should rely on external circumstances (college included) to dictate their future; internet education supplemented his learning. The main reason he went was to delay having to get a 9-to-5, which at the time was "the bane of my existence" (he says he has nothing against them). As soon as he stepped on campus, "the countdown had begun": four years to build a name and a business or "accept my demise" and get a job. He originally wanted neuroscience ("every kid wants to make 300 000 a year at a job"), considered engineering, and ended up in business, where he met great people.
+- **ejemplos:** neuroscience -> engineering -> business major
+- **cita:** "as soon as i stepped foot on the college campus i knew that the countdown had begun"
+- **terminos:** default path
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** none
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 1:57-3:44, 2022-06-18
+- **tension:** ninguna
+
+## U-007-097
+- **tipo:** historia
+- **titulo:** Failed business 1: a fitness YouTube channel (10,000 calorie challenges) with a friend
+- **desarrollo:** His first business attempt was a fitness YouTube channel, because his time before that was dedicated to fitness and the gym. He made 10,000 calorie challenge videos, general lifting videos, vlogs and food challenges. After a few months they quit: he did it with a friend and it took too much time. He saw some growth and began understanding social media, e.g. the tactic of commenting on other accounts to leverage their audience. Afterward he dropped business for a while, studied, partied, got "the college experience".
+- **ejemplos:** 10,000 calorie challenge videos
+- **cita:** ninguna
+- **terminos:** leverage their audience
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** none
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 3:44-5:21, 2022-06-18
+- **tension:** ninguna
+
+## U-007-098
+- **tipo:** principio
+- **titulo:** The people you learn your interest from are running a business; with the same expertise you can too (intelligent imitation)
+- **desarrollo:** A connection many people don't make: if you study someone who talks about something you're deeply interested in and they do it as a job, it's an actual business even if you don't see that on the front end, which means you can do it too with the same level of expertise. Dan realized he knew everything the fitness YouTubers talked about. He learned it from someone else, and that's how you learn: from others, then you pass the information on. That's "intelligent imitation" (discussed in a previous video).
+- **ejemplos:** fitness YouTubers Dan followed
+- **cita:** "you learn things from someone else and then you go on to pass that information on that's intelligent imitation"
+- **terminos:** intelligent imitation
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** none
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 3:44-5:21, 2022-06-18
+- **tension:** ninguna
+
+## U-007-099
+- **tipo:** historia
+- **titulo:** The arrest and the court letter: a low point at 18-19
+- **desarrollo:** One night Dan and friends went to a parking garage across from the dorms to smoke weed because his roommate had been broken up with by his girlfriend in Utah (someone told him "just go smoke some weed you'll be fine"). A bicycle cop showed up, wrote down Dan's license plate, handcuffed them; most of the substance and paraphernalia was Dan's and his roommate's. They were booked and fingerprinted (not overnight); he was interrogated about who supplied it. Back home for the summer working as a lifeguard, he'd forgotten about it until a court letter arrived with two options: go to court and potentially be convicted of a felony (very threatening to an 18-19 year-old who took school seriously), or a diversion class with daily color-code texts and drug tests for six months costing roughly $5,000-10,000, a lot for a college student. He felt defeated.
+- **ejemplos:** ninguno
+- **cita:** "my heart immediately sunk into my stomach"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** none
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 5:21-8:49, 2022-06-18
+- **tension:** ninguna
+
+## U-007-100
+- **tipo:** fuente-de-tercero
+- **titulo:** The Power of Now (Eckhart Tolle), recommended by Matt Ogus, as the catalyst
+- **desarrollo:** Around that time Dan followed Matt Ogus, a big fitness influencer of the "og fitness days", who recommended The Power of Now. Dan calls it the catalyst to it all, one of the first self-help or spirituality books he read. Being in an emotional rut, the words spoke to him: he started understanding the power of spirituality; after dissecting it his worries vanished ("this isn't bad, I can deal with this when the time comes"), and he regained his drive. Later (21:47) he names the author, Eckhart Tolle. The transcript does not detail which specific ideas from the book he took beyond relief from worry.
+- **ejemplos:** reading it after the court letter
+- **cita:** "this was a catalyst to it all"
+- **terminos:** spirituality
+- **origen:** de-tercero:Eckhart Tolle (The Power of Now); recommended by Matt Ogus
+- **nivel:** complementario
+- **prerrequisitos:** U-007-099
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 8:49-9:36, 21:47, 2022-06-18
+- **tension:** ninguna
+
+## U-007-101
+- **tipo:** historia
+- **titulo:** Failed business 2: a second YouTube channel filmed on a phone (acne, self-improvement talking heads)
+- **desarrollo:** With regained drive he made YouTube videos from home over the summer with his phone: acne videos, talking-head self-improvement and spirituality videos "kind of like Elliott Hulse", in his garage "trying to be like a tough alpha male" giving harsh-truth advice. He finds it funny and wishes he still had them. "I've been trying and failing at this for a long time and that's a common theme."
+- **ejemplos:** acne videos; garage talking heads like Elliott Hulse
+- **cita:** "i've been trying and failing at this for a long time and that's a common theme here"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-007-100
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 9:36-10:25, 2022-06-18
+- **tension:** ninguna
+
+## U-007-102
+- **tipo:** heurística
+- **titulo:** "Pick one thing and focus on it" is good advice, but not forever: long enough to determine true interest
+- **desarrollo:** Dan is big on trying everything. Common advice says pick one thing and focus on it forever. Good advice, "but not forever": you pick one thing and focus on it until you can accurately determine whether you're truly interested, passionate, whether it fuels you, whether you can see yourself doing it long term. You can't spend one day and expect passion, but you can't spend your entire lifetime doing something you don't enjoy.
+- **ejemplos:** switching majors and interests in college
+- **cita:** "you can't just spend one day doing it and expect to be passionate about it but you can't spend your entire lifetime doing something that you don't enjoy"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** none
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 10:25-11:14, 2022-06-18
+- **tension:** ninguna
+
+## U-007-103
+- **tipo:** historia
+- **titulo:** Failed business 3: photography and digital art; discovering editing only by trying photography
+- **desarrollo:** Sophomore year he bought a camera for YouTube, stopped the videos, and picked up photography (street, landscape, portrait) from YouTube tutorials. He didn't care much for photography but cared a lot about editing, which sent him down a Photoshop rabbit hole. Lesson: how could he know he was passionate about editing rather than photography without diving into photography first? Certain things must be tried to find what you're truly interested in. He spent 6-8 hours in his room in flow state with music creating surreal composites from his photos and stock photos. He stopped because he didn't know how to monetize; now, with marketing, sales and course-building knowledge, he could build a course teaching composites, "is that not the dream": doing what you love and teaching people who are interested. It's supply and demand, interest.
+- **ejemplos:** surreal Photoshop composites; 6-8 hour flow sessions
+- **cita:** "how in the world could i know that i was very passionate and interested in editing as opposed to say photography without actually diving into photography first"
+- **terminos:** flow state
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-102
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 11:14-14:54, 2022-06-18
+- **tension:** ninguna
+
+## U-007-104
+- **tipo:** método
+- **titulo:** Growing on Instagram by getting featured by community pages (leveraging other people's audiences)
+- **desarrollo:** Posting his edits on Instagram, he grew quickly by leveraging other audiences: community pages that only posted photographers' work picked from hashtags and tags and reposted to pages of 300,000 to a million followers; if they tagged him, he gained followers. He focused on high-quality content (images and edits) and getting them in front of people. That gave him his first ~2,000 followers.
+- **ejemplos:** feature pages of 300,000-1M followers
+- **cita:** ninguna
+- **terminos:** leveraging other people's audiences
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-103
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 12:06-13:05, 2022-06-18
+- **tension:** ninguna
+
+## U-007-105
+- **tipo:** principio
+- **titulo:** Failed attempts still transfer skills, because everything interconnects
+- **desarrollo:** Though he stopped editing and photography, it taught him design, image composition and color theory, which transferred into everything he does now. Many miss that if you try, fail and start over, you're still picking up valuable skills because everything interconnects. Similarly, his failed content marketing agency, SEO agency and others "all complemented each other because they go hand in hand".
+- **ejemplos:** design, composition, color theory from digital art
+- **cita:** "if you try and fail and start over you're still picking up valuable skills because everything interconnects"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-103
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 13:05-14:01, 24:11, 2022-06-18
+- **tension:** ninguna
+
+## U-007-106
+- **tipo:** historia
+- **titulo:** Failed business 4: Facebook ads agency after a six-figure agency course; 10-50 cold emails, no clients
+- **desarrollo:** Searching "how to make six figures online", he found Billy Willson's six-figure agency course, which he calls really good: it taught lead generation, advertising, copywriting. He sent maybe 10-50 cold emails, closed no clients, gave up and moved on.
+- **ejemplos:** ninguno
+- **cita:** ninguna
+- **terminos:** ninguno
+- **origen:** propia (mentions de-tercero:Billy Willson course)
+- **nivel:** complementario
+- **prerrequisitos:** none
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 14:54, 2022-06-18
+- **tension:** Relates to lesson 7 (U-007-121): 10-50 emails is the kind of small sample he later criticizes.
+
+## U-007-107
+- **tipo:** historia
+- **titulo:** Failed business 5: a dropshipping rave clothing store; immersion = market research
+- **desarrollo:** He was into EDM and festivals and knew that audience "like the back of my hand": what people wore and how things were promoted. Business lesson: to market accurately to an audience, immerse yourself in it; if you don't go to raves and want to sell to ravers, he has a leg up, "i am the market research". He took a dropshipping course (branding, store setup, shipping from China) and used his Facebook ads knowledge. Product example: a diamond-studded flashy bra. He sold nothing.
+- **ejemplos:** rave bra product
+- **cita:** "i am the market research at that point"
+- **terminos:** immerse yourself; market research
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** none
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 14:54-16:29, 2022-06-18
+- **tension:** ninguna
+
+## U-007-108
+- **tipo:** historia
+- **titulo:** Learning to code: self-education covered a college course's curriculum in three weeks
+- **desarrollo:** Living with six guys in an old frat house near ASU (Arizona), around junior year (timeline fuzzy), he took an intro to web development class, learned basic HTML and CSS in two classes, and became obsessed with coding: a job without a degree, no corporate 9-to-5, creative coding work. He took courses after school. This solidified the value of self-education: always learning and building projects outside school or work, something giving him "intrinsic energy". He learned the course's curriculum in about three weeks on his own, didn't attend class, and still got an A. He knew time was running out: make something work or "end up like everyone else".
+- **ejemplos:** A without attending
+- **cita:** "i learned the entire course's curriculum ... in like three weeks just by studying on my own"
+- **terminos:** self-education; intrinsic energy
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** none
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 16:29-19:11, 2022-06-18
+- **tension:** ninguna
+
+## U-007-109
+- **tipo:** historia
+- **titulo:** Failed business 6: blue light glasses for developers, funded by his dad's $3,000
+- **desarrollo:** Immersed in the developer market, he knew developers are passionate and stare at screens all day, so a blue light glasses brand made sense. He called his dad asking for a few thousand dollars; to his surprise his dad said yes, the first time he had an argument and idea convincing enough for someone to invest; his dad isn't wealthy so it meant the world. He ordered product, set up the store and ads, studied influencer marketing (first ad featured his hedgehog Momo, since deceased). He blew the $3,000: long shipping times, packaging, promoting without much money. It didn't work, causing another low point ("why can I not make this work?"). He called his dad to say he'd wasted his money.
+- **ejemplos:** first ad with hedgehog Momo
+- **cita:** ninguna
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** none
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 19:11-22:36, 2022-06-18
+- **tension:** ninguna
+
+## U-007-110
+- **tipo:** principio
+- **titulo:** Build an audience so you don't shovel money into a furnace to test ideas
+- **desarrollo:** The blue-light failure taught Dan the value of building an audience: you don't have to rely on "shoveling money into a furnace" to test things. With an audience you test ideas via content, see what they actually want, then create a product or service for them.
+- **ejemplos:** $3,000 lost on paid ads and inventory
+- **cita:** "you don't have to rely on shoveling money into a furnace in order to actually test things out"
+- **terminos:** test ideas via content
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-109
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 21:47, 2022-06-18
+- **tension:** ninguna
+
+## U-007-111
+- **tipo:** historia
+- **titulo:** The web agency job ($60-70k/year), dropping out, and failed business 7: the wallet brand he never promoted
+- **desarrollo:** His dad suggested using his web development skills for a higher-paying job. He got a job at a web design agency, about $60,000-70,000/year, a lot for a college student, so he dropped out to spend his time building businesses. He started a second e-commerce brand: wallets; ordered them, got professional photos, "did everything right", but when it came time to promote he didn't, out of fear or something, and gave up. He also mentions failing at a content marketing agency and an SEO agency.
+- **ejemplos:** wallet brand
+- **cita:** "when it came time to promote i just i just didn't do it"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** none
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 22:36-24:11, 2022-06-18
+- **tension:** ninguna
+
+## U-007-112
+- **tipo:** historia
+- **titulo:** Freelance web design success: lead gen hustle, $1,500-2,500 deals, then an offer for service businesses at $2,500-5,000
+- **desarrollo:** People knew he did SEO, web design, Facebook ads, so clients came occasionally; he narrowed in on web design. At the agency job he observed marketing, sales, delivery and project tracking, forming a foundation. With a cushy job and spare time he cold emailed, DMed in Facebook groups, walked into local businesses, noted businesses advertised on cars while driving to email later. He got work from friends, family, referrals, and a few cold emails: consistently 3-4 deals of $1,500-2,500. He realized web design becomes more powerful with offer creation: he tailored a service to service businesses (pest control, accounting, consultancies): instead of a full website, a simple funnel (landing page with opt-in, back-end emails to follow up and get them booked), plus Facebook ads as an upsell to drive traffic. Charging $2,500-5,000 for that service funnel, he pulled in his first six figures freelancing.
+- **ejemplos:** pest control, accounting firms; landing page + opt-in + emails + ads upsell
+- **cita:** "web design itself it's a very good thing to start out with but ... you can make it more powerful by learning offer creation"
+- **terminos:** offer creation; service funnel; upsell
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** none
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 24:11-26:47, 2022-06-18
+- **tension:** ninguna
+
+## U-007-113
+- **tipo:** historia
+- **titulo:** From freelancer to creator: the freelancing ebook ($3,000/month), Twitter growth, consulting, 100k and 200k
+- **desarrollo:** He saw someone on Twitter selling a freelancing product and talking about interests and thought, why not me? In "monk mode" he created a freelancing ebook on the basics of freelancing, then a complementary web design product. The first ebook pulled about $3,000/month on top of client work. He networked and built products that built off one another. At ~10,000 followers he still landed clients on Twitter because creators and consultants are service businesses, so he positioned his offer toward them. He created "this self-sufficient audience and content ecosystem" bringing in clients and sales. He pivoted to consulting, hit 100,000 (on Twitter, implied), branched to Instagram and recently hit 200,000, after two to three years of iterating. Current offers (2022): Modern Mastery (community), Digital Economics (cohort), and some consulting for one-person service businesses (freelancers, coaches, creators, consultants).
+- **ejemplos:** freelancing ebook; Modern Mastery; Digital Economics
+- **cita:** "self-sufficient audience and content ecosystem"
+- **terminos:** monk mode; content ecosystem
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-007-112
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 26:47-29:32, 2022-06-18
+- **tension:** ninguna
+
+## U-007-114
+- **tipo:** argumento
+- **titulo:** An audience is a referral network at scale; with funnels you're in full control of income
+- **desarrollo:** In real life and cold email you aren't reaching a community or network; referrals exist but are limited. When you build an audience to 20, 30, 50, 100k, that's 100,000 people who know exactly what you do and can refer people to you. With funnels in place, you're in full control of your income.
+- **ejemplos:** ninguno
+- **cita:** "that's a hundred thousand people that know exactly what you do and they can refer people to you"
+- **terminos:** audience; funnels
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-113
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 28:31-29:32, 2022-06-18
+- **tension:** ninguna
+
+## U-007-115
+- **tipo:** principio
+- **titulo:** Lesson 1: Nothing happens, then everything happens; collect dots until you can connect them
+- **desarrollo:** "Nothing happens then everything happens", or "nothing makes sense and then everything makes sense". The unconventional path is unpredictable; courses can teach aspects but most depends on your ability to self-educate, iterate, pivot, and pick up specific knowledge. Exploring the unknown, you're collecting dots until you can connect them, and once you connect them, things take off.
+- **ejemplos:** Dan's seven failures leading to success
+- **cita:** "nothing happens then everything happens"
+- **terminos:** collecting dots; connect the dots; unconventional path
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** none
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 29:32-30:25, 2022-06-18
+- **tension:** ninguna
+
+## U-007-116
+- **tipo:** principio
+- **titulo:** Lesson 2: Figure it out; stop relying on the external; generate your own energy
+- **desarrollo:** Stop relying on the external to give you what you want. If you don't have energy, generate your own with purpose, passion and pursuing your curiosities. If you don't have an income, self-educate online and figure out how to make one.
+- **ejemplos:** ninguno
+- **cita:** "if you don't have energy then generate your own energy with purpose and passion"
+- **terminos:** figure it out
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** none
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 30:25-31:21, 2022-06-18
+- **tension:** ninguna
+
+## U-007-117
+- **tipo:** principio
+- **titulo:** Lesson 3: Don't be afraid to start over; it creates a way of doing things unique to you that others can't replicate
+- **desarrollo:** Starting over on the unconventional path isn't really starting over: you consistently pick up valuable information. When the dots connect, it creates a way of doing things very unique to you that other people can't replicate, "that is what you're looking for".
+- **ejemplos:** ninguno
+- **cita:** "it creates this way of doing things that is very unique to you that other people can't replicate"
+- **terminos:** starting over
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-115
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 31:21, 2022-06-18
+- **tension:** ninguna
+
+## U-007-118
+- **tipo:** metáfora
+- **titulo:** Lesson 4: Embrace the uncertain path; a predictable life is like a predictable story, meaningless
+- **desarrollo:** Nothing worth having is predictable. A predictable life isn't good or meaningful; you live the same actions day after day with nothing creating meaning or interest. Like a story: a story isn't predictable (how will this battle go, who wins, how does it end), and that's what makes life interesting, if you approach it from a zoomed-out lens or "meta perspective" where you stay present, view things for what they are, and don't get consumed by emotions.
+- **ejemplos:** story battles and unknown endings
+- **cita:** "a predictable life is not a good or meaningful life"
+- **terminos:** meta perspective; zoomed out lens
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** none
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 31:21-32:16, 2022-06-18
+- **tension:** ninguna
+
+## U-007-119
+- **tipo:** principio
+- **titulo:** Lesson 5: Try everything; you must try what you're aware of now to expand awareness into areas you didn't know existed
+- **desarrollo:** People warn against shiny object syndrome, but Dan has never seen it be the case. You must try everything to see what sticks. You can't find what you're interested in until you try something, discover you're not interested, and follow it down another path revealed because you tried. You have to try what you're aware of now to expand your awareness into areas you had no idea existed.
+- **ejemplos:** photography revealing editing
+- **cita:** "you have to try what you are aware of now in order to expand your awareness into these other areas that you had no idea existed before"
+- **terminos:** shiny object syndrome; expand your awareness
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-103
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 32:16-33:10, 2022-06-18
+- **tension:** Matiza U-007-102 (focus long enough to judge interest).
+
+## U-007-120
+- **tipo:** principio
+- **titulo:** Lesson 6: Give, give, give; neediness is sensed and leads to worse work
+- **desarrollo:** You won't make it if you need things: the money, validation, something external. If you think about money the entire time and are dependent on and fearful of losing money or a client, you do worse work, people sense your neediness, and you won't make it. Get in the habit from the start of giving free value: DM people "hey man I saw you were working on this, here's a few tips I wrote up", "here I built a landing page for you", or ask them on a call and consult them for free.
+- **ejemplos:** free tips in DMs; free landing page; free consult call
+- **cita:** "people are going to sense your neediness"
+- **terminos:** give give give; neediness
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** none
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 33:10-33:58, 2022-06-18
+- **tension:** ninguna
+
+## U-007-121
+- **tipo:** principio
+- **titulo:** Lesson 7: Shoot your shot, then shoot again; it's a numbers game
+- **desarrollo:** People trying to land clients send 5-10 DMs, make no money, call it BS and quit; Dan did too. It's a numbers game. You can step up marketing and sales knowledge to be more effective, but it's about getting in front of the right people: you have your offer and you have traffic.
+- **ejemplos:** 5-10 DMs then quitting
+- **cita:** "it's a numbers game"
+- **terminos:** shoot your shot; offer and traffic
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-072
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 33:58-34:50, 2022-06-18
+- **tension:** ninguna
+
+## U-007-122
+- **tipo:** fuente-de-tercero
+- **titulo:** JK Molina: if your offer sucks, traffic doesn't matter; the dating analogy and increasing luck
+- **desarrollo:** Dan cites JK Molina: if your offer sucks, it doesn't matter how much traffic you send to it. Dan extends it with a dating analogy: if you suck as a person (your offer sucks) and put yourself where many people are, you won't get dates or a happy ending; if you make the offer very good and send lots of traffic, you open yourself to more luck. You need people to increase your chances of luck. When in doubt, build more leverage: get your name in front of more people, network, build an audience, develop your skill set.
+- **ejemplos:** dating analogy
+- **cita:** "if your offer sucks then it doesn't matter how much traffic you send to it"
+- **terminos:** offer; traffic; luck; leverage
+- **origen:** adaptada-de:JK Molina
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-121
+- **fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md, 34:50, 2022-06-18
+- **tension:** ninguna
+
+# Fuente: The One Person Business Roadmap (99% Make This Mistake).md (2022-12-18)
+
+## U-007-123
+- **tipo:** advertencia
+- **titulo:** The 99% mistake: copying what large accounts do instead of what fits your stage
+- **desarrollo:** The video gives a roadmap of stages so you know what to expect. Dan doesn't want people to look at what others are doing in business and expect to do the same: a 100,000-follower account making a million dollars a year is not doing anything remotely similar to what you should do at the beginning. Different stages have different opportunities.
+- **ejemplos:** 100k-follower account making $1M/year
+- **cita:** "a 100 000 follower account that's making a ... million dollars a year is not going to be ... doing anything remotely similar to what you should be doing at the beginning"
+- **terminos:** one person business roadmap; stages
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** none
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 0:00, 2022-12-18
+- **tension:** ninguna
+
+## U-007-124
+- **tipo:** concepto
+- **titulo:** Digital Economics as described: productizing yourself with systems and a Notion Command Center
+- **desarrollo:** In the self-promotion Dan summarizes his program's method: productizing yourself via systems with a Notion "Command Center" (plug-and-play templates): create your brand, write content, systemize it, create a product, create a service, make it profitable from the start with zero experience, and promote and automate promotion for consistent sales. In short: grow your brand with content, lead people into your product or service, then automate or systemize it to two to four hours a day so you continue to grow and monetize. (Then available as a self-paced course instead of only a cohort.)
+- **ejemplos:** ninguno
+- **cita:** ninguna
+- **terminos:** digital economics; notion Command Center; productizing yourself
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** none
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 0:00-1:38, 2022-12-18
+- **tension:** ninguna
+
+## U-007-125
+- **tipo:** argumento
+- **titulo:** You can grow big and monetize; growth is a skill, and you raise audience awareness to buyer level
+- **desarrollo:** In three years in the creator game (after freelancing, which gave a head start), Dan has seen small and large accounts fall off, small accounts making $100k/month, and huge accounts making under $1,000/month. People see one or the other and think it's bad. Classic advice: don't aim for followers or fast growth because generic followers can't be monetized. Dan: if you understand marketing, you can raise the audience's awareness level to the point of being a buyer. And staying small, in the cycle of manual outreach or a system outside what you've built to land clients, isn't sustainable. Goal: grow and evolve until you control time, income, what you work on, while providing value, without getting trapped in one stage. Social media is a skill, not luck. You can build an "offer ladder" of products and services, preferably around what you enjoy, while decreasing time spent fulfilling.
+- **ejemplos:** small accounts at $100k/month; huge accounts under $1,000/month
+- **cita:** "social media is a skill"
+- **terminos:** offer ladder; awareness level
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** none
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 1:38-3:05, 2022-12-18
+- **tension:** ninguna
+
+## U-007-126
+- **tipo:** concepto
+- **titulo:** Digital leverage: what an audience unlocks (access, network effect, income on demand)
+- **desarrollo:** What most skip: leverage, specifically "digital leverage". Dan paints a picture (acknowledging it sounds self-aggrandizing): 500,000+ followers across platforms. (1) Access: celebrities follow him on Instagram; he can reach out to almost anyone and get a reply, which an average freelancer can't; even if he never sold through his audience, he could get in front of a celebrity and persuade them to buy web design in DMs. (2) Network effect: a promotion reaches ~10x his followers because content reaches followers' followers; many followers are creators with 100k+ audiences (creators follow each other), so potential traffic compounds beyond 500k. (3) Income control: he can increase or decrease income depending on how much he wants to work and new projects. He could make $50,000 in 24 hours, or $100,000+ if he stepped over moral boundaries (which he won't, it doesn't feel good). On Black Friday, "when it's justified", he made $139,000 in three to four days. Hence he finds it funny when (social media marketers) say not to gain many followers.
+- **ejemplos:** celebrity DMs; $50k in 24h; $139k Black Friday
+- **cita:** "my promotions and my content are not only reaching my followers but their followers as well"
+- **terminos:** digital leverage; network effect
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-125
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 3:05-5:19, 2022-12-18
+- **tension:** ninguna
+
+## U-007-127
+- **tipo:** advertencia
+- **titulo:** Scope: this roadmap is for one-person creator businesses; don't let flashy screenshots distract you from your own goal
+- **desarrollo:** Dan prefaces: the video is for one-person creator businesses, people who want to talk about their interests, build an income doing so, hire few or no employees, and unlock the freedom technology allows the individual. Not for freelancers unless they want to build an audience. If you have a goal of your own and this video doesn't align, don't let flashy screenshots distract you; watch for awareness but keep your goal.
+- **ejemplos:** ninguno
+- **cita:** "don't let flashy screenshots or other things distract you from the goal"
+- **terminos:** one person creator business
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** none
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 5:19-6:04, 2022-12-18
+- **tension:** ninguna
+
+## U-007-128
+- **tipo:** framework
+- **titulo:** The Eternal markets mapped to levels: health, wealth, relationships (survival / self-actualization) and happiness (self-transcendence)
+- **desarrollo:** Your personal brand is based on what you want out of life, what you lead followers toward. Everyone has the same desires, problems and goals, which all fall under the Eternal markets: health, wealth, relationships, and a bonus, happiness. The first three are "survival based", "self-actualization based" (transcript lists both labels together); happiness is "self-transcendence based". These markets are where all burning problems exist, since survival problems are the most burning: starting a business usually fixes some part of survival; buying a nice car is "trying to survive via status". Targeting these relevant, profitable and evergreen markets is how you create a compelling angle for marketing, products, brand or content.
+- **ejemplos:** starting a business to fix survival; nice car = survival via status
+- **cita:** "survival problems are the most burning problems"
+- **terminos:** Eternal markets; burning problems; survival based; self-transcendence based
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-011
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 6:04-7:45, 2022-12-18
+- **tension:** Adds the survival/self-actualization/self-transcendence mapping to U-007-011.
+
+## U-007-129
+- **tipo:** término-acuñado
+- **titulo:** Personal Monopoly: becoming irreplaceable by pursuing your genuine curiosity, a desaturated niche of one
+- **desarrollo:** Not a normal personal brand but a "personal Monopoly", per the Naval quote; "Irreplaceable is a good word". You become irreplaceable by pursuing your genuine curiosity, because that's what makes you you, and you're the only you: "if you want a desaturated niche of one you are the niche". Your story is your brand (next unit). Putting your story online while distributing actionable advice and valuable information creates your personal monopoly, or "mental Monopoly" as Dan likes to call it here (he later distinguishes the mental monopoly as great ideas people tie to you).
+- **ejemplos:** ninguno
+- **cita:** "if you want a desaturated niche of one you are the niche"
+- **terminos:** personal Monopoly; Irreplaceable; niche of one; mental Monopoly
+- **origen:** adaptada-de:Naval
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-001
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 6:49-7:45, 10:17, 2022-12-18
+- **tension:** At 10:17 he equates personal and mental monopoly; at 13:32 he frames mental monopoly separately as ideas people attribute to you.
+
+## U-007-130
+- **tipo:** argumento
+- **titulo:** Your future is a competition with your distracted mind; master survival to pursue curiosity
+- **desarrollo:** Most people can't pursue curiosity consistently or full time because their attention is "manhandled" by base psychological needs (he references the hierarchy of needs; self-actualization as "a need not a want for living the good life"). So your future isn't competition with others; it's competition with your distracted mind. An exceptional future belongs to those who master their survival, pursue their genuine curiosity and pass down what they learned. Sequence: improve yourself, solve your own problems, master your survival, document your journey, pursue your curiosity, and separate yourself from the crowd; how you do this is unique to you.
+- **ejemplos:** ninguno
+- **cita:** "your future isn't about competition with others it's about competition with your distracted mind"
+- **terminos:** survival Mastery; genuine curiosity; distracted mind
+- **origen:** adaptada-de:hierarchy of needs (Maslow not named in transcript)
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-128
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 7:45-8:44, 2022-12-18
+- **tension:** ninguna
+
+## U-007-131
+- **tipo:** principio
+- **titulo:** Your story is your brand; marketing and sales are tactics on top of human psychology to show a transformation
+- **desarrollo:** A story has highs and lows and problems overcome over and over, "an endless story". Stories sell; they're how humans make sense of the world. Sales imply a transformation, which is a story. Copywriting starts with a lead that illustrates and agitates a problem, shows how to overcome it, and gives testimonials as proof. Marketing and sales are tactics with a foundation of human psychology to show someone they can transform and preferably help them transform; that's the right way. Exploitation and manipulation toward a non-mutual benefit is what's labeled a scam: promising something you can't deliver; if you can't deliver and don't refund, that's a scam.
+- **ejemplos:** lead -> problem -> agitation -> solution -> testimonials
+- **cita:** "your story is your brand"
+- **terminos:** story; transformation; scam
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-129
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 8:44-9:33, 2022-12-18
+- **tension:** ninguna
+
+## U-007-132
+- **tipo:** ejemplo
+- **titulo:** Same goal, different stories: financial freedom via freelance web design vs tech job and investing
+- **desarrollo:** If Dan pursues financial freedom (a big broad goal), his path differs from others: he learns web design to freelance; another person takes a high-paying tech job, invests and retires. Completely different stories with different problems, reaching the same goal. That story is valuable to "the generation under you"; it's what people want to follow, like watching a movie or reading a book for an interesting story.
+- **ejemplos:** web design freelancing vs tech job + investing
+- **cita:** "that story is valuable to the generation under you"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-131
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 9:33-10:17, 2022-12-18
+- **tension:** ninguna
+
+## U-007-133
+- **tipo:** argumento
+- **titulo:** Business as a vessel for collective evolution: selflessness after solving selfish needs
+- **desarrollo:** We're here to self-actualize and transcend: pass down lessons and help others get there faster. Dan's message: improve yourself, help others improve with your prior experience, both reap the benefits. If enough people self-actualize and transcend with business as their vessel, more people open up to creative problem solving, using their minds for something beyond themselves: selflessness after you solve all your selfish needs. Creativity, innovation and discovery through the pursuit of curiosity will take us into the next phase of evolution. (He self-deprecates: "maybe I'm delusional".)
+- **ejemplos:** ninguno
+- **cita:** "selflessness after you saw all of your selfish needs"
+- **terminos:** self-actualize; transcend; vessel
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-007-053
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 10:17-10:59, 2022-12-18
+- **tension:** ninguna
+
+## U-007-134
+- **tipo:** término-acuñado
+- **titulo:** "Distribution equals freedom": build distribution, then build whatever you want
+- **desarrollo:** Adapting the phrase "discipline equals freedom" (attributed in the transcript to "Draco willing", a likely mis-transcription of a name; ambiguous), Dan says in the one-person business "distribution equals Freedom". Build distribution, then build whatever you want in life. Distribution falls under digital leverage, but everyone focuses on generic social media tactics. Definition: from the lens of a creator business, distribution is the potential traffic you can send to a product, service, or some crevice of the internet or content.
+- **ejemplos:** ninguno
+- **cita:** "distribution equals Freedom"
+- **terminos:** distribution; digital leverage
+- **origen:** adaptada-de:"discipline equals freedom" (speaker transcribed as "Draco willing")
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-126
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 10:59-11:53, 2022-12-18
+- **tension:** ninguna
+
+## U-007-135
+- **tipo:** framework
+- **titulo:** Three types of distribution: built, borrowed, bought
+- **desarrollo:** (1) Built: growing on social media to gather an audience or readership for your value; retain them, then "de-platform" them, because social media can go away (especially if you're polarizing and get canceled): send them to an email list ("nobody can take emails away from you"), a community, a Telegram channel, and deliver more in-depth value there. Built is the most important because it's in your control, not borrowed or paid. (2) Borrowed: getting on someone's podcast to promote yourself and products, being mentioned in someone's newsletter, a guest post, a retweet; borrowed traffic spills over into your built traffic (e.g. being shared by a big Instagram account). Paying for a podcast sponsorship falls under paid. (3) Bought: ads (Google, Facebook, Instagram), paid shoutouts (overlaps with borrowed, since you borrow their audience with spillover). Of the three, focus on building your own.
+- **ejemplos:** email list, Telegram; podcasts, newsletter mentions, guest posts, retweets; Google/Facebook/Instagram ads, shoutouts
+- **cita:** "nobody can take emails away from you"
+- **terminos:** built; borrowed; bought; de-platform
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-134
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 11:53-14:13, 2022-12-18
+- **tension:** ninguna
+
+## U-007-136
+- **tipo:** término-acuñado
+- **titulo:** Mental Monopoly: having great ideas that people tie to you
+- **desarrollo:** Dan frames the mental monopoly as "having great ideas that people tie to you". Example: asked your favorite book, you say The Power of Now by Eckhart Tolle, and you think of an idea you learned and attribute to him. When you consistently put out good ideas that stick, people who encounter something in life that reminds them of the idea are reminded of you. That makes you unique among people putting out generic content and quotes. He presents it as the best way to make borrowed distribution work.
+- **ejemplos:** The Power of Now / Eckhart Tolle as an idea attached to an author
+- **cita:** "having great ideas that people tie to you"
+- **terminos:** mental Monopoly
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-129
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 13:32-14:13, 2022-12-18
+- **tension:** ninguna
+
+## U-007-137
+- **tipo:** framework
+- **titulo:** Dan's distribution network: brand's three pillars (growth, authenticity, authority) around interests, expertise, experience
+- **desarrollo:** Dan shows a graphic of his distribution network (partially reconstructible). A brand has three pillars: growth, authenticity and authority. Growth (top): Twitter, Instagram, LinkedIn: top of funnel, short-form content on platforms where growth is easier to control (e.g. shares). Authenticity (bottom right): podcasts, YouTube, newsletter, even blog/SEO: where he talks more, gives more actionable advice, works in his own language; these grow slower, so he grows on short-form platforms and transfers people to them. Authority (bottom left): for him course, cohort and community; he's writing a book; for others any product that lets people buy from and invest in you and get something valuable in a meaningful exchange (people who haven't started a business think sales is bad yet buy things they love every day). Center: the brand revolves around his interests, expertise and experience, which overlap. Later (33:29) the simplified version: growth comes from short-form content, authority from product or service results, authenticity from long-form big idea synthesis; they overlap, it's a matter of priority.
+- **ejemplos:** Twitter/Instagram/LinkedIn; podcast/YouTube/newsletter; course/cohort/community/book
+- **cita:** "growth comes from short form content Authority comes from product or service results authenticity comes from long form big idea synthesis"
+- **terminos:** growth; authenticity; Authority; distribution Network
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-135
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 14:13-15:56, 33:29-34:17, 2022-12-18
+- **tension:** ninguna
+
+## U-007-138
+- **tipo:** argumento
+- **titulo:** Income and freedom are limited by fulfillment time: productize before traffic spikes
+- **desarrollo:** Your income, lifestyle and freedom are limited by how much time your products take to fulfill. With a projected 62% of jobs threatened by automation in the next decade (figure as stated by Dan, no source given), the highest paid will leverage their mind: creative ability, knowledge, experience (he references his "$100,000 product in your head" video). If you have an absurd amount of distribution but only a time-based service (freelance, agency, coaching) and haven't productized, "you're going to have a bad time": an influx of traffic (a podcast mention) brings an overabundance of clients you can't handle. Pivoting out of client work or hiring is wise, but for a one-person business it's better to productize and control your time: a product that sells, fulfills and maintains itself while you sleep.
+- **ejemplos:** traffic spike from a podcast appearance
+- **cita:** "your income lifestyle and freedom are limited by the amount of time your products take to fulfill"
+- **terminos:** productize; fulfill
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-135
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 15:56-17:26, 2022-12-18
+- **tension:** ninguna
+
+## U-007-139
+- **tipo:** argumento
+- **titulo:** The more people you help, the more leverage you have: authors vs a $200k/month agency
+- **desarrollo:** People skip that the more people you help, the more leverage you have. Authors have more leverage than, say, a $200,000/month agency because their ideas are in more people's hands, they impact more people and have more dedicated fans. Not all about money, but if they sold coaching they could charge outrageously high prices, or run an automated or cohort-style offer and sell far more than people doing direct outreach.
+- **ejemplos:** author vs $200k/month agency
+- **cita:** "the more people you help the more leverage you have"
+- **terminos:** leverage
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-138
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 17:26, 2022-12-18
+- **tension:** ninguna
+
+## U-007-140
+- **tipo:** término-acuñado
+- **titulo:** Internet content is idea warfare on mental real estate; valuable ideas = relevant, understandable, actionable
+- **desarrollo:** Most beginners don't see internet content for what it is. It's not (only) about catching attention, the most followers or engagement; it's about valuable ideas. Valuable ideas = relevant, understandable and actionable, to the point of being spread without personal effort. The more perspective-shifting ideas you put out, the more "mental real estate in the collective psyche" you occupy, like how The Power of Now put mindfulness on the map of a chunk of the collective psyche. (Mentions his Two Hour Writer course covers persuasive writing and idea generation.)
+- **ejemplos:** The Power of Now putting mindfulness on the map
+- **cita:** "internet content is idea Warfare on mental real estate"
+- **terminos:** idea Warfare; mental real estate; collective psyche; perspective shifting ideas; valuable ideas
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-136
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 17:26-18:12, 2022-12-18
+- **tension:** ninguna
+
+## U-007-141
+- **tipo:** método
+- **titulo:** Stealing high-performing ideas: sources Dan uses (popular videos, Medium home, top tweets)
+- **desarrollo:** Creators are encouraged to steal or swipe high-performing ideas; not bad, just overused. Dan does it constantly: (1) go to a channel he aspires to be like and filter videos by most popular; (2) Medium, whose algorithm surfaces content around your interests; skim the home page for incredible ideas; (3) top tweets via Twemex or Tweet Hunter: filter any account's tweets for their highest-performing topics. A viral tweet is the perfect newsletter, blog or YouTube headline, or the start of a newsletter, so there's more value in the newsletter itself. He says the big problem is that this is overused (his fix comes in stage 3: synthesis).
+- **ejemplos:** YouTube "most popular" filter; Medium home; Twemex/Tweet Hunter
+- **cita:** "a good tweet that went viral is the perfect newsletter blog YouTube headline"
+- **terminos:** steal; swipe; high performing ideas
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** none
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 18:12-19:48, 2022-12-18
+- **tension:** Partly tensioned by U-007-155 (copiers become commodities without synthesis).
+
+## U-007-142
+- **tipo:** framework
+- **titulo:** Developmental stages of a creator: stage 1 (low leverage), stage 2 (medium leverage), stage 3 (high leverage)
+- **desarrollo:** As with everything in life, there are developmental stages, each with opportunities aligned with skills, experience and expertise. A stage one creator can't send an email and make $50,000 on demand nor DM anyone and get a reply; you put in reps and slowly build authority and leverage. Dan says the stages are "all made up", there can be different stages or aspects; it's the most common patterns he's observed in contact with thousands of creators. Stage 1: low leverage creators (start to ~10k). Stage 2: medium leverage (~10k followers). Stage 3: high leverage (~80-100k+). Each stage has three things to do and a trap. Content priority shifts: stage 1 ~80% growth content; stage 2 adds authority/authenticity and long form; stage 3 doubles down on best ideas and diversifies.
+- **ejemplos:** ninguno
+- **cita:** "these are all made up there can be different stages"
+- **terminos:** stage one; stage two; stage three; low leverage; medium leverage; high leverage
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-126
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 19:48-20:31, 34:17, 2022-12-18
+- **tension:** ninguna
+
+## U-007-143
+- **tipo:** proceso
+- **titulo:** Stage 1, step 1: study high-performing content; if you aren't growing, it's not the reader's fault
+- **desarrollo:** Every person starts at stage 1 (assuming no prior business experience). Understand that social media growth is a skill that can be practiced, not luck. First focus: high-performing content. You can't post whatever you feel like or something because it's clever or artsy; understand what leads to growth. If you aren't growing, it's not the reader's fault for lacking understanding; you lack the ability to make your message understandable to them. Study: filter your favorite channel's videos by most popular and question why they did best; study top tweets; follow accounts you aspire to be like and see which posts outperform; use Tweet Hunter or Twemex; note common patterns, understand why, emulate.
+- **ejemplos:** ninguno
+- **cita:** "if you aren't growing it's not the reader's fault ... it's because you lack the ability to make your message understandable to them"
+- **terminos:** high performing content
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-142
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 20:31-22:02, 2022-12-18
+- **tension:** ninguna
+
+## U-007-144
+- **tipo:** proceso
+- **titulo:** Stage 1, step 2: use content templates as training wheels (hook, three bullets, conclusion with pain point)
+- **desarrollo:** Almost every social media course has templates for structuring posts. Dan copies certain tweets into a note and uses their structure to write other tweets. He shows an early tweet that did well (text not in transcript): a hook; three bullet points to hold and keep attention while delivering actionable value; then a wrap-up conclusion with a potential pain point people may face. He noted what worked and moved in a better direction.
+- **ejemplos:** hook + 3 bullets + conclusion with pain point tweet structure
+- **cita:** "use content templates as training wheels"
+- **terminos:** content templates; training wheels; hook
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-143
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 22:02-22:47, 2022-12-18
+- **tension:** ninguna
+
+## U-007-145
+- **tipo:** proceso
+- **titulo:** Stage 1, step 3: short-form growth and idea validation before long form
+- **desarrollo:** Focus on short form (tweets, reels, TikToks, Shorts, Instagram and LinkedIn posts), not long-form YouTube, podcasts, newsletter or blogs yet. On top-of-funnel platforms you can control growth more: on Twitter network or pay for retweets, on Instagram shares, on LinkedIn comments. YouTube and others take more time; attack them with ideas validated on Twitter, Instagram or LinkedIn. Post many ideas (e.g. on Twitter you're not penalized for posting multiple times a day), see what does best while networking to get eyes on content, then turn the best ideas into a newsletter, video or blog. Dan grew on Instagram and LinkedIn by screenshotting viral tweets with their social proof (likes, retweets), posting them, using a growth strategy or getting shared; he got far more followers because the idea was already validated.
+- **ejemplos:** viral tweet screenshots posted on Instagram/LinkedIn
+- **cita:** "you want to attack those platforms with validated ideas"
+- **terminos:** idea validation; short form; top of funnel; social proof
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-144
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 22:47-24:21, 2022-12-18
+- **tension:** ninguna
+
+## U-007-146
+- **tipo:** advertencia
+- **titulo:** Stage 1 trap: lots of followers, zero loyalty, obsessed with engagement, no product
+- **desarrollo:** If trapped in stage 1 you end up with many followers but zero loyalty, as many warn: if you disappear nobody asks "where'd Dan go?". These people usually get obsessed with engagement and never create a product or service.
+- **ejemplos:** "hey where'd Dan go"
+- **cita:** "you end up as an account with a lot of followers but zero loyalty"
+- **terminos:** loyalty
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-142
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 24:21, 2022-12-18
+- **tension:** ninguna
+
+## U-007-147
+- **tipo:** dato
+- **titulo:** Dan's follower-to-income benchmarks: 500 -> $3k month, 10k -> $10k, 50k -> $50k, 200k -> $200k month (Black Friday)
+- **desarrollo:** Stage 2 starts around 10k followers, when you should feel you have growth down. Don't wait until then to monetize, but this is where real money comes in. Dan's numbers: at 500 followers a $3k month; at 10,000 a $10k month; at 50,000 a $50k month; at 200,000 a $200k month (corrected mid-sentence, due to Black Friday). He shares it to break limiting money beliefs, calling it a baseline. Two years earlier he thought $100,000 in a month was insane until he saw a trustworthy person he knew and talked to frequently doing the same thing he did and making $100k/month; that blew his mind. He wanted $10k/month and was happy with it, but "it's fun to push more in business".
+- **ejemplos:** friend making $100k/month
+- **cita:** "hopefully it breaks some people out of their limiting money beliefs"
+- **terminos:** limiting money beliefs
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-007-142
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 24:21-25:43, 2022-12-18
+- **tension:** ninguna
+
+## U-007-148
+- **tipo:** proceso
+- **titulo:** Stage 2, step 1: learn direct response marketing, then transition to an authentic voice keeping the principles
+- **desarrollo:** Learn direct response marketing (can be before stage 2): the skill that made people like Alex Hormozi rich before they went all in on brand and giving everything away free. Dan thinks you should give everything away free over 12, 24, 36 months of content, then aggregate those points for convenience into a product or service people pay for speed ("speed aggregation convenience"). Same story for Justin Welsh (they did a podcast together): study books like "cash advertising" (title as transcribed; likely Cashvertising, ambiguous), go down a Google rabbit hole of direct response and copywriting, get results, then start feeling salesy, become self-aware and slowly transition to a more authentic voice while keeping direct response principles. The principles of human psychology for crafting a compelling message are the same; the tactics of the past decade (sales funnels, countdown timers) have become "wonky" and now scream scam or less trustworthy even when authentic.
+- **ejemplos:** Alex Hormozi; Justin Welsh; countdown timers
+- **cita:** "that's what people pay for is speed aggregation convenience"
+- **terminos:** direct response marketing; authentic voice; principles vs tactics
+- **origen:** adaptada-de:Alex Hormozi, Justin Welsh (as examples)
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-142
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 25:43-27:13, 2022-12-18
+- **tension:** ninguna
+
+## U-007-149
+- **tipo:** proceso
+- **titulo:** Stage 2, step 2: build a high-ticket offer ($2,500-5,000), like a plumber for a business
+- **desarrollo:** At ~10,000 followers the audience is too small to sustain income with a low-ticket digital product, so create a coaching, consulting or freelancing service and work up to $2,500-5,000 by stacking specific skills and applying them to a problem in a specific business. "It's like being a plumber but for a business": find a problem because you understand their business as a whole, create an offer for it, reach out, present the perfect solution to the perfect person, get them results. Then turn that system into a product with results to sell it, so at 80,000-100,000 followers (stage 3) you can monetize from products alone or reduce client work. If you don't know where to start, use the minimum viable offer: charge $500-1,000 ("five hundred two thousand dollars" in transcript) and work up. Between stage 2 and 3 you should land ~four clients at $2,500/month = $10k/month, matching his "10k at 10k followers" tweet, via direct outreach.
+- **ejemplos:** four clients x $2,500 = $10k/month
+- **cita:** "it's like being a plumber but for a business"
+- **terminos:** high ticket offer; minimum viable offer; stacking specific skills
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-065
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 27:13-29:31, 2022-12-18
+- **tension:** ninguna
+
+## U-007-150
+- **tipo:** proceso
+- **titulo:** Stage 2, step 3: branch into long-form content to create depth and authority behind validated topics
+- **desarrollo:** By now you know which tweets, posts and threads do well and your highest-performing topics. Create depth and authority behind them: turn them into a newsletter, flesh them out, add your thoughts, then turn newsletters into YouTube videos or podcasts, getting used to giving more value than a 280-character tweet. Depth leads to more authentic sales. You don't have to stick to direct response copywriting (thread -> click -> landing page -> buy immediately). As a creator it's not like paid ads where you retarget repeatedly: people consistently see your content, and on your newsletter you raise them up the levels of awareness to wanting your product; it doesn't have to happen the first time. Stick it out, pay attention to what's going right and wrong, double down on what's right.
+- **ejemplos:** tweet -> newsletter -> YouTube/podcast
+- **cita:** "this depth is what's going to lead to more authentic sales"
+- **terminos:** long form; depth; levels of awareness
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-145
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 29:31-30:19, 2022-12-18
+- **tension:** ninguna
+
+## U-007-151
+- **tipo:** advertencia
+- **titulo:** Stage 2 trap: building yourself into another 9-to-5 (the high-ticket client cycle)
+- **desarrollo:** People hover between 10,000 and 30,000 followers, not doing anything with a product, not growing or maintaining growth with high-performing topics, trapped in a cycle: reach out to a prospect, get a client, have no time for anything else, repeat, in constant stress because if a client leaves they're down $2,500/month, with no time to build an audience because they're always hunting the next client.
+- **ejemplos:** losing a $2,500/month client
+- **cita:** "you pretty much build yourself into another nine to five"
+- **terminos:** high ticket client cycle
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-149
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 30:19-31:02, 2022-12-18
+- **tension:** ninguna
+
+## U-007-152
+- **tipo:** principio
+- **titulo:** Stage 3 requires survival mastery, ego development and multidisciplinary study; complementary interests individualize you
+- **desarrollo:** Most never reach stage 3 (high leverage creator) because it's impossible without survival mastery, ego development and multi-disciplinary study. People get locked in the "focus on one thing mindset" (not bad at the beginning), build themselves into the high-ticket client cycle, and don't pursue complementary skills or interests that individualize them and reduce saturation. Dan incorporates spirituality and philosophy into business videos, which he guarantees is why many watch and why he stands out.
+- **ejemplos:** spirituality and philosophy in business videos
+- **cita:** "it's impossible without survival Mastery ego development and multi-disciplinary study"
+- **terminos:** high leverage Creator; survival Mastery; ego development; multi-disciplinary study; focus on one thing mindset
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-007-142
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 31:02-31:48, 2022-12-18
+- **tension:** ninguna
+
+## U-007-153
+- **tipo:** proceso
+- **titulo:** Stage 3, step 1: productize, network with bigger players, leverage service results for a six-figure launch
+- **desarrollo:** By now you have results from your high-ticket service and have iterated the system or curriculum until it gets results consistently and you're confident to productize it: put it into a product with a curriculum teaching people how to use it, distributed without your time. Advice: take your system and method, reposition it toward a broader, beginner-level audience (you have a huge audience to leverage), and use your results as initial social proof for a six-figure-plus launch. Network with bigger players (100k to 1M followers). Example: grown to 100k on Twitter and wanting Instagram growth, reach out to a 100k Instagram account: "I'll help you grow on Twitter if you help me grow on Instagram with the validated ideas I have". That's how Dan now has more Instagram than Twitter followers.
+- **ejemplos:** Twitter-for-Instagram growth swap
+- **cita:** "use your results as initial social proof to have a six figure plus launch"
+- **terminos:** productize; reposition; social proof; launch
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-007-152
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 31:48-33:29, 2022-12-18
+- **tension:** ninguna
+
+## U-007-154
+- **tipo:** proceso
+- **titulo:** Stage 3, step 2: refine ideas and diversify across platforms using social capital
+- **desarrollo:** Double down on your best ideas and diversify your audience across platforms. Dan grew quickly on Instagram and LinkedIn by reaching out to big accounts, showing value with his following and time in the game, offering an exchange of services, shares or money; he already knew which content led to the most followers, put it on the other platform, and used the other person's knowledge or help to grow fast. You don't have to start with Twitter. Most think money is how you do it; there's also "Social Capital": 100,000 followers are extremely valuable to someone wanting to promote to or grow via that audience; you can vet them and exchange value if your audience would enjoy it.
+- **ejemplos:** exchanging shares with big Instagram/LinkedIn accounts
+- **cita:** "there's Social Capital"
+- **terminos:** Social Capital; diversify
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-007-153
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 33:29-35:52, 2022-12-18
+- **tension:** ninguna
+
+## U-007-155
+- **tipo:** proceso
+- **titulo:** Stage 3, step 3: prioritize long form and become a synthesizer so you don't become a commodity
+- **desarrollo:** At high followers and income, reposition yourself as a "synthesizer": develop big ideas that stick in people's heads (the mental monopoly). Possible from the start, but critical here so you don't become a commodity: people copy you; when something of Dan's pops off, the next day he sees ~10 similar posts slightly reworded (not plagiarism), but they won't make it because they lack the creative ability to consistently produce novel perspectives. Best done with long form (newsletters, YouTube, podcasts). Method: pursue what interests you; study the big-picture ideas, not minor details (when reading a book, what are the five huge ideas it's built around?); sit with those ideas, go on a walk, experience life, connect the dots through experience and writing and note-taking. (He mentions building content-synthesis software.)
+- **ejemplos:** ten copies of his viral post the next day; "five huge ideas" of a book
+- **cita:** "when you read a book what's the five huge ideas that they wrote that entire book around"
+- **terminos:** synthesizer; commodity; big picture ideas; mental Monopoly
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-007-136
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 35:05-36:32, 2022-12-18
+- **tension:** Qualifies U-007-141 (stealing high-performing ideas) as insufficient long term.
+
+## U-007-156
+- **tipo:** método
+- **titulo:** Note patterns, connect dots in long form, and name your own concepts (the Eisenhower Matrix example): a positive mind virus
+- **desarrollo:** Note patterns from your experience, connect the dots with long form, and create your own versions of concepts, processes and philosophies. Example: the Eisenhower Matrix is a priority matrix (what to pay attention to, forget, delegate, etc.); it's "just a random name with a valuable idea" that grew until people talk about it constantly. If Dan had a truly helpful system for prioritizing his day, he could name it his own, distribute it via content or a book, and if others talk about it, it's a contagious idea that sticks, growing his ideas and brand without him doing anything, "like a positive mind virus". Lastly, take pieces of long form for short form.
+- **ejemplos:** Eisenhower Matrix
+- **cita:** "it's like a positive mind virus"
+- **terminos:** contagious idea; positive mind virus; create your own versions
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-007-155
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 36:32-38:05, 2022-12-18
+- **tension:** ninguna
+
+## U-007-157
+- **tipo:** ejemplo
+- **titulo:** Dan didn't invent "one person business"; he gave it a new meaning, and named his own processes
+- **desarrollo:** Dan didn't come up with the concept of the one-person business; it meant operating a business as one person with internet technology. He gave it an entirely new meaning: productize yourself, self-monetization, you as the brand, doing what you love for a living backed by systems that get results. That makes him stand out. He's also named processes: "intelligent imitation", "tactical stress", "the unknown" and others (not defined in this video). This comes from applying his interests (spirituality, philosophy, neuroscience) to his expertise (online business, marketing, branding), with enough exposure in all those domains, because he's not a specialist, to notice common patterns and create long form that's difficult to replicate.
+- **ejemplos:** one person business reframed; intelligent imitation; tactical stress
+- **cita:** "I didn't come up with the concept of one person business but I took it and I gave it an entirely new meaning"
+- **terminos:** one person business; self-monetization; intelligent imitation; tactical stress; the unknown
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-007-156
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 38:05-38:53, 2022-12-18
+- **tension:** ninguna
+
+## U-007-158
+- **tipo:** fuente-de-tercero
+- **titulo:** "As to methods there may be a million... but principles are few": don't take Dan's method as law
+- **desarrollo:** Dan quotes (without naming the author): "as to methods there may be a million and then some but principles are few the man who grasps principles can successfully select his own method". He says this whole letter was partly principles but mostly his method. So don't take it as law: question it, test it, experience it, and if you find a better solution, create content about it. This isn't the only way of doing business.
+- **ejemplos:** ninguno
+- **cita:** "principles are few the man who grasp principles can successfully select his own method"
+- **terminos:** principles; methods
+- **origen:** de-tercero:unnamed (quote not attributed in transcript)
+- **nivel:** intermedio
+- **prerrequisitos:** none
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 38:53-39:44, 2022-12-18
+- **tension:** ninguna
+
+## U-007-159
+- **tipo:** principio
+- **titulo:** Main lesson: never stop learning, building, evolving; don't get trapped in a stage; self-actualize, self-monetize, self-transcend
+- **desarrollo:** The main lesson of the video: never stop learning, never stop building, never stop evolving; don't get trapped in one of the stages. Distraction and comfort are the only things that can get in your way. Closing formula: "self-actualize self-monetize and self transcend".
+- **ejemplos:** ninguno
+- **cita:** "distraction and comfort are the only things that can get in your way"
+- **terminos:** self-actualize; self-monetize; self transcend
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-007-142
+- **fuente:** The One Person Business Roadmap (99% Make This Mistake).md, 39:44, 2022-12-18
+- **tension:** ninguna
+

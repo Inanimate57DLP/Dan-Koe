@@ -1164,3 +1164,696 @@
 - **prerrequisitos:** ninguno
 - **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 30:00-30:36, 35:45, 2025-01-30
 - **tension:** ninguna
+
+## U-005-090
+- **tipo:** método
+- **titulo:** The Life Dinner (from Brad Feld): a fixed monthly date where partners zoom out on the big picture and turn "me vs you" into "us vs the problem."
+- **desarrollo:** Dan (a year and a half into a relationship) asks for strategies to keep it tight. Sahil: "create a fixed monthly date where you and your partner get together and actually have a cadence around connecting on some of the bigger picture things in your relationship and in your life." Source: "a creation of an investor named Brad Feld." Rationale: early on there's a natural daily cadence of catching up, but "as life starts to get more complicated, as you both have responsibilities, maybe as you have kids, as you get married, it becomes harder and harder to make sure that you are zooming out." Format: (1) once a month at your favorite place; (2) each comes "with a set of things that you're thinking about... challenges, opportunities, visions for the future"; (3) each has the opportunity to talk about their side; (4) "then you come together to address whatever problems you need to face together." Effect: "You take all of these sort of me versus you things and turn it into an us versus problem thing... collaborative and synergistic." Sahil and his wife "have found a ton of benefit in it."
+- **ejemplos:** Sahil and his wife's practice.
+- **cita:** "You take all of these sort of me versus you things and turn it into an US versus problem thing."
+- **terminos:** life dinner; us versus problem; zooming out
+- **origen:** adaptada-de:Brad Feld, via Sahil Bloom
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 31:04-33:12, 2025-01-30
+- **tension:** ninguna
+
+## U-005-091
+- **tipo:** argumento
+- **titulo:** Why structure is needed to zoom out: you don't even do it for your own life, and daily life is lived in "first-person view."
+- **desarrollo:** The life dinner "goes viral" and detractors say "you shouldn't have to create a structure to talk about things in your relationship. Your relationships are going to die if you need to create a structure." Sahil: if you do it naturally after kids and marriage, "I am so happy for you... But I would guess that that is not true." Reason: "you don't do this with yourself. How often do you take time on a daily basis in your own life... to zoom out and think about the bigger picture?... No one does that... So why can we expect that we'll do that naturally in our relationship?" Conversations "end up being the short term daily things, because that's the life you're living in, the weeds. You're living first person view in your video game. This is all about zooming out, seeing the bigger field, seeing the forest so that you can actually strategically make sure that you're walking in the direction of the place where you're trying to go." Dan adds he loves routines and rituals because they "break out of the normal day to day," and systemizing something "supposed to be authentic... can be an incredible tool to make things more authentic."
+- **ejemplos:** Video-game first-person view vs seeing the field/forest.
+- **cita:** "You're living first person view in your video game. This is all about zooming out, seeing the bigger field, seeing the forest"
+- **terminos:** first person view; in the weeds; zoom out; seeing the forest
+- **origen:** de-tercero:Sahil Bloom (Dan's addition on rituals is propia)
+- **nivel:** intermedio
+- **prerrequisitos:** U-005-090
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 33:12-34:41, 2025-01-30
+- **tension:** ninguna
+
+## U-005-092
+- **tipo:** argumento
+- **titulo:** Structure isn't inauthentic: critics of Bryan Johnson apply their map to his terrain.
+- **desarrollo:** Sahil generalizes: "on social media, people equate structure with inauthentic." Example: "Brian Johnson [sic; likely Bryan Johnson], everyone gets so mad at... all of the structure and routines that he has. And they're like, well, he's not living his life." Sahil spent time with him for the book: "He's like incredibly happy. He loves what he's doing... Immersed in it. It's just that it doesn't match the map that you have for what your life should look like... Your map does not match his terrain, if you will. And so you're taking your idea of the fact that structure doesn't create happiness, and applying it to someone who very much feels that structure creates happiness." Point: "do what works for you... I'm not forcing anyone to do anything."
+- **ejemplos:** Bryan Johnson's routines.
+- **cita:** "Your map does not match his terrain, if you will."
+- **terminos:** map vs terrain; structure equals inauthentic
+- **origen:** de-tercero:Sahil Bloom
+- **nivel:** intermedio
+- **prerrequisitos:** U-005-091
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 34:41-35:45, 2025-01-30
+- **tension:** ninguna
+
+## U-005-093
+- **tipo:** argumento
+- **titulo:** Dan: people who think they have no routine "just have a routine of not having a routine" — and routine frees the creative mind (Darwin).
+- **desarrollo:** Dan: "the people that think they don't have a routine, just have a routine of not having a routine... that's what our mind loves. It wants the routine." Limit: "there's the dangers of this, where if you get trapped in a routine that either you didn't create or one that you just don't like, then yeah, that becomes a problem." Positive case: "most famous creatives think of Darwin. How did he produce 19 books in his lifetime? It's because he had a routine that allowed his mind... opened his mind up to have the creative ideas, to not focus on the day to day." The claim that Darwin wrote 19 books is Dan's.
+- **ejemplos:** Charles Darwin's routine and 19 books.
+- **cita:** "the people that think they don't have a routine, just have a routine of not having a routine"
+- **terminos:** routine of not having a routine
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-005-092
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 35:45-36:43, 2025-01-30
+- **tension:** ninguna
+
+## U-005-094
+- **tipo:** concepto
+- **titulo:** "Some people die at 25 and aren't buried until 75": living a handed-down default path (with David Foster Wallace's "default settings").
+- **desarrollo:** Dan quotes the line from Sahil's mental wealth section. Sahil: "Most people walk down this path that isn't really theirs. They're handed this default path, this default definition of success, these default settings of meaning as... David Foster Wallace once said, and accept them as their own and march blindly down that path, and they wake up in 50 years and maybe wonder what the hell they just did with their one life."
+- **ejemplos:** ninguno
+- **cita:** "They're handed this default path, this default definition of success, these default settings of meaning"
+- **terminos:** default path; default definition of success; default settings
+- **origen:** de-tercero:Sahil Bloom (citing David Foster Wallace for "default settings")
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 36:43-37:36, 2025-01-30
+- **tension:** ninguna
+
+## U-005-095
+- **tipo:** principio
+- **titulo:** "You are the hero in your hero's journey" — which doesn't require burning the boats; it can mean showing up to a factory job for the people you love.
+- **desarrollo:** The call to action of the mental wealth section: "you are the hero in your hero's journey. That is not a grandiose statement. That is true. You get one shot at all of this. So engage in something that matters to you." Explicit limit: "that doesn't mean that you have to go burn the boats and go build your own business. It might mean that you are going to engage in your purpose of providing for the people that you love... by showing up to your factory job every single day... showing up with energy to the job that you don't like, so that you can do the things that you like on the weekends." The requirement: "live your path, find your version of this hero's journey... Take the actions on a daily basis. Don't accept the blind version. Create a life around the things that you truly care about, not what other people tell you."
+- **ejemplos:** Factory job as purpose of providing.
+- **cita:** "you are the hero in your hero's journey. That is not a grandiose statement."
+- **terminos:** hero's journey; burn the boats; blind version
+- **origen:** de-tercero:Sahil Bloom
+- **nivel:** fundamental
+- **prerrequisitos:** U-005-094
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 37:36-38:06, 2025-01-30
+- **tension:** Matiza U-005-096 (Dan: everyone should try entrepreneurship): Sahil insists purpose can be lived without leaving a job.
+
+## U-005-096
+- **tipo:** opinión
+- **titulo:** Dan's polarizing belief: everyone should try entrepreneurship, because leaving school removes the source of challenge and life plateaus.
+- **desarrollo:** Dan: "I think everyone should be an entrepreneur [for] the rest of their life. I think everyone should try it." The causal chain he gives, tied to "die at 25": (1) people get out of school and "lose their source of challenge. They aren't going to grade ten, 11, 12. They aren't learning new things"; (2) in a job "they learn for quite a bit of time... potentially go up some form of a ladder"; (3) "then after that, it kind of just drops off a cliff"; (4) responsibilities pile on — family, bills; (5) what's lost is "that novelty and challenge that leads to the good dopamine leads to that feeling of progression, leads to needing to develop your skill set in your mind to match that new level that you're trying to reach." His proposed solution is "going off and doing your own thing and kind of jumping into the unknown," while admitting "I don't know if that's even a feasible solution for everyone."
+- **ejemplos:** ninguno
+- **cita:** "they've kind of lost their source of challenge"
+- **terminos:** source of challenge; good dopamine; feeling of progression; jumping into the unknown
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-005-094
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 38:06-39:39, 2025-01-30
+- **tension:** Sahil adds a layer (U-005-097) that entrepreneurship can be practiced within a job, softening the "go off on your own" version.
+
+## U-005-097
+- **tipo:** definición
+- **titulo:** Entrepreneurship is "being enterprising": identifying problems, creating solutions and scaling them — doable inside a 9-to-5.
+- **desarrollo:** Sahil's layer on Dan's belief: "you can try entrepreneurship while working in a stable job. Entrepreneurship is fundamentally about creating something. It's about being enterprising. It's about experimenting. It's about creating value when there was no expectation of you to do that. It's about taking on new things, being curious, identifying problems... fundamentally, entrepreneurship is about identifying problems, creating solutions and then scaling those solutions. You can do that in your 9 to 5 job. You don't have to burn the boats." Entrepreneurship "can be executed in a lot of different formats": quitting to start something truly yours, or "within a company" building "scalable solutions to problems that you find." He agrees with Dan that the process is "really important... for engaging your mind."
+- **ejemplos:** See U-005-098.
+- **cita:** "entrepreneurship is about identifying problems, creating solutions and then scaling those solutions. You can do that in your 9 to 5 job."
+- **terminos:** enterprising; entrepreneurial
+- **origen:** de-tercero:Sahil Bloom
+- **nivel:** fundamental
+- **prerrequisitos:** U-005-096
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 39:39-41:57, 2025-01-30
+- **tension:** ninguna
+
+## U-005-098
+- **tipo:** ejercicio-del-autor
+- **titulo:** The one-week blank notepad: log problems at work, brainstorm solutions, execute — and become top 10% in your company.
+- **desarrollo:** For someone at a big company "getting your annual inflation pay raise for doing your job description" who wants to be more entrepreneurial: "every day for a week. Keep a blank notepad where you identify problems that you see in the company" — problems of coworkers, bosses, customers. "Start brainstorming some solutions to those and bring them to the table and actually go and execute on them." Claim: "I guarantee you will start seeing an acceleration in your trajectory within that company, because the number of people who are willing to take the initiative to be entrepreneurial in a normal day to day job [is] effectively zero, you will stand out. You will be top 10%... you'll start making a whole lot more money."
+- **ejemplos:** ninguno
+- **cita:** "the number of people who are willing to take the initiative to be entrepreneurial in a normal day to day job effectively zero"
+- **terminos:** blank notepad; top 10%
+- **origen:** de-tercero:Sahil Bloom
+- **nivel:** intermedio
+- **prerrequisitos:** U-005-097
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 40:16-41:25, 2025-01-30
+- **tension:** ninguna
+
+## U-005-099
+- **tipo:** argumento
+- **titulo:** Dan on agency: every area of life is "scattered with problems," and boredom, anxiety, overwhelm and stress are opportunities to create solutions.
+- **desarrollo:** Dan recalls his co-founder Matt noting that early hires (mostly referrals; "ten engineers he wanted to get on") were "extremely high agency," which sent Dan down "the rabbit hole of what agency is, why it's so important, especially going into the future of AI." His point: it's about "solving problems... in any area of your life, not even entrepreneurship, like time, social, physical, financial, mental" (the five types of wealth) — "they're just scattered with problems... whenever you notice boredom, anxiety, overwhelm, stress, all of these different things, it's an opportunity to create a solution for yourself, which could then be... passed on to other people or your family or your friends. And that feeling of exchange, whether it's for money or not, is such a rewarding thing."
+- **ejemplos:** Co-founder Matt's high-agency hires.
+- **cita:** "whenever you notice boredom, anxiety, overwhelm, stress... it's an opportunity to create a solution for yourself"
+- **terminos:** agency; high agency; feeling of exchange
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-005-097
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 41:57-42:51, 2025-01-30
+- **tension:** ninguna
+
+## U-005-100
+- **tipo:** método
+- **titulo:** Identify problems before solving: "open the aperture" with a blank sheet, then pick the most solvable one.
+- **desarrollo:** How to identify problems: "blank sheet exercises and walking through your day with an eye towards things that created friction in your life or in others' lives." Key rule: identify first, don't solve yet. The common error: "you get into this tendency of like, okay, I found one. Let me try to come up with a solution when really like let me just open the aperture, see all the problems I can identify, and then I can pick the problem that I feel like is most solvable. If you go down the rabbit hole on the first problem you find, you close your eyes to seeing the problem that you actually might be able to solve more efficiently or effectively."
+- **ejemplos:** ninguno
+- **cita:** "let me just open the aperture, see all the problems I can identify, and then I can pick the problem that I feel like is most solvable"
+- **terminos:** blank sheet exercise; open the aperture; friction
+- **origen:** de-tercero:Sahil Bloom
+- **nivel:** intermedio
+- **prerrequisitos:** U-005-099
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 42:51-43:36, 2025-01-30
+- **tension:** ninguna
+
+## U-005-101
+- **tipo:** metáfora
+- **titulo:** Solving a problem = finding the "kink in the hose" (the limiting factor) and straightening it.
+- **desarrollo:** After identifying problems, "it's just about figuring out... what is the limiting factor in that situation. Like when you identify a problem, usually it's that, okay, there's some sort of bottleneck or some sort of issue or some sort of kink in the hose that's not allowing this thing to work in the way that it should. And is there a way that I can actually undo that kink? Like, is that hose bent and I can actually just straighten it out?" He calls this "a deconstructed way" of thinking about problems.
+- **ejemplos:** The bent hose.
+- **cita:** "some sort of kink in the hose that's not allowing this thing to work in the way that it should"
+- **terminos:** limiting factor; bottleneck; kink in the hose
+- **origen:** de-tercero:Sahil Bloom
+- **nivel:** intermedio
+- **prerrequisitos:** U-005-100
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 43:36-44:10, 2025-01-30
+- **tension:** ninguna
+
+## U-005-102
+- **tipo:** método
+- **titulo:** Dan: learn by starting with a project — the problem frames your mind to see what's necessary.
+- **desarrollo:** Dan: "once you identify a problem, if you don't know how to solve it, you need to learn something. When I go about learning, the way I think about learning is starting with a project. So starting with the problem and actually just trying to start solving it, because then what that does is it frames your mind with that problem. So you can start to identify what's necessary in the things that you're learning."
+- **ejemplos:** ninguno
+- **cita:** "the way I think about learning is starting with a project"
+- **terminos:** frames your mind
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-005-101
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 44:10-44:41, 2025-01-30
+- **tension:** ninguna
+
+## U-005-103
+- **tipo:** fuente-de-tercero
+- **titulo:** Sahil's version of the Feynman Technique: teach as fast as possible, watch where the listener gets confused, study the gaps, repeat (teach-learn loop).
+- **desarrollo:** Sahil is "a big believer in the Feynman Technique," derived from Richard Feynman ("American theoretical physicist, won the Nobel Prize in quantum electrodynamics"), known for "his ability to convey very complex topics in simple terms" to the uninitiated. Principle: "teaching is the most powerful form of learning... you cannot teach something effectively if you don't deeply understand it." His method: (1) "I default to teaching as quickly as possible" — after reading something or a conversation, "try to explain it to another friend who didn't have any context on it"; (2) observe their reaction: "where do I have gaps in my own understanding... where did I see their interest piqued or where did I see them get confused?"; (3) "go study to fill in those gaps"; (4) "come back and try to do it again." This creates "this iterative loop of teach, learn, teach, learn that leads to this depth of knowledge very, very quickly." Contrast: if you "go study in a whole and then... try to teach," you may have accumulated "knowledge that is not useful for actually creating actionable insight."
+- **ejemplos:** Explaining a concept to a friend with no context.
+- **cita:** "this iterative loop of teach, learn, teach, learn that leads to this depth of knowledge very, very quickly"
+- **terminos:** Feynman Technique; teach-learn loop
+- **origen:** adaptada-de:Richard Feynman, via Sahil Bloom
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 44:41-46:20, 2025-01-30
+- **tension:** ninguna
+
+## U-005-104
+- **tipo:** argumento
+- **titulo:** Dan: building an audience is itself a learning method — share what you're learning to see if you understand it.
+- **desarrollo:** Dan's tangent: "the way that I realized this for learning was just building an audience for me because you can technically teach anything. Right. I don't know if you should teach everything, but you can share what you're learning to see if you can understand it and you put it in writing or video or whatever it may be."
+- **ejemplos:** ninguno
+- **cita:** "you can share what you're learning to see if you can understand it"
+- **terminos:** share what you're learning
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-005-103
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 46:20-46:49, 2025-01-30
+- **tension:** ninguna
+
+## U-005-105
+- **tipo:** principio
+- **titulo:** Quality of thinking tracks quality of writing: the weekly newsletter as "sharpening my sword."
+- **desarrollo:** Sahil: "my quality of thinking tracks very directly with the quality of my writing, and I cannot write clearly if I'm not thinking clearly on a topic. And so I use writing and the teaching that comes through with my writing as my way of more deeply thinking." His newsletter, "my favorite piece of writing that I do every single week," is "all about me refining and deepening and sharpening my sword on a specific topic." Process: during the week before writing, "I'm talking about it with people that wouldn't understand it to see... what are the questions they have, where they want more, where are they understanding it? Where are they not?" so he can "deepen my own thinking." (This is the Feynman loop applied to content.)
+- **ejemplos:** Weekly newsletter preparation.
+- **cita:** "I cannot write clearly if I'm not thinking clearly on a topic"
+- **terminos:** sharpening my sword
+- **origen:** de-tercero:Sahil Bloom
+- **nivel:** fundamental
+- **prerrequisitos:** U-005-103
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 46:49-47:34, 2025-01-30
+- **tension:** ninguna
+
+## U-005-106
+- **tipo:** historia
+- **titulo:** The Ryan Holiday effect isn't magic: years of daily writing build a mind that can draw on many quotes, stories and frameworks.
+- **desarrollo:** Five years earlier, Sahil watched Ryan Holiday on podcasts and wondered "how can one person have so much knowledge stored in their brain... The way that he pulls from different quotes, different stories, different frameworks, different models?" Now he finds himself doing it ("pulling out Feynman technique and energy" calendars), and says it's "not built through any magic. I'm not smarter... and I don't think Ryan does [have sorcery]. It is built through a daily craft, executed over and over and over again for several years, and that daily craft is writing... forcing yourself to sit down and put words to paper to clarify your thought." He frames it as "empowering": anyone can do it. Benefits beyond content: deeper thought "helps you in every area of life" — relationships, "my ability to connect with smarter people. I'm much more interesting to smart, exciting... successful people now than I was when I was on a safe, stable track. Because I'm doing something different."
+- **ejemplos:** Ryan Holiday on podcasts.
+- **cita:** "It is built through a daily craft, executed over and over and over again for several years, and that daily craft is writing."
+- **terminos:** daily craft
+- **origen:** de-tercero:Sahil Bloom
+- **nivel:** intermedio
+- **prerrequisitos:** U-005-105
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 47:34-49:38, 2025-01-30
+- **tension:** ninguna
+
+## U-005-107
+- **tipo:** heurística
+- **titulo:** Reject "niche down" if it fails the ten-year test: "What would I do if I knew I had to do this every day for the next ten years?"
+- **desarrollo:** Dan notes Sahil didn't seem to conform to a niche and asks about niching down. Sahil: the common advice is "pick a lane, niche down." He rejected it "because I have always known that the only way I'm going to be successful at anything is if I can do it consistently for like five years or ten years." His grandfather told him as a kid: "you'll achieve much more by being consistently reliable than by being occasionally extraordinary" — "just showing up and punching the clock... Not flashy, not elegant, not... the perfect work, but just showing up." So his frame for content was the question: "What would I do if I knew I had to do this every day for the next ten years? Well, I certainly wouldn't niche down because I don't think I can create niche down content for ten years."
+- **ejemplos:** Grandfather's maxim.
+- **cita:** "you'll achieve much more by being consistently reliable than by being occasionally extraordinary"
+- **terminos:** consistently reliable vs occasionally extraordinary; punching the clock; pick a lane
+- **origen:** de-tercero:Sahil Bloom (maxim from his grandfather)
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 49:38-51:14, 2025-01-30
+- **tension:** Contrasts with Justin Welsh's tight platform-specific positioning (U-005-050) only partly; both reject competing in a narrow niche (cf. "niche of one," U-005-045).
+
+## U-005-108
+- **tipo:** argumento
+- **titulo:** You get defined by your niche: it's easy to go broad to narrow, very hard to go narrow to broad.
+- **desarrollo:** "What I know about the way that the world works is that you get defined by your niche. Like if you create around one niche, you are that guy. It is very hard to then expand from there. I could go from broad to more narrow. It's very hard to go from narrow to broad because if you become known as being the... private equity finance thread writer, it's hard to go from there to like, I'm going to talk about life wisdom. No, you're this guy. This is what the algorithm is going to reward you for." So from early on he wrote about "whatever I was thinking about on a daily basis." His viral hits "run the gamut" — e.g., one of his most viral Twitter threads was on honeybees after a honeybee infestation at his house sent him "down the rabbit hole." He's written on business, finance, mental models, life principles; his book is "like five self-help books in one... I wanted to write about how it all comes together in your life."
+- **ejemplos:** Private equity thread writer; honeybee thread; the book as five self-help books in one.
+- **cita:** "you get defined by your niche... It's very hard to go from narrow to broad"
+- **terminos:** defined by your niche; broad to narrow
+- **origen:** de-tercero:Sahil Bloom
+- **nivel:** intermedio
+- **prerrequisitos:** U-005-107
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 51:14-52:37, 2025-01-30
+- **tension:** ninguna
+
+## U-005-109
+- **tipo:** advertencia
+- **titulo:** The cost of not niching: it's slower — a narrow lane like Codie Sanchez's grows faster, but only works if it's authentic enough to sustain.
+- **desarrollo:** Sahil admits: "I think it is slower, frankly. I think I would have a bigger platform if I had picked a lane." Example: "Cody Sanchez [likely Codie Sanchez] is a friend of mine... she identified her thing, like buying boring businesses, and she every single day just hammers it and crushes it... makes some people mad. And some people love her. And she's built an enormous platform." He could have done similar (background in buying businesses), "But I don't care about it enough. It's not authentic to me. And so I couldn't have done it consistently enough to have success with it." The decision criterion is sustained authenticity, not speed.
+- **ejemplos:** Codie Sanchez and "buying boring businesses."
+- **cita:** "I don't care about it enough. It's not authentic to me. And so I couldn't have done it consistently enough"
+- **terminos:** pick a lane; authentic
+- **origen:** de-tercero:Sahil Bloom
+- **nivel:** intermedio
+- **prerrequisitos:** U-005-108
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 52:37-53:13, 2025-01-30
+- **tension:** ninguna
+
+## U-005-110
+- **tipo:** historia
+- **titulo:** Sahil's origin: bored at home in Covid, he explained finance news to friends on Twitter, and grounded the pursuit in creating value.
+- **desarrollo:** Dan notes Sahil "doesn't sell anything" and asks the initial drive. Sahil was in a high-paying finance job; Covid hit; no commuting, less work, no travel; he was bored and had a Twitter account. "All this crazy stuff was happening in the world of finance and business and all my friends were texting me because I was their finance friend." So he tried "explaining these things in simple terms." A few went viral: "Maybe I'm creating value for people. I'll keep doing this." He has "always... gotten a lot of energy from feeling like I had value to give others." Not purely altruistic: "I like money... I've just always been able to ground that in the desire to create value for others. I have this suspicion that if I can create a whole lot of value for tons of people... I'll do just fine financially." He wasn't planning to quit: "There was no chance I was going to leave a job to go tweet." The book is "the first thing that I'm... selling" after giving "everything away for free for... four straight years."
+- **ejemplos:** Friends texting their "finance friend" during Covid.
+- **cita:** "if I can create a whole lot of value for tons of people out in the world, that I'll do just fine financially"
+- **terminos:** value to give
+- **origen:** de-tercero:Sahil Bloom
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 53:13-55:37, 2025-01-30
+- **tension:** ninguna
+
+## U-005-111
+- **tipo:** fuente-de-tercero
+- **titulo:** Walt Disney (paraphrased by Dan): you start creating to make money, then you make money to create.
+- **desarrollo:** Dan cites "one quote that I'm going to butcher by Walt Disney": "you start creating to make money, and then you start making money to create. So the perception of it kind of shifts." He applies it to himself and his audience: "I started on social media mainly because I wanted to make money... It was like a lead generation mechanism for my freelance business at the time, and then slowly pivoted over time." Later he applies it to Elon Musk: "He shifted from creating to make money to making money to create... You need the resources to reach the specific level that you want to... make progress in humanity."
+- **ejemplos:** Dan's social media as lead gen for freelancing; Elon Musk.
+- **cita:** "you start creating to make money, and then you start making money to create"
+- **terminos:** making money to create
+- **origen:** adaptada-de:Walt Disney (paraphrase acknowledged as inexact by Dan)
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 55:37-56:08, 1:02:34-1:03:05, 2025-01-30
+- **tension:** ninguna
+
+## U-005-112
+- **tipo:** framework
+- **titulo:** Sahil's five levels of financial wealth: from meeting basic needs to assets funding any luxury.
+- **desarrollo:** "The steps... most people would go through to get from... baseline, trying to meet your basic needs on through the level of financial independence... true... escape velocity." The path: at the baseline, "you are just trying to meet your basic needs" (shelter, food) — "If that's the case for you, you're probably not listening to this." Moving up, "what you have is an accumulation of assets, and those assets start throwing off income." **Level 3**: assets producing income that covers some or all basic needs — "sort of a start [of] financial independence." **Level 4**: "true financial independence. You could shut everything off and you would have sufficient income, cash flows coming off your assets to cover a lifestyle that you are currently living." (He also describes levels 3-4 as covering "basic needs, or then like basic plus, sort of level one luxuries" — "the rungs... most of us are chasing.") **Level 5**: "the assets are producing sufficient income to afford any level of luxuries that you want... you never have to work again... true overabundant financial wealth," "an extreme level... very few people will ever achieve." Ambiguity: levels 1 and 2 are not individually defined in the transcript, and the boundary between levels 3 and 4 is described somewhat inconsistently.
+- **ejemplos:** ninguno
+- **cita:** "Level five is like an extreme level of wealth that very few people will ever achieve."
+- **terminos:** five levels of financial wealth; escape velocity; financial independence; assets throwing off income
+- **origen:** de-tercero:Sahil Bloom
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 56:08-58:00, 2025-01-30
+- **tension:** ninguna
+
+## U-005-113
+- **tipo:** opinión
+- **titulo:** Dan: when money reflects the value you give, it's a feedback mechanism — why would you shut it off?
+- **desarrollo:** Responding to Sahil's chapter-opening question "what is your definition of enough?", Dan says "I don't know, because for me, money is... deeply intertwined with and a reflection of the value that I give. So it's very rewarding... the more I make, the more I can kind of see that. And so it's like, do I want to ever shut that off?" If it's his life's work he doesn't have to stop and "could work for free in some way," but then "I'm not getting that feedback mechanism." He also needs to make "quite a bit... to... pay the team." He asks how to reconcile this with "enough."
+- **ejemplos:** Paying his team.
+- **cita:** "money for me is deeply intertwined with and a reflection of the value that I give"
+- **terminos:** feedback mechanism; life's work
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-005-112
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 58:00-59:34, 2025-01-30
+- **tension:** Tension with Sahil's "enough life" (U-005-114); resolved by Sahil in U-005-115 (pursuit of more grounded in purpose).
+
+## U-005-114
+- **tipo:** término-acuñado
+- **titulo:** "Your enough life": visualize the specific lifestyle beyond which you'd no longer chase money for money's sake — it needn't be Spartan.
+- **desarrollo:** "The concept of enough... is all about recognizing what is in a life. That is my enough life. It's about actually visualizing the lifestyle that you have personally, when you would feel like I don't need to chase more money for the sake of money... because I'm living the life that I feel like is my enough life," which differs per person. His: "two houses" — a main home and a second "because I love to entertain people... bring people together... create experiences. It's not about luxury... I don't care about long driveway or gated communities." It "doesn't have to be Spartan... not... really barebones... expenses minimization. No, it's about living the life that you really want."
+- **ejemplos:** Sahil's two houses for hosting.
+- **cita:** "It's about actually visualizing the lifestyle... when you would feel like I don't need to chase more money for the sake of money"
+- **terminos:** enough life; definition of enough
+- **origen:** de-tercero:Sahil Bloom
+- **nivel:** fundamental
+- **prerrequisitos:** U-005-112
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 59:34-1:00:36, 2025-01-30
+- **tension:** ninguna
+
+## U-005-115
+- **tipo:** principio
+- **titulo:** Beyond "enough," the pursuit of more must be grounded in purpose, not money — or you join the "rich yet miserable."
+- **desarrollo:** "Beyond that, pursuing more has to be grounded in something deeper than just money." Reaching enough is "not about giving up your ambition... it's about grounding the pursuit of more in that ambition, in your purpose... You are going to make a lot of money on the back of that, but it's not going to be because you were trying to make money. It's going to be because you were trying to create value for others." He argues "most of the richest, most successful people in the world... are not actually motivated by money," e.g., Elon Musk, who cares about making humanity "an interplanetary species." Rule: "There is nothing wrong with the pursuit of more if it is grounded in something more meaningful [than] money. There very much is something wrong with the pursuit of more if it is purely grounded in money because you will run yourself off a cliff... and you will find yourself in the land of the rich yet miserable inhabitants." Image: "the 50 year old man who has $100 million, but also has three ex-wives and four kids who never talk to him. And everyone will pat him on the back and say, yeah, you won the game, but is that really a game that you care to win?"
+- **ejemplos:** Elon Musk; the $100M 50-year-old with three ex-wives.
+- **cita:** "is that really a game that you care to win?"
+- **terminos:** pursuit of more; rich yet miserable; won the game
+- **origen:** de-tercero:Sahil Bloom
+- **nivel:** fundamental
+- **prerrequisitos:** U-005-114
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 1:00:36-1:02:04, 2025-01-30
+- **tension:** Resolves U-005-113: Dan's wish to keep earning is compatible with "enough" if grounded in purpose.
+
+## U-005-116
+- **tipo:** opinión
+- **titulo:** Dan: online discourse polarizes money into "evil" or "great"; studying Elon Musk changed his view of billionaires.
+- **desarrollo:** Dan: "with business and with social media, you're constantly like dancing this line between people who are like, okay, money is evil, money is great... There's no in between, it seems." Previously he "didn't know whether or not... the billionaires were evil," but "the more I see what Elon's doing, he doesn't seem like a materialistic person at all. He follows Walt Disney's quote... of making money to create... You need the resources to reach the specific level that you want to, in order to provide and even make progress in humanity."
+- **ejemplos:** Elon Musk.
+- **cita:** "money is evil, money is great, right? There's no in between, it seems"
+- **terminos:** making money to create
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-005-111, U-005-115
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 1:02:04-1:03:40, 2025-01-30
+- **tension:** ninguna
+
+## U-005-117
+- **tipo:** principio
+- **titulo:** Storytelling and salesmanship are the two most important life skills, because "life is about sales."
+- **desarrollo:** Dan asks which meta skills drive income generation when one's "enough" number is far away. Sahil: "storytelling and salesmanship are the two most important skills for life... fundamentally, life is about sales. Life is about being able to sell yourself, your ideas, your vision... to whatever stakeholder." Dating and marriage ("sell yourself to prospective mates"), friendship, business (customers), bosses and colleagues — "you're always selling." Those who sell well "can story tell very effectively... take a whole bunch of data in and have a story come out on the other side." From time with "some of the most successful CEOs in the world": "they're not the smartest people in their organizations... They are the best storytellers... the best at taking a seemingly disparate... pool of data and turning it into something that makes sense." It can be honed.
+- **ejemplos:** Dating, friendship, business, bosses; successful CEOs.
+- **cita:** "they're not the smartest people in their organizations... They are the best storytellers"
+- **terminos:** storytelling; salesmanship; life is about sales
+- **origen:** de-tercero:Sahil Bloom
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 1:03:05-1:04:44, 2025-01-30
+- **tension:** ninguna
+
+## U-005-118
+- **tipo:** método
+- **titulo:** Hone storytelling by noting what makes listeners' eyes light up and lean in, then iterating on the rep.
+- **desarrollo:** "When you tell a story, when you are getting your reps... take note of the things that make the other person's eyes light up. Take note of what makes the person lean in." Live example: "During this whole conversation, I was making mental notes of the things that I said when I saw you... your eyes got a little wider, or you smiled... Those are things that the next time I talk about these topics, I probably want to lean in on... articulate those points a little bit better." Principle: "It's the rep and then it's iterating on the rep. It's not about just reps. It's not about pounding your head into the wall. It's about getting smarter with each time that you do."
+- **ejemplos:** Sahil tracking Dan's reactions during the interview.
+- **cita:** "It's the rep and then it's iterating on the rep. It's not about just reps."
+- **terminos:** reps; iterating on the rep; eyes light up; lean in
+- **origen:** de-tercero:Sahil Bloom
+- **nivel:** intermedio
+- **prerrequisitos:** U-005-117
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 1:04:44-1:05:40, 2025-01-30
+- **tension:** ninguna
+
+## U-005-119
+- **tipo:** opinión
+- **titulo:** Dan: say "marketing and sales," and get over the distorted belief that they're evil — they're value exchange.
+- **desarrollo:** Dan: "whenever I mention that as well, I say marketing and sales because you need to know how to tell a story, and you need to get over the hump of thinking that marketing and sales are evil in some distorted lens where it's not about value exchange or offering something that will actually benefit people."
+- **ejemplos:** ninguno
+- **cita:** "get over the hump of thinking that marketing and sales are evil"
+- **terminos:** value exchange; marketing and sales
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-005-117
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 1:05:40-1:06:15, 2025-01-30
+- **tension:** ninguna
+
+## U-005-120
+- **tipo:** historia
+- **titulo:** Sahil's book as "formally rewriting" the story he told himself — "I was not the type of person that could do these things."
+- **desarrollo:** Asked to sell the book, Sahil: he spent three years writing it and "was very much not supposed to write this book... The story that I told myself for the vast majority of my life was that I was not the type of person that could do these things. I was not smart enough." The book "is me formally rewriting that story that I used to tell myself... proving to the world and to myself that I am capable." He positions it as "a tool for you to rewrite the story that you tell about yourself... to start rejecting the defaults and to start living by design." Data: to be translated into 19 languages; site "the five types of wealth.com."
+- **ejemplos:** ninguno
+- **cita:** "this book that I'm releasing into the world is me formally rewriting that story that I used to tell myself"
+- **terminos:** rewriting the story; rejecting the defaults; living by design
+- **origen:** de-tercero:Sahil Bloom
+- **nivel:** complementario
+- **prerrequisitos:** U-005-094
+- **fuente:** The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md, 1:06:15-1:07:21, 2025-01-30
+- **tension:** ninguna
+
+# Fuente: Your 20s Are Meant To Build (How To Not Waste Them).md (2023-04-20)
+
+> Note: solo video by Dan Koe (age 26 at recording). All units are "propia" unless a third party is cited. The closing promotions (2 Hour Writer, Digital Economics Masterclass, Modern Mastery community for $5, Keyframe animation agency) are discarded except for one data point.
+
+## U-005-121
+- **tipo:** argumento
+- **titulo:** How you spend your 20s will make or break your future, because dopamine and modern comforts have made 99% of people docile, comfortable and risk-averse.
+- **desarrollo:** Opening thesis: "the harsh reality is that how you spend your 20s will make or break your future. Of course there are outliers but for the vast majority of people this holds true." The diagnosis: "dopamine and modern comforts have become so normal that 99% of the population is docile, just way too comfortable and heavily risk averse." He promises a solution that is "simple" — "three steps to future proofing yourself" — later qualified as "simple but not easy."
+- **ejemplos:** ninguno
+- **cita:** "dopamine and modern comforts have become so normal that 99% of the population is docile"
+- **terminos:** future proofing yourself; docile; risk averse
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Your 20s Are Meant To Build (How To Not Waste Them).md, 0:00, 2023-04-20
+- **tension:** ninguna
+
+## U-005-122
+- **tipo:** argumento
+- **titulo:** "By the time you turn 30 life hits you like a truck": time dries up, habits compound, health and job exits get costlier, commitments pile up.
+- **desarrollo:** Dan's chain of reasons why the 30s are harder: (1) "your time dries up"; (2) "your habits compound — they're much harder to break"; (3) "if you didn't take care of your health it will catch up to you and you will lose more time"; (4) "if you didn't start a business you need more effort to get out of a job — it will take longer to get out"; (5) "your mental peak starts to decline in your 30s" (his claim, unsupported by a source in the video); (6) "you don't have the knowledge and experience that comes from forging your own path — people miss out on that one a lot"; (7) commitments: "a house, spouse, work and possibly children." Limits: "this isn't the case for everyone," and if you're in your 30s "don't let this discourage you... face reality: you will have to put in more effort for a longer period of time than a 20 year old would have to. It is what it is. Start doing it now."
+- **ejemplos:** ninguno
+- **cita:** "by the time you turn 30 life hits you like a truck"
+- **terminos:** habits compound; forging your own path
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-005-121
+- **fuente:** Your 20s Are Meant To Build (How To Not Waste Them).md, 0:00-1:38, 2023-04-20
+- **tension:** ninguna
+
+## U-005-123
+- **tipo:** historia
+- **titulo:** Dan at 26: told he's wiser than 50-year-olds — because repeating the same day for 50 years teaches little.
+- **desarrollo:** Dan acknowledges his limited vantage point: "I'm 26, I can only speak so much here... I'm not 30 yet, so why am I even talking about this." But he can attest that "people have told me that I am more wise than 50 year olds or other people that don't have the experience." His explanation: "how much can you actually learn and know if you just do the same thing every single day for 50 years of your life." Wisdom is linked to the variety of experience from forging your own path, not to age.
+- **ejemplos:** ninguno
+- **cita:** "how much can you actually learn and know if you just do the same thing every single day for 50 years of your life"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-005-122
+- **fuente:** Your 20s Are Meant To Build (How To Not Waste Them).md, 0:49, 2023-04-20
+- **tension:** ninguna
+
+## U-005-124
+- **tipo:** framework
+- **titulo:** The three traps of being young: social conditioning, dopamine-laden cheap entertainment, and modern comforts.
+- **desarrollo:** "Being young presents the most traps." (1) **Social conditioning**: "you may not even realize the trap that you've dug yourself into by the time you're 25, 26, 27" — you may never have encountered a video "trying to make you aware of the life you have not lived yet, your life." (2) **Dopamine-laden entertainment** ("the dopamine-laden entertainment" — transcribed "dopamine Latin entertainment"): "the stuff that we naturally gravitate towards. When you're bored, where does your attention go? It goes to your phone. You open up Instagram, you don't even know it, five minutes later you're just scrolling and you're watching some random reel." (3) **Modern comforts**: "video games, Netflix and just other things that cross over with the dopamine cheap entertainment." Shared consequence: they "make people not want to branch into the unknown and discover new things and find new opportunities for themselves and become aware of their potential."
+- **ejemplos:** Bored -> phone -> Instagram reel; video games; Netflix.
+- **cita:** "you may not even realize the trap that you've dug yourself into by the time you're 25 26 27"
+- **terminos:** social conditioning; cheap entertainment; modern comforts; branch into the unknown
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-005-121
+- **fuente:** Your 20s Are Meant To Build (How To Not Waste Them).md, 1:38-2:27, 2023-04-20
+- **tension:** ninguna
+
+## U-005-125
+- **tipo:** framework
+- **titulo:** Three steps to not waste your 20s, in order: build your body, build your mind, build your business.
+- **desarrollo:** The solution is "simple but not easy": (1) **build your body** — first, because "you can start right now" and its benefits (clear thinking, strong mindset, energy) transfer to the other two; (2) **build your mind** — raise your "level of mind," i.e., perspective, by study and by using the mind to make progress in reality; (3) **build your business** — channel interests, skills and expertise to impact others at scale through a one-person business. Closing restatement: "don't waste your 20s: build your body, build your mind, build your business." The order matters: body is the "vessel" from which mind and finances come.
+- **ejemplos:** ninguno
+- **cita:** "don't waste your 20s build your body build your mind build your business"
+- **terminos:** build your body; build your mind; build your business
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-005-124
+- **fuente:** Your 20s Are Meant To Build (How To Not Waste Them).md, 2:27, 5:01, 7:34, 9:52, 2023-04-20
+- **tension:** ninguna
+
+## U-005-126
+- **tipo:** argumento
+- **titulo:** Start with the gym: it teaches you must put effort into reality to get something out — you're not entitled to anything.
+- **desarrollo:** "Most successful people that I've talked to have always started with some form of exercise." Dan: "I started in the gym, that was my first obsession. I did it for vanity reasons. I wanted to get jacked, I wanted to look good so I could get women." He says this is what "almost every single at least dude that I know" who is now a successful businessperson started with. Mechanism: "the gym specifically teaches you that you have to put effort into reality in order to get something out. It teaches you that you are not entitled to [expletive] anything."
+- **ejemplos:** Dan's vanity-driven gym obsession.
+- **cita:** "the gym specifically teaches you that you have to put effort into reality in order to get something out"
+- **terminos:** not entitled; put effort into reality
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-005-125
+- **fuente:** Your 20s Are Meant To Build (How To Not Waste Them).md, 2:27-3:19, 2023-04-20
+- **tension:** ninguna
+
+## U-005-127
+- **tipo:** término-acuñado
+- **titulo:** "Cheap dopamine" vs "meaningful dopamine": the gym is the opposite of cheap dopamine.
+- **desarrollo:** "The gym is literally the opposite of cheap dopamine, it is meaningful dopamine that you see through progress, effort, hard work, and you get results because of it." Cheap dopamine (scrolling, Netflix, video games) comes without effort; meaningful dopamine is earned through effort and visible progress.
+- **ejemplos:** Gym vs scrolling reels.
+- **cita:** "The gym is literally the opposite of cheap dopamine, it is meaningful dopamine"
+- **terminos:** cheap dopamine; meaningful dopamine
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-005-124, U-005-126
+- **fuente:** Your 20s Are Meant To Build (How To Not Waste Them).md, 3:19, 2023-04-20
+- **tension:** ninguna
+
+## U-005-128
+- **tipo:** argumento
+- **titulo:** Looks matter like attention matters in business: you must catch attention before people discover your value.
+- **desarrollo:** "Looks matter whether you think it's fair or not." Concession: some people are "less fortunate... genetic outliers" — "do what you can" — but for those able to improve their looks "to the absolute maximum, why are you not doing that?" The analogy: "It's the same thing with business. Attention — grabbing attention is the first step to being able to display your value. So you have to catch attention with content in order to convert into money. In the real world you have to catch attention with your looks, your demeanor, how you present yourself to the world, and then that's when they discover who you are and your skill set." If you don't look good "you're taking a big chunk away from what can introduce you to new opportunities." Also: "people just respect you more when you look good and you've put effort into your body regardless of if you're still objectively ugly... people recognize" the effort, and "you attract more attention from high level people."
+- **ejemplos:** Content as attention in business; looks/demeanor as attention offline.
+- **cita:** "grabbing attention is the first step to being able to display your value"
+- **terminos:** attention; display your value
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-005-126
+- **fuente:** Your 20s Are Meant To Build (How To Not Waste Them).md, 3:19-4:09, 2023-04-20
+- **tension:** ninguna
+
+## U-005-129
+- **tipo:** advertencia
+- **titulo:** Vanity can trap you in a comparison loop; practice both "peace and progress" through mindfulness.
+- **desarrollo:** "There is a line where vanity can hurt your self-image. You can get trapped in that mental thought loop." But this is "just an aspect of living with purpose, and that can be learned and overcome through a mindfulness practice." Mechanism: "when you're pursuing anything, whether it be looks, money, whatever, there's always something you can compare yourself to when you're moving forward and making progress in the world. That is where suffering is born out of desire, and so you need to learn to manage that." Limit: managing it "doesn't mean you just avoid it completely and not expose yourself to experience through actually moving through the world and making progress. You have to do both: peace and progress. Practice both skills." And "you can look good and not be a narcissistic [expletive]."
+- **ejemplos:** ninguno
+- **cita:** "You have to do both: peace and progress. Practice both skills."
+- **terminos:** peace and progress; mental thought loop; suffering is born out of desire
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-005-128
+- **fuente:** Your 20s Are Meant To Build (How To Not Waste Them).md, 4:09-5:01, 2023-04-20
+- **tension:** ninguna
+
+## U-005-130
+- **tipo:** principio
+- **titulo:** Start with the body because you can start right now — and when you prioritize the body, mind and finances follow, since it's the vessel.
+- **desarrollo:** "We start with building the body because you can start right now. You don't have to wait until 'oh I have this certain skill set in order to make income from my business' — no, you go to the gym right now." The benefits "transfer over into clear thinking, a strong mindset and just more physical energy. When you prioritize your body, your mind and finances follow because you're improving the vessel from which those things come."
+- **ejemplos:** ninguno
+- **cita:** "When you prioritize your body your mind and finances follow because you're improving the vessel from which those things come"
+- **terminos:** the vessel
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-005-125
+- **fuente:** Your 20s Are Meant To Build (How To Not Waste Them).md, 5:01, 2023-04-20
+- **tension:** ninguna
+
+## U-005-131
+- **tipo:** término-acuñado
+- **titulo:** "Level of mind" = the height and openness of the perspective from which you interpret your problems; it dictates your quality of life.
+- **desarrollo:** "Your level of mind dictates your quality of life. Your level of mind is pretty much your perspective — how high and open of a perspective you have from which you interpret the problems in your life." With a low level of mind focused on a problem "within that level of mind, like paying the bills," you're "trapped in this mental thought loop" and "don't learn the skills and gain the experience necessary to increase above that, to view the problem from a lens that does not bother you." Key claim: "your problems don't go away, you just get better at perceiving them."
+- **ejemplos:** Paying the bills as a low-level-of-mind problem.
+- **cita:** "your problems don't go away you just get better at perceiving them"
+- **terminos:** level of mind; mental thought loop; perspective
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-005-125
+- **fuente:** Your 20s Are Meant To Build (How To Not Waste Them).md, 5:01-5:51, 2023-04-20
+- **tension:** ninguna
+
+## U-005-132
+- **tipo:** metáfora
+- **titulo:** Unlike a car, you can't drive the mind without understanding how it works.
+- **desarrollo:** "You don't need to understand every single part of a nice car in order to have a nice ride, but with the mind it doesn't work like that. You have to understand your mind in order to use it and in order to drive it, and that alone will dictate the quality of your human experience in and of itself." The contrast justifies studying the mind deliberately.
+- **ejemplos:** The nice car.
+- **cita:** "You have to understand your mind in order to use it and in order to drive it"
+- **terminos:** human experience
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-005-131
+- **fuente:** Your 20s Are Meant To Build (How To Not Waste Them).md, 5:51-6:37, 2023-04-20
+- **tension:** ninguna
+
+## U-005-133
+- **tipo:** método
+- **titulo:** Schedule time to study the mind: philosophy, spirituality, metaphysics, psychology, epistemology, stages of ego development, Spiral Dynamics.
+- **desarrollo:** "Schedule time to study philosophy, study spirituality, study metaphysics, study psychology, study epistemology, study stages of ego development, study spiral dynamics, study the mind. This is a lifelong pursuit of mastery. You will become powerful." The study list names fields and models (stages of ego development; Spiral Dynamics) without specifying authors or how he applies them in this video.
+- **ejemplos:** ninguno
+- **cita:** "This is a lifelong pursuit of mastery. You will become powerful."
+- **terminos:** stages of ego development; spiral dynamics; lifelong pursuit of mastery
+- **origen:** propia (naming third-party fields/models: stages of ego development, Spiral Dynamics)
+- **nivel:** intermedio
+- **prerrequisitos:** U-005-132
+- **fuente:** Your 20s Are Meant To Build (How To Not Waste Them).md, 6:37, 2023-04-20
+- **tension:** ninguna
+
+## U-005-134
+- **tipo:** proceso
+- **titulo:** Use the mind to make progress: vision -> goals -> knowledge and skills -> small daily improvements, across health, wealth and happiness.
+- **desarrollo:** "On top of that we need to use our mind to make progress in reality. So we adapt to the modern landscape by creating a vision for your future, deconstructing it into goals, acquiring knowledge and skills, and making small daily improvements. Focus on your health, wealth and happiness." He points to another video of his ("society is a pyramid scheme, how to take back control of your life, something like that") as breaking down the process further.
+- **ejemplos:** ninguno
+- **cita:** "creating a vision for your future deconstructing it into goals acquiring Knowledge and Skills and making small daily improvements"
+- **terminos:** vision; goals; small daily improvements; health, wealth and happiness
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-005-131
+- **fuente:** Your 20s Are Meant To Build (How To Not Waste Them).md, 6:37, 2023-04-20
+- **tension:** ninguna
+
+## U-005-135
+- **tipo:** principio
+- **titulo:** "Entrepreneurship is for everyone": you already provide value to some people — put it in front of others with a price tag.
+- **desarrollo:** "Entrepreneurship is for everyone. You are an entrepreneur right now. You have value to provide and you provide it to some people. All you need to do is put that value on the internet or in front of people with a price tag on it and boom, you're an entrepreneur. Strip your mind of the limiting beliefs of what you think entrepreneurship is and just start contributing to humanity and getting paid for doing so. That's entrepreneurship — by helping other people." He references a previous video ("an entire 10-minute rant") on the same claim.
+- **ejemplos:** ninguno
+- **cita:** "put that value on the Internet or in front of people with a price tag on it and boom you're an entrepreneur"
+- **terminos:** entrepreneurship is for everyone; limiting beliefs
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-005-125
+- **fuente:** Your 20s Are Meant To Build (How To Not Waste Them).md, 7:34, 2023-04-20
+- **tension:** Consistent with Dan's 2025 claim (U-005-096); Sahil Bloom's nuance (U-005-097) that entrepreneurship can be practiced inside a job is compatible with this broad definition.
+
+## U-005-136
+- **tipo:** definición
+- **titulo:** Business is how you channel your interests, skills and expertise to impact others at scale (with Alan Watts: sensible people get paid for doing what they enjoy).
+- **desarrollo:** "Business is how you channel your interests, skills and expertise to impact others at scale. And as Alan Watts would say, sensible people get paid for doing what they enjoy doing." Dan uses Watts to legitimize combining enjoyment and income.
+- **ejemplos:** ninguno
+- **cita:** "sensible people get paid for doing what they enjoy doing"
+- **terminos:** impact others at scale
+- **origen:** propia (quoting Alan Watts)
+- **nivel:** fundamental
+- **prerrequisitos:** U-005-135
+- **fuente:** Your 20s Are Meant To Build (How To Not Waste Them).md, 7:34, 2023-04-20
+- **tension:** ninguna
+
+## U-005-137
+- **tipo:** framework
+- **titulo:** The five intrinsic drivers for a fulfilling life: curiosity, purpose, passion, autonomy and mastery — and business is how you leverage them.
+- **desarrollo:** "If you want to live a fulfilling life you need to leverage all five intrinsic drivers: curiosity, purpose, passion, autonomy and mastery. You need to create and have full control over the lifestyle you wish to live. Business is how you get there." The video lists the five without defining each individually.
+- **ejemplos:** ninguno
+- **cita:** "you need to leverage all five intrinsic drivers curiosity purpose passion autonomy and Mastery"
+- **terminos:** five intrinsic drivers; curiosity; purpose; passion; autonomy; mastery
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-005-136
+- **fuente:** Your 20s Are Meant To Build (How To Not Waste Them).md, 7:34-8:24, 2023-04-20
+- **tension:** ninguna
+
+## U-005-138
+- **tipo:** argumento
+- **titulo:** You don't need a billion-dollar company but a one-person business: the internet brought us "full circle" to how our ancestors worked.
+- **desarrollo:** "No, you don't need to start a billion dollar company. The internet has leveled the playing field for skill and knowledge acquisition and just being able to build a product and put it in front of someone." Historical framing: "Evolution has led to this point of us coming full circle to how our ancestors were entrepreneurs" — "you just all work in your little community and it's like a little utopia" — "and now it's much more larger scale and global." Components of the one-person business: "a specific set of skills that you learn — the ones that you want to learn"; "you generate traffic on social media by putting yourself in public as a personal brand"; and a product (see U-005-139).
+- **ejemplos:** Ancestral village community as the original entrepreneurship.
+- **cita:** "you don't need a one billion dollar company you need a one-person business"
+- **terminos:** one-person business; leveled the playing field; full circle; personal brand
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-005-135
+- **fuente:** Your 20s Are Meant To Build (How To Not Waste Them).md, 8:24-9:08, 2023-04-20
+- **tension:** ninguna
+
+## U-005-139
+- **tipo:** principio
+- **titulo:** Personal development is solving your own problems; business is solving other people's — so build the product that would have helped your former self.
+- **desarrollo:** "You create a product that would have helped your former self, or would have helped you get to where you are faster, because personal development is about solving your own problems, business is about solving other people's problems. So if you solve your own problems and you create something to help you with that... then I'm just going to sell that to others." Example: "if I need mental clarity, I'm going to create a planner or a journal and then I'm just going to sell that to others."
+- **ejemplos:** A planner or journal created for mental clarity, then sold.
+- **cita:** "personal development is about solving your own problems business is about solving other people's problems"
+- **terminos:** former self
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-005-138
+- **fuente:** Your 20s Are Meant To Build (How To Not Waste Them).md, 9:08, 2023-04-20
+- **tension:** ninguna
+
+## U-005-140
+- **tipo:** proceso
+- **titulo:** Goal -> problem -> learn to solve -> document -> distill into a replicable process -> give it to others. "Offline it's called growth, online it's called business."
+- **desarrollo:** Dan's six-step sequence: (1) set a goal; (2) find a problem; (3) learn how to solve it; (4) document how you solved it; (5) distill it into a replicable process; (6) give it to others that want to be helped. "Do it offline and it's called growth. Do it online and it's called business. That's it." The same activity is personal growth or a business depending on whether it's made public.
+- **ejemplos:** ninguno
+- **cita:** "do it offline and it's called growth do it online and it's called business"
+- **terminos:** replicable process; document; distill
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-005-139
+- **fuente:** Your 20s Are Meant To Build (How To Not Waste Them).md, 9:08, 2023-04-20
+- **tension:** ninguna
+
+## U-005-141
+- **tipo:** principio
+- **titulo:** Realize your potential by becoming aware of the rut dug by humanity's default state: consciousness is chaotic unless we order it.
+- **desarrollo:** Conclusion: "in your 20s, to make the most of them, you realize your potential by becoming aware of the rut that you were digging yourself in just by the default state of humanity — that's how you're born — where your consciousness is chaotic unless we order it." Awareness of the default comes first; the three builds (body, mind, business) are the ordering.
+- **ejemplos:** ninguno
+- **cita:** "your Consciousness is chaotic unless we order it"
+- **terminos:** default state of humanity; the rut; chaotic consciousness
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-005-124, U-005-125
+- **fuente:** Your 20s Are Meant To Build (How To Not Waste Them).md, 9:08-9:52, 2023-04-20
+- **tension:** ninguna
+
+## U-005-142
+- **tipo:** dato
+- **titulo:** Dan credits animations with taking his Instagram from 250k to over 1 million followers.
+- **desarrollo:** In the closing promotion for his animation agency (Keyframe), Dan says the animations "took me from 250k to 1 million plus on Instagram." He positions the service as expensive, for "serious creators only that actually want to see substantial... increase in quality in their brand and substantial growth." The figure is self-reported and the metric (followers) is implied.
+- **ejemplos:** ninguno
+- **cita:** "animations that took me from 250k to 1 million plus on Instagram"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** Your 20s Are Meant To Build (How To Not Waste Them).md, 9:52, 2023-04-20
+- **tension:** ninguna

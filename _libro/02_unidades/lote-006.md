@@ -937,3 +937,785 @@
 - **prerrequisitos:** U-006-061
 - **fuente:** The Most Important Skill To Learn In The Next 10 Years With Devon Eriksen.md, 1:48:39–1:49:39, 2024-12-08
 - **tension:** ninguna
+
+# Fuente: The Future Of Work (Avoid Learning These Skills).md (2024-07-28)
+
+## U-006-073
+- **tipo:** dato
+- **titulo:** The context of disruption: mass layoffs, the rise of freelance work, the growth of the creator economy and short AGI timelines.
+- **desarrollo:** Dan Koe opens with figures: in 2022 Elon Musk acquired Twitter for $44 billion and soon fired 80% of Twitter staff, "upward of 6,000 people"; headlines are "flooded" with layoffs, leaving people worried they're "next on The Chopping Block." Freelance work "has increased from 36% of the workforce to 46.6% since 2020." The creator economy "is projected to double from 250 billion to 480 billion by 2028." Through his own research, some prominent figures predict AGI "by the end of this year," while others say it may take "up to 2 years because costs are increasing and development is slowing down." His conclusion: whether we live to 500 or have robots doing chores in 4 months or 10 years, "the only solution is to take matters into your own hands that's what you should have been doing in the first place." People are worried because their skills are becoming outdated and their means of survival, family lifestyle and ability to find new work are on the line. (Sources for the statistics are not named in the transcript.)
+- **ejemplos:** Twitter layoffs after Musk's acquisition.
+- **cita:** "the only solution is to take matters into your own hands that's what you should have been doing in the first place"
+- **terminos:** take matters into your own hands
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 0:00–1:46, 2024-07-28
+- **tension:** ninguna
+
+## U-006-074
+- **tipo:** fuente-de-tercero
+- **titulo:** Inserted clip: "this time it's real" — the first time in human history nobody knows what the world will look like in 20 years or what to teach young people.
+- **desarrollo:** Dan Koe inserts a clip (speaker not named in the transcript) saying this generation is undergoing a more rapid change of its technological environment than ever; "every generation thinks like that but this time it's real"; "it's the first time in human history that nobody has any idea how the world would look like in 20 years today nobody has any idea what to teach young people that will still be relevant in 20 years." Dan then announces "these next three things" that will benefit your future. The speaker's identity is ambiguous in the transcript; the content matches the Yuval Noah Harari position that Devon Eriksen rebutted (U-006-001), but the transcript does not name him here.
+- **ejemplos:** ninguno
+- **cita:** "nobody has any idea what to teach young people that will still be relevant in 20 years"
+- **terminos:** ninguno
+- **origen:** de-tercero:unnamed speaker in inserted clip (ambiguous)
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 1:00–1:46, 2024-07-28
+- **tension:** Is the premise the author later answers with the "liberating arts" and deep generalism.
+
+## U-006-075
+- **tipo:** argumento
+- **titulo:** The entry level is going extinct: AI can perform basic specialized work, so the bar is raised and the workforce will be highly paid, highly skilled individuals with a few traits.
+- **desarrollo:** Dan Koe's first point: "it's becoming harder and harder to get an entry-level job it doesn't matter if it's programming or marketing AI can or is very close to being able to perform basic specialized work in most domains." Nuance: "this doesn't necessarily mean that the entry level is leaving it just means that the bar is being raised what used to be an entry-level position is now or will be a junior level or senior level position." "The existing Workforce will be composed of highly paid and highly skilled individuals who have a select few traits." Questions raised: what traits do they have, what do beginners do to make an income, how do developers, writers, marketers, salesmen and designers survive.
+- **ejemplos:** Programming and marketing entry-level jobs.
+- **cita:** "it just means that the bar is being raised"
+- **terminos:** the entry level is going extinct; bar is being raised
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 1:46–2:47, 2024-07-28
+- **tension:** ninguna
+
+## U-006-076
+- **tipo:** argumento
+- **titulo:** People aren't as educated as they think: "if you don't create a purpose, you will be assigned one" — current education reflects the education of slaves.
+- **desarrollo:** Dan Koe's second point, quoting his book The Art of Focus: "if you don't create a purpose you will be assigned one because only slaves were taught to perform one task for the entirety of their life." Slaves were taught career-specific skills "like growing wheat herding sheep or just riding a horse." "Our current education system reflects the education of slaves today we are taught to be useful workers we are taught to obey the authority we are conditioned to get good grades out of fear of punishment." "A free man on the other hand is expected to have a purpose and do whatever it takes to achieve it."
+- **ejemplos:** Growing wheat, herding sheep, riding a horse.
+- **cita:** "if you don't create a purpose you will be assigned one"
+- **terminos:** purpose; education of slaves; useful workers
+- **origen:** propia (from his book The Art of Focus; parallels the Cicero/Devon Eriksen distinction)
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 2:47–3:37, 2024-07-28
+- **tension:** ninguna
+
+## U-006-077
+- **tipo:** definición
+- **titulo:** A purpose is a goal that has a positive impact on others; goals aren't static, so a fixed life hierarchy (school, job, retire at 65) "is just weird."
+- **desarrollo:** Dan Koe: free people "are expected to learn many things throughout their life because goals aren't static they change they evolve as you do as you learn and you gain experience." "It doesn't make sense to have one goal or a hierarchy of goals of go to school get a job retire at 65 since the day you're born to have that goal is just weird because that's not how Life Works." "Hopefully a purpose is a goal that has a positive impact on others." "Most people don't choose their own goals they are programmed at a young age to have an employee mindset to do what they're told and only learn in that narrow domain."
+- **ejemplos:** The "go to school, get a job, retire at 65" script.
+- **cita:** "a purpose is a goal that has a positive impact on others"
+- **terminos:** purpose; employee mindset; hierarchy of goals
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-076
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 3:37–4:23, 2024-07-28
+- **tension:** ninguna
+
+## U-006-078
+- **tipo:** argumento
+- **titulo:** A goal implies the knowledge and skills you must learn; if you don't choose your goal, you don't choose what you learn and your mind stays narrow.
+- **desarrollo:** Dan Koe's chain: (1) "a goal implies Knowledge and Skills that must be learned to solve problems that prevent you from achieving the goal"; (2) "if you don't choose your own goal you do not choose what you learn or what problems you solve"; (3) "your mind remains narrow by default because the goal is narrow"; (4) "your destiny is decided for you because the only potential you know is the one you were assigned."
+- **ejemplos:** ninguno
+- **cita:** "your mind remains narrow by by default because the goal is narrow"
+- **terminos:** goal; assigned
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-077
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 3:37–4:23, 2024-07-28
+- **tension:** ninguna
+
+## U-006-079
+- **tipo:** definición
+- **titulo:** The future of work belongs to one-person businesses; a business is a legal structure that lets you build what you want, solve valuable problems and profit from both.
+- **desarrollo:** Dan Koe's third point. "There are almost 7 billion people on this planet someday I hope there will be almost 7 billion companies." Definition: "a business is a legal structure that allows you to one build what you want two solve valuable problems and three profit from both." He says this because he is "tired of people thinking that business or entrepreneurship is reserved for people with startup capital or just a certain personality or set of traits." He adds it can be started "with $0 to your name so there's not really a risk and if you start and fail at least you come out with a few extra skills that benefit your future."
+- **ejemplos:** ninguno
+- **cita:** "a business is a legal structure that allows you to one build what you want two solve valuable problems and three profit from both"
+- **terminos:** one person businesses; business
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 4:23–5:10; 6:44, 2024-07-28
+- **tension:** ninguna
+
+## U-006-080
+- **tipo:** argumento
+- **titulo:** Traits are programmed, trained and conditioned; you're probably not an introvert — and entrepreneurship suits introverts anyway.
+- **desarrollo:** Dan Koe: what people don't understand "is that traits are programmed they're trained they're conditioned you can develop any trait you want." "You're probably not an introvert you're just in a culture that would lead to you thinking that you're an introvert." "Even then entrepreneurship is a great path for an introvert because you don't have to deal with people most of the time you just build in your room and talk to people online," acknowledging "of course there's Nuance to that."
+- **ejemplos:** The introvert label.
+- **cita:** "traits are programmed they're trained they're conditioned"
+- **terminos:** traits are programmed
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-079
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 5:10, 2024-07-28
+- **tension:** ninguna
+
+## U-006-081
+- **tipo:** concepto
+- **titulo:** Reframe business as value exchange: become valuable, package that value and exchange it — instead of being paid by the labor theory of value.
+- **desarrollo:** Dan Koe: if "building a business" or "becoming an entrepreneur" doesn't resonate, "just think of it as becoming valuable packaging up that value and engaging in value exchange because that's the one thing that's been around since the caveman days." "Giving and receiving that's what it is that's how you make an income you have to give or contribute something to someone who determines your value outside of the labor theory of value." He glosses the labor theory of value as "your work is worth this much per hour you're going to get that at a job and it's going to get you stuck in there it's not going to allow you to evolve and increase your income by whatever you see fit and how valuable you become." (His use of "labor theory of value" is his own gloss: payment per hour.)
+- **ejemplos:** Caveman-era value exchange; hourly job pay.
+- **cita:** "becoming valuable packaging up that value and engaging in value exchange"
+- **terminos:** value exchange; labor theory of value
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-079
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 5:10–5:56, 2024-07-28
+- **tension:** ninguna
+
+## U-006-082
+- **tipo:** argumento
+- **titulo:** Social media lets a single person attract and monetize an audience (a distribution channel); opting out "to live in the woods" is not as spiritually noble as it seems.
+- **desarrollo:** Dan Koe: "social media the Creator economy and Technology have allowed a singular person to attract and monetize an audience a distribution Channel this isn't a new fad business model this is the reality of the modern world." "Social media isn't just an app on your phone it's integrated into your everyday life it would be very difficult to survive without it" in this society. "You can go live in the woods but that's not as spiritually Noble as you think it is just cutting yourself off from any form of responsibility in the world you can be both spiritual and make money and contribute to other people in an ethical way."
+- **ejemplos:** Living in the woods.
+- **cita:** "you can be both spiritual and make money and contribute to other people in an ethical way"
+- **terminos:** distribution Channel; Creator economy
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-079
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 5:56–6:44, 2024-07-28
+- **tension:** ninguna
+
+## U-006-083
+- **tipo:** fuente-de-tercero
+- **titulo:** Daniel Schmachtenberger: traditional education and hyperspecialization make people subservient to the dominant paradigm; be a deep generalist.
+- **desarrollo:** Dan Koe opens the main section with a quote attributed to Daniel Schmachtenberger ("Daniel schonberger" in the transcript): "traditional education and hyperspecialization is a way to make people subservient to the dominant Paradigm or system study the generalized principles of Nature and be a deep generalist." Dan adopts "deep generalist" as the identity that future-proofs you and announces the section "how becoming a deep generalist will future proof yourself."
+- **ejemplos:** ninguno
+- **cita:** "study the generalized principles of Nature and be a deep generalist"
+- **terminos:** deep generalist; hyperspecialization; dominant Paradigm
+- **origen:** de-tercero:Daniel Schmachtenberger
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 7:23, 2024-07-28
+- **tension:** ninguna
+
+## U-006-084
+- **tipo:** metáfora
+- **titulo:** Buckminster Fuller's "Great Pirates": generalist pirates kept their crews stupid and steered the brightest minds of the land into prestigious specialist roles.
+- **desarrollo:** Dan Koe introduces Buckminster Fuller ("certified genius philosopher and innovator," designer of the geodesic dome, "incredibly stable while also being lightweight") and his metaphor of the great pirates from Operating Manual for Spaceship Earth, retold in full: (1) the great pirates understood many things — geography, celestial navigation, biology, the men on their ship, the ship itself, history and science — necessary for trade and dominion; (2) the men they brought to work on the ship "were stupid on purpose": the pirates didn't want them to understand their strategies and contrive to overtake them; they were expected to follow orders without question; (3) pirates had global knowledge because they could sail to different lands — they were generalists; (4) the rulers of the land knew only their land and what the pirates told them ("and the Pirates can lie") — they were specialists; (5) this gave the pirates great power and made land rulers rely on them for trade and knowledge; (6) the pirates influenced land rulers to give prestigious roles to the brightest minds of the kingdom — royal historian, treasurer — so they'd spend their days studying a single niche, "rendering themselves only useful to the land rulers and the pirates," like the men on the pirates' ships; (7) this prevented the bright minds from overtaking the pirates because they were specialists; (8) everyone was content: bright minds with the prestige, land rulers with smart servants, pirates with control over both across multiple lands. The lesson Dan draws: "schools were created to enslave the brightest Minds by promising The Prestige of specialization that way they remained narrow-minded didn't choose their own purpose and therefore didn't learn multiple interests and skills that would allow them to overthrow those who assigned their purpose."
+- **ejemplos:** Royal historian; treasurer; pirate crews.
+- **cita:** "schools were created to enslave the brightest Minds by promising The Prestige of specialization"
+- **terminos:** great Pirates; generalists; Specialists; Prestige of specialization
+- **origen:** adaptada-de:Buckminster Fuller (Operating Manual for Spaceship Earth)
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-083
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 7:23–9:53, 2024-07-28
+- **tension:** Dan immediately softens the "schools were created to" claim as "just a metaphor" (see U-006-085).
+
+## U-006-085
+- **tipo:** argumento
+- **titulo:** Specialization is still encouraged — whether by conspiracy or simply because people don't want to be outshone — so most people are programmed to be replaced.
+- **desarrollo:** Dan Koe qualifies the pirate metaphor: "while this is just a metaphor it illustrates a very important point it illustrates why specialization is still highly encouraged whether it's a conspiracy theory or not." "That's just the byproduct of the schools people don't like competition people don't want others to do better than them or outshine them they don't want you to outshine the master." This explains why high-paying jobs are the first thing on young people's minds; "their first goal results in a narrow dumb mind unless they go to school but they also study outside of it they self-educate and pursue curiosity." "Most people are just programmed to be replaced most people just did what they were told throughout their childhood and that's okay," but you need someone to give you the awareness that there's a better way in order to see the opportunity and change. "Let's learn how to reverse the damage that's already been done."
+- **ejemplos:** Young people chasing high-paying jobs.
+- **cita:** "most people are just programmed to be replaced"
+- **terminos:** programmed to be replaced; outshine the master
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-084
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 9:53–10:45, 2024-07-28
+- **tension:** Matizes U-006-084: the "schools were created to enslave" claim is framed as metaphor, not literal conspiracy.
+
+## U-006-086
+- **tipo:** concepto
+- **titulo:** The second Renaissance: the internet gave individuals the power to learn almost anything fast and get results from diverse interests.
+- **desarrollo:** Dan Koe: "do it all become a writer designer marketer filmmaker bodybuilder Runner or whatever your curiosity desires the internet gave the individual the power to learn almost anything fast and get results from diverse interests you are living through the second Renaissance." Later he calls the present a "digital Renaissance environment" and says "creators are the New Renaissance men."
+- **ejemplos:** Writer, designer, marketer, filmmaker, bodybuilder, runner.
+- **cita:** "you are living through the second Renaissance"
+- **terminos:** second Renaissance; digital Renaissance; New Renaissance men
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-083
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 10:45; 18:49; 33:13, 2024-07-28
+- **tension:** ninguna
+
+## U-006-087
+- **tipo:** metáfora
+- **titulo:** Overspecialization leads to extinction (the long-beaked bird); humans are generalists who build tools as a hedge against extinction.
+- **desarrollo:** Dan Koe: "the difference between an animal and a human is that animals specialize or Niche down to survive the problem is that overspecialization leads to Extinction in certain species." Example: a long-beaked bird that can reach fish in shallow waters stays in that environment; they breed and the longest beaks survive, "but the beaks become so heavy that they can't fly and the children's beaks become so small that there isn't any food left for them." "Humans build tools to make up for their shortcomings": in the past we learned to throw spears to eat; today we text our social circle so we aren't seen as outcasts. "All technological advancement around you was a hedge against the extinction of the human race in other words humans are generalists that solve problems that prevent our Extinction we don't Niche down resulting in extinction." Applied to business: "are you building something valuable to prevent your replacement or are you content with a single skill as a cog in someone else's machine awaiting Extinction."
+- **ejemplos:** Long-beaked bird; spears; texting.
+- **cita:** "overs specialization leads to Extinction"
+- **terminos:** Niche down; overspecialization; cog in someone else's machine
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-083
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 10:45–12:22, 2024-07-28
+- **tension:** ninguna
+
+## U-006-088
+- **tipo:** principio
+- **titulo:** Humans thrive at an overlapping intersection of interests and skills that lets them adapt to most niches and opportunities.
+- **desarrollo:** Dan Koe: "humans are natural generalists this is what we do we Thrive at an overlapping intersection of interests and skills that allow us to adapt to most niches or most opportunities by building tools acquiring new knowledge and learning new skills." He then promises "a stack of skills from big picture to technical details that will allow you to think for yourself make better decisions and secure your future."
+- **ejemplos:** ninguno
+- **cita:** "we Thrive at an overlapping intersection of interests and skills"
+- **terminos:** natural generalists; stack of skills
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-087
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 12:22, 2024-07-28
+- **tension:** ninguna
+
+## U-006-089
+- **tipo:** fuente-de-tercero
+- **titulo:** Dan Koe adopts Devon Eriksen's "seven liberating arts" and how to learn them: hold them in mind as you dive into the unknown until they become your identity.
+- **desarrollo:** Dan Koe credits Devon Eriksen ("someone who I really love learning from and just reading on Twitter"), who talks about the Seven Liberal Arts "or as he coins them the seven liberating Arts because that's what they're supposed to be the liberal arts are liberating Arts what's taught in Liberal Arts School are not liberating." He lists the same seven: logic, statistics, rhetoric, research, practical psychology, investment, agency (with Devon's definitions). Dan's method for learning them: "you must hold them in your mind as you dive into the unknown or as you take A New Path because you don't just learn something by reading it you hold it in your mind and you let new experiences and the chaos of the unknown bring that Clarity to your mind and allow you to practice those skills in real time." Prepared this way, "they slowly just become a part of who you are and your identity," and whatever technical skills are or aren't relevant in 20 years, "you'll be able to learn them fast and... get results with them fast because you have the underlying traits that make those skills successful."
+- **ejemplos:** ninguno
+- **cita:** "you let new experiences and the chaos of the unknown bring that Clarity to your mind"
+- **terminos:** seven liberating Arts; liberal arts; underlying traits
+- **origen:** adaptada-de:Devon Eriksen
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-002
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 12:22–14:04, 2024-07-28
+- **tension:** ninguna
+
+## U-006-090
+- **tipo:** framework
+- **titulo:** Three "vessels" for learning the liberating arts: marketing and sales, writing and thinking, and entrepreneurship.
+- **desarrollo:** Dan Koe: "think of these next skills as vessels for learning the softer skills that we just talked about." (1) Marketing and sales — "because if you don't know how to attract and persuade you will never get what you want and your only option will be for an employer or the government to give it to you"; covers rhetoric and (practical) psychology. (2) Writing and thinking — "the ability to communicate the value in your unique mind the foundation of getting in front of other people"; covers logic and research. (3) Entrepreneurship — "the process of taking my future into my own hands hunting for my survival in building products that I want to see in the world that others care about"; covers statistics, agency and investment. He calls these "futureproof skills" and "Evergreen." How they interact: "with writing and thinking you attract like-minded people with marketing and sales you persuade them," and with marketing and sales "you understand the minds of your customer so that you can solve your own problems and create a solution for them."
+- **ejemplos:** ninguno
+- **cita:** "think of these next skills as vessels for learning the softer skills"
+- **terminos:** vessels; futureproof skills; marketing and sales; writing and thinking; entrepreneurship
+- **origen:** propia (mapping onto Devon Eriksen's seven liberating arts)
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-089
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 14:04–14:47; 17:10, 2024-07-28
+- **tension:** ninguna
+
+## U-006-091
+- **tipo:** término-acuñado
+- **titulo:** Entrepreneurship is a meta skill that makes you "unemployable" — irreplaceable and unable to go back to employment because it no longer makes sense.
+- **desarrollo:** Dan Koe: "entrepreneurship may not be a skill but it is a meta skill because it teaches you how to be high agency and how to solve problems how to create a solution to those problems and sell the solution and along the way you cultivate the traits that make you unemployable or Irreplaceable." Definition of unemployable: "you just could never go back to being employed because it doesn't make sense because you can make more on your own you can control your lifestyle on your own." "It's all a skill it's not luck": entrepreneurs don't simply know what to do; "they practice it and they fail and they learn something that you don't really get at a job outside of a narrow boundary of the context of the work."
+- **ejemplos:** ninguno
+- **cita:** "entrepreneurship may not be a skill but it is a meta skill"
+- **terminos:** meta skill; unemployable; Irreplaceable; high agency
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-090
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 14:47–15:32, 2024-07-28
+- **tension:** ninguna
+
+## U-006-092
+- **tipo:** principio
+- **titulo:** Nobody can teach you how to write, think, market or sell — they can only show how they do it; study multiple perspectives and create your own way.
+- **desarrollo:** Dan Koe: "nobody can teach you how to write think Market or sell... they can only show you how they do it I can only show you how I write or how I Market or how I sell and that's completely different from other people and that's a great thing because you can study multiple perspectives practice them all and create your own way." Consequence: to learn any skill "you have to embrace a self-experimentation mindset you can't just watch tutorials all day that's not how learning works."
+- **ejemplos:** ninguno
+- **cita:** "they can only show you how they do it"
+- **terminos:** self-experimentation mindset
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-090
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 15:32–16:17, 2024-07-28
+- **tension:** ninguna
+
+## U-006-093
+- **tipo:** proceso
+- **titulo:** The self-experimentation learning process: research processes, make self-education a daily 30–60 minute habit, experiment, identify principles, create your own process, pass it down.
+- **desarrollo:** Dan Koe's steps: (1) "research processes that others have found success with read books use Google... binge watch YouTube tutorials"; (2) "self-education must become a daily 30 to 60 Minute habit this isn't optional"; (3) "experiment with various techniques implement the processes you learn and attempt to get results"; (4) "identify patterns and principles note the similarities between each and double down on them"; (5) "create your own process tailor what you learn to your unique lifestyle and situation"; (6) "contribute to True education by passing it down give people education that can't be taught in schools with a fundamental grounding in critical thinking." Rationale: since others can only show their way (U-006-092), you must synthesize your own through practice.
+- **ejemplos:** Books, Google, YouTube tutorials.
+- **cita:** "self-education must become a daily 30 to 60 Minute habit this isn't optional"
+- **terminos:** self-experimentation mindset; True education
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-092
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 16:17–17:10, 2024-07-28
+- **tension:** ninguna
+
+## U-006-094
+- **tipo:** definición
+- **titulo:** True education is about discovery, not memorization: diving into the unknown, sense-making and clarity — with entrepreneurship as its vessel.
+- **desarrollo:** Dan Koe: "with entrepreneurship as your vessel you set the scene for True education and sovereignty because true education is about discovery not memorization you have to dive into the unknown discover make sense of the world it's sense making it's Clarity it's not being told or forced to learn something that you don't care about that serves a goal that you didn't choose to pursue."
+- **ejemplos:** ninguno
+- **cita:** "true education is about discovery not memorization"
+- **terminos:** True education; sovereignty; sense making; Clarity
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-093
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 16:17–17:10, 2024-07-28
+- **tension:** ninguna
+
+## U-006-095
+- **tipo:** principio
+- **titulo:** Selling is mutual value exchange: persuade, don't force or deceive; if your product isn't the better option, it isn't a scam — it's a product you must improve.
+- **desarrollo:** Dan Koe: through marketing and sales you understand your customer's mind and create a solution they benefit from; "you're not just creating a product to sell and steal money it's a mutual exchange of value then you persuade not force or deceive as to why your option is potentially better and if it's not a better option that doesn't make it a scam that makes it a product that you need to improve or it's not going to survive." "That's the beautiful thing about this is that you have to improve." The alternative: "if you're looking for the lazy way out then yes go work and do the replaceable task and get replaced and then get stuck in that cycle."
+- **ejemplos:** ninguno
+- **cita:** "if it's not a better option that doesn't make it a scam that makes it a product that you need to improve"
+- **terminos:** mutual exchange of value; persuade
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-090
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 17:10–18:02, 2024-07-28
+- **tension:** ninguna
+
+## U-006-096
+- **tipo:** framework
+- **titulo:** The technical skills relevant now (which may not be relevant later): social media, content, email marketing, visual design and funnel building — understood as an ecosystem.
+- **desarrollo:** Dan Koe distinguishes the future-proof skills from "technical knowhow" needed "in this digital Renaissance environment": "this is what's relevant right now but it may not be relevant in the future." People worry about these "because they don't have the previous future proof skills that allow them to adapt and learn the technical skills of the time." Components: (1) social media — "building a name for yourself as your storefront for the value you create the command center for your business"; (2) content — writing, design or video "to educate entertain and inspire people to see your value" and attract an audience that wants to buy; (3) email marketing — newsletters or sequences "to nurture the audience you acquire"; (4) visual design — "illustrating the vibe of your brand to spark emotion in your viewers"; (5) funnel building — "the inner sections of landing pages websites and how you fuel them with the audience." Ecosystem flow: attract with social media → get them onto your newsletter → send them to a landing page → they purchase the product → "then you talk to them about buying a service from you." "The requirements to learn these skills are going to change as AI shakes the industry they're going to be easier to learn because AI is going to be able to do these specialized tasks faster."
+- **ejemplos:** The social → newsletter → landing page → product → service flow.
+- **cita:** "you need to understand the ecosystem"
+- **terminos:** technical skills; storefront; command center; funnel building; ecosystem
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-090
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 18:02–19:38, 2024-07-28
+- **tension:** ninguna
+
+## U-006-097
+- **tipo:** heurística
+- **titulo:** What to write about and sell: the interests you can't help but tell others about, the books you can't put down, your search history, the projects you dream of building.
+- **desarrollo:** Dan Koe answers "what do I write about what do I market and sell what do I email design or leverage technical skills with": "the interest you can't help but tell others about the books you can't pull yourself away from the ideas that flood your search history the projects you dream of building but can't seem to... make the time to build."
+- **ejemplos:** ninguno
+- **cita:** "the ideas that flood your search history"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-096
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 19:38–20:23, 2024-07-28
+- **tension:** ninguna
+
+## U-006-098
+- **tipo:** término-acuñado
+- **titulo:** "You are the most profitable niche": the creator economy (not the influencer economy) is individuals pursuing their interests and documenting their knowledge; AI is not curious.
+- **desarrollo:** Dan Koe: "you are the most profitable Niche the Creator economy not to be confused with the influencer economy is characterized by individuals who pursue their interests and document their knowledge creators attract people to their Vision their story their goals." "AI is not curious you must give it the context of a vision story or goal to work curiosity and generalism are your Edge in attracting like-minded people who have problems you've solved in your life."
+- **ejemplos:** ninguno
+- **cita:** "AI is not curious you must give it the context of a vision story or goal to work"
+- **terminos:** most profitable Niche; Creator economy; influencer economy
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-088
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 20:23–21:12, 2024-07-28
+- **tension:** ninguna
+
+## U-006-099
+- **tipo:** argumento
+- **titulo:** Of the ways to attract an audience (paid ads, SEO, social media), building an audience under your personal brand is the most profitable and most trustworthy.
+- **desarrollo:** Dan Koe: online options are paid ads (not suited if you have no startup money), SEO and other things, and social media. "Building an audience under your personal brand is the most profitable the most trustworthy." With content, "you don't need to worry so much about sales calls and how optimized your landing pages are and things like that you just talk to your audience people like who you are and then you can build whatever you want."
+- **ejemplos:** ninguno
+- **cita:** "building an audience under your personal brand is the most profitable the most trustworthy"
+- **terminos:** personal brand
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-098
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 21:12–22:00, 2024-07-28
+- **tension:** ninguna
+
+## U-006-100
+- **tipo:** argumento
+- **titulo:** "Nobody wants to follow a glorified search engine": the creators you follow aren't really in one niche — they talk about everything because they're human.
+- **desarrollo:** Dan Koe: "nobody wants to follow a glorified search engine that just talks about the same thing all the time." Many creators fear branching into new interests. Test: "look at everyone you follow are they talking about one thing some will say yes but are they really or are they talking about their opinions their interests their beliefs what are they posting to their story." A fitness creator also talks about family life and what he learned as a dad. "They're talking about everything and you think they're in One Singular Niche when they're not because they're human."
+- **ejemplos:** Fitness creator talking about being a dad.
+- **cita:** "nobody wants to follow a glorified search engine"
+- **terminos:** glorified search engine
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-098
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 22:00–22:39, 2024-07-28
+- **tension:** ninguna
+
+## U-006-101
+- **tipo:** principio
+- **titulo:** You don't find a profitable niche, you create one through persuasion: arguments for why your interests benefit others, an aligned product, delivered through technical skills.
+- **desarrollo:** Dan Koe: "you don't find a profitable Niche you create a profitable Niche through persuasion you write persuasive Arguments for why your interests benefit others lives you sell a product that aligns with that interest you deliver both through technical skills like social media email and design." "If you understood the future proof skills and therefore human nature you would understand that you can control the perception of your interests."
+- **ejemplos:** ninguno
+- **cita:** "you don't find a profitable Niche you create a profitable Niche through persuasion"
+- **terminos:** profitable Niche; persuasion
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-098
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 22:39, 2024-07-28
+- **tension:** ninguna
+
+## U-006-102
+- **tipo:** argumento
+- **titulo:** Interest is generated and programmed, so others can become interested in your interests through well-placed writing that targets their problems.
+- **desarrollo:** Dan Koe: "interest is generated interest is programmed you're interested in specific things because of how you were raised in the information you were exposed to you're interested in them for a reason that means others can become interested in them with well-placed writing on social media." "This has happened to you before go scroll the timeline and tell me something doesn't persuade you to change your behavior": if you have a weight problem and the right post about fitness reaches you, you become interested in fitness. Method: "you generate interest by targeting problems people are facing in their lives and introducing them to potential solutions that you've done yourself." Also: "you spend your time attention and money on your interests that means other people are going to do it too if you're the one showing the interest or teaching about the interests." Slogan: "free people don't Niche down."
+- **ejemplos:** A fitness post reaching someone with a weight problem.
+- **cita:** "interest is generated interest is programmed"
+- **terminos:** interest is generated; free people don't Niche down
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-101
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 22:39–23:27, 2024-07-28
+- **tension:** ninguna
+
+## U-006-103
+- **tipo:** fuente-de-tercero
+- **titulo:** Inserted interview clip: "I would be telling my grandchild not to go study coding" — coding will go the way of fixing cars, slide rules and paper square roots.
+- **desarrollo:** Dan Koe inserts an interview clip. An interviewer recalls "we told our kids to learn Russian in the '80s Japanese in the '90s Chinese probably in the 2000s and then engineering," and asks someone "now that you're on the board of OpenAI" (also mentioning that "Mustafa Suleyman runs AI for Microsoft") what he would tell a grandchild to study. The answer: "I would be telling my grandchild not to go study coding... it was only 15 years ago that everybody was supposed to learn how to code." "When I got my driver's license my father told me I had to learn to fix a car I certainly never told my kids that... because the world kind of figured out how to do it so you didn't have to learn to do that yourself anymore just like you don't have to learn to use a slide rule anymore you don't have to learn to calculate a square root on a piece of paper coding is going to be like that." The speakers are not clearly identified in the transcript (ambiguous).
+- **ejemplos:** Russian (80s), Japanese (90s), Chinese (2000s), engineering; fixing a car; slide rule; square root on paper.
+- **cita:** "coding is going to be like that"
+- **terminos:** ninguno
+- **origen:** de-tercero:unnamed speakers in interview clip (an OpenAI board member answering; ambiguous)
+- **nivel:** complementario
+- **prerrequisitos:** U-006-075
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 23:27–24:55, 2024-07-28
+- **tension:** ninguna
+
+## U-006-104
+- **tipo:** ejercicio-del-autor
+- **titulo:** Thought experiment: as an entrepreneur with multiple products to build in your lifetime, what do you need? Brand, communication assets, a persuasive message and an iterating product — repeated.
+- **desarrollo:** Dan Koe: "let's do a thought experiment you're an entrepreneur not an employee you have multiple products you want to build in your lifetime either before retirement or before death because you found that retirement is an illusion and rest loses meaning without work." "If we never worked we'd be miserable because we'd eventually crave to work on something the problem with that now is that we just work on the wrong things so we hate work or we don't take enough rest so we don't crave work enough." To build those products you need: (1) a brand with a mission, vision and philosophy for the ideal customer; (2) writing, speaking, ads, video, designs and emails to attract and nurture customers; (3) a persuasive marketing message that helps you stand out; (4) a product that keeps iterating based on feedback; "and more repeated across all products you plan to build." The exercise reframes the AI question: these are the components a person must orchestrate.
+- **ejemplos:** ninguno
+- **cita:** "retirement is an illusion and rest loses meaning without work"
+- **terminos:** mission vision and philosophy; ideal customer
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-090
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 24:17–25:41, 2024-07-28
+- **tension:** ninguna
+
+## U-006-105
+- **tipo:** argumento
+- **titulo:** Will writers and coders be replaced? Some, if they aren't in control of the vision: computers are hyper-specialists, humans deep generalists, and AI only replaces those who deserve to be replaced.
+- **desarrollo:** Dan Koe on "will writers be replaced if AI can write a landing page or term paper will coders be replaced if AI can build an app": "the answer is yes some of them if they aren't in control of the vision." "Computers are hyper Specialists humans are deep generalists a great combo but not too effective on their own." "Computers will only replace those who deserve to be replaced." AI helps you write the paper, create the design or edit the video faster, "which gives more power to the individual using the AI and that's what's created the ability for one person businesses to make $10 million a year." "There still has to be an individual orchestrating the path toward the vision," whether the creator using AI in every aspect of the business or the business using AI to replace its workers to achieve the company's vision.
+- **ejemplos:** AI writing landing pages/term papers; AI building apps; $10M/year one-person businesses.
+- **cita:** "computers are hyp Specialists humans are deep generalists a great combo but not too effective on their own"
+- **terminos:** hyper Specialists; deep generalists; in control of the vision; orchestrating
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-083
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 25:41–26:29, 2024-07-28
+- **tension:** ninguna
+
+## U-006-106
+- **tipo:** argumento
+- **titulo:** "You don't know how to hunt": there will always be problems to solve; those trapped in repetitive tasks assigned by others are prime candidates for replacement.
+- **desarrollo:** Dan Koe: "the fundamental misunderstanding with people worried about replacement is that there will always be problems to solve." "You don't know how to hunt you're trapped in a repetitive string of known tasks assigned by someone else it's obvious why you are a prime candidate for replacement you don't grow or evolve there's no novelty no iteration and no building toward a vision that exposes you to solvable problems that can't be found when you are at a standstill." "If you rely on someone else to give you a problem to solve you will be replaced you need agency creativity and a purpose."
+- **ejemplos:** ninguno
+- **cita:** "if you rely on someone else to give you a problem to solve you will be replaced"
+- **terminos:** know how to hunt; agency; creativity; purpose
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-105
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 26:29, 2024-07-28
+- **tension:** ninguna
+
+## U-006-107
+- **tipo:** ejemplo
+- **titulo:** AI can write a book but not a bestseller: a bestseller depends on hooks, connections, distribution, marketing strategy and persuasion, not just the writing.
+- **desarrollo:** Dan Koe: "AI can write a book but that book is only valuable if it's marketed to distributed to and written for an audience that perceives that book is valuable because of persuasion." "Try to have AI write a bestseller for you and I'll wait a long time." A bestseller also requires the hooks, connections to companies, brands and creators with distribution, executing a marketing strategy on Amazon, getting into bookstores — "and that's just the tip of the iceberg." "In the meantime what you can do is learn AI and use it to get out of your work faster so you can start working for yourself."
+- **ejemplos:** Amazon marketing strategy; bookstores; creators with distribution.
+- **cita:** "a bestseller is not just about the writing"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-105
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 26:29–27:17, 2024-07-28
+- **tension:** ninguna
+
+## U-006-108
+- **tipo:** principio
+- **titulo:** If you've solved a problem in your life, you're qualified to start an education business as one person, with zero startup cost and the knowledge already in your head.
+- **desarrollo:** Dan Koe: "if you've solved the problem in your life you're qualified to start a business not just any business an education business as one person with zero startup cost with the knowledge you already have in your head regardless of experience level."
+- **ejemplos:** ninguno
+- **cita:** "if you've solved the problem in your life you're qualified to start a business"
+- **terminos:** education business
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-079
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 27:17–28:23, 2024-07-28
+- **tension:** ninguna
+
+## U-006-109
+- **tipo:** advertencia
+- **titulo:** The "world-changing idea after a night of drinking" is usually delusional; creators make millions solving the universal problems of fitness, productivity, career, money, relationships and lifestyle.
+- **desarrollo:** Dan Koe: most people try to build a startup or have "some crazy business idea after a night of drinking with their friends they think their idea will change the world but they're usually delusional because they don't have any prior business experience." If you had the idea with zero experience, your mind is limited in the ideas it can have ("you haven't built anything that leads to better ideas"), so "I can almost guarantee that someone has already tried and failed with it" — referring to revolutionary ideas. By contrast, "there's a reason that people and specifically creators are making millions solving Fitness productivity career money relationships and lifestyle problems because every person has them."
+- **ejemplos:** Startup ideas after drinking.
+- **cita:** "someone has already tried and failed with it"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-108
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 28:23–29:17, 2024-07-28
+- **tension:** ninguna
+
+## U-006-110
+- **tipo:** concepto
+- **titulo:** The actualization (purpose, meaning) economy: AI can disseminate tools and knowledge but cannot change an individual's behavior, so human problems remain a market built on education.
+- **desarrollo:** Dan Koe: "AI can help with the dissemination of tools and knowledge but it can't actually change the behavior of an individual it can't actually solve a human problem an actualization problem that's what we're going into an actualization or a purpose or a meaning economy and the majority of that is built on education." Why those problems (productivity, fitness, mental health) are so prevalent and valuable: "because people can't enjoy life with those problems and that's at the base of anything else they can't do anything well if they don't enjoy life so what better and more profitable problem is there to solve than [one] you experience every day." Later he connects it to what comes after AI solves basic needs: "the growth needs Mind Body Spirit business improving actualizing that's where the money is going to go very soon and that's where it's been going," while other lines of work "are going to be replaced or automated except for the highest skilled people in those domains." He points viewers to look up "the purpose economy or the meaning economy or the human economy."
+- **ejemplos:** Productivity, fitness, mental health problems.
+- **cita:** "it can't actually change the behavior of an individual"
+- **terminos:** actualization economy; purpose economy; meaning economy; human economy; growth needs
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-108
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 28:23–29:17; 40:34–41:22, 2024-07-28
+- **tension:** ninguna
+
+## U-006-111
+- **tipo:** argumento
+- **titulo:** "There's already enough information out there" is false: people learn best from people they relate to, forming a natural hierarchy of teachers.
+- **desarrollo:** Dan Koe answers the objection that there's enough information already: "if you know what education is or if you have self-awareness on how you become educated you know that is just not true you understand that people learn best from people that they actually relate to." Everyone can be "a teacher to those under them who then grow and evolve it's a natural hierarchy," because "certain people learn best from certain people usually people with very similar personalities." Self-example: "some people aren't going to learn this information that I'm teaching good from me... because of my talking and teaching style people say I'm robotic and emotionless and sure I am but I love listening to like stoic philosophers and that's what gets through to me or harsh advice some people don't jive with that... so they need to learn it from someone else who relates to them better." Hence "if you are yourself and you can be yourself then you can productize and monetize yourself."
+- **ejemplos:** Dan's "robotic and emotionless" style; his preference for stoic philosophers and harsh advice.
+- **cita:** "people learn best from people that they actually relate to"
+- **terminos:** natural hierarchy; productize and monetize yourself
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-110
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 29:17–30:52, 2024-07-28
+- **tension:** ninguna
+
+## U-006-112
+- **tipo:** principio
+- **titulo:** Build for yourself, write to yourself, sell to yourself: the most profitable niche is you, and products made from your experience differ even in the same field.
+- **desarrollo:** Dan Koe: "let's make this whole one person business thing simple build for yourself write to yourself sell to yourself there are millions of people with the same interests problems and desires and you only need to find a fraction of them the most profitable Niche is you." Mapping results to products: results in fitness → a fitness program; with focus → a productivity course; with a skill → a tutorial; with psychology → a journaling prompt; with spirituality → a meditation. "These products aren't all the same they're made from experience your story what you found works for you." Example: Kinobody selling a two-workout-a-week fitness program with his whole intermittent fasting philosophy is very different from a bodybuilder with completely different goals; they sell different solutions. "You attract people to the goal that you're pursuing because you are the niche... and people are going to be attracted to different people that's how the Creator economy works."
+- **ejemplos:** Kinobody (two workouts a week + intermittent fasting) vs. a bodybuilder; fitness program, productivity course, tutorial, journaling prompt, meditation.
+- **cita:** "build for yourself write to yourself sell to yourself"
+- **terminos:** the most profitable Niche is you; you are the niche
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-111
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 30:52–31:39, 2024-07-28
+- **tension:** ninguna
+
+## U-006-113
+- **tipo:** argumento
+- **titulo:** Answer to "info products are a scam": every business should have an education product; people need decentralized meaning; and labeling things a scam closes your mind and stops you from learning.
+- **desarrollo:** Dan Koe addresses "everyone's selling an information product nowadays it seems like a scam." (1) He has already answered it: people learn differently from different people. (2) "Every single business on this Earth should have some form of digital product or education product to help align them with what their brand Mission and values are to give people some form of meaning since they've lost meaning in the other ideologies... like religion and even the school system or government because that's all being shattered." "People need more decentralized meaning and purpose in their lives given by individuals who actually pursue their own goals think freely and can pass that along with the education that they teach without being dogmatic or ideological about it." (3) The objection "shows that you don't understand business 101 you don't understand sell what's already selling these things are profitable for a reason and the economy favors the profitable." (4) "You close your mind instantly and label it a scam and it's no wonder why you stay the same for the rest of your life because you don't learn which is the prerequisite to improving anything."
+- **ejemplos:** ninguno
+- **cita:** "people need more decentralized meaning and purpose in their lives"
+- **terminos:** decentralized meaning; sell what's already selling
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-111
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 31:39–33:13, 2024-07-28
+- **tension:** ninguna
+
+## U-006-114
+- **tipo:** concepto
+- **titulo:** Creators are the decentralized education system: social media is the new town square and creators are the new Renaissance men and the new economy.
+- **desarrollo:** Dan Koe: "the school system is failing and education is the foundation of humanity social media is the New Town Square creators are the New Renaissance men creators are the decentralized education system creators are the new economy." Evidence: a wallet company (name garbled in the transcript as "yes the wallet company") brought Marques Brownlee, "a creator with massive distribution," on as Chief Creative Partner; "we will only see this continue along with companies bringing up in-house creators," and companies want their leaders to start personal brands "they want to survive."
+- **ejemplos:** Marques Brownlee as Chief Creative Partner of a wallet company; in-house creators; leaders' personal brands.
+- **cita:** "creators are the decentralized education system"
+- **terminos:** New Town Square; New Renaissance men; decentralized education system
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-113
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 33:13, 2024-07-28
+- **tension:** ninguna
+
+## U-006-115
+- **tipo:** argumento
+- **titulo:** The contradiction of the scam critics: they complain life skills aren't taught in school, then call them a scam when taught free in "the new school system called the creator economy."
+- **desarrollo:** Dan Koe's rant ("feel free to skip"): "you complain about certain skills not being taught in schools but now that they're taught in public for free you just complain that they're a scam please make it make sense." Making money, relationships — "all the stuff that actually make life living or that allow you to take control of your own future" — are now taught "in the new school system called The Creator economy." They're taught by "the only people that can teach them": those who make money or have good relationships or "do all of these Sovereign things." If professors aren't sovereign, why want them to teach you? "If they had those skills they wouldn't be a teacher or Professor some of them would out of passion but you get what I'm saying."
+- **ejemplos:** Money-making and relationship skills.
+- **cita:** "the new school system called The Creator economy"
+- **terminos:** Sovereign; new school system
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-006-114
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 33:13–34:40, 2024-07-28
+- **tension:** ninguna
+
+## U-006-116
+- **tipo:** definición
+- **titulo:** The one-person business: for those who value self-reliance and time and location freedom, built on social media, no-code digital real estate and email lists, with 2–4 hour workdays.
+- **desarrollo:** Dan Koe: "the one person business is for those who value self-reliance time and location Freedom." Components: (1) social media "for building leverage attracting like minds and building a name for ourselves from nothing"; (2) "no code tools and software for digital real estate product hosting and email lists that can't be taken away like social media"; (3) "lifestyle designed to create a work schedule that best suits the individual usually 2 to 4 hours of work a day to start sometimes more if you get into the flow."
+- **ejemplos:** ninguno
+- **cita:** "email lists that can't be taken away like social media"
+- **terminos:** one person business; digital real estate; leverage
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-079
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 34:40, 2024-07-28
+- **tension:** ninguna
+
+## U-006-117
+- **tipo:** argumento
+- **titulo:** You gain experience only by stepping into the arena: if a freelancer can pitch with zero experience, you can post free content with zero experience to expose your knowledge gaps.
+- **desarrollo:** Dan Koe: "if you've helped your friends or family with any topic that you've ever learned about in your life you have enough experience." "How do you think you gain experience... you don't gain experience without stepping into the arena you gain experience by practicing your skills in a real world setting." Analogy: a freelancer reaches out to clients with zero experience — "potentially in exchange for money" — in order to gain experience; that's how any business starts. So "you can write a social media Post online without promising anything it's free content you can do that without experience so that you can reap the benefits of articulating your thoughts in order to expose knowledge gaps because that's the only way that you're going to learn faster." "You're not going to learn and gain experience by sitting and reading about things you're going to gain experience by getting direct feedback and criticism on your work."
+- **ejemplos:** Freelancers pitching with zero experience; helping friends and family.
+- **cita:** "you don't gain experience without stepping into the arena"
+- **terminos:** stepping into the arena; knowledge gaps
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 34:40–36:10, 2024-07-28
+- **tension:** ninguna
+
+## U-006-118
+- **tipo:** concepto
+- **titulo:** Writing as teaching and the protégé effect: the teacher learns more than the student, and articulate creators only seem so because you never saw their bad iterations.
+- **desarrollo:** Dan Koe: "think of your writing as teaching because that's what it is," and leverage "the protégé effect which is that... the teacher learns more than the student where teaching helps you learn more faster." Analogy: after reading a book you excitedly explain it to a friend; "you don't articulate it very well the first time around right but then over time that's what helps it make sense to you." "People that you watch online aren't articulate because they're just magically articulate it's because they've practiced and you don't notice the bad iterations because people don't care about you when you are first starting out when you have zero followers zero experience people don't care until you've actually gained the experience by doing it over and over again."
+- **ejemplos:** Explaining a book to a friend.
+- **cita:** "you don't notice the bad iterations because people don't care about you when you are first starting out"
+- **terminos:** protégé effect
+- **origen:** propia (adaptada-de:the protégé effect, no author named)
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-117
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 36:10–36:54, 2024-07-28
+- **tension:** ninguna
+
+## U-006-119
+- **tipo:** método
+- **titulo:** Treat social media as your notes, a public journal: share ideas you found helpful, give yourself advice, and don't promise results.
+- **desarrollo:** Dan Koe: "I like to think of my Twitter or just social media in general as my notes I like to share the ideas that I found helpful myself I like to give myself advice it's like a public Journal." "I don't need to promise certain things like making $5 billion I can just talk about my own experience and the ideas that I found impactful," and "I don't think you need any experience to share an idea that you found in a book in your own words."
+- **ejemplos:** Sharing a book idea in your own words.
+- **cita:** "it's like a public Journal"
+- **terminos:** public Journal
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-117
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 36:54–37:37, 2024-07-28
+- **tension:** ninguna
+
+## U-006-120
+- **tipo:** framework
+- **titulo:** Monetization path 1 — skill-based ("learn a skill, teach a skill, sell a skill"): it works, but it makes you one-dimensional unless you build so you can evolve beyond it.
+- **desarrollo:** Dan Koe: the skill-based path is the typical advice — learn a marketable skill and sell it. "I like that that works you can make money but that also makes you one-dimensional and if your entire brand or business is based around that then you don't really have a way of pivoting out in the future and then it gets boring and then you trap yourself in a new 9-to-5 and you can't get out of client work." He doesn't say don't start with it: "if you do start with it make it so you can evolve Beyond it do not pigeonhole yourself into one Niche." Build a personal/creator brand and a diverse, larger audience alongside it so you land freelance clients more easily: clients "see your personality," "you're going to land the client over another person if you have an audience... because they know you're legit." At the start you'll usually still need the same monetization tactics as without an audience (the manual route of DMs).
+- **ejemplos:** Freelance services sold through DMs; a new 9-to-5 of client work.
+- **cita:** "if you do start with it make it so you can evolve Beyond it"
+- **terminos:** skill based; learn a skill teach a skill sell a skill; one-dimensional; new 9 to-5
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-116
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 37:37–39:04, 2024-07-28
+- **tension:** ninguna
+
+## U-006-121
+- **tipo:** framework
+- **titulo:** Monetization path 2 — development-based, built on the four eternal markets: health, wealth, relationships and happiness.
+- **desarrollo:** Dan Koe: "the second path is development based and that's what I'm all about," for people interested in human potential, self-improvement, psychology, metaphysics, philosophy, spirituality. It is "based around the four Eternal markets which are health wealth relationships and happiness." They are evergreen because the problems in them "will never go away": every "underdeveloped person" — clarified as someone "new to the space or new to improving their mind body business Spirit," without negative connotation — has unsolved problems and needs help "from someone of a like-minded personality." Evergreen not necessarily for one person (though people go through cycles and need help throughout life), but because "there's people born every day." AI can help but "the individual needs to change their behavior," which is done best by learning from "a human who they can connect with." Path 1 only targets the wealth domain, "so it's one-dimensional by default."
+- **ejemplos:** ninguno
+- **cita:** "the four Eternal markets which are health wealth relationships and happiness"
+- **terminos:** development based; four Eternal markets; Evergreen markets; underdeveloped person
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-110; U-006-120
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 39:04–41:22, 2024-07-28
+- **tension:** ninguna
+
+## U-006-122
+- **tipo:** proceso
+- **titulo:** The development-path formula: pursue your own goals (brand), solve your problems while pursuing them (content), and create a system to help others do the same (product).
+- **desarrollo:** Dan Koe: "with path two you quite literally pursue your own goals in life [that's your] brand solve your problems as you are pursuing those goals [that's your] content or writing and create a system to help others do the same which is your product or service this is how you be yourself improve yourself and profit off of yourself this is how you turn yourself into the business."
+- **ejemplos:** ninguno
+- **cita:** "this is how you be yourself improve yourself and profit off of yourself"
+- **terminos:** brand; content; product; turn yourself into the business
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-121
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 41:22, 2024-07-28
+- **tension:** ninguna
+
+## U-006-123
+- **tipo:** heurística
+- **titulo:** You only need to help someone one step behind you, and with no results yet, write "here's my plan to..." rather than "how I...".
+- **desarrollo:** Dan Koe answers "I've never done this before I'm not experienced enough": "you're just helping someone that's one step behind you." "If you've lost 10 lb you're probably going to be the better teacher than the person who is super jacked trying to help an overweight person lose weight because the person who is just a few steps ahead of them they can relate so much closer." With the bodybuilder or trainer, it feels awkward for the beginner, who won't want to show up day after day; "they want a friend they want connection to be able to grow along with them." Framing rule: you're not writing "how I made a million dollars in 3 days" but "how I plan to make a million in 5 years"; not "how I lost 10 lbs in 2 months" but "here's my plan to lose 10 lbs in 2 months" — "until you gain experience and then you can start talking about the results that you have."
+- **ejemplos:** Someone who lost 10 lb vs. a super-jacked trainer; "how I plan to make a million in 5 years."
+- **cita:** "you're just helping someone that's one step behind you"
+- **terminos:** one step behind you
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-122
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 41:22–42:44, 2024-07-28
+- **tension:** ninguna
+
+## U-006-124
+- **tipo:** framework
+- **titulo:** Monetization path 3 — both skill and development: a one-person business forces you to be a generalist, giving you marketable skills, CEO-level traits and soft skills to package.
+- **desarrollo:** Dan Koe: "path three which is very much my speed is both... because the beautiful thing about a one person business is that you are forced to be a generalist you need to learn any and all of the skills that make a business a success." Benefits: (1) you learn skills that let you help other businesses for money — building your audience, designing your own profile picture (graphic design), writing your own emails and content: "that's three skills alone right there"; (2) you can practice marketing and sales without your own product by selling an affiliate product (e.g., the affiliate program for Cortex, his writing app: "start talking about writing help us sell it and through that experience create your own... if you want to create an app and compete with us try we encourage you to"); you can build your own landing page for the offer; (3) once you have results in this new domain you can help other businesses and "work your way up the ladder in terms of how much you charge"; (4) soft skills: "you need to acquire CEO level traits really quick you need to learn to say no you need to learn to systemize your work days into two to four to 6 hours a day," understand productivity — and these "can then be packaged up": "you don't have to sell anything related to making money you just sell the traits that allow you to live the lifestyle that you live" (psychology or productivity teachings).
+- **ejemplos:** Profile picture design, emails, content; Cortex affiliate program; landing page for an affiliate offer.
+- **cita:** "you are forced to be a generalist"
+- **terminos:** CEO level traits; affiliate; forced to be a generalist
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-120; U-006-121
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 42:44–44:05, 2024-07-28
+- **tension:** ninguna
+
+## U-006-125
+- **tipo:** argumento
+- **titulo:** Writing is the base foundational skill: building on a laptop, everything you do all day is typing — landing pages, content, scripts, tweets, emails.
+- **desarrollo:** Dan Koe: "this entire time you're practicing writing because literally you're building on a laptop the only thing that you're doing the entirety of your day is typing on a keyboard that's writing especially when you're texting your friends that's writing you're writing landing pages you're writing content you're writing video scripts you're writing tweets you're writing emails." "I argue that that is the base foundational skill that you need to learn."
+- **ejemplos:** Landing pages, content, video scripts, tweets, emails, texting friends.
+- **cita:** "I argue that that is the base foundational skill"
+- **terminos:** base foundational skill
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-124
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 44:05–44:45, 2024-07-28
+- **tension:** ninguna
+
+## U-006-126
+- **tipo:** argumento
+- **titulo:** Where the skill and development paths merge: build your own business talking about your interests without expectation of money, and you set yourself up to make a lot.
+- **desarrollo:** Dan Koe: learning skills to build your business covers the wealth domain; the development domain enters because "once you're building the audience you're talking about your interests you're talking about health... money potentially wealth... relationships... happiness so psychology metaphysics meaning purpose." "All of those things are how you're building the audience and you're sharing what you learn along the way so this is where they merge is you literally just build your own business without expectation of making money and you set yourself up to make so much money." "Just by becoming a Creator you develop the interest and skill set that allow you to be future proof and Hyper profitable."
+- **ejemplos:** ninguno
+- **cita:** "you literally just build your own business without expectation of making money and you set yourself up to make so much money"
+- **terminos:** future proof; Hyper profitable
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-124
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 44:45–45:29, 2024-07-28
+- **tension:** ninguna
+
+## U-006-127
+- **tipo:** caso
+- **titulo:** Jose Rosado: from selling profile banners to multiple-six-figure web design to digital products — the one-person business favors your evolution.
+- **desarrollo:** Dan Koe's example: Jose Rosado "made a full-time income selling profile banners when he first started and then transitioned into web design and made multiple six figures if not way more than that by now and then transitioned again into digital products because the one person business model favors your Evolution it favors you starting and doing whatever you want in the future."
+- **ejemplos:** Profile banners → web design → digital products.
+- **cita:** "the one person business model favors your Evolution"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-006-126
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 45:29, 2024-07-28
+- **tension:** ninguna
+
+## U-006-128
+- **tipo:** advertencia
+- **titulo:** Pre-creator-economy business advice can lead you to build something you don't care about, only to make money.
+- **desarrollo:** Dan Koe: "traditional branding marketing content and just offer creation is not really going to help you if you go and learn from someone who's been doing this before the Creator economy or just like kind of outdated advice it can possibly lead you in the wrong direction," meaning "something that you don't actually care to do you're only doing it to make money," e.g., "learn this business model learn how to start an agency... that you don't really care to do but you're going to do it anyways because that's the only path you know to make money."
+- **ejemplos:** Starting an agency you don't care about.
+- **cita:** "something that you don't actually care to do you're only doing it to make money"
+- **terminos:** outdated advice
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-126
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 45:29–46:13, 2024-07-28
+- **tension:** ninguna
+
+## U-006-129
+- **tipo:** metáfora
+- **titulo:** The personal brand is a meta business model and the most powerful storefront of our times: a digital storefront anyone can find.
+- **desarrollo:** Dan Koe: "the personal brand is like a meta business model and it's the most powerful storefront of our times think of your personal brand as a digital storefront." Physical storefronts exist in your local area; "a personal brand is you online as a business and anyone can find you." Contrast: launching a product in the physical world you may have a line out the door and can only process a credit card every minute and a half; in the digital world you launch to "50 to 100,000 to a million people" with no waiting — "you just see the notifications come in bing bing bing" (acknowledged as an optimal, later situation).
+- **ejemplos:** A physical store line vs. a digital launch.
+- **cita:** "think of your personal brand as a digital storefront"
+- **terminos:** meta business model; digital storefront; personal brand
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-099
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 46:13–46:55, 2024-07-28
+- **tension:** ninguna
+
+## U-006-130
+- **tipo:** concepto
+- **titulo:** The experience model vs. the traditional model: instead of building a customer avatar around a profitable problem, you become the customer avatar.
+- **desarrollo:** Dan Koe: "the traditional business model involves creating a customer Avatar based on someone with a profitable problem that you can solve" — identify a problem and create a solution. "The experience model it turns you into the customer Avatar your experience and story turn you into the niche that way you can solve your own problems attract people that are on a similar path as you and help them do the same." Bonus: "you don't have to spend countless hours doing market research to understand what will sell." Process: "you pursue a goal achieve it talk about it attract people with that same goal and offer them a solution to reach it faster product or service," helping people "improve but faster than you did."
+- **ejemplos:** ninguno
+- **cita:** "it turns you into the customer Avatar"
+- **terminos:** experience model; customer Avatar; traditional business model
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-112
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 46:55–47:39, 2024-07-28
+- **tension:** ninguna
+
+## U-006-131
+- **tipo:** principio
+- **titulo:** Pillar 1, branding: stop trying to find a problem; understand the goal people are trying to achieve and become an expert at removing the problems in its way.
+- **desarrollo:** Dan Koe: "the first pillar is branding in business stop trying to find a problem to solve instead understand the goal that people are trying to achieve then become an expert at solving the problems that prevent people from achieving that goal help them get there as fast as possible that's what they want." "Your brand is who you are what you do and what you're doing or what you're going to achieve you're attracting people to the vision for your future or what you are achieving in life or what you've already achieved." "What goal are you working towards and what goals have you achieved that's going to form the majority of your content."
+- **ejemplos:** ninguno
+- **cita:** "stop trying to find a problem to solve instead understand the goal that people are trying to achieve"
+- **terminos:** branding; goal; vision
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-006-130
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 47:39–48:21, 2024-07-28
+- **tension:** ninguna
+
+## U-006-132
+- **tipo:** método
+- **titulo:** Make any idea original by thinking it through the lens of what you're trying to achieve in life.
+- **desarrollo:** Dan Koe: "the goals that you're working towards are going to form all of the ideas that you have you can read a book pick an idea and the way you make it original to you is you think of it through the lens of what you're trying to achieve in life." Example (which he admits is "a bad example... off the top of my head"): reading "you should read more books," he takes his goal — become smarter, more articulate — and tacks it on: you need to read more books because they lead to you being intelligent, articulate, etc., creating his own idea.
+- **ejemplos:** "Read more books" filtered through the goal of becoming smarter and more articulate.
+- **cita:** "the way you make it original to you as you think of it through the lens of what you're trying to achieve in life"
+- **terminos:** lens of your goal
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-006-131
+- **fuente:** The Future Of Work (Avoid Learning These Skills).md, 48:21–48:58, 2024-07-28
+- **tension:** ninguna
