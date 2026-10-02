@@ -2825,267 +2825,44 @@ Este archivo reúne TODO el material obligatorio del capítulo, ordenado por sec
 
 # ANEXO C — Fuentes de terceros relevantes (extracto de `_libro/03d_fuentes-citadas.md`)
 
-#### Justin Welsh
+#### Justin Welsh - *Grafías, atribución y notas:* Invitado de una entrevista (2021); además, caso recurrente que el autor cita en años posteriores. - **Cómo la usa (síntesis):** Mayormente **de-tercero**: el invitado expone su propio sistema (rutina, caminatas, LinkedIn, niche of one, service before product, trust tripwires, content matrix). El autor **adapta** varias piezas: adopta "eliminate, automate, delegate" ("a big thing of mine"), generaliza su filosofía como "personal sovereignty", incorpora la secuencia servicio → producto a su propio modelo y aplica la pregunta "who do you like to spend time with" al elegir clientes. Además lo usa como **caso** (negocio de una persona, humble flex, direct response que luego se regala). - **Qué idea toma y cómo la usa, por bloque:** - `T05-a` *Idea:* Rutina estructurada; eliminate, automate, delegate; auditar por energía — *Uso:* **De-tercero**. De-tercero; Dan lo adopta como "a big thing of mine" — IDs: U-005-013, U-005-014 - `T05-b` *Idea:* Phone-less walks como tiempo claro para pensar; caminatas […]
 
-- *Grafías, atribución y notas:* Invitado de una entrevista (2021); además, caso recurrente que el autor cita en años posteriores.
-- **Cómo la usa (síntesis):** Mayormente **de-tercero**: el invitado expone su propio sistema (rutina, caminatas, LinkedIn, niche of one, service before product, trust tripwires, content matrix). El autor **adapta** varias piezas: adopta "eliminate, automate, delegate" ("a big thing of mine"), generaliza su filosofía como "personal sovereignty", incorpora la secuencia servicio → producto a su propio modelo y aplica la pregunta "who do you like to spend time with" al elegir clientes. Además lo usa como **caso** (negocio de una persona, humble flex, direct response que luego se regala).
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T05-a` *Idea:* Rutina estructurada; eliminate, automate, delegate; auditar por energía — *Uso:* **De-tercero**. De-tercero; Dan lo adopta como "a big thing of mine" — IDs: U-005-013, U-005-014
-  - `T05-b` *Idea:* Phone-less walks como tiempo claro para pensar; caminatas de 90 minutos "quasi work and quasi play"; ajustar tareas a la curva de energía y probar el cambio — *Uso:* **De-tercero**. De tercero (entrevista); inspira la reflexión de Dan sobre su "morning problem" — IDs: U-005-010, U-005-012, U-005-016, U-005-015
-  - `T06` *Idea:* 90 días sin alcohol para "reset my balance"; el alcohol como mecanismo de afrontamiento — *Uso:* **De-tercero**. De-tercero: caso de reinicio por abstinencia — IDs: U-005-007
-  - `T08` *Idea:* Resolver primero el problema parecido de otra persona — *Uso:* **De-tercero**. De-tercero; el autor lo conecta con "soy bueno en el marketing ajeno" — IDs: U-005-011 — fuente en la fila: «Justin Welsh (invitado)»
-  - `T09-a` *Idea:* "Rey" del humble flex (post de "12x days" con captura de ingresos) — *Uso:* **Adaptada**. adaptada: ejemplo del mandamiento 7 — IDs: U-013-114 — fuente en la fila: «Justin Welsh (como ejemplo)»
-  - `T09-a` *Idea:* Content matrix, pipeline por lotes (Hypefury, Hemingway), loop de datos de ventas, adicción a la atención — *Uso:* **De-tercero**. de-tercero: el sistema de Justin, expuesto por él mismo — IDs: U-005-027, U-005-028, U-005-021, U-005-023 — fuente en la fila: «Justin Welsh (invitado)»
-  - `T09-b` *Idea:* Framework de post (meat → hook → recap → call to conversation) y three-line hook; flexear resultados con humildad — *Uso:* **De-tercero**. de-tercero (invitado, 2021); el autor usa su post de ~$468k como ejemplo del mandamiento de social proof — IDs: U-005-025, U-005-026, U-015-105
-  - `T10-a` *Idea:* Comentar primero y con valor bajo 3–5 líderes de opinión en LinkedIn — *Uso:* **De-tercero**. De-tercero; también caso del podcast que dio a Dan un ángulo de contenido — IDs: U-005-024, U-027-120 — fuente en la fila: «Justin Welsh (invitado)»
-  - `T10-b` *Idea:* Empezar en LinkedIn por la necesidad de atención; escribir cada día; usar LinkedIn como Twitter; jerga por plataforma; suction system; orgánico antes que anuncios — *Uso:* **De-tercero**. de-tercero (entrevista); el autor coincide sobre los anuncios y cita su podcast como exponential event — IDs: U-005-018, U-005-019, U-005-020, U-005-029, U-005-030, U-005-050, U-014-168
-  - `T11` *Idea:* Niche of one; "there's already a me out there"; validation not competition; misery doesn't scale; servir a quien está 2–3 años detrás — *Uso:* **De-tercero**. De-tercero (invitado) — IDs: U-005-044, U-005-045, U-005-046, U-005-053, U-005-054
-  - `T12-a` *Idea:* Llamadas gratuitas de 15 minutos para entender los problemas del grupo objetivo — *Uso:* **De-tercero**. de-tercero — IDs: U-005-055
-  - `T12-a` *Idea:* El "distribution studio" (frente a los product studios) — *Uso:* **De-tercero**. de-tercero — IDs: U-005-042
-  - `T12-a` *Idea:* Historia del estigma de llamarse "entrepreneur" — *Uso:* **De-tercero**. de-tercero; el autor la relaciona con el estigma de la palabra — IDs: U-005-034
-  - `T12-b` *Idea:* "Walking business" en lugar de personal brand; "service before product" (coaching barato a 20 personas → producto); subir tarifas y enrutar entre producto y servicio; loop servicio → productizar → repetir; comunidad privada paga como distribución propia; "one-person businesses are mostly about marketing"; one-man ≠ no-code business — *Uso:* **De-tercero**. de-tercero (invitado en entrevista); el autor lo adopta en su propia secuencia servicio → producto — IDs: U-005-033, U-005-056, U-005-057, U-005-052, U-005-040, U-005-048, U-005-051
-  - `T13-a` *Idea:* Aggregation over secrets; give freely; impulse buy pricing; precio trimestral de comunidades; aprender direct response — *Uso:* **De-tercero**. De-tercero (en la entrevista de 2021); en 2024 Dan lo cita como ejemplo de direct response que luego se regala todo — IDs: U-005-039, U-005-031, U-005-041, U-005-036, U-001-147 — fuente en la fila: «Justin Welsh (invitado)»
-  - `T13-b` *Idea:* Trust tripwires; secuencia de promoción (setting the table, peek behind the curtain); testimonial flywheel; dos productos de $150 que suman $1M al año; camino del direct response a la voz auténtica — *Uso:* **De-tercero**. de-tercero (entrevista de 2021) y caso citado por Dan; el autor lo usa como modelo del one-person business — IDs: U-005-032, U-005-037, U-005-038, U-005-022, U-009-037, U-007-148
-  - `T14-b` *Idea:* De ejecutivo quemado a consultoría y cursos; negocio multimillonario con 2–4 horas al día — *Uso:* **De-tercero (ejemplo/referencia)**. Caso propio del autor sobre un tercero: prueba de que los media products no son estafa y de que el mercado no es winner-takes-all — IDs: U-010-247, U-012-189 — fuente en la fila: «Justin Welsh (caso)»
-  - `T15` *Idea:* "I'd rather build 10 $50,000 businesses than one $500,000 business" — *Uso:* **De-tercero**. De tercero — IDs: U-005-059
-  - `T16-a` *Idea:* Burnout como pérdida de control; persona "binary"; filosofía "do what I want with whom I want whenever I want" — *Uso:* **De-tercero**. De tercero (invitado); Dan la generaliza como "personal sovereignty" — IDs: U-005-004, U-005-009, U-005-003
-  - `T16-b` *Idea:* Ataque de pánico como punto de inflexión; caminar 10 millas al día, sin alcohol, para ganar claridad — *Uso:* **De-tercero**. De tercero (invitado): casos de reinicio de salud previo a emprender — IDs: U-005-005, U-005-008
-  - `T17` *Idea:* "Who do you like to spend time with" como criterio para elegir clientes; su trayectoria SaaS → negocio de una persona — *Uso:* **De-tercero** + **Adaptada**. de-tercero/adaptada: el autor aplicó la pregunta al elegir consultar a creadores — IDs: U-005-058, U-005-002, U-005-049
-- **IDs (todos):** U-001-147, U-005-002, U-005-003, U-005-004, U-005-005, U-005-007, U-005-008, U-005-009, U-005-010, U-005-011, U-005-012, U-005-013, U-005-014, U-005-015, U-005-016, U-005-018, U-005-019, U-005-020, U-005-021, U-005-022, U-005-023, U-005-024, U-005-025, U-005-026, U-005-027, U-005-028, U-005-029, U-005-030, U-005-031, U-005-032, U-005-033, U-005-034, U-005-036, U-005-037, U-005-038, U-005-039, U-005-040, U-005-041, U-005-042, U-005-044, U-005-045, U-005-046, U-005-048, U-005-049, U-005-050, U-005-051, U-005-052, U-005-053, U-005-054, U-005-055, U-005-056, U-005-057, U-005-058, U-005-059, U-007-148, U-009-037, U-010-247, U-012-189, U-013-114, U-014-168, U-015-105, U-027-120
-- **Bloques:** T05-a, T05-b, T06, T08, T09-a, T09-b, T10-a, T10-b, T11, T12-a, T12-b, T13-a, T13-b, T14-b, T15, T16-a, T16-b, T17
+#### Dickie Bush - *Grafías, atribución y notas:* Invitado (conversación larga; Ship 30 for 30). A través de él llegan citas de James Clear, Alex Hormozi, Paul Graham, Robert Cialdini y Ray Dalio, y el modelo de Christian Guzman. - **Cómo la usa (síntesis):** Mayormente **de-tercero** (ideas del invitado: identity lists, bloques de 12 semanas, just-in-time learning, abundant financial mindset, entrepreneurial barbell, polaridad). El autor **adapta** y responde: convierte "forcing function" en el one-person business como forcing function, reformula el shipyard como "mastery facility", añade "procrastination disguised as productivity", nombra "the destructive self-improvement game" y contesta la polaridad con "peace and progress" y "even moderation". En algunos pasajes la idea es co-construida. - **Qué idea toma y cómo la usa, por bloque:** - `T01-a` *Idea:* Golden handcuffs e inflación del estilo de vida; "self-awareness all the way down" — *Uso:* **De-tercero**. de-tercero, con añadidos de Dan — IDs: U-002-048, U-002-088 — fuente en la fila: «Dickie Bush (invitado)» - `T02-a` […]
 
+#### John Hugh (cofundador de Stan) - *Grafías, atribución y notas:* Grafías: "John Hu" / "John Hugh". Algunas filas lo agrupan con Vitali como "cofundadores/fundadores de Stan". Adapta además la jerarquía de Maslow (U-004-021), el "old startup saying" de hacer cosas que no escalan (U-004-043), el caso Red Bull (U-004-010) y usa United Airlines/Comcast como contraejemplo. - **Cómo la usa (síntesis):** Mayormente **de-tercero** (entrevista): contenido que hace sentir, tangibilidad, "permissionless", success pipeline, "you are the niche", empezar con coaching y productizar, organización y contratación. El autor la **extiende** con "make tangibility tangible", resume "Stan as the offer", añade el ejemplo de su tribu temprana en Twitter y matiza un punto (U-004-061). - **Qué idea toma y cómo la usa, por bloque:** - `T05-a` *Idea:* Repeticiones pequeñas diarias, primeras horas sin teléfono, "creative spark" — *Uso:* **De-tercero**. De-tercero — IDs: U-004-063 — fuente en la fila: «John Hugh (Stan)» - `T05-b` *Idea:* Adicción a lo urgente, Slack y email; el modelo […]
 
-#### Dickie Bush
+#### Vitali (cofundador de Stan) - *Grafías, atribución y notas:* Grafías: "Vitali" / "Vitalii". Por él llega el caso de Conrad (Teachable) y la lectura del recorte de plantilla de Twitter como "first principle signal"; integra la cita del handbook de Valve. - **Cómo la usa (síntesis):** **De-tercero** (entrevista): historias de cualquier extensión, notar lo interesante, "people follow people", 10x person, core job to be done, founder-market fit. El autor **adopta explícitamente** el core job to be done para Kortex y conecta el 10x con Valve; en un caso Vitali releva una idea propia de Dan (la lección del 2 Hour Writer). - **Qué idea toma y cómo la usa, por bloque:** - `T05-a` *Idea:* Definición de trabajo como progreso tangible; cita la lección del 2 Hour Writer — *Uso:* **De-tercero**. De-tercero (y relevo de una idea propia de Dan) — IDs: U-004-065, U-004-068 — fuente en la fila: «Vitali (Stan)» - `T09-a` *Idea:* Una historia puede tener cualquier extensión; […]
 
-- *Grafías, atribución y notas:* Invitado (conversación larga; Ship 30 for 30). A través de él llegan citas de James Clear, Alex Hormozi, Paul Graham, Robert Cialdini y Ray Dalio, y el modelo de Christian Guzman.
-- **Cómo la usa (síntesis):** Mayormente **de-tercero** (ideas del invitado: identity lists, bloques de 12 semanas, just-in-time learning, abundant financial mindset, entrepreneurial barbell, polaridad). El autor **adapta** y responde: convierte "forcing function" en el one-person business como forcing function, reformula el shipyard como "mastery facility", añade "procrastination disguised as productivity", nombra "the destructive self-improvement game" y contesta la polaridad con "peace and progress" y "even moderation". En algunos pasajes la idea es co-construida.
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T01-a` *Idea:* Golden handcuffs e inflación del estilo de vida; "self-awareness all the way down" — *Uso:* **De-tercero**. de-tercero, con añadidos de Dan — IDs: U-002-048, U-002-088 — fuente en la fila: «Dickie Bush (invitado)»
-  - `T02-a` *Idea:* "The liquid takes the shape of its container" — *Uso:* **De-tercero**. De tercero, apoyado en James Clear y Alex Hormozi — IDs: U-002-016 — fuente en la fila: «Dickie Bush (invitado)»
-  - `T02-b` *Idea:* Identity lists; pedir un nombre para "the opposite of lifestyle inflation" — *Uso:* **De-tercero**. De tercero (inspirada en James Clear y Alex Hormozi); Dan la resume y la relaciona con su tactical stress — IDs: U-002-017, U-002-014, U-002-063
-  - `T05-a` *Idea:* Reflexión trimestral (12-week blocks), temporadas de creación vs delegación, su rutina, pedir rutinas de tu etapa — *Uso:* **De-tercero**. De-tercero — IDs: U-002-070, U-002-077, U-002-084, U-002-081
-  - `T05-b` *Idea:* "Inconvenient truth" (escribir de 4:30 a 7:30 y de 19 a 22 durante dos años); solo tres metas grandes a la vez, "not never, but not now" — *Uso:* **De-tercero**. De tercero (conversación) — IDs: U-002-083, U-002-090
-  - `T06` *Idea:* La abstinencia completa es más fácil que la moderación leve (baño de hielo); desarrolla el tuit de Dan sobre amar lo monótono — *Uso:* **De-tercero**. De-tercero; Dan coincide parcialmente (el cero sirve al construir) — IDs: U-002-075, U-002-073, U-002-039
-  - `T07-a` *Idea:* Just-in-time vs just-in-case learning (lens); proyectos como forcing function; tres conclusiones por podcast — *Uso:* **De-tercero**. de-tercero; integrado en build to learn y Clarity Catalyst — IDs: U-002-029, U-002-032, U-002-091
-  - `T07-b` *Idea:* Parábola de la "shitty rod"; "metaphorically obese"; pasión por aprender juegos nuevos — *Uso:* **De-tercero**. De tercero (invitado); Koe añade "procrastination disguised as productivity" y bulking/cutting — IDs: U-002-030, U-002-078, U-002-079, U-002-028, U-002-041
-  - `T08` *Idea:* Se aprende más rápido destilando con la lente de compartir — *Uso:* **De-tercero**. De-tercero, integrado en el "perspective vessel" — IDs: U-002-055 — fuente en la fila: «Dickie Bush (invitado)»
-  - `T09-a` *Idea:* Conversaciones largas sin filtro como fuente de perspectiva — *Uso:* **De-tercero (ejemplo/referencia)**. ejemplos del valor del long form — IDs: U-002-001 — fuente en la fila: «Dickie Bush (anfitrión) y creadores de YouTube fitness (Matt Ogus, Chris Lovato, Joe Delaney), ciclista Abdul» *(fila compartida con: Matt Ogus; Youtubers de fitness de la "golden era")*
-  - `T09-b` *Idea:* Two-year test; de lo táctico a lo de alto nivel o volver a bajar con un ángulo nuevo — *Uso:* **De-tercero**. de-tercero (conversación); el autor lo integra con su giro a lo "pithy" — IDs: U-002-052, U-002-054 — fuente en la fila: «Dickie Bush (Ship 30 for 30)»
-  - `T10-a` *Idea:* Documentar crea relación; public forcing function; trusted curator; articulación de la metáfora de las acciones — *Uso:* **De-tercero**. De-tercero / co-construida con Dan; además caso de DM estratégico — IDs: U-002-002, U-002-025, U-002-042, U-002-009, U-015-120, U-002-004 — fuente en la fila: «Dickie Bush (invitado)»
-  - `T10-b` *Idea:* Public experimentation y mentalidad de principiante — *Uso:* **De-tercero**. de-tercero (conversación); aplicado a cómo posicionarse sin ser experto — IDs: U-002-012
-  - `T11` *Idea:* Empezar específico y revelar intereses; elegir algo construye 50 habilidades; obsession is a feature — *Uso:* **De-tercero**. De-tercero (invitado) — IDs: U-002-005, U-002-024, U-002-006, U-002-046
-  - `T12-a` *Idea:* El término "forcing function" — *Uso:* **Adaptada**. adaptada: el one-person business como forcing function para mejorar todas las áreas — IDs: U-002-045
-  - `T12-b` *Idea:* La idea de una manifestación física de la comunidad online (the shipyard); Ship 30 como ejemplo de que escribir a diario mejora otras áreas — *Uso:* **Adaptada**. adaptada: el autor la reformula como "mastery facility", una "physical synthesis" que resuelve las carencias de su lugar — IDs: U-002-056
-  - `T13-a` *Idea:* Cita de Dan sobre "$100,000 worth of product ideas" y el frame breaking del primer mes de $10k — *Uso:* **Propia**. Testimonio que refuerza una idea propia de Dan; menciona a un "Will" de forma ambigua — IDs: U-002-022 — fuente en la fila: «Dickie Bush (invitado)»
-  - `T14-a` *Idea:* "Technology is an accelerant of polarity" (ley de potencia; WALL-E) — *Uso:* **De-tercero**. De tercero; Dan añade que la awareness es el primer paso — IDs: U-002-047
-  - `T14-b` *Idea:* La tecnología amplía la brecha — *Uso:* **De-tercero (ejemplo/referencia)**. Objeción registrada a la tesis del "mental plane" — IDs: U-002-044 — fuente en la fila: «Dickie Bush (invitado)»
-  - `T15` *Idea:* Abundant financial mindset; su historia financiera ("tutor to a test", BlackRock, escasez en NYC); control sobre el ingreso (inputs → outputs); el primer dólar; "just make more money"; equity vs dividends; indicators of growth; ideal scene; entrepreneurial barbell; financial confidence vs security — *Uso:* **De-tercero** + **De-tercero (crítica o contraste)**. De tercero; Dan respalda equity vs dividends ("that's the entire way I think about it"), enmarca el barbell y corrige "just make more money" — IDs: U-002-018, U-002-019, U-002-020, U-002-026, U-002-059, U-002-060, U-002-061, U-002-062, U-002-064, U-002-065, U-002-066
-  - `T16-a` *Idea:* Polaridad/equilibrio por extremos; cimientos tempranos de salud y finanzas; Whoop y el exceso de feedback; fitness como gateway drug; dieta (calorías, proteína); costos reales del estilo de vida — *Uso:* **De-tercero**. De tercero (invitado); Dan nombra "the destructive self-improvement game" a partir de su historia — IDs: U-002-035, U-002-069, U-002-087, U-002-003, U-002-085, U-002-072
-  - `T16-b` *Idea:* La progresión como valor central; visión polar frente al punto medio — *Uso:* **De-tercero (ejemplo/referencia)**. Diálogo: Dan responde con peace and progress y "even moderation" — IDs: U-002-034, U-002-036
-  - `T17` *Idea:* Interlocutor a quien anunció que solo hablaría de one-person business — *Uso:* **De-tercero**. de-tercero (contexto) — IDs: U-002-010, U-002-076
-- **IDs (todos):** U-002-001, U-002-002, U-002-003, U-002-004, U-002-005, U-002-006, U-002-009, U-002-010, U-002-012, U-002-014, U-002-016, U-002-017, U-002-018, U-002-019, U-002-020, U-002-022, U-002-024, U-002-025, U-002-026, U-002-028, U-002-029, U-002-030, U-002-032, U-002-034, U-002-035, U-002-036, U-002-039, U-002-041, U-002-042, U-002-044, U-002-045, U-002-046, U-002-047, U-002-048, U-002-052, U-002-054, U-002-055, U-002-056, U-002-059, U-002-060, U-002-061, U-002-062, U-002-063, U-002-064, U-002-065, U-002-066, U-002-069, U-002-070, U-002-072, U-002-073, U-002-075, U-002-076, U-002-077, U-002-078, U-002-079, U-002-081, U-002-083, U-002-084, U-002-085, U-002-087, U-002-088, U-002-090, U-002-091, U-015-120
-- **Bloques:** T01-a, T02-a, T02-b, T05-a, T05-b, T06, T07-a, T07-b, T08, T09-a, T09-b, T10-a, T10-b, T11, T12-a, T12-b, T13-a, T14-a, T14-b, T15, T16-a, T16-b, T17
+#### Matt (cofundador de producto de Kortex/Eden) - *Grafías, atribución y notas:* Grafías del producto: Kortex / Cortex / Eden. Cita el lema "make something people want" (ver sección g) y compara Kortex con Notion, Obsidian, Claude y Google Drive (ver sección f). - **Cómo la usa (síntesis):** **De-tercero** (conversación): velocidad como única ventaja, plazos agresivos como stress test, rebuild, el second brain como "search engine for your memories". El autor **extrae su propia lección** (U-015-210), añade "curated space" y usa la conversación para respaldar "intelligence is not creativity". - **Qué idea toma y cómo la usa, por bloque:** - `T07-a` *Idea:* Chat de IA con información visual — *Uso:* **De-tercero (ejemplo/referencia)**. herramienta del producto del autor — IDs: U-015-202 — fuente en la fila: «Matt / Ari (equipo de Eden)» *(fila compartida con: Ari (cofundador técnico/CTO de Kortex/Eden))* - `T07-b` *Idea:* El second brain como store and retrieve, "a search engine for your memories" — *Uso:* **De-tercero**. De tercero; […]
 
+#### Ari (cofundador técnico/CTO de Kortex/Eden) - *Grafías, atribución y notas:* Incluye la anécdota de los padres de Ari (U-015-188). - **Cómo la usa (síntesis):** **De-tercero** (conversación): persistencia sobre habilidad técnica, infraestructura propia como error, "until you try, giving up is meaningless"; la anécdota de sus padres ("anything's possible") la contrasta Dan con lo que le dijeron los suyos. - **Qué idea toma y cómo la usa, por bloque:** - `T07-a` *Idea:* Chat de IA con información visual — *Uso:* **De-tercero (ejemplo/referencia)**. herramienta del producto del autor — IDs: U-015-202 — fuente en la fila: «Matt / Ari (equipo de Eden)» *(fila compartida con: Matt (cofundador de producto de Kortex/Eden))* - `T13-b` *Idea:* Comparación de Eden con Google Drive — *Uso:* **De-tercero (ejemplo/referencia)**. ejemplo del autor sobre sistemas hiperespecíficos — IDs: U-010-325 — fuente en la fila: «Matt y Ari (cofundadores de Eden); Google Drive» *(fila compartida con: Matt (cofundador de producto de Kortex/Eden))* - `T18` *Idea:* Persistencia sobre habilidad […]
 
-#### John Hugh (cofundador de Stan)
+#### Christian Guzman (vía Dickie Bush) - **Qué idea toma:** Pasar de la audiencia online a un gimnasio físico - **Cómo la usa:** **De-tercero (ejemplo/referencia)**. Modelo citado por Dickie Bush para el shipyard - **IDs:** U-002-056 - **Bloque:** T12-b
 
-- *Grafías, atribución y notas:* Grafías: "John Hu" / "John Hugh". Algunas filas lo agrupan con Vitali como "cofundadores/fundadores de Stan". Adapta además la jerarquía de Maslow (U-004-021), el "old startup saying" de hacer cosas que no escalan (U-004-043), el caso Red Bull (U-004-010) y usa United Airlines/Comcast como contraejemplo.
-- **Cómo la usa (síntesis):** Mayormente **de-tercero** (entrevista): contenido que hace sentir, tangibilidad, "permissionless", success pipeline, "you are the niche", empezar con coaching y productizar, organización y contratación. El autor la **extiende** con "make tangibility tangible", resume "Stan as the offer", añade el ejemplo de su tribu temprana en Twitter y matiza un punto (U-004-061).
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T05-a` *Idea:* Repeticiones pequeñas diarias, primeras horas sin teléfono, "creative spark" — *Uso:* **De-tercero**. De-tercero — IDs: U-004-063 — fuente en la fila: «John Hugh (Stan)»
-  - `T05-b` *Idea:* Adicción a lo urgente, Slack y email; el modelo input/output de finanzas falla a escala creativa — *Uso:* **De-tercero**. De tercero (entrevista), apoyado en Naval — IDs: U-004-064 — fuente en la fila: «John Hugh (Stan)»
-  - `T09-a` *Idea:* El rendimiento depende de cuánto hace sentir el contenido; competir con memes; tangibilidad; "give give give" — *Uso:* **De-tercero**. de-tercero; Koe la extiende con "make tangibility tangible" — IDs: U-004-009, U-004-010, U-004-017
-  - `T09-b` *Idea:* Escribir para tu yo joven; la historia mínima es tensión y conflicto — *Uso:* **De-tercero**. de-tercero (invitado) — IDs: U-004-002, U-004-014
-  - `T10-a` *Idea:* Las redes como nuevo canal de marketing; interest graph y creadores con ~5,000 seguidores — *Uso:* **De-tercero**. De-tercero; pregunta de encuadre de Dan — IDs: U-004-018
-  - `T10-b` *Idea:* Crear es "permissionless"; success pipeline (show up and iterate); publicar a diario un año garantiza ver patrones; mindset and awareness gap; no todo seguidor vale lo mismo — *Uso:* **De-tercero**. de-tercero (entrevista); el autor añade el ejemplo de su tribu temprana en Twitter — IDs: U-004-001, U-004-003, U-004-004, U-004-021, U-004-022
-  - `T11` *Idea:* "You are the niche" vía autenticidad; "in wedge"; value proposition — *Uso:* **De-tercero**. De-tercero (invitado) — IDs: U-004-025, U-004-026, U-004-031
-  - `T12-a` *Idea:* Empezar con coaching o consultoría, "paid in the learning insights", detectar patrones en 5–10 clientes y productizar — *Uso:* **De-tercero**. de-tercero — IDs: U-004-032
-  - `T13-a` *Idea:* La audiencia te dice qué vender; involucrar pronto a los seguidores contra el perfeccionismo — *Uso:* **De-tercero**. De-tercero — IDs: U-004-005, U-004-037
-  - `T13-b` *Idea:* Caso del currículum de Goldman Sachs vendido a $10; SKUs y plantillas como "process in template" — *Uso:* **De-tercero**. de-tercero: caso ejemplar del micro product y formatos para escalar — IDs: U-008-153, U-015-155, U-004-033 — fuente en la fila: «John Hu / "John Hugh" (Stan)»
-  - `T16-b` *Idea:* La persistencia como único rasgo común de los exitosos; "nothing is impossible"; "your level of confidence defines your level of achievement" — *Uso:* **De-tercero**. De tercero (invitados) — IDs: U-004-086 — fuente en la fila: «John Hugh y Vitali (cofundadores de Stan)» *(fila compartida con: Vitali (cofundador de Stan))*
-  - `T17` *Idea:* Vender lo auténtico a la audiencia (la plantilla de currículum); agilidad organizativa — *Uso:* **De-tercero**. de-tercero: casos y testimonio del onboarding del autor — IDs: U-004-006, U-004-050 — fuente en la fila: «John Hugh y Vitali (fundadores de Stan)» *(fila compartida con: Vitali (cofundador de Stan))*
-  - `T18` *Idea:* Cuellos de botella, soporte humano, cuándo y cómo contratar (zones of genius, visualización), encontrar 10x como problema de marketing, ownership, qué significa escalar, curse of the individual contributor, build an organization, distribución por contenido, conocer quién eres, PMF por iteración, meta time, construir en persona, Pop Quiz — *Uso:* **De-tercero**. de-tercero (entrevista); Dan resume ("Stan as the offer") y matiza (U-004-061) — IDs: U-004-043, U-004-045, U-004-047, U-004-048, U-004-049, U-004-052, U-004-053, U-004-056, U-004-060, U-004-069, U-004-071, U-004-072, U-004-073, U-004-076, U-004-077, U-004-078, U-004-079, U-004-081, U-004-082, U-004-083, U-004-084
-- **IDs (todos):** U-004-001, U-004-002, U-004-003, U-004-004, U-004-005, U-004-006, U-004-009, U-004-010, U-004-014, U-004-017, U-004-018, U-004-021, U-004-022, U-004-025, U-004-026, U-004-031, U-004-032, U-004-033, U-004-037, U-004-043, U-004-045, U-004-047, U-004-048, U-004-049, U-004-050, U-004-052, U-004-053, U-004-056, U-004-060, U-004-063, U-004-064, U-004-069, U-004-071, U-004-072, U-004-073, U-004-076, U-004-077, U-004-078, U-004-079, U-004-081, U-004-082, U-004-083, U-004-084, U-004-086, U-008-153, U-015-155
-- **Bloques:** T05-a, T05-b, T09-a, T09-b, T10-a, T10-b, T11, T12-a, T13-a, T13-b, T16-b, T17, T18
+#### Dakota Robertson - **Qué idea toma:** Contexto donde Matt conoció a Dan - **Cómo la usa:** **De-tercero (ejemplo/referencia)**. Anécdota biográfica - **IDs:** U-015-185 - **Bloque:** T18
 
+#### Hamza - *Grafías, atribución y notas:* Aparece también en la fila colectiva de T11. - **Cómo la usa (síntesis):** **Ejemplo**: cuenta achiever, ramificarse sin dejar las redes, atraer en la etapa achiever y elevar dentro. - **Qué idea toma y cómo la usa, por bloque:** - `T02-a` *Idea:* Ejemplo de cuenta achiever en redes — *Uso:* **De-tercero (ejemplo/referencia)**. Ejemplo — IDs: U-021-092 - `T10-a` *Idea:* Libro espiritual leído en clave "red pill" — *Uso:* **De-tercero (ejemplo/referencia)**. Ejemplo de atraer en la etapa achiever y elevar dentro — IDs: U-021-093 — fuente en la fila: «Hamza; The Way of the Superior Man» *(fila compartida con: David Deida (The Way of the Superior Man))* - `T12-a` *Idea:* Ejemplo de ramificarse a nuevas oportunidades sin dejar las redes — *Uso:* **De-tercero (ejemplo/referencia)**. ejemplo — IDs: U-008-042 - **IDs (todos):** U-008-042, U-021-092, U-021-093 - **Bloques:** T02-a, T10-a, T12-a
 
-#### Vitali (cofundador de Stan)
+#### Ian (miembro temprano de Kortex) - **Qué idea toma:** Rediseño completo no solicitado; primeros features del editor - **Cómo la usa:** **De-tercero (ejemplo/referencia)**. Ejemplo de alta agencia (2024) y de la estructura compartimentada (2025) - **IDs:** U-006-176, U-015-189 - **Bloque:** T18
 
-- *Grafías, atribución y notas:* Grafías: "Vitali" / "Vitalii". Por él llega el caso de Conrad (Teachable) y la lectura del recorte de plantilla de Twitter como "first principle signal"; integra la cita del handbook de Valve.
-- **Cómo la usa (síntesis):** **De-tercero** (entrevista): historias de cualquier extensión, notar lo interesante, "people follow people", 10x person, core job to be done, founder-market fit. El autor **adopta explícitamente** el core job to be done para Kortex y conecta el 10x con Valve; en un caso Vitali releva una idea propia de Dan (la lección del 2 Hour Writer).
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T05-a` *Idea:* Definición de trabajo como progreso tangible; cita la lección del 2 Hour Writer — *Uso:* **De-tercero**. De-tercero (y relevo de una idea propia de Dan) — IDs: U-004-065, U-004-068 — fuente en la fila: «Vitali (Stan)»
-  - `T09-a` *Idea:* Una historia puede tener cualquier extensión; la concisión sale de la intención y la práctica — *Uso:* **De-tercero**. de-tercero (con la cita "if I had more time I would have written you a shorter letter", de autor no nombrado) — IDs: U-004-013 *(fila compartida con: "If I had more time I would have written you a shorter letter" (vía Vitali))*
-  - `T09-b` *Idea:* Notar lo interesante de tu vida; dos estructuras (first principles vs historia personal); foco en la audiencia — *Uso:* **De-tercero**. de-tercero (invitado) — IDs: U-004-007, U-004-012, U-004-016
-  - `T10-a` *Idea:* Vote of approval, find your group; consistencia que compone — *Uso:* **De-tercero**. De-tercero — IDs: U-004-019, U-004-023
-  - `T11` *Idea:* Nicho que se sienta como juego; "people follow people"; ~70% de expertise — *Uso:* **De-tercero**. De-tercero (invitado) — IDs: U-004-028, U-004-029
-  - `T16-b` *Idea:* La persistencia como único rasgo común de los exitosos; "nothing is impossible"; "your level of confidence defines your level of achievement" — *Uso:* **De-tercero**. De tercero (invitados) — IDs: U-004-086 — fuente en la fila: «John Hugh y Vitali (cofundadores de Stan)» *(fila compartida con: John Hugh (cofundador de Stan))*
-  - `T17` *Idea:* Vender lo auténtico a la audiencia (la plantilla de currículum); agilidad organizativa — *Uso:* **De-tercero**. de-tercero: casos y testimonio del onboarding del autor — IDs: U-004-006, U-004-050 — fuente en la fila: «John Hugh y Vitali (fundadores de Stan)» *(fila compartida con: John Hugh (cofundador de Stan))*
-  - `T18` *Idea:* 10x person, time to value, Creator first, core job to be done, death by complexity, presencia del cliente, usar el propio producto, 10 ingenieros, crecimiento no proporcional, cultura como acciones, confiar en que la gente se equivoque, alineación, founder-market fit, PMF por resultados del cliente — *Uso:* **De-tercero**. de-tercero (entrevista); Dan adopta explícitamente el core job to be done para Kortex y conecta el 10x con Valve — IDs: U-004-039, U-004-040, U-004-041, U-004-042, U-004-044, U-004-045, U-004-047, U-004-051, U-004-052, U-004-053, U-004-054, U-004-057, U-004-058, U-004-059, U-004-060, U-004-066, U-004-069, U-004-070, U-004-074, U-004-075, U-004-076, U-004-079, U-004-080, U-004-085
-- **IDs (todos):** U-004-006, U-004-007, U-004-012, U-004-013, U-004-016, U-004-019, U-004-023, U-004-028, U-004-029, U-004-039, U-004-040, U-004-041, U-004-042, U-004-044, U-004-045, U-004-047, U-004-050, U-004-051, U-004-052, U-004-053, U-004-054, U-004-057, U-004-058, U-004-059, U-004-060, U-004-065, U-004-066, U-004-068, U-004-069, U-004-070, U-004-074, U-004-075, U-004-076, U-004-079, U-004-080, U-004-085, U-004-086
-- **Bloques:** T05-a, T09-a, T09-b, T10-a, T11, T16-b, T17, T18
+#### Joey (socio de Dan) - **Qué idea toma:** Primera incursión en software con desarrollo externalizado - **Cómo la usa:** **De-tercero (ejemplo/referencia)**. Anécdota - **IDs:** U-015-186 - **Bloque:** T18
 
+#### Youtubers de fitness de la "golden era" - *Grafías, atribución y notas:* Nombres según las filas: Elliot Holz/Elliott Hulse, Chris Lavado (también "Chris Levado", "Chris Lovato"), Chris Jones, Scott Herman, Joe Delaney; Matt Ogus tiene entrada propia. - **Cómo la usa (síntesis):** **Adaptada**: modelo de su propio camino de creador (Hulse, estilo que imitó en su segundo canal); el creador como role model y la confianza en creadores sobre títulos. - **Qué idea toma y cómo la usa, por bloque:** - `T09-a` *Idea:* Conversaciones largas sin filtro como fuente de perspectiva — *Uso:* **De-tercero (ejemplo/referencia)**. ejemplos del valor del long form — IDs: U-002-001 — fuente en la fila: «Dickie Bush (anfitrión) y creadores de YouTube fitness (Matt Ogus, Chris Lovato, Joe Delaney), ciclista Abdul» *(fila compartida con: Dickie Bush; Matt Ogus)* - `T14-b` *Idea:* Le enseñaron el gimnasio y cambiaron su vida — *Uso:* **De-tercero (ejemplo/referencia)**. Modelo del creador como role model y de la confianza en creadores […]
 
-#### Matt (cofundador de producto de Kortex/Eden)
+#### Consejo común de nicho ("pick a niche, customer avatar") y drop servicing - **Qué idea toma:** Modelos de freelance para principiantes - **Cómo la usa:** **De-tercero**. De-tercero: siguió el consejo sin éxito por falta de habilidad - **IDs:** U-010-157, U-014-135 - **Bloque:** T17
 
-- *Grafías, atribución y notas:* Grafías del producto: Kortex / Cortex / Eden. Cita el lema "make something people want" (ver sección g) y compara Kortex con Notion, Obsidian, Claude y Google Drive (ver sección f).
-- **Cómo la usa (síntesis):** **De-tercero** (conversación): velocidad como única ventaja, plazos agresivos como stress test, rebuild, el second brain como "search engine for your memories". El autor **extrae su propia lección** (U-015-210), añade "curated space" y usa la conversación para respaldar "intelligence is not creativity".
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T07-a` *Idea:* Chat de IA con información visual — *Uso:* **De-tercero (ejemplo/referencia)**. herramienta del producto del autor — IDs: U-015-202 — fuente en la fila: «Matt / Ari (equipo de Eden)» *(fila compartida con: Ari (cofundador técnico/CTO de Kortex/Eden))*
-  - `T07-b` *Idea:* El second brain como store and retrieve, "a search engine for your memories" — *Uso:* **De-tercero**. De tercero; Koe añade "curated space" — IDs: U-015-199 — fuente en la fila: «Matt (cofundador/colaborador de Kortex)»
-  - `T13-b` *Idea:* Comparación de Eden con Google Drive — *Uso:* **De-tercero (ejemplo/referencia)**. ejemplo del autor sobre sistemas hiperespecíficos — IDs: U-010-325 — fuente en la fila: «Matt y Ari (cofundadores de Eden); Google Drive» *(fila compartida con: Ari (cofundador técnico/CTO de Kortex/Eden))*
-  - `T14-a` *Idea:* Conclusión compartida: la IA es inteligencia útil para aprender — *Uso:* **De-tercero (ejemplo/referencia)**. Conversación que respalda "intelligence is not creativity" — IDs: U-021-152 — fuente en la fila: «Matt (cofundador de Cortex)»
-  - `T18` *Idea:* Velocidad como única ventaja, equipo compartimentado vs full stack, plazos agresivos como stress test, rebuild en Japón, errores necesarios, grandes riesgos, visión de captura y búsqueda — *Uso:* **De-tercero**. de-tercero, en conversación con Dan, quien extrae su propia lección (U-015-210) — IDs: U-015-184, U-015-185, U-015-186, U-015-189, U-015-191, U-015-192, U-015-194, U-015-195, U-015-196, U-015-200, U-015-201, U-015-204, U-015-205, U-015-206, U-015-207, U-015-208, U-015-209, U-015-212
-- **IDs (todos):** U-010-325, U-015-184, U-015-185, U-015-186, U-015-189, U-015-191, U-015-192, U-015-194, U-015-195, U-015-196, U-015-199, U-015-200, U-015-201, U-015-202, U-015-204, U-015-205, U-015-206, U-015-207, U-015-208, U-015-209, U-015-212, U-021-152
-- **Bloques:** T07-a, T07-b, T13-b, T14-a, T18
+#### Claude; Intercom (agente Fin); centros de ayuda de Notion y Miro - **Qué idea toma:** IA para escribir y responder; estructura de centros de ayuda - **Cómo la usa:** **Propia**. Propia: proceso de 30 artículos en dos horas con preguntas aclaratorias y revisión humana; conexión de Eden con Claude - **IDs:** U-008-183, U-012-234 - **Bloque:** T17
 
+#### Educación online (MasterClass, Udemy, Skillshare, Reddit, freeCodeCamp, cursos de dropshipping y de Facebook ads) - **Cómo la usa (síntesis):** **De-tercero / instrumental**: fuentes para investigar ideas de producto y vías de su autoaprendizaje; Udemy como competencia que evitó con su audiencia. - **Qué idea toma y cómo la usa, por bloque:** - `T13-b` *Idea:* Fuentes para investigar ideas de producto — *Uso:* **De-tercero (ejemplo/referencia)**. herramientas de investigación — IDs: U-009-160 — fuente en la fila: «MasterClass, Udemy, Skillshare, Reddit» - `T17` *Idea:* Educación online asequible — *Uso:* **De-tercero**. de-tercero: vías de su autoaprendizaje; Udemy como competencia que evitó con su audiencia — IDs: U-010-001, U-002-109, U-001-124, U-007-107, U-015-132 — fuente en la fila: «Udemy, freeCodeCamp, cursos de dropshipping y de Facebook ads» - **IDs (todos):** U-001-124, U-002-109, U-007-107, U-009-160, U-010-001, U-015-132 - **Bloques:** T13-b, T17
 
-#### Ari (cofundador técnico/CTO de Kortex/Eden)
+#### Flora - **Qué idea toma:** App de canvas cuyo logo coincidía con el de Eden - **Cómo la usa:** **De-tercero (ejemplo/referencia)**. Anécdota; motivó el cambio de logo - **IDs:** U-015-207 - **Bloque:** T18
 
-- *Grafías, atribución y notas:* Incluye la anécdota de los padres de Ari (U-015-188).
-- **Cómo la usa (síntesis):** **De-tercero** (conversación): persistencia sobre habilidad técnica, infraestructura propia como error, "until you try, giving up is meaningless"; la anécdota de sus padres ("anything's possible") la contrasta Dan con lo que le dijeron los suyos.
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T07-a` *Idea:* Chat de IA con información visual — *Uso:* **De-tercero (ejemplo/referencia)**. herramienta del producto del autor — IDs: U-015-202 — fuente en la fila: «Matt / Ari (equipo de Eden)» *(fila compartida con: Matt (cofundador de producto de Kortex/Eden))*
-  - `T13-b` *Idea:* Comparación de Eden con Google Drive — *Uso:* **De-tercero (ejemplo/referencia)**. ejemplo del autor sobre sistemas hiperespecíficos — IDs: U-010-325 — fuente en la fila: «Matt y Ari (cofundadores de Eden); Google Drive» *(fila compartida con: Matt (cofundador de producto de Kortex/Eden))*
-  - `T18` *Idea:* Persistencia sobre habilidad técnica, infraestructura propia como error, rebuild con proveedores externos, "until you try, giving up is meaningless" — *Uso:* **De-tercero**. de-tercero — IDs: U-015-187, U-015-188, U-015-194, U-015-196, U-015-208, U-015-212
-  - `T18` *Idea:* "Anything's possible"; vender un palillo a suficiente gente — *Uso:* **De-tercero**. de-tercero (anécdota); Dan contrasta con lo que le dijeron sus padres — IDs: U-015-188 — fuente en la fila: «Padres de Ari»
-- **IDs (todos):** U-010-325, U-015-187, U-015-188, U-015-194, U-015-196, U-015-202, U-015-208, U-015-212
-- **Bloques:** T07-a, T13-b, T18
+#### Google Drive, Miro, Poppy, Frame.io - **Qué idea toma:** Herramientas cuyo equivalente integra Eden - **Cómo la usa:** **De-tercero (ejemplo/referencia)**. Referencia de alcance (Matt) y de ambición ("better than Google Drive") - **IDs:** U-015-204, U-015-208 - **Bloque:** T18
 
+#### Herramientas de notas, lectura e IA (Notion, Obsidian, Roam Research, Readwise, Shortform, MyMind, Claude, Claude Code, ChatGPT, Gemini, Eden/Kortex, Z-Library) - **Cómo la usa (síntesis):** **Instrumental** en sus flujos de lectura y second subconscious; Roam como "preparative research"; Notion/Obsidian como referencia que Cortex mejora "a bit"; comparación de mercado usada por Matt y Dan para diagnosticar Kortex. - **Qué idea toma y cómo la usa, por bloque:** - `T07-a` *Idea:* Herramientas de resumen, captura, IA y lectura — *Uso:* **Propia**. herramientas en sus flujos (algunas propias, contexto promocional) — IDs: U-011-211, U-014-108, U-021-221, U-021-222, U-021-156, U-012-157, U-021-155 — fuente en la fila: «Shortform; Readwise; Obsidian; Claude; Gemini; MyMind; Eden/Kortex; Z-Library» - `T07-b` *Idea:* Herramientas de subrayado, resúmenes y gestión de conocimiento — *Uso:* **De-tercero (ejemplo/referencia)**. Instrumentales en sus flujos de lectura y second subconscious — IDs: U-020-150, U-027-164, U-021-219 — fuente en la fila: «Readwise, Shortform, Obsidian, Claude Code, MyMind» - `T17` *Idea:* Herramientas de notas y segundo cerebro […]
 
-#### Christian Guzman (vía Dickie Bush)
+#### Twitter (recorte de ~90 % de plantilla) - **Qué idea toma:** Evidencia de que las tecnológicas están sobredimensionadas - **Cómo la usa:** **Adaptada**. Adaptada por Vitali como "first principle signal" - **IDs:** U-004-039 - **Bloque:** T18
 
-- **Qué idea toma:** Pasar de la audiencia online a un gimnasio físico
-- **Cómo la usa:** **De-tercero (ejemplo/referencia)**. Modelo citado por Dickie Bush para el shipyard
-- **IDs:** U-002-056
-- **Bloque:** T12-b
+#### Valve (employee handbook) - **Qué idea toma:** Contratar solo personas en forma de T - **Cómo la usa:** **Adaptada**. Adaptada: Dan la cita y Vitali la integra a su definición de 10x - **IDs:** U-004-059 - **Bloque:** T18 ## (g) Citas sin atribución o de atribución dudosa
 
-
-#### Dakota Robertson
-
-- **Qué idea toma:** Contexto donde Matt conoció a Dan
-- **Cómo la usa:** **De-tercero (ejemplo/referencia)**. Anécdota biográfica
-- **IDs:** U-015-185
-- **Bloque:** T18
-
-
-#### Hamza
-
-- *Grafías, atribución y notas:* Aparece también en la fila colectiva de T11.
-- **Cómo la usa (síntesis):** **Ejemplo**: cuenta achiever, ramificarse sin dejar las redes, atraer en la etapa achiever y elevar dentro.
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T02-a` *Idea:* Ejemplo de cuenta achiever en redes — *Uso:* **De-tercero (ejemplo/referencia)**. Ejemplo — IDs: U-021-092
-  - `T10-a` *Idea:* Libro espiritual leído en clave "red pill" — *Uso:* **De-tercero (ejemplo/referencia)**. Ejemplo de atraer en la etapa achiever y elevar dentro — IDs: U-021-093 — fuente en la fila: «Hamza; The Way of the Superior Man» *(fila compartida con: David Deida (The Way of the Superior Man))*
-  - `T12-a` *Idea:* Ejemplo de ramificarse a nuevas oportunidades sin dejar las redes — *Uso:* **De-tercero (ejemplo/referencia)**. ejemplo — IDs: U-008-042
-- **IDs (todos):** U-008-042, U-021-092, U-021-093
-- **Bloques:** T02-a, T10-a, T12-a
-
-
-#### Ian (miembro temprano de Kortex)
-
-- **Qué idea toma:** Rediseño completo no solicitado; primeros features del editor
-- **Cómo la usa:** **De-tercero (ejemplo/referencia)**. Ejemplo de alta agencia (2024) y de la estructura compartimentada (2025)
-- **IDs:** U-006-176, U-015-189
-- **Bloque:** T18
-
-
-#### Joey (socio de Dan)
-
-- **Qué idea toma:** Primera incursión en software con desarrollo externalizado
-- **Cómo la usa:** **De-tercero (ejemplo/referencia)**. Anécdota
-- **IDs:** U-015-186
-- **Bloque:** T18
-
-
-#### Youtubers de fitness de la "golden era"
-
-- *Grafías, atribución y notas:* Nombres según las filas: Elliot Holz/Elliott Hulse, Chris Lavado (también "Chris Levado", "Chris Lovato"), Chris Jones, Scott Herman, Joe Delaney; Matt Ogus tiene entrada propia.
-- **Cómo la usa (síntesis):** **Adaptada**: modelo de su propio camino de creador (Hulse, estilo que imitó en su segundo canal); el creador como role model y la confianza en creadores sobre títulos.
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T09-a` *Idea:* Conversaciones largas sin filtro como fuente de perspectiva — *Uso:* **De-tercero (ejemplo/referencia)**. ejemplos del valor del long form — IDs: U-002-001 — fuente en la fila: «Dickie Bush (anfitrión) y creadores de YouTube fitness (Matt Ogus, Chris Lovato, Joe Delaney), ciclista Abdul» *(fila compartida con: Dickie Bush; Matt Ogus)*
-  - `T14-b` *Idea:* Le enseñaron el gimnasio y cambiaron su vida — *Uso:* **De-tercero (ejemplo/referencia)**. Modelo del creador como role model y de la confianza en creadores sobre títulos — IDs: U-015-038, U-001-046 — fuente en la fila: «Primeros YouTubers de fitness»
-  - `T17` *Idea:* Creadores que impactaban a escala haciendo lo que amaban; estilo de "harsh truths" en el garaje — *Uso:* **Adaptada**. adaptada: modelo de su propio camino de creador; Hulse como estilo que imitó en su segundo canal — IDs: U-008-078, U-018-116, U-007-101 — fuente en la fila: «Youtubers de fitness de la "golden era" (Elliot Holz/Elliott Hulse, Chris Lavado, Chris Jones, Scott Herman)»
-- **IDs (todos):** U-001-046, U-002-001, U-007-101, U-008-078, U-015-038, U-018-116
-- **Bloques:** T09-a, T14-b, T17
-
-
-#### Consejo común de nicho ("pick a niche, customer avatar") y drop servicing
-
-- **Qué idea toma:** Modelos de freelance para principiantes
-- **Cómo la usa:** **De-tercero**. De-tercero: siguió el consejo sin éxito por falta de habilidad
-- **IDs:** U-010-157, U-014-135
-- **Bloque:** T17
-
-
-#### Claude; Intercom (agente Fin); centros de ayuda de Notion y Miro
-
-- **Qué idea toma:** IA para escribir y responder; estructura de centros de ayuda
-- **Cómo la usa:** **Propia**. Propia: proceso de 30 artículos en dos horas con preguntas aclaratorias y revisión humana; conexión de Eden con Claude
-- **IDs:** U-008-183, U-012-234
-- **Bloque:** T17
-
-
-#### Educación online (MasterClass, Udemy, Skillshare, Reddit, freeCodeCamp, cursos de dropshipping y de Facebook ads)
-
-- **Cómo la usa (síntesis):** **De-tercero / instrumental**: fuentes para investigar ideas de producto y vías de su autoaprendizaje; Udemy como competencia que evitó con su audiencia.
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T13-b` *Idea:* Fuentes para investigar ideas de producto — *Uso:* **De-tercero (ejemplo/referencia)**. herramientas de investigación — IDs: U-009-160 — fuente en la fila: «MasterClass, Udemy, Skillshare, Reddit»
-  - `T17` *Idea:* Educación online asequible — *Uso:* **De-tercero**. de-tercero: vías de su autoaprendizaje; Udemy como competencia que evitó con su audiencia — IDs: U-010-001, U-002-109, U-001-124, U-007-107, U-015-132 — fuente en la fila: «Udemy, freeCodeCamp, cursos de dropshipping y de Facebook ads»
-- **IDs (todos):** U-001-124, U-002-109, U-007-107, U-009-160, U-010-001, U-015-132
-- **Bloques:** T13-b, T17
-
-
-#### Flora
-
-- **Qué idea toma:** App de canvas cuyo logo coincidía con el de Eden
-- **Cómo la usa:** **De-tercero (ejemplo/referencia)**. Anécdota; motivó el cambio de logo
-- **IDs:** U-015-207
-- **Bloque:** T18
-
-
-#### Google Drive, Miro, Poppy, Frame.io
-
-- **Qué idea toma:** Herramientas cuyo equivalente integra Eden
-- **Cómo la usa:** **De-tercero (ejemplo/referencia)**. Referencia de alcance (Matt) y de ambición ("better than Google Drive")
-- **IDs:** U-015-204, U-015-208
-- **Bloque:** T18
-
-
-#### Herramientas de notas, lectura e IA (Notion, Obsidian, Roam Research, Readwise, Shortform, MyMind, Claude, Claude Code, ChatGPT, Gemini, Eden/Kortex, Z-Library)
-
-- **Cómo la usa (síntesis):** **Instrumental** en sus flujos de lectura y second subconscious; Roam como "preparative research"; Notion/Obsidian como referencia que Cortex mejora "a bit"; comparación de mercado usada por Matt y Dan para diagnosticar Kortex.
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T07-a` *Idea:* Herramientas de resumen, captura, IA y lectura — *Uso:* **Propia**. herramientas en sus flujos (algunas propias, contexto promocional) — IDs: U-011-211, U-014-108, U-021-221, U-021-222, U-021-156, U-012-157, U-021-155 — fuente en la fila: «Shortform; Readwise; Obsidian; Claude; Gemini; MyMind; Eden/Kortex; Z-Library»
-  - `T07-b` *Idea:* Herramientas de subrayado, resúmenes y gestión de conocimiento — *Uso:* **De-tercero (ejemplo/referencia)**. Instrumentales en sus flujos de lectura y second subconscious — IDs: U-020-150, U-027-164, U-021-219 — fuente en la fila: «Readwise, Shortform, Obsidian, Claude Code, MyMind»
-  - `T17` *Idea:* Herramientas de notas y segundo cerebro — *Uso:* **Adaptada**. adaptada: Roam como "preparative research"; Notion/Obsidian como referencia que Cortex mejora "a bit" — IDs: U-021-213, U-009-237 — fuente en la fila: «Roam Research, Notion, Obsidian»
-  - `T18` *Idea:* Referencias de mercado: Notion tardó ~4 años en el modo offline; Kortex como "Obsidian con un chat de IA"; el chat multi-modelo ya existe en Notion o Claude — *Uso:* **De-tercero (ejemplo/referencia)**. comparación usada por Matt y Dan para diagnosticar el producto — IDs: U-015-193, U-015-194 — fuente en la fila: «Notion, Obsidian, Claude, ChatGPT, Gemini»
-- **IDs (todos):** U-009-237, U-011-211, U-012-157, U-014-108, U-015-193, U-015-194, U-020-150, U-021-155, U-021-156, U-021-213, U-021-219, U-021-221, U-021-222, U-027-164
-- **Bloques:** T07-a, T07-b, T17, T18
-
-
-#### Twitter (recorte de ~90 % de plantilla)
-
-- **Qué idea toma:** Evidencia de que las tecnológicas están sobredimensionadas
-- **Cómo la usa:** **Adaptada**. Adaptada por Vitali como "first principle signal"
-- **IDs:** U-004-039
-- **Bloque:** T18
-
-
-#### Valve (employee handbook)
-
-- **Qué idea toma:** Contratar solo personas en forma de T
-- **Cómo la usa:** **Adaptada**. Adaptada: Dan la cita y Vitali la integra a su definición de 10x
-- **IDs:** U-004-059
-- **Bloque:** T18
-
-## (g) Citas sin atribución o de atribución dudosa
-
-
-#### "Make something people want" (lema citado por Matt)
-
-- **Qué idea toma:** La misión de una startup temprana es encontrar PMF
-- **Cómo la usa:** **De-tercero**. De-tercero, citado entre comillas como definición del PMF
-- **IDs:** U-015-195
-- **Bloque:** T18
-- **Contexto complementario:** Lema asociado a Paul Graham / Y Combinator.
-
+#### "Make something people want" (lema citado por Matt) - **Qué idea toma:** La misión de una startup temprana es encontrar PMF - **Cómo la usa:** **De-tercero**. De-tercero, citado entre comillas como definición del PMF - **IDs:** U-015-195 - **Bloque:** T18 - **Contexto complementario:** Lema asociado a Paul Graham / Y Combinator.

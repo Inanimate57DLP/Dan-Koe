@@ -3317,152 +3317,26 @@ Fuente: `lexico-todo.md`, filas 2562–3389 (términos que empiezan por s–z, i
 
 # ANEXO C — Fuentes de terceros relevantes (extracto de `_libro/03d_fuentes-citadas.md`)
 
-#### Carl Jung
+#### Carl Jung - *Grafías, atribución y notas:* La segunda cita de U-010-179 está parafraseada "con dudas". - **Cómo la usa (síntesis):** **De-tercero** (cita del inconsciente y el destino, cita del árbol y el infierno) para justificar reprogramar el inconsciente y la anti-visión. **Adaptada**: el shadow work se cumple "sentándose con el aburrimiento". La alquimia junguiana, marco recomendado. - **Qué idea toma y cómo la usa, por bloque:** - `T01-b` *Idea:* "Until you make the unconscious conscious, it will direct your life and you will call it fate" — *Uso:* **De-tercero**. de-tercero: justifica la tarea de reprogramar el inconsciente — IDs: U-023-202 - `T03-a` *Idea:* "No tree can grow to Heaven unless its roots reach down to Hell"; y (parafraseado, con dudas) "if you don't make the unconscious conscious, it will determine your fate" — *Uso:* **De-tercero**. De-tercero; apoyo de la anti-visión y de volver conscientes las metas — IDs: U-015-058, U-010-179 - `T06` *Idea:* Shadow work: confrontar los aspectos […]
 
-- *Grafías, atribución y notas:* La segunda cita de U-010-179 está parafraseada "con dudas".
-- **Cómo la usa (síntesis):** **De-tercero** (cita del inconsciente y el destino, cita del árbol y el infierno) para justificar reprogramar el inconsciente y la anti-visión. **Adaptada**: el shadow work se cumple "sentándose con el aburrimiento". La alquimia junguiana, marco recomendado.
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T01-b` *Idea:* "Until you make the unconscious conscious, it will direct your life and you will call it fate" — *Uso:* **De-tercero**. de-tercero: justifica la tarea de reprogramar el inconsciente — IDs: U-023-202
-  - `T03-a` *Idea:* "No tree can grow to Heaven unless its roots reach down to Hell"; y (parafraseado, con dudas) "if you don't make the unconscious conscious, it will determine your fate" — *Uso:* **De-tercero**. De-tercero; apoyo de la anti-visión y de volver conscientes las metas — IDs: U-015-058, U-010-179
-  - `T06` *Idea:* Shadow work: confrontar los aspectos incómodos que evitamos — *Uso:* **Adaptada**. Adaptada: sentarse con el aburrimiento "hace exactamente esto" — IDs: U-018-056, U-022-217
-  - `T07-a` *Idea:* Proceso psicológico y espiritual de transformación — *Uso:* **De-tercero (ejemplo/referencia)**. marco recomendado para entender el cambio profundo — IDs: U-022-152 — fuente en la fila: «Carl Jung (alquimia junguiana)»
-- **IDs (todos):** U-010-179, U-015-058, U-018-056, U-022-152, U-022-217, U-023-202
-- **Bloques:** T01-b, T03-a, T06, T07-a
+#### Malcolm X - **Qué idea toma:** "That which you don't hate you tolerate" - **Cómo la usa:** **De-tercero**. De-tercero; apoyo de la anti-visión - **IDs:** U-015-058 - **Bloque:** T03-a
 
+#### Robert Greene - **Cómo la usa (síntesis):** **Adaptada**: la visión es tu life's task (equivalente de life's work). Ejemplo de idea flow (100 libros antes de escribir uno). - **Qué idea toma y cómo la usa, por bloque:** - `T03-b` *Idea:* Descubrir tu "life's task" — *Uso:* **Adaptada**. Adaptada: la visión es tu life's task; equivalente de life's work — IDs: U-023-183, U-006-161 - `T09-a` *Idea:* Lee 100 libros antes de escribir uno — *Uso:* **De-tercero (ejemplo/referencia)**. ejemplo de idea flow — IDs: U-018-163 - **IDs (todos):** U-006-161, U-018-163, U-023-183 - **Bloques:** T03-b, T09-a
 
-#### Malcolm X
+#### Steven Kotler - **Cómo la usa (síntesis):** **Adaptada** de forma progresiva: los cinco impulsores intrínsecos se citan primero con duda (2022), luego como marco propio "de arriba abajo" (maestría ← obra de vida, autonomía ← emprendimiento...) y finalmente sin atribución como "drivers of the flow state". El flow como cóctel neuroquímico se vincula a meta futura + reglas del presente, aclarando que Kotler "doesn't say this directly". El MTP se vuelve "la visión es tu MTP". - **Qué idea toma y cómo la usa, por bloque:** - `T02-a` *Idea:* Condiciones del flow — *Uso:* **De-tercero (ejemplo/referencia)**. Mencionado junto a Csikszentmihalyi como referencia — IDs: U-023-216 - `T03-a` *Idea:* "Motivation gets you into the game, learning keeps you playing, creativity is how you steer, flow is how you turbo boost the results" — *Uso:* **De-tercero**. De-tercero; abre el paso "become above average" — IDs: U-007-178, U-001-115 - `T03-a` *Idea:* El flow como cóctel neuroquímico — *Uso:* **Adaptada**. Adaptada: el autor […]
 
-- **Qué idea toma:** "That which you don't hate you tolerate"
-- **Cómo la usa:** **De-tercero**. De-tercero; apoyo de la anti-visión
-- **IDs:** U-015-058
-- **Bloque:** T03-a
+#### *The Art of Focus* (libro del propio autor) - *Grafías, atribución y notas:* Autocita. - **Cómo la usa (síntesis):** **Propia (autocita)**: default path, educación de esclavos, "Uncommon Sense of the rain cycle", "the ability to earn with your intelligence...", "life unfolds in chapters and phases". - **Qué idea toma y cómo la usa, por bloque:** - `T01-a` *Idea:* Default path, educación de esclavos, "Uncommon Sense of the rain cycle" — *Uso:* **Propia**. propia (autocita) — IDs: U-017-134, U-017-136, U-006-076, U-008-113 - `T15` *Idea:* "The ability to earn with your intelligence not your time labor or looks…" — *Uso:* **Propia**. Propia: autocita — IDs: U-008-084, U-017-182 — fuente en la fila: «The Art of Focus (libro del autor)» - `T16-a` *Idea:* "Life unfolds in chapters and phases" — *Uso:* **De-tercero (ejemplo/referencia)**. Autocita — IDs: U-026-096 - **IDs (todos):** U-006-076, U-008-084, U-008-113, U-017-134, U-017-136, U-017-182, U-026-096 - **Bloques:** T01-a, T15, T16-a
 
+#### Diccionario y etimología - **Cómo la usa (síntesis):** **Propia**: definiciones de "slave", "force", "agency" e "intentio" como punto de partida para redefinir wage slavery, agency e intención. - **Qué idea toma y cómo la usa, por bloque:** - `T03-b` *Idea:* Intención = estirarse, tensarse hacia algo — *Uso:* **Propia**. Propia: base del concepto de intención — IDs: U-026-004, U-026-072, U-020-132, U-018-122 — fuente en la fila: «Etimología latina (intentio)» - `T15` *Idea:* Definiciones léxicas — *Uso:* **Propia**. Propia: las usa como punto de partida para redefinir wage slavery y agency — IDs: U-016-184, U-016-185, U-013-189 — fuente en la fila: «Diccionario (definiciones de "slave", "force", "agency")» - **IDs (todos):** U-013-189, U-016-184, U-016-185, U-018-122, U-020-132, U-026-004, U-026-072 - **Bloques:** T03-b, T15
 
-#### Robert Greene
+#### Ley de Parkinson - *Grafías, atribución y notas:* El autor de la ley no se nombra. - **Cómo la usa (síntesis):** **Adaptada**: "Parkinson's law, but for goals" (la mente se expande al tamaño de la meta); base del pseudo-deadline de 4 horas, del batching y del gimnasio como corte; razón del estrés táctico; la supera con Koe's Law ("your work expands but your income doesn't"). Sahil Bloom la usa para el batching. - **Qué idea toma y cómo la usa, por bloque:** - `T03-a` *Idea:* El trabajo se expande para llenar el tiempo disponible — *Uso:* **Adaptada**. Adaptada: "your mind expands to fill the goals set for achievement... Parkinson's law, but for goals" — IDs: U-025-186 - `T03-b` *Idea:* El trabajo se expande para llenar el tiempo disponible (nombrada, no explicada) — *Uso:* **Adaptada**. Adaptada: la mente se expande para llenar el tamaño de la meta — IDs: U-025-187 - `T05-b` *Idea:* "Work expands to fill the time allotted […]
 
-- **Cómo la usa (síntesis):** **Adaptada**: la visión es tu life's task (equivalente de life's work). Ejemplo de idea flow (100 libros antes de escribir uno).
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T03-b` *Idea:* Descubrir tu "life's task" — *Uso:* **Adaptada**. Adaptada: la visión es tu life's task; equivalente de life's work — IDs: U-023-183, U-006-161
-  - `T09-a` *Idea:* Lee 100 libros antes de escribir uno — *Uso:* **De-tercero (ejemplo/referencia)**. ejemplo de idea flow — IDs: U-018-163
-- **IDs (todos):** U-006-161, U-018-163, U-023-183
-- **Bloques:** T03-b, T09-a
+#### Psicología sin fuente nombrada (sesgo de negatividad, necesidades, dopamina de la persecución) - **Qué idea toma:** Es más fácil registrar lo negativo; primero necesidades básicas, luego de autorrealización; la dopamina sube más al perseguir que al lograr - **Cómo la usa:** **Adaptada**. Adaptadas sin fuente nombrada - **IDs:** U-012-161, U-016-233, U-024-022 - **Bloque:** T03-a
 
+#### Alex Hormozi - *Grafías, atribución y notas:* U-002-016 y U-002-062: citado vía Dickie Bush ("ignorance tax"). - **Cómo la usa (síntesis):** Mixta. Sobre todo **ejemplo y contraejemplo**: contenido de la etapa achiever, clips con captions (las ideas importan más que el formato), empujar volumen (frente a la escasez), trabajar 12 horas como identidad, direct response como habilidad que lo hizo rico. **Adaptada**: "sell to the rich" contrastado con venderle al yo pasado; "it's easier to make a million than $100,000" en la voz del autor; su PDF de ofertas se convierte en prompts. **De-tercero + propia**: estrategia como asignación de recursos limitados (ejecución macro/micro). - **Qué idea toma y cómo la usa, por bloque:** - `T02-a` *Idea:* "Gather a ton of evidence for that person"; también ejemplo de contenido de etapa achiever — *Uso:* **De-tercero (ejemplo/referencia)**. Citado por Dickie Bush; ejemplo en las etapas — IDs: U-002-016, U-021-092, U-022-017 - `T03-b` *Idea:* Reutilizaron el título "How to get ahead […]
 
-#### Steven Kotler
+#### Chris Bumstead - *Grafías, atribución y notas:* Grafía: "Chris Bromstad" (U-007-174). - **Cómo la usa (síntesis):** **Ejemplo**: obsesión genuina que puede enseñarse; justificar lo que haces mejor que tus pares. - **Qué idea toma y cómo la usa, por bloque:** - `T03-a` *Idea:* Renunció a una vida normal por una misión con su habilidad — *Uso:* **De-tercero**. Ejemplo de tercero como prueba de obsesión genuina — IDs: U-007-174 — fuente en la fila: «Chris Bumstead ("Chris Bromstad")» - `T12-b` *Idea:* Ejemplo de justificar lo que haces mejor que tus pares — *Uso:* **De-tercero (ejemplo/referencia)**. citado para la segunda pregunta de ideas de producto (detalle fuera del bloque) — IDs: U-007-173 - `T13-b` *Idea:* Su obsesión (renunciar a la vida normal) como ejemplo de algo que se puede enseñar — *Uso:* **De-tercero (ejemplo/referencia)**. ejemplo — IDs: U-001-111 - **IDs (todos):** U-001-111, U-007-173, U-007-174 - **Bloques:** T03-a, T12-b, T13-b
 
-- **Cómo la usa (síntesis):** **Adaptada** de forma progresiva: los cinco impulsores intrínsecos se citan primero con duda (2022), luego como marco propio "de arriba abajo" (maestría ← obra de vida, autonomía ← emprendimiento...) y finalmente sin atribución como "drivers of the flow state". El flow como cóctel neuroquímico se vincula a meta futura + reglas del presente, aclarando que Kotler "doesn't say this directly". El MTP se vuelve "la visión es tu MTP".
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T02-a` *Idea:* Condiciones del flow — *Uso:* **De-tercero (ejemplo/referencia)**. Mencionado junto a Csikszentmihalyi como referencia — IDs: U-023-216
-  - `T03-a` *Idea:* "Motivation gets you into the game, learning keeps you playing, creativity is how you steer, flow is how you turbo boost the results" — *Uso:* **De-tercero**. De-tercero; abre el paso "become above average" — IDs: U-007-178, U-001-115
-  - `T03-a` *Idea:* El flow como cóctel neuroquímico — *Uso:* **Adaptada**. Adaptada: el autor lo vincula a la combinación meta futura (dopamina) + reglas del aquí y ahora (oxitocina, serotonina), aclarando que Kotler "doesn't say this directly" — IDs: U-023-241, U-003-036
-  - `T03-a` *Idea:* Cinco impulsores intrínsecos del flow (curiosidad, pasión, propósito, autonomía, maestría) y su neuroquímica — *Uso:* **Adaptada**. Adaptada: primero cita con duda, luego marco propio "de arriba abajo" (maestría ← obra de vida, autonomía ← emprendimiento, propósito ← productos, pasión ← conectar puntos, curiosidad = combustible) — IDs: U-020-197, U-023-176, U-023-177, U-005-137, U-019-036 — fuente en la fila: «Steven Kotler, *The Art of Impossible*»
-  - `T03-b` *Idea:* Cinco impulsores intrínsecos (curiosidad, pasión, propósito, autonomía, maestría) — *Uso:* **De-tercero** + **Adaptada**. De-tercero en 2022 ("bonus points" para la visión; los tres primeros "bake in inspiration"); adaptada después como cóctel neuroquímico de la obsesión y como "drivers of the flow state", sin atribución — IDs: U-014-015, U-026-036, U-019-152, U-012-206
-  - `T03-b` *Idea:* Massively transformative purpose (MTP) como clave para lograr lo imposible — *Uso:* **Adaptada**. Adaptada: la visión es tu MTP; una visión grande no se alcanza trabajando para otro — IDs: U-023-183, U-006-161
-  - `T07-a` *Idea:* Lograr lo imposible (práctico y científico) — *Uso:* **De-tercero (ejemplo/referencia)**. lista de relecturas; The Art of Focus como síntesis — IDs: U-020-146 — fuente en la fila: «Steven Kotler, The Art of Impossible»
-- **IDs (todos):** U-001-115, U-003-036, U-005-137, U-006-161, U-007-178, U-012-206, U-014-015, U-019-036, U-019-152, U-020-146, U-020-197, U-023-176, U-023-177, U-023-183, U-023-216, U-023-241, U-026-036
-- **Bloques:** T02-a, T03-a, T03-b, T07-a
+#### Mark Manson - *Grafías, atribución y notas:* Texto citado: "The Rise and Fall of Ken Wilber". - **Cómo la usa (síntesis):** **De-tercero**: "even the most conscious beings are still human" es base de "the medium and the message are separate". **Ejemplo**: libros que eximen de optimizar el contenido; título validado reutilizado. - **Qué idea toma y cómo la usa, por bloque:** - `T02-b` *Idea:* "Even the most conscious beings are still human, we still have egos" — *Uso:* **De-tercero (ejemplo/referencia)**. Base del principio "the medium and the message are separate" — IDs: U-023-045, U-003-118 — fuente en la fila: «Mark Manson ("The Rise and Fall of Ken Wilber")» - `T03-b` *Idea:* Reutilizaron el título "How to get ahead of 99% of people" — *Uso:* **De-tercero (ejemplo/referencia)**. Caso de idea validada; Manson con una visión distinta del tema — IDs: U-004-105 — fuente en la fila: «Mark Manson, Alex Hormozi, Tom Bilyeu» *(fila compartida con: Alex Hormozi)* - `T10-a` *Idea:* […]
 
-
-#### *The Art of Focus* (libro del propio autor)
-
-- *Grafías, atribución y notas:* Autocita.
-- **Cómo la usa (síntesis):** **Propia (autocita)**: default path, educación de esclavos, "Uncommon Sense of the rain cycle", "the ability to earn with your intelligence...", "life unfolds in chapters and phases".
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T01-a` *Idea:* Default path, educación de esclavos, "Uncommon Sense of the rain cycle" — *Uso:* **Propia**. propia (autocita) — IDs: U-017-134, U-017-136, U-006-076, U-008-113
-  - `T15` *Idea:* "The ability to earn with your intelligence not your time labor or looks…" — *Uso:* **Propia**. Propia: autocita — IDs: U-008-084, U-017-182 — fuente en la fila: «The Art of Focus (libro del autor)»
-  - `T16-a` *Idea:* "Life unfolds in chapters and phases" — *Uso:* **De-tercero (ejemplo/referencia)**. Autocita — IDs: U-026-096
-- **IDs (todos):** U-006-076, U-008-084, U-008-113, U-017-134, U-017-136, U-017-182, U-026-096
-- **Bloques:** T01-a, T15, T16-a
-
-
-#### Diccionario y etimología
-
-- **Cómo la usa (síntesis):** **Propia**: definiciones de "slave", "force", "agency" e "intentio" como punto de partida para redefinir wage slavery, agency e intención.
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T03-b` *Idea:* Intención = estirarse, tensarse hacia algo — *Uso:* **Propia**. Propia: base del concepto de intención — IDs: U-026-004, U-026-072, U-020-132, U-018-122 — fuente en la fila: «Etimología latina (intentio)»
-  - `T15` *Idea:* Definiciones léxicas — *Uso:* **Propia**. Propia: las usa como punto de partida para redefinir wage slavery y agency — IDs: U-016-184, U-016-185, U-013-189 — fuente en la fila: «Diccionario (definiciones de "slave", "force", "agency")»
-- **IDs (todos):** U-013-189, U-016-184, U-016-185, U-018-122, U-020-132, U-026-004, U-026-072
-- **Bloques:** T03-b, T15
-
-
-#### Ley de Parkinson
-
-- *Grafías, atribución y notas:* El autor de la ley no se nombra.
-- **Cómo la usa (síntesis):** **Adaptada**: "Parkinson's law, but for goals" (la mente se expande al tamaño de la meta); base del pseudo-deadline de 4 horas, del batching y del gimnasio como corte; razón del estrés táctico; la supera con Koe's Law ("your work expands but your income doesn't"). Sahil Bloom la usa para el batching.
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T03-a` *Idea:* El trabajo se expande para llenar el tiempo disponible — *Uso:* **Adaptada**. Adaptada: "your mind expands to fill the goals set for achievement... Parkinson's law, but for goals" — IDs: U-025-186
-  - `T03-b` *Idea:* El trabajo se expande para llenar el tiempo disponible (nombrada, no explicada) — *Uso:* **Adaptada**. Adaptada: la mente se expande para llenar el tamaño de la meta — IDs: U-025-187
-  - `T05-b` *Idea:* "Work expands to fill the time allotted for its completion" — *Uso:* **Adaptada**. Adaptada: base del pseudo-deadline de 4 horas, del batching y del gimnasio como corte; la supera con Koe's Law ("your work expands but your income doesn't") y la acerca a su "tactical stress" — IDs: U-017-019, U-003-071, U-005-072, U-019-076, U-026-206, U-019-148, U-003-224, U-008-123, U-006-143 — fuente en la fila: «Parkinson's law (el autor de la ley no se nombra)»
-  - `T05-b` *Idea:* Batching con Parkinson's law; la estructura no es inautenticidad, "your map does not match his terrain" (Bryan Johnson) — *Uso:* **De-tercero**. De tercero (conversación) — IDs: U-005-072, U-005-092 — fuente en la fila: «Sahil Bloom» *(fila compartida con: Sahil Bloom; Bryan Johnson)*
-  - `T06` *Idea:* El trabajo se expande hasta llenar el tiempo disponible — *Uso:* **Adaptada**. Adaptada como razón por la que funciona el estrés táctico — IDs: U-027-212 — fuente en la fila: «Ley de Parkinson (sin autor nombrado)»
-- **IDs (todos):** U-003-071, U-003-224, U-005-072, U-005-092, U-006-143, U-008-123, U-017-019, U-019-076, U-019-148, U-025-186, U-025-187, U-026-206, U-027-212
-- **Bloques:** T03-a, T03-b, T05-b, T06
-- **Contexto complementario:** La ley se atribuye a C. Northcote Parkinson.
-
-
-#### Psicología sin fuente nombrada (sesgo de negatividad, necesidades, dopamina de la persecución)
-
-- **Qué idea toma:** Es más fácil registrar lo negativo; primero necesidades básicas, luego de autorrealización; la dopamina sube más al perseguir que al lograr
-- **Cómo la usa:** **Adaptada**. Adaptadas sin fuente nombrada
-- **IDs:** U-012-161, U-016-233, U-024-022
-- **Bloque:** T03-a
-
-
-#### Alex Hormozi
-
-- *Grafías, atribución y notas:* U-002-016 y U-002-062: citado vía Dickie Bush ("ignorance tax").
-- **Cómo la usa (síntesis):** Mixta. Sobre todo **ejemplo y contraejemplo**: contenido de la etapa achiever, clips con captions (las ideas importan más que el formato), empujar volumen (frente a la escasez), trabajar 12 horas como identidad, direct response como habilidad que lo hizo rico. **Adaptada**: "sell to the rich" contrastado con venderle al yo pasado; "it's easier to make a million than $100,000" en la voz del autor; su PDF de ofertas se convierte en prompts. **De-tercero + propia**: estrategia como asignación de recursos limitados (ejecución macro/micro).
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T02-a` *Idea:* "Gather a ton of evidence for that person"; también ejemplo de contenido de etapa achiever — *Uso:* **De-tercero (ejemplo/referencia)**. Citado por Dickie Bush; ejemplo en las etapas — IDs: U-002-016, U-021-092, U-022-017
-  - `T03-b` *Idea:* Reutilizaron el título "How to get ahead of 99% of people" — *Uso:* **De-tercero (ejemplo/referencia)**. Caso de idea validada; Manson con una visión distinta del tema — IDs: U-004-105 — fuente en la fila: «Mark Manson, Alex Hormozi, Tom Bilyeu» *(fila compartida con: Mark Manson)*
-  - `T05-a` *Idea:* (según el autor) no hace falta grindear si se escucha bien lo que dice — *Uso:* **De-tercero** + **De-tercero (crítica o contraste)**. De-tercero, contrafuente — IDs: U-019-117
-  - `T05-b` *Idea:* Trabaja 12 horas con mentalidad de hustle porque es su identidad — *Uso:* **De-tercero (ejemplo/referencia)**. Ejemplo: no hay una forma correcta de trabajar — IDs: U-018-176
-  - `T07-a` *Idea:* Experto en ventas/marketing que publica su conocimiento; contenido intermedio — *Uso:* **De-tercero (ejemplo/referencia)**. IA entrenada con principios de expertos; ejemplo de contenido que aparece al empezar — IDs: U-016-271, U-020-124
-  - `T08` *Idea:* Estrategia como asignación de recursos limitados ante opciones ilimitadas — *Uso:* **De-tercero** + **Propia**. De-tercero + propia (ejecución macro/micro); también ejemplo de nivel 1 en marketing — IDs: U-022-140, U-022-089
-  - `T09-a` *Idea:* Clips con captions — *Uso:* **De-tercero (crítica o contraste)**. contraejemplo: las ideas importan más que el formato — IDs: U-009-025
-  - `T09-b` *Idea:* Respuesta sobre "great mood" como cima de una pirámide — *Uso:* **De-tercero**. ejemplo de terceros para ilustrar el pyramid principle — IDs: U-022-199
-  - `T10-a` *Idea:* Empujar volumen — *Uso:* **De-tercero (crítica o contraste)**. Contraejemplo para defender la escasez — IDs: U-014-198
-  - `T10-b` *Idea:* Tuit sobre mantener el buen humor como "la mayor habilidad" — *Uso:* **De-tercero (ejemplo/referencia)**. ejemplo hipotético del autor sobre pattern interrupt y clips — IDs: U-022-191
-  - `T13-a` *Idea:* Direct response como habilidad que lo hizo rico; apuesta por education products en su portafolio — *Uso:* **De-tercero (ejemplo/referencia)**. Ejemplo de autoridad — IDs: U-001-147, U-009-152
-  - `T13-b` *Idea:* Se hizo rico con el direct response antes de regalarlo todo; "sell to the rich"; apuntar a gente con dinero en agencias o venta directa — *Uso:* **Adaptada**. adaptada como ejemplo y contrastada: el autor propone venderle al yo pasado como ruta alternativa — IDs: U-007-148, U-010-305, U-009-165
-  - `T14-a` *Idea:* Métodos propios de creación de videos; el PDF de ofertas de Hormozi como fuente experta — *Uso:* **De-tercero (ejemplo/referencia)**. Ejemplos: los creadores top cultivan métodos propios; fuente de instrucciones para prompts — IDs: U-021-170, U-021-175 — fuente en la fila: «Alex Hormozi; Ali Abdaal» *(fila compartida con: Ali Abdaal)*
-  - `T14-b` *Idea:* Creación de ofertas; copywriting — *Uso:* **Adaptada**. Adaptada: se convierten en guías y prompts con IA — IDs: U-021-190 — fuente en la fila: «Alex Hormozi; Breakthrough Advertising; Great Leads» *(fila compartida con: Eugene Schwartz, Breakthrough Advertising / niveles de awareness; Great Leads)*
-  - `T15` *Idea:* "Ignorance tax" (vía Dickie Bush); "it's a lot easier to make a million than it is $100,000" — *Uso:* **De-tercero** + **Adaptada**. De tercero (ignorance tax, interpretado por Dickie); adaptada (apuntar más alto, en la voz del autor) — IDs: U-002-062, U-009-227
-- **IDs (todos):** U-001-147, U-002-016, U-002-062, U-004-105, U-007-148, U-009-025, U-009-152, U-009-165, U-009-227, U-010-305, U-014-198, U-016-271, U-018-176, U-019-117, U-020-124, U-021-092, U-021-170, U-021-175, U-021-190, U-022-017, U-022-089, U-022-140, U-022-191, U-022-199
-- **Bloques:** T02-a, T03-b, T05-a, T05-b, T07-a, T08, T09-a, T09-b, T10-a, T10-b, T13-a, T13-b, T14-a, T14-b, T15
-
-
-#### Chris Bumstead
-
-- *Grafías, atribución y notas:* Grafía: "Chris Bromstad" (U-007-174).
-- **Cómo la usa (síntesis):** **Ejemplo**: obsesión genuina que puede enseñarse; justificar lo que haces mejor que tus pares.
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T03-a` *Idea:* Renunció a una vida normal por una misión con su habilidad — *Uso:* **De-tercero**. Ejemplo de tercero como prueba de obsesión genuina — IDs: U-007-174 — fuente en la fila: «Chris Bumstead ("Chris Bromstad")»
-  - `T12-b` *Idea:* Ejemplo de justificar lo que haces mejor que tus pares — *Uso:* **De-tercero (ejemplo/referencia)**. citado para la segunda pregunta de ideas de producto (detalle fuera del bloque) — IDs: U-007-173
-  - `T13-b` *Idea:* Su obsesión (renunciar a la vida normal) como ejemplo de algo que se puede enseñar — *Uso:* **De-tercero (ejemplo/referencia)**. ejemplo — IDs: U-001-111
-- **IDs (todos):** U-001-111, U-007-173, U-007-174
-- **Bloques:** T03-a, T12-b, T13-b
-
-
-#### Mark Manson
-
-- *Grafías, atribución y notas:* Texto citado: "The Rise and Fall of Ken Wilber".
-- **Cómo la usa (síntesis):** **De-tercero**: "even the most conscious beings are still human" es base de "the medium and the message are separate". **Ejemplo**: libros que eximen de optimizar el contenido; título validado reutilizado.
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T02-b` *Idea:* "Even the most conscious beings are still human, we still have egos" — *Uso:* **De-tercero (ejemplo/referencia)**. Base del principio "the medium and the message are separate" — IDs: U-023-045, U-003-118 — fuente en la fila: «Mark Manson ("The Rise and Fall of Ken Wilber")»
-  - `T03-b` *Idea:* Reutilizaron el título "How to get ahead of 99% of people" — *Uso:* **De-tercero (ejemplo/referencia)**. Caso de idea validada; Manson con una visión distinta del tema — IDs: U-004-105 — fuente en la fila: «Mark Manson, Alex Hormozi, Tom Bilyeu» *(fila compartida con: Alex Hormozi)*
-  - `T10-a` *Idea:* Libros que eximen de optimizar el contenido — *Uso:* **De-tercero (ejemplo/referencia)**. Ejemplo — IDs: U-012-111
-- **IDs (todos):** U-003-118, U-004-105, U-012-111, U-023-045
-- **Bloques:** T02-b, T03-b, T10-a
-
-
-#### Orange Book (@orangebook_)
-
-- *Grafías, atribución y notas:* Grafías: "orange book" / "Orange Book" (cuenta de X).
-- **Cómo la usa (síntesis):** **De-tercero + propia**: "no one ever suddenly gets lucky" es base del principio de la visión; modelo de su propia voz (estoica, concisa).
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T03-b` *Idea:* "No one ever suddenly gets lucky": la suerte se alinea con las elecciones — *Uso:* **De-tercero** + **Propia**. De-tercero + propia: base del principio de la visión (dardos sin diana) — IDs: U-022-124 — fuente en la fila: «"orange book" (cuenta de X)»
-  - `T09-b` *Idea:* Voz estoica, concisa y filosófica — *Uso:* **De-tercero**. de-tercero; modelo de su propia voz — IDs: U-027-118
-- **IDs (todos):** U-022-124, U-027-118
-- **Bloques:** T03-b, T09-b
-
+#### Orange Book (@orangebook_) - *Grafías, atribución y notas:* Grafías: "orange book" / "Orange Book" (cuenta de X). - **Cómo la usa (síntesis):** **De-tercero + propia**: "no one ever suddenly gets lucky" es base del principio de la visión; modelo de su propia voz (estoica, concisa). - **Qué idea toma y cómo la usa, por bloque:** - `T03-b` *Idea:* "No one ever suddenly gets lucky": la suerte se alinea con las elecciones — *Uso:* **De-tercero** + **Propia**. De-tercero + propia: base del principio de la visión (dardos sin diana) — IDs: U-022-124 — fuente en la fila: «"orange book" (cuenta de X)» - `T09-b` *Idea:* Voz estoica, concisa y filosófica — *Uso:* **De-tercero**. de-tercero; modelo de su propia voz — IDs: U-027-118 - **IDs (todos):** U-022-124, U-027-118 - **Bloques:** T03-b, T09-b

@@ -4290,426 +4290,56 @@ Este archivo reúne TODO el material obligatorio del capítulo, ordenado por sec
 
 # ANEXO C — Fuentes de terceros relevantes (extracto de `_libro/03d_fuentes-citadas.md`)
 
-#### Alan Watts
-
-- *Grafías, atribución y notas:* En U-021-057 la atribución es ambigua en la transcripción.
-- **Cómo la usa (síntesis):** Mixta. **Adaptada** en sus usos centrales: "sensible people get paid for doing what they enjoy doing" se vuelve tesis de "paid to be yourself", de la nueva economía y de "the art of living is getting paid to play"; el bodhisattva, modelo preferido frente al "no self" monástico; "existence is relationship" sostiene el yo como distinción y lo que une a los holones. **De-tercero** como apoyo (backwards law, no resistir el frío), como modelo de articulación y síntesis, y como **contraejemplo** (escribir como filósofo sin ventas; su alcoholismo, usado para separar mensaje y mensajero). Discute una idea (la melodía): "the destination determines the journey".
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T01-a` *Idea:* Conferencias que abren la mente y llevan a pensar en grande — *Uso:* **Propia**. propia (historia personal); también lo cita como ejemplo de ídolo con highlight reel — IDs: U-020-144, U-023-014, U-002-088
-  - `T02-a` *Idea:* "Existence is relationship"; sostener diferencias y similitudes — *Uso:* **Adaptada**. Adaptada: el yo existe solo como distinción; el ego crea particiones — IDs: U-027-007
-  - `T02-b` *Idea:* Su alcoholismo (medio frente a mensaje); "units of thought"; "gambling on yourself"; el bodhisattva o middle way; "a happening"; ubicado en la etapa unitiva — *Uso:* **De-tercero (ejemplo/referencia)**. Ejemplo y equivalencias terminológicas — IDs: U-003-119, U-010-110, U-024-019, U-021-106, U-021-104
-  - `T03-a` *Idea:* El final de una melodía no es su meta — *Uso:* **De-tercero (crítica o contraste)**. Discute la idea: la meta del artista era crear la melodía; "the destination determines the journey" — IDs: U-021-057 — fuente en la fila: «Alan Watts (atribución ambigua en la transcripción)»
-  - `T05-b` *Idea:* Law of reversed effort (backwards law) — *Uso:* **De-tercero**. De tercero: explica que el flow no es producto de intentar — IDs: U-023-154
-  - `T06` *Idea:* Murió de alcoholismo (según lo que el autor escuchó) — *Uso:* **De-tercero (ejemplo/referencia)**. Detonante para cuestionar y explorar la filosofía de beber — IDs: U-002-074 — fuente en la fila: «Alan Watts (biografía)»
-  - `T06` *Idea:* Conferencias largas — *Uso:* **De-tercero (ejemplo/referencia)**. Material para escuchar caminando durante días — IDs: U-023-015 — fuente en la fila: «Terence McKenna, Alan Watts, actualize.org» *(fila compartida con: Leo Gura / Actualized.org; Terence McKenna)*
-  - `T07-a` *Idea:* Libros/autores resonantes — *Uso:* **De-tercero (ejemplo/referencia)**. ejemplos de curiosidad por experiencia — IDs: U-001-051 — fuente en la fila: «Alan Watts; Rest (Alex Soojung-Kim Pang)» *(fila compartida con: Rest (Alex Soojung-Kim Pang))*
-  - `T07-a` *Idea:* Articulación y capacidad de pensar como ejemplos de inteligencia desarrollada — *Uso:* **De-tercero (ejemplo/referencia)**. ejemplos de lo que tarda años — IDs: U-021-051 — fuente en la fila: «Jordan Peterson / Alan Watts» *(fila compartida con: Jordan Peterson)*
-  - `T07-b` *Idea:* Escritura poética como arte — *Uso:* **De-tercero (ejemplo/referencia)**. Modelo de escritura y pensamiento — IDs: U-020-195 — fuente en la fila: «Alan Watts, *The Wisdom of Insecurity*»
-  - `T08` *Idea:* "Existence is relationship"; "units of thought" — *Uso:* **De-tercero**. De-tercero: lo que une a los holones — IDs: U-023-048, U-003-121
-  - `T08` *Idea:* El mito como metáfora (corriente eléctrica, universo-globo) — *Uso:* **De-tercero**. De-tercero: "that is intelligence"; ejemplo de conectar lo universal con lo práctico — IDs: U-020-142
-  - `T08` *Idea:* Escribir muchos libros sobre temas distintos "musing" — *Uso:* **De-tercero (ejemplo/referencia)**. Modelo para su pasión por la síntesis — IDs: U-002-080
-  - `T08` *Idea:* Articulación, magia/poética, claridad, consejo conciso, lo críptico, elegancia — *Uso:* **De-tercero (ejemplo/referencia)**. Modelos admirados de pensamiento y articulación — IDs: U-021-002, U-022-045, U-022-169 — fuente en la fila: «Jordan Peterson, Alan Watts, Daniel Schmachtenberger, Seneca, Nietzsche» *(fila compartida con: Daniel Schmachtenberger; Jordan Peterson; Friedrich Nietzsche; Séneca)*
-  - `T08` *Idea:* Maestros imperfectos — *Uso:* **Propia**. Propia: "the medium and the message are separate" — IDs: U-023-046 — fuente en la fila: «Ken Wilber (controversia) / Alan Watts (alcoholismo)» *(fila compartida con: Ken Wilber)*
-  - `T09-a` *Idea:* Separar el mensaje del mensajero; metáforas para explicar ideas complejas — *Uso:* **De-tercero**. de-tercero (mensaje vs mensajero) y ejemplo de la forma "metáfora"; broma de que sería cliente de Cortex — IDs: U-013-128, U-022-201, U-020-145
-  - `T09-b` *Idea:* Figuras cuya reputación hace valiosa cualquier frase — *Uso:* **De-tercero (crítica o contraste)**. contraejemplo para principiantes — IDs: U-016-279 — fuente en la fila: «Marco Aurelio, Alan Watts» *(fila compartida con: Marco Aurelio)*
-  - `T10-a` *Idea:* Ideas que cambiaron vidas (leverage digital; no tomarse la vida tan en serio) — *Uso:* **De-tercero (ejemplo/referencia)**. Ejemplos de "brand is transformation" — IDs: U-010-349 — fuente en la fila: «Naval Ravikant; Alan Watts» *(fila compartida con: Naval Ravikant)*
-  - `T10-b` *Idea:* "Sensible people get paid for doing what they enjoy doing" — *Uso:* **De-tercero (ejemplo/referencia)**. cita de apoyo para "paid to be yourself"; también ejemplo de escritura sin engagement — IDs: U-018-039, U-011-104
-  - `T11` *Idea:* "Sensible people get paid for doing what they enjoy doing" — *Uso:* **De-tercero**. De-tercero; meta de "being paid to be yourself" — IDs: U-018-040
-  - `T12-a` *Idea:* "Sensible people get paid for doing what they enjoy doing" — *Uso:* **De-tercero**. de-tercero, como legitimación de unir disfrute e ingreso en el negocio — IDs: U-005-136, U-023-131
-  - `T12-b` *Idea:* Escribir como un filósofo — *Uso:* **De-tercero (crítica o contraste)**. contraejemplo: sin crecimiento ni ventas no es sostenible a tiempo completo — IDs: U-001-065
-  - `T14-a` *Idea:* "Sensible people get paid for doing what they enjoy doing" — *Uso:* **Adaptada**. Adaptada como tesis de la nueva economía — IDs: U-011-182
-  - `T14-b` *Idea:* Personas con marca alineada con su propósito; Peterson no es "content creator" — *Uso:* **De-tercero (ejemplo/referencia)**. Casos: life's work, marca como vessel, "true creators will adapt" — IDs: U-012-143, U-012-227 — fuente en la fila: «Jordan Peterson, Andrew Huberman, Alan Watts (casos)» *(fila compartida con: Jordan Peterson; Andrew Huberman)*
-  - `T16-a` *Idea:* El bodhisattva que conoce lo místico y vive en lo material; "sensible people get paid for doing what they enjoy doing"; idea que el autor pinta con el sauna — *Uso:* **Adaptada**. Adaptada: el bodhisattva como modelo preferido frente al "no self" del monje; la cita como base de "the art of living is getting paid to play" y de los cinco impulsos intrínsecos; el sauna como metáfora propia de la idea de Watts — IDs: U-023-028, U-016-045, U-016-111, U-003-154, U-024-005
-  - `T16-b` *Idea:* En el frío tiemblas porque resistes; relájate y ve con él — *Uso:* **De-tercero**. De tercero: apoya la idea de no resistir las olas de la vida — IDs: U-024-004
-  - `T16-b` *Idea:* Lecturas que le resuenan — *Uso:* **De-tercero**. De tercero: listado sin desarrollar ideas — IDs: U-011-090 — fuente en la fila: «Alan Watts (obra en general)»
-  - `T16-b` *Idea:* "You are God" — *Uso:* **Adaptada**. Adaptada: adoptar la perspectiva del universo/Brahman/el absoluto, no el "man in the sky"; "think big, act small" — IDs: U-017-087, U-017-155 — fuente en la fila: «Alan Watts (y otros); concepto hindú de Brahman» *(fila compartida con: Concepto hindú de Brahman)*
-  - `T17` *Idea:* Modelos de articulación de ideas profundas — *Uso:* **Adaptada**. adaptada: la admiración que lo llevó a escribir para volverse articulado; Watts también en sus lecturas de referencia — IDs: U-022-155, U-022-184, U-014-171, U-001-052 — fuente en la fila: «Jordan Peterson, Alan Watts, Daniel Schmachtenberger» *(fila compartida con: Daniel Schmachtenberger; Jordan Peterson)*
-- **IDs (todos):** U-001-051, U-001-052, U-001-065, U-002-074, U-002-080, U-002-088, U-003-119, U-003-121, U-003-154, U-005-136, U-010-110, U-010-349, U-011-090, U-011-104, U-011-182, U-012-143, U-012-227, U-013-128, U-014-171, U-016-045, U-016-111, U-016-279, U-017-087, U-017-155, U-018-039, U-018-040, U-020-142, U-020-144, U-020-145, U-020-195, U-021-002, U-021-051, U-021-057, U-021-104, U-021-106, U-022-045, U-022-155, U-022-169, U-022-184, U-022-201, U-023-014, U-023-015, U-023-028, U-023-046, U-023-048, U-023-131, U-023-154, U-024-004, U-024-005, U-024-019, U-027-007
-- **Bloques:** T01-a, T02-a, T02-b, T03-a, T05-b, T06, T07-a, T07-b, T08, T09-a, T09-b, T10-a, T10-b, T11, T12-a, T12-b, T14-a, T14-b, T16-a, T16-b, T17
-
-
-#### Carl Jung
-
-- *Grafías, atribución y notas:* La segunda cita de U-010-179 está parafraseada "con dudas".
-- **Cómo la usa (síntesis):** **De-tercero** (cita del inconsciente y el destino, cita del árbol y el infierno) para justificar reprogramar el inconsciente y la anti-visión. **Adaptada**: el shadow work se cumple "sentándose con el aburrimiento". La alquimia junguiana, marco recomendado.
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T01-b` *Idea:* "Until you make the unconscious conscious, it will direct your life and you will call it fate" — *Uso:* **De-tercero**. de-tercero: justifica la tarea de reprogramar el inconsciente — IDs: U-023-202
-  - `T03-a` *Idea:* "No tree can grow to Heaven unless its roots reach down to Hell"; y (parafraseado, con dudas) "if you don't make the unconscious conscious, it will determine your fate" — *Uso:* **De-tercero**. De-tercero; apoyo de la anti-visión y de volver conscientes las metas — IDs: U-015-058, U-010-179
-  - `T06` *Idea:* Shadow work: confrontar los aspectos incómodos que evitamos — *Uso:* **Adaptada**. Adaptada: sentarse con el aburrimiento "hace exactamente esto" — IDs: U-018-056, U-022-217
-  - `T07-a` *Idea:* Proceso psicológico y espiritual de transformación — *Uso:* **De-tercero (ejemplo/referencia)**. marco recomendado para entender el cambio profundo — IDs: U-022-152 — fuente en la fila: «Carl Jung (alquimia junguiana)»
-- **IDs (todos):** U-010-179, U-015-058, U-018-056, U-022-152, U-022-217, U-023-202
-- **Bloques:** T01-b, T03-a, T06, T07-a
-
-
-#### Daniel Schmachtenberger
-
-- **Cómo la usa (síntesis):** Mixta. **De-tercero** como marco (metacrisis, generator functions, attractors, epistemic commons, "wisdom is not algorithmic", la palabra escrita y la democracia). **Adaptada**: analogía propia del agua para la información, dinámicas rivales aplicadas al internet de creadores y a la IA, unschooling como aprender lo necesario construyendo, "deep generalist" adoptado como identidad future-proof (una vez como "deep specialist"). Modelo admirado de articulación e insumo de Human 3.0.
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T01-a` *Idea:* Epistemic commons — *Uso:* **Adaptada**. adaptada: analogía propia del agua para la información — IDs: U-014-114
-  - `T01-b` *Idea:* Metacrisis, generator functions, attractors, third attractor; poder de dioses requiere sabiduría de dioses; la palabra escrita y la democracia; ser "deep generalist" — *Uso:* **De-tercero**. de-tercero: marco para las redes, la escritura y el pensamiento de panorama — IDs: U-014-117, U-014-118, U-014-119, U-015-161, U-015-162, U-015-174, U-006-171
-  - `T02-a` *Idea:* Marco de la metacrisis — *Uso:* **De-tercero (ejemplo/referencia)**. Uno de los insumos fusionados en Human 3.0; no se desarrolla — IDs: U-015-172 — fuente en la fila: «Metacrisis (Daniel Schmachtenberger, según el origen de la unidad)»
-  - `T02-b` *Idea:* La genética seleccionó para la memética, la neuroplasticidad y los "software upgrades" — *Uso:* **De-tercero (ejemplo/referencia)**. Base de que el level of mind se puede mejorar — IDs: U-022-060
-  - `T07-b` *Idea:* Unschooling: "learning is the process of life" — *Uso:* **Adaptada**. Adaptada: aprender lo necesario mientras se construye algo con sentido — IDs: U-014-186
-  - `T08` *Idea:* La palabra escrita fue probablemente necesaria para la democracia porque exige atención sostenida — *Uso:* **De-tercero**. De-tercero: tesis de que redes e IA amenazan la civilización — IDs: U-014-113
-  - `T08` *Idea:* Articulación, magia/poética, claridad, consejo conciso, lo críptico, elegancia — *Uso:* **De-tercero (ejemplo/referencia)**. Modelos admirados de pensamiento y articulación — IDs: U-021-002, U-022-045, U-022-169 — fuente en la fila: «Jordan Peterson, Alan Watts, Daniel Schmachtenberger, Seneca, Nietzsche» *(fila compartida con: Alan Watts; Jordan Peterson; Friedrich Nietzsche; Séneca)*
-  - `T09-a` *Idea:* "Wisdom is not algorithmic and cannot be made algorithmic" — *Uso:* **De-tercero (ejemplo/referencia)**. cita de apoyo para fast vs slow content — IDs: U-014-121
-  - `T10-a` *Idea:* Dinámicas rivales que optimizan para engagement y no para transformación; epistemic commons — *Uso:* **Adaptada**. Adaptada al internet de creadores y a la IA — IDs: U-014-120
-  - `T11` *Idea:* Educación tradicional e hiperespecialización vuelven a la gente subordinada; "be a deep generalist" — *Uso:* **De-tercero**. De-tercero; adoptada como identidad future-proof (variante "deep specialist" en una ocasión) — IDs: U-006-083, U-010-215, U-024-226, U-012-096
-  - `T14-a` *Idea:* Formas de pensar de referencia — *Uso:* **De-tercero (ejemplo/referencia)**. Ejemplo para crear un creative thought partner — IDs: U-021-186 — fuente en la fila: «Daniel Schmachtenberger; Naval (modo de pensar)» *(fila compartida con: Naval Ravikant)*
-  - `T14-b` *Idea:* Sus cosmovisiones completas — *Uso:* **Adaptada**. Adaptada: "intellectual sparring partner" con IA — IDs: U-021-184 — fuente en la fila: «Naval, Daniel Schmachtenberger, Krishnamurti, Mihaly Csikszentmihalyi» *(fila compartida con: Mihaly Csikszentmihalyi; Jiddu Krishnamurti; Naval Ravikant)*
-  - `T17` *Idea:* Modelos de articulación de ideas profundas — *Uso:* **Adaptada**. adaptada: la admiración que lo llevó a escribir para volverse articulado; Watts también en sus lecturas de referencia — IDs: U-022-155, U-022-184, U-014-171, U-001-052 — fuente en la fila: «Jordan Peterson, Alan Watts, Daniel Schmachtenberger» *(fila compartida con: Alan Watts; Jordan Peterson)*
-- **IDs (todos):** U-001-052, U-006-083, U-006-171, U-010-215, U-012-096, U-014-113, U-014-114, U-014-117, U-014-118, U-014-119, U-014-120, U-014-121, U-014-171, U-014-186, U-015-161, U-015-162, U-015-172, U-015-174, U-021-002, U-021-184, U-021-186, U-022-045, U-022-060, U-022-155, U-022-169, U-022-184, U-024-226
-- **Bloques:** T01-a, T01-b, T02-a, T02-b, T07-b, T08, T09-a, T10-a, T11, T14-a, T14-b, T17
-
-
-#### Friedrich Nietzsche
-
-- *Grafías, atribución y notas:* En 2026 la cita de la felicidad aparece como "niche quote" sin fuente segura (U-012-180).
-- **Cómo la usa (síntesis):** **Adaptada**: "happiness is the feeling that power increases..." pasa de cita de tercero (2023) a fórmula propia con "connection to something greater", aplicada al progreso personal y al negocio como vehículo. También modelo de articulación y de mente forjada por ensayos.
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T02-b` *Idea:* La vida disfrutable en la superación de la resistencia ("musings of many philosophers") — *Uso:* **Adaptada**. Adaptada, junto con la psicología del flow — IDs: U-024-120
-  - `T08` *Idea:* Articulación, magia/poética, claridad, consejo conciso, lo críptico, elegancia — *Uso:* **De-tercero (ejemplo/referencia)**. Modelos admirados de pensamiento y articulación — IDs: U-021-002, U-022-045, U-022-169 — fuente en la fila: «Jordan Peterson, Alan Watts, Daniel Schmachtenberger, Seneca, Nietzsche» *(fila compartida con: Alan Watts; Daniel Schmachtenberger; Jordan Peterson; Séneca)*
-  - `T09-b` *Idea:* Mentes forjadas escribiendo ensayos — *Uso:* **De-tercero (ejemplo/referencia)**. ejemplos que respaldan la tesis de los ensayos — IDs: U-014-122 — fuente en la fila: «Paul Graham, Isaac Newton, Jordan Peterson, Nietzsche, Emerson» *(fila compartida con: Jordan Peterson; Paul Graham)*
-  - `T16-a` *Idea:* "Happiness is the feeling that power increases, that resistance is being overcome" — *Uso:* **De-tercero** + **Propia**. De tercero en 2023; luego integrada como fórmula propia con "connection to something greater"; en 2026 citada como "niche quote" sin fuente segura — IDs: U-027-177, U-012-180 — fuente en la fila: «Nietzsche»
-  - `T16-b` *Idea:* "Happiness is the feeling that power increases, that resistance is being overcome" — *Uso:* **Adaptada**. Adaptada: la aplica al progreso personal y la extiende al negocio como vehículo; se vuelve espiritual al ayudar a otros a progresar — IDs: U-016-156
-- **IDs (todos):** U-012-180, U-014-122, U-016-156, U-021-002, U-022-045, U-022-169, U-024-120, U-027-177
-- **Bloques:** T02-b, T08, T09-b, T16-a, T16-b
-
-
-#### Mihaly Csikszentmihalyi
-
-- *Grafías, atribución y notas:* Normalización: aparece como "the godfather of flow" y por sus libros *Flow* y *The Evolving Self*. En U-023-155 la cita es "no atribuida, probable"; en U-023-145 la cita va sin atribución explícita. Steven Kotler aparece mencionado junto a él (U-023-216).
-- **Cómo la usa (síntesis):** Mixta, con fuerte **adaptación**. Cita literalmente "order in consciousness" (cinco videos) y lo resume como "order in consciousness equals enjoyment"; sobre el gráfico desafío/habilidad añade ansiedad = autoconsciencia / aburrimiento = egocentrismo, "anxiety = lack of clarity → self-education" y el flow como "nature's signal". La psychic entropy pasa de lección atribuida (2022-04) a vocabulario propio sin atribución, con "mental disorder" y "psychic negentropy" añadidos. También base de "design the game", la vida como videojuego y la jerarquía de metas.
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T02-a` *Idea:* Construir un yo que sea "a conscious personal creation"; psicología del flow — *Uso:* **De-tercero** + **Adaptada**. De tercero (cita no atribuida, probable) y adaptada en Human 3.0 y en las condiciones del flow — IDs: U-023-155, U-015-172, U-023-216
-  - `T02-b` *Idea:* La complejidad del self; la vida disfrutable al superar resistencias — *Uso:* **Adaptada**. Adaptada en "leveling up increases the complexity of the self" y en las fases del cambio — IDs: U-023-236, U-024-120 — fuente en la fila: «Mihaly Csikszentmihalyi / flow psychology»
-  - `T03-a` *Idea:* Actividad autotélica (auto + telos) — *Uso:* **De-tercero**. De-tercero; la usa para definir el flow — IDs: U-023-111, U-023-140
-  - `T03-a` *Idea:* Construir un yo que sea "a conscious personal creation" — *Uso:* **De-tercero**. De-tercero; cierre del argumento de evolucionar sin parar — IDs: U-003-046
-  - `T03-a` *Idea:* El flow como orden en la consciencia cuando la atención se invierte en metas realistas y la habilidad iguala la oportunidad; atención absorbida sin energía psíquica sobrante; la felicidad como control del contenido de la consciencia — *Uso:* **De-tercero**. De-tercero citado literalmente; lo resume como "order in consciousness equals enjoyment" y lo vuelve la base de la vida como juego y de la jerarquía de metas — IDs: U-023-110, U-024-049, U-024-206, U-020-198, U-023-226, U-003-015, U-023-138 — fuente en la fila: «Mihaly Csikszentmihalyi, *Flow*»
-  - `T03-a` *Idea:* La autonomía exige independizarse de las recompensas y castigos sociales y darse recompensas a uno mismo — *Uso:* **De-tercero**. De-tercero; apoyo para crear visión y jerarquía de metas propias — IDs: U-014-013 — fuente en la fila: «Mihaly Csikszentmihalyi, *Flow*»
-  - `T03-a` *Idea:* Los juegos están diseñados para facilitar la experiencia óptima (reglas, metas, feedback, control, concentración, distinción de la "paramount reality") — *Uso:* **De-tercero**. De-tercero; base para "design the game" — IDs: U-023-145 — fuente en la fila: «Mihaly Csikszentmihalyi, *Flow* (cita sin atribución explícita)»
-  - `T03-a` *Idea:* Gráfico desafío/habilidad (ansiedad, flow, aburrimiento) — *Uso:* **Adaptada**. Adaptada: añade el par ansiedad = autoconsciencia / aburrimiento = egocentrismo, la lectura "anxiety = lack of clarity → self-education", el flow como "nature's signal" y la aplicación a empleos y emprendedores — IDs: U-023-246, U-003-042, U-023-248, U-003-045, U-003-236, U-017-059, U-026-035, U-003-191, U-003-238, U-009-095, U-011-149, U-012-204 — fuente en la fila: «Mihaly Csikszentmihalyi, *Flow* y *The Evolving Self*»
-  - `T03-b` *Idea:* Flow como experiencia óptima; proporción habilidad/desafío (ansiedad vs aburrimiento); la información almacenada en la conciencia — *Uso:* **Adaptada**. Adaptada: gráfico desafío/habilidad aplicado a juegos, a la sobreestimulación y al detox de dopamina; el mapa de videojuego y los "185 billion bits" como potencial — IDs: U-018-055, U-023-116, U-023-147, U-017-165, U-020-200, U-019-152 — fuente en la fila: «Mihaly Csikszentmihalyi ("the godfather of flow"; Flow)»
-  - `T04` *Idea:* Control de la consciencia (enfocar la atención a voluntad, concentrarse "for as long as it takes... and not longer"); la experiencia óptima depende de controlar la consciencia momento a momento — *Uso:* **De-tercero**. De-tercero; interpreta el disfrute como beneficio principal de tener visión y claridad, y lo aplica a que un plan estrecha la atención — IDs: U-014-016, U-025-107
-  - `T04` *Idea:* "The optimal state of inner experience is one in which there is order in consciousness", cuando la atención se invierte en metas realistas y la habilidad iguala la oportunidad — *Uso:* **De-tercero**. De-tercero, citado literalmente en cinco videos; lo usa para sostener que las metas ordenan la mente, para revertir la psychic entropy, para tratar el trabajo como quests y para convertir la vida en videojuego — IDs: U-003-195, U-018-127, U-020-054, U-021-064, U-025-165 — fuente en la fila: «Mihaly Csikszentmihalyi, *Flow*»
-  - `T04` *Idea:* El concepto de psychic entropy y las cifras de procesamiento (126 bits/s) — *Uso:* **Adaptada**. Adaptada: en 2022-04 lo presenta como lección de Flow; después lo usa sin atribución como vocabulario propio, lo acuña como "mental disorder" y le añade "psychic negentropy" — IDs: U-020-199, U-023-115, U-003-234, U-013-134, U-017-141, U-014-128 — fuente en la fila: «Mihaly Csikszentmihalyi, *Flow* (psychic entropy; bits de información)»
-  - `T06` *Idea:* La vida compuesta de estados de flow, en la que desafío y habilidad danzan en armonía, como la aspiración humana más alta — *Uso:* **Adaptada**. Adaptada: el detox como base para esa vida — IDs: U-018-059
-  - `T07-a` *Idea:* Sostener el disfrute de la vida — *Uso:* **De-tercero (ejemplo/referencia)**. lista de relecturas y libros resonantes — IDs: U-020-146, U-001-051 — fuente en la fila: «Mihaly Csikszentmihalyi, Flow»
-  - `T07-b` *Idea:* Psicología del disfrute ligada a metas autogeneradas — *Uso:* **De-tercero (ejemplo/referencia)**. Referencia de apoyo para "aim for your learning" — IDs: U-021-112 — fuente en la fila: «Mihaly Csikszentmihalyi, *Flow*»
-  - `T14-b` *Idea:* Sus cosmovisiones completas — *Uso:* **Adaptada**. Adaptada: "intellectual sparring partner" con IA — IDs: U-021-184 — fuente en la fila: «Naval, Daniel Schmachtenberger, Krishnamurti, Mihaly Csikszentmihalyi» *(fila compartida con: Daniel Schmachtenberger; Jiddu Krishnamurti; Naval Ravikant)*
-  - `T16-b` *Idea:* No se puede sentir control sin renunciar a las rutinas protectoras — *Uso:* **De-tercero** + **Propia**. De tercero, con lectura propia: una estrategia o rutina rígida es perdedora en un mundo de cambio extremo — IDs: U-022-142
-  - `T16-b` *Idea:* Libro que le resuena — *Uso:* **De-tercero**. De tercero: listado — IDs: U-011-090 — fuente en la fila: «Mihaly Csikszentmihalyi, "Flow"»
-  - `T17` *Idea:* "A self that is not simply the outcome of biological drives and cultural habits but a conscious personal creation" — *Uso:* **Adaptada**. adaptada: enmarca la metáfora de la creación del personaje de WoW; Flow entre sus libros de referencia — IDs: U-023-249, U-001-052 — fuente en la fila: «Mihaly Csikszentmihalyi, Flow»
-- **IDs (todos):** U-001-051, U-001-052, U-003-015, U-003-042, U-003-045, U-003-046, U-003-191, U-003-195, U-003-234, U-003-236, U-003-238, U-009-095, U-011-090, U-011-149, U-012-204, U-013-134, U-014-013, U-014-016, U-014-128, U-015-172, U-017-059, U-017-141, U-017-165, U-018-055, U-018-059, U-018-127, U-019-152, U-020-054, U-020-146, U-020-198, U-020-199, U-020-200, U-021-064, U-021-112, U-021-184, U-022-142, U-023-110, U-023-111, U-023-115, U-023-116, U-023-138, U-023-140, U-023-145, U-023-147, U-023-155, U-023-216, U-023-226, U-023-236, U-023-246, U-023-248, U-023-249, U-024-049, U-024-120, U-024-206, U-025-107, U-025-165, U-026-035
-- **Bloques:** T02-a, T02-b, T03-a, T03-b, T04, T06, T07-a, T07-b, T14-b, T16-b, T17
-
-
-#### Steven Kotler
-
-- **Cómo la usa (síntesis):** **Adaptada** de forma progresiva: los cinco impulsores intrínsecos se citan primero con duda (2022), luego como marco propio "de arriba abajo" (maestría ← obra de vida, autonomía ← emprendimiento...) y finalmente sin atribución como "drivers of the flow state". El flow como cóctel neuroquímico se vincula a meta futura + reglas del presente, aclarando que Kotler "doesn't say this directly". El MTP se vuelve "la visión es tu MTP".
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T02-a` *Idea:* Condiciones del flow — *Uso:* **De-tercero (ejemplo/referencia)**. Mencionado junto a Csikszentmihalyi como referencia — IDs: U-023-216
-  - `T03-a` *Idea:* "Motivation gets you into the game, learning keeps you playing, creativity is how you steer, flow is how you turbo boost the results" — *Uso:* **De-tercero**. De-tercero; abre el paso "become above average" — IDs: U-007-178, U-001-115
-  - `T03-a` *Idea:* El flow como cóctel neuroquímico — *Uso:* **Adaptada**. Adaptada: el autor lo vincula a la combinación meta futura (dopamina) + reglas del aquí y ahora (oxitocina, serotonina), aclarando que Kotler "doesn't say this directly" — IDs: U-023-241, U-003-036
-  - `T03-a` *Idea:* Cinco impulsores intrínsecos del flow (curiosidad, pasión, propósito, autonomía, maestría) y su neuroquímica — *Uso:* **Adaptada**. Adaptada: primero cita con duda, luego marco propio "de arriba abajo" (maestría ← obra de vida, autonomía ← emprendimiento, propósito ← productos, pasión ← conectar puntos, curiosidad = combustible) — IDs: U-020-197, U-023-176, U-023-177, U-005-137, U-019-036 — fuente en la fila: «Steven Kotler, *The Art of Impossible*»
-  - `T03-b` *Idea:* Cinco impulsores intrínsecos (curiosidad, pasión, propósito, autonomía, maestría) — *Uso:* **De-tercero** + **Adaptada**. De-tercero en 2022 ("bonus points" para la visión; los tres primeros "bake in inspiration"); adaptada después como cóctel neuroquímico de la obsesión y como "drivers of the flow state", sin atribución — IDs: U-014-015, U-026-036, U-019-152, U-012-206
-  - `T03-b` *Idea:* Massively transformative purpose (MTP) como clave para lograr lo imposible — *Uso:* **Adaptada**. Adaptada: la visión es tu MTP; una visión grande no se alcanza trabajando para otro — IDs: U-023-183, U-006-161
-  - `T07-a` *Idea:* Lograr lo imposible (práctico y científico) — *Uso:* **De-tercero (ejemplo/referencia)**. lista de relecturas; The Art of Focus como síntesis — IDs: U-020-146 — fuente en la fila: «Steven Kotler, The Art of Impossible»
-- **IDs (todos):** U-001-115, U-003-036, U-005-137, U-006-161, U-007-178, U-012-206, U-014-015, U-019-036, U-019-152, U-020-146, U-020-197, U-023-176, U-023-177, U-023-183, U-023-216, U-023-241, U-026-036
-- **Bloques:** T02-a, T03-a, T03-b, T07-a
-
-
-#### Budismo
-
-- *Grafías, atribución y notas:* U-026-246 menciona también a Alan Watts como influencia.
-- **Cómo la usa (síntesis):** **Adaptada** (a veces con crítica): la identificación con ideologías como fuente de sufrimiento; "life is suffering" se malinterpreta (se fluye con el sufrimiento); beginner's mind como resultado de invertir la cinta hedónica; la impermanencia, que la entropía "goes even further"; el apego a la identidad puede usarse "para bien". Buda como ejemplo de alta consciencia.
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T02-a` *Idea:* Advertencia contra apegar la identidad; ego death; capas del yo — *Uso:* **Adaptada**. Adaptada e invertida: el apego puede usarse "para bien"; los anillos concéntricos señalan lo que el Budismo intenta mostrar — IDs: U-017-009, U-003-060, U-027-008, U-027-133 — fuente en la fila: «Maestros espirituales, místicos, Budismo» *(fila compartida con: Enseñanzas espirituales y maestros (genérico))*
-  - `T04` *Idea:* Nada es permanente; todo cambia — *Uso:* **Adaptada**. Adaptada: la entropía "goes even further" (todo declina salvo que se mantenga); aplicada a las fases de la vida — IDs: U-026-176, U-026-095 — fuente en la fila: «Budismo (impermanencia)»
-  - `T06` *Idea:* La mente de principiante — *Uso:* **Adaptada**. Adaptada: resultado de invertir la cinta hedónica — IDs: U-018-057 — fuente en la fila: «Budismo ("beginner's mind")»
-  - `T06` *Idea:* Espiritualidad ascendente/ascética — *Uso:* **De-tercero (ejemplo/referencia)**. Contexto histórico del monk mode original, criticado como reductivo (la fuente indica parecido con la terminología de Wilber, sin atribución) — IDs: U-019-160 — fuente en la fila: «Período axial: Sócrates, Gautama Buda, Lao Tzu» *(fila compartida con: Sócrates; Período axial (Sócrates, Buda, Lao Tzu))*
-  - `T16-a` *Idea:* Impermanencia; el sufrimiento como palabra central — *Uso:* **Adaptada**. Adaptada: la identificación con ideologías/dogmas como fuente de sufrimiento; comparison vs connection (la unidad también menciona a Alan Watts como influencia) — IDs: U-026-246, U-027-009
-  - `T16-b` *Idea:* "Life is suffering" — *Uso:* **Adaptada** + **De-tercero (crítica o contraste)**. Adaptada/crítica: dice que se malinterpreta; el sufrimiento no se elimina, se fluye con él — IDs: U-024-041
-  - `T16-b` *Idea:* Ejemplos de individuos de alta consciencia — *Uso:* **Propia**. Propia: ilustran la empatía de la consciencia superior al hacer zoom out (sin "traer religión") — IDs: U-026-105 — fuente en la fila: «Jesucristo y Buda» *(fila compartida con: Tradición cristiana ("What would Jesus do", Christ Consciousness))*
-- **IDs (todos):** U-003-060, U-017-009, U-018-057, U-019-160, U-024-041, U-026-095, U-026-105, U-026-176, U-026-246, U-027-008, U-027-009, U-027-133
-- **Bloques:** T02-a, T04, T06, T16-a, T16-b
-
-
-#### Enseñanzas espirituales y maestros (genérico)
-
-- **Cómo la usa (síntesis):** **Adaptada**: ego death → pyramid scheme of attention; "the now" y "no mind" equiparados con grados de flow; el apego a la identidad invertido para bien. La presencia contrastada con el flow.
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T01-b` *Idea:* Ego death al retirar la atención del yo — *Uso:* **Adaptada**. adaptada: pyramid scheme of attention — IDs: U-016-194 — fuente en la fila: «Enseñanzas espirituales y meditación (genéricas)»
-  - `T02-a` *Idea:* Advertencia contra apegar la identidad; ego death; capas del yo — *Uso:* **Adaptada**. Adaptada e invertida: el apego puede usarse "para bien"; los anillos concéntricos señalan lo que el Budismo intenta mostrar — IDs: U-017-009, U-003-060, U-027-008, U-027-133 — fuente en la fila: «Maestros espirituales, místicos, Budismo» *(fila compartida con: Budismo)*
-  - `T03-a` *Idea:* La pérdida de autoconsciencia y egocentrismo como fin del sufrimiento; el presente — *Uso:* **Adaptada**. Adaptada: equipara esos estados con grados de flow — IDs: U-023-226, U-003-015, U-020-198, U-023-110 — fuente en la fila: «Maestros espirituales y antiguos (genérico); "the now", "no mind"»
-  - `T03-b` *Idea:* La presencia — *Uso:* **De-tercero (ejemplo/referencia)**. Contrastada con el flow — IDs: U-023-139 — fuente en la fila: «Maestros espirituales (genérico)»
-- **IDs (todos):** U-003-015, U-003-060, U-016-194, U-017-009, U-020-198, U-023-110, U-023-139, U-023-226, U-027-008, U-027-133
-- **Bloques:** T01-b, T02-a, T03-a, T03-b
-
-
-#### Indefensión aprendida (learned helplessness)
-
-- *Grafías, atribución y notas:* Sin autor nombrado. Ver "Sellingman" (a).
-- **Qué idea toma:** Definición estándar de indefensión aprendida
-- **Cómo la usa:** **De-tercero**. De tercero, sin autor nombrado; diagnóstico de la causa raíz
-- **IDs:** U-022-001
-- **Bloque:** T02-b
-
-
-#### Ley de Hebb (Donald Hebb)
-
-- **Qué idea toma:** "Neurons that fire together wire together"; neuroplasticidad
-- **Cómo la usa:** **Adaptada**. Adaptada: ser extremo y la novedad aceleran la neuroplasticidad más que la repetición
-- **IDs:** U-019-151
-- **Bloque:** T02-a
-
-
-#### Portfolio of small bets
-
-- *Grafías, atribución y notas:* Sin autor nombrado. Ver Daniel Vassallo (d2), citado por Justin Welsh.
-- **Qué idea toma:** Apuestas pequeñas y graduales
-- **Cómo la usa:** **De-tercero (ejemplo/referencia)**. Equivalente de stacking small wins
-- **IDs:** U-024-019
-- **Bloque:** T02-b
-
-
-#### Spiral Dynamics (Christopher Cowan y Don Beck)
-
-- **Cómo la usa (síntesis):** **Adaptada**: metáfora de la espiral; insumo de las cuatro macroetapas, los tres macro niveles, tier 1 / tier 2, Human 3.0 y la tensión de progreso del marketing; también tema de estudio y lente de su worldview. Señala que se solapa con los niveles de awareness.
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T02-a` *Idea:* Colores y etapas de sistemas de valores; ~50% conformista — *Uso:* **Adaptada**. Adaptada: metáfora de la espiral, insumo de las cuatro macroetapas y de Human 3.0 — IDs: U-021-084, U-021-081, U-013-193, U-022-061, U-022-062, U-015-172, U-024-101 — fuente en la fila: «Spiral Dynamics»
-  - `T02-b` *Idea:* Desarrollo de los sistemas de valores en tiers; alternancia entre foco en uno mismo y en el otro — *Uso:* **Adaptada**. Adaptada en los tres macro niveles, en tier 1 / tier 2 y en la tensión de progreso del marketing; también como tema de estudio — IDs: U-022-151, U-024-109, U-025-146, U-021-096, U-013-234, U-005-133
-  - `T08` *Idea:* Investigación del desarrollo cognitivo; first/second tier; estadios del ego — *Uso:* **Adaptada**. Adaptada: cinco niveles de pensamiento y cualidades del strategist stage — IDs: U-022-081, U-022-082, U-022-120 — fuente en la fila: «Susanne Cook-Greuter; Spiral Dynamics» *(fila compartida con: Susanne Cook-Greuter (desarrollo del ego))*
-  - `T10-b` *Idea:* Lentes para dar sentido a la realidad — *Uso:* **De-tercero (ejemplo/referencia)**. mencionadas como parte del worldview del que nace su punto de vista — IDs: U-021-224 — fuente en la fila: «Integral theory, Spiral Dynamics» *(fila compartida con: Ken Wilber)*
-  - `T11` *Idea:* Etapas de desarrollo; el estratega — *Uso:* **Adaptada**. Adaptada para situar al master/strategist — IDs: U-022-119 — fuente en la fila: «Spiral Dynamics / ego development»
-  - `T13-a` *Idea:* Etapas de desarrollo — *Uso:* **De-tercero (ejemplo/referencia)**. Señala que se solapan con los niveles de awareness — IDs: U-011-162 — fuente en la fila: «Actualized.org (nueve etapas de ego development) y Spiral Dynamics» *(fila compartida con: Leo Gura / Actualized.org)*
-- **IDs (todos):** U-005-133, U-011-162, U-013-193, U-013-234, U-015-172, U-021-081, U-021-084, U-021-096, U-021-224, U-022-061, U-022-062, U-022-081, U-022-082, U-022-119, U-022-120, U-022-151, U-024-101, U-024-109, U-025-146
-- **Bloques:** T02-a, T02-b, T08, T10-b, T11, T13-a
-
-
-#### Teoría de las ventanas rotas
-
-- *Grafías, atribución y notas:* Sin autor nombrado.
-- **Qué idea toma:** El entorno ordenado o roto condiciona la conducta (unos 50 % menos de delitos)
-- **Cómo la usa:** **Adaptada**. Adaptada a los entornos digitales: "thousands of broken windows a day"
-- **IDs:** U-018-037
-- **Bloque:** T06
-
-
-#### Tradición cristiana ("What would Jesus do", Christ Consciousness)
-
-- *Grafías, atribución y notas:* El autor aclara que no es cristiano.
-- **Cómo la usa (síntesis):** **Adaptada / analogía**: "what would the universe do" en la escalera de perspectivas; Jesús como alter ego más desarrollado e identidad sin apegos; ejemplo de alta consciencia (sin "traer religión").
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T02-a` *Idea:* Jesús como símbolo de una conciencia alta, con identidad no atada a nada — *Uso:* **Adaptada**. Adaptada: el autor no es cristiano; lo usa como alter ego más desarrollado y como ejemplo de identidad sin apegos — IDs: U-025-114, U-027-066
-  - `T03-b` *Idea:* Pregunta-guía de conducta — *Uso:* **De-tercero (ejemplo/referencia)**. Analogía para "what would the universe do" en la escalera de perspectivas — IDs: U-020-068 — fuente en la fila: «"What would Jesus do"»
-  - `T16-b` *Idea:* Ejemplos de individuos de alta consciencia — *Uso:* **Propia**. Propia: ilustran la empatía de la consciencia superior al hacer zoom out (sin "traer religión") — IDs: U-026-105 — fuente en la fila: «Jesucristo y Buda» *(fila compartida con: Budismo)*
-- **IDs (todos):** U-020-068, U-025-114, U-026-105, U-027-066
-- **Bloques:** T02-a, T03-b, T16-b
-
-
-#### Dickie Bush
-
-- *Grafías, atribución y notas:* Invitado (conversación larga; Ship 30 for 30). A través de él llegan citas de James Clear, Alex Hormozi, Paul Graham, Robert Cialdini y Ray Dalio, y el modelo de Christian Guzman.
-- **Cómo la usa (síntesis):** Mayormente **de-tercero** (ideas del invitado: identity lists, bloques de 12 semanas, just-in-time learning, abundant financial mindset, entrepreneurial barbell, polaridad). El autor **adapta** y responde: convierte "forcing function" en el one-person business como forcing function, reformula el shipyard como "mastery facility", añade "procrastination disguised as productivity", nombra "the destructive self-improvement game" y contesta la polaridad con "peace and progress" y "even moderation". En algunos pasajes la idea es co-construida.
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T01-a` *Idea:* Golden handcuffs e inflación del estilo de vida; "self-awareness all the way down" — *Uso:* **De-tercero**. de-tercero, con añadidos de Dan — IDs: U-002-048, U-002-088 — fuente en la fila: «Dickie Bush (invitado)»
-  - `T02-a` *Idea:* "The liquid takes the shape of its container" — *Uso:* **De-tercero**. De tercero, apoyado en James Clear y Alex Hormozi — IDs: U-002-016 — fuente en la fila: «Dickie Bush (invitado)»
-  - `T02-b` *Idea:* Identity lists; pedir un nombre para "the opposite of lifestyle inflation" — *Uso:* **De-tercero**. De tercero (inspirada en James Clear y Alex Hormozi); Dan la resume y la relaciona con su tactical stress — IDs: U-002-017, U-002-014, U-002-063
-  - `T05-a` *Idea:* Reflexión trimestral (12-week blocks), temporadas de creación vs delegación, su rutina, pedir rutinas de tu etapa — *Uso:* **De-tercero**. De-tercero — IDs: U-002-070, U-002-077, U-002-084, U-002-081
-  - `T05-b` *Idea:* "Inconvenient truth" (escribir de 4:30 a 7:30 y de 19 a 22 durante dos años); solo tres metas grandes a la vez, "not never, but not now" — *Uso:* **De-tercero**. De tercero (conversación) — IDs: U-002-083, U-002-090
-  - `T06` *Idea:* La abstinencia completa es más fácil que la moderación leve (baño de hielo); desarrolla el tuit de Dan sobre amar lo monótono — *Uso:* **De-tercero**. De-tercero; Dan coincide parcialmente (el cero sirve al construir) — IDs: U-002-075, U-002-073, U-002-039
-  - `T07-a` *Idea:* Just-in-time vs just-in-case learning (lens); proyectos como forcing function; tres conclusiones por podcast — *Uso:* **De-tercero**. de-tercero; integrado en build to learn y Clarity Catalyst — IDs: U-002-029, U-002-032, U-002-091
-  - `T07-b` *Idea:* Parábola de la "shitty rod"; "metaphorically obese"; pasión por aprender juegos nuevos — *Uso:* **De-tercero**. De tercero (invitado); Koe añade "procrastination disguised as productivity" y bulking/cutting — IDs: U-002-030, U-002-078, U-002-079, U-002-028, U-002-041
-  - `T08` *Idea:* Se aprende más rápido destilando con la lente de compartir — *Uso:* **De-tercero**. De-tercero, integrado en el "perspective vessel" — IDs: U-002-055 — fuente en la fila: «Dickie Bush (invitado)»
-  - `T09-a` *Idea:* Conversaciones largas sin filtro como fuente de perspectiva — *Uso:* **De-tercero (ejemplo/referencia)**. ejemplos del valor del long form — IDs: U-002-001 — fuente en la fila: «Dickie Bush (anfitrión) y creadores de YouTube fitness (Matt Ogus, Chris Lovato, Joe Delaney), ciclista Abdul» *(fila compartida con: Matt Ogus; Youtubers de fitness de la "golden era")*
-  - `T09-b` *Idea:* Two-year test; de lo táctico a lo de alto nivel o volver a bajar con un ángulo nuevo — *Uso:* **De-tercero**. de-tercero (conversación); el autor lo integra con su giro a lo "pithy" — IDs: U-002-052, U-002-054 — fuente en la fila: «Dickie Bush (Ship 30 for 30)»
-  - `T10-a` *Idea:* Documentar crea relación; public forcing function; trusted curator; articulación de la metáfora de las acciones — *Uso:* **De-tercero**. De-tercero / co-construida con Dan; además caso de DM estratégico — IDs: U-002-002, U-002-025, U-002-042, U-002-009, U-015-120, U-002-004 — fuente en la fila: «Dickie Bush (invitado)»
-  - `T10-b` *Idea:* Public experimentation y mentalidad de principiante — *Uso:* **De-tercero**. de-tercero (conversación); aplicado a cómo posicionarse sin ser experto — IDs: U-002-012
-  - `T11` *Idea:* Empezar específico y revelar intereses; elegir algo construye 50 habilidades; obsession is a feature — *Uso:* **De-tercero**. De-tercero (invitado) — IDs: U-002-005, U-002-024, U-002-006, U-002-046
-  - `T12-a` *Idea:* El término "forcing function" — *Uso:* **Adaptada**. adaptada: el one-person business como forcing function para mejorar todas las áreas — IDs: U-002-045
-  - `T12-b` *Idea:* La idea de una manifestación física de la comunidad online (the shipyard); Ship 30 como ejemplo de que escribir a diario mejora otras áreas — *Uso:* **Adaptada**. adaptada: el autor la reformula como "mastery facility", una "physical synthesis" que resuelve las carencias de su lugar — IDs: U-002-056
-  - `T13-a` *Idea:* Cita de Dan sobre "$100,000 worth of product ideas" y el frame breaking del primer mes de $10k — *Uso:* **Propia**. Testimonio que refuerza una idea propia de Dan; menciona a un "Will" de forma ambigua — IDs: U-002-022 — fuente en la fila: «Dickie Bush (invitado)»
-  - `T14-a` *Idea:* "Technology is an accelerant of polarity" (ley de potencia; WALL-E) — *Uso:* **De-tercero**. De tercero; Dan añade que la awareness es el primer paso — IDs: U-002-047
-  - `T14-b` *Idea:* La tecnología amplía la brecha — *Uso:* **De-tercero (ejemplo/referencia)**. Objeción registrada a la tesis del "mental plane" — IDs: U-002-044 — fuente en la fila: «Dickie Bush (invitado)»
-  - `T15` *Idea:* Abundant financial mindset; su historia financiera ("tutor to a test", BlackRock, escasez en NYC); control sobre el ingreso (inputs → outputs); el primer dólar; "just make more money"; equity vs dividends; indicators of growth; ideal scene; entrepreneurial barbell; financial confidence vs security — *Uso:* **De-tercero** + **De-tercero (crítica o contraste)**. De tercero; Dan respalda equity vs dividends ("that's the entire way I think about it"), enmarca el barbell y corrige "just make more money" — IDs: U-002-018, U-002-019, U-002-020, U-002-026, U-002-059, U-002-060, U-002-061, U-002-062, U-002-064, U-002-065, U-002-066
-  - `T16-a` *Idea:* Polaridad/equilibrio por extremos; cimientos tempranos de salud y finanzas; Whoop y el exceso de feedback; fitness como gateway drug; dieta (calorías, proteína); costos reales del estilo de vida — *Uso:* **De-tercero**. De tercero (invitado); Dan nombra "the destructive self-improvement game" a partir de su historia — IDs: U-002-035, U-002-069, U-002-087, U-002-003, U-002-085, U-002-072
-  - `T16-b` *Idea:* La progresión como valor central; visión polar frente al punto medio — *Uso:* **De-tercero (ejemplo/referencia)**. Diálogo: Dan responde con peace and progress y "even moderation" — IDs: U-002-034, U-002-036
-  - `T17` *Idea:* Interlocutor a quien anunció que solo hablaría de one-person business — *Uso:* **De-tercero**. de-tercero (contexto) — IDs: U-002-010, U-002-076
-- **IDs (todos):** U-002-001, U-002-002, U-002-003, U-002-004, U-002-005, U-002-006, U-002-009, U-002-010, U-002-012, U-002-014, U-002-016, U-002-017, U-002-018, U-002-019, U-002-020, U-002-022, U-002-024, U-002-025, U-002-026, U-002-028, U-002-029, U-002-030, U-002-032, U-002-034, U-002-035, U-002-036, U-002-039, U-002-041, U-002-042, U-002-044, U-002-045, U-002-046, U-002-047, U-002-048, U-002-052, U-002-054, U-002-055, U-002-056, U-002-059, U-002-060, U-002-061, U-002-062, U-002-063, U-002-064, U-002-065, U-002-066, U-002-069, U-002-070, U-002-072, U-002-073, U-002-075, U-002-076, U-002-077, U-002-078, U-002-079, U-002-081, U-002-083, U-002-084, U-002-085, U-002-087, U-002-088, U-002-090, U-002-091, U-015-120
-- **Bloques:** T01-a, T02-a, T02-b, T05-a, T05-b, T06, T07-a, T07-b, T08, T09-a, T09-b, T10-a, T10-b, T11, T12-a, T12-b, T13-a, T14-a, T14-b, T15, T16-a, T16-b, T17
-
-
-#### Devon Eriksen
-
-- *Grafías, atribución y notas:* Grafías en las transcripciones: "Devin Erickson", "Devon Ericson", "Devin Ericson", "Ericson". Una fila (U-022-136) solo dice "Devon" (término "depression apartment"); otra (U-013-195) es un artículo de "Devon Ericson" que la fila considera probablemente la misma persona sin confirmarlo; se agrupan aquí con esa reserva. Autor de la novela *Theft of Fire*. A través de él llegan Cicerón, Yuval Noah Harari (como contraejemplo), Steven Crowder, Heinlein, Niven y Pournelle.
-- **Cómo la usa (síntesis):** **De-tercero** en la entrevista (educación como aprender a enseñarse, agencia como factor raro, "natural/artificial stupidity", editoriales como VC, vender tiempo no escala). El autor la **adapta** después: los tres vessels y la agencia como pegamento sobre las Seven Liberal Arts, el future-proof skill stack, "education is not programming", el wage slave, la tipología fácil/imposible/difícil como esquema propio (U-023-221). **Discrepa** en la noción de inteligencia (la corrige hacia "perspective").
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T01-a` *Idea:* La causa raíz de la mala educación es que paga un tercero; fuente del video sobre educación descentralizada — *Uso:* **De-tercero**. de-tercero (U-006-003) y mezcla de sus ideas con las propias (U-013-164) — IDs: U-006-003, U-013-164 — fuente en la fila: «Devon Eriksen / "Devon Ericson" (invitado; novela Theft of Fire)»
-  - `T01-b` *Idea:* Escuela gubernamental = éxito como evitar el fracaso; solo los esclavos hacen una tarea toda la vida; true education; "raised to be afraid" — *Uso:* **De-tercero** + **Adaptada**. de-tercero y adaptada: Koe resume ("the greatest mistake is no mistake at all") y desarrolla el wage slave — IDs: U-006-014, U-006-052, U-013-165, U-013-167 — fuente en la fila: «Devon Eriksen ("Ericson" en algunas transcripciones)»
-  - `T02-a` *Idea:* Etapas como herramientas; etiquetas autolimitantes; executive function; su paso de ingeniero de software a ciencia ficción — *Uso:* **De-tercero**. De tercero; matiza el encuadre de Dan Koe por niveles — IDs: U-006-023, U-006-027, U-006-029, U-006-032, U-006-033, U-006-037 — fuente en la fila: «Devon Eriksen (invitado)»
-  - `T02-b` *Idea:* "Whoever said you had to do one thing with your whole life"; permission to suck; las filosofías políticas como herramientas; la inteligencia como capacidad de contar historias y "effectiveness" — *Uso:* **De-tercero**. De tercero, con matices de Dan (la libertad absoluta no siempre libera; corrección de "intelligence" a "perspective") — IDs: U-006-035, U-006-017, U-006-055, U-006-030, U-006-031, U-006-011
-  - `T03-a` *Idea:* "A free man is expected to act on his interests and do many things throughout his life" — *Uso:* **Adaptada**. Adaptada: la conecta con "if you don't choose a purpose you will be assigned one" y la cadena meta → aprendizaje → destino — IDs: U-013-166 — fuente en la fila: «Devon Eriksen ("Ericson" en la transcripción)»
-  - `T03-b` *Idea:* Preguntar la razón real detrás de una meta y buscar una vía más directa a lo que querías experimentar — *Uso:* **De-tercero**. De-tercero (en conversación con el autor) — IDs: U-006-036 — fuente en la fila: «Devon Eriksen (invitado)»
-  - `T07-a` *Idea:* Educación como aprender a enseñarse; moving target y feedback loop; agency como disposición a equivocarse — *Uso:* **De-tercero**. de-tercero; Dan añade "time in the market beats timing the market" — IDs: U-006-005, U-006-018, U-006-019
-  - `T07-b` *Idea:* Seven Liberal Arts / liberating arts; réplica a Harari ("this dude doesn't know what education is") — *Uso:* **Adaptada**. Adaptada: añade los tres vessels, agency como pegamento y el método de sostenerlas en la mente — IDs: U-006-001, U-006-002, U-006-089, U-006-090, U-013-170 — fuente en la fila: «Devon Eriksen ("Devon Ericson" en una transcripción)»
-  - `T08` *Idea:* Creatividad como lograr cualquier meta con lo disponible — *Uso:* **Adaptada**. Adaptada, mezclada con el marco del autor — IDs: U-013-168 — fuente en la fila: «Devon Eriksen (frontera ambigua)»
-  - `T08` *Idea:* Función ejecutiva como contar historias y planes; "intelligence is stories, consciousness is stories" — *Uso:* **De-tercero**. De-tercero — IDs: U-006-022, U-006-041 — fuente en la fila: «Devon Eriksen (invitado)»
-  - `T09-a` *Idea:* Escribir de forma clara e interesante; la ficción propaga la cultura; coupled artistic aesthetic — *Uso:* **De-tercero**. de-tercero, presentado como opinión del invitado — IDs: U-006-045, U-006-042, U-006-043 — fuente en la fila: «Devon Eriksen (invitado), Theft of Fire»
-  - `T09-b` *Idea:* Las historias como ADN de las sociedades; la ciencia ficción como tecnología de pensamiento; demanda de ficción optimista; escribir como dragar el subconsciente — *Uso:* **De-tercero**. de-tercero (invitado); cita como ejemplos a Elon Musk, Heinlein, Niven, Pournelle y Ringworld — IDs: U-006-039, U-006-040, U-006-046, U-006-044
-  - `T10-a` *Idea:* Audiencia = gente que confía en ti; ser trustworthy y regalar muestras; integridad y calidad; rechazo de "content creator"; la editorial como "useless buffer" del feedback loop — *Uso:* **De-tercero**. De-tercero; Dan coincide y lo usa como caso de autor autopublicado (Theft of Fire) y de ventas como subproducto — IDs: U-006-060, U-006-061, U-006-072, U-006-059, U-006-066, U-010-250, U-025-110 — fuente en la fila: «Devon Eriksen (invitado; también "Devin Ericson" en transcripción)»
-  - `T10-b` *Idea:* Las editoriales como VC, el midlist, la ruptura del modelo; "your product is you"; venderlo uno mismo como medida de valor; Kickstarter — *Uso:* **De-tercero**. de-tercero (entrevista); el autor lo enlaza con las one-person media companies — IDs: U-006-062, U-006-064, U-006-065, U-006-067, U-006-068, U-006-070
-  - `T11` *Idea:* Humanos generalistas que construyen herramientas; encuadre esclavo/libre — *Uso:* **Adaptada**. Adaptada: guepardo/oso polar/parka; esclavos = especialistas — IDs: U-006-025, U-013-210
-  - `T14-a` *Idea:* "Artificial stupidity"; la IA como máquinas específicas para una tarea; "nothing magical about meat"; "don't be a tool"; el futuro del audiolibro; "dumber than a sack of wet hammers" — *Uso:* **De-tercero** + **Adaptada**. De tercero (entrevista) y adaptada: el post de "Ericson" (transcrito así) da origen al future-proof skill stack, que Dan reinterpreta desde la visión del creador — IDs: U-006-020, U-006-021, U-006-026, U-006-028, U-006-071, U-021-218, U-013-171 — fuente en la fila: «Devon Eriksen (Theft of Fire)»
-  - `T14-b` *Idea:* Formar personas high-agency, perceptivas, automotivadas y adaptables en lugar de preocuparse por qué habilidades tomará la IA — *Uso:* **De-tercero**. De-tercero: cita que abre un principio sobre pensamiento estratégico — IDs: U-022-129 — fuente en la fila: «"Devin Erickson" (así transcrito)»
-  - `T14-b` *Idea:* "Natural stupidity"; la educación crea herramientas de propósito único; humanos como "Navigators of an everchanging environment" — *Uso:* **De-tercero**. De-tercero (invitado): fundamenta la agency frente a la IA — IDs: U-006-024
-  - `T15` *Idea:* Vivir en un apartamento que no cuesta nada en los años jóvenes — *Uso:* **Adaptada**. Adaptada: lo usa como táctica para cubrirse del riesgo — IDs: U-022-136 — fuente en la fila: «Devon (término "depression apartment")»
-  - `T15` *Idea:* "To have agency is to be the subject of a sentence rather than its direct object" — *Uso:* **De-tercero**. De tercero: primera señal de la agencia, que el autor extiende con la iteración (la grafía difiere de "Devon Eriksen"; probablemente es la misma persona, pero el texto no lo confirma) — IDs: U-013-195 — fuente en la fila: «Devon Ericson, "The third ingredient of success" (artículo)»
-  - `T15` *Idea:* Agencia como factor raro y cuello de botella; definición de agencia; la inteligencia como necesaria pero no suficiente y biológica; belief in the existence of hard problems; reconstruir la agencia como músculo (pesas); greenfield; ego-defending beliefs; "money is a measure of [shit] given"; objetar ganancias ajenas como imposición de prioridades; derechos de propiedad; vender tiempo no escala; vender tiempo por baja agencia; build once sell forever; "feature, not a bug"; no esperar permiso para crear — *Uso:* **De-tercero**. De tercero en la conversación; el autor la adapta después: la tipología fácil/imposible/difícil reaparece como esquema propio (U-023-221); discrepa en la noción de inteligencia (U-006-010, U-025-150) — IDs: U-006-006, U-006-007, U-006-008, U-006-010, U-006-012, U-006-013, U-006-015, U-006-016, U-006-034, U-006-038, U-006-047, U-006-048, U-006-049, U-006-050, U-006-051, U-006-054, U-006-056, U-006-057, U-006-069
-  - `T15` *Idea:* "The reason most people spend their whole lives making someone else rich is that they sell their time" — *Uso:* **De-tercero**. De tercero: el autor lee el pasaje para ilustrar que vender tiempo no escala — IDs: U-006-047 — fuente en la fila: «Theft of Fire (novela de Devon Eriksen)»
-- **IDs (todos):** U-006-001, U-006-002, U-006-003, U-006-005, U-006-006, U-006-007, U-006-008, U-006-010, U-006-011, U-006-012, U-006-013, U-006-014, U-006-015, U-006-016, U-006-017, U-006-018, U-006-019, U-006-020, U-006-021, U-006-022, U-006-023, U-006-024, U-006-025, U-006-026, U-006-027, U-006-028, U-006-029, U-006-030, U-006-031, U-006-032, U-006-033, U-006-034, U-006-035, U-006-036, U-006-037, U-006-038, U-006-039, U-006-040, U-006-041, U-006-042, U-006-043, U-006-044, U-006-045, U-006-046, U-006-047, U-006-048, U-006-049, U-006-050, U-006-051, U-006-052, U-006-054, U-006-055, U-006-056, U-006-057, U-006-059, U-006-060, U-006-061, U-006-062, U-006-064, U-006-065, U-006-066, U-006-067, U-006-068, U-006-069, U-006-070, U-006-071, U-006-072, U-006-089, U-006-090, U-010-250, U-013-164, U-013-165, U-013-166, U-013-167, U-013-168, U-013-170, U-013-171, U-013-195, U-013-210, U-021-218, U-022-129, U-022-136, U-025-110
-- **Bloques:** T01-a, T01-b, T02-a, T02-b, T03-a, T03-b, T07-a, T07-b, T08, T09-a, T09-b, T10-a, T10-b, T11, T14-a, T14-b, T15
-
-
-#### Alex Hormozi
-
-- *Grafías, atribución y notas:* U-002-016 y U-002-062: citado vía Dickie Bush ("ignorance tax").
-- **Cómo la usa (síntesis):** Mixta. Sobre todo **ejemplo y contraejemplo**: contenido de la etapa achiever, clips con captions (las ideas importan más que el formato), empujar volumen (frente a la escasez), trabajar 12 horas como identidad, direct response como habilidad que lo hizo rico. **Adaptada**: "sell to the rich" contrastado con venderle al yo pasado; "it's easier to make a million than $100,000" en la voz del autor; su PDF de ofertas se convierte en prompts. **De-tercero + propia**: estrategia como asignación de recursos limitados (ejecución macro/micro).
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T02-a` *Idea:* "Gather a ton of evidence for that person"; también ejemplo de contenido de etapa achiever — *Uso:* **De-tercero (ejemplo/referencia)**. Citado por Dickie Bush; ejemplo en las etapas — IDs: U-002-016, U-021-092, U-022-017
-  - `T03-b` *Idea:* Reutilizaron el título "How to get ahead of 99% of people" — *Uso:* **De-tercero (ejemplo/referencia)**. Caso de idea validada; Manson con una visión distinta del tema — IDs: U-004-105 — fuente en la fila: «Mark Manson, Alex Hormozi, Tom Bilyeu» *(fila compartida con: Mark Manson)*
-  - `T05-a` *Idea:* (según el autor) no hace falta grindear si se escucha bien lo que dice — *Uso:* **De-tercero** + **De-tercero (crítica o contraste)**. De-tercero, contrafuente — IDs: U-019-117
-  - `T05-b` *Idea:* Trabaja 12 horas con mentalidad de hustle porque es su identidad — *Uso:* **De-tercero (ejemplo/referencia)**. Ejemplo: no hay una forma correcta de trabajar — IDs: U-018-176
-  - `T07-a` *Idea:* Experto en ventas/marketing que publica su conocimiento; contenido intermedio — *Uso:* **De-tercero (ejemplo/referencia)**. IA entrenada con principios de expertos; ejemplo de contenido que aparece al empezar — IDs: U-016-271, U-020-124
-  - `T08` *Idea:* Estrategia como asignación de recursos limitados ante opciones ilimitadas — *Uso:* **De-tercero** + **Propia**. De-tercero + propia (ejecución macro/micro); también ejemplo de nivel 1 en marketing — IDs: U-022-140, U-022-089
-  - `T09-a` *Idea:* Clips con captions — *Uso:* **De-tercero (crítica o contraste)**. contraejemplo: las ideas importan más que el formato — IDs: U-009-025
-  - `T09-b` *Idea:* Respuesta sobre "great mood" como cima de una pirámide — *Uso:* **De-tercero**. ejemplo de terceros para ilustrar el pyramid principle — IDs: U-022-199
-  - `T10-a` *Idea:* Empujar volumen — *Uso:* **De-tercero (crítica o contraste)**. Contraejemplo para defender la escasez — IDs: U-014-198
-  - `T10-b` *Idea:* Tuit sobre mantener el buen humor como "la mayor habilidad" — *Uso:* **De-tercero (ejemplo/referencia)**. ejemplo hipotético del autor sobre pattern interrupt y clips — IDs: U-022-191
-  - `T13-a` *Idea:* Direct response como habilidad que lo hizo rico; apuesta por education products en su portafolio — *Uso:* **De-tercero (ejemplo/referencia)**. Ejemplo de autoridad — IDs: U-001-147, U-009-152
-  - `T13-b` *Idea:* Se hizo rico con el direct response antes de regalarlo todo; "sell to the rich"; apuntar a gente con dinero en agencias o venta directa — *Uso:* **Adaptada**. adaptada como ejemplo y contrastada: el autor propone venderle al yo pasado como ruta alternativa — IDs: U-007-148, U-010-305, U-009-165
-  - `T14-a` *Idea:* Métodos propios de creación de videos; el PDF de ofertas de Hormozi como fuente experta — *Uso:* **De-tercero (ejemplo/referencia)**. Ejemplos: los creadores top cultivan métodos propios; fuente de instrucciones para prompts — IDs: U-021-170, U-021-175 — fuente en la fila: «Alex Hormozi; Ali Abdaal» *(fila compartida con: Ali Abdaal)*
-  - `T14-b` *Idea:* Creación de ofertas; copywriting — *Uso:* **Adaptada**. Adaptada: se convierten en guías y prompts con IA — IDs: U-021-190 — fuente en la fila: «Alex Hormozi; Breakthrough Advertising; Great Leads» *(fila compartida con: Eugene Schwartz, Breakthrough Advertising / niveles de awareness; Great Leads)*
-  - `T15` *Idea:* "Ignorance tax" (vía Dickie Bush); "it's a lot easier to make a million than it is $100,000" — *Uso:* **De-tercero** + **Adaptada**. De tercero (ignorance tax, interpretado por Dickie); adaptada (apuntar más alto, en la voz del autor) — IDs: U-002-062, U-009-227
-- **IDs (todos):** U-001-147, U-002-016, U-002-062, U-004-105, U-007-148, U-009-025, U-009-152, U-009-165, U-009-227, U-010-305, U-014-198, U-016-271, U-018-176, U-019-117, U-020-124, U-021-092, U-021-170, U-021-175, U-021-190, U-022-017, U-022-089, U-022-140, U-022-191, U-022-199
-- **Bloques:** T02-a, T03-b, T05-a, T05-b, T07-a, T08, T09-a, T09-b, T10-a, T10-b, T13-a, T13-b, T14-a, T14-b, T15
-
-
-#### Arquetipos aspiracionales (Steve Jobs, John Hu y Vitalii, Jesucristo, Gautama Buddha, Goku)
-
-- *Grafías, atribución y notas:* Fila colectiva.
-- **Qué idea toma:** Arquetipos aspiracionales de los que tomar cualidades
-- **Cómo la usa:** **De-tercero (ejemplo/referencia)**. Ejemplos del proceso del alter ego
-- *Fila compartida con:* Steve Jobs
-- **IDs:** U-025-116
-- **Bloque:** T02-a
-
-
-#### Elon Musk
-
-- *Grafías, atribución y notas:* Aparece también en la fila colectiva de T11 (ver "Casos citados en grupo").
-- **Cómo la usa (síntesis):** **Ejemplo** recurrente: todos los admirados son creators, visión imposible con pasos construidos, "making money to create", attention as leverage, Tesla/Optimus como Nature's Compass, despidos en Twitter como dato; referente engañoso de jornadas largas. **De-tercero**: el tuit "who wrote the software running in your head?" encuadra el video de 2025.
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T01-a` *Idea:* La exploración espacial por pasión — *Uso:* **De-tercero (ejemplo/referencia)**. ejemplo de contraste con elevar la consciencia colectiva — IDs: U-024-061 — fuente en la fila: «Elon Musk (ejemplo)»
-  - `T01-b` *Idea:* "Who wrote the software running in your head?" — *Uso:* **De-tercero**. de-tercero: encuadre del video de 2025 — IDs: U-023-201 — fuente en la fila: «Elon Musk (tuit)»
-  - `T05-b` *Idea:* Altman y Musk como referentes engañosos de jornadas largas para principiantes; Altman también como ejemplo de apertura sobre cuánto trabaja; Tes Dosa como ejemplo de cómo trabajan los millonarios — *Uso:* **De-tercero (crítica o contraste)**. Contraejemplos y ejemplos — IDs: U-019-049, U-003-259, U-003-215 — fuente en la fila: «Sam Altman, Elon Musk, Tes Dosa» *(fila compartida con: Sam Altman; Tej/Tes Dosa)*
-  - `T07-b` *Idea:* Iteraciones y feedback negativo que corrigen los bugs — *Uso:* **De-tercero (ejemplo/referencia)**. Ejemplo de Nature's Compass — IDs: U-020-082 — fuente en la fila: «Elon Musk / Tesla / Optimus»
-  - `T10-a` *Idea:* La atención atrae capital, talento y recursos — *Uso:* **De-tercero (ejemplo/referencia)**. Ejemplos extremos de attention as leverage; MrBeast también criticado por su monetización — IDs: U-012-188, U-015-041, U-016-129 — fuente en la fila: «Elon Musk; MrBeast» *(fila compartida con: MrBeast)*
-  - `T12-a` *Idea:* Ejemplo de que todos los admirados son creators que comparten su voz — *Uso:* **De-tercero (ejemplo/referencia)**. ejemplo — IDs: U-010-254
-  - `T14-a` *Idea:* Señales de reemplazo por IA ("easy tasks will no longer exist…"; volverse AI-first) — *Uso:* **De-tercero**. De tercero; como contexto de urgencia, que Dan reencuadra como oportunidad — IDs: U-012-145 — fuente en la fila: «David Patterson / Elon Musk; CEO de Fiverr (transcrito "Micah Kaufman"); CEO de Shopify; Duolingo» *(fila compartida con: Ejecutivos tecnológicos sobre el reemplazo por IA (David Patterson / Elon Musk; CEO de Fiverr; CEO de Shopify; Duolingo))*
-  - `T14-a` *Idea:* 80% del staff despedido; fábricas automatizadas en más de 75% — *Uso:* **De-tercero (ejemplo/referencia)**. Datos de contexto de la disrupción y la automatización — IDs: U-006-073, U-008-118 — fuente en la fila: «Elon Musk (despidos en Twitter); Tesla»
-  - `T15` *Idea:* Visión imposible hoy con pasos construidos; "making money to create"; motivado por un propósito — *Uso:* **De-tercero (ejemplo/referencia)**. Ejemplo usado por Devon, Sahil y Dan — IDs: U-006-006, U-006-009, U-005-115, U-005-116, U-005-111 — fuente en la fila: «Elon Musk (ejemplo)»
-- **IDs (todos):** U-003-215, U-003-259, U-005-111, U-005-115, U-005-116, U-006-006, U-006-009, U-006-073, U-008-118, U-010-254, U-012-145, U-012-188, U-015-041, U-016-129, U-019-049, U-020-082, U-023-201, U-024-061
-- **Bloques:** T01-a, T01-b, T05-b, T07-b, T10-a, T12-a, T14-a, T15
-
-
-#### Frank Yang (citando a Sigmund Freud)
-
-- **Qué idea toma:** Sex drive y death drive; buscar el dolor bueno
-- **Cómo la usa:** **Adaptada**. Adaptada: "mental bodybuilding", dejar morir partes de la identidad y curar entornos tipo gimnasio
-- **IDs:** U-027-133
-- **Bloque:** T02-a
-
-
-#### James Clear (*Atomic Habits*)
-
-- *Grafías, atribución y notas:* U-002-016: citado por Dickie Bush. U-005-067: *Atomic Habits* mencionado por Sahil Bloom. Ver también "Jim Claire" (tweet), entrada aparte.
-- **Cómo la usa (síntesis):** Mixta. **Crítica**: "systems are greater than goals" ("you don't have a system without a goal"). **Adaptada**: "winners and losers have the same goals" (sistema y meta se necesitan); el gráfico del 1 % con desacuerdo (los malos hábitos son exponenciales); el origen del libro en posts y lista de email justifica la ruta posts → newsletter → libro. **Ejemplo**: autoridad, "people follow people", "time under attention", profundidad que respalda la punta, asociación palabra-autor.
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T02-a` *Idea:* "Every action you take is a vote for that type of person" — *Uso:* **De-tercero (ejemplo/referencia)**. Citado por Dickie Bush — IDs: U-002-016 — fuente en la fila: «James Clear»
-  - `T02-b` *Idea:* "One percent better every day" — *Uso:* **De-tercero (ejemplo/referencia)**. Equivalente de stacking small wins; también inspiración de las identity lists — IDs: U-024-019, U-002-017 — fuente en la fila: «James Clear»
-  - `T03-b` *Idea:* "Winners and losers have the same goals" — *Uso:* **Adaptada**. Adaptada: sistema y meta se necesitan; sistemas conscientes hacia metas autogeneradas — IDs: U-006-165 — fuente en la fila: «James Clear»
-  - `T04` *Idea:* "Systems are greater than goals" — *Uso:* **De-tercero (crítica o contraste)**. Criticada en su lectura literal popular: "systems can't exist without goals" — IDs: U-020-044
-  - `T04` *Idea:* Contenido corto con un fin significativo, libros y formatos largos — *Uso:* **De-tercero (ejemplo/referencia)**. Ejemplos de contenido "syntropic" frente al entrópico — IDs: U-015-176 — fuente en la fila: «James Clear, Naval Ravikant, Andrew Huberman» *(fila compartida con: Naval Ravikant; Andrew Huberman)*
-  - `T05-b` *Idea:* "Systems are greater than goals" — *Uso:* **De-tercero (crítica o contraste)**. Criticada: "you don't have a system without a goal"; los sistemas no eliminan la necesidad de metas — IDs: U-027-139, U-027-138 — fuente en la fila: «James Clear»
-  - `T06` *Idea:* Ejemplo de leer sobre hábitos sin aplicarlos — *Uso:* **De-tercero**. De-tercero: ilustración de la dopamina de reunir información — IDs: U-005-067 — fuente en la fila: «Atomic Habits (mencionado por Sahil Bloom)»
-  - `T06` *Idea:* El gráfico del 1 % mejor/peor cada día — *Uso:* **Adaptada**. Adaptada con desacuerdo parcial: los malos hábitos son exponenciales y no se estancan — IDs: U-020-130
-  - `T09-a` *Idea:* Asociación entre una palabra ("habits") y un autor gracias a experimentos de conducta — *Uso:* **De-tercero (ejemplo/referencia)**. ejemplo de "make tangibility tangible" — IDs: U-004-011
-  - `T09-b` *Idea:* El libro nació de una serie de posts y una lista de email; sus lectores leen sus tweets con mejor lente — *Uso:* **Adaptada**. ejemplo adaptado para justificar el libro propio y la ruta posts → newsletter → libro — IDs: U-002-040, U-020-157 — fuente en la fila: «James Clear / Atomic Habits»
-  - `T10-a` *Idea:* Profundidad (libro) que respalda la punta; atribución de resultados — *Uso:* **De-tercero (ejemplo/referencia)**. Ejemplo recurrente — IDs: U-018-014, U-004-148, U-021-035, U-004-024, U-010-349, U-012-111
-  - `T10-b` *Idea:* Ejemplo de autoridad: la gente sigue a la persona y su worldview ocupa la mente del público — *Uso:* **De-tercero (ejemplo/referencia)**. ejemplo propio del autor para "people follow people" y "time under attention" — IDs: U-015-143, U-009-107, U-021-034
-- **IDs (todos):** U-002-016, U-002-017, U-002-040, U-004-011, U-004-024, U-004-148, U-005-067, U-006-165, U-009-107, U-010-349, U-012-111, U-015-143, U-015-176, U-018-014, U-020-044, U-020-130, U-020-157, U-021-034, U-021-035, U-024-019, U-027-138, U-027-139
-- **Bloques:** T02-a, T02-b, T03-b, T04, T05-b, T06, T09-a, T09-b, T10-a, T10-b
-
-
-#### Martin Luther King Jr., Kobe Bryant, Eddie Hall (alter egos)
-
-- **Qué idea toma:** Ejemplos de alter egos y de tomar cualidades de otra situación o identidad
-- **Cómo la usa:** **De-tercero**. De tercero (probablemente vía Herman, no declarado)
-- **IDs:** U-025-098
-- **Bloque:** T02-a
-
-
-#### Steve Jobs
-
-- **Cómo la usa (síntesis):** **Ejemplo**: jornadas cortas y descanso; cómo construye un producto (tema validado para creadores); arquetipo aspiracional para el alter ego.
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T02-a` *Idea:* Arquetipos aspiracionales de los que tomar cualidades — *Uso:* **De-tercero (ejemplo/referencia)**. Ejemplos del proceso del alter ego — IDs: U-025-116 — fuente en la fila: «Steve Jobs, John Hu y Vitalii (Stan), Jesucristo, Gautama Buddha, Goku» *(fila compartida con: Arquetipos aspiracionales (Steve Jobs, John Hu y Vitalii, Jesucristo, Gautama Buddha, Goku))*
-  - `T03-b` *Idea:* Éxito atribuido a jornadas cortas con actividades de descanso — *Uso:* **De-tercero (ejemplo/referencia)**. Ejemplos de diseño intencional del estilo de vida — IDs: U-017-184 — fuente en la fila: «Romanos, griegos antiguos, Steve Jobs» *(fila compartida con: Antiguos griegos y romanos (genérico))*
-  - `T05-a` *Idea:* Éxito atribuido a pocas horas y mucho descanso — *Uso:* **De-tercero (ejemplo/referencia)**. Referencias históricas de apoyo — IDs: U-017-063 — fuente en la fila: «Antiguos romanos y griegos, Steve Jobs» *(fila compartida con: Antiguos griegos y romanos (genérico))*
-  - `T05-b` *Idea:* Jornadas cortas, caminatas y rutinas como parte del éxito creativo (Darwin y sus libros) — *Uso:* **De-tercero (ejemplo/referencia)**. Ejemplos históricos, sin fuente precisa (posiblemente vía Rest) — IDs: U-003-260, U-019-094, U-005-093 — fuente en la fila: «Steve Jobs, Charles Darwin, Hemingway, Tarantino» *(fila compartida con: Charles Darwin)*
-  - `T09-a` *Idea:* Cómo construye un producto — *Uso:* **Adaptada**. tema validado reencuadrado para creadores — IDs: U-015-147
-- **IDs (todos):** U-003-260, U-005-093, U-015-147, U-017-063, U-017-184, U-019-094, U-025-116
-- **Bloques:** T02-a, T03-b, T05-a, T05-b, T09-a
-
-
-#### Todd Herman (*The Alter Ego Effect*)
-
-- *Grafías, atribución y notas:* U-025-098 (alter egos) es "probablemente vía Herman, no declarado".
-- **Qué idea toma:** El alter ego como puente entre quién eres y quién debes ser; salir de uno mismo para ver el cuadro completo
-- **Cómo la usa:** **Adaptada**. Adaptada: subidentidad "warrior", mecanismo propio de los 50 bits, proceso en tres pasos, "vessel" en lugar de máscara
-- **IDs:** U-025-092, U-025-116
-- **Bloque:** T02-a
-
-
-#### Albert Einstein (atribuciones dudosas)
-
-- *Grafías, atribución y notas:* La atribución varía: sin atribuir, firme, "supposedly" (U-021-079 y relacionadas); "atribución dudosa según el autor" (U-022-023, U-026-127); el autor duda de la atribución de la cita de la locura (U-021-052); "según atribución común" (U-017-220).
-- **Cómo la usa (síntesis):** **Adaptada**: "level of mind" y crecimiento vertical (la meta como polo opuesto del problema; errores como luz); la locura como reflejo de la cibernética y justificación de la experimentación que produce exponential events.
-- **Qué idea toma y cómo la usa, por bloque:**
-  - `T02-b` *Idea:* "You can't solve a problem from the same level of consciousness that created it" — *Uso:* **Adaptada**. Adaptada a "level of mind"; la atribución varía (sin atribuir, firme, "supposedly") — IDs: U-021-079, U-025-115, U-027-171, U-027-048, U-023-124, U-009-083 — fuente en la fila: «Albert Einstein (atribución con reservas)»
-  - `T04` *Idea:* "Insanity is doing the same thing over and over and expecting a different result" — *Uso:* **De-tercero**. De-tercero; el autor duda de la atribución y la usa como reflejo de la cibernética — IDs: U-021-052 — fuente en la fila: «Albert Einstein (atribución dudosa)»
-  - `T08` *Idea:* No se resuelve un problema desde el mismo nivel de mente que lo creó — *Uso:* **Adaptada**. Adaptada: crecimiento vertical; la meta como polo opuesto del problema; errores como luz — IDs: U-022-023, U-026-127 — fuente en la fila: «Albert Einstein (atribución dudosa según el autor)»
-  - `T10-a` *Idea:* Hacer lo mismo esperando resultados distintos — *Uso:* **De-tercero (ejemplo/referencia)**. Usada para justificar la experimentación que produce exponential events — IDs: U-017-220 — fuente en la fila: «Einstein (definición de locura, según atribución común)»
-- **IDs (todos):** U-009-083, U-017-220, U-021-052, U-021-079, U-022-023, U-023-124, U-025-115, U-026-127, U-027-048, U-027-171
-- **Bloques:** T02-b, T04, T08, T10-a
-- **Contexto complementario:** La frase sobre la locura se atribuye con frecuencia a Einstein sin fuente verificable.
-
-
-#### Cita "Man cannot remake himself without suffering..."
-
-- *Grafías, atribución y notas:* Sin atribuir.
-- **Qué idea toma:** El que se rehace es material y escultor a la vez
-- **Cómo la usa:** **De-tercero (ejemplo/referencia)**. Apoyo de la self-architecture
-- **IDs:** U-024-046
-- **Bloque:** T02-b
-- **Contexto complementario:** La frase se atribuye a Alexis Carrel.
-
-
-#### "You become what you repeatedly do"
-
-- *Grafías, atribución y notas:* Sin atribuir.
-- **Qué idea toma:** La identidad se forma por repetición
-- **Cómo la usa:** **De-tercero (ejemplo/referencia)**. Usada como principio propio
-- **IDs:** U-018-087, U-019-098
-- **Bloque:** T02-a
+#### Alan Watts - *Grafías, atribución y notas:* En U-021-057 la atribución es ambigua en la transcripción. - **Cómo la usa (síntesis):** Mixta. **Adaptada** en sus usos centrales: "sensible people get paid for doing what they enjoy doing" se vuelve tesis de "paid to be yourself", de la nueva economía y de "the art of living is getting paid to play"; el bodhisattva, modelo preferido frente al "no self" monástico; "existence is relationship" sostiene el yo como distinción y lo que une a los holones. **De-tercero** como apoyo (backwards law, no resistir el frío), como modelo de articulación y síntesis, y como **contraejemplo** (escribir como filósofo sin ventas; su alcoholismo, usado para separar mensaje y mensajero). Discute una idea (la melodía): "the destination determines the journey". - **Qué idea toma y cómo la usa, por bloque:** - `T01-a` *Idea:* Conferencias que abren la mente y llevan a pensar en grande — *Uso:* **Propia**. propia (historia personal); también lo cita como […]
+
+#### Carl Jung - *Grafías, atribución y notas:* La segunda cita de U-010-179 está parafraseada "con dudas". - **Cómo la usa (síntesis):** **De-tercero** (cita del inconsciente y el destino, cita del árbol y el infierno) para justificar reprogramar el inconsciente y la anti-visión. **Adaptada**: el shadow work se cumple "sentándose con el aburrimiento". La alquimia junguiana, marco recomendado. - **Qué idea toma y cómo la usa, por bloque:** - `T01-b` *Idea:* "Until you make the unconscious conscious, it will direct your life and you will call it fate" — *Uso:* **De-tercero**. de-tercero: justifica la tarea de reprogramar el inconsciente — IDs: U-023-202 - `T03-a` *Idea:* "No tree can grow to Heaven unless its roots reach down to Hell"; y (parafraseado, con dudas) "if you don't make the unconscious conscious, it will determine your fate" — *Uso:* **De-tercero**. De-tercero; apoyo de la anti-visión y de volver conscientes las metas — IDs: U-015-058, U-010-179 - `T06` *Idea:* Shadow work: confrontar los aspectos […]
+
+#### Daniel Schmachtenberger - **Cómo la usa (síntesis):** Mixta. **De-tercero** como marco (metacrisis, generator functions, attractors, epistemic commons, "wisdom is not algorithmic", la palabra escrita y la democracia). **Adaptada**: analogía propia del agua para la información, dinámicas rivales aplicadas al internet de creadores y a la IA, unschooling como aprender lo necesario construyendo, "deep generalist" adoptado como identidad future-proof (una vez como "deep specialist"). Modelo admirado de articulación e insumo de Human 3.0. - **Qué idea toma y cómo la usa, por bloque:** - `T01-a` *Idea:* Epistemic commons — *Uso:* **Adaptada**. adaptada: analogía propia del agua para la información — IDs: U-014-114 - `T01-b` *Idea:* Metacrisis, generator functions, attractors, third attractor; poder de dioses requiere sabiduría de dioses; la palabra escrita y la democracia; ser "deep generalist" — *Uso:* **De-tercero**. de-tercero: marco para las redes, la escritura y el pensamiento de panorama — IDs: U-014-117, U-014-118, U-014-119, U-015-161, U-015-162, U-015-174, U-006-171 - `T02-a` *Idea:* Marco de la metacrisis — *Uso:* […]
+
+#### Friedrich Nietzsche - *Grafías, atribución y notas:* En 2026 la cita de la felicidad aparece como "niche quote" sin fuente segura (U-012-180). - **Cómo la usa (síntesis):** **Adaptada**: "happiness is the feeling that power increases..." pasa de cita de tercero (2023) a fórmula propia con "connection to something greater", aplicada al progreso personal y al negocio como vehículo. También modelo de articulación y de mente forjada por ensayos. - **Qué idea toma y cómo la usa, por bloque:** - `T02-b` *Idea:* La vida disfrutable en la superación de la resistencia ("musings of many philosophers") — *Uso:* **Adaptada**. Adaptada, junto con la psicología del flow — IDs: U-024-120 - `T08` *Idea:* Articulación, magia/poética, claridad, consejo conciso, lo críptico, elegancia — *Uso:* **De-tercero (ejemplo/referencia)**. Modelos admirados de pensamiento y articulación — IDs: U-021-002, U-022-045, U-022-169 — fuente en la fila: «Jordan Peterson, Alan Watts, Daniel Schmachtenberger, Seneca, Nietzsche» *(fila compartida con: Alan Watts; Daniel Schmachtenberger; Jordan Peterson; Séneca)* - `T09-b` *Idea:* […]
+
+#### Mihaly Csikszentmihalyi - *Grafías, atribución y notas:* Normalización: aparece como "the godfather of flow" y por sus libros *Flow* y *The Evolving Self*. En U-023-155 la cita es "no atribuida, probable"; en U-023-145 la cita va sin atribución explícita. Steven Kotler aparece mencionado junto a él (U-023-216). - **Cómo la usa (síntesis):** Mixta, con fuerte **adaptación**. Cita literalmente "order in consciousness" (cinco videos) y lo resume como "order in consciousness equals enjoyment"; sobre el gráfico desafío/habilidad añade ansiedad = autoconsciencia / aburrimiento = egocentrismo, "anxiety = lack of clarity → self-education" y el flow como "nature's signal". La psychic entropy pasa de lección atribuida (2022-04) a vocabulario propio sin atribución, con "mental disorder" y "psychic negentropy" añadidos. También base de "design the game", la vida como videojuego y la jerarquía de metas. - **Qué idea toma y cómo la usa, por bloque:** - `T02-a` *Idea:* Construir un yo que sea "a conscious personal creation"; psicología del flow — *Uso:* […]
+
+#### Steven Kotler - **Cómo la usa (síntesis):** **Adaptada** de forma progresiva: los cinco impulsores intrínsecos se citan primero con duda (2022), luego como marco propio "de arriba abajo" (maestría ← obra de vida, autonomía ← emprendimiento...) y finalmente sin atribución como "drivers of the flow state". El flow como cóctel neuroquímico se vincula a meta futura + reglas del presente, aclarando que Kotler "doesn't say this directly". El MTP se vuelve "la visión es tu MTP". - **Qué idea toma y cómo la usa, por bloque:** - `T02-a` *Idea:* Condiciones del flow — *Uso:* **De-tercero (ejemplo/referencia)**. Mencionado junto a Csikszentmihalyi como referencia — IDs: U-023-216 - `T03-a` *Idea:* "Motivation gets you into the game, learning keeps you playing, creativity is how you steer, flow is how you turbo boost the results" — *Uso:* **De-tercero**. De-tercero; abre el paso "become above average" — IDs: U-007-178, U-001-115 - `T03-a` *Idea:* El flow como cóctel neuroquímico — *Uso:* **Adaptada**. Adaptada: el autor […]
+
+#### Budismo - *Grafías, atribución y notas:* U-026-246 menciona también a Alan Watts como influencia. - **Cómo la usa (síntesis):** **Adaptada** (a veces con crítica): la identificación con ideologías como fuente de sufrimiento; "life is suffering" se malinterpreta (se fluye con el sufrimiento); beginner's mind como resultado de invertir la cinta hedónica; la impermanencia, que la entropía "goes even further"; el apego a la identidad puede usarse "para bien". Buda como ejemplo de alta consciencia. - **Qué idea toma y cómo la usa, por bloque:** - `T02-a` *Idea:* Advertencia contra apegar la identidad; ego death; capas del yo — *Uso:* **Adaptada**. Adaptada e invertida: el apego puede usarse "para bien"; los anillos concéntricos señalan lo que el Budismo intenta mostrar — IDs: U-017-009, U-003-060, U-027-008, U-027-133 — fuente en la fila: «Maestros espirituales, místicos, Budismo» *(fila compartida con: Enseñanzas espirituales y maestros (genérico))* - `T04` *Idea:* Nada es permanente; todo cambia — *Uso:* **Adaptada**. Adaptada: la entropía "goes even further" […]
+
+#### Enseñanzas espirituales y maestros (genérico) - **Cómo la usa (síntesis):** **Adaptada**: ego death → pyramid scheme of attention; "the now" y "no mind" equiparados con grados de flow; el apego a la identidad invertido para bien. La presencia contrastada con el flow. - **Qué idea toma y cómo la usa, por bloque:** - `T01-b` *Idea:* Ego death al retirar la atención del yo — *Uso:* **Adaptada**. adaptada: pyramid scheme of attention — IDs: U-016-194 — fuente en la fila: «Enseñanzas espirituales y meditación (genéricas)» - `T02-a` *Idea:* Advertencia contra apegar la identidad; ego death; capas del yo — *Uso:* **Adaptada**. Adaptada e invertida: el apego puede usarse "para bien"; los anillos concéntricos señalan lo que el Budismo intenta mostrar — IDs: U-017-009, U-003-060, U-027-008, U-027-133 — fuente en la fila: «Maestros espirituales, místicos, Budismo» *(fila compartida con: Budismo)* - `T03-a` *Idea:* La pérdida de autoconsciencia y egocentrismo como fin del sufrimiento; el presente — *Uso:* **Adaptada**. Adaptada: equipara esos […]
+
+#### Indefensión aprendida (learned helplessness) - *Grafías, atribución y notas:* Sin autor nombrado. Ver "Sellingman" (a). - **Qué idea toma:** Definición estándar de indefensión aprendida - **Cómo la usa:** **De-tercero**. De tercero, sin autor nombrado; diagnóstico de la causa raíz - **IDs:** U-022-001 - **Bloque:** T02-b
+
+#### Ley de Hebb (Donald Hebb) - **Qué idea toma:** "Neurons that fire together wire together"; neuroplasticidad - **Cómo la usa:** **Adaptada**. Adaptada: ser extremo y la novedad aceleran la neuroplasticidad más que la repetición - **IDs:** U-019-151 - **Bloque:** T02-a
+
+#### Portfolio of small bets - *Grafías, atribución y notas:* Sin autor nombrado. Ver Daniel Vassallo (d2), citado por Justin Welsh. - **Qué idea toma:** Apuestas pequeñas y graduales - **Cómo la usa:** **De-tercero (ejemplo/referencia)**. Equivalente de stacking small wins - **IDs:** U-024-019 - **Bloque:** T02-b
+
+#### Spiral Dynamics (Christopher Cowan y Don Beck) - **Cómo la usa (síntesis):** **Adaptada**: metáfora de la espiral; insumo de las cuatro macroetapas, los tres macro niveles, tier 1 / tier 2, Human 3.0 y la tensión de progreso del marketing; también tema de estudio y lente de su worldview. Señala que se solapa con los niveles de awareness. - **Qué idea toma y cómo la usa, por bloque:** - `T02-a` *Idea:* Colores y etapas de sistemas de valores; ~50% conformista — *Uso:* **Adaptada**. Adaptada: metáfora de la espiral, insumo de las cuatro macroetapas y de Human 3.0 — IDs: U-021-084, U-021-081, U-013-193, U-022-061, U-022-062, U-015-172, U-024-101 — fuente en la fila: «Spiral Dynamics» - `T02-b` *Idea:* Desarrollo de los sistemas de valores en tiers; alternancia entre foco en uno mismo y en el otro — *Uso:* **Adaptada**. Adaptada en los tres macro niveles, en tier 1 / tier 2 y en la tensión de progreso del marketing; también como […]
+
+#### Teoría de las ventanas rotas - *Grafías, atribución y notas:* Sin autor nombrado. - **Qué idea toma:** El entorno ordenado o roto condiciona la conducta (unos 50 % menos de delitos) - **Cómo la usa:** **Adaptada**. Adaptada a los entornos digitales: "thousands of broken windows a day" - **IDs:** U-018-037 - **Bloque:** T06
+
+#### Tradición cristiana ("What would Jesus do", Christ Consciousness) - *Grafías, atribución y notas:* El autor aclara que no es cristiano. - **Cómo la usa (síntesis):** **Adaptada / analogía**: "what would the universe do" en la escalera de perspectivas; Jesús como alter ego más desarrollado e identidad sin apegos; ejemplo de alta consciencia (sin "traer religión"). - **Qué idea toma y cómo la usa, por bloque:** - `T02-a` *Idea:* Jesús como símbolo de una conciencia alta, con identidad no atada a nada — *Uso:* **Adaptada**. Adaptada: el autor no es cristiano; lo usa como alter ego más desarrollado y como ejemplo de identidad sin apegos — IDs: U-025-114, U-027-066 - `T03-b` *Idea:* Pregunta-guía de conducta — *Uso:* **De-tercero (ejemplo/referencia)**. Analogía para "what would the universe do" en la escalera de perspectivas — IDs: U-020-068 — fuente en la fila: «"What would Jesus do"» - `T16-b` *Idea:* Ejemplos de individuos de alta consciencia — *Uso:* **Propia**. Propia: ilustran la empatía de […]
+
+#### Dickie Bush - *Grafías, atribución y notas:* Invitado (conversación larga; Ship 30 for 30). A través de él llegan citas de James Clear, Alex Hormozi, Paul Graham, Robert Cialdini y Ray Dalio, y el modelo de Christian Guzman. - **Cómo la usa (síntesis):** Mayormente **de-tercero** (ideas del invitado: identity lists, bloques de 12 semanas, just-in-time learning, abundant financial mindset, entrepreneurial barbell, polaridad). El autor **adapta** y responde: convierte "forcing function" en el one-person business como forcing function, reformula el shipyard como "mastery facility", añade "procrastination disguised as productivity", nombra "the destructive self-improvement game" y contesta la polaridad con "peace and progress" y "even moderation". En algunos pasajes la idea es co-construida. - **Qué idea toma y cómo la usa, por bloque:** - `T01-a` *Idea:* Golden handcuffs e inflación del estilo de vida; "self-awareness all the way down" — *Uso:* **De-tercero**. de-tercero, con añadidos de Dan — IDs: U-002-048, U-002-088 — fuente en la fila: «Dickie Bush (invitado)» - `T02-a` […]
+
+#### Devon Eriksen - *Grafías, atribución y notas:* Grafías en las transcripciones: "Devin Erickson", "Devon Ericson", "Devin Ericson", "Ericson". Una fila (U-022-136) solo dice "Devon" (término "depression apartment"); otra (U-013-195) es un artículo de "Devon Ericson" que la fila considera probablemente la misma persona sin confirmarlo; se agrupan aquí con esa reserva. Autor de la novela *Theft of Fire*. A través de él llegan Cicerón, Yuval Noah Harari (como contraejemplo), Steven Crowder, Heinlein, Niven y Pournelle. - **Cómo la usa (síntesis):** **De-tercero** en la entrevista (educación como aprender a enseñarse, agencia como factor raro, "natural/artificial stupidity", editoriales como VC, vender tiempo no escala). El autor la **adapta** después: los tres vessels y la agencia como pegamento sobre las Seven Liberal Arts, el future-proof skill stack, "education is not programming", el wage slave, la tipología fácil/imposible/difícil como esquema propio (U-023-221). **Discrepa** en la noción de inteligencia (la corrige hacia "perspective"). - **Qué idea toma y cómo la usa, por bloque:** - […]
+
+#### Alex Hormozi - *Grafías, atribución y notas:* U-002-016 y U-002-062: citado vía Dickie Bush ("ignorance tax"). - **Cómo la usa (síntesis):** Mixta. Sobre todo **ejemplo y contraejemplo**: contenido de la etapa achiever, clips con captions (las ideas importan más que el formato), empujar volumen (frente a la escasez), trabajar 12 horas como identidad, direct response como habilidad que lo hizo rico. **Adaptada**: "sell to the rich" contrastado con venderle al yo pasado; "it's easier to make a million than $100,000" en la voz del autor; su PDF de ofertas se convierte en prompts. **De-tercero + propia**: estrategia como asignación de recursos limitados (ejecución macro/micro). - **Qué idea toma y cómo la usa, por bloque:** - `T02-a` *Idea:* "Gather a ton of evidence for that person"; también ejemplo de contenido de etapa achiever — *Uso:* **De-tercero (ejemplo/referencia)**. Citado por Dickie Bush; ejemplo en las etapas — IDs: U-002-016, U-021-092, U-022-017 - `T03-b` *Idea:* Reutilizaron el título "How to get ahead […]
+
+#### Arquetipos aspiracionales (Steve Jobs, John Hu y Vitalii, Jesucristo, Gautama Buddha, Goku) - *Grafías, atribución y notas:* Fila colectiva. - **Qué idea toma:** Arquetipos aspiracionales de los que tomar cualidades - **Cómo la usa:** **De-tercero (ejemplo/referencia)**. Ejemplos del proceso del alter ego - *Fila compartida con:* Steve Jobs - **IDs:** U-025-116 - **Bloque:** T02-a
+
+#### Elon Musk - *Grafías, atribución y notas:* Aparece también en la fila colectiva de T11 (ver "Casos citados en grupo"). - **Cómo la usa (síntesis):** **Ejemplo** recurrente: todos los admirados son creators, visión imposible con pasos construidos, "making money to create", attention as leverage, Tesla/Optimus como Nature's Compass, despidos en Twitter como dato; referente engañoso de jornadas largas. **De-tercero**: el tuit "who wrote the software running in your head?" encuadra el video de 2025. - **Qué idea toma y cómo la usa, por bloque:** - `T01-a` *Idea:* La exploración espacial por pasión — *Uso:* **De-tercero (ejemplo/referencia)**. ejemplo de contraste con elevar la consciencia colectiva — IDs: U-024-061 — fuente en la fila: «Elon Musk (ejemplo)» - `T01-b` *Idea:* "Who wrote the software running in your head?" — *Uso:* **De-tercero**. de-tercero: encuadre del video de 2025 — IDs: U-023-201 — fuente en la fila: «Elon Musk (tuit)» - `T05-b` *Idea:* Altman y Musk como referentes engañosos de jornadas largas para […]
+
+#### Frank Yang (citando a Sigmund Freud) - **Qué idea toma:** Sex drive y death drive; buscar el dolor bueno - **Cómo la usa:** **Adaptada**. Adaptada: "mental bodybuilding", dejar morir partes de la identidad y curar entornos tipo gimnasio - **IDs:** U-027-133 - **Bloque:** T02-a
+
+#### James Clear (*Atomic Habits*) - *Grafías, atribución y notas:* U-002-016: citado por Dickie Bush. U-005-067: *Atomic Habits* mencionado por Sahil Bloom. Ver también "Jim Claire" (tweet), entrada aparte. - **Cómo la usa (síntesis):** Mixta. **Crítica**: "systems are greater than goals" ("you don't have a system without a goal"). **Adaptada**: "winners and losers have the same goals" (sistema y meta se necesitan); el gráfico del 1 % con desacuerdo (los malos hábitos son exponenciales); el origen del libro en posts y lista de email justifica la ruta posts → newsletter → libro. **Ejemplo**: autoridad, "people follow people", "time under attention", profundidad que respalda la punta, asociación palabra-autor. - **Qué idea toma y cómo la usa, por bloque:** - `T02-a` *Idea:* "Every action you take is a vote for that type of person" — *Uso:* **De-tercero (ejemplo/referencia)**. Citado por Dickie Bush — IDs: U-002-016 — fuente en la fila: «James Clear» - `T02-b` *Idea:* "One percent better every day" — *Uso:* […]
+
+#### Martin Luther King Jr., Kobe Bryant, Eddie Hall (alter egos) - **Qué idea toma:** Ejemplos de alter egos y de tomar cualidades de otra situación o identidad - **Cómo la usa:** **De-tercero**. De tercero (probablemente vía Herman, no declarado) - **IDs:** U-025-098 - **Bloque:** T02-a
+
+#### Steve Jobs - **Cómo la usa (síntesis):** **Ejemplo**: jornadas cortas y descanso; cómo construye un producto (tema validado para creadores); arquetipo aspiracional para el alter ego. - **Qué idea toma y cómo la usa, por bloque:** - `T02-a` *Idea:* Arquetipos aspiracionales de los que tomar cualidades — *Uso:* **De-tercero (ejemplo/referencia)**. Ejemplos del proceso del alter ego — IDs: U-025-116 — fuente en la fila: «Steve Jobs, John Hu y Vitalii (Stan), Jesucristo, Gautama Buddha, Goku» *(fila compartida con: Arquetipos aspiracionales (Steve Jobs, John Hu y Vitalii, Jesucristo, Gautama Buddha, Goku))* - `T03-b` *Idea:* Éxito atribuido a jornadas cortas con actividades de descanso — *Uso:* **De-tercero (ejemplo/referencia)**. Ejemplos de diseño intencional del estilo de vida — IDs: U-017-184 — fuente en la fila: «Romanos, griegos antiguos, Steve Jobs» *(fila compartida con: Antiguos griegos y romanos (genérico))* - `T05-a` *Idea:* Éxito atribuido a pocas horas y mucho descanso — *Uso:* **De-tercero (ejemplo/referencia)**. Referencias históricas de apoyo — IDs: U-017-063 — fuente […]
+
+#### Todd Herman (*The Alter Ego Effect*) - *Grafías, atribución y notas:* U-025-098 (alter egos) es "probablemente vía Herman, no declarado". - **Qué idea toma:** El alter ego como puente entre quién eres y quién debes ser; salir de uno mismo para ver el cuadro completo - **Cómo la usa:** **Adaptada**. Adaptada: subidentidad "warrior", mecanismo propio de los 50 bits, proceso en tres pasos, "vessel" en lugar de máscara - **IDs:** U-025-092, U-025-116 - **Bloque:** T02-a
+
+#### Albert Einstein (atribuciones dudosas) - *Grafías, atribución y notas:* La atribución varía: sin atribuir, firme, "supposedly" (U-021-079 y relacionadas); "atribución dudosa según el autor" (U-022-023, U-026-127); el autor duda de la atribución de la cita de la locura (U-021-052); "según atribución común" (U-017-220). - **Cómo la usa (síntesis):** **Adaptada**: "level of mind" y crecimiento vertical (la meta como polo opuesto del problema; errores como luz); la locura como reflejo de la cibernética y justificación de la experimentación que produce exponential events. - **Qué idea toma y cómo la usa, por bloque:** - `T02-b` *Idea:* "You can't solve a problem from the same level of consciousness that created it" — *Uso:* **Adaptada**. Adaptada a "level of mind"; la atribución varía (sin atribuir, firme, "supposedly") — IDs: U-021-079, U-025-115, U-027-171, U-027-048, U-023-124, U-009-083 — fuente en la fila: «Albert Einstein (atribución con reservas)» - `T04` *Idea:* "Insanity is doing the same thing over and over and expecting a different result" — […]
+
+#### Cita "Man cannot remake himself without suffering..." - *Grafías, atribución y notas:* Sin atribuir. - **Qué idea toma:** El que se rehace es material y escultor a la vez - **Cómo la usa:** **De-tercero (ejemplo/referencia)**. Apoyo de la self-architecture - **IDs:** U-024-046 - **Bloque:** T02-b - **Contexto complementario:** La frase se atribuye a Alexis Carrel.
+
+#### "You become what you repeatedly do" - *Grafías, atribución y notas:* Sin atribuir. - **Qué idea toma:** La identidad se forma por repetición - **Cómo la usa:** **De-tercero (ejemplo/referencia)**. Usada como principio propio - **IDs:** U-018-087, U-019-098 - **Bloque:** T02-a
