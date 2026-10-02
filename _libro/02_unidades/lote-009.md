@@ -217,7 +217,7 @@
 - **ejemplos:** The Power of Now; 3,000 x $10 = $30,000 estimate.
 - **cita:** "he replicated a part of himself in my mind through education that I attribute my progress to him"
 - **terminos:** ideas stick
-- **origen:** de-tercero:Eckhart Tolle (adaptada como ejemplo)
+- **origen:** de-tercero:Eckhart Tolle
 - **nivel:** intermedio
 - **prerrequisitos:** U-009-016
 - **fuente:** The Micro Education Business Model (How To Monetize Your Knowledge).md, 10:33-12:12, 2023-04-23
@@ -451,7 +451,7 @@
 - **ejemplos:** Sean Puri.
 - **cita:** "if you build a newsletter you reach out for sponsorships and they pay a lot of money I promise"
 - **terminos:** sponsorships
-- **origen:** de-tercero:Sean Puri (caso citado)
+- **origen:** de-tercero:Sean Puri
 - **nivel:** complementario
 - **prerrequisitos:** U-009-021
 - **fuente:** The Micro Education Business Model (How To Monetize Your Knowledge).md, 24:27, 2023-04-23
@@ -464,7 +464,7 @@
 - **ejemplos:** Fitness YouTuber "Max" (name ambiguous in transcript).
 - **cita:** "creating your own products for service will always make you the most money"
 - **terminos:** AdSense, sponsorships
-- **origen:** de-tercero:fitness YouTuber "Max" (nombre ambiguo)
+- **origen:** de-tercero:"Max", fitness YouTuber (name ambiguous in transcript)
 - **nivel:** complementario
 - **prerrequisitos:** U-009-035
 - **fuente:** The Micro Education Business Model (How To Monetize Your Knowledge).md, 24:27-25:12, 2023-04-23
@@ -477,7 +477,7 @@
 - **ejemplos:** Justin Welsh.
 - **cita:** "even people that get like a 10K a month Revenue stream that's life-changing"
 - **terminos:** ninguno
-- **origen:** de-tercero:Justin Welsh (caso citado)
+- **origen:** de-tercero:Justin Welsh
 - **nivel:** complementario
 - **prerrequisitos:** U-009-036
 - **fuente:** The Micro Education Business Model (How To Monetize Your Knowledge).md, 25:12, 2023-04-23
@@ -564,7 +564,7 @@
 - **tension:** ninguna
 
 ## U-009-044
-- **tipo:** observación
+- **tipo:** opinión
 - **titulo:** High-level entrepreneurs Dan talks to keep bringing up owned distribution and regret not posting sooner
 - **desarrollo:** Dan is connected with and follows many high-level entrepreneurs (private equity, agency, software and related fields). In almost every conversation "the point of owned distribution comes up." Things said directly to him: "I don't know why I didn't start posting content sooner," "it's insane how much the marketing world has changed in a few short years," "a personal brand is becoming less and less optional." The pattern keeps appearing with business owners who know they need to post content "or just get in to Virtual Reality by displaying their character as a personal brand."
 - **ejemplos:** Private equity, agency and software entrepreneurs.
@@ -681,7 +681,7 @@
 - **tension:** ninguna
 
 ## U-009-053
-- **tipo:** distinción
+- **tipo:** concepto
 - **titulo:** Focus on one thing long term and the thousands of things short term; that's diversifying study, not shiny object syndrome
 - **desarrollo:** "Focus on one thing long term and focus on the multitude, the thousands of things short term that will allow you to get there. That's not shiny object syndrome, that's being smart and diversifying your study." The single long-term goal (a better life) acts as the filter that unifies varied study.
 - **ejemplos:** ninguno
@@ -798,7 +798,7 @@
 - **tension:** ninguna
 
 ## U-009-062
-- **tipo:** distinción
+- **tipo:** concepto
 - **titulo:** Incepting at a specific level of education vs. attracting a broad market at the bottom and educating them into your worldview
 - **desarrollo:** Most marketers "incept someone at a specific level of education" rather than "attracting a much broader market at the bottom and educating them into the specific and hopefully holistic and purposeful worldview" they put across to sell products. The second approach extends the journey and nurturing of the customer or reader, changing their life on a much deeper level "because you're guiding them through the entire actualization journey." Identity mechanism: a person's identity influences what they desire because of who they surround themselves with and what they see as opportunity. "When you create identities through education by leading people towards your vision through your narrative, people grow to desire the product that will help them reach that goal."
 - **ejemplos:** ninguno
@@ -830,7 +830,7 @@
 - **ejemplos:** ninguno
 - **cita:** "this is where they're most ready to buy"
 - **terminos:** levels of awareness, unaware, problem aware, solution aware, product aware, most aware
-- **origen:** adaptada-de:Eugene Schwartz (Breakthrough Advertising)
+- **origen:** adaptada-de:Eugene Schwartz, Breakthrough Advertising
 - **nivel:** fundamental
 - **prerrequisitos:** ninguno
 - **fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md, 11:51-13:28, 2023-09-17
@@ -876,7 +876,7 @@
 - **tension:** ninguna
 
 ## U-009-068
-- **tipo:** distinción
+- **tipo:** concepto
 - **titulo:** Short form captures attention and funnels it; long form holds invested attention, segments the audience and builds trust through expertise
 - **desarrollo:** Two main types of content and communication. Long form: podcasts, videos, articles, newsletters, conversations, movies, sometimes long social posts like threads. Short form: tweets, Shorts, Reels, texts, emails, big ideas and your favorite quotes. Each has pros and cons, but long term both are necessary to build an audience that trusts you. "Trust is the new sales hack that people are starting to catch on to." Short form is "for capturing attention, building a large audience and funneling that audience to deeper sources of value like long-form platforms, products and services." Long form is "for holding invested attention, segmenting your audience and building trust through expertise." "The balance of both forces you to have value to deliver."
 - **ejemplos:** ninguno
@@ -1365,7 +1365,7 @@
 - **ejemplos:** Time under tension in weight training.
 - **cita:** "time under attention is the amount of attention you hold with each piece of content times the quantity of content times the quality of content times how often your ideas live in their head times how much they spread your ideas without effort"
 - **terminos:** time under attention, time under tension
-- **origen:** propia (adapted name from weight training's "time under tension")
+- **origen:** propia
 - **nivel:** fundamental
 - **prerrequisitos:** U-009-101
 - **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 15:22-16:13, 2023-11-26
@@ -1391,7 +1391,7 @@
 - **ejemplos:** James Clear, Atomic Habits; tweet (30 seconds) vs. book (5 hours to read, years of attention).
 - **cita:** "clear is still holding their attention while they read others content"
 - **terminos:** time under attention, rent free
-- **origen:** de-tercero:James Clear (caso citado)
+- **origen:** de-tercero:James Clear
 - **nivel:** intermedio
 - **prerrequisitos:** U-009-105
 - **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 16:13-17:50, 2023-11-26
@@ -1703,7 +1703,7 @@
 - **ejemplos:** "2 Hour Content Ecosystem"; "Executive Training System for Busy People."
 - **cita:** "this may finally be the thing that solves my problems for good"
 - **terminos:** unique mechanisms
-- **origen:** propia (término de marketing usado por el autor)
+- **origen:** propia
 - **nivel:** intermedio
 - **prerrequisitos:** U-009-130
 - **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 32:46-33:36, 2023-11-26
@@ -1799,4 +1799,1726 @@
 - **prerrequisitos:** U-009-124
 - **fuente:** Turn Your Knowledge Into A Business (How To Productize Your Mind).md, 37:23-38:06, 2023-11-26
 - **tension:** ninguna
+
+# Fuente: A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md (2025-02-10)
+
+## U-009-139
+- **tipo:** principio
+- **titulo:** You have $1 million trapped in your head (or in your notes): skills, interests and expertise you can package into a product
+- **desarrollo:** "Believe it or not, you have $1 million trapped in your head, or it's lying around in your Google Drive, or your Notion, or your Cortex." You have skills, interests and some expertise you can package into a product that sells while you sleep. What you learn here "will determine most of your success as a creative." But it's not just building a product: it involves marketing, launching and promotions, which creatives and creators skip. They don't learn actual marketing or monetization and wonder "why am I stuck in beginner hell?" It's not as simple as building a product and hoping your audience likes it.
+- **ejemplos:** ninguno
+- **cita:** "you have $1 million trapped in your head"
+- **terminos:** beginner hell, sells while you sleep
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 0:00-1:03, 2025-02-10
+- **tension:** Earlier videos speak of a "$100,000 product stuck in your head" (U-009-006); here the figure is $1 million.
+
+## U-009-140
+- **tipo:** principio
+- **titulo:** To earn an independent income you need to sell a product, not rely on ad-platform revenue outside your control
+- **desarrollo:** "If you want to earn an independent income, you need to sell a product." We're not here to rely on ad platform revenue that's completely out of your control. You started your own creative work because you wanted to control your income, even if just a salary replacement that lets you live well. A product helps you do that and control your lifestyle.
+- **ejemplos:** ninguno
+- **cita:** "if you want to earn an independent income, you need to sell a product"
+- **terminos:** independent income
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 1:03-1:28, 2025-02-10
+- **tension:** ninguna
+
+## U-009-141
+- **tipo:** advertencia
+- **titulo:** Client work brings you back to survival mode: "from invoice to invoice instead of paycheck to paycheck"
+- **desarrollo:** Most people are like Dan: you start with client work, see some success, your time gets eaten up, "and worst of all, you realize how much you hate working on other people's projects." You left your job because you hated the work; you wanted to write, explore your interests, focus on your craft. "But now you're back in survival mode, working from invoice to invoice instead of paycheck to paycheck." Once you have a product that doesn't require your time or labor, "$100,000 is just a matter of persistence and iteration." "If you can make $1, you can make 1 million," if you have a product capable of reaching that scale as one person.
+- **ejemplos:** ninguno
+- **cita:** "working from invoice to invoice instead of paycheck to paycheck"
+- **terminos:** survival mode
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-140
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 1:28-2:25, 2025-02-10
+- **tension:** ninguna
+
+## U-009-142
+- **tipo:** excepción
+- **titulo:** Scaling client work with a team to $1M+ is a very good option; even then, a product brings warm leads and another revenue stream
+- **desarrollo:** If you want to stick with client work and hire a team to scale to $1M+, "be my guest... that's actually a very good option. Many people do that with great success." But even then, why not create a product so that you first get more warm leads for client work, and eventually another revenue stream that comes in without additional work.
+- **ejemplos:** ninguno
+- **cita:** "why not just create a product so that one you get more warm leads for your client work"
+- **terminos:** warm leads
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-141
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 2:25, 2025-02-10
+- **tension:** Nuances his general dislike of client work.
+
+## U-009-143
+- **tipo:** dato
+- **titulo:** Dan's product revenue by year: ~$10K, ~$100K, ~$150K, ~$800K, ~$4M, then ~$2M (split with Cortex)
+- **desarrollo:** "This isn't some kind of get rich quick mumbo jumbo"; it's learning product marketing and promotions, skills any business owner must learn. Dan's first year building a product made around $10,000. Second year around $100,000. Then $150,000, then $800,000, then around $4 million, and last year around $2 million "because revenue split between myself and Cortex."
+- **ejemplos:** Dan's revenue trajectory.
+- **cita:** "my first year with building a product, I made around $10,000"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 2:54-4:31, 2025-02-10
+- **tension:** ninguna
+
+## U-009-144
+- **tipo:** argumento
+- **titulo:** People spend 12-16 years following the default path but won't spend 1-2 years on their own path for rare results
+- **desarrollo:** You'll go to school for four years but won't stick it out for two years to make substantially more than your degree would. "People just don't have perspective for pursuing their own dreams." It takes longer than two weeks to build substantial income doing something completely unknown that you figure out along the way, where you can see incredible results within 1-2 years. "You spent 12, 16 years of your life working up to what you could make now, and you won't spend 1 to 2 years to make much more than that." You followed the default path, limited to the same salary and results as everyone else on it; going your own path for 1-2 years gets "incredibly rare results and irreplaceable results."
+- **ejemplos:** ninguno
+- **cita:** "you spent 12, 16 years of your life working up to what you could make now, and you won't spend 1 to 2 years to make much more than that"
+- **terminos:** default path
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 2:54-4:31, 2025-02-10
+- **tension:** ninguna
+
+## U-009-145
+- **tipo:** método
+- **titulo:** $1 million a year broken down: $2,777/day = one $5K client every other day or 18 $150 products/day (720 visitors at 2.5%)
+- **desarrollo:** $1,000,000 / 12 = $83,333 per month; / 30 = $2,777 per day. Reach it by landing one $5,000 client every other day, or selling 18 $150 products a day: 720 people to a page converting at 2.5% — "pretty doable." It takes a while, but beginners writing on Twitter wisely can get 100,000 impressions their first month; one TikTok or Reel can go viral for a million views. Get 720 people to a page once a day at 2.5% conversion, "split up as much as you want." "Not easy by any means, but it's feasible when you understand the moving parts of business."
+- **ejemplos:** 720 visitors x 2.5% = 18 sales x $150.
+- **cita:** "720 people to a landing page at conversion rate of 2.5% is pretty doable"
+- **terminos:** moving parts of business
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 4:31-5:45, 2025-02-10
+- **tension:** ninguna
+
+## U-009-146
+- **tipo:** argumento
+- **titulo:** You've already bought hundreds of $1M products, so most ideas can reach $1M — you're probably overthinking it
+- **desarrollo:** "Here's a mind fuck for you. You've already purchased a $1 million product. You've purchased hundreds, in fact, if not more." That means "you're probably overthinking it": most ideas can be taken to $1 million if you understand what follows.
+- **ejemplos:** ninguno
+- **cita:** "You've already purchased a $1 million product"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-145
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 5:45-6:12, 2025-02-10
+- **tension:** ninguna
+
+## U-009-147
+- **tipo:** framework
+- **titulo:** Beginner progression into a future of AI: audience, authority, personal-system digital product, iterate to $100K+, then software or physical product
+- **desarrollo:** For a beginner's first product, "the best progression to follow going into a future of AI": (1) build an audience as a free and high-leverage traffic source; (2) become an authority in your interests or expertise; (3) start a personal system digital product you can test fast — "that's the secret... that's what separates you"; (4) persist and iterate until you reach $100,000+; (5) since you have so much data and results, turn that system into something like software or a physical product. Build an audience where attention is right now: social media today, "tomorrow it could be intergalactic space"; it's free, accessible, you can write and grow for free, and it's a skill. Authority: "you aren't Marcus Aurelius"; philosophical quotes you post won't do anything until people care about you. Then a digital product to generate cash flow; with cash flow and audience, building your startup or dream business isn't far off, or you can just live how you want and focus on your craft.
+- **ejemplos:** Marcus Aurelius quotes posted by unknown accounts.
+- **cita:** "you aren't Marcus Aurelius. From the start, these philosophical quotes that you're posting aren't going to do anything until people care about you"
+- **terminos:** personal system digital product, high leverage traffic source, go where the attention is
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 6:12-7:48, 2025-02-10
+- **tension:** ninguna
+
+## U-009-148
+- **tipo:** término-acuñado
+- **titulo:** Personal system product: the safest option that can't be replaced by AI, deliverable as service, coaching, education or software
+- **desarrollo:** "What is a personal system product? In my eyes, it's the safest option to take that can not be replaced by AI." AI can help you build the thing, but it won't do the thing and take your audience or customers. It can be delivered as a freelance service, coaching service, education product or software. Example: Dan's 2 Hour Writer, his most popular course, doesn't teach "writing" — "that's just super basic... it's a commodity. It would be very low price." He teaches "my system for how I write because I came up with it": he experimented, started from zero, planned how to get better results, put the pieces together. "That's what makes it valuable," along with every other piece of offer creation.
+- **ejemplos:** 2 Hour Writer vs. a generic writing course.
+- **cita:** "I teach people my system for how I write because I came up with it"
+- **terminos:** personal system product, commodity
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-147
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 7:48-8:47, 2025-02-10
+- **tension:** ninguna
+
+## U-009-149
+- **tipo:** caso
+- **titulo:** 2 Hour Writer positions boring/academic writing as desirable: newsletter, thread, social posts, cross-posting in under two hours a day
+- **desarrollo:** 2 Hour Writer positions writing — "often perceived as too boring or too academic, or that you need an English degree" — in a way that is desirable to people like Dan's past self. The system: write a newsletter, break it into a thread, break that into social posts, cross-post across all platforms; "a very simple system for posting content to all different platforms, with less than two hours of writing a day." Why a course? He could turn it into a freelance, coaching or consulting service or a software (as with Cortex), which would outperform many services because it's based on a personal system. He doesn't because he doesn't have time, doesn't like client work, and can help more people with a course. "It's the same frickin thing."
+- **ejemplos:** 2 Hour Writer; Cortex.
+- **cita:** "It's a very simple system for posting content to all different platforms, with less than two hours of writing a day"
+- **terminos:** 2 Hour Writer, personal system
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-148
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 8:47-9:46, 2025-02-10
+- **tension:** ninguna
+
+## U-009-150
+- **tipo:** opinión
+- **titulo:** The "moral high ground" of client-workers who'd never sell a course is a stupid way of thinking
+- **desarrollo:** Dan hates people who take a "moral high ground" of "I do the hard work, I have a freelance offer, I work with clients... I'll never sell a course because that's just weird and scam and unethical." "It's just a stupid way of thinking." If you want to avoid client work, work on your own projects for as long as you want and control your day without filling it with calls, then outside freelance, coaching or other beginner models, the only two options left are an education product or a software product.
+- **ejemplos:** ninguno
+- **cita:** "I hate people who gain this, like moral high ground of like, oh, I do the hard work"
+- **terminos:** moral high ground
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-009-149
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 9:20-10:09, 2025-02-10
+- **tension:** ninguna
+
+## U-009-151
+- **tipo:** argumento
+- **titulo:** For absolute beginners, an education product beats AI-built software; writing avoids learning video editing or programming
+- **desarrollo:** With software, AI is advancing so most people can build an app (lovable.com, Bolt guide you), but it still requires learning: some programming and how to create and market an offer. Dan doesn't think it's as good as an education product for an absolute beginner who doesn't want to learn another skill. "That's why I recommend writing so much": you don't need video editing or programming to start. It's a way to get started so you can iterate, improve the product and change its shape over time; build software after if you want. "We're doing something that is extremely quick to build and test, so you understand what sells. You make money, then you can make it a lot better over time."
+- **ejemplos:** Lovable, Bolt.
+- **cita:** "we're doing something that is extremely quick to build and test, so you understand what sells"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-150
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 10:09-11:12, 2025-02-10
+- **tension:** ninguna
+
+## U-009-152
+- **tipo:** definición
+- **titulo:** Education product: courses, communities or cohorts, often with templates or worksheets that help behavior change
+- **desarrollo:** An education product comes in the form of courses, communities or cohorts, often accompanied by templates, worksheets or things that add value and "allow people to actually change their behavior." They're the ones "that line Alex Hormozi's portfolio because he knows where those are going to go in the future. He's taking a bet on them." They're the info products people "love to paint in a bad light," as if education weren't the most important aspect of your development or what prepares you for a future schools can't keep up with. "A good education product can change someone's life ten times more than a physical product or software could any day."
+- **ejemplos:** Alex Hormozi's portfolio.
+- **cita:** "A good education product can change someone's life ten times more than a physical product or software could any day"
+- **terminos:** education product, info products
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 11:12-11:42, 2025-02-10
+- **tension:** ninguna
+
+## U-009-153
+- **tipo:** concepto
+- **titulo:** Creators are decentralized teachers, the new school system; "creators" means people who create their life, not content creators
+- **desarrollo:** "Creators, or decentralized teachers, they are the new school system on the internet. Creators, not content creators. Just people who create their life are those who forge new paths and pass down the esoteric information that allow you to take advantage of new opportunities."
+- **ejemplos:** ninguno
+- **cita:** "Creators, not content creators. Just people who create their life"
+- **terminos:** decentralized teachers, creators, new school system
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-152
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 11:42-12:17, 2025-02-10
+- **tension:** ninguna
+
+## U-009-154
+- **tipo:** argumento
+- **titulo:** As long as people buy books they will buy courses: courses are books organized to be easier to retain
+- **desarrollo:** "As long as people buy books, they will buy courses." People criticize courses then sell a book, not understanding "it's the exact same thing. The courses are just organized in a way that is easier to retain. They're arguably more valuable than a book." Dan has written a book and understands it "feels cool," "but think straight, think clearly." Stop regurgitating what "anti-gurus" put in your head; conditioning your mind to see only half the picture is "as stupid as you think courses are." "You don't whine about there being 129,864,880 books in the world, most of them bad because anyone can type on a keyboard."
+- **ejemplos:** 129,864,880 books in the world.
+- **cita:** "As long as people buy books, they will buy courses"
+- **terminos:** anti gurus
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-152
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 12:17-13:12, 2025-02-10
+- **tension:** ninguna
+
+## U-009-155
+- **tipo:** excepción
+- **titulo:** A bad info product is bad, but everyone starts bad: put something out to fail in public and improve
+- **desarrollo:** Nuance: "of course a bad info product is bad. But what you don't understand is that everyone starts out bad." Dan is not telling you to intentionally put out a terrible product; "I'm telling you to put something out so you can fail in public and potentially get criticized," so you improve it into a good product.
+- **ejemplos:** ninguno
+- **cita:** "put something out so you can fail in public and potentially get criticized"
+- **terminos:** fail in public
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-154
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 13:12, 2025-02-10
+- **tension:** ninguna
+
+## U-009-156
+- **tipo:** argumento
+- **titulo:** "People just teach what they do" — that's what the market wants and the only thing people are qualified to teach
+- **desarrollo:** Last objection: "people are just teaching others what they do themselves." "No shit. That's what the market wants and that's what people are qualified to teach. That's arguably the only thing that people are qualified to teach you. If you weren't teaching what you know, then you're a liar." Dan teaches writing positioned for social media because that's what people find most valuable; he could teach writing unrelated to social media, but the creator economy is so large that's what everyone is doing.
+- **ejemplos:** Dan's writing positioned for social media.
+- **cita:** "If you weren't teaching what you know, then you're a liar"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-155
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 13:12-14:10, 2025-02-10
+- **tension:** ninguna
+
+## U-009-157
+- **tipo:** argumento
+- **titulo:** Creators are small businesses: creator-to-creator is a massive market, not just a bandwagon
+- **desarrollo:** "Creators are small businesses. It's a B2B business to business or C to C, creator to creator." Everyone sells to creators "because there's so frickin many." The B2B market is huge; the creator-to-creator market is huge. "You think everyone's just hopping on the bandwagon. No, it's because that's a massive market." Conclusion: build an education product as your first product; if you don't, you'll waste a ton of time "unless you have a lot of money and experience already."
+- **ejemplos:** ninguno
+- **cita:** "Creators are small businesses"
+- **terminos:** creator to creator, C to C
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-156
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 14:10-14:42, 2025-02-10
+- **tension:** ninguna
+
+## U-009-158
+- **tipo:** principio
+- **titulo:** The best education products solve a specific pain point, give a system for results, and clarify everything involved in the system
+- **desarrollo:** "The best education products are the ones that solve the specific pain point. Give people a system to get results. Provide clarity on everything involved with performing the system." First decide the product's topic, then market it.
+- **ejemplos:** ninguno
+- **cita:** "Give people a system to get results. Provide clarity on everything involved with performing the system"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-152
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 14:42, 2025-02-10
+- **tension:** ninguna
+
+## U-009-159
+- **tipo:** método
+- **titulo:** Step 1 — pick a topic: the area you have most experience in or are above average at (with an idea list)
+- **desarrollo:** Think of an area you have the most experience in, something you've taken time to study or implement. You don't need the personal system yet, just the topic. Idea list: writing, video editing, speaking, social dynamics, relationships and dating, productivity, web design or development, artificial intelligence, mental health, weightlifting, running, nutrition, learning faster, knowledge management, managing finances, landing job interviews, "and really anything that you can find on social media or the topic of a book." "Simply think of one thing that you're above average at and write it down now."
+- **ejemplos:** The topic list above.
+- **cita:** "simply think of one thing that you're above average at and write it down now"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-158
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 14:42-15:46, 2025-02-10
+- **tension:** ninguna
+
+## U-009-160
+- **tipo:** método
+- **titulo:** Step 2 — research 10-20 product and marketing ideas to find the intersection of what works and what you can do better
+- **desarrollo:** Goal: "find the intersection of what works and what you can do better." Write down at least 10-20 ideas. Sources: search your topic on course sites like MasterClass, Udemy or Skillshare; search Reddit for course reviews ("best training programs"); dig through accounts you follow, join their email lists and identify products on their site and in their funnel; resurface products you bought in the past; find X accounts in the topic and see their top-performing tweets; search keywords and save posts usable as product or marketing ideas; find YouTube accounts, filter by most popular and write down titles that could become a product. For courses you find, buy them: "Don't cheap out." If you don't know how to structure a product, use a few as a reference.
+- **ejemplos:** MasterClass, Udemy, Skillshare, Reddit.
+- **cita:** "find the intersection of what works and what you can do better"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-159
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 15:46-18:19, 2025-02-10
+- **tension:** ninguna
+
+## U-009-161
+- **tipo:** método
+- **titulo:** Organizing product research in Cortex: a "Product" document, Capture (Option+C) with @Product, sub-documents as you build
+- **desarrollo:** In Cortex: create a document titled "Product." While researching (e.g., on YouTube), press Option+C to open Capture and connect to that document by typing @Product, to save and organize ideas. As you build the product, add sub-documents under the main product document. Later, to refine marketing, read books and watch videos on the topic, open the product document, open Capture, connect ideas, highlight, connect things so everything is there when building.
+- **ejemplos:** Cortex Capture.
+- **cita:** "type at Product in Capture to save and organize those little ideas"
+- **terminos:** Cortex, Capture
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-009-160
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 16:17-17:17; 23:32, 2025-02-10
+- **tension:** ninguna
+
+## U-009-162
+- **tipo:** ejemplo
+- **titulo:** Charisma on Command: popular titles reveal desires (be interesting, confident, less insecure); don't make free things paid
+- **desarrollo:** For a business around social dynamics, go to the Charisma on Command YouTube channel, filter by most popular, and see what could become a product. These videos get "an insane amount of views," and each title could probably be a course. "We don't want to take what's free and make it paid. We want to create something new." Keep them in mind to position your marketing. Looking at the top videos, "you can instantly see that people want to be interesting and confident and less insecure," and "that's all you need to know in order to start creating a product that will sell." You now have a list of product and marketing ideas to combine, add to, simplify or make unique.
+- **ejemplos:** Charisma on Command YouTube channel.
+- **cita:** "We don't want to take what's free and make it paid. We want to create something new"
+- **terminos:** ninguno
+- **origen:** de-tercero:Charisma on Command
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-160
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 16:43-18:19, 2025-02-10
+- **tension:** ninguna
+
+## U-009-163
+- **tipo:** heurística
+- **titulo:** "For brand, tell a story; for content, make a map; for product, enforce a habit"
+- **desarrollo:** Dan states briefly: "For brand, tell a story. For content, make a map. For product, [en]force a habit." (The transcript reads "and force a habit"; likely "enforce a habit." Not further developed in this video.)
+- **ejemplos:** ninguno
+- **cita:** "For brand, tell a story for content. Make a map for product, and force a habit"
+- **terminos:** tell a story, make a map, enforce a habit
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-090
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 17:48-18:19, 2025-02-10
+- **tension:** Ambiguous transcription ("and force" vs. "enforce").
+
+## U-009-164
+- **tipo:** principio
+- **titulo:** Make money before you build the product; pivot fast if it fails; once you strike gold, build in 2-3 weeks
+- **desarrollo:** "Most people waste 2 to 3 months building a product just for it to never be launched or worse, never make any sales. We're going to do the opposite. You're going to make money before you even start building the product." If you don't make money, pivot fast and try again. Once you strike gold, give it everything, build it over 2-3 weeks, and launch. Another reason education products are superior: you can test and iterate fast, turn them into software or another product, and they're genuinely helpful if good. "Most products should start as an education product and most founders could create a new revenue channel simply by adding some form of education, even if it's just an e-book."
+- **ejemplos:** ninguno
+- **cita:** "You're going to make money before you even start building the product"
+- **terminos:** strike gold
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 18:19-19:16, 2025-02-10
+- **tension:** ninguna
+
+## U-009-165
+- **tipo:** método
+- **titulo:** Choosing a target persona: keep it simple, not too specific; target yourself/past self or people with a lot of money
+- **desarrollo:** The first step to any marketing is choosing a target persona; people get stuck here too much. You need a persona so marketing is "specific and tangible. That's it." A much larger market will also resonate, especially on social media; "you don't want to be too specific, or else your content won't get spread." Two options: (1) target yourself or your past self: you know the pain points, experience, story and results; "you are a customer avatar that you can research and interview at any time with self-reflection." (2) Target people with a lot of money (founders, executives, high-paying jobs): problem is you often don't understand them, and on social media they're few and far between and harder to reach. For agencies or direct sales ("that Alex Hormozi can help you with"), target them and build a very good business. But Dan wants fulfillment, "the soul in my work": to help people like him and build a community he enjoys. "You just need a vague idea of who you're targeting."
+- **ejemplos:** Alex Hormozi (agency/direct sales targeting).
+- **cita:** "You are a customer avatar that you can research and interview at any time with self-reflection"
+- **terminos:** target persona, customer avatar, soul in my work
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-164
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 18:47-20:37, 2025-02-10
+- **tension:** ninguna
+
+## U-009-166
+- **tipo:** principio
+- **titulo:** Start with the marketing, not the product: it's easier to build a product on good marketing than market a bad product
+- **desarrollo:** Take the topic and make it irresistible. "You don't start with the product. You start with the marketing. Because if you get the marketing right, you can build the product around what works. It's a lot easier to build a product based on good marketing than it is to create marketing based on a bad product."
+- **ejemplos:** ninguno
+- **cita:** "It's a lot easier to build a product based on good marketing than it is to create marketing based on a bad product"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-164
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 20:37-21:03, 2025-02-10
+- **tension:** ninguna
+
+## U-009-167
+- **tipo:** framework
+- **titulo:** Offer element 1 — the big problem: relatable, relevant, important, research-backed, plus its negative outcome
+- **desarrollo:** First and "most important thing that needs to be nailed down": the big burning problem related to the topic. Where are people now and, if they don't change, where will that lead? It's the big problem and its negative outcome; "the problem is the starting point of their transformation." It must be relatable (they can feel and experience it), relevant, important and worth solving, and research-backed: "make sure that you aren't just making up the problem." Most burning problems fall within health, wealth and relationships.
+- **ejemplos:** See weightlifting example (next unit).
+- **cita:** "The problem is the starting point of their transformation"
+- **terminos:** big problem, burning problem, negative outcome
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-166
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 21:03-21:33, 2025-02-10
+- **tension:** ninguna
+
+## U-009-168
+- **tipo:** ejemplo
+- **titulo:** Weightlifting problem across health, wealth and relationships; the real burning problem is being perceived as high value
+- **desarrollo:** For weightlifting: Health — without resistance training you're more likely to develop chronic disease and have difficulty moving as you age. Wealth — if you don't look good, people won't respect you, "because your body reflects your discipline and commitment," so fewer opportunities, promotions and trust from high-value people. Relationships — you lack confidence to talk to a stranger, or feel insecure taking your shirt off around your spouse, leading to a poor sex life and problems elsewhere. "Surprisingly with weightlifting, the most burning problem here isn't the health aspect. The burning problem is being perceived as high value so that you can get what you want out of life and stop feeling so sorry for yourself." Amplifying the negative outcome: lack of social opportunities leads to loneliness, affecting mental health, making discipline harder elsewhere; you get stuck in a job and environment with no idea why.
+- **ejemplos:** Weightlifting.
+- **cita:** "The burning problem is being perceived as high value so that you can get what you want out of life"
+- **terminos:** high value
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-167
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 21:33-23:02, 2025-02-10
+- **tension:** ninguna
+
+## U-009-169
+- **tipo:** principio
+- **titulo:** Product creation isn't formulaic; it's iteration — follow the rules, then break them and create your own
+- **desarrollo:** None of these brainstormed ideas will be perfect the first time. "This whole product thing, it isn't formulaic." "All of business, content, product, brand, whatever, it's all iteration. If it were as simple as a list of steps... everyone would be a frickin millionaire." "The people who followed the rules, then break the rules and create their own rules are the ones who see success." Dan's rules are ones "I both created and taken and merged into one" in a way that worked for him. Refine marketing by reading books and watching videos on the topic, connecting ideas in your product document, talking to more people with the problem, writing about it on social media to see what resonates, and merging all the data.
+- **ejemplos:** ninguno
+- **cita:** "The people who followed the rules. Then break the rules and create their own rules are the ones who see success"
+- **terminos:** iteration
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-167
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 22:37-23:57, 2025-02-10
+- **tension:** ninguna
+
+## U-009-170
+- **tipo:** framework
+- **titulo:** Offer element 2 — the desired outcome: transformation sells; it depends on nailing the big problem
+- **desarrollo:** "People want a transformation... That's the only thing that sells is a transformation. I'm here. I want to be here. What's going to help me get there? This product." If your product can't help them get there, or doesn't tell them it will, it won't be perceived as valuable. "If you don't nail the big problem, then the desired outcome isn't going to be something desirable because it's based on a problem that isn't that valuable." So take time with marketing: write about the problem a lot on social media, test health, wealth and relationship angles, see what gets picked up.
+- **ejemplos:** ninguno
+- **cita:** "That's the only thing that sells is a transformation"
+- **terminos:** desired outcome, transformation
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-167
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 23:57-24:50, 2025-02-10
+- **tension:** ninguna
+
+## U-009-171
+- **tipo:** ejemplo
+- **titulo:** Weightlifting desired outcome: "a body that commands respect," made concrete for men and women, plus a big benefit
+- **desarrollo:** If the problem is lack of confidence, insecurity, not wanting to take your shirt off around your spouse, the general desired outcome is "a body that commands respect." Make it relevant, relatable and research-backed: what do people actually want and why? For men: visible abs, a decent jawline, broad shoulders, feeling confident in their skin when talking to others or getting naked. For women ("I can't really speak to this, but I'd assume"): an hourglass figure, a nice butt, visible abs, feeling hot and sexy, "they want their man to fawn over them." To make it more potent, tack on a big benefit: why do men want chiseled abs? Why do women want a big butt? It stems from the target persona; for Dan himself, abs are "mostly to look sick when I take off my shirt."
+- **ejemplos:** Abs, jawline, shoulders; hourglass figure.
+- **cita:** "the general desired outcome of the weightlifting example... is just having a body that commands respect"
+- **terminos:** big benefit
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-170
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 24:50-26:00, 2025-02-10
+- **tension:** ninguna
+
+## U-009-172
+- **tipo:** heurística
+- **titulo:** Start on the surface before going into depth: people start the gym for vanity and stay for the therapy
+- **desarrollo:** "Esoteric tip": usually start pretty surface level because beginners aren't looking for depth. Spiritual people in Dan's audience (himself included) go deep and get annoyed when people don't appreciate depth — "it's because they haven't even started." "You have to start on the surface before you go into the depth." With fitness, start with superficial things, then introduce depth. "People start in the gym for vanity and stay for the therapy. They don't start for therapy and stay for the vanity. That's most cases." So talk about the abs and the big butt, then ease them into depth: how rewarding tiny gains are, the parallels between life and weightlifting. Depth won't attract many people on the front end.
+- **ejemplos:** Gym: vanity then therapy.
+- **cita:** "people start in the gym for vanity and stay for the therapy"
+- **terminos:** surface before depth, front end
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-171
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 26:00-26:57, 2025-02-10
+- **tension:** ninguna
+
+## U-009-173
+- **tipo:** framework
+- **titulo:** Offer element 3 — a believable time frame supercharges marketing, makes the product tangible and compresses its contents
+- **desarrollo:** How long to get from big problem to desired outcome? "Time frames supercharge your marketing": 30 days, 3-6 months, six weeks, two hours. Usable in content too, "because your videos, your posts... they're an offer." They make the product tangible and are "a reference point that spark desire." They also help compress what goes into the product: many throw everything they know into one product instead of only what's valuable to solving the problem and reaching the outcome. You may not know the time frame yet; come back after creating your personal system.
+- **ejemplos:** 30 days, six weeks, two hours.
+- **cita:** "Time frames supercharge your marketing"
+- **terminos:** believable time frame
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-170
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 26:57-27:52, 2025-02-10
+- **tension:** ninguna
+
+## U-009-174
+- **tipo:** framework
+- **titulo:** Offer element 4 — the personal system: the thing that takes people from point A to point B and sparks the transformation
+- **desarrollo:** "The personal system is the thing that takes you from point A to point B. It's the thing that sparks the transformation." You could copy someone else's product and swap in your personal system and it'd probably sell well, though you probably shouldn't since you'd copy a lot else. But it helps to look at products that did well and ask: what's my personal system for this, what burning problem am I helping overcome, what's the desired outcome, how do I structure it so people want it. "Your personal system is the thing that makes people think this could finally solve my problem, because it probably will." Examples of popular personal systems: intermittent fasting; StrongLifts 5x5 (go-to for gym beginners). Baking marketing elements like the time frame into the system gives you something like 2 Hour Writer, whose inner system is the 2 Hour Content Ecosystem.
+- **ejemplos:** Intermittent fasting; StrongLifts 5x5; 2 Hour Writer / 2 Hour Content Ecosystem.
+- **cita:** "It's the thing that sparks the transformation"
+- **terminos:** personal system, point A to point B, 2 Hour Content Ecosystem
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-148
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 27:52-28:19; 29:49-30:23, 2025-02-10
+- **tension:** ninguna
+
+## U-009-175
+- **tipo:** proceso
+- **titulo:** How to create a personal system: write the steps between A and B, test on yourself or a persona, refine, repeat, then name it
+- **desarrollo:** Experiment on yourself or someone willing who fits your target persona (which also gives beginner social proof). Steps: (1) open something like Cortex to write it down; (2) remember the problem and outcome; (3) write a list of steps they need to take over the time frame; (4) the steps should involve everything related to reaching the outcome (e.g., weight training needs nutrition too); (5) test it on yourself or your persona for that time frame; (6) write down where it can be improved; (7) rewrite the steps and test again; (8) repeat until it gets results for more people; then slap a name on your system. Reiteration: burning problem (point A), desired outcome (point B), write as many steps as possible in between: what people need to know, which skills to acquire, which steps to take; test, notice what isn't getting results, change it until it does. It could be a training program, nutrition protocol, writing system, video editing system, "how to weave a basket," "how to grow plants": "if those are accompanied by a burning problem and a desired outcome that people actually care about, then you can sell anything. If they don't sell, then the problem isn't burning enough and the outcome isn't desirable enough."
+- **ejemplos:** Training program, nutrition protocol, basket weaving, growing plants.
+- **cita:** "If they don't sell, then the problem isn't burning enough and the outcome isn't desirable enough"
+- **terminos:** personal system, slap a name on your system
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-174
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 28:19-29:49, 2025-02-10
+- **tension:** ninguna
+
+## U-009-176
+- **tipo:** framework
+- **titulo:** Step 4.5 — education: the curriculum and nuance people need to know to perform the system
+- **desarrollo:** "Step 4.5 is education." You have the personal system and steps, but what accompanying knowledge do people need to do it? "That's where your curriculum comes into place." Think of writing a book outline: what's the nuance between all the education people need to understand? Write it out.
+- **ejemplos:** Book outline.
+- **cita:** "That's where your curriculum comes into place"
+- **terminos:** education, curriculum
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-175
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 30:23-30:50, 2025-02-10
+- **tension:** ninguna
+
+## U-009-177
+- **tipo:** framework
+- **titulo:** Offer element 5 — features and benefits: bridge each feature with "so you can" or "without"
+- **desarrollo:** With point A, point B, steps and education outlined, turn them into features and benefits. Most people list only features, "but that's not persuasive. People don't care about the product. They care about how the product changes their life. This is just marketing 101," and even advanced marketers forget fundamentals. Pair each feature with a compelling benefit or exchange the feature for the benefit. Examples: "a five week program so you know exactly what to do when you step in the gym. No more feeling lost"; "a cookbook with 20 filling and low calorie foods so you can feel stuffed without the guilt"; "the top five exercises for chest growth so you don't waste years without developing shirt splitting pecs." Common theme: bridge with "so you can" or "without." These go on the landing page where you introduce the offer ("what's included").
+- **ejemplos:** Five-week program; 20-recipe cookbook; top five chest exercises.
+- **cita:** "People don't care about the product. They care about how the product changes their life"
+- **terminos:** features and benefits, so you can, without
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-176
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 30:50-32:25, 2025-02-10
+- **tension:** ninguna
+
+## U-009-178
+- **tipo:** ejemplo
+- **titulo:** Worked offer example: The Attention Marathon — 12+ hours of deep focus without Adderall in 14 days, for Dan's 18-year-old past self
+- **desarrollo:** Topic: productivity. Target persona: Dan's past self, an 18-year-old balancing study and building a business. Big problem and negative outcome: "I don't want a traditional 9 to 5 job, but I'm falling behind in classes and my business has taken a backseat"; without long study and work periods "I'll get stuck in a comfortable job and it will be extremely difficult to get out"; 40 years later "I would wish that I took the time." Desired outcome: deep focus for 12+ hours a day without Adderall. Believable time frame: 14 days. Personal system: "the Attention Marathon," "a training program for your mind to run a marathon." Education: flow state, dopamine, workspace setup, avoiding distractions, etc. Validation: a YouTube video with 14 million views, "how I studied for 12 hours a day over a year" — "validation enough that this can work, if I iterate and test enough."
+- **ejemplos:** The Attention Marathon; 14M-view YouTube video.
+- **cita:** "a training program for your mind to run a marathon"
+- **terminos:** Attention Marathon
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-177
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 32:25-33:30, 2025-02-10
+- **tension:** ninguna
+
+## U-009-179
+- **tipo:** framework
+- **titulo:** Offer element 6 — delivery mechanisms and their trade-offs: e-book, email course, cohort, course, community, software
+- **desarrollo:** (1) E-book: quick to make but hard to charge a lot for. (2) Email course: structured learning, but most people fall off. (3) Cohort: a 4-8 week curriculum with calls and a community, opening for enrollment ~four times a year; good for scarcity and perceived value, but often expensive. (4) Normal course: evergreen, promotable at all times, but you need a lot of traffic. (5) Community with monthly recurring revenue: "that equals monthly recurring work"; harder to sell but a huge payoff if you commit. (6) Software: takes longer to build, higher chance of failure, but can pay off big "if you dedicate 5 to 10 years to it or land the viral jackpot fast." Adding templates, worksheets or trackers (Notion or Cortex) can alone make an education product worth paying for, more valuable than a free video or a book. "All of them work... some are harder, some are more easy."
+- **ejemplos:** ninguno
+- **cita:** "monthly recurring revenue, but that equals monthly recurring work"
+- **terminos:** delivery mechanism, cohort, evergreen, monthly recurring work
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-177
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 32:25-35:29, 2025-02-10
+- **tension:** ninguna
+
+## U-009-180
+- **tipo:** advertencia
+- **titulo:** MRR communities are not passive income: like client work, skeptical buyers and no traffic source to give them velocity
+- **desarrollo:** Many people start Skool communities based on monthly recurring revenue. Dan has done them multiple times; they're "very similar to client work": if you don't enjoy it day in day out, it's a lot of work. "It's not monthly passive income, it's monthly 'I'm working hard in order to get more people into this'," because people are skeptical of buying recurring subscriptions, especially high-priced ones, and you probably don't have a traffic source to fuel it enough to gain velocity.
+- **ejemplos:** Skool communities.
+- **cita:** "It's not monthly passive income"
+- **terminos:** monthly recurring revenue, velocity
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-179
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 34:26-35:02, 2025-02-10
+- **tension:** ninguna
+
+## U-009-181
+- **tipo:** proceso
+- **titulo:** Beginner product ladder: $27 e-book, then a $150 course with a Focus Hub template, then a $399 cohort on Living in Flow
+- **desarrollo:** A good beginner progression: start with a $27 e-book on a specific topic (focusing 12 hours a day); turn it into a module of a larger $150 course with a Focus Hub template to plan study and work blocks; expand into a more comprehensive $399 cohort "on Living in Flow." Promote the e-book anywhere top of funnel; promote the course on the back end in emails or YouTube descriptions; the cohort only runs four times a year, easier to launch and "usually leads to a big spike in revenue."
+- **ejemplos:** $27 e-book; $150 course; Focus Hub template; $399 Living in Flow cohort.
+- **cita:** "start with a $27 e-book on a specific topic"
+- **terminos:** top of funnel, back end
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-179
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 35:29-36:27, 2025-02-10
+- **tension:** ninguna
+
+## U-009-182
+- **tipo:** argumento
+- **titulo:** With an audience and a digital product it is impossible to fail if you persist and iterate (vs. 95% of businesses failing year one)
+- **desarrollo:** This is the best route for beginners; you can't do it with almost any other product. In the past you spent a ton of time and money on product development, manufacturing and distribution, then launched, and statistics circulate of "something like 95% of businesses fail within their first year." With an audience and a digital product you can pivot, test ideas daily in content, turn ideas into a marketing strategy, build a landing page, add payment and launch preorders; if it doesn't work, scrap and retry "an infinite amount of times." "In other words, it is impossible to fail if you persist and iterate." When turning it into a startup or physical product, you already have so much data that success is far more likely.
+- **ejemplos:** 95% first-year failure statistic.
+- **cita:** "it is impossible to fail if you persist and iterate"
+- **terminos:** preorders
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-164
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 36:27-37:25, 2025-02-10
+- **tension:** ninguna
+
+## U-009-183
+- **tipo:** heurística
+- **titulo:** Even for software or physical products, start with the education/digital version first (digital planner before physical planner)
+- **desarrollo:** "If you want to even build a software or build a physical product, just start with the education product first" to "get the right angle out." If you want to sell a planner but don't know what to put in it or how to market it, create a digital planner first, sell it, iterate until good, then make a physical one "so you know that it will do well."
+- **ejemplos:** Digital planner then physical planner.
+- **cita:** "create a digital planner. First, sell that, iterate on it until it's good, and then turn it into a physical one"
+- **terminos:** right angle
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-182
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 36:54-37:25, 2025-02-10
+- **tension:** ninguna
+
+## U-009-184
+- **tipo:** método
+- **titulo:** Launch from the landing page alone: presell with a release date and add buyers to a course platform with release info
+- **desarrollo:** With the marketing strategy done, create the landing page first (e.g., on Stan/Stan Store, which hosts any digital product, coaching calls, lead magnets, courses; text-only pages with no design needed; "arguably the highest converting landing pages on the market because it's just so quick to get through them"). Then launch: "You're not going to build out any portion of the product aside from that outline before launching." Tell customers it releases on a specific date; when they pay, they're added to a course platform that gives information on when it releases and what to expect. "Once you make the first sale, the pressure is on. You can't quit now. You have to focus and build a good product or else you just stole people's money."
+- **ejemplos:** Stan Store.
+- **cita:** "Once you make the first sale, the pressure is on. You can't quit now"
+- **terminos:** release date, presell
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-164
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 37:25-39:20, 2025-02-10
+- **tension:** ninguna
+
+## U-009-185
+- **tipo:** definición
+- **titulo:** Copywriting means persuasive writing: illustrating the offer in a persuasive and clear way
+- **desarrollo:** Landing page copywriting is easy once you have the marketing strategy; you just need to learn structure. Copywriting isn't copyright (legal IP law); "it means persuasive writing. The entire point of copywriting is to illustrate the offer in a persuasive and clear way," so the marketing strategy is clear; "we just need to put that into writing."
+- **ejemplos:** ninguno
+- **cita:** "The entire point of copywriting is to illustrate the offer in a persuasive and clear way"
+- **terminos:** copywriting
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 38:51-39:48, 2025-02-10
+- **tension:** ninguna
+
+## U-009-186
+- **tipo:** framework
+- **titulo:** Landing page outline: headline, subheadline, button, problem lead, personal system, social proof, offer (features/benefits), CTA, optional FAQ
+- **desarrollo:** General outline: headline, subheadline, then a button (not possible on Stan, but on a custom page); illustrate the problem and negative outcome; the desired outcome and personal system; social proof; introduce the offer with features and benefits; call to action; optional FAQ. Headline and subheadline should be "a condensation of all of the value inside of your offer," combining the most potent parts of big problem, desired outcome, personal system, time frame and maybe target persona. Example headline: "Study for 12 hours a day without Adderall with a 14 day program" (desired outcome + time frame, the most potent). Subheadline adds what's missing: "Use the Attention Marathon system to avoid a low paying 9 to 5 and conquer cheap dopamine" — personal system, big problem, plus a high-performing topic ("cheap dopamine") to capture attention. Templates in Mental Monetization.
+- **ejemplos:** Attention Marathon headline and subheadline.
+- **cita:** "your headline and subheadline should be a condensation of all of the value inside of your offer"
+- **terminos:** headline, subheadline, lead, high performing topic
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-177, U-009-178
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 39:20-40:53, 2025-02-10
+- **tension:** ninguna
+
+## U-009-187
+- **tipo:** método
+- **titulo:** The lead: amplify the problem with a few short sentences plus bullet pain points, or a personal story; then transition to the system
+- **desarrollo:** After the headline/subheadline comes "a wall of text that's called the lead," where you illustrate and amplify the big problem and negative outcome. Starting with the problem increases the reader's awareness and gives them the belief their life can change by using a system that helped you. Dan's style: a few short sentences stating the problem, then a bullet list of pain points stemming from it (on all his landing pages). If you don't know what to write, use a personal story: where did you start, where were you before, why did you want to change, what did you try that didn't work. Then transition into the personal system, continuing the story: what was the turning point, how did you discover and create the system, why is it better than most solutions on the market; add a graphic to explain the system if possible.
+- **ejemplos:** Dan's landing pages.
+- **cita:** "When you start with the problem, you increase the reader's awareness around the problem"
+- **terminos:** lead, turning point
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-186
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 40:53-42:12, 2025-02-10
+- **tension:** ninguna
+
+## U-009-188
+- **tipo:** método
+- **titulo:** Social proof, offer introduction and a before/after CTA; skip the FAQ on Stan to reduce time to pay
+- **desarrollo:** After the personal system, put results or testimonials (images, text, your own results). Without social proof, list your own: screenshots, pictures of yourself (a six-pack if that's what you sell; you at a desk); "you need to show something to show that it's believable." You'll get testimonials as you get customers; you can also ask friends and network to go through it free for a testimonial. Next, the features and benefits section, "the offer introduction": a headline introducing the product name, each feature and how it's structured, each with a benefit. Then the main call to action asking them to buy; Dan likes a comparison of where you were before the program vs. where you'll be after, which brings up the problem again and reminds them of main benefits. Then optional FAQ, but on Stan "just get straight to the point" and leave it out because it increases time to reach payment.
+- **ejemplos:** Six-pack photos; friends as free testers.
+- **cita:** "you need to show something to show that it's believable"
+- **terminos:** social proof, offer introduction, call to action
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-187
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 42:12-43:35, 2025-02-10
+- **tension:** ninguna
+
+## U-009-189
+- **tipo:** proceso
+- **titulo:** Launch plan: MVP landing page in 1-2 weeks (or a day), release date 3-4 weeks out, weekly promotion, ramp up 1-2 weeks before, early-bird discount
+- **desarrollo:** Once you have the MVP landing page, bare bones, without the product built: "Launch launch launch." Building the landing page shouldn't take longer than 1-2 weeks for a beginner, one day if you've done it before. Set the release date 3-4 weeks out from your first promotion. Promote in your newsletter every week; place the link everywhere in bio and descriptions; write threads, carousels, reels or other content around the product's main topic; include small plugs or CTAs like "if you struggle with [pain points], [product] goes live on [date]." Use the marketing strategy elements every time you promote. When 1-2 weeks out, increase how often and how hard you promote. An early-bird discount for preorders helps a lot.
+- **ejemplos:** CTA template "if you struggle with pain points, the product goes live on date."
+- **cita:** "set the release date 3 to 4 weeks out from your first promotion"
+- **terminos:** MVP, early bird discount
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-184
+- **fuente:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md, 43:35-44:31, 2025-02-10
+- **tension:** ninguna
+
+# Fuente: How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md (2023-12-03)
+
+## U-009-190
+- **tipo:** argumento
+- **titulo:** The Industrial Age created "real jobs"; the information age creates new, more profitable ones; profitability determines society's direction
+- **desarrollo:** "Everyone wants to be a content creator and this isn't a bad thing, especially if you can predict where the future of work is going." Boomers will tell you to "get a real job" when those jobs won't exist in a few decades; they don't realize the Industrial Age created those jobs, nor that the information age has created "new and more profitable jobs." "Profitability determines the direction of society and the economy; technology allows for more profitable lines of work."
+- **ejemplos:** ninguno
+- **cita:** "profitability determines the direction of society and the economy"
+- **terminos:** Industrial Age, information age, future of work
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 0:00, 2023-12-03
+- **tension:** ninguna
+
+## U-009-191
+- **tipo:** dato
+- **titulo:** The creator economy is projected to grow from $250 billion to $480 billion over the next five years
+- **desarrollo:** The creator economy "is projected to [grow] in size from 250 billion to 480 billion over the next 5 years" (no source cited). Dan, admitting bias since it's part of his identity, "only see[s] that increasing exponentially." When everyone is a creator, employers hire creators, creators work under creators for experience, and creators are self-sufficient in products that solve real problems of humanity they've experienced.
+- **ejemplos:** ninguno
+- **cita:** "I'm somewhat biased"
+- **terminos:** Creator economy
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 0:00-0:49, 2023-12-03
+- **tension:** ninguna
+
+## U-009-192
+- **tipo:** principio
+- **titulo:** Most businesses fail because they try to solve a problem they haven't experienced
+- **desarrollo:** Creators "are self sufficient in the products that they create to solve the real problems of humanity, problems that they've experienced. That's the problem with most businesses: they try to solve a problem that they haven't experienced, and that's why the businesses fail."
+- **ejemplos:** ninguno
+- **cita:** "they try to solve a problem that they haven't experienced and that's why the businesses fail"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 0:49, 2023-12-03
+- **tension:** ninguna
+
+## U-009-193
+- **tipo:** metáfora
+- **titulo:** Your personal brand is your public resume and your character within digital reality
+- **desarrollo:** "Creator brand or your personal brand is your public resume, public portfolio; it's just you placing your character online." If you think of digital reality as "a more expanded and inclusive version of physical reality," your personal brand is the character within that reality. "This is a very real thing because we spend so much of our lives on these apps and we're just waiting to go into the screen until it actually happens with future technology."
+- **ejemplos:** ninguno
+- **cita:** "your personal brand is your public resume public portfolio"
+- **terminos:** public resume, digital reality, character
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 0:49-1:39, 2023-12-03
+- **tension:** ninguna
+
+## U-009-194
+- **tipo:** argumento
+- **titulo:** The pull to be a content creator is human: curiosity, being a vessel for value, creating with your own hands — what schools and jobs strip away
+- **desarrollo:** The big problem is a lack of understanding of content creation from a big-picture view. Everyone feels the pull to become a content creator "because it's human": people want to do what they want, have an innate drive to pursue curiosity, "become a vessel for value and create with their own two hands," the things "schools and jobs stripped from you." Peeling back the layers, that's what the natural evolution of humanity has pointed at: since the dawn of time we've solved problems with technology "to rid ourselves of robotic and time-consuming labor work so we can pursue self-actualization and transcendence."
+- **ejemplos:** ninguno
+- **cita:** "since the dawn of time we've been solving problems with technology to rid ourselves of robotic and time-consuming labor work so we can pursue self-actualization and Transcendence"
+- **terminos:** vessel for value, self-actualization, Transcendence
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 1:39, 2023-12-03
+- **tension:** ninguna
+
+## U-009-195
+- **tipo:** definición
+- **titulo:** Content is structured information; creation is bringing into existence; content creation is just being human
+- **desarrollo:** Content: "the things that are held or included in something; in other words everything is content. Content is structured information." Information is how we learn, grow and adapt as a species; it occupies, shapes and comes out of our mind; "we use the structure of our psyche to create content." Analogy: the front end of the internet is content, the front end of your mind is content; the back end of the internet is code, the back end of your mind is code. If your mind is a complex set of systems like a computer, the words you speak, write or communicate are like the media on the front end of the internet. Creation: "to bring into existence; that's what humans do: they create, they solve problems, they build solutions. That is your edge." Humans who don't are "the robots or cogs in the machine of society." "To be human is to expand, transcend and create; to be robotic is to forget that you have this gift and allow your mind to mold to the whims of others with schooling and employment." "At its root content creation is just being human." "Everyone is a content creator; some just choose to do it with intention and get paid to do so" on the internet, where physical boundaries don't limit reach. It's how you make your writing and speaking more valuable, contributing to and profiting from the global digital community "like our ancestors did their local physical community."
+- **ejemplos:** Front end/back end of the internet and the mind.
+- **cita:** "to be human is to expand transcend and create to be robotic is to forget that you have this gift"
+- **terminos:** content, creation, structured information, front end, back end, robots, cogs in the machine
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-194
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 1:39-4:05, 2023-12-03
+- **tension:** ninguna
+
+## U-009-196
+- **tipo:** principio
+- **titulo:** Content creation is not a job or a business, it is a magnet; to make money you need people and a product
+- **desarrollo:** "Content creation is not a job or a business, it is a magnet." Bringing it down to earth: in business you need two things. (1) People: "business is value exchange," if you want money someone must give it in exchange for something of equal value; people don't realize you need a person to give you money — "you can invest all day long but how did you get the money to invest? From a person." (2) A product (services included): "a valuable creation, physical or digital, that preferably solves a real problem in someone's life." There's more nuance (marketing, selling, technical skills) "but you absolutely need people and a product... it's not optional." "Content is how you attract people to your product as a creator," by "deconstructing your mind and sharing its best parts on the internet."
+- **ejemplos:** ninguno
+- **cita:** "content creation is not a job or a business it is a magnet"
+- **terminos:** magnet, people, product, value exchange
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-195
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 3:19-4:52, 2023-12-03
+- **tension:** ninguna
+
+## U-009-197
+- **tipo:** principio
+- **titulo:** Content element 1 — relatable topics: write broad and narrow down to your expertise across your content funnel
+- **desarrollo:** Most beginners water down or overcomplicate. First: relatable topics. Content creation is still new and people apply old business tactics; they scream "the riches are in the niches" without understanding what it means in modern business (to be covered in "The Anti-Niche, or why becoming nicheless makes you irreplaceable"). "What if I decide that I want to build a massive audience and create a niche that way? Nobody can compete with me." "I would rather have a 3 million follower audience than a 10,000 follower audience": the former gives "an obscene amount of unseen leverage, flexibility and options"; the latter "is probably three clients away from feeling like their survival is at stake." "Write broad in your content and narrow down to your expertise across your content funnel." Top-of-funnel accounts should cover topics people actively search and study: productivity, psychology, mindset, freelancing, skill acquisition, business. Don't get niche on the front end (e.g., a Twitter account about "automated response mechanisms for e-commerce stores"). Educate from social media to newsletter to podcast, "and let your product page be the final piece to prove your authority and niche down as far as you want." "People forget that a landing page is content, it's static content"; if it's linked in your bio you don't need to write about that content.
+- **ejemplos:** 3M vs. 10K followers; niche Twitter about automated responses for e-commerce.
+- **cita:** "write Broad in your content and narrow down to your expertise across your content funnel"
+- **terminos:** relatable topics, anti-niche, nicheless, content funnel, top of funnel, landing page is content
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-196
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 4:52-7:15, 2023-12-03
+- **tension:** ninguna
+
+## U-009-198
+- **tipo:** advertencia
+- **titulo:** Going broad to create a niche requires a ladder of low-ticket products leading to a high-ticket product
+- **desarrollo:** The strategy of going broad to create a niche "will require you to have a series of low ticket products leading to a high ticket product." If you only have a very specific high-ticket freelancing service for a very specific person, you need a different strategy (the targeted, manual approach to landing clients) and are "not in my eyes taking the best long-term move towards a future with more freedom." The alternative: "letting your ego go," building a broad audience that lets you talk about what you want, pivot within it, and create a ladder to a higher-ticket service; "that entire ladder educates and creates the customers for the higher ticket service."
+- **ejemplos:** ninguno
+- **cita:** "that entire ladder educates and creates the customers for the higher ticket service"
+- **terminos:** low ticket, high ticket, ladder
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-197
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 7:15, 2023-12-03
+- **tension:** ninguna
+
+## U-009-199
+- **tipo:** principio
+- **titulo:** Content element 2 — impactful ideas: pick a side; impact means words so powerful they live in their head rent free
+- **desarrollo:** "Your posts, sentences, paragraphs and words will not hit if you don't pick a side." In the middle, people may kind of like you but you won't impact them. "Impact equals writing words so powerful that they live in their head rent free; it occupies their attention even when their attention is off of your content." They tell friends and coworkers about your ideas "because they want to strengthen the shared extreme beliefs that they have to feel validated." "You write with impact when you wholeheartedly pick a side and express your beliefs." Best beliefs: "the ones that the average person would think are extreme or crazy"; "we don't want people that are dedicated to being average following us." Your beliefs form the foundation and perception of your brand; talk about them often and use them to provide perspective, experience and examples. Examples: is freelancing the best beginner way to make money? Are vegans dumb and should people eat more animal-based foods? Should people wake up at 3 a.m. and go straight to work?
+- **ejemplos:** Freelancing as best beginner path; vegans vs. animal-based diets; waking at 3 a.m.
+- **cita:** "impact equals writing words so powerful that they live in their head rentree"
+- **terminos:** impactful ideas, pick a side, rent free, extreme beliefs
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-196
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 7:15-8:50, 2023-12-03
+- **tension:** ninguna
+
+## U-009-200
+- **tipo:** principio
+- **titulo:** Be 90% liked and 10% disliked: polarity and push-pull patterns, like in a thriving relationship ("spiritual advice")
+- **desarrollo:** "Your goal is to be 90% liked and 10% disliked." If you don't maintain that polarity with your audience, "like you would in a thriving relationship with a significant other, you give people no reason to actually care about you." "You need the push pull patterns of the universe": the sun rises and sets, waves go up and down, songs have highs and lows; "it's just the nature of reality," and your mind interacting with other minds with a shared perspective is no different. "This isn't writing advice, this is spiritual advice." Make writing raw, punchy and digestible; remove and replace words that make you sound less confident. Write with impact but be open to changing your mind when someone presents a better perspective in the replies: "have firm beliefs held loosely."
+- **ejemplos:** Relationships; sunrise/sunset; waves; songs.
+- **cita:** "have firm beliefs held Loosely"
+- **terminos:** polarity, push pull patterns, 90% liked 10% disliked, firm beliefs held loosely
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-199
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 8:50-9:35, 2023-12-03
+- **tension:** ninguna
+
+## U-009-201
+- **tipo:** principio
+- **titulo:** Content element 3 — novel perspectives give the good dopamine hit; you get them by hunting in the unknown
+- **desarrollo:** Most people regurgitate the same ideas and never provide a new way of looking at things. "Novel perspectives are the main way to provide a good dopamine hit that aids in learning, understanding and action." Most creators "dish out dopamine like candy" hoping for a loyal readership. You create novel perspectives "through hunting in the unknown": through personal experience, pursuing your own goals and self-reflection, and researching information in the depths of books, podcasts, articles and social media accounts. "People don't want just another idea, they want a unique point of view." Like this video's intro: Dan had to stop and think about the idea he wanted to convey and paired personal experience with philosophical ideas that shaped his worldview. Combine topics, beliefs and novel perspectives acquired over time "to craft writing that holds attention without annoying tactics."
+- **ejemplos:** The video's intro on the future of work.
+- **cita:** "people don't want just another idea they want a unique point of view"
+- **terminos:** novel perspectives, hunting in the unknown, good dopamine
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-199
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 9:35-10:25, 2023-12-03
+- **tension:** ninguna
+
+## U-009-202
+- **tipo:** método
+- **titulo:** Content element 4 — writing structure: line breaks, study high-performing structures, and write lists that open curiosity loops
+- **desarrollo:** You can have the greatest ideas, but pay attention to where you post them: in a book people accept blocks of text; on social media they need to be guided or they'll scroll past. Use line breaks between sentences to increase readability. Study high-performing post structures: popular X posts, IG posts, YouTube titles, article headlines. Write more lists (bullet lists) that open a curiosity loop: people can like, share, follow or comment based on any bullet; lists force each bullet to be condensed and impactful; people add their own thoughts or nuance in comments, boosting reach. "Anything can be turned into a list": take an idea and turn it into a list of lessons, benefits, pains or steps. General post structure: hook, body (list of reasons/benefits/lessons/pains), conclusion.
+- **ejemplos:** See next unit.
+- **cita:** "anything can be turned into a list"
+- **terminos:** writing structure, line breaks, curiosity Loop, hook body conclusion
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-201
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 10:25-12:01, 2023-12-03
+- **tension:** ninguna
+
+## U-009-203
+- **tipo:** ejemplo
+- **titulo:** "How to clear your mind" post: built in an hour from a Medium headline ("10 habits that changed my life")
+- **desarrollo:** While preparing the video Dan had to create a post within an hour, so he found an idea quickly: "10 habits that changed my life," a medium.com headline. The X post he wrote: "How to clear your mind: walk more, read more, write more, listen more, lift more, strategize more, build more; scroll less, indulge less, criticize less, ruminate less, sit less, procrastinate less. Clarity is reserved for those who don't resist reality but engage with it." He could have used bullets, but X now cuts off long posts at the end, so he didn't space it out; with a shorter list he'd use bullet points.
+- **ejemplos:** The "How to clear your mind" post.
+- **cita:** "Clarity is reserved for those who don't resist reality but engage with it"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-009-202
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 11:14-12:01, 2023-12-03
+- **tension:** ninguna
+
+## U-009-204
+- **tipo:** principio
+- **titulo:** Content element 5 — eyes and effort: the algorithm is human psychology; you can control how many people see your content
+- **desarrollo:** Most creators make the massive mistake of caring about the algorithm and latest trends, lacking understanding that the algorithm is based on "human understanding, psychology and mechanics." The principles: a desired outcome, a burning problem, and a clear solution or system. Nail those and people will share; "if they don't share it then you aren't as good of a writer as you think you are" — you need more data, testing and experimentation. Creators realize the algorithm shows content but "don't realize they can control the amount of people that see their content." Put effort into growth, especially as a beginner: reply to larger accounts so their audience sees your replies and follows you; network with creators to help each other; potentially pay for help (detailed in "How to build an audience with zero followers").
+- **ejemplos:** Replying to larger accounts.
+- **cita:** "if they don't share it then you aren't as good of a writer as you think you are"
+- **terminos:** eyes and effort, algorithm
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-136
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 12:01-13:27, 2023-12-03
+- **tension:** ninguna
+
+## U-009-205
+- **tipo:** principio
+- **titulo:** If you don't sell your own product you will be assigned one; when you are the niche, building an audience is a modern cheat code
+- **desarrollo:** You need a product you'd actually buy and use. "If you don't sell your own product you will be assigned one to sell." Without lying to yourself, create a product you would buy, use and benefit from. "There aren't many shortcuts in business but this is one of them": when you are the niche you don't need to excessively worry about market research, product-market fit or crafting the perfect marketing strategy. "Building an audience is a modern cheat code": your content is how you test ideas that turn into your marketing. E.g., post 10 tweets a day to test 10 YouTube titles or thumbnail texts and use the most engaging; Dan hasn't done this but has seen people run 10 Facebook ads at a time to pick a podcast thumbnail.
+- **ejemplos:** 10 tweets to test 10 titles; 10 Facebook ads to choose a podcast thumbnail.
+- **cita:** "if you don't sell your own product you will be assigned one to sell"
+- **terminos:** modern cheat code, you are the niche
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-196
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 13:27-14:11, 2023-12-03
+- **tension:** ninguna
+
+## U-009-206
+- **tipo:** historia
+- **titulo:** 2 Hour Writer began as a high-performing X thread on how Dan writes repurposable articles and newsletters
+- **desarrollo:** About a year earlier Dan wrote an X thread breaking down how he writes articles and newsletters so they can be repurposed into content across all platforms. "It did very well so I turned it into my two-hour writer course." Validation of a product idea through content performance.
+- **ejemplos:** 2 Hour Writer.
+- **cita:** "it did very well so I turned it into my two-hour writer course"
+- **terminos:** 2 Hour Writer
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-009-205
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 14:11, 2023-12-03
+- **tension:** ninguna
+
+## U-009-207
+- **tipo:** argumento
+- **titulo:** With an audience the landing page is just the final kicker; as a cold-outreach freelancer Dan was neurotic about optimization
+- **desarrollo:** Your audience trusts you more after exposure to much of your content, so "you don't need to have the perfect conversion centered landing page and copywriting because people already know if they are going to buy." You've raised their awareness of their problems with content; the landing or sales page "is just the final kicker that provides clarity." When Dan was a freelancer relying on cold DMs, cold emails and referrals, he was "pretty neurotic" about optimizing his website and funnel; every email felt like it had to be maximized; "I didn't have any breathing room" because every action had so much on the line. An audience solves this: "my marketing is done every single day without me even marketing; it's just content that educates others that builds trust." Optimization after that is a bonus.
+- **ejemplos:** Dan as a cold-outreach freelancer.
+- **cita:** "your Landing or sales page for your product is just the final kicker that provides Clarity"
+- **terminos:** final kicker, breathing room
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-205
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 14:11-15:34, 2023-12-03
+- **tension:** Nuances U-009-186-188 (detailed landing page structure): with an audience, the page matters less.
+
+## U-009-208
+- **tipo:** opinión
+- **titulo:** Monetize from the start with zero followers: you build experience and authority on social media, not before it
+- **desarrollo:** Two routes people recommend: don't monetize at the start, or monetize at the start. Dan is in the camp of monetizing from the start on social media without followers, because you need a way to build authority. Those saying "build something off social media first, then come on and monetize" don't realize social media "is a perfectly viable way to build authority and wealth in today's world. It's not that you need experience before you come on social media, it's that you build experience on social media." It didn't used to be this way, but social media is "arguably the most viable way to start a business nowadays."
+- **ejemplos:** ninguno
+- **cita:** "it's not that you need experience before you come on social media it's that you build experience on social media"
+- **terminos:** monetize when you start
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 15:34-16:20, 2023-12-03
+- **tension:** Tension with U-009-147, which places "become an authority" before launching the digital product.
+
+## U-009-209
+- **tipo:** framework
+- **titulo:** The Build Teach Earn method: build to learn, teach to enhance learning and build an audience, earn by helping, earn more by leveraging results
+- **desarrollo:** For absolute beginners, "the build teach earn method." Dan had several skills and a freelancing business before becoming a creator; the method helped him succeed much faster and "bakes in every single thing you need to earn a living as a creator." Steps: (1) Build — to learn high-value skills to earn with; (2) Teach — to enhance your learning and build an audience; (3) Earn — by helping others with what you've learned; (3.5) an equally viable route: create a product or service you would buy, use and benefit from (sell what's already selling); (4) Earn more — by leveraging your results and an audience (productize your results). Each step detailed in following units.
+- **ejemplos:** ninguno
+- **cita:** "it bakes in in every single thing you need to earn a living as a Creator"
+- **terminos:** build teach earn method
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 15:34-28:40, 2023-12-03
+- **tension:** ninguna
+
+## U-009-210
+- **tipo:** método
+- **titulo:** Build step: self-educate while building something tangible; every creator-business skill is a high-value skill sellable to other businesses
+- **desarrollo:** Step one: build to learn high-value skills. "The best way to learn is to self-educate so you have knowledge as you build something tangible so you have experience." Few creators realize most businesses are the same nowadays: "they're all content companies, they're all media companies," acquiring customers online with brand, content, product and promotions. So the skills that make your creator business succeed can be offered to other businesses as a freelance service or digital product. A creator business is running an entire business as one person; you need every skill that makes a business work. Learn graphic design as you build your profile picture, banner, website images, thumbnails; copywriting and content writing as you build landing pages, website, social content and newsletters; social media ("yes it's a skill") to build following, network and authority; marketing and sales as you build your product or service; advertising and promotions as you promote to get buyers.
+- **ejemplos:** Learning graphic design via your own profile assets.
+- **cita:** "your creator business is a business"
+- **terminos:** high value skill, content companies, media companies
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-209
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 16:20-17:51, 2023-12-03
+- **tension:** ninguna
+
+## U-009-211
+- **tipo:** framework
+- **titulo:** The funnel every future-profitable business depends on: top (social platforms), middle (newsletter, lead magnets, DMs), bottom (products, upsells)
+- **desarrollo:** Every business "that will be profitable in the future" depends on: top of funnel — social platforms like X, Instagram, YouTube, LinkedIn; middle of funnel — newsletter, lead magnets, direct messages and any other way of nurturing readers; bottom of funnel — products, services, upsells, downsells. Slowly learn every skill; start with writing: "that is what generates the most traffic and followers and sets the foundation of your entire brand which is content." With traffic and followers you can sell your products or charge high prices to other businesses "because their main problem is traffic and leads."
+- **ejemplos:** ninguno
+- **cita:** "start with writing that is what generates the most traffic and followers and sets the foundation of your entire brand"
+- **terminos:** top of funnel, middle of funnel, bottom of funnel
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-210
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 17:51-18:38, 2023-12-03
+- **tension:** ninguna
+
+## U-009-212
+- **tipo:** principio
+- **titulo:** Teach step: teaching reveals gaps in your knowledge — "I'm not good enough" is the opportunity to learn
+- **desarrollo:** Step two: teach to enhance your learning and build an audience. "The second best way to learn is to teach what you know, what you're learning and what you've done to achieve a profitable or meaningful goal." When you teach you'll struggle a lot and think "I'm not good enough, and you'd be correct, you aren't; neither is anyone." Rather than seeing it as the problem of not knowing enough, see it as an opportunity to learn and fill the holes: "that's what teaching does is it reveals the gaps in your knowledge." People write it off when "it is literally the only opportunity to learn and solidify that learning staring you in the face." Content: teach your skill set, your mindset, make sense of complex ideas from your point of view, teach your polarizing beliefs ("everyone should be a carnivore and why").
+- **ejemplos:** "Everyone should be a carnivore."
+- **cita:** "I'm not good enough and you'd be correct you aren't neither is anyone"
+- **terminos:** gaps in your knowledge
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-209
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 18:38-19:21, 2023-12-03
+- **tension:** ninguna
+
+## U-009-213
+- **tipo:** definición
+- **titulo:** Value equals positive behavior change; teaching turns you into a value creator (a micro education business disguised as a content creator)
+- **desarrollo:** "Not only does teaching build authority but it turns you into a value creator. If value equals positive behavior change then most creators aren't valuable." When you start "a micro education business... disguised as a content creator," you set yourself up for hyper-profitability.
+- **ejemplos:** ninguno
+- **cita:** "if value equals positive behavior change then most creators aren't valuable"
+- **terminos:** value creator, value equals positive behavior change, micro education business
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-212
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 19:21, 2023-12-03
+- **tension:** ninguna
+
+## U-009-214
+- **tipo:** método
+- **titulo:** Earn step: with 5-10K followers you're qualified to help businesses; your niche is one specific problem solved uniquely
+- **desarrollo:** Step three: earn by helping others with what you've learned. With a valuable following of 5,000-10,000 you are "fully qualified to help people with your skill set because most people don't have those results"; most company accounts don't have 5-10K followers. Not just helping people build a following, but everything that led to it: you have a vast array of knowledge you can focus on one problem a business faces, "and that's what you'd call a niche so to say," using your skill set to solve it "in a unique, irreplaceable way." E.g., having learned content writing, thread writing, profile design, email opt-in pages, newsletter writing.
+- **ejemplos:** ninguno
+- **cita:** "most Company accounts don't have 5 to 10,000 followers"
+- **terminos:** niche, Irreplaceable
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-210
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 19:21-20:52, 2023-12-03
+- **tension:** ninguna
+
+## U-009-215
+- **tipo:** caso
+- **titulo:** Long-form X post writers consulting at $300-500/hour; the long-form post as a unique mechanism (like intermittent fasting)
+- **desarrollo:** Over the past week Dan saw people with some success writing long-form posts on X create a "how I write long form posts" course or consulting, charging $300-$500 an hour, "making good money for their follower size," because they have results with long form leading to specific growth. Pitching a company: "I want to write long form content for you" can work with a persuasive message: long-form posts build more trust than short form, lead people down the page, lead to more conversions. "The long form post is your unique mechanism," like why people are obsessed with intermittent fasting: "something unique that is structured and brings clarity to the mind as to what's going to get results."
+- **ejemplos:** Long-form X post consultants; intermittent fasting.
+- **cita:** "the long form post is your unique mechanism"
+- **terminos:** unique mechanism
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-214
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 20:08-21:32, 2023-12-03
+- **tension:** ninguna
+
+## U-009-216
+- **tipo:** heurística
+- **titulo:** Start small: productize the area you've become best at; selling is how you learn marketing and sales; sell the technique, not the skill
+- **desarrollo:** "Start small. Don't try to create some insane offer that you can charge $10 to $20,000 for" (transcribed "$1 to $220,000"; ambiguous). Figure out what you've become best at and don't overcomplicate: results with threads or long-form posts → product or service around that; great at profile and content design → around that; off-the-charts focus with your productivity system → around that. "If you've done it and it's helped your business that means it can help someone else who struggles in that area." The main obstacle is marketing and sales (creating the perception of the offer; see "Value creation"). Selling is the way to learn marketing: it's not that marketing comes first; put something out — "not terrible in terms of quality," but in terms of marketing, likely to get few buyers — and fill the gaps in your marketing message until sales come. You get better at social media by experimenting with techniques (thread writing, post structures, mastermind groups) until you get results. "Sell the technique, not the skill."
+- **ejemplos:** Threads, profile design, productivity system as product bases.
+- **cita:** "sell the technique not the skill"
+- **terminos:** sell the technique not the skill
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-214
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 21:32-22:14, 2023-12-03
+- **tension:** ninguna
+
+## U-009-217
+- **tipo:** heurística
+- **titulo:** Business and marketing services are beginner-friendly because you'll need those skills anyway to sell whatever you really want
+- **desarrollo:** Dan told you to package and sell business and marketing services because that's what's building your business and they're very beginner-friendly: you don't need to be an expert in any topic before practicing them, and eventually you'll need those skills anyway to sell whatever you actually want (a fitness product, a spirituality product, anything). If you're just starting out and haven't achieved any goal, solved any problem, or don't have interests or skills, do what step three says.
+- **ejemplos:** Fitness or spirituality products later.
+- **cita:** "eventually you're going to need those skills either way to build your business and sell whatever it is you actually want to sell"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-214
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 22:14-23:00, 2023-12-03
+- **tension:** ninguna
+
+## U-009-218
+- **tipo:** heurística
+- **titulo:** Launch a new product or service every quarter for 2-3 years; each launch compounds authority, audience and sales
+- **desarrollo:** "You can and should create a product or service to launch and sell at least every quarter for 2 to 3 years. Don't take that lightly." Sell one thing, then a quarter or half-year later create something new "from a new found place of experience so that it sells better," and the more you do it the more it compounds. Dan has sold something new every quarter, and every time saw "an exponential leap" in authority, audience growth and sales: "that's the exact difference I've noticed between myself and other accounts who make one tenth of the progress in that time." "Evolution is automatic; the people that prevent their personal evolution is themselves." Lean into "I have to build something new if I want to get to the next level," because building forces you to evolve and learn.
+- **ejemplos:** Dan's quarterly launches.
+- **cita:** "evolution is automatic like the people that prevent their personal evolution is themselves"
+- **terminos:** launch every quarter
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-209
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 23:00-24:20, 2023-12-03
+- **tension:** ninguna
+
+## U-009-219
+- **tipo:** principio
+- **titulo:** Creating a new product is creating a new identity; business growth is a vessel for personal growth
+- **desarrollo:** "Creating a new product isn't just creating a new product, it's creating a new identity with the skill set and mindset you must acquire to build the product, sell the product and improve the product. Business growth is a vessel for personal growth."
+- **ejemplos:** ninguno
+- **cita:** "business growth is a vessel for personal growth"
+- **terminos:** new identity
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-218
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 24:20, 2023-12-03
+- **tension:** ninguna
+
+## U-009-220
+- **tipo:** principio
+- **titulo:** Step 3.5 — sell what's already selling: buyers buy again; don't create new markets yet; you're a buyer, sell what you bought
+- **desarrollo:** The other route: a product or service you would buy, use and benefit from. "A business principle that most people glance over is to sell what's already selling. You don't try to create new markets just yet; you stick your hands in the ones that are already flowing." Questions: what products have you bought recently, which did you use daily, what courses gave you your own results? "Buyers buy again, buyers buy again, buyers buy again. You're a buyer. What have you bought? Sell it because someone else will buy it. Don't fall for the silly belief that the market is saturated."
+- **ejemplos:** See next unit.
+- **cita:** "buyers buy again you're a buyer what have you bought sell it because someone else will buy it"
+- **terminos:** sell what's already selling, buyers buy again, saturated
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-209
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 24:20-25:46, 2023-12-03
+- **tension:** ninguna
+
+## U-009-221
+- **tipo:** historia
+- **titulo:** Dan's first products: a web design/freelancing product (after buying 5-10 freelancing courses) and later the Power Planner
+- **desarrollo:** When Dan started on social media he created and sold a web design and freelancing product because (1) he was a freelance web designer with some success, having gotten results from courses — he purchased 5-10 courses on freelancing; "that's who I was... that's all of the knowledge I had in my head." What made it unique: "it's not like I'm just copy and pasting from others; I have that entire experience to pull from; I have a way to make it better." "The entire goal is to soak in all of this knowledge, get results in your own way... push through the trial and error... and then create a better product that advances that industry." (2) He knew those products sold because he bought 5-10 of them. As he grew he created the Power Planner because he used planners all the time and saw their benefit; he created his own with the things that actually worked for him, and he enjoys talking about productivity in content.
+- **ejemplos:** Web design/freelancing product; Power Planner.
+- **cita:** "the entire goal is to soak in all of this knowledge get results in your own way"
+- **terminos:** Power Planner
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-220
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 24:20-26:29, 2023-12-03
+- **tension:** ninguna
+
+## U-009-222
+- **tipo:** heurística
+- **titulo:** If your interest doesn't relate to what you sell, launch something new each quarter under that interest and re-educate the audience from a beginner lens
+- **desarrollo:** A major problem: "I want to talk about my interest here but it doesn't relate to the main thing I want to sell." Dan's answer: "Do you ever plan on evolving or becoming more profitable or more free or having more leverage?" Then every quarter launch something new under an interest you want to build authority in and talk about. When that happens, you'll have to educate your audience: much of your content shifts to that topic "from a beginner lens so that anyone can understand it and get on board." He teaches creating a "minimum viable offer" in "The best online business to make a million in 2023."
+- **ejemplos:** ninguno
+- **cita:** "every quarter launch something new under an interest that you actually want to build Authority in"
+- **terminos:** minimum viable offer, beginner lens
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-218
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 25:46-26:29, 2023-12-03
+- **tension:** ninguna
+
+## U-009-223
+- **tipo:** método
+- **titulo:** Earn-more step: productize your results — write the exact steps (your unique mechanism), the vision and the anti-vision
+- **desarrollo:** Step four: earn more by leveraging results and an audience. You now have a high-value skill stack, the ability to solve profitable problems, a growing readership with profitable problems, and building/selling experience — "one of the most optimal positions you can be in this digital renaissance or new golden age that is the creator economy," with resources to be an independent thinker and earner; you don't conform to government agendas you hate or report to someone for assigned work. Productize your results: if you've helped people via freelancing or consulting, write the exact steps that got results; if you don't have steps, create them and refine. "These steps are your unique mechanism." Write the desired outcome — "what is their vision for their future? You are selling a better life." Write the worst outcome — "what is their anti-vision for the future? You're helping them avoid pain." "That is your marketing strategy."
+- **ejemplos:** ninguno
+- **cita:** "you are selling a better life"
+- **terminos:** productize your results, unique mechanism, vision, anti-vision, digital Renaissance, independent thinker and earner
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-209
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 26:29-27:56, 2023-12-03
+- **tension:** ninguna
+
+## U-009-224
+- **tipo:** framework
+- **titulo:** Anti-vision, vision, solution: the structure for a landing page, a newsletter and a YouTube video
+- **desarrollo:** On your landing page: start by writing their anti-vision in detail, then the vision they could achieve, and last present your solution, system, steps or unique mechanism as the way to fill that gap. "That's it. That's how you write a landing page, that's how you write a newsletter, that's how you create a YouTube video: anti-vision, vision, solution." Also emulate other landing pages to understand headlines and content structure, as training wheels for your first.
+- **ejemplos:** ninguno
+- **cita:** "antiv Vision Vision solution"
+- **terminos:** anti-vision, vision, solution, training wheels
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-223
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 27:56, 2023-12-03
+- **tension:** ninguna
+
+## U-009-225
+- **tipo:** principio
+- **titulo:** As readership grows, drop low-leverage client work for a digital product; one follower means one million, a no-labor product turns eyes into millions
+- **desarrollo:** As your readership grows "it doesn't make sense to focus on low leverage activities like client work," and if you don't plan to hire a team and dive into management, "the logical option is to create a digital product that requires minimal effort with high profit margins. This is how solopreneurs make millions": they understand that if they gain one follower they can gain 1 million, and with a product that doesn't require labor to fulfill they can turn those 1 million eyes into multiple millions of dollars.
+- **ejemplos:** ninguno
+- **cita:** "if they gain one follower they can gain 1 million"
+- **terminos:** low leverage activities, solopreneurs
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-223
+- **fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md, 27:56-28:40, 2023-12-03
+- **tension:** ninguna
+
+# Fuente: The Fastest Way To Build A One-Person Business (Beginner Guide).md (2024-09-15)
+
+## U-009-226
+- **tipo:** método
+- **titulo:** A 60-day action plan to make your first $1,000 as a one-person business, without wasting time on non-essentials
+- **desarrollo:** Dan presents "a 60-day action plan to making your first $1,000 as a one-person business," for creators or creative people with skills who want to build their own business or side hustle. "I don't like get-rich quick [ __ ]," so "the fastest relatively," the most seamless way: focus only on what it takes to start the business, then improve everything once you're already making money and know what you'll commit to. Advanced people may use it to build a new offer that makes much more because of their experience. Contents: (1) the importance of building an audience in a world of freelancers and agency owners; (2) what to talk about and what to sell; (3) the micro skill stack (two high-income skills); (4) the micro offer (landing clients without months building); (5) the only two ways to land clients; (6) the $1,000 challenge with daily steps. (The transcript sometimes reads "$11,000"; context indicates it's a transcription error for "$1,000.") "If you skip over one part you're probably not going to see results."
+- **ejemplos:** ninguno
+- **cita:** "the fastest relatively and what I believe to be just the most seamless way"
+- **terminos:** 60-day action plan, micro skill stack, micro offer, one-person business
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 0:00-4:54, 2024-09-15
+- **tension:** ninguna
+
+## U-009-227
+- **tipo:** fuente-de-tercero
+- **titulo:** If you can make $1,000 you can make $100,000; Alex Hormozi: it's easier to make a million than $100,000 — aim higher
+- **desarrollo:** "If you can make $1,000 you can make $100,000, and if you can make $100,000 you probably have the knowledge and skill to make a million." "Like Alex Hormozi says, it's a lot easier to make a million than it is $100,000." Most people aim too low and don't acquire the necessary skill; pursuing a much larger goal requires you to learn a lot more, be more creative and understand what leads to the million. So focusing on $1,000 "may be shooting ourselves in the foot," but it's for educational purposes and because $1,000 is believable as a hook. Don't limit yourself to thinking in thousands: "think in hundreds of thousands or millions and shoot for the stars, you'll land on the moon." You don't need a large audience, only the basics of two high-income skills; "all of your actions compound and nothing goes to waste if you stick with it."
+- **ejemplos:** ninguno
+- **cita:** "it's a lot easier to make a million than it is $100,000"
+- **terminos:** ninguno
+- **origen:** adaptada-de:Alex Hormozi
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 1:28-2:55, 2024-09-15
+- **tension:** ninguna
+
+## U-009-228
+- **tipo:** advertencia
+- **titulo:** If you clicked only because of "$1,000 in 60 days" you'll probably fail; leave the get-rich-quick mindset at the door
+- **desarrollo:** Disclaimer: "if you clicked on this video solely because it said make $1,000 in 60 days you're probably going to fail, and that's okay," a mistake you can improve from or quit from. Leave the get-rich-quick mindset at the door. To control how much you make ($1,000 or $50,000 in 60 days — big businesses make millions monthly), you have to start a business.
+- **ejemplos:** ninguno
+- **cita:** "leave the get-rich quick mindset at the door"
+- **terminos:** get-rich quick mindset
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-226
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 2:13-2:55, 2024-09-15
+- **tension:** ninguna
+
+## U-009-229
+- **tipo:** principio
+- **titulo:** Whatever you call it, you need a business, and a business demands a different character than a 9-to-5: you create your own order and stability
+- **desarrollo:** "I don't care if you think business is a dirty word... you need a [ __ ] business. I don't care if you want to call it a side hustle or your life's work or creative work, it's a business." A business "demands a much different character than a 9-to-5 job": no boss providing order for your life; you create your own schedule and manage yourself, "a lot more of an undertaking than it sounds." If you like stability and the comfort of 9-to-5 jobs, you may not realize a business is still better "because you create your own stability, the one that you like." But most entrepreneurs don't; they drown working 12-hour days without focus or priorities.
+- **ejemplos:** ninguno
+- **cita:** "a business is still better because you create your own stability"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 2:55-4:15, 2024-09-15
+- **tension:** ninguna
+
+## U-009-230
+- **tipo:** metáfora
+- **titulo:** The social media profile is your digital storefront: like opening a physical location, but free, where the attention is
+- **desarrollo:** "The first thing we need to do is set up our digital storefront. It's just like opening a physical location in your local area." The digital world is accessible and a social profile costs $0. It's where you attract an audience or traffic to your storefront, and it's necessary. There are other ways (radio, print, billboards, paid ads), but social media "is the most accessible, where all of the attention is right now."
+- **ejemplos:** Physical store location; radio/print/billboard ads.
+- **cita:** "you need a digital storefront"
+- **terminos:** digital storefront
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 4:54-5:38, 2024-09-15
+- **tension:** ninguna
+
+## U-009-231
+- **tipo:** framework
+- **titulo:** Six benefits of building an audience vs. cold email or ads (where do the non-buyers go? they disappear)
+- **desarrollo:** You can send 10,000 cold emails and spend $10,000 on ads, "but where do the people go after that?" Non-buyers from your ad "disappear"; you can remarket, "but still the point stands." Building an audience on social media: (1) you keep access to people because they follow you; (2) it's free to start, so you don't need much skill or permission; (3) every piece of content warms up your audience to buy; (4) you can build new products and increase profitability — your audience is something you can "resell to time and time again"; (5) people follow you for you, so you aren't trapped in a specific business model or skill and can pivot; (6) when large enough you can leave client work or build the startup you've dreamed of, already having customers and potential team candidates, without spending hundreds of thousands on marketing and hiring.
+- **ejemplos:** 10,000 cold emails; $10,000 in ads.
+- **cita:** "where do the people that don't purchase from your ad go they disappear"
+- **terminos:** audience as asset
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-230
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 5:38-6:26, 2024-09-15
+- **tension:** ninguna
+
+## U-009-232
+- **tipo:** fuente-de-tercero
+- **titulo:** "Build an audience" is the consensus — Shark Tank, and Rework by Jason Fried and David Heinemeier Hansson (37signals)
+- **desarrollo:** On business social media or watching the occasional Shark Tank episode, "the first thing that comes out of their mouth is build an audience." Dan just finished Rework by Jason Fried and David Heinemeier Hansson (DHH) of 37signals ("pretty cool people on Twitter... I like them a lot"). "The world is changing, people are finally getting on board with the fact that an audience is a crucial asset for any kind of business you build." (He does not detail what Rework says beyond this.)
+- **ejemplos:** Shark Tank; Rework; 37signals.
+- **cita:** "an audience is a crucial asset for any kind of business you build"
+- **terminos:** ninguno
+- **origen:** de-tercero:Jason Fried and David Heinemeier Hansson, Rework; Shark Tank
+- **nivel:** complementario
+- **prerrequisitos:** U-009-231
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 6:26-7:10, 2024-09-15
+- **tension:** ninguna
+
+## U-009-233
+- **tipo:** principio
+- **titulo:** If writing content isn't a 30-60 minute daily morning practice, you're not really building a business; your week of posts is a real-time landing page
+- **desarrollo:** "Brutally honest": "if you are not writing content daily, if that isn't a 30 to 60 minute practice every single morning for you, you're not really building a business," and if you have no money to invest in building it another way, it won't grow. You can build the website and logo all day (not covered in this video), but "the audience is really the only thing that matters here," besides your offer and product. Writing content and prioritizing followers will do most of the selling. "Think of your 10 pieces of content that you post over this week as a landing page in and of itself, it's just in real time." Purchasing behavior has changed on social media. Growing an audience isn't luck in the algorithm.
+- **ejemplos:** ninguno
+- **cita:** "think of your 10 pieces of content that you post over this week as a landing page in and of itself it's just in real time"
+- **terminos:** real-time landing page
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-231
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 7:10-8:32, 2024-09-15
+- **tension:** ninguna
+
+## U-009-234
+- **tipo:** framework
+- **titulo:** The topic tree: three big, broad topics with subtopics and content topics underneath
+- **desarrollo:** To decide what to teach and sell (what your content and offer are composed of), Dan has taught the "topic tree": three big, broad topics that let you maneuver within them and create many subtopics and content topics underneath. You can fill it out in your own time. In this video he simplifies it to "straight-line to $1,000 in 60 days" (next unit). (The graphic isn't reproduced in the transcript.)
+- **ejemplos:** ninguno
+- **cita:** "you have three big and Broad topics that allow you to maneuver within them"
+- **terminos:** topic tree
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 7:48-8:32, 2024-09-15
+- **tension:** ninguna
+
+## U-009-235
+- **tipo:** ejercicio-del-autor
+- **titulo:** Join the niche you're already in: four questions about your search history, accounts you follow, next book, and products you buy
+- **desarrollo:** "You are going to join the niche that you were already in." Answer and choose one to three topics that satisfy most of these (multiple-choice style): (1) What valuable content is in your search and YouTube watch history? ("keyword is valuable"); (2) What do the accounts you follow talk about, and do you feel you have a similar level of knowledge? (3) If you bought a new book right now, what topic would it be? (4) When you buy an educational or behavior-improving product (a planner, software, a health supplement — not clothing or necessities), what do you buy? Then write down 1-3 topics you already read about — "this is where your content ideas will come from" — and 1-3 courses, templates or products you've already purchased — "the starting point of your offer that you will reposition."
+- **ejemplos:** Planner, software, health supplement.
+- **cita:** "you are going to join the niche that you were already in"
+- **terminos:** join the niche you were already in, reposition
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-234
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 8:32-9:15; 11:32-12:17, 2024-09-15
+- **tension:** ninguna
+
+## U-009-236
+- **tipo:** principio
+- **titulo:** Intelligent imitation is the key to initial success; if everyone is doing it, it's profitable, not saturated — do it a little more uniquely
+- **desarrollo:** "The key to initial success in most areas of life is intelligent imitation." We all imitate others growing up, but often unconsciously, ending up where we don't like. That doesn't make imitation useless as a survival strategy: if you do it "consciously, intelligently," imitating the people you want to become like, you're more likely to become like them. People overcomplicate business thinking "if everyone else is doing it, it's saturated. No, not even close. If everyone else is doing it that means it's profitable, it means people actually want it." Your job: "do the same thing but make it just a little bit more unique."
+- **ejemplos:** Cortex (next unit).
+- **cita:** "if everyone else is doing it that means it's profitable"
+- **terminos:** intelligent imitation, saturated
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-235
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 9:15-10:02, 2024-09-15
+- **tension:** ninguna
+
+## U-009-237
+- **tipo:** caso
+- **titulo:** Cortex isn't revolutionary, just a bit better: a second brain built around your work, with a small team, no VC, and an estimated eight-figure "failure floor"
+- **desarrollo:** Cortex "isn't anything revolutionary or new; it's just a bit better than the products that other people have grown tired of and aren't the best solutions for writers, creators, marketers." Notion, Obsidian, "taon" (name unclear in transcript) are useful for their use cases, but many note-taking apps are "just there for jotting down scattered ideas and having a place where things go to get lost" and don't help you serve your purpose. You have work to do, and its quality directly impacts your ability to survive and thrive; "if your mind is the interface of anything that you do, Cortex is your second brain to do that better and to store all of that in a way that's just ready to be distributed to other people." Even if they don't reach Notion's level (which Dan is "fairly confident" they can in 5-10 years), they have a fraction of the team size and costs, took no VC money, can pivot and move fast with current technology; "even if we fail catastrophically I think the failure landing point for something like Cortex would be at least eight figures annual."
+- **ejemplos:** Notion, Obsidian.
+- **cita:** "it's just a bit better than the products that other people have grown tired of"
+- **terminos:** Cortex, second brain, mind is the interface
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-009-236
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 10:02-11:32, 2024-09-15
+- **tension:** ninguna
+
+## U-009-238
+- **tipo:** heurística
+- **titulo:** Coaching services are often just books broken into 8-12 weekly calls; you only need a price and "I'll help you do this over four calls"
+- **desarrollo:** "Did you know that people's coaching services are actually just their books broken down and distributed over 8 to 12 calls weekly, and they charge substantially more for the coaching service since it's one on one." If you have blog articles, can create a course curriculum, or can map steps to help someone achieve a goal, "you don't need a landing page, you don't need that curriculum... you simply need to say here's my price, I'm going to help you do this over four calls." Only as you write and sell will you have the ideas and feedback to make it truly unique; how you treat and iterate on that information over time determines your business's success.
+- **ejemplos:** Books turned into coaching programs.
+- **cita:** "people's coaching services are actually just their books broken down and distributed over 8 to 12 calls weekly"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-235
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 12:17-12:56, 2024-09-15
+- **tension:** ninguna
+
+## U-009-239
+- **tipo:** advertencia
+- **titulo:** Don't let profile, bio or banner block you: people follow content, not profiles
+- **desarrollo:** Over years helping creatives, Dan saw them focus "so freaking much" on bio, profile picture or banner, usually because it's the first thing taught in social media courses ("you need the value proposition"). "I agree to an extent but at the start that shouldn't be a blocker." "Nobody actually cares about the profile aside from the first time they go and look at it." "They're not following the profile, they're following the content." Your job is to write content daily so good that people follow you without even looking at your profile.
+- **ejemplos:** ninguno
+- **cita:** "they're not following the profile they're following the content"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-230
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 12:56-14:21, 2024-09-15
+- **tension:** Nuances U-009-118 (articulating the brand in the bio); here the bio is minimized for beginners.
+
+## U-009-240
+- **tipo:** principio
+- **titulo:** Self-awareness is the greatest business hack: observe why you buy and follow, extract the lesson, implement it
+- **desarrollo:** "Self-awareness is the greatest business hack." Pay attention to your own actions on social media or in business: when you buy something, why? "Okay, you just extracted a lesson, now implement it into your business." When you read content and follow someone, did their bio change whether you followed? "Maybe it locked it in, but most of the time no."
+- **ejemplos:** Following someone after reading a post without checking the bio.
+- **cita:** "self-awareness is the greatest business hack"
+- **terminos:** self-awareness
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-239
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 14:21, 2024-09-15
+- **tension:** ninguna
+
+## U-009-241
+- **tipo:** método
+- **titulo:** Simple profile setup: 1-3 headshot tutorials, and the bio template "I write about A, B and C + result of your offer"
+- **desarrollo:** Watch 1-3 YouTube tutorials on taking a headshot or creating a profile picture and create yours along with it. Bio: Dan "did some testing" and advises the super simple route: "I write about [topic A], [topic B] and [topic C]" followed by the results they'll get from your offer. Example: topics productivity, writing, self-improvement and an offer around writing → "I write about productivity, writing and self-improvement. Learn to write as a high income skill." "You don't need to get fancy"; even if everyone used it, it'd be unique with four moving pieces. Visitors only want to know "what does this guy talk about, am I interested?" Use top-of-mind topics like those an app or blog (Lifehacker, Medium) prompts you to follow — psychology, self-improvement, technology — not high-level esoteric ones; "they don't know you yet, they don't care about the complexity of your mind." It's just top of funnel. Link in bio: the qualifying questionnaire instead of a landing page. Frame to notice problems (not to block on): "does it look like your profile should have 1 million followers? If not then you have something to improve along the way."
+- **ejemplos:** "I write about productivity, writing and self-improvement. Learn to write as a high income skill."
+- **cita:** "does it look like your profile should have 1 million followers"
+- **terminos:** bio template
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-239
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 14:21-17:16, 2024-09-15
+- **tension:** ninguna
+
+## U-009-242
+- **tipo:** framework
+- **titulo:** The micro skill stack: writing and sales (combined = persuasion) cover the two needs: a traffic source and a product
+- **desarrollo:** To start making income you need (1) a traffic source and (2) a product or service to sell. "The two skills that simplify that process are writing and sales, and if you combine the two together you get persuasion" (building on his video "Master persuasion with four frameworks": "everything's persuasion"). Writing is accessible: no design or video experience needed, "you don't even need to write well, you just need to write with impact." "All social media content starts with writing, yes even video scripts": if you write persuasively you'll speak and make videos persuasively and can put writing into designs for Instagram. "Ask anyone that you respect in the social media space and they will say that they write every single day. I don't care if you're not a writer, you are now if you're building a business."
+- **ejemplos:** ninguno
+- **cita:** "if you combine the two together you get persuasion"
+- **terminos:** micro skill stack, persuasion, high income skills, write with impact
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 17:16-18:48, 2024-09-15
+- **tension:** ninguna
+
+## U-009-243
+- **tipo:** método
+- **titulo:** Short posts (under 300 characters or 1 minute): write a tweet, paste into an image template; the minimalist creator only needs writing
+- **desarrollo:** First type of content: short posts — tweets, Reels, Shorts, TikToks, Instagram posts, anything under 300 characters or 1 minute. Dan's favorite: write a tweet, then copy-paste it into an image template in Figma or Canva (his Instagram is writing in image form). "You don't need to post anything other than writing to build an audience on any short form platform": no video reels, no pictures of yourself — "that's the minimalist creator." Short posts are good for staying top of mind, attracting an audience and testing ideas; "short posts are your base." Post at least one a day on X; two to three a day to test which to post to other platforms and turn into long posts.
+- **ejemplos:** Dan's Instagram of writing images; Figma, Canva.
+- **cita:** "you just need to write that's like the Baseline that's the minimalist Creator"
+- **terminos:** short posts, minimalist Creator
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-242
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 18:04-19:29, 2024-09-15
+- **tension:** ninguna
+
+## U-009-244
+- **tipo:** término-acuñado
+- **titulo:** "A tweet is the new MVP": the content-to-business filter from tweet to long post, newsletter, video, free download, product, startup
+- **desarrollo:** The flow: write short form (X, where you can post multiple and see what does best); turn the best into a longer post; if that does well, into a newsletter; if that does well, into a YouTube video; then a free download; then a product; then a new startup. "A tweet is the new MVP, so you can test all of your business ideas every single day, three times a day, and just bring it through that filter, and you'll be able to start a business just based on what does the best."
+- **ejemplos:** ninguno
+- **cita:** "a tweet is the new MVP"
+- **terminos:** tweet is the new MVP, filter
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-243
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 19:29-20:09, 2024-09-15
+- **tension:** ninguna
+
+## U-009-245
+- **tipo:** método
+- **titulo:** Long posts and micro articles: strategic, 1-2 a week, in a 4x5 image template postable anywhere, pushed by your network
+- **desarrollo:** Second type: long posts — X threads, Threads, Instagram carousels, long LinkedIn posts or carousels, or what Dan calls "micro articles," which have been doing well. He writes them in Cortex, copies to Figma, downloads the image and posts it; if it fits a 4x5 image template "you can post them anywhere": YouTube Community page (he grows a lot from those), Instagram, LinkedIn — "it's all writing." Short posts are "spray and pray": let them go, take the best and run. Long posts are strategic: more time to create, based on very good ideas that set you apart (valuable topics, breakdowns, actionable advice, your story, a deep thought). Since you post them only 1-2 times a week they hold more attention, build more trust and lead to more followers, so you need a network to get them in front of people rather than hoping "the magical Twitter gods or YouTube gods" spread them. The 1% picked up by the algorithm "make it seem like anyone can"; Dan believes in "manual effort and investment to grow your brand." Recap: 2-3 short posts a day and 1-2 long posts a week, exhausting your "traffic firepower": friends sharing, potentially paid people sharing, tagging people so they repost, DMing to get reposts/shares.
+- **ejemplos:** Dan's micro articles on YouTube Community, Instagram, LinkedIn.
+- **cita:** "short posts are kind of like spray and prey"
+- **terminos:** long posts, micro articles, spray and pray, traffic Firepower, manual effort
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-243
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 20:09-22:18, 2024-09-15
+- **tension:** ninguna
+
+## U-009-246
+- **tipo:** heurística
+- **titulo:** Use 50,000 followers as the threshold to start transferring your best posts to other platforms
+- **desarrollo:** "Once you get to I would say 50,000 followers... I use 50,000 as a metric to know that you know what you're doing on social media and that you can grow without spending too much time on it." Then transfer your best posts that brought the most followers to other platforms and, knowing what leads to growth, redo it there. (Taught in Digital Economics.)
+- **ejemplos:** ninguno
+- **cita:** "I use 50,000 as a metric to know that you know what you're doing on social media"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-245
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 22:18, 2024-09-15
+- **tension:** Compare U-009-112 (repurpose "when you do this long enough and see enough growth," no number given).
+
+## U-009-247
+- **tipo:** método
+- **titulo:** What to write about: pain points and solutions, rewriting top tweets (Tweet Hunter/SuperX sidebar), book notes as hook-body-conclusion, popular YouTube titles
+- **desarrollo:** Take your chosen topics and: (1) break them down into common pain points and write about how to solve them; (2) research other accounts' top tweets with a tool like the Tweet Hunter X sidebar (a Chrome extension) or SuperX, and rewrite them from your own perspective — in one view you see an account's most popular tweets, "pretty much proven to do extremely well if you can get the traffic kickstarted"; (3) read books and use social media as a place to take notes, written with a hook, body and conclusion in your own words (Dan is reading "The Systems View of Life" and turns passages into posts); (4) filter favorite YouTube channels by most popular and use their titles as starting points for hooks and posts.
+- **ejemplos:** The Systems View of Life; Tweet Hunter sidebar; SuperX.
+- **cita:** "read books and use social media as a place to take notes but write those notes with a hook body and conclusion"
+- **terminos:** hook body conclusion
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-243
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 22:18-24:22, 2024-09-15
+- **tension:** ninguna
+
+## U-009-248
+- **tipo:** definición
+- **titulo:** Sales is storytelling: pain point, desired outcome, path to get there (preferably your unique way)
+- **desarrollo:** The second skill to understand: "sales is storytelling. You are showing someone where they can be, making them aware of the pain points of their current situation and offering them a path to get from point A to point B: pain point, desired outcome, path to get there, preferably your unique way of doing it. That's what sales is, that's what content is, that's what a landing page is, that's what all good and persuasive anything is." It applies to persuasion in general, writing and articulate speaking. Practice sales in every situation: writing, conversations, earning. As a creator you don't need to worry about sales calls: "90% of your selling is done through content," making people aware of problems, giving solutions to test, illustrating their future life.
+- **ejemplos:** ninguno
+- **cita:** "90% of your selling is done through content"
+- **terminos:** sales is storytelling, pain point, desired outcome, path
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-242
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 24:22-25:08, 2024-09-15
+- **tension:** ninguna
+
+## U-009-249
+- **tipo:** método
+- **titulo:** Practical content exercise: list pain points and desired outcomes, find a well-performing post, use it as a template and plug your idea in
+- **desarrollo:** Most people still don't know how to write content. Make a list of pain points you can help solve or have had; list solutions or desired outcomes (goals people want). Go to Twitter, Instagram, etc., scroll until you see a post that did relatively well, look at how it's written, use it as a template and plug one of your ideas in (e.g., take one of Dan's top posts, take its structure, plug your pain point in), rewriting so it's standalone and from your idea.
+- **ejemplos:** Using one of Dan's top posts as a structure.
+- **cita:** "use that as a template and plug one of the ideas into it"
+- **terminos:** template
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-248
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 25:08-25:52, 2024-09-15
+- **tension:** ninguna
+
+## U-009-250
+- **tipo:** término-acuñado
+- **titulo:** The micro offer: a service needing nothing built — a profile, authority content, DMs, and a questionnaire — to test before building a full product
+- **desarrollo:** "A micro offer is a service where you don't need anything built yet." All you need: a social media profile as your public resume; content that displays your authority by illustrating problems and giving solutions ("AKA giving value"); the ability to message people who like, comment, share or DM you asking about your posts; and a questionnaire for people to fill out if you don't message them first, so they can show interest. "A micro offer is a way of testing what you should turn into a full-fledged product or service before you spend time doing so."
+- **ejemplos:** ninguno
+- **cita:** "a micro offer is a way of testing what you should turn into a full-fledged product or service before you spend time doing so"
+- **terminos:** micro offer, public resume
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-226
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 25:52-26:41, 2024-09-15
+- **tension:** ninguna
+
+## U-009-251
+- **tipo:** método
+- **titulo:** Micro offer structure: four weekly one-to-one sessions for $1,000, and why each element works
+- **desarrollo:** "Offer a pack of four weekly one to one sessions for $1,000." Why: (1) $1,000 is a solid price; if people pay it, others will pay $3,000-$10,000 for a more fleshed-out offer depending on the audience; entrepreneurs and business owners often don't flinch at high prices; $1,000 is something most people can afford if they really want to. (2) Four weekly calls are enough time to get results. (3) Only a few people benefit from you doing the work for them (freelancing), but "anyone can benefit from you teaching them over a call." (4) After selling a few, you can identify what should go into a full product or service. Naming: you can call it coaching or consulting, but Dan advises against calling yourself a coach, consultant or freelancer: "just offer the desired outcome and solve the pain point." Not "I'm coach Dan, I have a coaching offer," but "I solve this problem to get this solution" — "much more compelling and a lot less scammy."
+- **ejemplos:** "I'm coach Dan" vs. "I solve this problem."
+- **cita:** "I would actually stay away from calling yourself a coach or a consultant or a freelancer just offer the desired outcome and solve the pain point"
+- **terminos:** micro offer, four weekly calls
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-250
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 26:41-28:53, 2024-09-15
+- **tension:** ninguna
+
+## U-009-252
+- **tipo:** historia
+- **titulo:** Dan as an underpaid freelancer earning $400-600/month living with seven other guys; you only achieve what you believe possible
+- **desarrollo:** Dan had to overcome limiting beliefs as an underpaid freelancer: used to part-time jobs, all he knew was making $400-$600 a month, "living with seven other dudes and us trying to skimp on rent." He didn't know a freelancer could make $10,000 a month, or a creator $100,000 to $500,000 to a million a month — "absurd to me." "You can only achieve that thing once you actually believe that it's possible." He argues 99% of people fail at making money in the creator economy because "they just have such a bad relationship with money and their mind matches their situation," without expanding their mind to something greater to grow into.
+- **ejemplos:** $400-600/month; seven roommates.
+- **cita:** "their mind matches their situation and they haven't expanded their mind to something greater than that so they can grow into it"
+- **terminos:** relationship with money
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-251
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 26:41-28:08, 2024-09-15
+- **tension:** ninguna
+
+## U-009-253
+- **tipo:** método
+- **titulo:** Micro offer step 1 — identify a big problem: draw on who you were five years ago, test content, mine popular YouTube videos and accounts
+- **desarrollo:** Framework for what to cover on the calls. Step one: identify a big problem or pain point you solve, related to your main topics. "It doesn't really matter what the topic is right now, it matters what problem are you going to solve." Dig into personal experience: where you were maybe five years ago, your mindset, the problem you faced, vs. now and why now is better. Find it by: (1) writing content about different problems and seeing which gets most engagement; (2) researching YouTube videos on the topic with many views and watching them to identify the problem targeted — "all content targets a problem even if they don't state the problem"; you can infer it from the goal or what it teaches; (3) following accounts on the topic and seeing which problem-related posts do best.
+- **ejemplos:** Dan's posts implying pain points.
+- **cita:** "all content targets a problem even if they don't State the problem"
+- **terminos:** big problem, pain point
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-251
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 28:53-30:10, 2024-09-15
+- **tension:** ninguna
+
+## U-009-254
+- **tipo:** ejemplo
+- **titulo:** Positioning an interest around an eternal market: productivity (relationships, wealth) and programming/writing (wealth), with amplification
+- **desarrollo:** "Big problems should fall under the health, wealth and relationships eternal markets. Your job is to target one of them and position your interest around it." Productivity: a big problem is not having the time or energy to make your spouse feel loved (relationships) and to make progress in your career (wealth); dig deeper: the relationship grows stale and boring, causing stress and little problems that stack into "mental chaos." Programming or writing: not having a skill set that lets you make more money; "you slowly get prodded along by the school system into a career that isn't relevant to your skill stack," the past saps your energy and ties you down with responsibilities. Use all of this for content too.
+- **ejemplos:** Productivity and relationships; programming/writing and school-driven careers.
+- **cita:** "your job is to Target one of them and position your interest around it"
+- **terminos:** Eternal markets, health wealth relationships
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-253
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 30:10-30:55, 2024-09-15
+- **tension:** Here the eternal markets are three (health, wealth, relationships); in U-009-132 there are four (adds happiness).
+
+## U-009-255
+- **tipo:** principio
+- **titulo:** Amplifying the problem is probably the most important part of content, emails, landing pages and DMs (the phone-addiction example)
+- **desarrollo:** "Notice how I'm not only illustrating the problem but I'm amplifying it, and that's important; that's probably the most important part of your content, your emails, your landing pages, your DMs": showing how the problem is actually a problem in their life. Stating "you're addicted to your phone" won't make anyone stop. But bringing up how it drains energy, impacts how you move in the world, your ability to focus, your ability to build a future you want, how it leads to "sitting there and rotting away if it goes unchecked" — "the deeper I go and if I hit the right button," the more they want to buy, provided you have a solution with proof that works. They could search 10-40 hours to piece it together, but if you offer something worth paying for and they don't have a bad relationship with money, they buy for convenience: "it's okay to spend money, I spend money every day, so do you."
+- **ejemplos:** Phone addiction.
+- **cita:** "you can State the problem you can be like oh you're addicted to your phone I could say that right now is it going to make you stop"
+- **terminos:** amplifying the problem
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-253
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 30:55-32:13, 2024-09-15
+- **tension:** ninguna
+
+## U-009-256
+- **tipo:** método
+- **titulo:** Micro offer step 2 — illustrate a desired lifestyle: the opposite of the problem, with three aspects of their ideal day
+- **desarrollo:** "Illustrate a desired lifestyle": what is the opposite of the problem, the goal they want, what their life looks like after reaching it? Write down three aspects of their ideal day. Productivity example: wake up and do work you enjoy; stop feeling tired and groggy in the afternoon so you can get work done; sleep well knowing you don't have a list of spillover tasks causing stress. You can map out more.
+- **ejemplos:** Productivity ideal day.
+- **cita:** "write down three aspects of their ideal day"
+- **terminos:** desired lifestyle, ideal day
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-255
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 32:13, 2024-09-15
+- **tension:** ninguna
+
+## U-009-257
+- **tipo:** método
+- **titulo:** Micro offer step 3 — create your unique process: write every step, polish into a system, iterate it like a weekly schedule
+- **desarrollo:** Your unique process is used in the micro offer and in newsletters, landing pages, courses, coaching. Over four calls you go through step-by-step parts with teaching, actionable homework, worksheets and projects. For 2 Hour Writer it's "the three-point content ecosystem." How: (1) write out every step someone needs to go from the big problem (where they are now) to the desired lifestyle; (2) look over the steps and polish them into a system you believe will work. Analogy: planning your week — write your morning routine and afternoon schedule, move things around ("this could be better"), and as you do them weekly notice problems ("I don't like doing that at that time"), exchange things, slowly improving the weekly system until it's perfect for you. "That's how you're creating a unique process over time."
+- **ejemplos:** Three-point content ecosystem; weekly schedule iteration.
+- **cita:** "you need your own unique process or system that you can continue improving"
+- **terminos:** unique process, three-point content ecosystem
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-256
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 32:13-33:35, 2024-09-15
+- **tension:** ninguna
+
+## U-009-258
+- **tipo:** heurística
+- **titulo:** Slap a compelling name on the process: names spark desire (One-Person Business, 4-Hour Workday, Mastery Method, Micro Creator)
+- **desarrollo:** Then "slap a compelling name on that process. This is what sparks desire in your potential customers." Dan has created many names that led to his audience: "the one-person business," "the 4-hour workday," "the Mastery method" and more. He practices naming things in most of his content; for this video: "the micro creator" or "the minimalist creator," brainstormed beforehand. "Let's not make it any more complicated than that." (He offers a Cortex template to map brand, content topics and micro offer.)
+- **ejemplos:** One-person business; 4-Hour Workday; Mastery Method; Micro Creator; Minimalist Creator.
+- **cita:** "this is what sparks desire in your potential customers"
+- **terminos:** one-person business, 4-Hour Workday, Mastery Method, Micro Creator, Minimalist Creator
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-257
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 33:35-34:57, 2024-09-15
+- **tension:** ninguna
+
+## U-009-259
+- **tipo:** método
+- **titulo:** Split the steps across four sessions, add a client project as a bonus; while working, improve the offer and collect testimonials
+- **desarrollo:** Over the four sessions, split the steps so they're manageable. As a bonus, create a project for the client that guides them through the steps: a productivity planner, a fitness program, writing a newsletter, programming a small app, or a template. "That's your entire offer: the problem you solve, the desired outcome and unique process to bridge the gap." As you work with people, focus on improving your offer and collecting testimonials.
+- **ejemplos:** Productivity planner, fitness program, newsletter, small app.
+- **cita:** "that's your entire offer the problem you solve the desired outcome and unique process to bridge the gap"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-257
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 34:18-35:43, 2024-09-15
+- **tension:** ninguna
+
+## U-009-260
+- **tipo:** método
+- **titulo:** The qualifying questionnaire replaces the landing page: a free form ("Work with me one-on-one") with six questions that build awareness, desire and payment intent
+- **desarrollo:** To connect traffic to offer, create a qualifying questionnaire, "a replacement for a landing page or a website," easier to build and doing the same job, since most clients come from content. Link it in bio and in content; promote it under content almost daily; when someone fills it, reach out, answer questions, send the payment link. Use JotForm, Typeform or Google Forms (free, well known). Title: "Work with me one-on-one." Description: "Implement [your unique process] so you can reach [desired outcome]" — the offer in 1-2 sentences. Questions: (1) name; (2) email; (3) social media handle; (4) what are your biggest struggles? (multiple choice relevant to topic and offer); (5) where do you want to be 30 days from now? (multiple choice); (6) "This is not a free service, are you serious about working together to achieve [desired outcome]?" (yes/no). Q4 makes the prospect aware of their problem; Q5 sparks the desire to change; Q6 plants the idea of payment. On YouTube (no DMs): create content around pain points, pitch the offer with benefits, put the questionnaire in the description, then email those who fill it.
+- **ejemplos:** Google Forms; YouTube description link.
+- **cita:** "question four makes the prospect aware of their problem question five Sparks the desire to change question six plants the idea of payment in their head"
+- **terminos:** qualifying questionnaire
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-259
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 34:57-37:46, 2024-09-15
+- **tension:** ninguna
+
+## U-009-261
+- **tipo:** principio
+- **titulo:** Warm DMs, not cold: only reach out to people who engage with your content and already see you as an authority
+- **desarrollo:** Online business tutorials usually advise cold emailing or cold DMing with a skill you barely have. The difference here: you build an audience from a content focus and "only reach out to people that engage with your content," who know you and see you as an authority, increasing chances of success "by a lot" — another bonus of an audience: people trust you because it isn't "a paid ad showing up trying to sell them immediately." Whom to DM first: people who comment on posts relevant to your offer; people who repost or share them; people who DM you first (questions or just "hi"); people who fill out your questionnaire.
+- **ejemplos:** ninguno
+- **cita:** "you're only reaching out to people that engage with your content you're not cold emailing or cold dming"
+- **terminos:** warm, the art of the DM
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-260
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 37:07-38:30, 2024-09-15
+- **tension:** ninguna
+
+## U-009-262
+- **tipo:** término-acuñado
+- **titulo:** Magnetic content: posts on pain points, benefits, ideal lifestyle, quick tips, takes on common advice, rewrites and actionable steps, all related to your offer
+- **desarrollo:** "Magnetic content is short or long posts that are written on pain points, benefits, the ideal lifestyle, quick tips, personal takes on common advice, rewrites of high performing content from other accounts, and actionable steps to overcome pain points, all relating to your offer." Once your offer exists, writing around it is relatively simple. People who comment on or share these posts are expressing interest in the topic and are "perfect to reach out to on a warm note."
+- **ejemplos:** ninguno
+- **cita:** "the people who comment or share these posts are people expressing interest in that topic"
+- **terminos:** magnetic content
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-261
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 38:30-39:18, 2024-09-15
+- **tension:** ninguna
+
+## U-009-263
+- **tipo:** proceso
+- **titulo:** The four-step DM script: pick up where it left off, ask about their endeavors, give non-basic advice and mention the offer with price, handle objections and invoice
+- **desarrollo:** (1) Pick up the conversation where it left off: if they commented/shared, send the post link and respond to their comment in DMs; if they submitted the questionnaire, briefly walk them through its questions: "Hey [name], I saw you submitted the form to work with me, can you tell me more about why you filled it out? What are you looking to get out of working with me?" (2) Ask how their endeavors are going, to understand goals and struggles; it also makes them aware of a problem or blocker. Fitness: "How's the weight loss journey going? Is there anything I can help with?" — reminds them of their desired lifestyle and sticking points. For questionnaire replies, ask what they've done to fix the pain points they listed. (3) Give novel advice and mention your offer: start with free value to prove authority; make it non-basic ("telling them to drink water is going to make them think you aren't worth working with — prove you know your [ __ ]"). End: "I actually offer a pack of four sessions to help with this. I help you implement [unique process]... The total cost is on par with a good personal trainer, $1,000 for the four sessions." For questionnaire replies, explain next steps instead: what each session covers, scheduling, projects, the invoice for $1,000 — "just state the price in the message." (4) Handle objections and send the invoice (Stripe or PayPal); they pay or they don't, and you move on.
+- **ejemplos:** Fitness DM; personal trainer price comparison.
+- **cita:** "telling them to drink water is going to make them think you aren't worth working with"
+- **terminos:** DM script, novel advice
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-261
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 39:18-42:45, 2024-09-15
+- **tension:** ninguna
+
+## U-009-264
+- **tipo:** opinión
+- **titulo:** Dan is "bad at sales" yet good at it through content; he doesn't push back on objections; followers have already had "four sales calls" with you
+- **desarrollo:** "I am not a sales expert, I'm actually fairly bad at sales, but I am good at sales because I'm good at content and I'm good at giving education and value to make people trust me." He doesn't do much objection handling and hasn't studied it. When people say "can I talk to my wife about it" or "can I answer in 7 days," he doesn't push back: "yeah no problem, and things tend to work out." A sales call can help but isn't necessary, "especially if you write content: people trust you and people have already been through four sales calls with you because they've been following you for a month, your sales calls being the content that you write."
+- **ejemplos:** "Can I talk to my wife about it?"
+- **cita:** "people have already been through four sales calls with you because they've been following you for a month"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-263
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 41:20-42:45, 2024-09-15
+- **tension:** ninguna
+
+## U-009-265
+- **tipo:** principio
+- **titulo:** Expect early noes; most results come after day 30; "nothing happens, then everything happens" (80 YouTube videos before one went viral)
+- **desarrollo:** You'll get quite a few noes at the start; "that's just how you get into business is failure." 60 days is a long time; Dan would "guarantee anyone can do this if they actually do it for 60 days and they aren't stupid when it comes to repeating themselves": if something doesn't work and you don't improve it, it keeps not working. You'll feel confused and overwhelmed learning something new: "your mind is struggling to expand and grow, like how you get sore after lifting weights." "Most of your results are going to come after day 30"; there's a natural filter for people who aren't serious. Dan posted 80 YouTube videos before one went viral and he felt his YouTube growing. "With all things worth having, nothing happens, then everything happens": you feel no progress, then experience accumulates and compounds into one person saying yes. "Stop being a dopamine junkie and give yourself the full 60 days."
+- **ejemplos:** 80 YouTube videos before the first viral one; muscle soreness.
+- **cita:** "with all things worth having nothing happens then everything happens"
+- **terminos:** natural filter, dopamine junkie
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 42:03-43:29, 2024-09-15
+- **tension:** ninguna
+
+## U-009-266
+- **tipo:** proceso
+- **titulo:** 60-day plan steps 1-2: create a profile and forget it; write 3-5 short posts a day with a swipe file and idea capture
+- **desarrollo:** Step one: create a profile and stop worrying about it; "no, changing your bio isn't going to help you magically make $10,000 a month." Step two: write 3-5 short posts a day. Dan normally advises 1-2 because that's what he does now, "it's not what I did, I wrote more." 1-2 may seem easier "but it's not because ideas beget ideas": writing more gives more ideas, more learning, and the feeling of progress. Do: build a swipe file of others' content you love and want to recreate (good tweets, posts, videos); jot down ideas while consuming podcasts, books or conversations; write about struggles, solutions, how-to breakdowns, commentary on advice you disagree with, relating to your offer. (Dan uses Cortex for this.) Every day or every other day go through your comments and reposts to DM people; include a link and CTA to your questionnaire to get more interested people to DM.
+- **ejemplos:** Swipe file.
+- **cita:** "ideas beget ideas"
+- **terminos:** swipe file, ideas beget ideas
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-265
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 43:29-45:40, 2024-09-15
+- **tension:** Differs from U-009-245 (2-3 short posts a day) and his usual 1-2: 3-5 a day for this 60-day plan.
+
+## U-009-267
+- **tipo:** proceso
+- **titulo:** 60-day plan step 3: 1-2 long posts a week that expand your best ideas, give away an uncommon secret, and plug the questionnaire
+- **desarrollo:** Write 1-2 long posts a week "because the longer you hold attention the more people trust you and the more value you can deliver" — why Dan writes such long newsletters and videos. (Newsletters aren't part of this micro creator workflow; 2 Hour Writer covers the three-point content ecosystem of short posts, long posts and newsletters.) For long posts: take your best posts or ideas and expand them into a thread, micro article or long post; use the extra space to give away extra secrets, including at least one thing that isn't common advice or knowledge; plug your questionnaire at the bottom of each. When promoting, use persuasion: "here's the problem, here's the solution, here's my unique offer, fill this out."
+- **ejemplos:** ninguno
+- **cita:** "try to include at least one thing that isn't common advice or knowledge"
+- **terminos:** micro Creator workflow, three-point content ecosystem
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-266
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 45:40-46:24, 2024-09-15
+- **tension:** ninguna
+
+## U-009-268
+- **tipo:** proceso
+- **titulo:** 60-day plan step 4: get eyes on your posts by manual effort — reply, DM to make friends, tag people; call it an engagement group if you want
+- **desarrollo:** "The algorithm probably isn't going to make you an overnight success. Most people don't realize that social media growth comes from manual effort and skill"; once you realize it, it's no longer "a game of luck for popular people." You don't need a large audience: "you need a thousand true [fans]" (as transcribed: "a thousand true"); even small audiences make $100,000, $500,000, a million a year. To get traffic without relying on the algorithm: reply to big and small accounts, DM people to make friends and grow together, write threads and tag people so they have a reason to repost. Critics who say "don't pay for growth, don't join an engagement group" often say "if you want to meet smaller accounts, comment on my post," turning their post into an "engagement farm" knowing the small accounts get nothing. "Take matters into your own hands, make friends, call it an engagement group if you want, share each other's stuff": like working on homework with classmates, building projects together, business partners, a marketing guy who helps you grow.
+- **ejemplos:** "Engagement farm" posts by big accounts; school homework groups.
+- **cita:** "social media growth comes from manual effort and skill"
+- **terminos:** manual effort, engagement group, engagement farm, a thousand true fans
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-267
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 46:24-47:43, 2024-09-15
+- **tension:** ninguna
+
+## U-009-269
+- **tipo:** proceso
+- **titulo:** 60-day plan step 5: map your micro offer — something you're above average at that solves a tangible problem; you're living an active tutorial
+- **desarrollo:** You don't need a solidified product or service yet, just something (1) you're above average at and (2) that helps people solve a tangible problem. Do others want to learn it? Are they already learning it? Is there an industry around it? Do you follow people who make a living off it? "Great, you have everything you need to build a million-dollar company, that's not a joke." "You are living through an active tutorial in how people make money": look at these people not from the lens of a consumer ("this information is great") but of "a researcher and someone who wants to build a business"; everything they do is a tutorial. Dan doesn't create newsletters or videos just because he wants to: "they make money, they're a part of the business" (though he chooses YouTube because he likes it). "You're watching money flow right now": every piece of content, landing page, email, book has money attached; "you aren't making money because you aren't creating and selling those things." All you need is a pack of four calls for $1,000 to teach something beneficial (fitness, a skill, nutrition, programming). Once you get results and know what people want, invest more into building a "real" business.
+- **ejemplos:** Dan's newsletters and videos as business assets.
+- **cita:** "you are living through an active tutorial in how people make money"
+- **terminos:** active tutorial, lens of a researcher, watching money flow
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-009-250
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 47:43-49:06, 2024-09-15
+- **tension:** ninguna
+
+## U-009-270
+- **tipo:** proceso
+- **titulo:** 60-day plan step 6: send 30 DMs a week for 8 weeks; you need under 0.5% to say yes, and even one client builds a network
+- **desarrollo:** "Send 30 DMs a week." It sounds high but is "extremely low and borderline pathetic": freelancers and agency owners sending thousands of cold emails a month "would laugh in your face." "30 DMs multiplied by 8 weeks equals 210 DMs" (as stated; arithmetically 240). You need less than 0.5% to say yes to a $1,000 offer. Even if you land only one client you've built a massive network: direct connections with ~210 people; you've probably grown by a few hundred; around a thousand people understand your expertise, each knowing 50-500 more people who could hear about you. "The longer you stick with this the more people say yes, the more your audience grows, and soon enough you'll have people popping out of the sky to work with you."
+- **ejemplos:** 30 DMs x 8 weeks; 0.5% conversion.
+- **cita:** "you need less than .5% of people you reach out to to say yes"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-009-263
+- **fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md, 49:06-50:35, 2024-09-15
+- **tension:** Arithmetic inconsistency in source (30 x 8 = 240, stated as 210).
 
