@@ -622,7 +622,7 @@
 - **ejemplos:** ninguno
 - **cita:** "in life discipline equals Freedom shout out Jocko but in business distribution equals Freedom"
 - **terminos:** distribution equals freedom
-- **origen:** adaptada-de:Jocko (Willink)
+- **origen:** adaptada-de:Jocko
 - **nivel:** fundamental
 - **prerrequisitos:** U-013-042
 - **fuente:** The $1 Million Dollar Skill Stack (Learn In This Order).md, 11:38-12:28, 2023-01-08
@@ -1196,7 +1196,7 @@
 - **ejemplos:** ninguno
 - **cita:** "code and media are permissionless leverage they're The Leverage behind the newly Rich"
 - **terminos:** permissionless leverage, full stack creator, content marketer
-- **origen:** de-tercero:Naval (Ravikant)
+- **origen:** de-tercero:Naval
 - **nivel:** fundamental
 - **prerrequisitos:** U-013-090
 - **fuente:** I Had To Learn These High-Income Skills (If I Wanted To Make Money).md, 15:26-16:14, 2023-08-16
@@ -1222,7 +1222,7 @@
 - **ejemplos:** Graphic design and email marketing learned through a marketing lens.
 - **cita:** "learn to sell learn to build if you can do both you will be unstoppable"
 - **terminos:** learn to sell learn to build, entrepreneurial hunt
-- **origen:** adaptada-de:Naval (Ravikant) (the "learn to sell, learn to build" phrasing is not explicitly attributed in the transcript; ambiguous)
+- **origen:** adaptada-de:Naval (the "learn to sell, learn to build" phrasing is not explicitly attributed in the transcript; ambiguous)
 - **nivel:** fundamental
 - **prerrequisitos:** U-013-092
 - **fuente:** I Had To Learn These High-Income Skills (If I Wanted To Make Money).md, 17:55-18:39, 2023-08-16
@@ -1662,7 +1662,7 @@
 ## U-013-128
 - **tipo:** fuente-de-tercero
 - **titulo:** Alan Watts: separate the message from the messenger; you remember the feeling of clarity, not the words
-- **desarrollo:** Alan Watts "may have been an alcoholic in his later years and died because of it" — though in the Art of Focus community someone suggested that may be a "scop" [sic, likely "psyop"]; "who knows." Regardless, "his work has changed my life for good"; he won't restrict himself from Watts's message just because the person may have values unlike his "when the message can truly change the way I see the world." Reminder: not watching people we dislike (clickbait titles, thumbnails) may mean missing the one idea that would radically change our lives. He remembers some Watts quotes because of the clarity they gave — "the feeling of having zero worries in the world"; when he wants that again he puts on a Watts lecture. Lesson: "you are but a humble messenger of a life-changing message."
+- **desarrollo:** Alan Watts "may have been an alcoholic in his later years and died because of it" — though in the Art of Focus community someone suggested that may be a "scop" (as transcribed; meaning unclear); "who knows." Regardless, "his work has changed my life for good"; he won't restrict himself from Watts's message just because the person may have values unlike his "when the message can truly change the way I see the world." Reminder: not watching people we dislike (clickbait titles, thumbnails) may mean missing the one idea that would radically change our lives. He remembers some Watts quotes because of the clarity they gave — "the feeling of having zero worries in the world"; when he wants that again he puts on a Watts lecture. Lesson: "you are but a humble messenger of a life-changing message."
 - **ejemplos:** Putting on an Alan Watts lecture for the feeling of zero worries.
 - **cita:** "you are but a humble messenger of a life-changing message"
 - **terminos:** humble messenger
@@ -2133,12 +2133,12 @@
 
 ## U-013-164
 - **tipo:** fuente-de-tercero
-- **titulo:** Devon Eriksen as the source: a long-form X post and the novel Theft of Fire
-- **desarrollo:** His answers came from a post by "Devin Ericson" (Devon Eriksen) — a long-form post on Twitter he found "extremely good"; he then watched podcasts Eriksen appeared on. Eriksen is "not a huge name yet"; he recently released a fiction book, Theft of Fire, which Dan started reading ("I haven't read a fiction book in so long"). Throughout the video he mixes Eriksen's points with his own thoughts.
+- **titulo:** Devon Ericson as the source: a long-form X post and the novel Theft of Fire
+- **desarrollo:** His answers came from a post by "Devin Ericson" / "Devon Ericson" (spellings as transcribed) — a long-form post on Twitter he found "extremely good"; he then watched podcasts Ericson appeared on. Ericson is "not a huge name yet"; he recently released a fiction book, Theft of Fire, which Dan started reading ("I haven't read a fiction book in so long"). Throughout the video he mixes Ericson's points with his own thoughts.
 - **ejemplos:** ninguno
 - **cita:** ninguna
 - **terminos:** ninguno
-- **origen:** de-tercero:Devon Eriksen
+- **origen:** de-tercero:Devon Ericson
 - **nivel:** complementario
 - **prerrequisitos:** ninguno
 - **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 0:00-1:32, 2024-03-24
@@ -2147,11 +2147,11 @@
 ## U-013-165
 - **tipo:** fuente-de-tercero
 - **titulo:** "Only slaves are expected to perform one task for their entire life": school mirrors slave education
-- **desarrollo:** Eriksen's first point: "Only slaves are expected to perform one task for their entire life"; our education system reflects the education slaves were given — career-specific skills like herding sheep, growing wheat, riding a horse. Dan's expansion: today we're taught to be useful workers; that's what school is designed for and our life trajectory since birth: obey at school, do assignments you don't care about so you can keep doing things you don't care about "so that you never actually get around to the things that you do care about." We're conditioned to get good grades out of fear of punishment; growing up, "you need to speak this certain way or else you're going to be punished"; learn specific skills to perform a specific task so you aren't punished with a bad life of little money; learn to get paid for a specific skill by a specific person "so that they can become your master and you become a wage slave."
+- **desarrollo:** Ericson's first point: "Only slaves are expected to perform one task for their entire life"; our education system reflects the education slaves were given — career-specific skills like herding sheep, growing wheat, riding a horse. Dan's expansion: today we're taught to be useful workers; that's what school is designed for and our life trajectory since birth: obey at school, do assignments you don't care about so you can keep doing things you don't care about "so that you never actually get around to the things that you do care about." We're conditioned to get good grades out of fear of punishment; growing up, "you need to speak this certain way or else you're going to be punished"; learn specific skills to perform a specific task so you aren't punished with a bad life of little money; learn to get paid for a specific skill by a specific person "so that they can become your master and you become a wage slave."
 - **ejemplos:** Herding sheep, growing wheat, riding a horse.
 - **cita:** "only slaves are expected to perform one task for their entire life"
 - **terminos:** wage slave, conditioned, useful workers
-- **origen:** adaptada-de:Devon Eriksen
+- **origen:** adaptada-de:Devon Ericson
 - **nivel:** fundamental
 - **prerrequisitos:** U-013-164
 - **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 1:32-2:16, 2024-03-24
@@ -2160,11 +2160,11 @@
 ## U-013-166
 - **tipo:** argumento
 - **titulo:** A free man acts on his interests; if you don't choose a purpose you'll be assigned one, and your learning is limited to assigned goals
-- **desarrollo:** Eriksen's second point: "a free man is expected to act on his interests and do many things throughout his life." Dan connects it to his book: "if you don't create a purpose you will be assigned one" (or "if you don't choose a purpose..."). A purpose is a goal; most people don't set and pursue their own goals. Goals are everything — that's how you survive since birth: given goals by parents, teachers, employer, "and that's usually it" for people who can't zoom out to choose long-term goals. Chain: a goal implies learning the knowledge and skills to achieve it -> assigned goals mean you only learn what's needed for those goals -> you explore nothing outside -> you take the same path others took -> you get the results others have -> and 99% aren't satisfied with those results. "If you don't choose your own goal you do not choose what you learn or what problems you solve; your destiny is decided for you, because the only potential you know is the one you were assigned."
+- **desarrollo:** Ericson's second point: "a free man is expected to act on his interests and do many things throughout his life." Dan connects it to his book: "if you don't create a purpose you will be assigned one" (or "if you don't choose a purpose..."). A purpose is a goal; most people don't set and pursue their own goals. Goals are everything — that's how you survive since birth: given goals by parents, teachers, employer, "and that's usually it" for people who can't zoom out to choose long-term goals. Chain: a goal implies learning the knowledge and skills to achieve it -> assigned goals mean you only learn what's needed for those goals -> you explore nothing outside -> you take the same path others took -> you get the results others have -> and 99% aren't satisfied with those results. "If you don't choose your own goal you do not choose what you learn or what problems you solve; your destiny is decided for you, because the only potential you know is the one you were assigned."
 - **ejemplos:** Parents, teachers, employer as goal assigners.
 - **cita:** "if you don't choose your own goal you do not choose what you learn or what problems you solve your destiny is decided for you"
 - **terminos:** if you don't choose a purpose you will be assigned one, self-generated goals
-- **origen:** adaptada-de:Devon Eriksen
+- **origen:** adaptada-de:Devon Ericson
 - **nivel:** fundamental
 - **prerrequisitos:** U-013-165
 - **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 2:16-3:46, 2024-03-24
@@ -2173,11 +2173,11 @@
 ## U-013-167
 - **tipo:** definición
 - **titulo:** True education: an orientation for how to live, think and learn without dependence — not a clone-producing machine
-- **desarrollo:** Eriksen's third point: the difference between slave and free person is "how to live, how to think and how to learn." Dan: "True education is not a clone producing machine that we call the public school; true education is an orientation for how to live without being dependent on everyone but yourself for your survival." It doesn't teach only career-specific skills (which everyone worries about children learning); it teaches how to become resilient and creative, learn faster, be adaptable, and use technology's new tools "so that you are not used by them."
+- **desarrollo:** Ericson's third point: the difference between slave and free person is "how to live, how to think and how to learn." Dan: "True education is not a clone producing machine that we call the public school; true education is an orientation for how to live without being dependent on everyone but yourself for your survival." It doesn't teach only career-specific skills (which everyone worries about children learning); it teaches how to become resilient and creative, learn faster, be adaptable, and use technology's new tools "so that you are not used by them."
 - **ejemplos:** ninguno
 - **cita:** "true education is an orientation for how to live without being dependent on everyone but yourself for your survival"
 - **terminos:** true education, clone producing machine
-- **origen:** adaptada-de:Devon Eriksen
+- **origen:** adaptada-de:Devon Ericson
 - **nivel:** fundamental
 - **prerrequisitos:** U-013-166
 - **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 3:46, 2024-03-24
@@ -2190,7 +2190,7 @@
 - **ejemplos:** ninguno
 - **cita:** "creativity is about achieving any goal with the knowledge and skill available to you not fancy art or designs"
 - **terminos:** creativity, self-generated goals, irreplaceable individual
-- **origen:** adaptada-de:Devon Eriksen (mixed with Dan's own framing; boundary ambiguous)
+- **origen:** adaptada-de:Devon Ericson (mixed with Dan's own framing; boundary ambiguous)
 - **nivel:** fundamental
 - **prerrequisitos:** U-013-167
 - **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 3:46-5:23, 2024-03-24
@@ -2211,12 +2211,12 @@
 
 ## U-013-170
 - **tipo:** fuente-de-tercero
-- **titulo:** Devon Eriksen's seven "liberating arts": logic, statistics, rhetoric, research, practical psychology, investment, agency
-- **desarrollo:** Eriksen's version of the Seven Liberal Arts, which he calls "the liberating arts" so as not to be confused with "the ideological monstrosity that is taught in liberal art school." Quoted: logic — how to derive truth from known facts; statistics — how to understand the implications of data; rhetoric — how to persuade and spot persuasion tactics; research — how to gather information on an unknown subject; practical psychology — how to discern and understand the true motives of others; investment — how to manage and grow existing assets; agency — how to make decisions about what course to pursue and proactively take action. With these, technical or career-specific skills "won't matter": you can adapt to and change them at any time.
+- **titulo:** Devon Ericson's seven "liberating arts": logic, statistics, rhetoric, research, practical psychology, investment, agency
+- **desarrollo:** Ericson's version of the Seven Liberal Arts, which he calls "the liberating arts" so as not to be confused with "the ideological monstrosity that is taught in liberal art school." Quoted: logic — how to derive truth from known facts; statistics — how to understand the implications of data; rhetoric — how to persuade and spot persuasion tactics; research — how to gather information on an unknown subject; practical psychology — how to discern and understand the true motives of others; investment — how to manage and grow existing assets; agency — how to make decisions about what course to pursue and proactively take action. With these, technical or career-specific skills "won't matter": you can adapt to and change them at any time.
 - **ejemplos:** ninguno
 - **cita:** "agency how to make decisions about what course to pursue and proactively take action to pursue it"
 - **terminos:** Seven Liberal Arts, liberating arts, logic, statistics, rhetoric, research, practical psychology, investment, agency
-- **origen:** de-tercero:Devon Eriksen
+- **origen:** de-tercero:Devon Ericson
 - **nivel:** fundamental
 - **prerrequisitos:** U-013-169
 - **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 6:11-6:59, 2024-03-24
@@ -2225,11 +2225,11 @@
 ## U-013-171
 - **tipo:** framework
 - **titulo:** The future-proof skill stack: marketing and sales (rhetoric, psychology), writing and thinking (logic, research), entrepreneurship (statistics, agency, investment)
-- **desarrollo:** Eriksen's post stuck out because Dan had already learned these skills "in a unique way," within his worldview of starting a creator-based business — "because you are naturally a creator," meaning a creator of value distributed as a content creator, viable as a one-person business with technology. His mapping: (1) Marketing and sales — "if you don't know how to attract and persuade you will never get what you want, and your only option will be for an employer or the government to give it to you"; covers rhetoric and psychology. (2) Writing and thinking — the ability to communicate the value in your unique mind, the foundation of getting in front of others; covers logic and research. (3) Entrepreneurship — taking your future into your own hands, "hunting for my survival," building products you want to see that others care about; covers statistics, agency and investment.
+- **desarrollo:** Ericson's post stuck out because Dan had already learned these skills "in a unique way," within his worldview of starting a creator-based business — "because you are naturally a creator," meaning a creator of value distributed as a content creator, viable as a one-person business with technology. His mapping: (1) Marketing and sales — "if you don't know how to attract and persuade you will never get what you want, and your only option will be for an employer or the government to give it to you"; covers rhetoric and psychology. (2) Writing and thinking — the ability to communicate the value in your unique mind, the foundation of getting in front of others; covers logic and research. (3) Entrepreneurship — taking your future into your own hands, "hunting for my survival," building products you want to see that others care about; covers statistics, agency and investment.
 - **ejemplos:** ninguno
 - **cita:** "if you don't know how to attract and persuade you will never get what you want and your only option will be for an employer or the government to give it to you"
 - **terminos:** future proof skill stack, creator of value, creator-based business
-- **origen:** adaptada-de:Devon Eriksen
+- **origen:** adaptada-de:Devon Ericson
 - **nivel:** fundamental
 - **prerrequisitos:** U-013-170
 - **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 6:59-8:35, 2024-03-24
@@ -2416,4 +2416,827 @@
 - **prerrequisitos:** U-013-163
 - **fuente:** The Future-Proof Skill Stack (How Average People Become Millionaires).md, 18:48, 2024-03-24
 - **tension:** Resolves the worry voiced at the start of the video (U-013-163).
+
+# Fuente: The Most Important Skill To Learn Right Now.md (2025-12-21)
+
+## U-013-186
+- **tipo:** principio
+- **titulo:** AI needs direction, tools need masters, content needs context; the mind is a story engine
+- **desarrollo:** Opening: "The future belongs to those who understand that AI needs direction, tools need masters, data needs insight, content needs context, success needs vision. The mind is a story engine, and those who learn to control it will thrive." Each pairing names a raw capability (AI, tools, data, content, success) and the human element it depends on (direction, mastery, insight, context, vision).
+- **ejemplos:** ninguno
+- **cita:** "The mind is a story engine, and those who learn to control it will thrive."
+- **terminos:** story engine, direction, context, vision
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Most Important Skill To Learn Right Now.md, 0:00, 2025-12-21
+- **tension:** ninguna
+
+## U-013-187
+- **tipo:** argumento
+- **titulo:** Most skills will be irrelevant in 10-20 years — unless you're high agency and not dependent on a specific skill
+- **desarrollo:** "Most skills will be irrelevant in 10 to 20 years," unless you completely change how you think about success. For a high-agency individual it doesn't matter, because you aren't dependent on a specific skill for success — you aren't a specialist; you didn't narrow your mind (preventing learning outside that focus) on the status of a high-paying job or degree. You have a vision and understand that today you can learn any skill or acquire any knowledge needed to achieve it. If your parents didn't cultivate agency in themselves they probably didn't pass it to you, and unless you've "deliberately and painfully gone through the process of relearning," you have work to do before feeling in control of your future.
+- **ejemplos:** ninguno
+- **cita:** "you aren't dependent on a specific skill for your success because you aren't a specialist"
+- **terminos:** high agency individual, relearning
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Most Important Skill To Learn Right Now.md, 0:00-0:37, 2025-12-21
+- **tension:** ninguna
+
+## U-013-188
+- **tipo:** concepto
+- **titulo:** Agency is the most important skill now, in 10 years and until you die: set direction, do what's required, avoid temptations
+- **desarrollo:** "The most important skill to learn that will be relevant now, in 10 years, and until you die, is agency. Because if you can set your own life direction, do what is required to achieve it, and avoid the infinite number of temptations and distractions in today's world, you will never be at risk of replacement. And if you do get replaced, it doesn't matter because you can quickly adapt." The video presents five ideas: what agency is, why it matters more than ever, and how to practice it.
+- **ejemplos:** ninguno
+- **cita:** "the most important skill to learn that will be relevant now, in 10 years, and until you die, is agency"
+- **terminos:** agency
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-187
+- **fuente:** The Most Important Skill To Learn Right Now.md, 0:37-1:23, 2025-12-21
+- **tension:** Another "most important skill" claim (cf. writing, persuasive communication); see U-013-118 on metaphorical reading of such claims.
+
+## U-013-189
+- **tipo:** término-acuñado
+- **titulo:** Agency redefined: the ability to iterate without permission (not merely act without permission)
+- **desarrollo:** First idea: "agency is the ability to iterate without permission" — a slight redefinition of the popular online definition, "the ability to act without permission." He hedges ("maybe that's the definition... but I want to redefine it in a way that is actually useful"). Dictionary sense: agency means "the condition of being in action or operation"; for a person, "the tendency to initiate action towards a goal without outside prompting, instruction, or permission." But what makes people successful isn't just acting: anyone can start a business, most fail, because they miss "the one critical piece": if something doesn't work, reflect, adjust and try again over and over until you reach the destination. Agency is therefore "not only action, but an undying commitment to iteration, learning and doing in unison, making mistakes and correcting mistakes without being seduced back into a comforting conformity because it's not working." "Yes, I'm talking to you people who start and quit after 2 weeks."
+- **ejemplos:** People who start a business and quit after two weeks.
+- **cita:** "an undying commitment to iteration, learning and doing in unison"
+- **terminos:** agency, iterate without permission, comforting conformity
+- **origen:** propia (redefining a popular definition)
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-188
+- **fuente:** The Most Important Skill To Learn Right Now.md, 1:23 y 4:49-5:37, 2025-12-21
+- **tension:** ninguna
+
+## U-013-190
+- **tipo:** fuente-de-tercero
+- **titulo:** Krishnamurti: only those in constant revolt discover what is true
+- **desarrollo:** Quote from Krishnamurti ("Krishna Murdy" in transcript): "It is only those who are in constant revolt that discover what is true, not the man who conforms, who follows some tradition." Used to introduce understanding agency by what it is not: conformity.
+- **ejemplos:** ninguno
+- **cita:** "It is only those who are in constant revolt that discover what is true, not the man who conforms, who follows some tradition."
+- **terminos:** constant revolt, conformity
+- **origen:** de-tercero:Krishnamurti
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** The Most Important Skill To Learn Right Now.md, 1:54, 2025-12-21
+- **tension:** ninguna
+
+## U-013-191
+- **tipo:** definición
+- **titulo:** Conformity: a mind still connected by an umbilical cord to society, judging truth by popularity
+- **desarrollo:** "Agency is not mechanical conformity. Conformity is when your mind is still connected by an umbilical cord to society. Conformity is a stage of development where your mind operates entirely through cultural programming, judging truth based on popularity and acceptance by others rather than your own direct experience or independent investigation." He urges relistening if it didn't land, calling it "one of the greatest threats to living a good life."
+- **ejemplos:** ninguno
+- **cita:** "Conformity is when your mind is still connected by an umbilical cord to society."
+- **terminos:** mechanical conformity, cultural programming, umbilical cord
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-190
+- **fuente:** The Most Important Skill To Learn Right Now.md, 1:54-2:40, 2025-12-21
+- **tension:** ninguna
+
+## U-013-192
+- **tipo:** metáfora
+- **titulo:** The newborn mind as a new computer: base OS, blank hard drive; nobody thinks independently for the first 20 years
+- **desarrollo:** "When you're born, your mind is like a new computer. There's a base operating system, but the hard drive is completely blank. For the first 20 years of your life, you do not think independently. And that's okay. Nobody does." Even feeling independent is "just another form of conformity": "the little kid that thinks he's rebelling against his parents is just conforming to what his friends want him to do."
+- **ejemplos:** The rebelling kid conforming to friends.
+- **cita:** "There's a base operating system, but the hard drive is completely blank."
+- **terminos:** base operating system
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-191
+- **fuente:** The Most Important Skill To Learn Right Now.md, 2:40, 2025-12-21
+- **tension:** ninguna
+
+## U-013-193
+- **tipo:** fuente-de-tercero
+- **titulo:** Spiral Dynamics and the nine stages of ego development: ~50% of the population at the conformist stage
+- **desarrollo:** "In the spiral dynamics and nine stages of ego development models, they show that around 50% of the population is at the conformist stage of development, meaning half the population lacks the cognitive development for genuine agency." (Authors of the models are not named; figure as stated by him.)
+- **ejemplos:** ninguno
+- **cita:** "half the population lacks the cognitive development for genuine agency"
+- **terminos:** spiral dynamics, nine stages of ego development, conformist stage
+- **origen:** de-tercero:Spiral Dynamics / nine stages of ego development models
+- **nivel:** avanzado
+- **prerrequisitos:** U-013-191
+- **fuente:** The Most Important Skill To Learn Right Now.md, 2:40, 2025-12-21
+- **tension:** ninguna
+
+## U-013-194
+- **tipo:** argumento
+- **titulo:** Conformity stems from survival: humans reproduce beliefs, so dependence on a job or ideology lowers agency in that domain
+- **desarrollo:** Humans survive not only physically like animals reproducing genes, but psychologically, "reproducing beliefs, ideas, and information." If you work a job, you have low agency in that domain: if the job went away your survival is at stake, so you must conform — to get the job (conform to what the boss likes), and on the job (dress code, approved processes, maybe a 9-to-5 workday). Likewise, hard-set beliefs binding you to a political party or religious organization mean low agency, because "your ideas of good and bad originate from your culture, not your own personal investigation or discovery." Even everyone in tech/business/AI talking about "being high agency" is "just another form of conformity" to what's popular there ("if you're not talking about it, you're not with it"). Self-admission: this video has some conformity — "we're all conformist in some ways," and since conformity is a survival strategy, "it can be used like a tool"; he conforms to stay relevant on YouTube.
+- **ejemplos:** Job dress code and processes; political party or religion; tech's "high agency" trend; his own YouTube relevance.
+- **cita:** "since it's a survival strategy or survival tool, it can be used like a tool"
+- **terminos:** survive on the psychological level, conformity as a tool
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-191
+- **fuente:** The Most Important Skill To Learn Right Now.md, 2:40-4:49, 2025-12-21
+- **tension:** Self-aware nuance: he concedes his own video conforms.
+
+## U-013-195
+- **tipo:** fuente-de-tercero
+- **titulo:** Devon Ericson: to have agency is to be the subject of a sentence rather than its direct object
+- **desarrollo:** Quote from Devon Ericson's article "The third ingredient of success": "To have agency is to be the subject of a sentence rather than its direct object. It is the tendency to act rather than wait to be acted upon." Dan uses it as the first tell that high-agency people "iterate without permission," then extends it with iteration (U-013-189).
+- **ejemplos:** ninguno
+- **cita:** "To have agency is to be the subject of a sentence rather than its direct object."
+- **terminos:** agency
+- **origen:** de-tercero:Devon Ericson ("The third ingredient of success")
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-188
+- **fuente:** The Most Important Skill To Learn Right Now.md, 4:49, 2025-12-21
+- **tension:** ninguna
+
+## U-013-196
+- **tipo:** concepto
+- **titulo:** High-agency people treat life as one giant experiment; low-agency people have the employee mindset
+- **desarrollo:** Second tell. Low-agency people are characterized by "the employee mindset": assigned a task, often with status or credential that "triggers the part of their brain that craves acceptance by the tribe," and their decision-making is immediately compromised — they can't think outside imposed confines. High-agency people are "scientists of their own lives": they have an idea, set their own goal, create a hypothesis (educated guess) on how to achieve it, test, tinker, research, attempt — and fail a lot, which is part of the process; "they expect to fail because how else are they going to narrow down what doesn't work until they find what does." Contrast: people promised a high-paying job or a get-rich-quick business do exactly as told, and when they inevitably fail they deem it impossible and blame everyone but themselves, not noticing they can correct the mistake and try again.
+- **ejemplos:** Promised job or quick business; blaming others.
+- **cita:** "high agency people are scientists of their own lives"
+- **terminos:** employee mindset, scientists of their own lives, hypothesis
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-189
+- **fuente:** The Most Important Skill To Learn Right Now.md, 5:37-7:12, 2025-12-21
+- **tension:** ninguna
+
+## U-013-197
+- **tipo:** framework
+- **titulo:** Three kinds of goals: easy, difficult, impossible — high-agency people believe in the difficult
+- **desarrollo:** Third tell: "high agency people believe in the difficult." Goals come in three forms: easy (things we do daily or can achieve with current skills/resources); difficult (can't do now but can eventually with the right skills and resources); impossible (outside reality's possibility, or something we can't do "until we complete the series of difficult goals that allow us to see impossible goals as possible"). Low-agency people have a belief system likely conditioned in childhood or later via an ideology (political party, religion, friend group), which skews perception so they see difficult goals as impossible and don't even try — not understanding that impossible goals are "only impossible right now."
+- **ejemplos:** ninguno
+- **cita:** "impossible goals are only impossible right now until you get to a point where they become possible"
+- **terminos:** easy goals, difficult goals, impossible goals, believe in the difficult
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-196
+- **fuente:** The Most Important Skill To Learn Right Now.md, 7:12-7:58, 2025-12-21
+- **tension:** ninguna
+
+## U-013-198
+- **tipo:** fuente-de-tercero
+- **titulo:** The "Sellingman" dog experiment: society trains you to bear the shocks of the default path
+- **desarrollo:** "Sellingman's dog experiment" (name as transcribed): dogs exposed to unavoidable electric shocks felt they had no control; later, placed where they could simply jump a small wall to escape, they didn't try — "they just whined and bore the shocks even when escaping was easily available." Dan's application: society does this to most people. The goal of the life you want may be difficult, but you were trained to believe there's no way, so you don't consider it: "you're just trained to bear the shocks of the default path," thinking the pain everyone goes through "is normal and not optional." Good news: agency can be practiced and cultivated as a skill or trait — but practical steps don't matter without understanding how it applies today.
+- **ejemplos:** The dog experiment.
+- **cita:** "you're just trained to bear the shocks of the default path"
+- **terminos:** default path
+- **origen:** adaptada-de:Sellingman (dog experiment; name as transcribed)
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-197
+- **fuente:** The Most Important Skill To Learn Right Now.md, 7:58-9:16, 2025-12-21
+- **tension:** ninguna
+
+## U-013-199
+- **tipo:** proceso
+- **titulo:** His AI learning workflow: task -> YouTube expert -> AI summary -> add examples/context -> meta prompt -> test, refine, reuse
+- **desarrollo:** Second idea: AI is not a threat to high-agency people. A tweet describing how he uses AI (got a lot of engagement): "Choose a task. Find a YouTube expert that teaches it. Have AI summarize their video. Add examples/context. Have AI turn that into a meta prompt. Test, refine, and reuse that prompt." "This has led to the best results in almost everything I have AI do." (Broken down in a previous video with a "learn AI in ~30 minutes" thumbnail.)
+- **ejemplos:** ninguno
+- **cita:** "Have AI turn that into a meta prompt. Test, refine, and reuse that prompt."
+- **terminos:** meta prompt
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** The Most Important Skill To Learn Right Now.md, 9:16-9:46, 2025-12-21
+- **tension:** ninguna
+
+## U-013-200
+- **tipo:** argumento
+- **titulo:** Success was never about access or equal opportunity — it's always been about agency
+- **desarrollo:** You now have access to any knowledge you'd ever need, yet people still do nothing with it — "a crucial point." "Success is now easier than ever. Yet the people who weren't going to achieve it still aren't going to achieve it. Meaning this was never about access or equal opportunity. It's always been about agency." High-agency people will outpace everyone else by 10x because they act without permission and barriers to action are now near non-existent. If you can't reach a big goal due to limited money or resources, set a smaller "stepping stone goal" that helps you acquire them.
+- **ejemplos:** ninguno
+- **cita:** "this was never about access or equal opportunity. It's always been about agency"
+- **terminos:** stepping stone goal, agency
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-188
+- **fuente:** The Most Important Skill To Learn Right Now.md, 9:46-10:44, 2025-12-21
+- **tension:** ninguna
+
+## U-013-201
+- **tipo:** argumento
+- **titulo:** AI-generated viral posts don't solve monetization or loyalty; using AI to learn is orchestrating a larger vision
+- **desarrollo:** The fear "AI will create so much content that human creators don't stand a chance" exists because people "can't think clearly." AI is a tool; tools need someone to use them for a purpose. Sure, anyone can have AI generate a thousand viral posts from a podcast and rank or simulate them — "but what good is that?" Have you thought about it, or just heard it and stopped thinking? You may get likes and followers, but what about monetization, loyalty, everything that makes a brand work long-term? You can ask AI to help you understand those — but "now you're doing something completely different. You're not asking AI to do it for you. You're learning now. You're orchestrating the realization of a larger vision," not that different from doing it yourself, just getting information from a faster source. "You are still the decision maker." (He's writing about this in his newsletter.)
+- **ejemplos:** AI generating 1,000 viral posts from a podcast.
+- **cita:** "You're orchestrating the realization of a larger vision."
+- **terminos:** decision maker, orchestrating
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-199
+- **fuente:** The Most Important Skill To Learn Right Now.md, 10:44-11:57, 2025-12-21
+- **tension:** ninguna
+
+## U-013-202
+- **tipo:** término-acuñado
+- **titulo:** Creators are context creators, not content creators: content is meaningless without context
+- **desarrollo:** AI can make a beautiful image on command, but there's a huge difference between someone with a vision using AI to execute it and someone wanting a quick image. Many artists use AI for first drafts, then tweak in Photoshop because image generators can't get super detailed. "AI has exposed what really matters in the creative process." When you ask AI to make all decisions — to guess what works from hundreds of thousands of internet opinions — "there is no through line, no theme, no personality, no vision, no context. That's what creators are, context creators. They're not content creators. The content is meaningless without context." Aside from brain rot and memes (which he admits enjoying; they keep you on-platform until you see ads), AI is "practically useless unless the person using AI is already good at creating content." "99% of AI generated content goes straight to the bottom of the barrel"; if AI content works, it's likely orchestrated by a human "passing off their personal context to it."
+- **ejemplos:** Artists using AI drafts then Photoshop; brain rot memes.
+- **cita:** "That's what creators are, context creators. They're not content creators."
+- **terminos:** context creators, through line, brain rot
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-201
+- **fuente:** The Most Important Skill To Learn Right Now.md, 11:57-13:34, 2025-12-21
+- **tension:** ninguna
+
+## U-013-203
+- **tipo:** principio
+- **titulo:** Nothing has changed: vision and agency don't get replaced; tools do — if you can't make art with AI you were never an artist
+- **desarrollo:** Building a business: you need a brand mission AI helps execute, and you must iterate constantly. Writing a book: you must control all minor details and still get people to read it — audience, marketing and sales, "which the book is not going to do itself." Creating art: you still need an idea to bring into reality. "Nothing has changed. People just hate what's new. And that new is shining a light on what mattered in the first place. If you can't create art with AI, then you were never an artist to begin with. You were simply good at using a tool like Photoshop, and tools get replaced. Vision and agency do not."
+- **ejemplos:** Business, book, art.
+- **cita:** "tools get replaced. Vision and agency do not"
+- **terminos:** vision, agency, brand mission
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-202
+- **fuente:** The Most Important Skill To Learn Right Now.md, 13:34-14:15, 2025-12-21
+- **tension:** ninguna
+
+## U-013-204
+- **tipo:** argumento
+- **titulo:** Schools promise the prestige of specialization to keep bright minds narrow (quote from Purpose and Profit)
+- **desarrollo:** Third idea: why generalists win in the AI age. Self-quote from his book (free on his Substack, "Purpose and Profit"): "Schools were created to enslave the brightest minds by promising the prestige of specialization so they remain narrow-minded and didn't overthrow the true rulers." He admits it's "taken quite a bit out of context" but "largely true." Critics of his generalist content rarely give a coherent argument, don't "steelman" his argument and "inadvertently prove me right."
+- **ejemplos:** ninguno
+- **cita:** "Schools were created to enslave the brightest minds by promising the prestige of specialization"
+- **terminos:** prestige of specialization, steelman
+- **origen:** propia (self-quote, Purpose and Profit)
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** The Most Important Skill To Learn Right Now.md, 14:15-14:59, 2025-12-21
+- **tension:** ninguna
+
+## U-013-205
+- **tipo:** fuente-de-tercero
+- **titulo:** "Jack of all trades, master of none... but oftentimes better than a master of one" — and Shakespeare as a synthesizer
+- **desarrollo:** Critics quote "the classic from Shakespeare," "a jack of all trades, master of none," unaware "it is a misquote and it ends with 'but oftentimes better than a master of one.'" [Attribution to Shakespeare as Dan states it.] Some think Shakespeare a specialist playwright, "but that was simply a vessel": he needed deep understanding of human nature, character development, language, classical literature, stagecraft, religion, philosophy, military tactics, music, navigation, the natural world, social structures, the body and medicine. "He was a synthesizer who used his diverse interests as his edge." Same for a Fortune 500 CEO, Charles Darwin, Steve Jobs, or any visionary: a specific vision, then learning the necessary steps. "Do not confuse a specific vessel or niche as being a specialist."
+- **ejemplos:** Shakespeare's breadth; Fortune 500 CEO, Darwin, Steve Jobs.
+- **cita:** "Do not confuse a specific vessel or niche as being a specialist."
+- **terminos:** synthesizer, vessel, jack of all trades
+- **origen:** adaptada-de:the "jack of all trades" saying (attributed by Dan to Shakespeare)
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-204
+- **fuente:** The Most Important Skill To Learn Right Now.md, 14:59-15:51, 2025-12-21
+- **tension:** ninguna
+
+## U-013-206
+- **tipo:** concepto
+- **titulo:** Specialists are attached to the skill; generalists are attached to the vision — Photoshop disrupted art like AI does now
+- **desarrollo:** "Specialists are attached to the skill. Skills always get replaced and evolve as technology advances." Photoshop (and computer-generated graphics) disrupted the art industry; now it's integral, but manual hand-drawn artists "were probably just screaming at the top of their lungs that this is going to ruin everything" — exactly what's happening with AI. Generalists don't care whether the skill is replaced or evolves, because they're focused on the goal/vision and on doing what's necessary, including changing the goal. They don't identify with or feel passionate about a skill ("like being passionate about Photoshop"); "they're passionate about their direction in life and creating that." Aside: he's "very pro AI" but sees things "very very wrong" in content creation — people asking AI for a script and reading it to camera, obviously AI.
+- **ejemplos:** Photoshop and hand-drawn artists; AI-scripted creators.
+- **cita:** "Specialists are attached to the skill."
+- **terminos:** specialists, generalists, direction in life
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-205
+- **fuente:** The Most Important Skill To Learn Right Now.md, 15:51-16:37, 2025-12-21
+- **tension:** ninguna
+
+## U-013-207
+- **tipo:** metáfora
+- **titulo:** Humans are tool builders: a lion in Alaska or a polar bear in the savannah would die; a human would build and adapt
+- **desarrollo:** "Humans are tool builders. We thrive in any niche because we can adapt to it. If you were to put a lion in Alaska and a polar bear in the savannah, they would die. If you were to put a human in either, they would build shelter, clothing, and hunt for something to eat because they can create a plan and execute on it."
+- **ejemplos:** Lion in Alaska, polar bear in savannah.
+- **cita:** "Humans are tool builders. We thrive in any niche because we can adapt to it."
+- **terminos:** tool builders
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-206
+- **fuente:** The Most Important Skill To Learn Right Now.md, 16:37-17:20, 2025-12-21
+- **tension:** ninguna
+
+## U-013-208
+- **tipo:** dato
+- **titulo:** America adopted the Prussian education model in the 1800s as "a weapon of mass conformity"
+- **desarrollo:** To educate large numbers of immigrant children in the 1800s during industrialization, America adopted the Prussian education model, "which was not education at all, but a weapon of mass conformity," designed to create obedient soldiers, compliant citizens, civil servants and well-behaved workers through mandatory attendance, training for teachers, testing for students, and grade levels. "Society wants you simple, predictable, and easy to categorize," because that best serves its interests and organizations' profits.
+- **ejemplos:** ninguno
+- **cita:** "a weapon of mass conformity"
+- **terminos:** Prussian education model, mass conformity
+- **origen:** propia (historical claim as stated by the author)
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-204
+- **fuente:** The Most Important Skill To Learn Right Now.md, 17:20-17:53, 2025-12-21
+- **tension:** ninguna
+
+## U-013-209
+- **tipo:** principio
+- **titulo:** Systems take the shape of what benefits their end goal — no conspiracy required
+- **desarrollo:** "If you understand systems, you understand that the system takes the shape of that which most benefits the end goal, which in society's case is keeping you sick and dumb, whether it's intentional or not. It doesn't have to be a conspiracy theory for the system to naturally take shape of the subconscious desires of the humans at the top of the pyramid."
+- **ejemplos:** ninguno
+- **cita:** "It doesn't have to be a conspiracy theory for the system to naturally take shape of the subconscious desires of the humans at the top of the pyramid."
+- **terminos:** systems
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-013-208
+- **fuente:** The Most Important Skill To Learn Right Now.md, 17:53, 2025-12-21
+- **tension:** ninguna
+
+## U-013-210
+- **tipo:** principio
+- **titulo:** Slaves did one thing (specialists); free individuals are meant to do many things — revolt against your birth path
+- **desarrollo:** "If slaves were expected to do one thing throughout the entirety of their lives so that their minds were closed to learning more, which are specialists, then you as a free individual are meant to do many things throughout your life. You're meant to be a generalist." So: revolt against the path set at birth, pursue an interest-based education, and use your capabilities wisely.
+- **ejemplos:** ninguno
+- **cita:** "you as a free individual are meant to do many things throughout your life. You're meant to be a generalist"
+- **terminos:** generalist, interest-based education
+- **origen:** adaptada-de:Devon Ericson (the slave/free framing, cf. U-013-165)
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-206
+- **fuente:** The Most Important Skill To Learn Right Now.md, 17:53-18:38, 2025-12-21
+- **tension:** Stronger than U-013-177 (2024), which said generalists don't win and generalized specialists do; here "generalists win."
+
+## U-013-211
+- **tipo:** argumento
+- **titulo:** Will AGI make human intelligence irrelevant? Questions on whether human capabilities are limited
+- **desarrollo:** Fourth idea: the five human capabilities. Agency is great but we're bound by physics, and AGI hype cycles raise the worry that human intelligence becomes irrelevant. Questions: are human capabilities limited or infinite? As high-agency generalists, can't we learn and do anything our genes don't limit? We thrive in many niches by adapting with knowledge and tools. Fundamental question: are there limits on what and how we can think? If the main limit is the brain's processing speed and memory, can't that be augmented — and with AGI, even more so? "Will we not be AGI? Are we not already AGI?" He calls it fun speculation and focuses on the near future.
+- **ejemplos:** ninguno
+- **cita:** "Will we not be AGI? Are we not already AGI?"
+- **terminos:** AGI, human capabilities
+- **origen:** propia (the "five capabilities" framing appears to draw on an uncredited source; ambiguous)
+- **nivel:** avanzado
+- **prerrequisitos:** U-013-207
+- **fuente:** The Most Important Skill To Learn Right Now.md, 18:38-19:26, 2025-12-21
+- **tension:** ninguna
+
+## U-013-212
+- **tipo:** framework
+- **titulo:** The five fundamental human capabilities: computation, transformation, variation, selection, attention
+- **desarrollo:** Five capabilities that AI/AGI arguably can't make irrelevant: (1) computation (mental); (2) transformation (physical); (3) variation, (4) selection and (5) attention — the last three concern navigating idea space, i.e., how we create knowledge. Conclusion: "AGI does not seem like it can surpass us in any way unless it bends what is possible," in which case we'd have a very different problem.
+- **ejemplos:** See U-013-213 to U-013-218.
+- **cita:** "there are five fundamental human capabilities"
+- **terminos:** computation, transformation, variation, selection, attention, idea space
+- **origen:** propia (source of the model not named; ambiguous)
+- **nivel:** avanzado
+- **prerrequisitos:** U-013-211
+- **fuente:** The Most Important Skill To Learn Right Now.md, 19:26 y 24:48, 2025-12-21
+- **tension:** ninguna
+
+## U-013-213
+- **tipo:** argumento
+- **titulo:** Computation: with a universal computer, nothing is beyond our compute; faster AGI compute doesn't speed physical building
+- **desarrollo:** Is there any limit to what we can compute? No: "once you have a universal computer that we can hold in our hands, it's just a matter of time and memory to compute anything. We have that." AGIs or aliens with that would have the same repertoire and "no advantage over us." AGI may compute faster, but that doesn't speed up the physical transformation that builds things: you can have an idea for a particle collider but still need resources to build it.
+- **ejemplos:** Particle collider.
+- **cita:** "it's just a matter of time and memory to compute anything"
+- **terminos:** computation, universal computer
+- **origen:** propia (ambiguous unnamed source)
+- **nivel:** avanzado
+- **prerrequisitos:** U-013-212
+- **fuente:** The Most Important Skill To Learn Right Now.md, 19:26-20:13, 2025-12-21
+- **tension:** ninguna
+
+## U-013-214
+- **tipo:** argumento
+- **titulo:** Transformation: we build the thing that builds the thing; time is a compression algorithm that a singularity won't remove
+- **desarrollo:** "Transformation is creation. We turn raw materials into rockets given the right knowledge." Human hands and bodies are especially good at creating anything given a sequence of operations; we've built spaceships and telescopes — "we can build the thing that builds the thing." "We are generalists that build tools to thrive in any environment; we are not animals bound to one niche." Is there a limit to what basic operations can do strung together? No: "if humans could teleoperate a gorilla, there is a sequence of steps it can take to build a rocket given time" ("imagine if Elon Musk were operating the gorilla"). But transformations take time, and "a singularity isn't going to change that," just as the Enlightenment or Big Bang didn't create rocket ships (only prerequisites). "Time is a compression algorithm that prevents everything from happening at once." AGI may compute faster but won't necessarily create faster; you still need to acquire resources.
+- **ejemplos:** Teleoperated gorilla building a rocket; Elon Musk; Big Bang and Enlightenment.
+- **cita:** "Time is a compression algorithm that prevents everything from happening at once."
+- **terminos:** transformation, build the thing that builds the thing, singularity
+- **origen:** propia (ambiguous unnamed source)
+- **nivel:** avanzado
+- **prerrequisitos:** U-013-213
+- **fuente:** The Most Important Skill To Learn Right Now.md, 20:13-21:47, 2025-12-21
+- **tension:** ninguna
+
+## U-013-215
+- **tipo:** concepto
+- **titulo:** Knowledge has two functions: making specific things happen and capturing patterns in reality (planning by proximity)
+- **desarrollo:** Do we have limits on the knowledge that lets us compute and transform? Knowledge serves (1) to make specific things happen, preferably good; (2) to capture patterns in reality, storing information efficiently so we don't start from scratch. We understand big-picture patterns like the sun rising and setting and seasons changing; without them life would fall apart. "Capturing patterns allows us to plan by proximity": knowing we could freeze in a cold environment, we use "deposits of knowledge like a jacket and hotel" to stay warm while traveling.
+- **ejemplos:** Sun, seasons; jacket and hotel.
+- **cita:** "Capturing patterns allows us to plan by proximity."
+- **terminos:** capture patterns, plan by proximity, deposits of knowledge
+- **origen:** propia (ambiguous unnamed source)
+- **nivel:** avanzado
+- **prerrequisitos:** U-013-212
+- **fuente:** The Most Important Skill To Learn Right Now.md, 21:47-22:37, 2025-12-21
+- **tension:** ninguna
+
+## U-013-216
+- **tipo:** metáfora
+- **titulo:** Idea space as a universal map of light (explored) and dark (potential) spots; problems reveal themselves for error correction
+- **desarrollo:** "Think of idea space or the unknown as a universal map with light and dark spots. The light spots are areas you've explored and the dark spots are where your potential lies." The map is a surface area for ideas to discover and test against reality. When results don't move you toward your goal, or move you away, a problem is revealed and you must "error correct toward the goal." Variation (third capability): is there a limit to new ideas we can generate? With computation we can navigate the whole space; with agency we can take any step and "eventually stumble across a good idea after many bad ones"; with creation we can move uniquely, "like flying over a forest rather than walking through it." So "we can understand anything, create anything, and discover an infinite set of new ideas to solve an infinite string of problems." AGI can too; both bound by the laws of nature.
+- **ejemplos:** Flying over a forest.
+- **cita:** "The light spots are areas you've explored and the dark spots are where your potential lies."
+- **terminos:** idea space, variation, error correct
+- **origen:** propia (ambiguous unnamed source)
+- **nivel:** avanzado
+- **prerrequisitos:** U-013-215
+- **fuente:** The Most Important Skill To Learn Right Now.md, 22:37-23:24, 2025-12-21
+- **tension:** ninguna
+
+## U-013-217
+- **tipo:** concepto
+- **titulo:** Selection: humans as universal cybernetic systems make cumulative progress by error correction
+- **desarrollo:** Fourth capability: selection — we can come up with any idea, but can we find the good ones? Without learning from mistakes it's hard to make cumulative progress; it "wouldn't be fun to start over from scratch if we wanted to build an electric car after a gas car." "As universal cybernetic systems, that's what humans are, we can become more efficient at navigating idea space to avoid wandering lost. We error correct. We make mistakes and fix them." No fundamental difference with AGI here either.
+- **ejemplos:** Electric car after gas car.
+- **cita:** "We error correct. We make mistakes and fix them."
+- **terminos:** selection, universal cybernetic systems, cumulative progress
+- **origen:** propia (ambiguous unnamed source)
+- **nivel:** avanzado
+- **prerrequisitos:** U-013-216
+- **fuente:** The Most Important Skill To Learn Right Now.md, 23:24-24:10, 2025-12-21
+- **tension:** ninguna
+
+## U-013-218
+- **tipo:** concepto
+- **titulo:** Attention: changing focus by changing lenses — spirituality is a great lens but a bad master
+- **desarrollo:** Fifth capability: attention — "our ability to change our focus by changing our perspective." When a problem occurs, where does your attention go? To build a rocket, does it help to ask the old gods, or can you change lenses to perceive opportunities? Humans get stuck in "paradigm lock" and attach to ideologies, but we can change where attention goes: "We can put on a spiritual lens to find peace and a scientific lens to find progress." "Identifying with a purely ascending and spiritual philosophy is no different from being an incomplete system that will fail to solve a certain set of problems. Spirituality is a great lens or tool, but a bad master and not the end-all be-all."
+- **ejemplos:** Asking the old gods to build a rocket.
+- **cita:** "Spirituality is a great lens or tool, but a bad master"
+- **terminos:** attention, lens, paradigm lock, ascending philosophy, incomplete system
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-013-212
+- **fuente:** The Most Important Skill To Learn Right Now.md, 24:10-24:48, 2025-12-21
+- **tension:** ninguna
+
+## U-013-219
+- **tipo:** fuente-de-tercero
+- **titulo:** Games: Agency as Art — games record agencies; in games we take up an end for the sake of the means
+- **desarrollo:** Fifth idea: how to practice agency. Quote from "the book Games" (author not named in the transcript): "In ordinary practical life we usually take the means for the sake of the ends. But in games we can take up an end for the sake of the means. Playing games can be a motivational inversion of ordinary life." Dan: "Agency is art. You develop agency by practicing other people's agencies until you can create your own" — play by the rules until you can create your own; "the most important high agency trait is knowing when to break free of conformity." Agency is "not a skill or a trait, but an art form," best observed in games: "painting lets us record sights, music lets us record sounds, stories let us record narratives, and games let us record agencies."
+- **ejemplos:** Painting, music, stories, games.
+- **cita:** "games let us record agencies"
+- **terminos:** agency as art, motivational inversion, practicing other people's agencies, break free of conformity
+- **origen:** adaptada-de:the book "Games" (author not named)
+- **nivel:** avanzado
+- **prerrequisitos:** U-013-189
+- **fuente:** The Most Important Skill To Learn Right Now.md, 24:48-25:26, 2025-12-21
+- **tension:** Calls agency "not a skill or a trait, but an art form," while the video title and earlier sections call it "the most important skill."
+
+## U-013-220
+- **tipo:** metáfora
+- **titulo:** Life as a game: stuck at level 10 (childhood, school, job) because game makers incentivize you to stay
+- **desarrollo:** In a game you start with the goal in mind (win), then quests executed in order of your experience: level 1, level 2 and beyond. At a higher level you look back with all your knowledge and skill to devise how to reach the next goal. "The higher level you are, the more fun life becomes because you get to choose the challenging yet meaningful goal you take on next. It is not assigned to you as if you were in a tutorial phase." That's why your life may feel out of control: you got to level 10 — childhood, school or job — and now feel stuck; "the game isn't fun anymore because the game makers don't benefit from you going to a higher level, so they incentivize you to stay there." You get trapped in a loop of boredom and anxiety: tasks are repetitive and mindless, and further challenge overwhelms you "because you do not know how to learn." "The most important boss fight of your life is to pursue your own path."
+- **ejemplos:** Tutorial phase; level 10.
+- **cita:** "The most important boss fight of your life is to pursue your own path."
+- **terminos:** level, tutorial phase, game makers, boss fight, loop of boredom and anxiety
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-219
+- **fuente:** The Most Important Skill To Learn Right Now.md, 25:26-27:24, 2025-12-21
+- **tension:** ninguna
+
+## U-013-221
+- **tipo:** proceso
+- **titulo:** Practicing agency: find a direction from what you don't want, set a goal, then research, experiment, extract levers, build your own process, pass it down
+- **desarrollo:** First you need something to pursue, "and it can be anything because nobody actually knows what they want. Instead, they deeply understand what they don't want and allow that to create an aim for their future." That gives a direction; then set a goal to make it practical and achievable. Then: (1) research processes others have found success with (YouTube, social media, courses from reputable creators or mentors); (2) experiment with various techniques — implement and attempt results ("most of these won't work for you, and that's okay"); (3) identify patterns, principles and levers — the most important aspects, which tend to be what gets results; (4) create your own process tailored to your lifestyle and situation; (5) pass it down to others, "because the teacher learns more than the student and you don't truly understand it if you can't explain it in a way that is beneficial to someone else."
+- **ejemplos:** ninguno
+- **cita:** "nobody actually knows what they want. Instead, they deeply understand what they don't want"
+- **terminos:** direction, patterns principles and levers
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-220
+- **fuente:** The Most Important Skill To Learn Right Now.md, 26:38-28:02, 2025-12-21
+- **tension:** Repeats the 2024 five-step self-experiment process (U-013-173) with "levers" added and a preceding direction-from-anti-vision step.
+
+## U-013-222
+- **tipo:** argumento
+- **titulo:** Social media is the great modern game: attention, low cost, low risk, and learning and agency baked in
+- **desarrollo:** Why he loves social media: first, it's where attention is — you won't build your life's work by radio ads, TV or handwritten letters to prospects; "you're going to write content, obviously." Beyond being an accessible, low-cost, low-risk vessel, "learning and agency are baked in. Social media, the internet is the great modern game." You can study others' agencies and their content, guides and courses; experiment in public and get direct feedback; quickly identify what works; you're forced to learn a future-proof skill stack (writing, persuasion, marketing, sales, storytelling); and you must truly learn what you want to talk about.
+- **ejemplos:** Radio, TV, handwritten letters as obsolete channels.
+- **cita:** "Social media, the internet is the great modern game."
+- **terminos:** great modern game, future proof skill stack, experiment in public
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-221
+- **fuente:** The Most Important Skill To Learn Right Now.md, 28:02-28:51, 2025-12-21
+- **tension:** ninguna
+
+# Fuente: Learn This Skill If You Want To Win In The Next 2-3 Years.md (2026-07-05)
+
+## U-013-223
+- **tipo:** concepto
+- **titulo:** Opportunity paralysis: so much opportunity that people do nothing for fear their skill will be irrelevant in 1-2 years
+- **desarrollo:** "Nobody knows what skill to learn right now": AI? coding? marketing? Is school a waste "while everyone else is vibe coding apps they'll never get traction on"? YouTube? Substack? A job or your own thing? "Since there is so much opportunity, it just paralyzes more people than ever into not doing anything, because you feel like if you start learning one thing it'll just become irrelevant in one to two years."
+- **ejemplos:** Vibe coding apps without traction.
+- **cita:** "since there is so much opportunity, it just paralyzes more people than ever into not doing anything"
+- **terminos:** vibe coding
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 0:00, 2026-07-05
+- **tension:** ninguna
+
+## U-013-224
+- **tipo:** concepto
+- **titulo:** Human nature as the meta skill that never goes out of style and multiplies every other skill
+- **desarrollo:** "There is one skill that will never go out of style. It is a meta skill, and if you learn it, it simply increases the power of every other skill that you learn and it allows you to learn those skills much faster. And that skill is called human nature." If you understand how the mind works — what makes it tick, pay attention, take action — you can make any business successful, work into new opportunities, "make friends and influence people," and navigate life "with elegance and grace because you are no longer a slave to your mind but a master of it and a master of others." Whether you build your own thing (humans have the money, resources, opportunities; "how else are you going to get paid if another human with money doesn't see you as valuable enough to pay?") or seek a dream job (you must position yourself as valuable to the employer), it applies. Promise: give steps and principles for a competitive advantage over those racing to succeed "because they think AI will somehow save them from their lack of experience."
+- **ejemplos:** ninguno
+- **cita:** "you are no longer a slave to your mind but a master of it and a master of others"
+- **terminos:** human nature, meta skill
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 0:00-1:30, 2026-07-05
+- **tension:** Another "the one skill" claim (cf. writing 2022, persuasive communication 2023, agency 2025); consistent with "study human nature then study whatever you want" (U-013-169).
+
+## U-013-225
+- **tipo:** framework
+- **titulo:** Eight human desires condensed into three tensions, made actionable through five psychological levers
+- **desarrollo:** Anatomy of human nature "and how to exploit it" (he addresses ethics later). Eight human desires: survival, life enjoyment, social acceptance, sexual companionship, freedom from fear, comfort and clarity, perceived status, safety of tribe. He condenses them into what he calls "the three tensions" — psychological tensions that, if you hit them, get attention and position you, your work, writing, speaking, posts, landing pages or products as valuable. Then five "psychological levers" make them actionable in speaking, writing and daily life. "If you practice those five things, you'll be unstoppable, as hyperbolic as that sounds."
+- **ejemplos:** ninguno
+- **cita:** "We're going to condense all of these into what I call the three tensions."
+- **terminos:** eight human desires, three tensions, five psychological levers
+- **origen:** propia (the eight desires list's source is not named here)
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-224
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 1:30-2:52, 2026-07-05
+- **tension:** Enumerates the "eight human desires" only mentioned in 2023 (U-013-083).
+
+## U-013-226
+- **tipo:** argumento
+- **titulo:** Let robots solve utility so humans abstract out to meaning, purpose and narrative — humans love stakes and novelty
+- **desarrollo:** "The mind is a story engine. That's what humans can't help but pay attention to, and that's what separates us from robots, because robots are useful for utility." Nobody (aside from DMV workers) would care if the DMV were automated — who looks forward to hours in line for a license photo? Same with fast food (cashier gets your order wrong) or Uber/taxi (dirty backseat, small talk for a tip). "So let the robot solve utility. That way humans can abstract out to meaning, purpose, and narrative." "Humans love stakes": chest tightens when your team is about to lose in the final inning. "Humans love novelty": we travel across the world to dine at a five-star restaurant. "Mastering human nature is about mastering story, storytelling, narrative" — not writing a novel, but "the structure of reality in a sense": principles of value creation to get people to pay attention, position what you offer as valuable, and get them to act (pay you, change their behavior, or give you what you want).
+- **ejemplos:** DMV, fast food, Uber/taxi; baseball final inning; five-star restaurant.
+- **cita:** "let the robot solve utility. That way, humans can abstract out to meaning, purpose, and narrative"
+- **terminos:** story engine, utility, stakes, novelty, structure of reality
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-224
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 2:52-4:26, 2026-07-05
+- **tension:** ninguna
+
+## U-013-227
+- **tipo:** opinión
+- **titulo:** This frame is what most successful people have and unsuccessful people can't see through
+- **desarrollo:** Understanding these principles makes you write, speak and create products better, attract customers, make friends and create value for others, "thus increasing the value of yourself" — "marketing, sales, and how to influence people all in one go." He doesn't think you'll grasp the importance until you implement it, "which most people won't." He made a similar video about three years earlier; for those who see the patterns across industries "it is completely life-changing... a completely different frame from how you operate within the world. And I'm genuinely convinced that this is the frame that most successful people have, and unsuccessful people simply just can't see through it."
+- **ejemplos:** ninguno
+- **cita:** "this is the frame that most successful people have. And unsuccessful people simply just can't see through it"
+- **terminos:** frame
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-226
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 4:26-5:16, 2026-07-05
+- **tension:** ninguna
+
+## U-013-228
+- **tipo:** concepto
+- **titulo:** The mind's three pressure points: press one and attention becomes almost involuntary; press all three and logic can't break the grip
+- **desarrollo:** "The mind has three pressure points. And if you press any one of them, them giving you attention is almost involuntary" — conditional: if the person is prone to that specific tension. "If you press all three of them, you have a grip on someone that logic alone can't break." Keep the three tensions in mind whenever you interact with someone or write anything; "writing on social media is interacting with a bunch of people at once."
+- **ejemplos:** ninguno
+- **cita:** "if you press all three of them, you have a grip on someone that logic alone can't break"
+- **terminos:** pressure points, three tensions
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-225
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 4:26-5:54, 2026-07-05
+- **tension:** ninguna
+
+## U-013-229
+- **tipo:** concepto
+- **titulo:** Tension 1 — survival: subconscious threat detection; problem -> transformation -> solution is sales and storytelling in a nutshell
+- **desarrollo:** "The mind is a story engine, but it's also a set of survival strategies." We're in "a constant subconscious threat detection mode" with hunter-gatherer wiring; we desire safety and solutions to problems. "If you can make someone aware of a problem, then provide a solution, that's sales in a nutshell and storytelling in a nutshell." His "storytelling" = problem, transformation (the in-between), solution. Safety isn't only life or death: a small problem can be amplified into a big one, and problems can be financial, social, or a missed opportunity (FOMO). The mind constantly seeks a better chance at survival, which today means better skills and knowledge — e.g., staying on top of AI.
+- **ejemplos:** FOMO; staying on top of AI.
+- **cita:** "if you can make someone aware of a problem, then provide a solution, that's sales in a nutshell and storytelling in a nutshell"
+- **terminos:** survival tension, threat detection, problem transformation solution, FOMO
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-228
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 5:16-6:42, 2026-07-05
+- **tension:** ninguna
+
+## U-013-230
+- **tipo:** advertencia
+- **titulo:** Protect yourself from survival-tension manipulation by ruthlessly maintaining priorities, values and goals — the "latest Claude skill" example
+- **desarrollo:** If someone on Instagram says "I have the latest Claude skill you can download and it does this, this, and this," you feel missed opportunity because you don't use Claude that way and feel you need to learn it. It "could genuinely be helpful," but to protect your mind from manipulation "you have to ruthlessly maintain your priorities and your values and your goals," because that skill may have nothing to do with them, and you may get sucked in. "That's the definition of distraction."
+- **ejemplos:** "The latest Claude skill" on Instagram.
+- **cita:** "you have to ruthlessly maintain your priorities and your values and your goals"
+- **terminos:** distraction, survival tension
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-229
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 6:42, 2026-07-05
+- **tension:** ninguna
+
+## U-013-231
+- **tipo:** ejemplo
+- **titulo:** Three survival-tension lines he has posted: autopilot at 30, building someone else's dreams, dumber people earning 10x
+- **desarrollo:** Well-worded examples: (1) "You wake up at 30 and realize you've been living on autopilot and the gap between who you are and who you want to be is so large that change feels impossible." (2) "You spend a decade building someone else's dreams just to find that they don't care about you at all." (3) "There are people dumber than you making 10 times more than you because they don't think about the risk." He has written them as social posts; they grab attention "because of this exact tension."
+- **ejemplos:** The three lines.
+- **cita:** "there are people dumber than you making 10 times more than you because they don't think about the risk"
+- **terminos:** survival tension
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-229
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 7:26, 2026-07-05
+- **tension:** ninguna
+
+## U-013-232
+- **tipo:** concepto
+- **titulo:** Tension 2 — identity: humans reproduce the information in their consciousness, so an identity threat feels like a knife to the throat
+- **desarrollo:** Identity comes after survival because it's deeply intertwined with it: animals reproduce gene information physically; humans do too, "but we also try to reproduce the information in our consciousness through ideology, speaking, socialization. That's all we're doing. It's just all survival." Hence feeling threatened when identity is threatened: "your sports team sucks" — too identified, you nearly fight or get in a bar fight; criticism of being Republican, Democrat, Christian, atheist, "any set of concepts that you hold as a part of yourself in your little mind," and you respond "as if someone's holding a knife to your throat." Humans desire a tribe (helps survival) and identify with it; desire status and belonging — e.g., at home, rebel against parents and "they're going to kick you out potentially," so you conform to their values, beliefs and rules.
+- **ejemplos:** Sports team bar fight; political/religious identities; conforming to parents.
+- **cita:** "you feel the response as if someone's holding a knife to your throat even though they're not"
+- **terminos:** identity tension, tribe, status, belonging
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-229
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 8:07-9:34, 2026-07-05
+- **tension:** ninguna
+
+## U-013-233
+- **tipo:** advertencia
+- **titulo:** Anti-AI vs. pro-AI is the new religion: arguing it makes you a slave to someone else's ideals
+- **desarrollo:** Identity is "also why you choose to be anti-AI or pro-AI, which is the new religion," arguing "into oblivion about it all day on social media with nothing to show for it." "You can regurgitate how AI is rotting your brain, or you can test that theory against reality and actually educate yourself on it." That is how you make yourself unsusceptible to people targeting your identity tension: "every time you argue about the anti-AI stuff or pro-AI stuff, you are a slave to someone else's ideals. And you do not seek truth, you seek hype, and you have not created your own mind."
+- **ejemplos:** AI debates on social media.
+- **cita:** "you do not seek truth, you seek hype, and you have not created your own mind"
+- **terminos:** new religion, identity tension
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-232
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 9:34-10:20, 2026-07-05
+- **tension:** ninguna
+
+## U-013-234
+- **tipo:** concepto
+- **titulo:** Tension 3 — progress: survival, identity and progress build on each other like Maslow, ego development and spiral dynamics
+- **desarrollo:** "Survival, identity, progress, and they each build on top of each other. People kind of evolve through the stages." Pattern: "Maslow's hierarchy, the stages of ego development, spiral dynamics, developmental psychology in general" — people at different "levels of mind" have different things that tap their psychology. First they need safety and comfort; second, belonging and status; once solved — "preferably you're helping them do" — third, "they crave deeper meaning, purpose, and experience." People can desire any of these at different times; "AI can't just pin down exactly where you are," which makes this a hard skill — "you're essentially able to read people's minds when you get it right." Regression: you may want meaning, but under great stress or a big money loss you regress to survival, where survival tension hits harder and you're more susceptible to exploitation.
+- **ejemplos:** Losing a lot of money and regressing to survival.
+- **cita:** "you're essentially able to read people's minds when you get it right"
+- **terminos:** progress tension, levels of mind, regress
+- **origen:** adaptada-de:Maslow's hierarchy, stages of ego development, spiral dynamics
+- **nivel:** avanzado
+- **prerrequisitos:** U-013-232
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 10:20-11:29, 2026-07-05
+- **tension:** ninguna
+
+## U-013-235
+- **tipo:** concepto
+- **titulo:** Ethical "exploitation": help people rise through the stages rather than manipulate them
+- **desarrollo:** "You're a value creator, you're not a manipulator, you're not exploiting human nature to be unethical and just make a bunch of money. You're exploiting it, so to say, so you can help people rise through these stages. That's the ethical and meaningful version of this."
+- **ejemplos:** ninguno
+- **cita:** "You're exploiting it, so to say, so you can help people rise through these stages."
+- **terminos:** value creator, manipulator, exploit human nature
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-234
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 10:50, 2026-07-05
+- **tension:** ninguna
+
+## U-013-236
+- **tipo:** heurística
+- **titulo:** Topics hit survival and identity (90-95% of people are there); meaning and purpose belong deeper in the funnel
+- **desarrollo:** Problem he sees among creators, personal brands, writers and speakers: speaking too much to the meaning-and-purpose crowd "without understanding that 90% to 95% of people are not only beginners, but in the survival and identity stages. You have to work them up the ladder." If you want content seen, topics usually revolve around survival and identity tensions; then products, lead magnets and deeper funnel (if you're a value creator, not "an influencer trying to sell a weird product") help solve lower-level problems first, so you can then help with what you're experienced in — meaning, purpose, spirituality, fulfillment, deep philosophy.
+- **ejemplos:** ninguno
+- **cita:** "90% to 95% of people are not only beginners, but in the survival and identity stages"
+- **terminos:** work them up the ladder, lead magnets, funnel
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-234
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 11:29-12:47, 2026-07-05
+- **tension:** Aligns with the 2023 "95% of the market are beginners" heuristic (U-013-045), now framed developmentally.
+
+## U-013-237
+- **tipo:** fuente-de-tercero
+- **titulo:** Uncertain-source quote: the modern information environment breaks our ability to think; essays develop sense-making
+- **desarrollo:** A quote he loves from one of his previous newsletters — "I don't know if I wrote it or if someone else did, so I hope that I'm not just stealing someone's quote here": "The modern information environment is breaking our ability to think, and most people don't even notice. Essays might be one of the last forms of content that actually develops your capacity to make sense of reality."
+- **ejemplos:** ninguno
+- **cita:** "Essays might be one of the last forms of content that actually develops your capacity to make sense of reality."
+- **terminos:** information environment, make sense of reality
+- **origen:** de-tercero:unknown (author uncertain, possibly his own)
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 12:47-13:25, 2026-07-05
+- **tension:** ninguna
+
+## U-013-238
+- **tipo:** principio
+- **titulo:** Knowledge untested against reality isn't knowledge: entrepreneurship equals self-improvement because the market is your harsh mentor
+- **desarrollo:** You can read every persuasion book and psychology textbook and think you know why humans act as they do, "but if you have not tested that knowledge against reality, then you do not know what you're talking about." You need feedback: put something out and see how people respond — write, speak, create a product and sell it. "Entrepreneurship equals self-improvement because the market and reality become your harsh mentor." Hence he recommends writing: "writing is clear thinking" (you refine and clarify thinking on the page), and there's "a dual mechanism": when you post it you get direct feedback on its value; to be valuable it must be attention-grabbing and persuasive, so you practice and refine the skill of human nature.
+- **ejemplos:** ninguno
+- **cita:** "Entrepreneurship equals self-improvement because the market and reality become your harsh mentor."
+- **terminos:** harsh mentor, writing is clear thinking, dual mechanism, feedback
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-224
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 13:25-14:12, 2026-07-05
+- **tension:** ninguna
+
+## U-013-239
+- **tipo:** argumento
+- **titulo:** Persuasion is only as unethical as the person who wields it; survival-mode people manipulate until their values shift — so develop yourself
+- **desarrollo:** "Pulling psychological levers" or "exploiting human nature" really means learning to persuade. "Persuasion is only as unethical as the person that wields the tool," like money or AI — neutral until in the hands of the stupid or smart, unethical or ethical. Someone at a lower level of mind, in survival mode, who sees only paying this month's bills will do anything and "will inevitably use persuasion in unethical ways": with money as sole priority rather than meaning or truth (because they don't feel financially comfortable), they manipulate and scheme "until those values fundamentally shift." So develop yourself — pursue personal development and truth to reach a higher level of mind. The lower level isn't bad; "most people just don't have control over it." This lets you have a more positive impact on customers or readers. "I'm not here to tell you how to use persuasion."
+- **ejemplos:** Money and AI as neutral tools.
+- **cita:** "persuasion is only as unethical as the person that wields the tool"
+- **terminos:** lower level of mind, higher level of mind, survival mode
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-234
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 14:12-15:35, 2026-07-05
+- **tension:** ninguna
+
+## U-013-240
+- **tipo:** principio
+- **titulo:** The five levers sequence: create tension first to earn attention, then offer a solution that changes behavior positively
+- **desarrollo:** "There are five psychological levers that pull one or more of the three tensions. So you create tension first. This is what gets people to pay attention when you write, speak, post, or sell, and then you offer a solution that preferably changes behavior in a positive way." Levers: (1) name the threat (survival); (2) mirror the identity (identity); (3) exclude people (identity deepened); (4) paint the transformation (progress); (5) give the first step (progress activated). He says he hit all of them in the first ~3 minutes of this video.
+- **ejemplos:** This video's intro.
+- **cita:** "you create tension first"
+- **terminos:** psychological levers, name the threat, mirror the identity, exclude people, paint the transformation, give the first step
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-228
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 15:35 y 21:16-21:43, 2026-07-05
+- **tension:** ninguna
+
+## U-013-241
+- **tipo:** fuente-de-tercero
+- **titulo:** Lever 1 — name the threat, via Eugene Schwartz's five levels of awareness
+- **desarrollo:** Aligns with survival: before anyone cares about a solution (video, product), they need to be aware of the problem. Five levels of awareness "from Eugene Schwartz": (1) unaware — they don't know they have a problem; make them aware by naming it; (2) problem aware — they know the problem but not that a solution exists; name the solution; (3) solution aware — they know solutions exist, are comparing options, don't know your unique solution; (4) product aware — they know your solution but need proof, objection handling, testimonials; (5) most aware — they simply haven't implemented and need a nudge over the edge.
+- **ejemplos:** ninguno
+- **cita:** "before anyone cares about a solution... they need to be aware of the problem"
+- **terminos:** name the threat, levels of awareness, unaware, problem aware, solution aware, product aware, most aware
+- **origen:** de-tercero:Eugene Schwartz
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-240
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 15:35-16:56, 2026-07-05
+- **tension:** ninguna
+
+## U-013-242
+- **tipo:** método
+- **titulo:** Start with the problem: it lets people self-qualify and opens the story in tension — even when asking your wife for a night out
+- **desarrollo:** He always starts videos by naming the problem — this one opened "Nobody knows what skill to learn right now." It lets people self-qualify ("do I know what skill to learn?") and it's the start of the story: a novel usually starts in tension, slowly resolved, adventure, conclusion. Learn by noticing it on social media: most posts imply or state a problem. "This is the most powerful thing you can do. It's so simple": start your writing, speaking, post or product with the problem — "frame the situation." Example: convincing your wife you want a night out with the boys — start with a problem ("you haven't had a night to yourself in a long time; you want to watch Grey's Anatomy and have a chill night alone"), then continue the argument.
+- **ejemplos:** This video's opening; night out with the boys / Grey's Anatomy.
+- **cita:** "just start with the problem in your writing, speaking, post, at the start of your product"
+- **terminos:** self-qualify, frame the situation
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-241
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 16:56-17:36, 2026-07-05
+- **tension:** ninguna
+
+## U-013-243
+- **tipo:** ejercicio-del-autor
+- **titulo:** Name five problems you've experienced: five content ideas better than ones from scratch
+- **desarrollo:** "Name five problems you've experienced in your life. Seriously, do that... and boom, now you have five content ideas that you can go and post, and they're going to be a lot better than if you just thought of them from scratch." He also mentions a prompt he created that acts as a persuasion coach/teacher/writer: run it, it asks what you want, and you practice with it to learn human nature and persuasion faster — usable while writing posts, newsletters, scripts, talks or a book.
+- **ejemplos:** ninguno
+- **cita:** "name five problems you've experienced in your life"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-242
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 17:36-18:17 y 22:28, 2026-07-05
+- **tension:** ninguna
+
+## U-013-244
+- **tipo:** método
+- **titulo:** Lever 2 — mirror the identity: "You're not forgetful" packs problem, identity and solution into eight words; start with "if you're..."
+- **desarrollo:** Aligns with identity: you identify with groups without realizing it — morning person, coffee drinker, Christian, atheist, Republican, Democrat, anti-AI, pro-AI. Example: a YouTube video with 3.9 million views titled "You're Not Forgetful, My System for Memorizing Everything" — "it quite literally packages everything we've discussed into eight words: problem, identity, solution." His favorite way to pull it: start with "if you are" / "if you're": "if you're lazy, if you're broke, if you're unhappy, if you're a writer." That hits the survival (problem) tension and identity tension in one lever; each could start a near-viral post, a talk, or a YouTube title.
+- **ejemplos:** "You're Not Forgetful, My System for Memorizing Everything" (3.9M views); "if you're lazy/broke/unhappy/a writer."
+- **cita:** "it quite literally packages everything we've discussed into eight words: problem, identity, solution"
+- **terminos:** mirror the identity
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-240
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 18:17-19:54, 2026-07-05
+- **tension:** ninguna
+
+## U-013-245
+- **tipo:** método
+- **titulo:** Lever 3 — exclude people: name who it's not for to create belonging and force a side
+- **desarrollo:** "The identity tension deepened": explicitly name who it is not for, "because exclusion creates that sense of belonging and it pushes people to pick a side." Best done after mirroring the identity, drawing a line that filters out "the wrong people who weren't going to support you anyways." Examples: "This isn't for people who want you to try to get in shape. This is for people tired of their own excuses and ready to completely change their life." "If you're looking for a productivity hack or morning routine, you're in the wrong place." "This isn't for people who want a dinky side hustle, we're building a real business here."
+- **ejemplos:** The three exclusion lines.
+- **cita:** "exclusion creates that sense of belonging and it pushes people to pick a side"
+- **terminos:** exclude people, belonging
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-244
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 19:54-20:38, 2026-07-05
+- **tension:** Nuances 2023's group call out (U-013-111), where he said niching down smart "isn't alienating anyone"; here exclusion is deliberate.
+
+## U-013-246
+- **tipo:** método
+- **titulo:** Lever 4 — paint the transformation: imagined outcomes fire the same neural circuitry as real ones, creating desire
+- **desarrollo:** Aligns with progress. "Mastering human nature is about changing people's lives for the better," which is how you build your life's work as a massive value creator: you hone in on a purpose revolving around solving a problem for as many people as you can; "persuasion is simply how you get people on board with that." Sequence so far: captured attention (name the threat), filtered (mirror identity / exclude), "and now we create desire by simulating the future." Why it works: the problem catches attention, and the desired outcome causes you to "actually experience the feeling of having that thing... The same neural circuitry fires when you imagine an experience as when you actually have it." Limitation: hard to practice without a vessel — posting, public talks, persuading your boss for a promotion; most jobs lack direct feedback from reality because "you aren't an entrepreneur."
+- **ejemplos:** ninguno
+- **cita:** "The same neural circuitry fires when you imagine an experience as when you actually have it."
+- **terminos:** paint the transformation, simulating the future, value creator, vessel
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-240
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 20:38-22:28, 2026-07-05
+- **tension:** ninguna
+
+## U-013-247
+- **tipo:** método
+- **titulo:** Lever 5 — give the first step: make it stupidly simple; time to result is product value; the Zeigarnik effect finishes the job
+- **desarrollo:** "The progress tension activated to an extent": most people don't change because they don't believe they can, lack clarity, and "the comfort of their current life is more desirable than the discomfort of doing what it takes." In a tweet: "Don't overhaul your life overnight. Just go to bed an hour earlier." In a product: make the first step "so stupidly simple that they just can't avoid getting results. That's what makes your product valuable to them — time to result." It also triggers "the Zeigarnik effect": "the brain hates uncompleted tasks," so once someone starts, or thinks about starting, they can't help but complete it.
+- **ejemplos:** "Just go to bed an hour earlier."
+- **cita:** "the brain hates uncompleted tasks"
+- **terminos:** give the first step, time to result, Zeigarnik effect
+- **origen:** adaptada-de:Zeigarnik effect
+- **nivel:** intermedio
+- **prerrequisitos:** U-013-246
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 22:28-23:08, 2026-07-05
+- **tension:** ninguna
+
+## U-013-248
+- **tipo:** principio
+- **titulo:** Every good high-value skill is a lower layer of human nature; learn the meta-skill and you'll learn new skills faster and better
+- **desarrollo:** "The more you practice human nature, the more it impacts every other skill that you acquire. And when people go and learn the latest high-value skills, essentially, if it's a good skill, you're just learning a lower layer of human nature." Learn and practice everything from that lens and you can pick up almost any high-value skill and do it better than everyone, since skills keep evolving with new ones every year. "The people who have the money that you want to support your work and the opportunities and the resources are humans. So you need to study them."
+- **ejemplos:** ninguno
+- **cita:** "if it's a good skill, you're just learning a lower layer of human nature"
+- **terminos:** meta-skill, lower layer of human nature
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-013-224
+- **fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md, 23:08-24:33, 2026-07-05
+- **tension:** ninguna
 
