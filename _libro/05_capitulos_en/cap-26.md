@@ -44,7 +44,7 @@ By March 2026 the metric itself has changed, consistently with the shift to the 
 
 Against these targets, Koe sets an explicit warning about expectations, from October 2023: "You will not see insane results in less than a year, and even if you do it's wise to not think that you will. That expectation most of the time won't match with reality come time and it's not going to feel good, so don't hold that expectation." In the same video he frames the work of testing traffic mechanisms and iterating as a process of six to twelve months.
 
-**Source:** How To Build An Audience With Zero Followers (What They Don't Tell You).md
+**Source:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md
 
 | Date | Benchmark | Condition or caveat |
 |---|---|---|
@@ -63,7 +63,7 @@ Koe has summarized audience growth in several sequential frameworks. They are be
 
 Step one is to write persuasive content: content that captures attention, holds it and delivers value on it (the subject of Chapters 21–23). Step two is to get eyes on your content: "your content is meaningless unless you attempt and put effort into getting eyes on your content." Writing into the void is "okay... for practice, but eventually you have to just get out there." Step three is to iterate on your ideas with data, and Koe stresses the dependency: "you can only reach this step if you have eyes on your content," since without readers you have no way of knowing what performs best. Step four comes "down the road a bit": creating depth and span with your best ideas through long-form content. Koe's term **depth and span** refers to two complementary dimensions of trust: span is the breadth of short-form content that reaches many people; depth is the long-form content (threads, newsletters, videos) that lets a smaller number go deep with your ideas.
 
-**Source:** How To Build An Audience With Zero Followers (What They Don't Tell You).md
+**Source:** How To Build An Audience With Zero Followers (What They Don’t Tell You).md
 
 The point of numbering the steps is the dependency between them. Each step is impossible without the one before. A beginner who skips step two and keeps refining step one is trying to do step three without data; a creator who jumps to long form before finding which ideas resonate is building depth on untested ground. This is the same logic as the "tweet is the new MVP" of Chapter 24: short posts are cheap tests whose results decide what deserves expansion.
 

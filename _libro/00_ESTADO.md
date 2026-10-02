@@ -3,7 +3,7 @@
 - **CORPUS_PATH resuelto:** `.` (raíz del repositorio). La ruta configurada `Transcripts YouTube Referentes/Dan Koe` no existe; los transcripts están en la raíz.
 - **Directorio de trabajo:** `_libro/` (en la raíz)
 - **Rama de trabajo:** `libro-maestro-dan-koe` (creada desde `origin/main`, commit 1396995)
-- **Último commit:** c8617d7 Fase 4: capítulo 25 redactado
+- **Último commit:** ebcbae2 Fase 4: capítulo 27 redactado
 - **Fase actual:** Fase 4 en curso — redacción de capítulos en inglés (27/40), 3 subagentes en paralelo; instrucciones en /tmp (regenerables con los scripts descritos en Notas).
 
 ## Números
