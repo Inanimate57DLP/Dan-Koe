@@ -1501,3 +1501,709 @@
 - **fuente:** Ideas Are The New Oil (How More People Get Rich In The Digital Age).md, 24:19–25:01, 2024-06-09
 - **tension:** ninguna
 
+# Fuente: The creator economy is dying thanks to AI.md (2025-02-16)
+
+## U-012-116
+- **tipo:** fuente-de-tercero
+- **titulo:** The Dead Internet Theory (per Wikipedia) and the author's reframing of it as an opportunity
+- **desarrollo:** Per Wikipedia, the Dead Internet Theory is a conspiracy theory that the internet died around 2016–2017 and is now largely dominated by bots and AI-generated content rather than people. The author doubts it should still be labeled a conspiracy theory because "most of the internet is made up of bots and AI content and it will only get worse". But he doesn't see it as a problem; it could be "one of the greatest opportunities" for creatives, entrepreneurs and founders to stand out.
+- **ejemplos:** ninguno
+- **cita:** "it could present one of the greatest opportunities for creatives and entrepreneurs and Founders and everyone else to stand out"
+- **terminos:** Dead Internet Theory
+- **origen:** adaptada-de:Wikipedia (Dead Internet Theory)
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** The creator economy is dying thanks to AI.md, 0:03, 2025-02-16
+- **tension:** ninguna
+
+## U-012-117
+- **tipo:** dato
+- **titulo:** Average American screen time a little over 7 hours; rising depression, uncertainty and stress amid AI job threats
+- **desarrollo:** There's an endless supply of "hyper addictive brain dead content". Average screen time for the average American is "a little over 7 hours"; some may be work-related, but most, even at work, goes to social media. Reports of depression, uncertainty and stress "have gone through the roof", especially with AI threatening jobs, "leaving us grasping at our last sources of purpose" even though most say they hate their jobs. With AI breaking benchmarks every other week, individuals and companies can produce hundreds to thousands of pieces of content daily; since it's addictive, stress and anxiety will worsen "unless we learn to control ourselves".
+- **ejemplos:** ninguno
+- **cita:** ninguna
+- **terminos:** hyper addictive brain dead content
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** The creator economy is dying thanks to AI.md, 0:03–1:56, 2025-02-16
+- **tension:** ninguna
+
+## U-012-118
+- **tipo:** principio
+- **titulo:** People become so accustomed to pain that it feels like home, and leaving it seems like the real suffering
+- **desarrollo:** Explains why people don't change even when they say they hate their jobs. Repeated later: most people want things fed to them and social media companies give them exactly that; staying in familiar pain feels safer than the suffering of leaving.
+- **ejemplos:** people who hate their jobs but stay
+- **cita:** "people become so accustomed to pain that it feels like home and leaving it seems like the real suffering"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The creator economy is dying thanks to AI.md, 1:03 and 10:07, 2025-02-16
+- **tension:** ninguna
+
+## U-012-119
+- **tipo:** argumento
+- **titulo:** Indulgence isn't the problem; prolonged lack of self-control is — and companies spend billions optimizing dopamine loops
+- **desarrollo:** Will society end up like WALL-E (obese, floating in chairs, drip-fed sugary drinks and entertainment)? He's not sure. Processed food is bad, but you can have a cookie or two, "or maybe an entire buttercake to yourself at 1:00 a.m." watching The Office after birthday espresso martinis, "to balance out the over optimization of our lives". Problems arise when we can't control ourselves for an extended period — which is easy, because fast food chains, streaming, gaming and social media companies pour hundreds of billions into "optimizing dopamine driven feedback loops designed to keep consumers addicted". Facebook alone spends over $20 billion annually on R&D.
+- **ejemplos:** WALL-E; buttercake at 1 a.m.; Facebook R&D > $20B/year
+- **cita:** ninguna
+- **terminos:** dopamine driven feedback loops, over optimization of our lives
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** The creator economy is dying thanks to AI.md, 1:56–2:47, 2025-02-16
+- **tension:** ninguna
+
+## U-012-120
+- **tipo:** metáfora
+- **titulo:** Processed content as digital fat, sugar and salt — the birth of the For You page
+- **desarrollo:** Chain: (1) Fast food is addictive through the combination of fat, sugar and salt — scarce resources humans aren't adapted to have in abundance; when found, they spurt dopamine to signal survival aid. (2) Companies discovered this mechanism and tested combinations that kept consumers coming back. (3) Internet companies did the same: they adopted an advertising model and found polarizing, inflammatory headlines captured the most attention. (4) They served more of what users liked on an instantly accessible screen — "the birth of the For You page". (5) So there's processed food and "processed content": "digital fat sugar and salt", cheap dopamine, instant gratification, entropy.
+- **ejemplos:** fast food; inflammatory headlines; For You page
+- **cita:** "there's processed food and there's also processed content digital fat sugar and salt"
+- **terminos:** processed content, digital fat sugar and salt, For You page, cheap dopamine
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The creator economy is dying thanks to AI.md, 2:47–3:43, 2025-02-16
+- **tension:** ninguna
+
+## U-012-121
+- **tipo:** concepto
+- **titulo:** Entropic content increases psychic entropy: quick, shallow content makes the mind more chaotic
+- **desarrollo:** "Quick and shallow content is just that entropic the more you consume the more chaotic your mind becomes." No long-term sense-making — useless ideas without a goal or vision to apply them. Digital food doesn't energize or build muscle; it makes you sluggish. Being a "WALL-E citizen" drooling over a curated algorithm keeps you in stress and survival; fear and desire pull you away from the present and "psychic entropy or disorder in the mind increases". What seemed one harmless post was actually 50 posts read in unison that silently induce chaos. You regress or stay the same, locked into "a paradigm of political ideologies and static opinions" not conducive to anything worthwhile — and you don't care or don't realize, or realize and forget. He admits it happens to him too.
+- **ejemplos:** 50 posts read in unison
+- **cita:** "the more you consume the more chaotic your mind becomes"
+- **terminos:** entropic content, psychic entropy, WALL-E citizen
+- **origen:** propia (the term "psychic entropy" is used without attribution)
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-120
+- **fuente:** The creator economy is dying thanks to AI.md, 3:43–4:33, 2025-02-16
+- **tension:** ninguna
+
+## U-012-122
+- **tipo:** fuente-de-tercero
+- **titulo:** Kevin's "thoughts on building a personal brand" tweet: authenticity over optimization
+- **desarrollo:** A tweet by "Kevin on Twitter" that the author agrees with (aligned with his video "the death of the personal brand" and one-person business videos). Points: over-optimized profiles = try hard = low status; chasing engagement trades off authenticity; writing about others is lame and has no moat (the author sees people write about others instead of their own ideas, interests or skills); being an expert is overrated — just be yourself in public; being a hypocrite for your team = you're a loser (agreeing with someone you like on something you actually disagree with); reputation beats reach every time; posting should be downstream of doing; and most important: if you even try to build a personal brand you are by definition less authentic than someone who doesn't try yet has one. The author uses it to frame the creators vs AI content difference: personal brands and influencers shape the trends that AI content follows, but AI "can't replicate that beautiful authenticity".
+- **ejemplos:** ninguno
+- **cita:** "posting should be Downstream of doing"
+- **terminos:** reputation beats reach, posting downstream of doing, no moat
+- **origen:** de-tercero:Kevin (Twitter)
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** The creator economy is dying thanks to AI.md, 4:33–6:03, 2025-02-16
+- **tension:** ninguna
+
+## U-012-123
+- **tipo:** término-acuñado
+- **titulo:** Shop at digital farmers markets: organic, syntropic content leads to order and clarity
+- **desarrollo:** On the flip side of processed food and content there's organic food and content, and "organic content is syntropic" (transcribed "Copic"). "Unlike entropy that leads to disorder and chaos syntropy leads to order and clarity." You can't expect the For You page to feed you this; you must actively search, curate and nurture your digital feed, especially as AI content ramps up — "shop at digital farmers markets".
+- **ejemplos:** ninguno
+- **cita:** "shop at digital farmers markets"
+- **terminos:** organic content, syntropy/syntropic, digital farmers markets
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-121
+- **fuente:** The creator economy is dying thanks to AI.md, 6:03, 2025-02-16
+- **tension:** ninguna
+
+## U-012-124
+- **tipo:** heurística
+- **titulo:** How to spot organic content: useful toward self-generated goals, often long form (or a puzzle piece), authentic
+- **desarrollo:** (1) It is useful: it aids achieving your goals. Caveat: you must have self-generated goals; without a vision, most content (except that which helps generate vision) is useless — "go read a philosophy book". (2) It's often long form — books, articles, newsletters, podcasts, YouTube — with room to deliver sense and value. Exception: short-form creators can post insights that act as "a small puzzle piece for your mind"; but if it doesn't connect to anything you want to do, it does you no good. (3) It's authentic: created not because it has to be, but because the creator deems it valuable enough to share with an audience that may benefit. Nuance: organic/"delayed gratification content" can still use attention and marketing tactics to hook you — "that's the game you have to play"; any book that hooks you uses them. Attention-grabbing headlines aren't the problem; the content within and whether it suits you and your goals is — otherwise you're "manhandled around and being programmed by your digital feed to want things that you don't actually want", which makes you feel lost.
+- **ejemplos:** ninguno
+- **cita:** "if you don't have a vision most content aside from that which helps generate vision is useless go read a philosophy book"
+- **terminos:** organic content, delayed gratification content, puzzle piece
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-123
+- **fuente:** The creator economy is dying thanks to AI.md, 6:03–8:29, 2025-02-16
+- **tension:** ninguna
+
+## U-012-125
+- **tipo:** argumento
+- **titulo:** Social media is not bad: it's access to the best teachers — like Roman royalty such as Marcus Aurelius
+- **desarrollo:** Social media is "an incredible way to tap into an infinite source of knowledge" — where else can you find information from people who have done what you want to do? Most successful people are self-educated, and most self-education today happens through a screen. Royalty in Roman civilization like Marcus Aurelius had access to the best teachers to prepare for the throne; now you have access to the best teachers online "and you decide to scroll videos of hot and dumb people dancing".
+- **ejemplos:** Marcus Aurelius
+- **cita:** ninguna
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-124
+- **fuente:** The creator economy is dying thanks to AI.md, 8:29–9:20, 2025-02-16
+- **tension:** ninguna
+
+## U-012-126
+- **tipo:** argumento
+- **titulo:** AI-generated content could be a good thing: the internet was already flooded, and platforms would fix it if it hurt revenue
+- **desarrollo:** Nobody says AI content could be good. It doesn't matter if the internet is flooded with garbage — it has been for years. If it hurt social media companies (users disliking it, revenue loss), they could solve it with cryptography or biometric passes proving you're human; they haven't, so it isn't enough of a problem. Whining about the dead internet distracts from what you can do. The worry that bots removed your ability to find information is false; most people just want things fed to them. Also, you can only view so much content and follow so many people at any time.
+- **ejemplos:** cryptography or biometric passes
+- **cita:** ninguna
+- **terminos:** dead internet
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-116
+- **fuente:** The creator economy is dying thanks to AI.md, 9:20–10:07, 2025-02-16
+- **tension:** ninguna
+
+## U-012-127
+- **tipo:** dato
+- **titulo:** The author's AI writing experiment: of 100 AI-generated posts maybe one is postable — AI content isn't good unless you are good at content
+- **desarrollo:** "AI does not generate good content on its own." He tried to get AI to replicate his writing with simple prompts and prompts "the size of a mini course"; out of 100 posts maybe one can be posted; the rest are useful ideas he completely rewrites, some needing minor edits. Crucial point: "AI content isn't good unless you are good at content." Most AI content sinks to the bottom and isn't seen by human eyes. "The dead internet is like an iceberg": the majority of dead content is so deep nobody will ever see it.
+- **ejemplos:** iceberg metaphor
+- **cita:** "AI content isn't good unless you are good at content"
+- **terminos:** dead internet iceberg
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The creator economy is dying thanks to AI.md, 10:07–10:52, 2025-02-16
+- **tension:** ninguna
+
+## U-012-128
+- **tipo:** argumento
+- **titulo:** Intelligence is only one resource and a poor one in isolation; AI falls flat without vision, taste or agency
+- **desarrollo:** If this exact video were made word for word, scene by scene with AI and gave you the value you wanted, would it matter? He guesses you wouldn't care. The objection "if I knew it was AI something would feel off" stems from misunderstanding AI. Benchmark hype and "all jobs replaced" talk cloud perception, because "intelligence is only one resource and it's proving to be a pretty poor one in isolation it falls flat if there is no vision taste or agency". "If you aren't already good at the thing AI won't be good at the thing." Making the video with AI, he'd still orchestrate images, scenes, everything — still him creating, just not on camera, faster. "AI hasn't replaced content it's just made bad content easier to create." The unskilled using AI for quick results (like get-rich-quick courses) to avoid long-term commitment will fail; "the principles haven't and won't change ever".
+- **ejemplos:** making this video with AI
+- **cita:** "intelligence is only one resource and it's proving to be a pretty poor one in isolation"
+- **terminos:** vision, taste, agency
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-127
+- **fuente:** The creator economy is dying thanks to AI.md, 10:52–12:25, 2025-02-16
+- **tension:** ninguna
+
+## U-012-129
+- **tipo:** argumento
+- **titulo:** AI will replace the formulaic social media managers, copywriters and content marketers
+- **desarrollo:** Objection: AI will first replace social media managers, copywriters and content marketers. "Correct" — the formulaic ones: social media managers posting a fancy Canva image that gets zero results; content marketers putting a pretty girl on screen with a Gen Z caption people are tired of (already doable with something like "Real Farm", as transcribed — a tool name, ambiguous); the copywriter writing blog posts just for online presence, fired because AI was faster. "If you're writing simple blog posts to just allow the company to have an online presence then yeah you're pretty replaceable."
+- **ejemplos:** Canva image posts; pretty-girl Gen Z caption videos; presence-only blog posts
+- **cita:** ninguna
+- **terminos:** formulaic
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-128
+- **fuente:** The creator economy is dying thanks to AI.md, 12:25–13:09, 2025-02-16
+- **tension:** ninguna
+
+## U-012-130
+- **tipo:** metáfora
+- **titulo:** AI as a ghostwriter (ghost designer, ghost coder, ghost filmmaker): James Patterson orchestrates, the ghost strings it together
+- **desarrollo:** Think of AI as a ghostwriter, ghost designer, ghost coder or ghost filmmaker. A ghostwriter doesn't create the whole story, they just write it. James Patterson uses a ghostwriter for his novels ("a shock to most people"), but he still orchestrates the plot, characters, lore, marketing, sales and business; the ghostwriter strings it together in writing. AI will do exactly that for all of those functions, letting Patterson do it all by himself if he wants.
+- **ejemplos:** James Patterson
+- **cita:** "a ghost writer doesn't create the entire story they just write it"
+- **terminos:** ghost writer, orchestrate
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-128
+- **fuente:** The creator economy is dying thanks to AI.md, 13:09–14:00, 2025-02-16
+- **tension:** ninguna
+
+## U-012-131
+- **tipo:** argumento
+- **titulo:** AI lacks a coherent vision and philosophy; people follow creators for their body of coherent work, which compounds
+- **desarrollo:** "The real kicker AI lacks a coherent vision and philosophy." People don't follow creators for one piece of content but for "their body of coherent work". You find value in this video not because it's the first you've watched, but in "the entire philosophy I've strung together over the past 3 to 4 years" helping creative individuals make sense of their place in the world; it compounds the more you watch. Good writers/creators won't be replaced; they'll become more powerful and dynamic — AI lets one person create more, faster, in a company or not, "but only if they value agency and self-development". His previous tweet: "the ultimate goal is getting paid to be yourself".
+- **ejemplos:** ninguno
+- **cita:** "people don't follow creators for one piece of content they follow for their body of coherent work"
+- **terminos:** body of coherent work, getting paid to be yourself
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-128
+- **fuente:** The creator economy is dying thanks to AI.md, 13:09–14:51, 2025-02-16
+- **tension:** ninguna
+
+## U-012-132
+- **tipo:** argumento
+- **titulo:** The only way out is through: battle the processed content flood by posting organic content, because you are the media
+- **desarrollo:** Ironically, to battle the processed content flood you must contribute to humanity by posting organic content. That may sound strong, but social media is the media now, you are the media, media shapes culture, and culture shapes everything from politics to the economy — so posting online can be important. It's his belief that becoming a value creator is one of the few ways forward, and what the most successful and happy people have done throughout history.
+- **ejemplos:** ninguno
+- **cita:** "it's ironic that the only way out is through"
+- **terminos:** value creator, you are the media
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-123
+- **fuente:** The creator economy is dying thanks to AI.md, 14:51, 2025-02-16
+- **tension:** ninguna
+
+## U-012-133
+- **tipo:** principio
+- **titulo:** Happiness stems from resistance overcome and connection to something greater: creativity and contribution
+- **desarrollo:** "Happiness stems from resistance being overcome and a connection to something greater than yourself in other words creativity and contribution." When you create, you solve a problem; when you pass the creation to someone, you solve theirs; when you become a person with value to give and give it consistently, "you learn what it means to be happy".
+- **ejemplos:** ninguno
+- **cita:** "happiness stems from resistance being overcome and a connection to something greater than yourself"
+- **terminos:** creativity and contribution
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The creator economy is dying thanks to AI.md, 14:51–15:45, 2025-02-16
+- **tension:** ninguna
+
+## U-012-134
+- **tipo:** argumento
+- **titulo:** Social media as evolution's creative solution to the problems of hated work, uncontrolled lifestyle and lack of opportunity: anyone can learn, create, be discovered
+- **desarrollo:** "Evolution is creative and thus it solves problems": a long-brewing set of problems — work you hate, a lifestyle you don't control, lack of access to opportunity and income — found social media as a solution, though people see it as toxic. Underappreciated good sides: (1) anyone can learn — intelligence on tap, especially with AI; (2) anyone can create — no permission needed to post who you are, what you do and why; (3) anyone can be discovered — no publisher, job board or record label needed to write a book, find work or make music. "Your personal brand is your public resume."
+- **ejemplos:** ninguno
+- **cita:** "your personal brand is your public resume"
+- **terminos:** public resume
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The creator economy is dying thanks to AI.md, 15:45–16:35, 2025-02-16
+- **tension:** ninguna
+
+## U-012-135
+- **tipo:** concepto
+- **titulo:** Your profile is an extension of yourself — a challenging one that forces improvement and "creates diamonds" under pressure
+- **desarrollo:** Per Kevin's tweet, don't try to build a personal brand; just be yourself online — your "online character". The profile is an extension of yourself, and a challenging one: you must get better at writing and speaking to contribute value; to earn independently from creative work you must learn marketing and business, create a product, and accept people "calling you an idiot in the comments". "It's a very vulnerable position to be and it creates diamond because of all the pressure."
+- **ejemplos:** ninguno
+- **cita:** "it creates diamond because of all the pressure"
+- **terminos:** online character
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-122
+- **fuente:** The creator economy is dying thanks to AI.md, 16:35–17:21, 2025-02-16
+- **tension:** ninguna
+
+## U-012-136
+- **tipo:** argumento
+- **titulo:** Why everyone should become an entrepreneur/creator/business owner: attention moved to social, AI replaces low-level jobs, top jobs are for the top 1%
+- **desarrollo:** (1) Attention is on social media; previously it was on TV, billboards, radio and newspapers where the average person couldn't promote their work. (2) AI continues to replace lower-level jobs. (3) Top-paying jobs are reserved for the skill elite — top 1% or 0.1% — "like getting into the NBA". So the path forward, per what Naval "has been saying or hinting at" and the author has said many times: everyone should become an entrepreneur/creator/business owner. Signs: remote work and freelance statistics; big companies outsourcing low-level work to AI. The internet is a decentralized school system; creators are teachers whose purpose isn't to make you a useful worker; it's a public town square where your value can be discovered. "Building an audience is the new resume and status symbol"; followers are less vanity and more social proof that people value your ideas.
+- **ejemplos:** NBA odds
+- **cita:** "building an audience is the new resume and status symbol"
+- **terminos:** decentralized school system, public town square, social proof
+- **origen:** adaptada-de:Naval Ravikant
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-134
+- **fuente:** The creator economy is dying thanks to AI.md, 17:21–19:02, 2025-02-16
+- **tension:** ninguna
+
+## U-012-137
+- **tipo:** framework
+- **titulo:** The job plateau graphic: novelty and progression end in the mid-20s; the plateau is the best time to pivot
+- **desarrollo:** When the novelty and challenge of schooling and job advancement halt in your mid-20s, causing a lack of meaning, entrepreneurship is how you keep developing and control your future. His past graphic: after a certain time in a job, progress plateaus. School didn't feel purposeless because of progression; a new job brings challenge and skills to learn (some annoying — "that's life"), and that's where novelty, challenge and fulfillment come from. Once it dies down and you plateau, it disappears and you get stuck in a "repetitive and mundane robotic life". We don't take that as the sign to branch off and self-educate further — the natural path. "When that mundane and robotic life starts to set in that's the best time to pivot off." Not "never work a job", but if you want control over lifestyle, novelty, challenge, meaning and fulfillment, "entrepreneurship is the only logical option".
+- **ejemplos:** ninguno
+- **cita:** "when that mundane and robotic Life Starts to set in that's the best time to Pivot off"
+- **terminos:** plateau, mundane and robotic life
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-005
+- **fuente:** The creator economy is dying thanks to AI.md, 19:02–20:33, 2025-02-16
+- **tension:** Same graphic as U-012-005 (psychology of employment); consistent.
+
+## U-012-138
+- **tipo:** definición
+- **titulo:** Entrepreneurship is not a role or title but a state of mind: high agency and problem-solving, even as an employee
+- **desarrollo:** From his upcoming short book "Purpose and Profit" (PDF to be free, February or March): "entrepreneurship is not a role or a title it's a state of mind". You can be an employee with the mind of an entrepreneur — high agency, solving problems — which is who employers want to hire and who will be the top 1%. So even working for someone else, "the only logical option still is to be an entrepreneur".
+- **ejemplos:** ninguno
+- **cita:** "entrepreneurship is not a role or a title it's a state of mind"
+- **terminos:** state of mind, high agency, Purpose and Profit
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-137
+- **fuente:** The creator economy is dying thanks to AI.md, 20:33, 2025-02-16
+- **tension:** Matiza U-012-033 (employee vs entrepreneur as separate paths): here an employee can be an entrepreneur in mind.
+
+## U-012-139
+- **tipo:** principio
+- **titulo:** Self-governance: the red alarms you feel are beliefs defending themselves
+- **desarrollo:** He anticipates resistance: you have beliefs stuck in your mind, so when he says these things "red alarms are going off" and emotions and thoughts combat him, though you haven't met him. He's simply promoting "the value of self-governance" — taking control of what you can control, including work and life. Becoming a creator, "you wouldn't have to worry about jobs careers and AI as Naval would say".
+- **ejemplos:** ninguno
+- **cita:** ninguna
+- **terminos:** self-governance
+- **origen:** propia (with a nod to Naval)
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** The creator economy is dying thanks to AI.md, 20:33–22:11, 2025-02-16
+- **tension:** ninguna
+
+## U-012-140
+- **tipo:** argumento
+- **titulo:** You are a human, therefore a creator: from looking to the gods as creators to becoming creators (perhaps during the Enlightenment)
+- **desarrollo:** Not "content creator" but "the essence of your being": you are human, therefore a creator. We aren't "those measly puny little beings of the past who look to the gods as the creators". At some point that switched — "maybe this was during the Enlightenment" — and we realized we can acquire knowledge, solve problems and build tools so we don't die in the cold or burn. Many have yet to adopt the mindset that "you can just create things you can just solve problems". It's difficult, but that's where meaning and purpose come from; you only find it by leaning into the pain and realizing struggle in specific situations can be fun.
+- **ejemplos:** tools against freezing cold or fire
+- **cita:** "you can just create things you can just solve problems"
+- **terminos:** creator as essence of your being
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The creator economy is dying thanks to AI.md, 21:24–23:00, 2025-02-16
+- **tension:** The Enlightenment dating is explicitly speculative ("maybe").
+
+## U-012-141
+- **tipo:** metáfora
+- **titulo:** You aren't a niche specialist like a lion or polar bear: you can put on a jacket
+- **desarrollo:** "You aren't an animal you aren't a niche specialist that only thrives in the savannah like a lion or Alaska like a polar bear" — if you swapped them, they'd die. You can put on a jacket because we created jackets; you can live the life you want because you can create the tools that allow it.
+- **ejemplos:** lion in the savannah; polar bear in Alaska; jacket
+- **cita:** "you can put on a jacket because we created jackets"
+- **terminos:** niche specialist
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-140
+- **fuente:** The creator economy is dying thanks to AI.md, 22:11–23:00, 2025-02-16
+- **tension:** ninguna
+
+## U-012-142
+- **tipo:** argumento
+- **titulo:** The internet is a channel to distribute your life's work; doing it forces you to learn the meta skills that won't be replaced
+- **desarrollo:** The internet is the most accessible place for creators: no money, no right location, person, network or job needed — post your thoughts and get in front of almost anyone. Stop seeing the internet, audience-building and social media as apart from you: they are "a channel a vessel to distribute your life's work". He thinks the internet was "subconsciously created" to connect with anyone because we're social creatures, and to complete your life's work you need connection with people who benefit from it. Doing this forces you to learn the right skills — the meta skills that won't be replaced: agency, storytelling, marketing, sales, writing (not "being a content writer"), illustrating the story, and orchestrating your vision with AI, all as one person. "It's not about cringeworthy content templates and how to grow to a billion followers in 6 months."
+- **ejemplos:** ninguno
+- **cita:** ninguna
+- **terminos:** life's work, meta skills, orchestrate your vision
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-140
+- **fuente:** The creator economy is dying thanks to AI.md, 23:00–24:33, 2025-02-16
+- **tension:** ninguna
+
+## U-012-143
+- **tipo:** caso
+- **titulo:** Jordan Peterson is not a content creator: books, talks, writing software, Peterson Academy — true creators adapt
+- **desarrollo:** Jordan Peterson isn't a content creator: he writes books, gives talks, has writing software, and Peterson Academy "because schools wouldn't cut it". The internet and social media are simply the best tools to advance his life's work, which will probably change, but "true creators will adapt". If social media went to nothing, he wouldn't say his work is done. Whether intergalactic space, virtual reality, or a revert to the Stone Age — where everyone built and traded, had a role and therefore purpose — the answer is to become a creator: solve problems and distribute solutions. "Create the internet you want to be a part of create the content you want to see in the world create the products you would buy use and benefit from."
+- **ejemplos:** Jordan Peterson; Stone Age traders
+- **cita:** "create the internet you want to be a part of create the content you want to see in the world"
+- **terminos:** true creators
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-142
+- **fuente:** The creator economy is dying thanks to AI.md, 24:33–25:22, 2025-02-16
+- **tension:** ninguna
+
+## U-012-144
+- **tipo:** argumento
+- **titulo:** There is no moat in intelligence (DeepSeek R1); the moat is the app layer — everything is a wrapper — and the ultimate wrapper is you
+- **desarrollo:** Chain: (1) In tech there's talk of moats (a castle surrounded by a moat). (2) When DeepSeek, the Chinese company, released models like R1 rivaling ChatGPT's latest at a fraction of the cost and open source, people screamed "there is no moat" — OpenAI won't control all intelligence and overcharge. (3) Intelligence as a resource is going toward zero. (4) So, as some on Twitter say, the moat is the app layer: interfaces and use cases for AI — ironic, since people mocked "ChatGPT wrappers". (5) Critics of Cortex ("I can just do this in ChatGPT") miss that "everything is a wrapper": Typeform, the billion-dollar online form builder, is "just an HTML form wrapper" — anyone can paste form code, yet it's worth billions (he leaves the reader to think it through). (6) "What's the ultimate wrapper what's the moat and it's you you are the niche": your vision, interests, experience, values and beliefs are the most unique wrapper of any creation. "Write to yourself build for yourself solve your own problems and sell the solution" — the only way to future-proof yourself; "everything else is a distraction".
+- **ejemplos:** DeepSeek R1; Typeform; Cortex
+- **cita:** "what's the ultimate rapper what's the mo and it's you you are the niche"
+- **terminos:** moat, app layer, wrapper, the ultimate wrapper, future-proof
+- **origen:** propia (with "the moat is the app layer" attributed to "some people on Twitter")
+- **nivel:** avanzado
+- **prerrequisitos:** U-012-131
+- **fuente:** The creator economy is dying thanks to AI.md, 25:22–27:40, 2025-02-16
+- **tension:** ninguna
+
+# Fuente: The Future Of Work (How To Become AI-First).md (2025-05-25)
+
+## U-012-145
+- **tipo:** fuente-de-tercero
+- **titulo:** The AI-replacement signals: David Patterson's post (AI smarter than 85% → 99.9% of humans), Fiverr's CEO email, Shopify and Duolingo going AI-first
+- **desarrollo:** The author opens with third-party signals. A post on X by David Patterson: the top AI model is now smarter than 85% of humans and by end of 2026 will be smarter than 99.9% — "and you think you will still have a job?"; Elon Musk replied "roughly correct". Fiverr's CEO (named in transcript as "Micah Kaufman") emailed his team three key points: "unpleasant truth" — AI is coming for your job, his job and every job; easy tasks will no longer exist, hard tasks will become the new easy, impossible tasks will become hard; scream into a pillow, pick yourself up and become future-proof. Shopify's CEO emailed that everyone should become AI-first; an article says Duolingo is going AI-first and replacing contractors with AI. This scares people who don't know what skills, careers or jobs will remain. The author nevertheless believes "this is one of the most incredible times to be alive": find the opportunity, then take advantage of it.
+- **ejemplos:** David Patterson/Elon Musk; Fiverr CEO email; Shopify CEO email; Duolingo
+- **cita:** "Easy tasks will no longer exist. Hard tasks will become the new easy and impossible tasks will become hard."
+- **terminos:** AI first, futureproof
+- **origen:** de-tercero:David Patterson; Fiverr CEO (Micah Kaufman as transcribed); Shopify CEO; Duolingo
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** The Future Of Work (How To Become AI-First).md, 0:00–1:27, 2025-05-25
+- **tension:** ninguna
+
+## U-012-146
+- **tipo:** concepto
+- **titulo:** Three types of AI users: tried it once, uses it for simple tasks, has "seen the light" and uses it everywhere
+- **desarrollo:** The first solution is to become AI-first, because there are three types of people who use AI: (1) people who tried ChatGPT once a few years ago and thought it wasn't special; (2) people who use AI tools for searches, summaries and simple tasks that would take maybe 10 more seconds without AI; (3) people who have used it enough "to see the light" and use it everywhere they can. He holds opinions (AI doesn't make people stupider or take away creativity) but saves them for another video.
+- **ejemplos:** ninguno
+- **cita:** ninguna
+- **terminos:** AI first
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Future Of Work (How To Become AI-First).md, 1:27–1:55, 2025-05-25
+- **tension:** ninguna
+
+## U-012-147
+- **tipo:** principio
+- **titulo:** AI output is up to your skill and imagination: "you're not good enough at AI to make AI better than you"
+- **desarrollo:** "The output of AI is up to your skill and imagination. It's not that AI isn't as good as you. it's that you're not good enough at AI to make AI better than you." It's not just typing questions into ChatGPT: given extremely specific instructions (long or short), AI does them quite well. Asking "can you help me write a persuasive landing page?" without guiding it gives poor results. Best results require: (1) knowing how to find the best instructions (there are many ways to write a landing page and you don't know which the AI picks); (2) a voice analysis of how you write so it writes like you; (3) your offer information; (4) understanding how to create an offer — putting all the pieces together so the output is what you would have created. "So it's still you creating the thing", with much less work.
+- **ejemplos:** His Substack post on creating a landing page for a digital product and writing its copy, including instructions to create a copy prompt.
+- **cita:** "it's that you're not good enough at AI to make AI better than you"
+- **terminos:** voice analysis
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-146
+- **fuente:** The Future Of Work (How To Become AI-First).md, 1:55–3:50, 2025-05-25
+- **tension:** ninguna
+
+## U-012-148
+- **tipo:** metáfora
+- **titulo:** Prompts are your little employees
+- **desarrollo:** "The prompts that you create and reuse and refine over time are like your little employees now." Later: if you don't want to learn copywriting but know you need marketing or sales, create prompts — "little employees" — that do those things "90% of the way there, which is still much better than 0% of the way there".
+- **ejemplos:** copywriting prompt
+- **cita:** "your prompts... are like your little employees now"
+- **terminos:** little employees
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-147
+- **fuente:** The Future Of Work (How To Become AI-First).md, 3:50 and 14:01, 2025-05-25
+- **tension:** ninguna
+
+## U-012-149
+- **tipo:** argumento
+- **titulo:** Learn AI before it's "there": by the time it gets there you'll run laps around those who didn't
+- **desarrollo:** Many say AI doesn't give good responses even with detailed instructions — "it's not there yet. But it's going to be." Why become AI-first if it's not there? "That's the exact point": if you understand AI, by the time it gets there "you will run laps around anyone else who didn't learn it". His biggest advice for learning AI: try to automate yourself out of work.
+- **ejemplos:** ninguno
+- **cita:** "by the time it does get there, you will run laps around anyone else who didn't learn it"
+- **terminos:** automate yourself out of work
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-147
+- **fuente:** The Future Of Work (How To Become AI-First).md, 3:50–4:20, 2025-05-25
+- **tension:** ninguna
+
+## U-012-150
+- **tipo:** fuente-de-tercero
+- **titulo:** Being AI native is an operating model: from scaling humans to scaling decisions, creativity and action with machines
+- **desarrollo:** He reads an unattributed quote: being AI native isn't about building features for users; "it's an operating model for how to run your company. It's how you work, how you think, how you and your company breathe" — a rearchitecture, a rewiring, "a philosophical shift from how do we scale humans to how do we scale decisions, creativity, and action with machines".
+- **ejemplos:** ninguno
+- **cita:** "from how do we scale humans to how do we scale decisions, creativity, and action with machines"
+- **terminos:** AI native, operating model
+- **origen:** de-tercero:quote not attributed in transcript
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-146
+- **fuente:** The Future Of Work (How To Become AI-First).md, 4:20–4:55, 2025-05-25
+- **tension:** ninguna
+
+## U-012-151
+- **tipo:** concepto
+- **titulo:** The self-directed career: pre-industrial free individuals were self-employed generalists (~80% vs ~10% today); slaves did one repetitive task
+- **desarrollo:** One idea sparking the video is "the self-directed career". Before industrialization, free individuals were mostly artisans and farmers; the mark of a free person was acting on their own interest and doing many things throughout life. "Around 80% of free workers were self-employed versus a mere 10% today." Slaves were expected to perform one repetitive, mechanical task for life — "work that machines are going to do now". In the industrial age, with machines, "we just found ourselves trapped in Excel sheets and algorithms and factories doing this repetitive work". Source of the statistics not given.
+- **ejemplos:** artisans and farmers
+- **cita:** "Around 80% of free workers were self-employed versus a mere 10% today."
+- **terminos:** self-directed career
+- **origen:** propia (statistics unattributed)
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-051
+- **fuente:** The Future Of Work (How To Become AI-First).md, 4:55–5:44, 2025-05-25
+- **tension:** ninguna
+
+## U-012-152
+- **tipo:** término-acuñado
+- **titulo:** From autopilot living to autocomplete living
+- **desarrollo:** Will the AI revolution further remove us from autonomy and freedom to act on our interests? It's "absolutely possible that most people will shift from autopilot living to autocomplete living, from having work assigned to them to having work done for them". But for those who value creative work and control over their choices — their agency — there's another option.
+- **ejemplos:** ninguno
+- **cita:** "most people will shift from autopilot living to autocomplete living"
+- **terminos:** autopilot living, autocomplete living, agency
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-151
+- **fuente:** The Future Of Work (How To Become AI-First).md, 5:44–6:20, 2025-05-25
+- **tension:** ninguna
+
+## U-012-153
+- **tipo:** principio
+- **titulo:** Abstract up a layer: in technological transitions humans move from labor to mind; ask when to leverage AI vs do it yourself
+- **desarrollo:** During technological transitions humans adapt by developing higher-level skills and knowledge: "we abstract up a layer when skills inevitably become less valuable through automation". With AI it's happening again: we must abstract beyond most skills we've learned, "transition from labor to mind". Since AI can now think and execute as well as us, "we must think about how we think in relation to systems that could do the thinking for us". Guiding question to keep in mind: "When should I leverage AI and when should I do it myself?"
+- **ejemplos:** ninguno
+- **cita:** "We abstract up a layer when skills inevitably become less valuable through automation."
+- **terminos:** abstract up a layer, labor to mind
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-012-152
+- **fuente:** The Future Of Work (How To Become AI-First).md, 6:20–6:56, 2025-05-25
+- **tension:** ninguna
+
+## U-012-154
+- **tipo:** fuente-de-tercero
+- **titulo:** Signal's AI-native vs non-AI-native comparison (product, marketing, support) with example prompts
+- **desarrollo:** From "Signal", an anonymous internet thinker (paid post): most companies are already behind because they aren't AI-first. Product — non-AI-native: slow feedback loops, manual research, roadmap debates based on opinion; AI-native: summarize all user interviews in minutes, generate roadmap options from feature-request clustering, simulate user behavior before launch. Example prompts: summarize the last 50 user interviews and cluster pain points by frequency and intensity; suggest three product bets with highest signal-to-noise; write a product spec for a new onboarding flow with edge cases and counterarguments. Marketing — non: manual content, guessing what resonates, slow campaigns; AI-native: generate and test content at massive scale, tune message to psychographics not just demographics, live feedback loops with creative optimization. Prompts: 10 headline variations tuned to five founder archetypes ranked by projected engagement; a launch email in brand tone for early adopters who bounced from the pricing page. Support — non: human triage, reps re-answering the same questions; AI-native: auto-solve tier-one issues with 24/7 LLMs, summarize complex threads for human escalation, generate help-center content dynamically from ticket volume. (Engineering and design are mentioned but not covered.) Author's adaptations: as a creator, "digest these 50 comments from my latest post" to extract pain points, interests and questions to steer content, products and business; for Cortex, turning a support thread into a documentation article that a 24/7 LLM can feed to others. "You do it with a single sentence rather than hours of work."
+- **ejemplos:** comment digestion; Cortex support documentation
+- **cita:** ninguna
+- **terminos:** AI native, psychographics
+- **origen:** adaptada-de:Signal (anonymous internet thinker)
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-150
+- **fuente:** The Future Of Work (How To Become AI-First).md, 6:56–10:32, 2025-05-25
+- **tension:** ninguna
+
+## U-012-155
+- **tipo:** proceso
+- **titulo:** Practice automating yourself out of work: document, assume promptable, turn into a prompt, test, refine to 90%, store
+- **desarrollo:** For any task: (1) write down the entire process in detail as if teaching someone your job, including thought and creative processes; (2) assume any task or piece of that process can be done with a prompt; (3) attempt to turn it into a prompt; (4) test it and note where it doesn't do well; (5) refine until it's at least 90% of the way there; (6) store the prompt somewhere safe. If you don't know how to do the task, ask AI for detailed instructions — but this depends on the task: for content or YouTube videos you'll often get general advice because "every creator has their own way"; it's "a highly relative domain" where AI won't thrive unless people give out their specific processes. Over time you build "this library of prompts that does most of your workflow for you". He announces a future video on the future of digital products (courses, coaching, freelancing).
+- **ejemplos:** ninguno
+- **cita:** "refine the prompt until it's at least 90% of the way there"
+- **terminos:** automate yourself out of work, library of prompts, highly relative domain
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-149
+- **fuente:** The Future Of Work (How To Become AI-First).md, 10:32–11:46 and 17:39, 2025-05-25
+- **tension:** ninguna
+
+## U-012-156
+- **tipo:** método
+- **titulo:** Get specific instructions from a high-performing example: have AI break down a top video's structure line by line
+- **desarrollo:** If Ali Abdaal, Alex Hormozi or he asked AI without direction "how do I create my next YouTube video?", results would be worse than doing it themselves. Be specific: take one of Ali Abdaal's highest-performing YouTube videos, give it to AI, and ask it to break down the exact structure — what worked, the psychological patterns, structure of the whole video, every line and why it works. Then you have detailed instructions to turn into a prompt to recreate it with your own ideas. Condition: feed it a video that didn't perform well and your video probably won't either; results depend on topics and video types. So "all of this content creator stuff is just going to be automated out of existence... That's not how this stuff works."
+- **ejemplos:** Ali Abdaal's top video
+- **cita:** ninguna
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-155
+- **fuente:** The Future Of Work (How To Become AI-First).md, 11:46–12:30, 2025-05-25
+- **tension:** ninguna
+
+## U-012-157
+- **tipo:** método
+- **titulo:** Extract instructions from books: upload a copywriting book (Breakthrough Advertising, Great Leads) and turn its method into a prompt
+- **desarrollo:** Another source of specific information for AI: a book or PDF. For landing pages or emails, upload Breakthrough Advertising, Great Leads or another copywriting book and ask for a summary and "the exact very detailed way of writing copywriting"; then turn those instructions into a prompt. He did this with Gemini 2.5 Pro: "Research the book Breakthrough Advertising and give me an extremely detailed guide on how to write persuasive copywriting" — and got a guide for every step. Why it matters: good copy takes long to learn; if you'd rather focus on your craft but need marketing or sales, prompts get you 90% there. A landing page written without this knowledge won't convert nearly as well.
+- **ejemplos:** Breakthrough Advertising; Great Leads; Gemini 2.5 Pro
+- **cita:** ninguna
+- **terminos:** ninguno
+- **origen:** propia (applies books by third parties, authors not named in transcript)
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-155
+- **fuente:** The Future Of Work (How To Become AI-First).md, 12:30–14:47, 2025-05-25
+- **tension:** ninguna
+
+## U-012-158
+- **tipo:** proceso
+- **titulo:** The prompt that creates prompts and the two-phase metaprompt (context gathering, then execution) for landing-page copy
+- **desarrollo:** "One of the most valuable things that I have in my life right now is a very good prompt that creates prompts." Steps: (1) Get the how-to guide (the Breakthrough Advertising guide). (2) He structures prompts in two phases, so he asks: "Imagine you were going to write landing page copy for me using all of these principles. What is all of the information you'd need to gather from me?" — it lists context: product/service name, description, core problem, desired outcome and benefit, unique mechanism, unique selling proposition, target audience, etc. (3) Turn both outputs into documents to reference later. (4) Go to his prompt-generator ("write incredible AI prompts") and ask: create an AI prompt that generates a 500 to 10,000-word landing page for a digital information product, in two phases — Phase 1 context gathering per the "questions needed from user" document, asking the user 2–3 questions at a time "to prevent overwhelm"; Phase 2 write the copy using the "how to write copy" document. (5) It output a code block; he asked for markdown. Result: phase one interviews him (product, audience...), phase two writes the copy — compelling headline, opening lead, problem/desire intensification, benefits and proof, etc. Now he sends the prompt, gives his info, and gets a first draft "better than what most people can create when they haven't learned anything". Summary of being AI-first: figure out how to do something, write detailed instructions, turn them into a metaprompt, refine over time. He offers a free mini course with more examples.
+- **ejemplos:** landing-page metaprompt
+- **cita:** "a very good prompt that creates prompts"
+- **terminos:** prompt that creates prompts, metaprompt, two phases, context gathering
+- **origen:** propia
+- **nivel:** avanzado
+- **prerrequisitos:** U-012-157
+- **fuente:** The Future Of Work (How To Become AI-First).md, 13:14–18:25, 2025-05-25
+- **tension:** ninguna
+
+## U-012-159
+- **tipo:** advertencia
+- **titulo:** Limits of the advice: not for people with very busy lives; the author is a 28-year-old without kids
+- **desarrollo:** "You're probably going to have to change your life, and that's a very good thing." He says he's in no position to tell people how to live; he doesn't understand most situations: "I don't have kids to feed yet. I'm not working two jobs. I'm just a 28-year-old dude who likes to go on walks and write and eat dinner out." Those with very busy lives can still learn, use some time, make habitual changes for more energy and slowly improve their position, but "I don't know how to help you. So, this next section isn't really for you." It's for the majority with a few hours to spare, somewhat financially stable and generally comfortable.
+- **ejemplos:** ninguno
+- **cita:** "I'm just a 28-year-old dude who likes to go on walks and write and eat dinner out."
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** The Future Of Work (How To Become AI-First).md, 18:25–19:11, 2025-05-25
+- **tension:** ninguna
+
+## U-012-160
+- **tipo:** argumento
+- **titulo:** AI solving the painful problem of jobs is evolution solving problems — if a machine can replace your job, your life lacks novelty and meaning
+- **desarrollo:** For the comfortable majority: "what's the issue? Why are you complaining?" Average 9-to-5 jobs suck (not the 0.1% with nap pods at Google); "we've collectively hated jobs for decades". "Evolution solves problems": one of life's most painful problems — working a job — is being solved and you're mad; you're presented with one of the greatest opportunities of a lifetime and fall into "the most cliche trap of comfort and playing victim", holding on to an old way of life "when all good things aren't permanent". "If you work a job that a machine can replace, your life probably lacks novelty and meaning and fulfillment and challenge and complexity and continuous growth and learning" — a massive signal to do something new. He says this isn't opinion but "documented psychological patterns".
+- **ejemplos:** Google nap pods
+- **cita:** "if you work a job that a machine can replace, your life probably lacks novelty and meaning"
+- **terminos:** trap of comfort, playing victim
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-159
+- **fuente:** The Future Of Work (How To Become AI-First).md, 19:11–20:43, 2025-05-25
+- **tension:** ninguna
+
+## U-012-161
+- **tipo:** principio
+- **titulo:** Basic needs then actualization needs; flow requires gradually increasing challenge — repetitive work kills fulfillment
+- **desarrollo:** "First, you fulfill your basic needs and then you pursue your actualization needs." To stay in flow you must gradually increase the challenge you take on, which demands developing skills to match. Stuck in repetitive work with no more challenge, repeating the same day, isn't fulfilling or enjoyable; you're not learning, evolving or growing. Especially when 8 hours a day — a third of life — goes there, a third to sleep, and the other third to scrolling "because you don't have anything better to dedicate your time to". So "you need to start building things". (The basic/actualization needs hierarchy and flow are presented as psychological patterns without naming sources.)
+- **ejemplos:** thirds of life: work, sleep, scrolling
+- **cita:** "in order to stay in some kind of a flow state, you need to gradually increase the challenge"
+- **terminos:** flow state, actualization needs
+- **origen:** adaptada-de:needs hierarchy and flow (sources not named in transcript)
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Future Of Work (How To Become AI-First).md, 20:43–21:13, 2025-05-25
+- **tension:** ninguna
+
+## U-012-162
+- **tipo:** término-acuñado
+- **titulo:** The mastery and meaning economy: what's left after AI is discovering and pursuing your life's work
+- **desarrollo:** You have a few years before you are let go, kept and eventually let go, upskill endlessly to take new roles, or must fend for yourself. "AI isn't just coming for companies and programmers. It's coming for everyone that has a brain." In the far future maybe no money worries, but for now there will be "an acclimation period" of job losses without safety nets like UBI ("whether you agree with that or not"), painful for many. What an AI-first world leaves is "a mastery and meaning economy" — "discovering and pursuing your life's work... the thing you could have and probably should have been doing all along". Maybe in VR, on Mars or in space, but for now on the internet: choose something you deeply care about; study, research and master it ruthlessly with an AI-first mindset; shamelessly share what you know, what you do and why in public. "The only real safety net in today's world is a body of work that's impossible to ignore."
+- **ejemplos:** ninguno
+- **cita:** "the only real safety net in today's world is a body of work that's impossible to ignore"
+- **terminos:** mastery and meaning economy, life's work, body of work, acclimation period
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-160
+- **fuente:** The Future Of Work (How To Become AI-First).md, 21:13–22:41, 2025-05-25
+- **tension:** ninguna
+
+## U-012-163
+- **tipo:** argumento
+- **titulo:** Attention is the only differentiator: as AI floods content, trust, attention and signal become scarce and market sophistication rises fast
+- **desarrollo:** "As the world is filled with more AI, trust, attention, and signal become more scarce." The dead internet is growing; anyone can ask AI for a tweet or make a YouTube video with AI voiceover and B-roll. But that doesn't mean much: they won't get good results or be able to pivot and iterate to compete. It means "the level of market sophistication will continue to increase rapidly": people get bored of the cookie cutter, "the cookie cutter will change every month", people lose trust in most content — and you still must know what you're doing to make AI create something unique and compelling.
+- **ejemplos:** AI tweets; AI-voiced YouTube videos
+- **cita:** "the cookie cutter will change every month"
+- **terminos:** attention is the only differentiator, market sophistication, cookie cutter
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-162
+- **fuente:** The Future Of Work (How To Become AI-First).md, 22:41–23:29, 2025-05-25
+- **tension:** ninguna
+
+## U-012-164
+- **tipo:** heurística
+- **titulo:** Use AI for what you don't want to do; don't give AI complete control over what you deeply care about
+- **desarrollo:** Two rules for a one-person business: (1) use AI to do the things you don't want to do; (2) don't give AI complete control over the things you deeply care about — don't have it do the work for you. His craft is writing — not grammar or poetic writing, but "putting ideas on paper in the way that I want them to... be articulated". When AI takes over the whole process, "it doesn't feel mine", he hasn't created or given something he cares about — "that's where the meaning comes into play". For everything else a business needs (marketing, sales, support, design), AI can handle it so your writing is seen by more people and sustains your life.
+- **ejemplos:** the author's writing
+- **cita:** "don't give AI complete control over the things you deeply care about"
+- **terminos:** craft
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-153
+- **fuente:** The Future Of Work (How To Become AI-First).md, 23:29–25:01, 2025-05-25
+- **tension:** ninguna
+
+## U-012-165
+- **tipo:** término-acuñado
+- **titulo:** Authenticity at scale: delegating non-craft work to AI is like hiring employees, not inauthentic
+- **desarrollo:** Having AI handle marketing, sales, support and design "is not inauthentic. That's authenticity at scale. It's the same thing as hiring employees to do it for you" — either way you're not doing that work; it's just necessary to achieve your mission.
+- **ejemplos:** ninguno
+- **cita:** "That's not inauthentic. That's authenticity at scale."
+- **terminos:** authenticity at scale
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-164
+- **fuente:** The Future Of Work (How To Become AI-First).md, 25:01, 2025-05-25
+- **tension:** ninguna
+
+## U-012-166
+- **tipo:** principio
+- **titulo:** You are the niche and the differentiator: when AI makes 90% of products the same, people buy from people they know, trust and care about
+- **desarrollo:** "You are the niche. You are the differentiator": your mastery, experience and way of looking at the world "through a perception forged by every bit of information you've processed over the entirety of your life". "When AI makes 90% of the products the same, nothing really changes. People continue to buy from people and brands that they know, trust, and care about." "It's less about building a sales funnel and more about building a world that people can explore" — referencing his article "How to Build a World: The 2 Hour Content Ecosystem 2.0".
+- **ejemplos:** ninguno
+- **cita:** "It's less about building a salesunnel and more about building a world that people can explore."
+- **terminos:** you are the niche, building a world, 2 Hour Content Ecosystem 2.0
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-165
+- **fuente:** The Future Of Work (How To Become AI-First).md, 25:01–25:48, 2025-05-25
+- **tension:** ninguna
+
+## U-012-167
+- **tipo:** principio
+- **titulo:** 1,000 true fans is increasingly relevant: most people want a living, not fame
+- **desarrollo:** "Arguably the most important" point: most people don't want to be famous; even if you do, save that goal until you're making a living. You don't need millions of followers — "about a 1,000 true fans", and honestly fewer if you're good, because of price points: $5,000 per client for a service; $10 for a paid newsletter (he's "on the Substack kick" and finds it promising); $50 to $150 for a product; spin-off products like a book or software, since anyone will be able to code an app that solves a specific problem for buyers to buy again.
+- **ejemplos:** ninguno
+- **cita:** ninguna
+- **terminos:** 1,000 true fans
+- **origen:** propia (concept referenced without naming its originator)
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Future Of Work (How To Become AI-First).md, 25:48–26:18, 2025-05-25
+- **tension:** ninguna
+
+## U-012-168
+- **tipo:** dato
+- **titulo:** Income math: $5,000/month suffices for most; $10–15K = three $5K clients; 500 subscribers at $10 = $5,000/month; a three-tier offer stack needs ~1 + 10 + 10 buyers
+- **desarrollo:** Most people can live fine on $5,000 a month; with a family, $10,000–$15,000 — "that's three clients a month" at $5,000 (he admits it's a cliché in online business, "but it's true"). A $10 subscription (which he doesn't recommend for beginners — see his Q&A video) with 500 buyers = $5,000/month recurring, though it takes longer because you must sell more. "500 people on an internet that has four to five billion people there isn't that much to ask for." Over a year build an offer stack — high-ticket product, low-ticket subscription, a product in between — then you need about one high-ticket buyer a month, 10 subscription buyers and 10 product buyers. Given how attention flows (people follow new people, natural fluctuations invisible to outsiders) "there's really more than enough attention to go around".
+- **ejemplos:** ninguno
+- **cita:** "500 people on an internet that has four to five billion people there isn't that much to ask for"
+- **terminos:** offer stack, high ticket, low ticket subscription
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-012-167
+- **fuente:** The Future Of Work (How To Become AI-First).md, 26:18–27:46, 2025-05-25
+- **tension:** ninguna
+
+## U-012-169
+- **tipo:** principio
+- **titulo:** Treat it as the opposite of your job: work that evolves; staying the same is the enemy of a good life
+- **desarrollo:** "The key here is that you treat it as the opposite as your job. It's work that evolves. It's work that demands continuous learning. It's work with a prerequisite that you have at least some of your life together." "The minute you stagnate is the minute entropy increases. And that's a wonderful thing." (wonderful because it signals the need to grow). "Staying the same is the enemy of a good life."
+- **ejemplos:** ninguno
+- **cita:** "Staying the same is the enemy of a good life."
+- **terminos:** entropy, stagnate
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-012-161
+- **fuente:** The Future Of Work (How To Become AI-First).md, 27:46–28:27, 2025-05-25
+- **tension:** ninguna
+

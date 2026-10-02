@@ -1170,7 +1170,7 @@
 - **ejemplos:** The listed books.
 - **cita:** ninguna
 - **terminos:** resonate
-- **origen:** de-tercero:Eckhart Tolle (The Power of Now); de-tercero:David Deida (Way of the Superior Man); de-tercero:Mihaly Csikszentmihalyi (Flow); de-tercero:Alex Soojung-Kim Pang (Rest); de-tercero:Alan Watts
+- **origen:** de-tercero:The Power of Now (author not named); de-tercero:Way of the Superior Man (author not named); de-tercero:Mihaly Csikszentmihalyi (Flow); de-tercero:Alex Soojung-Kim Pang (Rest); de-tercero:Alan Watts
 - **nivel:** complementario
 - **prerrequisitos:** U-011-089
 - **fuente:** The Rise Of The Value Creator (A Career Path For Polymaths & Self-Improvers).md, 9:19, 2022-10-31
@@ -2322,5 +2322,815 @@
 - **nivel:** intermedio
 - **prerrequisitos:** U-011-161
 - **fuente:** Value Creation The Single Skill That Built My $1M Solo Business.md, 31:30–32:16, 2023-04-09
+- **tension:** ninguna
+
+# Fuente: Self Improvers Are Creating Their Own Careers (The New Economy).md (2023-04-16)
+
+## U-011-179
+- **tipo:** ejemplo
+- **titulo:** The default daily loop of 95% of the population (and the author's anti-vision)
+- **desarrollo:** The opening list: wake up, hit snooze four times, stare at your phone, roll out of bed, make coffee, sit in traffic, eight hours of unfulfilling work, traffic again, argue with your significant other, walk the pet, watch TV, pass out, repeat. "This should scare the [hell] out of you yet this is the state of 95 percent of the population," even those trying to escape daily. From 16 to 22 he did everything to avoid a 9-to-5, obsessed with building businesses and learning skills; "that was my anti-vision, it was the bane of my existence to have a nine to five job." When he did get a job, the list "became my default state of living; everything revolved around my work whether I wanted it to or not."
+- **ejemplos:** The daily loop list.
+- **cita:** "that was my anti-vision"
+- **terminos:** anti-vision; default state of living
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 0:00–0:55, 1:40, 2023-04-16
+- **tension:** ninguna
+
+## U-011-180
+- **tipo:** método
+- **titulo:** Decide through observation of societal patterns to become less mindless
+- **desarrollo:** Observe society and discern what daily actions lead to a good or bad life. At the grocery store, see what someone puts in their basket and realize "that's how you end up like this person" — "not in a judgmental way"; "you have to be able to make decisions through observation and then you become less mindless when you put things into your own cart. Do I want to end up like that? No, I want to end up like this." Caveat later: if you use observation of society only "to just reinforce what you've been told to do and then justify it," that's misuse.
+- **ejemplos:** Grocery basket observation.
+- **cita:** "you have to be able to make decisions through observation and then you become less mindless"
+- **terminos:** observation; discern; mindless
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 0:55, 5:26, 2023-04-16
+- **tension:** ninguna
+
+## U-011-181
+- **tipo:** principio
+- **titulo:** Work should revolve around your ideal lifestyle — if entrepreneurship compromises it, it isn't worth it
+- **desarrollo:** With a job, everything revolves around work. In entrepreneurship, "how I believe it should be is that work should revolve around your ideal lifestyle and anything that compromises that then entrepreneurship isn't worth it at that point."
+- **ejemplos:** ninguno
+- **cita:** "work should revolve around your ideal lifestyle"
+- **terminos:** ideal lifestyle
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-011-179
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 1:40, 2023-04-16
+- **tension:** ninguna
+
+## U-011-182
+- **tipo:** framework
+- **titulo:** Observations from 3–4 years of the creator journey (the video's theses)
+- **desarrollo:** (1) Entrepreneurship is the only path for long-term logical thinkers. (2) Humans have been removing labor work since the beginning of time and "we are on the horizon of complete removal." (3) The creator economy is the new economy: "if you don't have a personal brand you lose — like the Black Mirror episode Nosedive but in a good way." (4) "Sensible people get paid for doing what they enjoy doing" — "shout out Alan Watts for being way ahead of his time." (5) "The future belongs to the self-improver, the person that takes responsibility for their life and becomes a fountainhead of value, and when done in public it's almost impossible not to get paid."
+- **ejemplos:** Black Mirror "Nosedive."
+- **cita:** "the future belongs to the self-improver"
+- **terminos:** long-term logical thinkers; creator economy; self-improver; fountainhead of value
+- **origen:** propia; cita adaptada-de:Alan Watts
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 1:40–2:29, 2023-04-16
+- **tension:** ninguna
+
+## U-011-183
+- **tipo:** historia
+- **titulo:** A comment calling entrepreneurship overrated triggered his defenses — he turned it into a video
+- **desarrollo:** On a YouTube community post asking "what is one thing that you find overrated but most people love," the top comment said entrepreneurship: great if you have the skills, but "work is work"; "I'm sick of being told I'm a wage slave for choosing to work a nine to five; most of these entrepreneurs are really just unemployed." He calls it "very loaded, very assumptive," but understands the assumption from seeing people flex big numbers online. "This irked me at first... my defense systems immediately started going off," creating objections in his mind. He hates getting trapped in social comments "but our brain loves it." So he turned it into a video, questioning how people can't realize entrepreneurship is the only path to full control over lifestyle, which is "the only way to have full control over your enjoyment."
+- **ejemplos:** The YouTube comment.
+- **cita:** "my defense systems immediately started going off"
+- **terminos:** defense systems; full control over your lifestyle
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 2:29–3:53, 2023-04-16
+- **tension:** ninguna
+
+## U-011-184
+- **tipo:** argumento
+- **titulo:** Even the perfect gig isn't yours: you can't change it or leverage the intrinsic drivers
+- **desarrollo:** Humans have a unique ability to create — "the gift of God within us to create," which "feels amazing" — and creating for someone else with an assigned purpose differs; "so much scientific literature... about how the psyche is wired that all point to entrepreneurship" (no specific source given). It's increasingly hard to find the perfect gig, and "even the perfect gig isn't perfect": there'll be something you hate, and because it isn't yours you can't change it, nor leverage the intrinsic drivers that make life good: curiosity, passion, purpose, autonomy, mastery — "not extrinsic, not something being assigned to you."
+- **ejemplos:** ninguno
+- **cita:** "even the perfect gig isn't perfect"
+- **terminos:** intrinsic drivers; curiosity; passion; purpose; autonomy; mastery
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-011-010
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 3:53–4:41, 2023-04-16
+- **tension:** ninguna
+
+## U-011-185
+- **tipo:** argumento
+- **titulo:** Objection 1: "People hate what they don't understand" — you see <1% of a creator's life
+- **desarrollo:** Commenters haven't been entrepreneurs; they don't understand "the nuances of the brain that you pick up through daily experience." Online you see maybe 1% or less of someone's life ("you don't know me at all" despite the authenticity trend), or 5% of their business, and think it's enough to draw conclusions without experience. Observing society should correct your own actions, not reinforce what you've been told and justify it as "I chose to do this" when tied to money. "They think entrepreneurship is overrated because they aren't entrepreneurs."
+- **ejemplos:** ninguno
+- **cita:** "people hate what they don't understand"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-011-183
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 4:41–5:26, 2023-04-16
+- **tension:** ninguna
+
+## U-011-186
+- **tipo:** argumento
+- **titulo:** Objection 2: "wage slave" — if losing the job means you can't pay bills, you're by definition a modern slave
+- **desarrollo:** "Your feelings aren't reality: if you got let go and you could not pay the bills then you are by definition a modern slave." "Slave doesn't have to be good or bad": we agree past slavery was bad, but he argues "we will look back on the Industrial Age and realize that slavery was the norm and that is what AI is coming in to fix." Forced to work for survival, you lack choice; your choices align with unconscious and subconscious survival goals. Most are unconscious of what happens behind the scenes at their company (exploitation, paying pennies to third-world sweatshops — "a much worse form of slavery"); becoming conscious of this and continuing is "a terrible thing." Caveat: not all companies; but mega-corporations or chains like McDonald's serve "the worst food for health." You can't control this at the start — that's the self-actualization journey; helping create a better world makes life meaningful.
+- **ejemplos:** Sweatshops; McDonald's.
+- **cita:** "we will look back on the Industrial Age and realize that it slavery was the norm and that is what AI is coming in to fix"
+- **terminos:** modern slave; wage slave; survival goals
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-011-183
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 5:26–6:58, 2023-04-16
+- **tension:** ninguna
+
+## U-011-187
+- **tipo:** argumento
+- **titulo:** Objection 3: "What's wrong with offering my skills to corporations?" — freelance to them with no income cap
+- **desarrollo:** Nothing wrong, but why not develop skills fitting your unique interests and enjoyment, then reach out to big corporations as a freelancer with no income cap, possibly making 10x more? People prefer to apply for jobs using what the "social matrix" taught (school trains you for a job that pays the school to teach the curriculum). As a freelancer, treating yourself as a business, "you aren't a slave to productivity metrics," you control your lifestyle and can change anything. People who try entrepreneurship and dislike it don't realize "you get to create your own job; you don't have to do it like all other entrepreneurs do."
+- **ejemplos:** ninguno
+- **cita:** "you get to create your own job you don't have to do it like all other entrepreneurs do"
+- **terminos:** social matrix; treat yourself as a business
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-011-183
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 6:58–8:29, 2023-04-16
+- **tension:** ninguna
+
+## U-011-188
+- **tipo:** argumento
+- **titulo:** Objection 4: "Paying $50 to escape the matrix" — learning marketable skills cheaply is how it works; making money is a skill
+- **desarrollo:** A comment mocked "paying a man fifty dollars to escape the matrix." He replies "actually it is how it works, that's how I escaped the matrix." He's "not a fan of Tate or his views," hasn't bought the product, but assumes it teaches "time tested marketable skills," and for $50 that's better than $40,000 on a degree that can only make you so much. Learn "skills that allow you to play infinite games and make an infinite income." "Making money is a skill that can be practiced and cultivated but only through entrepreneurship": in a corporate job you're "being given the money," not making the transaction.
+- **ejemplos:** $50 course vs $40,000 degree.
+- **cita:** "making money is a skill that can be practiced and cultivated but only through entrepreneurship"
+- **terminos:** escape the matrix; infinite games; making money is a skill
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-011-183
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 8:29–9:12, 2023-04-16
+- **tension:** ninguna
+
+## U-011-189
+- **tipo:** argumento
+- **titulo:** Entrepreneurs don't go back to a 9-to-5; the "busy entrepreneur" stigma is false (he works ~4 hours a day)
+- **desarrollo:** "I've never seen an entrepreneur go back to a nine to five; I've only seen nine to fivers leave to become an entrepreneur." On "you're busy all the time": "no you aren't"; he works about four hours a day, sometimes more or less (ref. his video "the four hour workday"); you control your lifestyle and can work as much as you want if you build the things that allow it.
+- **ejemplos:** His four-hour workday.
+- **cita:** "I've never seen an entrepreneur go back to a nine to five"
+- **terminos:** four hour workday
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-011-183
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 9:12–9:54, 2023-04-16
+- **tension:** ninguna
+
+## U-011-190
+- **tipo:** argumento
+- **titulo:** The psychology of entrepreneurship: ancestors as metaphorical entrepreneurs; business as the vessel for purpose
+- **desarrollo:** "We have the psyche of our ancestors"; the external world changed but ancestors were "metaphorically entrepreneurs": entrepreneurship is a new form of contributing to a community, providing value in exchange for value. In tribes each had a specific value skill (cooking, cleaning, childcare) serving the community. "If you're just doing the same repetitive task day in day out then life loses its weight; you have to have purpose, and entrepreneurship and modern business is the vessel for purpose."
+- **ejemplos:** Tribal roles: cooking, cleaning, childcare.
+- **cita:** "entrepreneurship and modern business is the vessel for purpose"
+- **terminos:** vessel for purpose; psyche of our ancestors
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-011-009
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 9:54–10:43, 2023-04-16
+- **tension:** ninguna
+
+## U-011-191
+- **tipo:** dato
+- **titulo:** Work consumes about 25% of your life
+- **desarrollo:** "Work consumes about 25 percent of your life if you do the math." Would you rather spend it making discoveries in the unknown with meaning, or predictable sameness — traveling only briefly because you must go back, things out of your control?
+- **ejemplos:** ninguno
+- **cita:** ninguna
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 10:43, 2023-04-16
+- **tension:** In U-011-003 (2022) he says working 8 hours/day leaves only ~30% of life on your own terms (70% not yours); different framings of the share of life consumed by work.
+
+## U-011-192
+- **tipo:** fuente-de-tercero
+- **titulo:** Zero HP Lovecraft: the real AI singularity is a gradual erosion of human labor
+- **desarrollo:** A tweet from Zero HP Lovecraft (whom he finds interesting but hasn't followed): the real AI singularity, if it happens, won't look like a sci-fi doomsday; the real (probably inevitable) way is "a gradual erosion of human labor."
+- **ejemplos:** ninguno
+- **cita:** "a gradual erosion of human labor"
+- **terminos:** AI singularity
+- **origen:** de-tercero:Zero HP Lovecraft
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 10:43–11:30, 2023-04-16
+- **tension:** ninguna
+
+## U-011-193
+- **tipo:** fuente-de-tercero
+- **titulo:** Aristotle and the ancient Greeks: work as a means to leisure, creativity and contemplation
+- **desarrollo:** He starts with "predictions from the past": Aristotle condemned manual labor as harmful to body and soul; the ancient Greeks saw work as necessary but only as a means to leisure, creativity and contemplation, considered key to happiness. They needed the contrast: leisure can't exist without work; it holds no meaning. Author's adaptation: manual/labor work isn't inherently bad ("it's all subjective... based on a specific perspective"), but if you're "manually robotically animalistically completing tasks" day after day, you aren't human for that portion of life — "you're a robot... if you are a robot you're going to be replaced by robots."
+- **ejemplos:** ninguno
+- **cita:** "if you are a robot you're going to be replaced by robots"
+- **terminos:** leisure; contemplation; robot
+- **origen:** adaptada-de:Aristotle; adaptada-de:ancient Greeks
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 11:30–12:18, 2023-04-16
+- **tension:** ninguna
+
+## U-011-194
+- **tipo:** argumento
+- **titulo:** Decline in labor work = incline in creative and knowledge work; AI forces people to be human (preferred over UBI)
+- **desarrollo:** He "only see[s] good" in automation and AI: "a decline in labor work means an incline in creative and knowledge work for people that choose to continue working." Perspectives like universal basic income suggest people will naturally self-actualize — "either they'll have more time to self-actualize or they'll have more time to destroy their lives." People who want control can leverage this moment. He prefers "the AI route" over UBI "because it forces people to get creative if they want to survive; it forces people to be human."
+- **ejemplos:** ninguno
+- **cita:** "it forces people to get creative if they want to survive it forces people to be human"
+- **terminos:** creative and knowledge work; UBI
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-011-193
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 12:18–13:07, 2023-04-16
+- **tension:** ninguna
+
+## U-011-195
+- **tipo:** fuente-de-tercero
+- **titulo:** Terence McKenna: "thought can only go as far as the language that paves the road"
+- **desarrollo:** From McKenna: thought can only go as far as the language that paves the road. Author's application: to expand the limits of our mind and the collective mind/our potential as a species, we must create knowledge, ideas and beliefs that permeate culture and influence language, so collective thought can expand and exponential progress be made. "The future of work... belongs to the creative: the writers, the speakers, the designers, the creators" — those we thought AI would replace; instead AI will be a tool helping them push boundaries.
+- **ejemplos:** ninguno
+- **cita:** "thought can only go as far as the language that paves the road"
+- **terminos:** collective mind; language
+- **origen:** adaptada-de:Terence McKenna
+- **nivel:** avanzado
+- **prerrequisitos:** ninguno
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 13:07, 2023-04-16
+- **tension:** ninguna
+
+## U-011-196
+- **tipo:** concepto
+- **titulo:** Proper rest (not Netflix binges) primes the mind for novel ideas via the default mode network
+- **desarrollo:** Work is necessary, "but rest and proper rest is going to become even more important"; rest, leisure and contemplation "are of utmost importance" because of the DMN — "a series of interconnected sections that activate as soon as people stop concentrating on external tasks and shift from outward focus to inward focused cognition. In short the brain is more active when you are not working." Proper rest isn't "stuffing your face with ice cream, chugging a bottle of wine and binge watching Netflix" but going to the gym, walks, reading, contemplating, visualizing, thinking, getting creative, journaling, brain dumping — priming the mind for novel ideas that let new language, beliefs, ideas and thoughts pave the road of thought. Via the internet, collective knowledge and capacity for development increase. Practical upshot: you can pursue meaningful work that unlocks "the parts of the brain that modern society has neglected."
+- **ejemplos:** Proper vs improper rest lists.
+- **cita:** "the brain is more active when you are not working"
+- **terminos:** default mode network; DMN; proper rest; brain dumping
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-011-195
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 13:07–14:43, 2023-04-16
+- **tension:** ninguna
+
+## U-011-197
+- **tipo:** argumento
+- **titulo:** Theory: everyone will be creators; a personal brand is "you embodied," a public school in both directions
+- **desarrollo:** His theory: everyone will be creators, freelancers, remote workers — "mostly creators"; a personal brand gives a leg up. Objection "I'm not experienced enough": "yes you are, it's you embodied, it's an extension of yourself displayed on the internet," improving and providing value along the way. It is a public resume for job work and "a public school" in two senses: one where you learn from others and one where you teach so others learn from you. "It is like a progressive actualization hierarchy and everyone can evolve beyond."
+- **ejemplos:** ninguno
+- **cita:** "it's you embodied it's an extension of yourself displayed on the internet"
+- **terminos:** personal brand; public resume; public school; progressive actualization hierarchy
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 14:43–15:33, 2023-04-16
+- **tension:** ninguna
+
+## U-011-198
+- **tipo:** argumento
+- **titulo:** Social media is a reflection of yourself: your attention conditions the algorithm and your brain
+- **desarrollo:** People say social media is toxic and we'd be better without it — "yes in some cases, it's all relative" — but they don't realize "social media is a reflection of yourself because the algorithm gives you what you want to see." By giving attention, falling into negativity bias and enjoying toxicity, you condition the algorithm and therefore your brain into an echo chamber of toxicity. His feed isn't toxic: he learns and gets new ideas daily. If you don't like something: scroll past, block, unfollow. Humans are social creatures and social media removes barriers of socialization through media.
+- **ejemplos:** His own feed.
+- **cita:** "social media is a reflection of yourself because the algorithm gives you what you want to see"
+- **terminos:** negativity bias; echo chamber
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 15:33–17:04, 2023-04-16
+- **tension:** ninguna
+
+## U-011-199
+- **tipo:** concepto
+- **titulo:** Media forms the social fabric; you are media; your business is a one-person media company
+- **desarrollo:** Media is the front end of the internet, code the back end (ref. his "one million dollar skill stack" video). Media includes video, writing and their forms; you must understand media to make any income. "You could consider yourself media... your business online a one-person media company." Media is how we learn, get new information, communicate business value; it consumes much of our lives and "forms a large amount of the social fabric that we operate on as a civilization."
+- **ejemplos:** ninguno
+- **cita:** "you could consider your business online a one-person media company"
+- **terminos:** media; code; one-person media company; social fabric
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-011-022
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 17:04–17:52, 2023-04-16
+- **tension:** ninguna
+
+## U-011-200
+- **tipo:** heurística
+- **titulo:** Expect a year of executing to see decent results
+- **desarrollo:** Promoting Digital Economics, he says someone told him they'd have to go through it repeatedly while executing for a year. "Business takes time": "a year of going through and executing on a course I believe is invaluable; of course it can take less time but expect a year to see some decent results and to make some decent money."
+- **ejemplos:** ninguno
+- **cita:** "expect a year to see some decent results"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 17:52–18:36, 2023-04-16
+- **tension:** ninguna
+
+## U-011-201
+- **tipo:** fuente-de-tercero
+- **titulo:** Matt Mike's three layers of social media value: platforms → apps → creators
+- **desarrollo:** A Twitter thread by Matt Mike added new perspective to his theory. Three layers by value created (income and audience): (1) Platforms — first form of digital media, e.g., the phone; Google and Apple rule; trillions of dollars, billions of users. (2) Apps — Twitter, Instagram, TikTok, YouTube; captured the same order of value. (3) Creators — the layer most people miss because they're sucked into apps; huge creators (Rogan, MrBeast) are predicted to generate trillions and have billions of followers, becoming media companies with insane leverage. Smaller ones don't need that: "you need a million dollars a year and maybe 200,000 followers." "Creators are atomizing what the social networks did by capturing mass attention, forming communities, distributing media and generating revenue."
+- **ejemplos:** Joe Rogan; MrBeast; $1M/year with 200K followers.
+- **cita:** "creators are atomizing what the social networks did"
+- **terminos:** three layers; platforms; apps; creator layer; atomizing
+- **origen:** de-tercero:Matt Mike (Twitter thread), con adaptación del autor
+- **nivel:** intermedio
+- **prerrequisitos:** U-011-197
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 14:43, 18:36–19:32, 2023-04-16
+- **tension:** ninguna
+
+## U-011-202
+- **tipo:** argumento
+- **titulo:** Human nature wants human: AI takes over what humans don't want to do; creators remain
+- **desarrollo:** Given AI's exponential growth, "it's human nature to want human"; however human a robot is, it's seen through a human lens. He could make his account all AI if perfect, but doesn't want to. Jim Claire's tweet: AI bros say "you can automate all of your writing" — "what if I want to write?" Same with videos: "I want to create, it's fun, it feels good." "AI is naturally going to shift to take over the things that humans don't want to do"; the need for human remains; creators/personal brands will be the next media layer generating the most value.
+- **ejemplos:** Jim Claire tweet.
+- **cita:** "it's human nature to want human"
+- **terminos:** ninguno
+- **origen:** propia; ejemplo de-tercero:Jim Claire
+- **nivel:** intermedio
+- **prerrequisitos:** U-011-201
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 19:32–20:27, 2023-04-16
+- **tension:** ninguna
+
+## U-011-203
+- **tipo:** definición
+- **titulo:** Creators: people who educate, entertain and inspire in the crevices of reality they explore by curiosity
+- **desarrollo:** He first found "creator" cringe, but tied it to "I am a creator, God is a creator" (not saying he's God) — "you have the gift of creation." "Creators are people that educate entertain and inspire in the crevices of reality that they choose to explore by their own curiosity." "Unless we rewrite the collective, which hasn't changed for centuries," this won't change; robots have a place in increasing creativity and decreasing labor.
+- **ejemplos:** ninguno
+- **cita:** "creators are people that educate entertain and Inspire in the crevices of reality that they choose to explore by their own curiosity"
+- **terminos:** creator; crevices of reality; gift of creation
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 20:27–21:07, 2023-04-16
+- **tension:** ninguna
+
+## U-011-204
+- **tipo:** principio
+- **titulo:** Business, being a creator and personal brand are extensions of the self and vessels for purpose
+- **desarrollo:** "My philosophy is the same: business is an extension of the self, being a creator is an extension of the self, personal brand same thing; it is a vessel for your purpose," because purpose means being part of something greater, contributing (e.g., to a community by providing value in exchange for value). Those not living with purpose aren't contributing to something greater. "Your purpose evolves from superficial to metaphysical as you solve the superficial shallow problems in your life," and business reflects that.
+- **ejemplos:** ninguno
+- **cita:** "your purpose evolves from superficial to metaphysical as you solve The Superficial shallow problems in your life"
+- **terminos:** extension of the self; vessel for your purpose; superficial to metaphysical
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-011-190
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 21:07–22:00, 2023-04-16
+- **tension:** ninguna
+
+## U-011-205
+- **tipo:** principio
+- **titulo:** Personal development solves your problems; business solves others' — collapse them: you are the niche
+- **desarrollo:** "Personal development is about solving your own problems; business is about solving other people's problems." Collapse them into one: solve your own problems, document the process online, ask for money in return by creating a product, system or implementation — "it all works itself out. You are the niche" (ref. his video "the most profitable niche is you"). Pattern: the eternal markets (health, wealth, relationships, "happiness optional"). Sequence suggested: fix your health (get fit), then money problems, then relationship issues, then mindset and mental health; then self-reflect ("what did I do?"), piece it into step-by-step advice with an overarching theory or philosophy, package and distribute via the right modality: course, email course, e-book, physical product.
+- **ejemplos:** ver U-011-206
+- **cita:** "you are the niche"
+- **terminos:** you are the niche; eternal markets; modality
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-011-204
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 22:00–22:48, 2023-04-16
+- **tension:** ninguna
+
+## U-011-206
+- **tipo:** ejemplo
+- **titulo:** Product ideas from personal meaning: a journal with your prompts, a planner, a cotton clothing brand
+- **desarrollo:** If journaling gave him peace, create his own journal with his own prompts; a physical planner; the clothes he likes — is there meaning behind them, e.g., cotton shirts without microplastics, and a cotton brand around a philosophy meaningful to him? "Self-improvers are creating their own career paths simply, it's just baked into it": you solve your own problems; "human behavior revolves around problems; people pay to have their problems solved," so "by improving yourself you set yourself up for massive financial success."
+- **ejemplos:** Journal, planner, cotton clothing brand.
+- **cita:** "by improving yourself you set yourself up for massive financial success"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-011-205
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 22:48–23:36, 2023-04-16
+- **tension:** ninguna
+
+## U-011-207
+- **tipo:** heurística
+- **titulo:** "Say one thing a thousand different ways": audiences want the same tracks (Clark Kegley conversation)
+- **desarrollo:** Over coffee with YouTuber Clark Kegley he realized he should lean more into the one-person business and lifestyle design. Like your favorite artist — when a punk artist goes pop "you're like I hate this, I want to hear these songs" — "you just say one thing a thousand different ways in the creator economy and when people change that's when they die." Repeating the same thing "conditions your mind to see success in that domain."
+- **ejemplos:** Punk artist going pop.
+- **cita:** "you just say one thing a thousand different ways in the Creator economy"
+- **terminos:** say one thing a thousand different ways
+- **origen:** propia (surgida de conversación con Clark Kegley)
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 23:36–24:23, 2023-04-16
+- **tension:** ninguna
+
+## U-011-208
+- **tipo:** proceso
+- **titulo:** Monetization sequence: service business → cohort → course → build whatever you want
+- **desarrollo:** (1) Service business (freelance, consulting, coaching, tutoring): starting without a following, you have labor and time; do direct outreach, charge a higher price to sustain income without banking on a nonexistent audience; deliver dedicated one-on-one results; "with a service you only need like two to three clients to make a pretty decent income instead of like 100, 200, 300 course sales." Refine the system from one-on-one work. (2) Cohort (his favorite): still a higher price since you're involved; create a curriculum with weekly calls; group coaching at ~$500, $1,000, $1,500 for about eight weeks. (3) Course: you already have curriculum, results and testimonials; "a year later you have fifty thousand, a hundred thousand followers," more income with less work. (4) Build whatever you want: now you have leverage, experience and resources — no "shiny object syndrome for 10 years." His plans: a "Modern Mastery gym" in a year or two; he's considered a focus supplement and a recovery supplement (make a productivity video, plug the supplement). "That's what business is: you provide something that makes people happy and they give you money; people that don't like sales don't like making other people happy."
+- **ejemplos:** 2–3 clients vs 100–300 course sales; 8-week cohort at $500–$1,500; Modern Mastery gym; focus supplement.
+- **cita:** "people that don't like sales don't like making other people happy"
+- **terminos:** service business; cohort; course; build whatever you want; shiny object syndrome
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-011-205
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 24:23–27:48, 2023-04-16
+- **tension:** ninguna
+
+## U-011-209
+- **tipo:** principio
+- **titulo:** Closing formula: solve your own problems, document the solution, get paid (eternal markets are evergreen)
+- **desarrollo:** "The future is bright for the people that take responsibility for their lives." Reiterated: the eternal markets in business are health, wealth, relationships and happiness — where all "burning evergreen problems" exist that people will face until the end of time. "Solve your own problems, document the solution, get paid."
+- **ejemplos:** ninguno
+- **cita:** "solve your own problems document the solution get paid"
+- **terminos:** eternal markets; burning evergreen problems
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-011-205
+- **fuente:** Self Improvers Are Creating Their Own Careers (The New Economy).md, 27:08–27:48, 2023-04-16
+- **tension:** ninguna
+
+# Fuente: The Value Creator (A New Internet Career Path For Intelligent People).md (2023-07-19)
+
+## U-011-210
+- **tipo:** argumento
+- **titulo:** Social media is a necessity of modern life: everyone hires and buys based on it
+- **desarrollo:** Employers, creators, brands and clients hire based on your social media; customers buy based on it. "Social media is a necessity of modern life; it is virtual reality, it is a digital society, it is the new economy." "Without a public resume you close yourself off to global opportunities." Most still see it as just an app, yet spend too much of life scrolling instead of building their future. Once you see it for what it is: learn skills schools can't teach, make friends doing bigger things than local ones, make money not capped by a salary. "You are in the middle of the digital renaissance; take advantage of it."
+- **ejemplos:** ninguno
+- **cita:** "without a public resume you close yourself off to Global opportunities"
+- **terminos:** public resume; digital society; digital renaissance; new economy
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 0:00–0:48, 2023-07-19
+- **tension:** ninguna
+
+## U-011-211
+- **tipo:** proceso
+- **titulo:** The author's book-filtering process: summary app → audiobook → physical copy
+- **desarrollo:** He reads short-form summaries (the Shortform app, an affiliate link) to get a book's big ideas; if he likes them he listens via audiobook; if he likes that, he orders it "so I can put it on my bookshelf and never touch it again" (said jokingly).
+- **ejemplos:** Shortform summary of The Sovereign Individual.
+- **cita:** ninguna
+- **terminos:** big ideas
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 0:48, 2023-07-19
+- **tension:** ninguna
+
+## U-011-212
+- **tipo:** fuente-de-tercero
+- **titulo:** The Sovereign Individual: nations fragment into city-states and individual estates; society shapes itself around how people earn
+- **desarrollo:** Central argument (as he summarizes it): nations will fragment into millions of city-states and even individual estates with sovereign status, as information technology makes resources available to more people, changing society's political and economic structure. "How people make the most money impacts the evolution of society": society shapes itself around those jobs/businesses; a new way of earning or making businesses more profitable makes society adapt to increase wealth. Author's mapping: the creator economy is composed of brands (city-states) and creators (the individual estates that maintain their own sovereignty). He says the book predicted what he'd been preaching for a year, a conclusion he reached by pursuing his own goals.
+- **ejemplos:** Brands = city-states; creators = individual estates.
+- **cita:** "how people make the most money impacts the evolution of society"
+- **terminos:** sovereign individual; city-states; individual estates
+- **origen:** adaptada-de:The Sovereign Individual (book; the author does not name its writers)
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 0:48–1:32, 4:21, 2023-07-19
+- **tension:** ninguna
+
+## U-011-213
+- **tipo:** argumento
+- **titulo:** "The future of work is play": the one-person business can make $1–5M with 90–95% margins
+- **desarrollo:** His conclusion: "the future of work is play"; individuals can grow a one-person business with new technologies, potentially $1–5M+ (a few passed $5M). It's new because technology (automation, systems) lets it scale; "nobody's really pushed the boundary past five, ten million as one person" — maybe with a small team or contractors, which he still counts as one-person since they're not employees. Most such businesses maintain 90–95% profit margins, sometimes higher or lower. Society is changing to reflect this: creators, influencer marketing are prominent because the model is so profitable; opportunities are created there while other jobs are automated.
+- **ejemplos:** ninguno
+- **cita:** "the future of work is play"
+- **terminos:** future of work is play; one-person business model; profit margins
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-011-212
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 1:32–3:04, 2023-07-19
+- **tension:** ninguna
+
+## U-011-214
+- **tipo:** principio
+- **titulo:** Everyone is an entrepreneur — some just choose to get paid; social media is the new society, personal brands its people
+- **desarrollo:** "Everyone is an entrepreneur because they have value to provide to someone else; some just choose to get paid for it." "Social media is the new society and personal brands are the people of that society." Young people saying they want to be YouTubers isn't bad: "people feel the natural pull to do what they enjoy," and there will be a way for most to do this. "That's what evolution is all about": solving problems that make life bad until we can do what we want. Not everyone will be a YouTuber, but people will work in the creator economy, as the face or freelancing for creators with autonomy.
+- **ejemplos:** Kids wanting to be YouTubers.
+- **cita:** "everyone is an entrepreneur because they have value to provide to someone else some just choose to get paid for it"
+- **terminos:** personal brands; new society
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-011-213
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 3:04–4:21, 2023-07-19
+- **tension:** ninguna
+
+## U-011-215
+- **tipo:** argumento
+- **titulo:** Education is the first step of value creation; the school system is a system that survives and trains you for the old economy
+- **desarrollo:** "Education is the first step in value creation": without education or skills you have nothing worth packaging and distributing. Conventional education won't cut it: the school system "is a system," with an end goal (go to school, get a job), variables, a path and a starting point; it's "intimately tied with government, politics and the economy, the old economy," so you won't find education that threatens it, "because systems survive just like humans do" (like we survive the concept of ourselves); if it breaks down, its members fight to keep it together. To make it in the new economy, educate yourself from the people who created it: courses, coaching, content from the brands and creators who created those jobs. The school system "aren't creators... they don't have the right to teach you that," even with a curriculum, because they haven't done it.
+- **ejemplos:** ninguno
+- **cita:** "systems survive just like humans do"
+- **terminos:** system; old economy; new economy
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 4:21–6:30, 2023-07-19
+- **tension:** ninguna
+
+## U-011-216
+- **tipo:** heurística
+- **titulo:** "If a boomer tells you to get a real job you're on the right track" — every great idea started as blasphemy
+- **desarrollo:** New jobs are created "left and right," and "you know you're on the right track if a boomer tells you to get a real job because every great idea started as blasphemy until it became normal." To prove it, look up projections for online education or the creator economy.
+- **ejemplos:** ninguno
+- **cita:** "every great idea started as blasphemy until it became normal"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** U-011-215
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 6:30, 2023-07-19
+- **tension:** ninguna
+
+## U-011-217
+- **tipo:** proceso
+- **titulo:** Lifelong self-education protocol: set a goal, find creators, drown in their information, act on opportunities
+- **desarrollo:** "Lifelong self-education will be a requirement to continue adapting to the digital landscape." "Education shapes the future because it shapes human behavior"; it "expands your perspective and allows you to spot opportunities in unknown territory." "The new education system is being built online before your eyes." Steps: set a goal; find creators you resonate with; drown yourself in their information; watch new opportunities register in your awareness; act on them "like your life depends on it."
+- **ejemplos:** ninguno
+- **cita:** "the new education system is being built online before your eyes"
+- **terminos:** lifelong self-education
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-011-215
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 6:30–7:16, 2023-07-19
+- **tension:** ninguna
+
+## U-011-218
+- **tipo:** concepto
+- **titulo:** Value creators revisited: "one man's labor cannot scale but their creative ability can"; brand pillars
+- **desarrollo:** Remaking his value creator video from 8–9 months earlier (with some repetition). Value creators earn with their mind not their time — "one man's labor cannot scale but their creative ability can" — research obsessions and distill learnings in content, get paid for aggregated knowledge (everyone should have a digital product), focus on educating. Nuance: memes or "[s***]posts" are fine — "you're supposed to entertain, you're supposed to be yourself" — but "you need different pillars of your brand"; you can't be only a meme account and expect to be valuable and paid; you must help people get results, through education.
+- **ejemplos:** ninguno
+- **cita:** "one man's labor cannot scale but their creative ability can"
+- **terminos:** value creator; pillars of your brand
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-011-088
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 7:16–7:57, 2023-07-19
+- **tension:** Matiza U-011-088 (2022), which contrasted education with "posting memes"; here memes are acceptable as one pillar among others.
+
+## U-011-219
+- **tipo:** framework
+- **titulo:** The value creator business model: content + distribution under your name → education product for your past self → build whatever you're passionate about
+- **desarrollo:** Create social media content and build distribution beneath your name as a person; then build an education product or service your past self could have used — course, coaching, tutoring offer, or a tool (e.g., if he struggled with productivity and is now productive, a planner; he's making Power Planner 2.0 for The Art of Focus book launch keepsake edition). When you reach your target income ($100K/year up to $3–5M/year "with a lot of time"), build whatever else you're passionate about. Not "don't start the company of your dreams," but "build leverage and actually start making some form of good money first," invest in the bigger thing, and use your personal brand to fuel it.
+- **ejemplos:** Power Planner 2.0; The Art of Focus.
+- **cita:** "build leverage and actually start making some form of good money first"
+- **terminos:** distribution; past self; leverage
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-011-218
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 7:57–9:20, 2023-07-19
+- **tension:** ninguna
+
+## U-011-220
+- **tipo:** caso
+- **titulo:** Sahil Bloom: personal brands as "the ultimate business hack"
+- **desarrollo:** His friend Sahil Bloom (transcribed "saw heal Bloom"; name reconstruction) posted that personal brands are the ultimate business hack: having built multiple businesses, now when he builds one he already knows it will succeed because many people are already going to be customers. Author's explanation: with an audience you know what they want and create something valuable for them. "It's not like you're just milking your audience for money by scamming them": they pay because they want it; people with "a bad psychological relationship with money always get this twisted."
+- **ejemplos:** Sahil Bloom.
+- **cita:** "personal brands are the ultimate business hack"
+- **terminos:** personal brand
+- **origen:** de-tercero:Sahil Bloom
+- **nivel:** intermedio
+- **prerrequisitos:** U-011-219
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 9:20–10:03, 2023-07-19
+- **tension:** ninguna
+
+## U-011-221
+- **tipo:** opinión
+- **titulo:** Why he prefers the education model: an online education system where learners choose their creators instead of becoming cogs
+- **desarrollo:** He likes the education model best because you tap into your individual experience, help people live better lives with your products, and "actively create an education system online that new people can join," choosing the creators they learn best from "rather than all going through the same education system and turning into cogs in the machine."
+- **ejemplos:** ninguno
+- **cita:** "rather than all going through the same education system and turning into cogs in the machine"
+- **terminos:** education model; cogs in the machine
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-011-219
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 10:03–10:44, 2023-07-19
+- **tension:** ninguna
+
+## U-011-222
+- **tipo:** metáfora
+- **titulo:** "Creators are DJs with ideas"
+- **desarrollo:** DJs play sets, mix synths and sounds, remix things — pull many things and turn them into something new. Technology let DJs (especially electronic music) manipulate and piece sounds together seamlessly, which physical instruments couldn't, springing up new genres (EDM). He values classical music but finds it silly to deny electronic music's creativity and evolution, a pattern you can note in every industry. In the creator economy people talk about new topics in education, "creating this tree of content for people to explore; we're documenting the collective consciousness online." "With software and skill DJs can blend together sounds into songs and with software and skill creators can blend together ideas into content": they collect their own ideas, others' and remixes of favorites, weave them with the evergreen skills (writing, speaking, marketing, sales); over time they attract an audience that invests attention in those ideas, and with that attention benefit humanity and earn doing what they enjoy.
+- **ejemplos:** DJs, EDM genres, classical music.
+- **cita:** "with software and skill creators can blend together ideas into content"
+- **terminos:** DJs with ideas; remix; tree of content; collective consciousness; evergreen skills
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-011-140
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 10:44–12:20, 2023-07-19
+- **tension:** ninguna
+
+## U-011-223
+- **tipo:** advertencia
+- **titulo:** Creative boundary: audiences want the same sound — don't fear repetition; find an angle and milk it
+- **desarrollo:** Mistake: creators change their sound. He likes heavy dubstep (Excision and lesser-known artists): if Excision switched exclusively to drum and bass, or to country, he'd lose ~90% of his audience — "you have a creative boundary to operate within based on who you are." Creators are afraid of repeating themselves "when repetition and conditioning is what actually changes people's lives." He makes many one-person business videos because the concept is powerful and one video didn't articulate everything — stopping there would be "blue balling people." Programming can be good or bad: "you can be programmed into a life that you hate or programmed into a life that you want." "Your job as a creator is to find an angle that resonates with people and milk it for eternity with your creative ability" — he weaves philosophy, spirituality, metaphysics, self-improvement into all videos and finds a way to include business.
+- **ejemplos:** Excision switching genres; his repeated one-person business videos.
+- **cita:** "repetition and conditioning is what actually changes people's lives"
+- **terminos:** creative boundary; repetition; conditioning; programming; angle
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-011-222
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 12:20–13:46, 2023-07-19
+- **tension:** Coherente con U-011-207 ("say one thing a thousand different ways").
+
+## U-011-224
+- **tipo:** argumento
+- **titulo:** The number one reason value creators fail: fear of not being unique — luck goes from 0% to 1% only on the market
+- **desarrollo:** "The number one reason people fail as value creators is that they're just afraid to put themselves on the market because they don't think that they're unique." Counter: how many pairs of shoes do you have, books on the same topic, artists in the same genre? "Write what you would want to read, sell a product you would want to buy, make the videos you would want to watch, put your variation of what people want on the market because only then does your luck increase from zero to one percent." Many dubstep artists succeed within one genre.
+- **ejemplos:** Shoes, books, dubstep artists.
+- **cita:** "put your variation of what people want on the market because only then does your luck increase from zero to one percent"
+- **terminos:** variation; luck
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 13:46–14:27, 2023-07-19
+- **tension:** ninguna
+
+## U-011-225
+- **tipo:** término-acuñado
+- **titulo:** "Mental blacksmith": mine ore (ideas) from a crevice of reality, smelt it into armor and weapons
+- **desarrollo:** Start your journey "by becoming a mental blacksmith." In a video game, blacksmiths mine ore to fuel creations, smelt it, and turn it into armor or weapons. Creators mine a crevice of reality they're interested in (keeping the holistic aspect — interested in health, probably also business), consume information of interest and extract lessons or ideas to turn into something new. Armor = "the perspective or worldview that helps people navigate reality in a better way," like a book bringing awareness to a potential you didn't know existed — ideas, motivation, inspiration toward goals, shaping perspective and identity. Weapons = "tools for battle," actual advice teaching how to do things and encouraging action — actionable steps, solutions; crafted with writing, speaking, marketing, sales (ref. his "one million dollar skill stack"); "marketing is perception but value is perception."
+- **ejemplos:** Video game blacksmith; a life-changing book as armor.
+- **cita:** "armor is the perspective or worldview that helps people navigate reality in a better way"
+- **terminos:** mental blacksmith; ore; armor; weapons; crevice of reality
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-011-087
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 14:27–15:13, 18:40–20:06, 2023-07-19
+- **tension:** ninguna
+
+## U-011-226
+- **tipo:** método
+- **titulo:** Step 1: create a lens — your vision, goals and problems shape what you extract from information
+- **desarrollo:** Graphic of your perception/lens (layout reconstructed from narration): at the bottom you consume information; your vision, goals and problems shape how you perceive; you extract parts to create. Example: if money is a top-of-mind, stressful problem, whatever book you read (spirituality, academic writing, anything), a sentence will resonate with the money problem, and you can reframe it for an audience trying to make money. Someone else extracts a completely different lesson/highlight depending on their goal, problem or vision. So "you need to build a project or have a goal or have a vision for your future" because "leaders attract followers." "This is your niche and brand; it is how you frame everything you read and write." Value helps people overcome problems or achieve goals; your brand attracts people with a shared goal or vision.
+- **ejemplos:** Money problem filtering any book.
+- **cita:** "leaders attract followers"
+- **terminos:** lens; perception; shared goals; niche and brand
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-011-225
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 15:13–17:16, 2023-07-19
+- **tension:** ninguna
+
+## U-011-227
+- **tipo:** método
+- **titulo:** Step 2: pursue curiosity and collect material — research, don't consume; note what raises dopamine
+- **desarrollo:** "Don't consume, research": the best creators consume "from the lens of wanting to learn and apply," not entertainment; "this perception shift alone will turn you into an idea generation machine." Read with the lens of turning it into your own — "looking for creative firepower." "Fall back in love with learning outside of the traditional education system that made you hate it": books, podcasts, blog posts, newsletters aligned with your goals. Use a notebook app or idea development system (his free "Seven Days to Genius Ideas") — "no you won't remember them; this step is absolutely critical." Note ideas that raise dopamine, rivet attention, change perspective, bring clarity; contemplate their angles and how they apply to your vision, goals, problems. "You're not writing about topics, you're helping people overcome problems in their life towards their goals"; if a spiritual idea helped you build a business, it'll help someone else.
+- **ejemplos:** A spiritual idea helping business.
+- **cita:** "don't consume research"
+- **terminos:** idea generation machine; creative firepower; idea development system
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-011-226
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 17:16–18:40, 2023-07-19
+- **tension:** ninguna
+
+## U-011-228
+- **tipo:** opinión
+- **titulo:** Against niching down: "reality is not niched down, you are not niched down"
+- **desarrollo:** He's "not huge on picking one niche and sticking with it and hammering it out" because you miss out on much of life and on how you can serve your audience. "Reality is not niche down, you are not niched down" (ref. his video "Niche down is stupid/terrible advice for smart people"). The ideas you collect shape your worldview, perspective and identity ("oh I'm a writer, I'm a value creator"), changing how you act.
+- **ejemplos:** ninguno
+- **cita:** "reality is not Niche down you are not niched down"
+- **terminos:** niche down
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-011-227
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 18:40–19:20, 2023-07-19
+- **tension:** Matiza su propio consejo de "target a profitable niche" (U-011-139) y "you are the niche" (U-011-205): rechaza el nicho estrecho por tema, no el nicho como persona.
+
+## U-011-229
+- **tipo:** advertencia
+- **titulo:** Building on looks is unsustainable: the fitness industry grows unhealthy because income depends on looks
+- **desarrollo:** "We are shifting away from shallow promises and good looks as a way of building an audience: it's less about 'look at me' and more about 'look at you, here's what you can do.'" In fitness (he's deep in it in his free time and podcasts), creators without a way of educating bank on the algorithm, AdSense, or coaching sold on looks rather than persuasive ability; he's heard many times that when they gain weight to a healthy body-fat percentage and feel better, their income drops a lot, so they must get shredded again and be unhealthy to make money. Those who educate, write and create information products make more and sustainably. Same for visuals and art without philosophy, depth or education — his own problem as a digital artist: he sold art without teaching how he did it.
+- **ejemplos:** Fitness creators getting shredded for income; his digital art.
+- **cita:** "it's less about oh look at me and more about look at you here's what you can do"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-011-218
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 20:06–21:32, 2023-07-19
+- **tension:** ninguna
+
+## U-011-230
+- **tipo:** argumento
+- **titulo:** Limiting belief 1: you can build an audience — everyone follows 300–1,000 people; a $2,000 service needs no audience
+- **desarrollo:** Every person on social media follows 300 to 1,000 people, even creators — "more than enough to make a full-time income if you know what you're doing," because "your audience is not just your audience" (network effect). You don't need to sell a $100 digital product: "you can sell a service for two thousand dollars and you don't even need an audience to do that," but your profile must show you know your stuff. There are enough growth strategies.
+- **ejemplos:** $2,000 service.
+- **cita:** "your audience is not just your audience"
+- **terminos:** network effect
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-011-029
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 21:32–22:09, 2023-07-19
+- **tension:** ninguna
+
+## U-011-231
+- **tipo:** argumento
+- **titulo:** Limiting belief 2: the market isn't saturated — it only seems so from inside your social media bubble
+- **desarrollo:** It seems saturated because you follow 300–1,000 people all talking about the same things and get shared posts they resonate with; you'd have no clue what's on the other side of the internet — thrown there you'd be lost and hate it; you're in "your own little social media bubble of comfort." Example: the first day on Threads (new Instagram app) you saw unfamiliar content ("is this app good?"), then found good people and it became tailored. Paired with his niching approach ("most profitable niche is you"), "you're gold."
+- **ejemplos:** First day on Threads.
+- **cita:** "you're in your own little social media bubble of comfort"
+- **terminos:** saturation; social media bubble
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-011-230
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 22:09–22:47, 2023-07-19
+- **tension:** ninguna
+
+## U-011-232
+- **tipo:** concepto
+- **titulo:** Value creators are sense makers: simplifying complex topics is the greatest skill of the 21st century
+- **desarrollo:** "Simplifying complex topics [is] the greatest skill of the 21st century because value creators are sense makers: your job is to make sense of your life, the world, and bring clarity to the actions that others should take" — those who follow your vision. This comes with time and action; you won't know if creations are valuable if you never get eyes on them.
+- **ejemplos:** ninguno
+- **cita:** "value creators are sense makers"
+- **terminos:** sense makers; simplifying complex topics
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-011-101
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 22:47, 2023-07-19
+- **tension:** In U-011-101 (2022) he said "the greatest skill of the next century"; here "of the 21st century."
+
+## U-011-233
+- **tipo:** argumento
+- **titulo:** A new platform doesn't skip your reps: 20,000 tweets → the best 100 → 100 Instagram posts that popped
+- **desarrollo:** People on Threads think "it's my time to shine" now that it's new — slightly more opportunity, "but you're still at ground zero in terms of your idea generation." Had you written 10,000 tweets you'd grow much faster on Threads; you can't skip "those 10,000 iterations." "You must post, you need data, you need to refine your ideas." He could grow on Instagram from Twitter only because he had 20,000 tweets, ~100 of them the best, so he made 100 Instagram posts that all "popped off." "Under every 100 good posts there's a thousand bad posts and if you don't put in those reps you're [screwed]."
+- **ejemplos:** 20,000 tweets → 100 best → 100 Instagram posts.
+- **cita:** "under every 100 good posts there's a thousand bad posts"
+- **terminos:** reps; iterations; data
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-011-104
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 22:47–24:05, 2023-07-19
+- **tension:** ninguna
+
+## U-011-234
+- **tipo:** heurística
+- **titulo:** Diagnosing lack of progress: poor content performance = write better; no sales = sell better (perception)
+- **desarrollo:** "If you don't get your content in front of people you won't know if your ideas are valuable; if you get your content in front of people and it doesn't do well then it wasn't valuable, you need to write better. If you don't work to get your products in front of people you won't make money; if you get your products in front of people and no one buys, your product isn't perceived as valuable, you need to sell better." "Perceive is the key word; marketing and sales are perception." Write, speak, market and sell to the identity you target — you. "A valley girl won't resonate with meathead bodybuilding advice; a soccer mom probably won't resonate with philosophical musings on business. Your language dictates who you attract."
+- **ejemplos:** Valley girl vs bodybuilding; soccer mom vs philosophical business musings.
+- **cita:** "your language dictates who you attract"
+- **terminos:** perception; identity
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-011-233
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 24:05–24:37, 2023-07-19
+- **tension:** ninguna
+
+## U-011-235
+- **tipo:** principio
+- **titulo:** Start with writing: it clarifies, makes you articulate, repurposes into any medium, fits the first morning block
+- **desarrollo:** Writing "clarifies your thoughts, it makes you more articulate, it can be repurposed into any other medium — speaking, video or visuals — it is also a seamless non-demanding lever moving task that you can schedule in the first block of each morning." Prioritize growth on writing platforms (Threads, Twitter, email newsletter), then repurpose: read a tweet for a reel/short script; build a YouTube video from newsletters and blogs.
+- **ejemplos:** Tweet → reel script; newsletter → YouTube video.
+- **cita:** "it is also a seamless non-demanding lever moving task that you can schedule in the first block of each morning"
+- **terminos:** lever moving task; repurpose
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 24:37–25:23, 2023-07-19
+- **tension:** ninguna
+
+## U-011-236
+- **tipo:** principio
+- **titulo:** Newsletter first: depth separates you in a superficial market; condense the complexity into short posts
+- **desarrollo:** "Depth is what separates you on a superficial market." You don't need subscribers: upload it as a blog that grows over time, or use it to build lead magnets or products in real time; giving sections away free doesn't matter. "My brand took off when I started writing long form." Then condense complexity into tweets: the newsletter writes out everything on your mind about a topic (most valuable), then use human psychology to create "short heavy hitting ideas" that attract people and lead them to long form, because people naturally read shorter form.
+- **ejemplos:** His brand taking off with long form.
+- **cita:** "depth is what separates you on a superficial market"
+- **terminos:** depth; long form; short heavy hitting ideas; lead magnets
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-011-235
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 25:23–26:51, 2023-07-19
+- **tension:** ninguna
+
+## U-011-237
+- **tipo:** método
+- **titulo:** Why Threads (2023) and the basics of growing on Twitter/Threads
+- **desarrollo:** Twitter was and is underrated; Threads reminds him of Twitter in its infancy — "a raw community," fun. Why: post as much as you like to test ideas before other platforms; writing-based, so you don't need to be "a 10 out of 10 model living in Thailand"; a forum where you find like-minded people in replies of favorite accounts; repost button is low-friction sharing; replies heavily favored ("reply reply reply"); screenshot tweets/threads to grow on other platforms without hours of new content. Basics: post 1–3 times a day and "start getting your failures out of the way"; under 1,000 followers, network in replies and DMs to leverage others' audiences; clickable profile picture so people know you're a creator; bio = your big goal or the interest you talk about, what you lead people toward and how through your unique interests; write threads/long posts on your story and personal experience but have a network to share it so it goes semi-viral; start with beginner-level, actionable educational content (YouTubers' histories show actionable advice on their expertise with personality baked in).
+- **ejemplos:** Threads launch; YouTubers' early videos.
+- **cita:** "start getting your failures out of the way"
+- **terminos:** low friction share; replies; clickable profile picture
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-011-235
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 26:51–28:14, 2023-07-19
+- **tension:** Updates U-011-105 (2022, Twitter as recommended platform) toward Threads in 2023.
+
+## U-011-238
+- **tipo:** método
+- **titulo:** Prioritize ideas and attention capture: problems, numbers, statistics (and Cialdini's Influence)
+- **desarrollo:** "Attention is the currency of the 21st century and ideas are how you capture attention." Recommends Robert Cialdini's Influence (or his courses). Examples: problems — every good story starts with a problem the reader faces, opening a curiosity loop; "problems are at the root of human behavior." Numbers — specific numbers are a pattern interrupt while scrolling: "I read 347 self-help books so you don't have to." Statistics — set the scene: "97% of the population has seen a decline in focus, here's how to fix yours" ("they can use a bit of work but you see the power in it").
+- **ejemplos:** "347 self-help books"; "97% decline in focus."
+- **cita:** "attention is the currency of the 21st century and ideas are how you capture attention"
+- **terminos:** attention; curiosity loop; pattern interrupt
+- **origen:** propia; referencia de-tercero:Robert Cialdini (Influence)
+- **nivel:** intermedio
+- **prerrequisitos:** U-011-109
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 28:14–29:43, 2023-07-19
+- **tension:** ninguna
+
+## U-011-239
+- **tipo:** método
+- **titulo:** Treat yourself as your ideal reader — optional Myers-Briggs to understand yourself
+- **desarrollo:** Common advice: sell to an ideal customer/avatar. In his one-person business, "you are the niche": you write and sell to yourself; you are the customer avatar. In Digital Economics he has people take the Myers-Briggs test — acknowledging personality-test enthusiasts say there are "10 times better tests"; it's just to understand yourself "a tiny bit more just so you can write better; you don't need to do this at all." What to write: if going through a tough time, give yourself advice in your "public journal"; give your past self advice to overcome problems faster; give your future self encouragement.
+- **ejemplos:** Myers-Briggs.
+- **cita:** "you are the customer Avatar"
+- **terminos:** ideal reader; you are the niche; public journal; past self; future self
+- **origen:** propia; herramienta de-tercero:Myers-Briggs
+- **nivel:** fundamental
+- **prerrequisitos:** U-011-111
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 29:43–30:24, 2023-07-19
+- **tension:** ninguna
+
+## U-011-240
+- **tipo:** principio
+- **titulo:** Turn personal projects into products; don't let people gatekeep you — you can't improve before the market gives data
+- **desarrollo:** Wherever you're making progress (health brand documenting a journey, growing an audience, writing, marketing, spirituality) is a project you can package and sell. "This is how you start becoming an actual expert: by selling something, getting feedback on it and making it better." Scammers should be eradicated, but bad products in general will exist due to how hierarchies form: good products from people who stick it out and iterate; bad ones from people who took action (great) but didn't stick it out because they took feedback too seriously. "Don't let people gatekeep you": "you can't improve it before you put it on the market because you don't have data." Study others' products, brands, content for inspiration and structure; buy courses; be inside the creator economy you want to join. "If you want a job then go pay for an overpriced degree; if you want a life of work then pay a few bucks here and there for a course, book."
+- **ejemplos:** Health brand documenting progress.
+- **cita:** "you can't improve it before you put it on the market because you don't have data"
+- **terminos:** personal projects into products; gatekeep; iterate
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-011-219
+- **fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md, 30:24–32:23, 2023-07-19
 - **tension:** ninguna
 

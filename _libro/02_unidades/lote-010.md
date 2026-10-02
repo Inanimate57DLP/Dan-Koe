@@ -1047,7 +1047,7 @@
 ## U-010-081
 - **tipo:** caso
 - **titulo:** Dan's writing product packages his own system from building a personal brand to millions of dollars and followers
-- **desarrollo:** "My writing product" (transcribed "to our writer"; most likely the name of his writing course, ambiguous in the transcript) is "my unique experience and the system I created while building a personal brand to millions of dollars ... and gaining millions of followers." He experimented with idea generation, newsletter writing and social media content over the past two to three years.
+- **desarrollo:** "My writing product" (transcribed "to our writer"; in another transcript of this batch the course is named "2-Hour Writer") is "my unique experience and the system I created while building a personal brand to millions of dollars ... and gaining millions of followers." He experimented with idea generation, newsletter writing and social media content over the past two to three years.
 - **ejemplos:** ninguno
 - **cita:** "my unique experience and the system I created while building a personal brand"
 - **terminos:** ninguno
@@ -1855,7 +1855,7 @@
 ## U-010-143
 - **tipo:** método
 - **titulo:** How to practice writing: devour best-selling books, emulate accounts as a creator, track what performs, and suck while nobody watches
-- **desarrollo:** Buy best-selling books on your topics and devour them. Follow social media accounts that talk about those topics and emulate them "from the lens of a Creator not a consumer." Pay attention to which writing ideas and structures perform best: "that's how you practice writing." "You're going to suck at first, so get it out of the way while nobody's watching, while you have zero to 200 followers." He points to his writing course (transcribed "to our writer") for how he writes.
+- **desarrollo:** Buy best-selling books on your topics and devour them. Follow social media accounts that talk about those topics and emulate them "from the lens of a Creator not a consumer." Pay attention to which writing ideas and structures perform best: "that's how you practice writing." "You're going to suck at first, so get it out of the way while nobody's watching, while you have zero to 200 followers." He points to his writing course (transcribed "to our writer"; named "2-Hour Writer" elsewhere in this batch) for how he writes.
 - **ejemplos:** ninguno
 - **cita:** "get it out of the way while nobody's watching while you have zero to 200 followers"
 - **terminos:** lens of a Creator
@@ -1967,5 +1967,826 @@
 - **nivel:** fundamental
 - **prerrequisitos:** U-010-149
 - **fuente:** Niche Down Is Terrible Advice (For Smart People).md, 36:07-36:51, 2023-07-04
+- **tension:** ninguna
+
+# Fuente: Don't Find A Niche. Become The Niche.md (2024-08-25)
+
+## U-010-152
+- **tipo:** principio
+- **titulo:** The most authentic, profitable and unique niche is you, a realization Dan reached after years of pain with "niche down"
+- **desarrollo:** "The most authentic, profitable, and unique niche is you." Dan realized it "after years of pain," because the first thing you come across when you embark on the journey to becoming "a free individual" is "niche down."
+- **ejemplos:** ninguno
+- **cita:** "The most authentic, profitable, and unique niche is you."
+- **terminos:** free individual, niche down
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Don't Find A Niche. Become The Niche.md, 0:00, 2024-08-25
+- **tension:** ninguna
+
+## U-010-153
+- **tipo:** concepto
+- **titulo:** The social matrix: a self-reproducing web of beliefs passed from government and culture through school, parents and children
+- **desarrollo:** "The social matrix or just the matrix that everyone talks about is a web of ideas and beliefs that act as anchors for your mind to make sense of the world." The cycle: government and culture influence the school system; the school creates resources for students; students don't question what they're taught; students become parents; parents teach their children what they know and send them to school; children make friends and conform further to fit in; children grow up, get jobs, become teachers, parents, politicians, and create the knowledge and resources online and offline that influence culture; parents, students and children vote; the cycle continues. "This isn't a bad thing. This is just how we learn to survive." But if we don't question what we learned during our upbringing, given "a very limited worldview," we don't know our potential or what lies in the unknown: "we end up a clone like everyone else."
+- **ejemplos:** ninguno
+- **cita:** "If we don't question what we learn, we end up a clone like everyone else."
+- **terminos:** social matrix, anchors
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Don't Find A Niche. Become The Niche.md, 0:00-0:52, 2024-08-25
+- **tension:** ninguna
+
+## U-010-154
+- **tipo:** término-acuñado
+- **titulo:** The business matrix: the inherited web of beliefs about how businesses are supposed to operate (pick a skill, pick a niche)
+- **desarrollo:** "The business matrix in contrast to the social matrix is just a web of ideas and beliefs that illustrates how businesses are supposed to operate." Think of it as the advice or education you get on how to start a business, usually from people online: "Pick a skill, pick a niche, and do the same thing all over again. Do work you don't care about for people you don't care about to live a life you don't care about." Dan names it by analogy to the social matrix: a belief system absorbed at the beginner stage without questioning.
+- **ejemplos:** ninguno
+- **cita:** "Do work you don't care about for people you don't care about to live a life you don't care about."
+- **terminos:** business matrix
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-153
+- **fuente:** Don't Find A Niche. Become The Niche.md, 0:52-1:41, 2024-08-25
+- **tension:** ninguna
+
+## U-010-155
+- **tipo:** argumento
+- **titulo:** Question beginner-level business knowledge: you started a business to escape a mechanical life, not to rebuild it for slightly more money
+- **desarrollo:** Humans learn by exposure to beginner, then intermediate, then advanced knowledge. "The thing is who question[s] this beginner level knowledge from the start. Are we absolutely sure it is the best way to go about things? Is it the most conducive to results or does it cause more confusion that makes people quit too early?" "You decided to start a business because you wanted to escape the mechanical and meaningless lifestyle, not to create a new one where you can just earn a bit more than you did before at a job." Those who break free of the business matrix "can do whatever they want."
+- **ejemplos:** ninguno
+- **cita:** "You decided to start a business because you wanted to escape the mechanical and meaningless lifestyle, not to create a new one"
+- **terminos:** business matrix
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-154
+- **fuente:** Don't Find A Niche. Become The Niche.md, 1:41-2:21, 2024-08-25
+- **tension:** ninguna
+
+## U-010-156
+- **tipo:** principio
+- **titulo:** You can't break free instantly: first learn the rules of the game, then create your own rules without breaking the others
+- **desarrollo:** "You can't break free in an instant because that's just not how things work. First, you learn the rules of the game and then you kind of create your own rules of the game without breaking the other rules." You play the game others want for you, as you do in society learning from your parents, "but then eventually you reflect and you question": what can I actually do, how can I create my own game and get better results than those before me?
+- **ejemplos:** Learning from parents, then questioning.
+- **cita:** "First, you learn the rules of the game and then you kind of create your own rules of the game without breaking the other rules."
+- **terminos:** rules of the game
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-155
+- **fuente:** Don't Find A Niche. Become The Niche.md, 2:21, 2024-08-25
+- **tension:** ninguna
+
+## U-010-157
+- **tipo:** historia
+- **titulo:** Dan freelanced with almost every skill and endlessly googled "top 100 niches," targeting dentists, gyms and pest control
+- **desarrollo:** Dan began with freelancing, thinking it the most beginner-friendly option: "learn a skill, sell a skill." He tried video editing, graphic design, SEO, content marketing, Facebook ads and web design. "My pain point was always choosing a niche." He downloaded free guides and "would endlessly search on Google for the top 100 niches to target," targeting dentists, gyms, construction companies, pest control and more.
+- **ejemplos:** Dentists, gyms, construction companies, pest control.
+- **cita:** "My pain point was always choosing a niche."
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** complementario
+- **prerrequisitos:** ninguno
+- **fuente:** Don't Find A Niche. Become The Niche.md, 3:03-3:50, 2024-08-25
+- **tension:** ninguna
+
+## U-010-158
+- **tipo:** argumento
+- **titulo:** Three problems with picking niches from a list: you don't care about them, you haven't lived their problem, and it prioritizes finding over becoming
+- **desarrollo:** (1) "I don't care about these people. I would and did hate working with them." Not sustainable for something as important as your life's work; "it isn't to just have a new boss." To the objection that business can just be a way to make money: Dan agrees, but if the end goal is to pursue your life's work after generating cash flow and you can pursue it by starting the business that way in the first place, "what's the dissonance there?"; "it just feels like laziness" and wanting the get-rich-quick option. (2) "I don't have experience with their business. Most businesses fail because they try to solve a problem they haven't experienced. Remember that. Feel free to come back to me when you ignore this and fail." (3) "It prioritizes finding, not attracting or becoming": you learn a skill for someone else, search endlessly for people to reach out to, and spend more time on lead generation than building leverage.
+- **ejemplos:** ninguno
+- **cita:** "Most businesses fail because they try to solve a problem they haven't experienced."
+- **terminos:** finding, attracting, becoming, leverage, life's work
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-157
+- **fuente:** Don't Find A Niche. Become The Niche.md, 3:50-5:10, 2024-08-25
+- **tension:** ninguna
+
+## U-010-159
+- **tipo:** concepto
+- **titulo:** Building an audience is how businesses have always been built; social media is the new traffic mechanism, but people apply 20-30-year-old mindsets
+- **desarrollo:** Dan speaks "under the lens of building an audience because this is a new traffic mechanism for businesses." "Building an audience is just how you build a business. It's always been how you build a business with media and advertising." Most attention is now on social media, "such a blessing for individuals who understand that they can just write content and build an audience and build a business that way." What sparked the "you are the niche" idea: "many people are operating from 20 to 30 year-old business mindsets and trying to apply that to the modern social media age." As one person you can build an audience and a hyper-profitable business without boxing yourself into a specific niche.
+- **ejemplos:** Radio, TV, social media.
+- **cita:** "many people are operating from 20 to 30year-old business mindsets"
+- **terminos:** traffic mechanism, you are the niche
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Don't Find A Niche. Become The Niche.md, 4:30-5:55, 2024-08-25
+- **tension:** ninguna
+
+## U-010-160
+- **tipo:** opinión
+- **titulo:** Dominant business ideologies are shallow and disregard human nature, psychology and fulfillment, which is why people quit
+- **desarrollo:** "It's no wonder people don't stick to building a business. The business ideologies circling the space have dominated for too long. They are shallow and lack regard for human nature, psychology, and fulfillment." Things evolve beyond being shallow; there are better ways to start a business now: creating your own niche that is "profitable, authentic, and something you actually enjoy doing."
+- **ejemplos:** ninguno
+- **cita:** "They are shallow and lack regard for human nature, psychology, and fulfillment."
+- **terminos:** business ideologies
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-154
+- **fuente:** Don't Find A Niche. Become The Niche.md, 5:55, 2024-08-25
+- **tension:** ninguna
+
+## U-010-161
+- **tipo:** principio
+- **titulo:** Lesson 1: endless shiny object syndrome about niches means business hasn't clicked; you can make any niche work
+- **desarrollo:** "The endless shiny object syndrome you have with finding a niche is a blatant sign that business hasn't clicked for you yet. You don't understand it. You haven't failed enough. You haven't produced enough. You can make any niche work. That's why it's wise to create your own."
+- **ejemplos:** ninguno
+- **cita:** "You haven't failed enough. You haven't produced enough. You can make any niche work."
+- **terminos:** shiny object syndrome
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Don't Find A Niche. Become The Niche.md, 5:55-6:40, 2024-08-25
+- **tension:** ninguna
+
+## U-010-162
+- **tipo:** principio
+- **titulo:** Lesson 2: build what you would buy, use and benefit from, and write what you would stop, read and act on
+- **desarrollo:** "Build a product or service that you would actually buy, use, and benefit from. There aren't many shortcuts in business, but this is one of them. When you do that, you become the niche, and you can focus on marketing to your past and current self." "Write the words that you would stop, read, and act on. When you know yourself, you get to skip ahead of the 99% of failed businesses that haven't experienced the problems they are trying to solve."
+- **ejemplos:** ninguno
+- **cita:** "There aren't many shortcuts in business, but this is one of them."
+- **terminos:** become the niche, past and current self
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-161
+- **fuente:** Don't Find A Niche. Become The Niche.md, 6:40, 2024-08-25
+- **tension:** ninguna
+
+## U-010-163
+- **tipo:** concepto
+- **titulo:** Your personality or identity is created by the information you are repeatedly exposed to and accept as important
+- **desarrollo:** "Most people don't understand that they belong to a very specific niche." You already follow a broad number of people who talk about various interests, "and that's what's created your current personality or identity because your personality or identity are created by the information that you're repeatedly exposed to and that you deem important and worth accepting into your mind."
+- **ejemplos:** ninguno
+- **cita:** "your personality or identity are created by the information that you're repeatedly exposed to and that you deem important"
+- **terminos:** identity, personality
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Don't Find A Niche. Become The Niche.md, 6:40-7:31, 2024-08-25
+- **tension:** ninguna
+
+## U-010-164
+- **tipo:** advertencia
+- **titulo:** Mistake #1 when creating your niche: you are a specific person, yet you narrow down to one interest
+- **desarrollo:** "If your job is to target a specific person and you are a specific person, why are you narrowing in on one specific interest that you want to sell a product or service around? Do you not have more than one interest? Do you not already follow people that talk about their opinions, their values, their lifestyle, and their expertise?"
+- **ejemplos:** ninguno
+- **cita:** "If your job is to target a specific person and you are a specific person, why are you narrowing in on one specific interest"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-163
+- **fuente:** Don't Find A Niche. Become The Niche.md, 7:31, 2024-08-25
+- **tension:** ninguna
+
+## U-010-165
+- **tipo:** argumento
+- **titulo:** Talking about one skill doesn't make you more authoritative; at best you look like a glorified search engine
+- **desarrollo:** "Talking about one specific skill or interest won't make you more authoritative. No, people won't trust you more. At best, you'll look like a glorified search engine of actionable advice."
+- **ejemplos:** ninguno
+- **cita:** "At best, you'll look like a glorified search engine of actionable advice."
+- **terminos:** glorified search engine
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-164
+- **fuente:** Don't Find A Niche. Become The Niche.md, 7:59, 2024-08-25
+- **tension:** ninguna
+
+## U-010-166
+- **tipo:** argumento
+- **titulo:** On social media you don't control who sees your content, so niche-only creators grow slower: 30,000 vs 300,000 after three years
+- **desarrollo:** One major difference between paid ads (targeting actual people) and social media is that "you don't really control where your content goes": the algorithm places it in front of mostly random people who don't know you. Those who only talk to their niche "have more difficulty at the start. Fewer people share their content, so they can't get in front of the right people." Illustration: they may grow to 5,000 followers in a year while someone who incorporated their interests grows to 20,000; after 3 years the first gets to 30,000 and the second to 300,000 "because of the compounding effect."
+- **ejemplos:** 5,000 vs 20,000 in a year; 30,000 vs 300,000 in three years.
+- **cita:** "After 3 years, the first gets to 30,000 followers and the second gets to 300,000 because of the compounding effect."
+- **terminos:** compounding effect
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-165
+- **fuente:** Don't Find A Niche. Become The Niche.md, 7:59-8:45, 2024-08-25
+- **tension:** ninguna
+
+## U-010-167
+- **tipo:** argumento
+- **titulo:** "Those followers aren't hot leads" (answer 1): the network effect multiplies them, and broad audiences give more leverage
+- **desarrollo:** Objection: "those 300,000 followers don't care about my product or service. They're not hot leads ... They're useless." First answer: if each of the 300,000 knows three to five people they can refer to you, "that's a 900,000 to 1,500,000 follower audience thanks to the network effect," while the 30,000-follower "hyper niche down guy is struggling to have enough leverage to get out of manual client work." Nuance: "If you want to build a very specific audience so that you can land clients and sustain your work, that's perfectly fine." But if you want to evolve and have leverage (to build digital products, other businesses, a big network for a startup, or because it's more fun), go this direction; and even for only freelance work, "you can still get the same if not better results doing it and enjoy the process more."
+- **ejemplos:** 3-5 referrals per follower.
+- **cita:** "that's a 900,000 to 1,500,000 follower audience thanks to the network effect"
+- **terminos:** network effect, hot leads, leverage
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-166
+- **fuente:** Don't Find A Niche. Become The Niche.md, 8:45-9:31, 2024-08-25
+- **tension:** ninguna
+
+## U-010-168
+- **tipo:** advertencia
+- **titulo:** Money makes people narrow-minded: one post about an interest won't kill your business; if impressions don't convert, upskill in persuasion
+- **desarrollo:** "It's not just like, oh, if I post about my interest, my entire business is dead." Because money is tied to it, people get into a narrow-minded state: "if I make one mistake, my entire life is at risk." "That's not how it works. You're getting thousands, if not hundreds of thousands of impressions on specific pieces of content. If you can't turn any of those into clients, no matter what audience that is via referrals or just persuasion, then you probably shouldn't be in business or you just need to upskill yourself in persuasion and marketing more."
+- **ejemplos:** ninguno
+- **cita:** "you just need to upskill yourself in persuasion and marketing more"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-167
+- **fuente:** Don't Find A Niche. Become The Niche.md, 9:31-10:15, 2024-08-25
+- **tension:** ninguna
+
+## U-010-169
+- **tipo:** argumento
+- **titulo:** "Not hot leads" (answer 2): followers aren't supposed to buy right away; content raises them up the levels of awareness
+- **desarrollo:** "They're not supposed to buy from you right away. That's the entire purpose of writing content. You help them go from beginner content to advanced product with time. You create customers by raising them up the levels of awareness. You attract with social media, educate with newsletters, emails or free downloads, and help them implement with your product or service."
+- **ejemplos:** ninguno
+- **cita:** "You create customers by raising them up the levels of awareness."
+- **terminos:** levels of awareness
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-167
+- **fuente:** Don't Find A Niche. Become The Niche.md, 10:15-11:03, 2024-08-25
+- **tension:** ninguna
+
+## U-010-170
+- **tipo:** framework
+- **titulo:** Brand is to attract, content is to nurture, product is to implement
+- **desarrollo:** Dan's compression of the funnel: "brand is to attract, content is to nurture, product is to implement." Social media attracts; newsletters, emails or free downloads educate; the product or service helps people implement.
+- **ejemplos:** ninguno
+- **cita:** "So brand is to attract, content is to nurture, product is to implement."
+- **terminos:** attract, nurture, implement
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-169
+- **fuente:** Don't Find A Niche. Become The Niche.md, 11:03, 2024-08-25
+- **tension:** ninguna
+
+## U-010-171
+- **tipo:** principio
+- **titulo:** "Not hot leads" (answer 3): nobody is a useless follower; interests are not innate but persuaded, so all content is persuasive argument
+- **desarrollo:** "Nobody is a useless follower. You are just so narrow-minded and indoctrinated with outdated business dogma that you don't understand that people can learn something new that improves their life." You can read a post and become interested in a new topic. "You aren't just born with specific interests. You are persuaded of their importance," like how lifting weights can give you confidence, improve your health and make you look good, so you slowly adopt it as an interest and become part of that niche. "Your job is to argue why your interests are valuable to adopt. All of your content is persuasive arguments," as this video argues that you are the niche: "you aren't targeting a niche. You are a niche and your job is to persuade people to join it."
+- **ejemplos:** Lifting weights; this video itself.
+- **cita:** "You aren't just born with specific interests. You are persuaded of their importance."
+- **terminos:** persuasive arguments, outdated business dogma
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-169
+- **fuente:** Don't Find A Niche. Become The Niche.md, 11:03-11:49, 2024-08-25
+- **tension:** ninguna
+
+## U-010-172
+- **tipo:** definición
+- **titulo:** A niche is a perspective or worldview; the universe rewards those who don't impose their own limits
+- **desarrollo:** "A niche is a perspective or worldview." Followed by: "Become a nobody. Become everything. Become a designer, writer, marketer, socializer, runner, bodybuilder, philosopher, scientist, psychologist, and polymath who knows how to sustain your obsessive curiosity. The universe rewards those who don't impose their own limits."
+- **ejemplos:** ninguno
+- **cita:** "A niche is a perspective or worldview."
+- **terminos:** niche, worldview, obsessive curiosity, polymath
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** ninguno
+- **fuente:** Don't Find A Niche. Become The Niche.md, 11:49, 2024-08-25
+- **tension:** ninguna
+
+## U-010-173
+- **tipo:** término-acuñado
+- **titulo:** "Nicheless": when you are the niche and keep evolving, your niche keeps changing; a static niche means you aren't changing
+- **desarrollo:** "When you are the niche and you are constantly changing and evolving because you're improving, hopefully, then you are nicheless. If you aren't constantly evolving and improving and your niche isn't changing, then you aren't changing and you're probably in the wrong type of business and it's not going to be sustainable."
+- **ejemplos:** Zubie, Hamza (U-010-174).
+- **cita:** "When you are the niche and you are constantly changing and evolving ... then you are nicheless."
+- **terminos:** nicheless
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-172
+- **fuente:** Don't Find A Niche. Become The Niche.md, 11:49-12:41, 2024-08-25
+- **tension:** ninguna
+
+## U-010-174
+- **tipo:** ejemplo
+- **titulo:** Zubie, Hamza and Elon Musk: broad identities as niches, up to self-improvement as an expanded sense of self
+- **desarrollo:** Zubie makes music and sells tickets to a show one day, talks politics another, sells a fitness ebook the next, "and he's doing perfectly fine." Hamza has an extremely broad niche, self-improvement, which "encapsulates literally everything": "Everything valuable or actually worth pursuing is self-improvement. Going to Mars is self-improvement on a collective scale. Elon Musk, his niche is self-improvement," but as "an expanded sense of self where ... you have begun to identify with humanity as a whole. You've expanded your circle of concern and so now your products are spaceships." Hamza talks about confidence, masculinity, dating, fitness, business: not hyper-specific. "He is the niche because he is a self-improver. That's his identity."
+- **ejemplos:** Zubie; Hamza; Elon Musk and Mars.
+- **cita:** "Going to Mars is self-improvement on a collective scale."
+- **terminos:** expanded sense of self, circle of concern, self-improver
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-173
+- **fuente:** Don't Find A Niche. Become The Niche.md, 12:41-13:32, 2024-08-25
+- **tension:** ninguna
+
+## U-010-175
+- **tipo:** principio
+- **titulo:** Your identity is your niche: what you're interested in and why it matters to your life; a narrow niche limits your potential
+- **desarrollo:** "Your identity is your niche. Or put more practically, your niche is what you are interested in and why it's important to your life." Don't box yourself into hyper-specific skills or interests you will outgrow "because you are human": you'll grow bored or it will no longer serve you, "like talking about agency work because you change what you do as your business grows." "Locking yourself into a niche makes it extremely difficult to develop yourself beyond it. Your business evolves as you evolve. If your business is a narrow niche, you limit your own potential."
+- **ejemplos:** Outgrowing agency work.
+- **cita:** "Your identity is your niche."
+- **terminos:** identity
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-174
+- **fuente:** Don't Find A Niche. Become The Niche.md, 13:32-14:10, 2024-08-25
+- **tension:** ninguna
+
+## U-010-176
+- **tipo:** argumento
+- **titulo:** Why you're told to niche down: to understand customers' minds and position an essentially identical product; hack: recreate what exists, better
+- **desarrollo:** You're told to niche down "so you can understand the minds of your readers and customers": create a customer avatar, identify a burning problem, position a solution toward them. "The solution is often the same as any other product on the market with small changes. The point is to make it perceived as valuable to a specific person by understanding them." Hack: "recreate what already exists, but better. And don't over complicate it." "All products are the same. Like, all self-help products are the same. All business products are the same. They're just positioned towards different people." That's why creating a niche matters.
+- **ejemplos:** Self-help and business products.
+- **cita:** "all products are the same ... They're just positioned towards different people."
+- **terminos:** customer avatar, burning problem, positioning
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-175
+- **fuente:** Don't Find A Niche. Become The Niche.md, 13:32-14:51, 2024-08-25
+- **tension:** ninguna
+
+## U-010-177
+- **tipo:** ejemplo
+- **titulo:** Two writers teaching writing are different products: Dan targets his past self, another targets soccer moms
+- **desarrollo:** "I can talk about writing and someone else can talk about writing, but it's two completely different people and that's what makes it unique." Dan targets his past and former self, the problems they're trying to solve and the goals they're trying to achieve. Another writer may position toward soccer moms because they are one or chose that niche. "Targeting yourself is just so much easier and it goes a layer deeper than just making money": it's about self-improvement, self-awareness, building products that help, and working with people you enjoy. "Why don't we skip all of that and treat ourselves as the customer avatar, solve problems that we've actually experienced"; as you grow, your products evolve and you build and distribute a new one.
+- **ejemplos:** Writing for past self vs for soccer moms.
+- **cita:** "treat ourselves as the customer avatar, solve problems that we've actually experienced"
+- **terminos:** customer avatar, past and former self
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-176
+- **fuente:** Don't Find A Niche. Become The Niche.md, 14:10-15:35, 2024-08-25
+- **tension:** ninguna
+
+## U-010-178
+- **tipo:** definición
+- **titulo:** A customer avatar is the mind, worldview or perspective of the person you create for; it is structured by goals, problems and paths
+- **desarrollo:** "In essence, a customer avatar is the mind, worldview, or perspective of someone you are creating for or marketing toward." Structurally, a worldview or perspective is composed of: (1) goals, (2) problems, (3) potential paths; plus other influences (prior experiences, beliefs, skill levels). Each is developed in the next units.
+- **ejemplos:** ninguno
+- **cita:** "a customer avatar is the mind, worldview, or perspective of someone you are creating for or marketing toward"
+- **terminos:** customer avatar, worldview, perspective
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-177
+- **fuente:** Don't Find A Niche. Become The Niche.md, 15:35, 2024-08-25
+- **tension:** ninguna
+
+## U-010-179
+- **tipo:** concepto
+- **titulo:** Worldview component 1, goals: conscious or unconscious goals drive every action; self-generated goals put you in control
+- **desarrollo:** "The conscious or unconscious goals that influence every single action you take. Like taking one step forward or going to the gym." Literally taking a step: "You are acting towards a goal. You are moving in a specific direction. Everything you do is associated with some goal. It's just unconscious. Self-generated goals put you in control of your life." He paraphrases (uncertainly) a Carl Jung quote: if you don't make the unconscious conscious, it will determine your fate and control your life. "But it's just presence, mindful living, becoming conscious."
+- **ejemplos:** Taking a step; going to the gym.
+- **cita:** "Self-generated goals put you in control of your life."
+- **terminos:** goals, self-generated goals, unconscious
+- **origen:** propia; cita parafraseada de-tercero:Carl Jung
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-178
+- **fuente:** Don't Find A Niche. Become The Niche.md, 15:35-16:28, 2024-08-25
+- **tension:** ninguna
+
+## U-010-180
+- **tipo:** ejemplo
+- **titulo:** Goals determine what you see: retire-at-60 vs financial-freedom-at-25, and different highlights in the same book
+- **desarrollo:** "A person with the assigned goal of society to retire at 60 years old will see fewer business opportunities than a person with a self-generated goal of financial freedom at 25 years old." "Goals also frame how you or your readers interpret books and content. Two people with different goals will have radically different highlights of the books and content. They will notice the things that aid in their goals whether they are aware of it or not."
+- **ejemplos:** Retire at 60 vs financial freedom at 25; book highlights.
+- **cita:** "Two people with different goals will have radically different highlights of the books and content."
+- **terminos:** assigned goal, self-generated goal
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-179
+- **fuente:** Don't Find A Niche. Become The Niche.md, 15:35-16:28, 2024-08-25
+- **tension:** ninguna
+
+## U-010-181
+- **tipo:** concepto
+- **titulo:** Worldview component 2, problems: marketing is raising readers' awareness of their problems over time
+- **desarrollo:** Problems are "the conscious or unconscious problems that prevent you from reaching your goals and ideal lifestyle." "The foundation of marketing as a whole is to raise your readers levels of awareness surrounding their problems over time. So if you've solved your own problems and are helping your audience do the same, you are in a great position."
+- **ejemplos:** ninguno
+- **cita:** "The foundation of marketing as a whole is to raise your readers levels of awareness surrounding their problems over time."
+- **terminos:** problems, levels of awareness
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-178
+- **fuente:** Don't Find A Niche. Become The Niche.md, 16:28, 2024-08-25
+- **tension:** ninguna
+
+## U-010-182
+- **tipo:** framework
+- **titulo:** The five levels of awareness: unaware, problem aware, solution aware, product aware, most aware
+- **desarrollo:** As Dan defines them: (1) unaware: unaware of their problem and how it hurts their quality of life; (2) problem aware: aware of the problem but don't know how to solve it; (3) solution aware: aware of the problem and know there's a solution, education or knowledge to solve it; (4) product aware: aware of the problem and know there's "a streamlined path or system to solve it"; (5) most aware: "they are ready to change. They just need the right why that changes behavior instantly. Like when you read an idea in the book and it changes your entire outlook on life." All content, landing pages and products must target the person at whatever level they're at relative to the goals or problems of your worldview. (Dan does not cite a source for this framework in the transcript.)
+- **ejemplos:** Reading an idea in a book that changes your outlook (level 5).
+- **cita:** "They just need the right why that changes behavior instantly."
+- **terminos:** unaware, problem aware, solution aware, product aware, most aware
+- **origen:** propia (sin fuente citada en el texto)
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-181
+- **fuente:** Don't Find A Niche. Become The Niche.md, 16:28-17:58, 2024-08-25
+- **tension:** ninguna
+
+## U-010-183
+- **tipo:** método
+- **titulo:** Map formats to awareness: social content for levels 1-3, newsletter or free download for 2-4, landing page for level 5
+- **desarrollo:** "Top of funnel social media content is usually in between levels awareness levels one and three. That's who you're writing to. It's mostly beginner level. Then newsletter or a free download is usually a step beyond that. It's like two to four. And then during that you target the most aware level five to sell them on your product on your landing page." "When your worldview is your niche, your job is to write in a creative fashion that increases people's awareness of their problems. That way, they act on a solution toward reaching their goals."
+- **ejemplos:** ninguno
+- **cita:** "Top of funnel social media content is usually in between levels awareness levels one and three."
+- **terminos:** top of funnel, levels of awareness
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-182
+- **fuente:** Don't Find A Niche. Become The Niche.md, 17:58-18:37, 2024-08-25
+- **tension:** ninguna
+
+## U-010-184
+- **tipo:** principio
+- **titulo:** Every piece of content and product helps people reach the goals of your brand; the bigger the goal, the more people you can help
+- **desarrollo:** "Every piece of content you write and every product you build helps people learn the knowledge or skills that allow them to reach the goals of your brand. The bigger the goal, the more people you can attract and help. You help them reach the goal by solving problems or pain points. So, your content and products argue why achieving a specific goal is important and give them the knowledge, tools, and education to solve the problem standing in the way." Goals give direction and motivation and attract people; problems are what you help solve to change their life.
+- **ejemplos:** ninguno
+- **cita:** "The bigger the goal, the more people you can attract and help."
+- **terminos:** goals of your brand, pain points
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-183
+- **fuente:** Don't Find A Niche. Become The Niche.md, 18:37, 2024-08-25
+- **tension:** ninguna
+
+## U-010-185
+- **tipo:** concepto
+- **titulo:** Worldview component 3, potential paths: lacking clarity on next steps causes anxiety, and missing pieces of others' paths cause conflict
+- **desarrollo:** "How do you actually solve the problems? That's the potential paths that they can take." "When people don't have clarity on their next steps, they feel anxious, overwhelmed, or bored. This is what causes arguments in relationships, dissonance in business and battles between political parties. People who don't share the same worldviews are missing pieces of the other party's path, narrative, or system that allows them to make sense of that situation." So when you are the niche, "your job is to create a holistic step-by-step path that you can share with readers who have your same worldview, usually in the form of a product or service that you can be paid for," so they get results and understand you.
+- **ejemplos:** Relationship arguments, political battles.
+- **cita:** "When people don't have clarity on their next steps, they feel anxious, overwhelmed, or bored."
+- **terminos:** potential paths, holistic step-by-step path
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-178
+- **fuente:** Don't Find A Niche. Become The Niche.md, 18:37-19:20, 2024-08-25
+- **tension:** ninguna
+
+## U-010-186
+- **tipo:** caso
+- **titulo:** Dan's philosophical content introduces people to business because shared worldview makes it easier to learn from him
+- **desarrollo:** "There's a reason why my philosophical content introduces a lot of people to business. It's because they're learning it better from me because we have a very similar worldview and it makes more sense to them." He's "not the most hyper practical guy" walking you through how to make a million dollars step by step (though he still does that); he bakes in the philosophy so that "people who aren't yet in business but have the potential to do very well in business" learn best from him.
+- **ejemplos:** ninguno
+- **cita:** "they're learning it better from me because we have a very similar worldview"
+- **terminos:** worldview
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-185
+- **fuente:** Don't Find A Niche. Become The Niche.md, 19:20-20:05, 2024-08-25
+- **tension:** ninguna
+
+## U-010-187
+- **tipo:** concepto
+- **titulo:** An education brand's job is to raise the consciousness of its audience, unlike an influencer who flexes or posts memes
+- **desarrollo:** Beyond goals, problems and paths, other things in the psyche influence how people perceive and act: "prior experiences, firm and loose beliefs and skill levels across all domains of life," all of which can be conscious, unconscious, known or unknown. "Your entire job as an education brand is to raise the consciousness of your audience." By education brand he means "a brand that gives actual value. A creator that teaches their audience and improves their life, not an influencer that posts half-naked pictures, flexes their lifestyle, or post self-deprecating memes."
+- **ejemplos:** Influencer content as contrast.
+- **cita:** "Your entire job as an education brand is to raise the consciousness of your audience."
+- **terminos:** education brand, firm and loose beliefs, raise the consciousness
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-178
+- **fuente:** Don't Find A Niche. Become The Niche.md, 20:05-20:51, 2024-08-25
+- **tension:** ninguna
+
+## U-010-188
+- **tipo:** principio
+- **titulo:** Persuasion 101: argue the importance of the goals, illustrate the impact of the problems, show benefits and pains
+- **desarrollo:** "Make your audience conscious of their goals and problems. Argue the importance of the goals and illustrate the impact of their problems. Show the benefits of achieving the goal and pains of not solving the problem. This is persuasion 101."
+- **ejemplos:** ninguno
+- **cita:** "This is persuasion 101."
+- **terminos:** persuasion 101
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-187
+- **fuente:** Don't Find A Niche. Become The Niche.md, 20:51, 2024-08-25
+- **tension:** ninguna
+
+## U-010-189
+- **tipo:** definición
+- **titulo:** Your niche is the frame of big goals and burning problems that compose your worldview; your job is to program audiences to adopt it
+- **desarrollo:** "Your niche is the frame of big goals and burning problems that compose your worldview. Your job is to program the minds of your audience to adopt this frame or worldview, pursue those goals, and solve those problems. This is a massive yet fulfilling undertaking to live a life of purpose." "In a nutshell, you're attracting people to the goals. You're helping them solve the problems with your content. And your product is the implementation. It's how they actually go about solving the problem by changing their behavior."
+- **ejemplos:** ninguno
+- **cita:** "Your niche is the frame of big goals and burning problems that compose your worldview."
+- **terminos:** frame, big goals, burning problems, worldview, implementation
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-188
+- **fuente:** Don't Find A Niche. Become The Niche.md, 20:51-21:37, 2024-08-25
+- **tension:** ninguna
+
+## U-010-190
+- **tipo:** advertencia
+- **titulo:** Changing people's minds is a big responsibility and emotional labor; it can turn bad if you're not developed or ethical enough
+- **desarrollo:** "Since you have to persuade and change people's minds, you have to understand that this is a big responsibility. This is taking on a lot of responsibility and emotional labor for your life. That can be very fulfilling and it can also turn very bad if you are not developed or ethical enough to be doing this type of work."
+- **ejemplos:** ninguno
+- **cita:** "it can also turn very bad if you are not developed or ethical enough to be doing this type of work"
+- **terminos:** emotional labor
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-189
+- **fuente:** Don't Find A Niche. Become The Niche.md, 21:37, 2024-08-25
+- **tension:** ninguna
+
+## U-010-191
+- **tipo:** framework
+- **titulo:** What is more specific than this: a desirable goal (brand), a burning problem (content), a clear path (product)
+- **desarrollo:** "Niches are supposed to be specific. And what is more specific than this? A desirable goal that will change your life and your reader lives, which is brand. A burning problem that will ease your suffering and your reader suffering, which is content. A clear path, system or solution to bring you clarity and your reader's clarity, which is product."
+- **ejemplos:** ninguno
+- **cita:** "A desirable goal ... which is brand. A burning problem ... which is content. A clear path ... which is product."
+- **terminos:** desirable goal, burning problem, clear path
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-189
+- **fuente:** Don't Find A Niche. Become The Niche.md, 21:37, 2024-08-25
+- **tension:** ninguna
+
+## U-010-192
+- **tipo:** concepto
+- **titulo:** Goals and problems are shared in the eternal markets, but the path is singular, and even indirect activities belong to it
+- **desarrollo:** "The goals and problems will almost always be similar to someone else's. Everyone has the same goals and problems in the eternal markets, health, wealth, relationships, and happiness. But the path, the path is singular to you." Everyone wants financial freedom: one goes the social media/online business route with e-commerce and its skills, mindset and experience; another the investing and real estate route. Every other skill or interest learned along the way also aids you: if journaling, going on a walk or playing video games were on that path, "no matter how direct ... it still played a role." "All of the beliefs, skills, and billions of bits of information you process along the way toward achieving your goals is the most unique niche in the world."
+- **ejemplos:** Online business vs real estate to financial freedom; journaling, walks, video games.
+- **cita:** "But the path, the path is singular to you."
+- **terminos:** eternal markets, path
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-191
+- **fuente:** Don't Find A Niche. Become The Niche.md, 21:37-23:10, 2024-08-25
+- **tension:** ninguna
+
+## U-010-193
+- **tipo:** principio
+- **titulo:** Your job is to document your mind and experience on the internet, attracting people with your same personality
+- **desarrollo:** "Your job is to document your mind and experience on the internet. That's it." You attract a specific group "by writing ideas in a way that makes sense to you from your worldview." "The specific group of people are those with your same personality. That's how you set yourself up to create a product for yourself that sells without market research." Practically: "when you notice an idea, post it but from your own point of view. That's what makes you unique. Take the ideas that already work and post them under your brand."
+- **ejemplos:** ninguno
+- **cita:** "Your job is to document your mind and experience on the internet. That's it."
+- **terminos:** document your mind, point of view
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-192
+- **fuente:** Don't Find A Niche. Become The Niche.md, 22:24-23:54, 2024-08-25
+- **tension:** ninguna
+
+## U-010-194
+- **tipo:** método
+- **titulo:** Create your niche of one by outlining the book of your life, used for pattern recognition and as a 1-3 year content plan
+- **desarrollo:** "When you document your life on the internet, you create your niche of one." The mindset and skill set of your past, present and future self should be illustrated persuasively to attract those with a similar personality "but are a few steps behind you so you can actually help them." Outline the structure of a book you would write about your life. Uses: (1) pattern recognition: because the outline exists, you notice more ideas in conversations, books and content, and can fill it in, post or build a product; you notice more opportunities; (2) a content plan for the next one to three years (or one year, then repeat and refine the content the next year). Post sections as newsletters, break them into content ideas, social posts, threads, illustrating your worldview, skill set, interests and mindset "in a valuable way. Not just whatever way you want."
+- **ejemplos:** ninguno
+- **cita:** "When you document your life on the internet, you create your niche of one."
+- **terminos:** niche of one, book of your life, pattern recognition, content plan
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-193
+- **fuente:** Don't Find A Niche. Become The Niche.md, 23:10-24:35, 2024-08-25
+- **tension:** ninguna
+
+## U-010-195
+- **tipo:** principio
+- **titulo:** A brand is the depth behind everything and takes 6-12 months to be perceived; write for someone one to three steps behind
+- **desarrollo:** "Brand is created over 6 to 12 months." People don't see one post and recognize your brand. "A brand is the depth behind everything. It's the values. It's the vision. It's the goals. It's the problems you help solve. It's everything. And you can't just illustrate [it] with one piece of content." 6 to 12 months is "how long it takes for people to see you as an authority and trust you." So fill out the book structure "for someone who is one to three steps behind you." He recommends his 2-Hour Writer course for writing posts, threads and newsletters from the outline.
+- **ejemplos:** ninguno
+- **cita:** "A brand is the depth behind everything."
+- **terminos:** brand, depth, 2-hour writer
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-194
+- **fuente:** Don't Find A Niche. Become The Niche.md, 24:35-25:40, 2024-08-25
+- **tension:** ninguna
+
+## U-010-196
+- **tipo:** ejercicio-del-autor
+- **titulo:** Book introduction, your story: answer five questions on paper about where you started and what got you to your climax
+- **desarrollo:** "Pull out a piece of paper." "Your story is your brand. It is important that you get clear on what your story is so you can use it to frame content from a unique angle. You can start almost any writing with a personal experience. That alone makes it unique and not like the rest of shallow writing" (as he did at the start of this video with his hundred-niches experience). Questions: Where did you start out? What struggles did you go through? What was the climax of your journey? What did you achieve that is desirable to others? What topics, interests or skills helped you get there? "All of these are content topics."
+- **ejemplos:** The video's opening about searching for niches.
+- **cita:** "Your story is your brand."
+- **terminos:** book introduction, your story is your brand
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-194
+- **fuente:** Don't Find A Niche. Become The Niche.md, 25:40-26:21, 2024-08-25
+- **tension:** ninguna
+
+## U-010-197
+- **tipo:** ejercicio-del-autor
+- **titulo:** Section 1, philosophy: answer how one lives the good life, describe your ideal future and the enemy, and your extreme beliefs
+- **desarrollo:** Section one is philosophy "because you need to get people on the same page as you. Your philosophy is your answer to the question, how does one live the good life?" "You must constantly illustrate the importance of what you believe and do in a way that leads towards your ideal future or avoids the enemy of your brand." Questions: Describe your ideal future and lifestyle in detail. What goals are you leading your followers toward? Describe the enemy: what future and lifestyle do you want to avoid like the plague? What beliefs do you have that others would consider extreme or offensive? What is the importance of each topic, interest or skill you've learned on the way to your ideal lifestyle? "Take your time." These answers "will form the majority of your content ideas that lead to the most of your growth and authority. This is the part that makes you unique."
+- **ejemplos:** ninguno
+- **cita:** "Your philosophy is your answer to the question, how does one live the good life?"
+- **terminos:** philosophy, the good life, ideal future, enemy of your brand
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-196
+- **fuente:** Don't Find A Niche. Become The Niche.md, 26:21-27:32, 2024-08-25
+- **tension:** ninguna
+
+## U-010-198
+- **tipo:** método
+- **titulo:** Section 2, education: teach the skills and interests behind your version of the good life, building a library under your brand
+- **desarrollo:** "This is how you build authority, by educating your audience and helping them. Your job is to educate people on the skills or interests that help them achieve your version of the good life or your philosophy. Literally teach them the skills or interests and how you learned it." "You aren't creating anything new. You are simply creating a library of information under your brand. That way people can learn from you."
+- **ejemplos:** ninguno
+- **cita:** "You are simply creating a library of information under your brand."
+- **terminos:** education, library of information
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-197
+- **fuente:** Don't Find A Niche. Become The Niche.md, 27:32, 2024-08-25
+- **tension:** ninguna
+
+## U-010-199
+- **tipo:** advertencia
+- **titulo:** Don't assume "they can learn this elsewhere": social media users aren't searching, so organic content is not intentional search
+- **desarrollo:** "Don't fall into the trap of they can just learn this information somewhere else online. You have to assume they don't have the drive to learn elsewhere and that you have to give them the information. Also realize the massive difference between organic content and intentional searches. People on social media aren't actively looking for education. No, they don't already know it. No, they can't just search for it because they don't have a reason to. Show them that you are valuable enough to follow and they will solely learn from you."
+- **ejemplos:** ninguno
+- **cita:** "they can't just search for it because they don't have a reason to"
+- **terminos:** organic content, intentional searches
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-198
+- **fuente:** Don't Find A Niche. Become The Niche.md, 27:32-28:16, 2024-08-25
+- **tension:** ninguna
+
+## U-010-200
+- **tipo:** heurística
+- **titulo:** Save any idea you'd put under your brand and say it from your own point of view, aligned with your goals; popular means useful
+- **desarrollo:** "Any idea that you could see and you want to put under your brand in the form of content, save it for later and then post it. If it's already been said or taught by someone else, good. Say it from your own point of view in alignment with your own goals because goals shape how you perceive situations." Think about your goals or vision and how the idea relates, "and boom, you have a unique piece of content." Also, "if it's already been said or taught and is popular, that means it's going to be useful for your followers, too."
+- **ejemplos:** ninguno
+- **cita:** "If it's already been said or taught by someone else, good."
+- **terminos:** point of view
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-180, U-010-198
+- **fuente:** Don't Find A Niche. Become The Niche.md, 28:16, 2024-08-25
+- **tension:** ninguna
+
+## U-010-201
+- **tipo:** principio
+- **titulo:** People remember whoever first taught them useful knowledge: be that person for more people
+- **desarrollo:** "People remember those who first taught them the knowledge that is useful to them. Be that person for more people." Example: The Power of Now was recommended to Dan by Matt Ogus; whenever he reads it, he thinks of Matt Ogus. If Dan was the first person to introduce someone to "one person business" and make it click, they will remember him, giving him the authority "even if the other person is talking about the one person business."
+- **ejemplos:** Matt Ogus recommending The Power of Now; the one person business concept.
+- **cita:** "People remember those who first taught them the knowledge that is useful to them."
+- **terminos:** one person business
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-200
+- **fuente:** Don't Find A Niche. Become The Niche.md, 28:16-29:28, 2024-08-25
+- **tension:** ninguna
+
+## U-010-202
+- **tipo:** método
+- **titulo:** Section 3, practice: write step-by-step systems for your skills, turn the best into products, and give them your own name
+- **desarrollo:** "Create step-by-step systems and practices that your readers can use to get better at your skills or interests. Do this now. Write out step-by-step plans for your audience to learn the skills or interests under your brand. Then write content about them. Turn the best ones into products or services. As a bonus, slap your own name on these." Take something like "1% better every day" or the Eisenhower matrix, "spin it and make it your own. Put a new name on it." If you see "solopreneurship," spin it into "the one person business." If you see "the 4-hour work week," turn it into "the 4-hour workday" or "2-hour writer."
+- **ejemplos:** Eisenhower matrix, 1% better every day; solopreneurship -> one person business; 4-hour work week -> 4-hour workday / 2-hour writer.
+- **cita:** "As a bonus, slap your own name on these."
+- **terminos:** practice, one person business, 4-hour workday, 2-hour writer
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-198
+- **fuente:** Don't Find A Niche. Become The Niche.md, 29:28-30:14, 2024-08-25
+- **tension:** ninguna
+
+## U-010-203
+- **tipo:** principio
+- **titulo:** Behavior change is the driver of authority and recognition; writing your "book" over 6-12 months blows past 99% of people
+- **desarrollo:** "Behavior change is the driver of authority and recognition. When you write your quote unquote book with time on social media, in emails, and in free downloads, you build a brand that blows past 99% of people." Recap: creating your niche of one is outlining the book, then writing it in newsletters, threads, social posts "over 6 to 12 months until people genuinely understand your brand."
+- **ejemplos:** ninguno
+- **cita:** "Behavior change is the driver of authority and recognition."
+- **terminos:** behavior change, authority
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-202
+- **fuente:** Don't Find A Niche. Become The Niche.md, 30:14-30:50, 2024-08-25
+- **tension:** ninguna
+
+## U-010-204
+- **tipo:** advertencia
+- **titulo:** Separate content from product: you don't need to niche every post when a compelling landing page or download establishes authority in one go
+- **desarrollo:** Dan gets the question "almost daily": what if talking about more interests gets low engagement? "First, we need to understand the difference between content and product. People think that content is all about promotions." They think they should only write content that leads to sales and leads, and niche down everything they write, "rather than having a specific and compelling landing page or free download for a product that establishes authority in one go. So, you don't have to talk about it all the time in your content."
+- **ejemplos:** ninguno
+- **cita:** "People think that content is all about promotions."
+- **terminos:** content, product, landing page
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** ninguno
+- **fuente:** Don't Find A Niche. Become The Niche.md, 30:50-31:32, 2024-08-25
+- **tension:** ninguna
+
+## U-010-205
+- **tipo:** método
+- **titulo:** Create evergreen pieces (newsletter, article, video) and plug them under posts; an educational landing page means you rarely need to write about the product
+- **desarrollo:** You can write one newsletter, post it as a blog article, turn it into a YouTube video, break it into content ideas, and plug those things under posts "because then those are evergreen pieces of information." Social posts disappear, so it's wise to keep writing them to attract more people. Along the way, occasionally write about what you sell and plug a newsletter, article, video, free download or the product landing page. "If my product landing page actually educates people to the point of trusting me and knowing that this is valuable for their life, then I don't really need to write about that thing too much because it already lives on the internet and all I have to do is link to it."
+- **ejemplos:** ninguno
+- **cita:** "it already lives on the internet and all I have to do is link to it"
+- **terminos:** evergreen pieces
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-204
+- **fuente:** Don't Find A Niche. Become The Niche.md, 31:32-32:18, 2024-08-25
+- **tension:** ninguna
+
+## U-010-206
+- **tipo:** advertencia
+- **titulo:** Brands that only post product updates or tack irrelevant promos onto good posts fail because they never show they're human
+- **desarrollo:** Some only post images of their product or updates, common with software: some people follow for updates, "but you're not really attracting any new customers that way," a boring way to run social media; "if that's your life's work, why is it not better?" Others make a valuable post then "can't help but just throw a promotion in there": Dan recalls (without naming) a good post followed by an unrelated "celebrate the best American business there is on the planet" and a supplement plug: "you would have probably made more sales if you just didn't include that" (he admits he doesn't actually know). "Most of these brands just don't show that they're a human. They never educate, entertain, or inspire ... They only sell. Nobody follows company accounts. People follow educators, entertainers, and inspirers."
+- **ejemplos:** Software update accounts; supplement plug under unrelated post.
+- **cita:** "Nobody follows company accounts. People follow educators, entertainers, and inspirers."
+- **terminos:** educate, entertain, inspire
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-205
+- **fuente:** Don't Find A Niche. Become The Niche.md, 32:18-33:37, 2024-08-25
+- **tension:** ninguna
+
+## U-010-207
+- **tipo:** caso
+- **titulo:** Red Bull grew a massive following without a single product picture, posting the lifestyle its product enables
+- **desarrollo:** "Red Bull has a massive following because they don't have a single picture of their product on their Instagram. It's all inspirational content about the lifestyle people are living because of Red Bull." "If all you do is talk about your product that is a great way to never grow your brand, have engaged readers, or see exponential growth in revenue." "A personal brand is the most potent traffic source for your product, service, or brand in general."
+- **ejemplos:** Red Bull's Instagram.
+- **cita:** "a personal brand is the most potent traffic source for your product, service, or brand in general"
+- **terminos:** personal brand, traffic source
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-206
+- **fuente:** Don't Find A Niche. Become The Niche.md, 33:37, 2024-08-25
+- **tension:** ninguna
+
+## U-010-208
+- **tipo:** argumento
+- **titulo:** Only talking about what makes you money leads to low engagement, no trust, no likeability, and being trapped in that niche
+- **desarrollo:** "Flipping this on its head": what happens if you only talk about the interests or skills that make you money? (1) Low engagement: "If your content doesn't get shared, how are you going to grow so that you have more people to promote to?" (2) You don't build trust or authority: "Stop thinking like you have to monetize right now and start thinking that you're going to monetize in 12 months and you'll monetize faster now by doing so." (3) People don't like you. And if you ever want to pivot and sell something else, you won't be able to: "You're trapped in whatever niche you always sell to."
+- **ejemplos:** ninguno
+- **cita:** "start thinking that you're going to monetize in 12 months and you'll monetize faster now by doing so"
+- **terminos:** ninguno
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-207
+- **fuente:** Don't Find A Niche. Become The Niche.md, 33:37-34:45, 2024-08-25
+- **tension:** ninguna
+
+## U-010-209
+- **tipo:** método
+- **titulo:** Run separate content-creation and content-promotion schedules, then adjust: no sales means more or better promotions; no growth means better content
+- **desarrollo:** "Separate the two things, content, product." Create a content creation schedule, e.g. three social posts a day, one newsletter a week, one thread a week "maybe maximum." Then a content promotion schedule, e.g. promote twice inside the newsletter and three times a week under a social post. "Create a system and then you test it and then you try it out and then you change it. You put it on your calendar and you actually do the thing." Diagnostics: not making sales, increase promotions; still not working, make the promotions better. Not growing on social, change your content schedule; still not working, make the content better. "It's pretty freaking simple."
+- **ejemplos:** 3 posts/day, 1 newsletter/week, 1 thread/week; 2 newsletter promos, 3 post promos/week.
+- **cita:** "If you aren't making sales, okay, increase promotions. If that still doesn't work, okay, make the promotions better."
+- **terminos:** content creation schedule, content promotion schedule
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-204
+- **fuente:** Don't Find A Niche. Become The Niche.md, 34:06-34:45, 2024-08-25
+- **tension:** ninguna
+
+## U-010-210
+- **tipo:** principio
+- **titulo:** People have multiple interests and can adopt new ones; make yours interesting by highlighting benefits and solving pain points
+- **desarrollo:** With sarcasm: "people have multiple interests. Insane." "People can adopt new interests. Oh my god." "You can make your interests interesting so people become interested in them. You do this by highlighting the benefits of achieving the goals of your brand and making people aware of how to solve their pain points with your skills and interests."
+- **ejemplos:** ninguno
+- **cita:** "You can make your interests interesting so people become interested in them."
+- **terminos:** make your interests interesting
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-171
+- **fuente:** Don't Find A Niche. Become The Niche.md, 34:45-35:31, 2024-08-25
+- **tension:** ninguna
+
+## U-010-211
+- **tipo:** framework
+- **titulo:** Viewers to fans to super fans: one interest, a second interest, then shared beliefs and values (The Rock)
+- **desarrollo:** Highlighting benefits and pain points "is what turns viewers into fans into super fans." Someone may follow you for one interest, like following Dwayne "The Rock" Johnson after watching one of his movies: now they're a viewer. Then you share another interest of theirs or introduce them to something new, like The Rock posting about fitness and nutrition: now they're a fan. Then they discover the beliefs or values that compose your mindset, like how The Rock values gratitude and hard work: now they're a super fan. "Talking about more than one interest is how you become irreplaceable."
+- **ejemplos:** Dwayne "The Rock" Johnson.
+- **cita:** "Talking about more than one interest is how you become irreplaceable."
+- **terminos:** viewers, fans, super fans, irreplaceable
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-210
+- **fuente:** Don't Find A Niche. Become The Niche.md, 35:31-36:16, 2024-08-25
+- **tension:** ninguna
+
+## U-010-212
+- **tipo:** concepto
+- **titulo:** The best personal brands are the niche through unconscious competence, then wrongly tell others to niche down
+- **desarrollo:** "The best personal brands do this without trying. And then usually they tell you to go into a niche because they don't realize that they are the niche. They don't realize what they're doing": "I post about this thing maybe every other day, but I also talk about all these other things, but no, that's not even a part of my brand." "That's called unconscious competence." They post whatever they deem important and try to illustrate its importance, and the content does well "because if it's valuable to them, it's probably valuable to you or some people."
+- **ejemplos:** ninguno
+- **cita:** "That's called unconscious competence."
+- **terminos:** unconscious competence
+- **origen:** propia
+- **nivel:** intermedio
+- **prerrequisitos:** U-010-211
+- **fuente:** Don't Find A Niche. Become The Niche.md, 35:31-36:46, 2024-08-25
+- **tension:** ninguna
+
+## U-010-213
+- **tipo:** proceso
+- **titulo:** Three ways to start: focus on education (your past self), understanding (followers' gaps), importance (why you chose your path)
+- **desarrollo:** "First, focus on education. Adopt the mind of your past self, an absolute beginner. How would they get to where you are now in a better way? Post that. Second is focus on understanding. Zoom out and identify the gaps in your followers knowledge. What do they need to know to get on the same page as you? Post that. Third is focus on importance. Analyze your life and realize why you do what you do. Why do you only have those select skills and beliefs rather than the millions of others you could have? ... Why did you take the path you did over another one? Post that."
+- **ejemplos:** ninguno
+- **cita:** "Adopt the mind of your past self, an absolute beginner."
+- **terminos:** education, understanding, importance
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-193
+- **fuente:** Don't Find A Niche. Become The Niche.md, 36:46-37:14, 2024-08-25
+- **tension:** ninguna
+
+## U-010-214
+- **tipo:** principio
+- **titulo:** Talking about two or three interests is not "un-niched": you are very niched down by being the niche
+- **desarrollo:** "People think they're not niched down by talking about two to three interests when there's a lot more interests out there. You're very niched down by being the niche."
+- **ejemplos:** ninguno
+- **cita:** "You're very niched down by being the niche."
+- **terminos:** being the niche
+- **origen:** propia
+- **nivel:** fundamental
+- **prerrequisitos:** U-010-213
+- **fuente:** Don't Find A Niche. Become The Niche.md, 37:14, 2024-08-25
 - **tension:** ninguna
 
