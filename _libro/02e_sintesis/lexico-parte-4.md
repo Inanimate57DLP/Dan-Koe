@@ -3662,9 +3662,9 @@ Fuente: `lexico-todo.md`, filas 2562–3389 (términos que empiezan por s–z, i
 - **relación:** vecino de second tier.
 
 ### tight knit group
-- **tipo:** término de invitado
+- **tipo:** término acuñado
 - **definición:** Grupo selecto y real que no se puede mantener si se deja entrar a demasiados.
-- **acuñado por:** Dan Koe (en el contexto de Sahil Bloom, 2025-01)
+- **acuñado por:** Dan Koe
 - **fechas:** 2025-01 (única aparición)
 - **IDs:** U-005-086
 - **relación:** vecino de eject button.
@@ -4727,9 +4727,9 @@ Fuente: `lexico-todo.md`, filas 2562–3389 (términos que empiezan por s–z, i
 - **relación:** vecino de 7 Days to Genius Ideas.
 
 ### value prop / initial hump
-- **tipo:** término de invitado
+- **tipo:** término acuñado
 - **definición:** La oferta para atraer talento debe valer su tiempo; al inicio se pelea cuesta arriba hasta que crece.
-- **acuñado por:** Dan (en el contexto de Stan, 2025-01-28)
+- **acuñado por:** Dan
 - **fechas:** 2025-01-28 (única aparición)
 - **IDs:** U-004-061
 - **relación:** vecino de productizing a company.
@@ -4936,3 +4936,660 @@ Fuente: `lexico-todo.md`, filas 2562–3389 (términos que empiezan por s–z, i
 - **IDs:** U-012-147
 - **relación:** vecino de prototype.
 
+### vote of approval / find your group
+- **tipo:** término de invitado
+- **definición:** Cualquier interacción te expone a la audiencia de quien interactúa; encuentra tu grupo y crece con él.
+- **acuñado por:** Vitali (Stan)
+- **fechas:** 2025-01 (única aparición)
+- **IDs:** U-004-019
+- **relación:** vecino de inject yourself in a tribe.
+
+### wage slave
+- **tipo:** palabra común con sentido propio
+- **definición:**
+  - (2024-03-24, "wage slave") Quien aprende una habilidad específica para que un empleador "become your master".
+  - (2023–2026, forma "wage slavery / wage slave") "Doing meaningless grind work you didn't choose for someone else just to survive".
+- **acuñado por:** término popular redefinido por Dan Koe (la primera versión, sobre Devon Eriksen)
+- **fechas:** 2023 – 2026
+- **IDs:** U-013-165, U-012-203, U-012-051, U-011-186, U-016-183
+- **relación:** vecino de specialist slave, modern slave y mental and financial slavery.
+
+### wake up before distractions / sacred hours
+- **tipo:** término acuñado
+- **definición:** Las horas de 5 a 7 en que nada distrae.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-01 (única aparición)
+- **IDs:** U-017-030, U-003-083
+- **relación:** vecino de glitch in the Matrix.
+
+### walk for intention
+- **tipo:** término acuñado
+- **definición:** Caminata matutina sin teléfono ni audio para escribir mentalmente antes de trabajar.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-12 (única aparición)
+- **IDs:** U-018-179
+- **relación:** vecino de creativity block; distinto de walking meditation.
+
+### walking business
+- **tipo:** término de tercero usado por el autor
+- **definición:** Una persona que sabe resolver desafíos concretos, en lugar de "personal brand".
+- **acuñado por:** Justin Welsh
+- **fechas:** 2021 (única aparición)
+- **IDs:** U-005-033
+- **relación:** alternativa a personal brand.
+
+### walking contradiction
+- **tipo:** término acuñado
+- **definición:** Quien llama riesgo a lanzarse a la incomodidad pero no a repetir lo mismo 10 años.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-06 (única aparición)
+- **IDs:** U-026-018
+- **relación:** vecino de risk.
+
+### walking meditation
+- **tipo:** palabra común con sentido propio
+- **definición:** Meditar caminando con foco en los pies o la respiración.
+- **acuñado por:** Dan Koe (práctica)
+- **fechas:** 2024-06 (única aparición)
+- **IDs:** U-019-102
+- **relación:** vecino de meditation; distinto de walk for intention.
+
+### WALL-E citizen
+- **tipo:** término acuñado
+- **definición:** Quien babea ante un algoritmo curado y permanece en estrés y supervivencia.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-02 (única aparición)
+- **IDs:** U-012-121
+- **relación:** vecino de entropic content.
+
+### Walmart quality captions
+- **tipo:** término acuñado
+- **definición:** Servicios genéricos y de baja calidad ofrecidos en masa por DM.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-008-046
+- **relación:** vecino de bottom feeders.
+
+### war mode
+- **tipo:** término acuñado
+- **definición:**
+  - (2025-03) Fase de ejecución: compromiso irreversible, aprender + construir, exposición masiva de 2–3 meses.
+  - (2025) Atacar metas, simular una caza, decir sí a todo, saturarse de caos durante 2–3 meses.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025 – 2025-03
+- **IDs:** U-025-100, U-025-119, U-025-093, U-025-126, U-025-120
+- **relación:** opuesto complementario de monk mode; ver Vision / Clarity / Identity.
+
+### waves of life / inevitable waves of life / mindful response
+- **tipo:** término acuñado
+- **definición:** Altos y bajos inevitables de la vida, distintos de la respuesta consciente que eliges ante ellos.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-07 (única aparición)
+- **IDs:** U-024-001, U-024-003, U-024-026
+- **relación:** vecino de cycles of life; antecede a seasons.
+
+### way of water / way of fire
+- **tipo:** término acuñado
+- **definición:** Equilibrio entre construir y descansar al decidir dónde va tu atención.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-05 (única aparición)
+- **IDs:** U-012-066
+- **relación:** vecino de pockets of the internet.
+
+### weaponize your survival
+- **tipo:** término acuñado
+- **definición:**
+  - (2026-05) Identificarse con quien quieres ser para que el mecanismo de supervivencia trabaje a favor.
+  - (2026, forma "weaponize your survival mechanism") Reprogramar la mente para sentirse amenazada al dejar una meta significativa.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026 – 2026-05
+- **IDs:** U-024-172, U-024-147
+- **relación:** vecino de identity lists y Afraid of mediocrity.
+
+### web of concepts / web of ideas / web of beliefs
+- **tipo:** término acuñado
+- **definición:** El self como red de conceptos, creencias, ideas, experiencias y percepciones.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2026
+- **IDs:** U-009-114, U-023-156, U-024-146, U-027-059
+- **relación:** vecino de identity; ver Web of ideas / nodes y web of expectations.
+
+### web of conscious and unconscious goals
+- **tipo:** término acuñado
+- **definición:** Lo que compone la identidad y la mente, con sus sistemas.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-11 – 2023-12
+- **IDs:** U-018-130, U-020-051
+- **relación:** vecino de identity.
+
+### web of expectations
+- **tipo:** término acuñado
+- **definición:** Expectativas, suposiciones y predicciones (creencias) sobre lo que la vida "ha sido y debería ser, no lo que es", transmitidas y condicionadas.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-11-20 – 2023-10-22
+- **IDs:** U-023-011, U-027-180, U-023-035
+- **relación:** definición de the Matrix; se proyecta al juzgar a otros.
+
+### Web of ideas / nodes
+- **tipo:** término acuñado
+- **definición:** La visión del mundo como red de ideas; se lee para agregar unos pocos nodos.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 – 2026
+- **IDs:** U-021-154, U-020-143, U-021-216
+- **relación:** vecino de worldview; ver web of concepts / web of ideas / web of beliefs.
+
+### web of interest
+- **tipo:** término acuñado
+- **definición:** Combinación única de intereses que hace imposible la saturación.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-008-021
+- **relación:** vecino de intersections; ver saturation (does not exist).
+
+### week-long plan / week-long system / mental housekeeping
+- **tipo:** término acuñado
+- **definición:** Escribir toda la semana siguiente e iterar sobre los problemas hasta que sea sistema y hábito.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-01 – 2024-01
+- **IDs:** U-025-022, U-025-077, U-017-185
+- **relación:** vecino de reverse entropy.
+
+### weekly review / focus projects
+- **tipo:** término acuñado
+- **definición:** Qué salió bien, qué no, gratitud, proyectos foco.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-10 (única aparición)
+- **IDs:** U-017-235
+- **relación:** vecino de review, reflection, prediction.
+
+### weight on the bar / mental muscle
+- **tipo:** término acuñado
+- **definición:** El emprendimiento como carga mental de alta magnitud (315 lb) frente a preocupaciones menores (5 lb).
+- **acuñado por:** Dan Koe
+- **fechas:** 2025 (única aparición)
+- **IDs:** U-025-194
+- **relación:** vecino de business as spiritual.
+
+### weird cloud
+- **tipo:** término acuñado
+- **definición:** El objetivo no es un punto sino "una nube rara de lo que creo que quiero" hacia la que se avanza de forma no lineal.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-03 (única aparición)
+- **IDs:** U-025-103
+- **relación:** vecino de general aim y soft idea; ver self-corrective compass.
+
+### well-informed self-reflection
+- **tipo:** término acuñado
+- **definición:** De donde vienen la mayoría de las grandes ideas; la estrategia se forma fuera del "juego".
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-05 (única aparición)
+- **IDs:** U-019-127
+- **relación:** vecino de deep focus as game quest.
+
+### well-rounded service
+- **tipo:** término acuñado
+- **definición:** Servicio integral ajustado a un negocio, que no se puede subcontratar a un software.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-10 (única aparición)
+- **IDs:** U-011-085
+- **relación:** —
+
+### western notion of happiness
+- **tipo:** término acuñado
+- **definición:** Felicidad como dopamina eufórica sin fin; el autor la rechaza.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-08 (única aparición)
+- **IDs:** U-016-241
+- **relación:** vecino de happiness is not euphoria y peak experiences.
+
+### what is / what isn't
+- **tipo:** término acuñado
+- **definición:** Solo la experiencia directa presente "es"; la proyección mental "no es".
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-03 (única aparición)
+- **IDs:** U-027-046, U-027-047
+- **relación:** vecino de concept vs experience; ver what should be.
+
+### what should be
+- **tipo:** término acuñado
+- **definición:** Expectación de cómo deberían ser las cosas (normalmente "fácil") que nos esclaviza.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-02 (única aparición)
+- **IDs:** U-026-233
+- **relación:** vecino de expectation vs intention y radical acceptance; ver web of expectations.
+
+### what's in it for me
+- **tipo:** palabra común con sentido propio
+- **definición:** Pregunta que todo mensaje persuasivo debe responder o implicar.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2024
+- **IDs:** U-013-045, U-013-151
+- **relación:** vecino de relevance.
+
+### what's next
+- **tipo:** término acuñado
+- **definición:** Pregunta de la fase perdida que lleva a la desesperación o a nuevos potenciales según se perciba.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-06 (única aparición)
+- **IDs:** U-026-104
+- **relación:** vecino de new potentials.
+
+### when in doubt, zoom out
+- **tipo:** término acuñado
+- **definición:** "The solution to struggle is perspective".
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-010-038, U-014-053
+- **relación:** ver zoom in / zoom out.
+
+### whiners and complainers
+- **tipo:** término acuñado
+- **definición:** Generación quejosa; adoptar la queja cierra la mente a soluciones.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-05-30 (única aparición)
+- **IDs:** U-026-174
+- **relación:** vecino de close your mind.
+
+### who you are / differentiation
+- **tipo:** término de invitado
+- **definición:** Entender tus valores y qué valor das revela tu diferenciación.
+- **acuñado por:** John Hugh
+- **fechas:** 2025-01-28 (única aparición)
+- **IDs:** U-004-083
+- **relación:** vecino de founder market fit.
+
+### whole parts
+- **tipo:** término de tercero usado por el autor
+- **definición:** La realidad está hecha de todos que son partes de todos mayores; cuando algo se vuelve complejo emerge un nuevo todo.
+- **acuñado por:** adaptado (vocabulario similar al de Ken Wilber, sin atribución explícita)
+- **fechas:** 2025-06 (única aparición)
+- **IDs:** U-019-156
+- **relación:** vecino de dissipative structures y new whole emerges.
+
+### whys stacked behind it / stack reasons
+- **tipo:** término acuñado
+- **definición:** Acumular razones personales detrás de un hábito para que guste.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 – 2023
+- **IDs:** U-027-027, U-024-056
+- **relación:** misma idea que stack whys / stacking whys; vecino de creativity block.
+
+### wired to hunt
+- **tipo:** término acuñado
+- **definición:**
+  - (2023-08, 2024-02) La psique evolucionó para notar la novedad útil para sobrevivir.
+  - (2024-07) La psique hace descubrimientos novedosos que ayudan a sobrevivir.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-08 – 2024-07
+- **IDs:** U-016-207, U-003-251, U-023-185
+- **relación:** vecino de Modern Survival y novelty.
+
+### work brings order to the mind
+- **tipo:** término acuñado
+- **definición:** El trabajo ordena la mente y da contraste al descanso.
+- **acuñado por:** Dan Koe (libro)
+- **fechas:** 2024-01 (única aparición)
+- **IDs:** U-017-183
+- **relación:** vecino de the new rich.
+
+### work cut off
+- **tipo:** término acuñado
+- **definición:** El gimnasio como punto en que el día pasa del trabajo al descanso.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2024
+- **IDs:** U-018-149, U-018-182
+- **relación:** vecino de dead stop.
+
+### work has turned into play
+- **tipo:** término acuñado
+- **definición:** Crear por diversión una vez reducido el estrés por el dinero.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-010-056
+- **relación:** vecino de the future of work is play (T14).
+
+### work less, earn more, enjoy life
+- **tipo:** término acuñado
+- **definición:**
+  - (2022, 2024) Lema y propuesta de valor: trabajar menos con sistemas, ganar más creando la forma, disfrutar como subproducto.
+  - (2024-02) Lema y propuesta de valor del autor: trabajar tanto o tan poco como se quiera construyendo los sistemas que lo permiten; el disfrute es subproducto de trabajar menos, descansar más y ganar más.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 – 2024
+- **IDs:** U-007-037, U-001-002, U-001-001
+- **relación:** vecino de 4-Hour Workday y success is counterintuitive.
+
+### work like a lion, not a cow
+- **tipo:** término de tercero usado por el autor
+- **definición:** Trabajar en ráfagas intensas y descansar mucho, frente a horas lineales constantes.
+- **acuñado por:** Naval (adaptado por Dan Koe)
+- **fechas:** 2024-05 – 2025-05
+- **IDs:** U-019-128, U-019-132, U-004-064, U-016-084, U-019-076
+- **relación:** vecino de tactical stress (que el autor presenta como su nombre propio para este ciclo).
+
+### work them up the ladder
+- **tipo:** término acuñado
+- **definición:** Empezar por la supervivencia y la identidad y llevar al sentido y al propósito por el funnel.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-07 (única aparición)
+- **IDs:** U-013-236
+- **relación:** vecino de surface before depth.
+
+### world model / most encompassing world model
+- **tipo:** término acuñado
+- **definición:** Las creencias que fijan la forma del pensamiento; conviene adoptar el más abarcador.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-02 (única aparición)
+- **IDs:** U-022-100
+- **relación:** vecino de model of reality.
+
+### world of replaceability / infinite game
+- **tipo:** término acuñado
+- **definición:** El camino del problem solver escapa de la reemplazabilidad; enamorarse de los problemas "from superficial to metaphysical" es el infinite game.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-01 – 2026-02
+- **IDs:** U-010-030, U-024-042, U-012-189
+- **relación:** vecino de path of the problem solver.
+
+### wrapper
+- **tipo:** palabra común con sentido propio
+- **definición:** Software construido sobre otra tecnología; "every piece of software will be a wrapper".
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-01 (única aparición)
+- **IDs:** U-008-189
+- **relación:** ver ultimate wrapper / app layer.
+
+### write broad, narrow down across your content funnel
+- **tipo:** término acuñado
+- **definición:** Temas relatables arriba del funnel; el nicho lo prueba la página de producto.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-12 (única aparición)
+- **IDs:** U-009-197
+- **relación:** vecino de anti-niche y nicheless.
+
+### write to discover, not to perform / resist the template
+- **tipo:** término acuñado
+- **definición:** Pasos del ensayo: empezar desde la incertidumbre y pensar antes de estructurar.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-04 (única aparición)
+- **IDs:** U-014-132
+- **relación:** en tensión con training wheels.
+
+### write to yourself, build for yourself, sell to yourself
+- **tipo:** término acuñado
+- **definición:** Crear desde lo aprendido en el propio camino.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2024
+- **IDs:** U-023-135, U-001-112
+- **relación:** vecino de sell to yourself.
+
+### writer's block (y default mode network)
+- **tipo:** palabra común con sentido propio
+- **definición:** Señal de que la mente está lista para masticar el problema en el subconsciente.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-11 (única aparición)
+- **IDs:** U-023-041
+- **relación:** vecino de aha moment.
+
+### Writer's Bootcamp
+- **tipo:** nombre de producto/framework
+- **definición:** Programa de cinco semanas para dominar la escritura digital.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-10 (única aparición)
+- **IDs:** U-017-236
+- **relación:** vecino de brand vision.
+
+### writing and people
+- **tipo:** término acuñado
+- **definición:** Hay escritura y hay gente: la escritura no se ve sin gente que la comparta.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-10-15 (única aparición)
+- **IDs:** U-004-135
+- **relación:** vecino de build an audience vs write content (U-008-089).
+
+### writing in public
+- **tipo:** término acuñado
+- **definición:** Escribir expuesto a la crítica pública; fuente de confianza.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-05 (única aparición)
+- **IDs:** U-018-089, U-018-094
+- **relación:** vecino de public journal; ver zero barrier of entry skill y thinking in public.
+
+### writing is media / digital media is leverage
+- **tipo:** término acuñado
+- **definición:** Una persona escribe y un millón lo ve.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-10 (única aparición)
+- **IDs:** U-024-135
+- **relación:** vecino de foundation of media y leverage.
+
+### writing system
+- **tipo:** término acuñado
+- **definición:** Pasos propios de escritura probados y refinados.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 – 2024
+- **IDs:** U-013-031, U-001-096, U-002-105
+- **relación:** vecino de absolute advice y real expert.
+
+### writing, promotion, iteration
+- **tipo:** término acuñado
+- **definición:** Las tres palancas del value creator para llegar a $1M.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-016-079
+- **relación:** vecino de levers y two levers (U-008-170); ver the $1 million Creator.
+
+### wrong game / survival game / transcend the game
+- **tipo:** término acuñado
+- **definición:** Ganar el juego revela que era el equivocado; se reemplaza un juego de supervivencia por otro; hay que jugarlo y trascenderlo.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-05 (única aparición)
+- **IDs:** U-024-173
+- **relación:** vecino de moving the goalpost y existential crisis.
+
+### yin-yang model
+- **tipo:** término de invitado
+- **definición:** Sociedad de cofundadores con los mismos valores centrales y perspectivas distintas.
+- **acuñado por:** John Hugh
+- **fechas:** 2025-01-28 (única aparición)
+- **IDs:** U-004-081
+- **relación:** vecino de meta time.
+
+### you are already a business
+- **tipo:** término acuñado
+- **definición:** Ya tienes valor que dar; falta saber exponerte y cobrar.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-019-013
+- **relación:** aproximadamente turn yourself into the business.
+
+### you are the marketing and sales department
+- **tipo:** término acuñado
+- **definición:** En un negocio de una persona, promocionar a diario es tarea tuya.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-002-135
+- **relación:** vecino de promotion schedule.
+
+### you are the media
+- **tipo:** término acuñado
+- **definición:**
+  - (2025-02-16) Las redes son los medios y los medios moldean la cultura; por eso publicar contenido orgánico importa.
+  - (2025-09) La cadena individuo → cultura → media; hoy el individuo es el medio.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-02-16 – 2025-09
+- **IDs:** U-012-132, U-015-171
+- **relación:** vecino de one-person media company y merging level one with level two.
+
+### you are the niche
+- **tipo:** término acuñado
+- **definición:** Tu historia, intereses, cosmovisión y metas son el nicho; no compites porque eres el único tú.
+- **acuñado por:** Dan Koe (también Justin Welsh y John Hugh)
+- **fechas:** 2021 – 2026
+- **IDs:** U-010-043, U-010-021, U-004-025, U-005-047, U-019-020, U-021-225, U-014-125, U-012-166, U-020-158, U-016-278
+- **relación:** equivalente a niche of one, the most profitable niche is you y become the niche; ver yourself as the niche.
+
+### you can only cook with what's in the fridge
+- **tipo:** término de tercero usado por el autor
+- **definición:** La mente solo crea y nota oportunidades con lo que contiene.
+- **acuñado por:** canal no nombrado (adaptada)
+- **fechas:** 2024 – 2026
+- **IDs:** U-020-123, U-022-214
+- **relación:** vecino de mental junk food y mental fat.
+
+### you can't improve what isn't published
+- **tipo:** término acuñado
+- **definición:** Publicado = construido en la realidad.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 – 2026
+- **IDs:** U-018-097, U-012-233
+- **relación:** vecino de confidence is improvement.
+
+### you gain experience by starting
+- **tipo:** término acuñado
+- **definición:** Inversión de "necesitas experiencia para empezar".
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-11 (única aparición)
+- **IDs:** U-007-093
+- **relación:** vecino de impostor syndrome.
+
+### your message must mimic the universe
+- **tipo:** término acuñado
+- **definición:** Mensaje con historias, altos y bajos, curiosity loop, problema agitado, experiencia, meta implicada y camino.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-01 (única aparición)
+- **IDs:** U-017-191
+- **relación:** vecino de value is behavior change.
+
+### your own lens
+- **tipo:** término acuñado
+- **definición:** Reglas, valores, visión y misión propios; las perspectivas ajenas son "lenses... not your lens".
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 (única aparición)
+- **IDs:** U-024-025
+- **relación:** vecino de actively construct your life.
+
+### your own little world
+- **tipo:** término acuñado
+- **definición:** Marco propio en el que viven los exitosos: un videojuego programado por uno que repele distracciones.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025 (única aparición)
+- **IDs:** U-024-207, U-027-230
+- **relación:** vecino de navigation system y frame.
+
+### your path is your product
+- **tipo:** término acuñado
+- **definición:** Lo que haces para lograr metas comunes es distinto y eso se vende.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-021-047
+- **relación:** vecino de solve your own problems and sell the solution.
+
+### your product is you
+- **tipo:** término de invitado
+- **definición:** Online, el producto eres tú: tu capacidad de ser interesante.
+- **acuñado por:** Devon Eriksen
+- **fechas:** 2024-12-08 (única aparición)
+- **IDs:** U-006-062
+- **relación:** vecino de people follow people.
+
+### your standard
+- **tipo:** término acuñado
+- **definición:** Cuánto ganas lo define tu estándar; subirlo ilumina los problemas.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-006-185
+- **relación:** ver standards.
+
+### your story is your brand
+- **tipo:** término acuñado
+- **definición:**
+  - (2022–2026) La historia propia es lo que separa la marca.
+  - (2022-12, 2024-02) La historia de transformación del autor es su marca.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 – 2026
+- **IDs:** U-010-075, U-010-196, U-010-308, U-007-129, U-001-131, U-007-131
+- **relación:** vecino de the glue between perspectives y mental monopoly; ver sales is storytelling.
+
+### yourself as the niche
+- **tipo:** término acuñado
+- **definición:** Tratarte a ti mismo como nicho y usar el contenido como tráfico a un producto que tú comprarías.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 – 2023
+- **IDs:** U-009-098, U-007-175
+- **relación:** aproximadamente become the niche (U-023-188); ver you are the niche.
+
+### youth as currency vs investment capital
+- **tipo:** término acuñado
+- **definición:** Gastar la juventud (tiempo, energía, foco) en vez de invertirla.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-07 (única aparición)
+- **IDs:** U-025-175
+- **relación:** vecino de three traps.
+
+### Zeigarnik effect / open loops
+- **tipo:** término de tercero usado por el autor
+- **definición:** El cerebro retiene lo incompleto; útil para volver a un bloque, dañino si no se procesa por la noche.
+- **acuñado por:** psicología
+- **fechas:** 2025-05 – 2025-10
+- **IDs:** U-003-204, U-018-071
+- **relación:** vecino de 3-2-1 framework; ver Zeigarnik effect squared.
+
+### Zeigarnik effect squared
+- **tipo:** término de tercero usado por el autor
+- **definición:** Empezar tareas fáciles previas para que queden inconclusas y arrastren al trabajo principal.
+- **acuñado por:** Justin Sung (adaptado)
+- **fechas:** 2025-03 (única aparición)
+- **IDs:** U-021-124
+- **relación:** variante de Zeigarnik effect.
+
+### zero barrier of entry skill
+- **tipo:** término acuñado
+- **definición:** Escribir en público como primer paso sin capital ni experiencia.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-05 (única aparición)
+- **IDs:** U-018-094
+- **relación:** vecino de writing in public.
+
+### zip files for your mind
+- **tipo:** término acuñado
+- **definición:** Contenido, cursos y libros condensan información accionable.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-08 (única aparición)
+- **IDs:** U-027-152
+- **relación:** vecino de new school system.
+
+### zones of genius
+- **tipo:** término de invitado
+- **definición:** Las dos cosas en las que eres fantástico y en las que debes pasar casi todo tu tiempo.
+- **acuñado por:** John Hugh
+- **fechas:** 2025-01-28 (única aparición)
+- **IDs:** U-004-048
+- **relación:** vecino de jobs to be done.
+
+### zoom in / zoom out
+- **tipo:** término acuñado
+- **definición:**
+  - (2022-10 a 2024-08) Acercarse agranda el problema y la ansiedad; alejarse lo vuelve un píxel en una imagen hermosa.
+  - (2023–2024, forma "zooming out / zooming in") Zoom out: perspectiva (quién llegar a ser); zoom in: percepción (qué elegir).
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-10 – 2024-08
+- **IDs:** U-026-049, U-026-050, U-026-059, U-026-097, U-017-142, U-020-127, U-023-098, U-023-156
+- **relación:** vecino de Focus Matrix y camera; ver zoom out / inklings, zoom out a layer, when in doubt, zoom out.
+
+### zoom out / inklings
+- **tipo:** término acuñado
+- **definición:** Ampliar el foco hasta ver que la lucha es universal; desde ahí los indicios se apilan en una visión.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-10 – 2023-06
+- **IDs:** U-026-105, U-026-060
+- **relación:** vecino de expand your focus y higher consciousness; ver zoom in / zoom out.
+
+### zoom out a layer
+- **tipo:** término acuñado
+- **definición:**
+  - (2025-07, "zoom out a layer") Ver la propia etapa desde fuera para identificar lo que más se valora.
+  - (2024-02, "Zoom out one layer") Tras entender un tema, pasar a la capa superior (Photoshop → diseño gráfico → trabajo creativo).
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-02 – 2025-07
+- **IDs:** U-022-066, U-020-118
+- **relación:** vecino de new level of mind; ver zoom in / zoom out.

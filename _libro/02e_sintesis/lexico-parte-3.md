@@ -5115,3 +5115,786 @@ Fuente: `lexico-todo.md`, filas 1672–2561 (términos que empiezan por m–r, i
 - **IDs:** U-014-093
 - **relación:** vecino de what's in it for me; ver problem is the inception of gold.
 
+### qualifying questionnaire
+- **tipo:** término acuñado
+- **definición:** Formulario de seis preguntas que reemplaza a la landing page en ofertas uno a uno.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-009-260
+- **relación:** ver micro offer.
+
+### quality of working hours
+- **tipo:** término de tercero usado por el autor
+- **definición:** Lo que importa no es la cantidad sino la calidad de las horas; las primeras 5 no equivalen a las últimas 5.
+- **acuñado por:** orador no identificado (citado)
+- **fechas:** 2024-06 (única aparición)
+- **IDs:** U-019-048
+- **relación:** vecino de "all hours of the day are equal" (error 2).
+
+### quantify (tasks)
+- **tipo:** término acuñado
+- **definición:** Expresar la tarea en cantidades (1.000 palabras) para crear un bucle de retroalimentación como una quest.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-05 (única aparición)
+- **IDs:** U-003-199
+- **relación:** vecino de feedback loop y quests; ver performance vs vanity.
+
+### quarterly reflection / 12-week blocks
+- **tipo:** término de invitado
+- **definición:** Reflexión trimestral que revela los bloques de 12 semanas que quedan y genera urgencia.
+- **acuñado por:** Dickie Bush
+- **fechas:** 2023-03 (única aparición)
+- **IDs:** U-002-070
+- **relación:** —
+
+### quest
+- **tipo:** término acuñado
+- **definición:** (2025, "quest") Un proyecto como misión en el juego de tu vida.
+- **definición:** (2023–2025, "quests / main quest / side quests") Series de pasos que dan educación y práctica; proyectos y palancas diarias.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2025
+- **IDs:** U-027-234, U-017-122, U-003-242, U-023-256, U-025-167
+- **relación:** alias main quest y side quests; vecino de series of projects (T03) y hierarchy of goals; ver next quest / side quests y quantify (tasks).
+
+### questioning is thinking
+- **tipo:** término acuñado
+- **definición:** Cuestionar es pensar; acto simple y doloroso que revela el condicionamiento.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-12 (única aparición)
+- **IDs:** U-025-156
+- **relación:** vecino de question everything (U-007-078).
+
+### questions horizontally and vertically
+- **tipo:** término acuñado
+- **definición:** Preguntar en amplitud y profundidad hasta tener el big picture.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 (única aparición)
+- **IDs:** U-011-016
+- **relación:** vecino de cope to curiosity.
+
+### quick fix / the longest path
+- **tipo:** término acuñado
+- **definición:** "The quickest fix is the longest path".
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-03 (única aparición)
+- **IDs:** U-008-044
+- **relación:** vecino de flavor of the day; ver quick fix mindset.
+
+### quick fix mindset
+- **tipo:** término acuñado
+- **definición:** (2023) Búsqueda de alivio inmediato; abarca distracción y close-mindedness.
+- **definición:** (2024-01, forma "quick fix attitude", libro) Actitud cerrada de buscar atajos, "the greatest trap of our times".
+- **acuñado por:** Dan Koe (la segunda forma, del libro)
+- **fechas:** 2023 – 2024-01
+- **IDs:** U-017-073, U-017-074, U-017-170
+- **relación:** alias quick fix attitude; vecino de close-mindedness y premature transcendence; ver perception threshold / runner's high.
+
+### quick fix products
+- **tipo:** término acuñado
+- **definición:** Productos superficiales que descuidan el panorama general del negocio.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-008-005
+- **relación:** vecino de bottom feeders.
+
+### Rabbit hole of discovery
+- **tipo:** término acuñado
+- **definición:** Seguir la "whiff of excitement" hasta obsesionarse y ramificarse.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 – 2025
+- **IDs:** U-020-031, U-020-037, U-022-174, U-027-134
+- **relación:** vecino de compounding knowledge; es el mismo término que aparece en obsession / rabbit hole (forma "obsession / rabbit hole of discovery"), con énfasis en el proceso de exploración.
+
+### race to the top
+- **tipo:** término acuñado
+- **definición:** Competencia de las tecnológicas que hizo evolucionar la tecnología hacia malos incentivos.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 – 2025
+- **IDs:** U-018-024, U-015-159
+- **relación:** ver T06.
+
+### radical acceptance
+- **tipo:** término acuñado
+- **definición:** Ver la situación como es; nada que pienses la cambiará.
+- **acuñado por:** Dan Koe (principio 12 del libro)
+- **fechas:** 2024-01 (única aparición)
+- **IDs:** U-017-145
+- **relación:** vecino de expectations vs reality.
+
+### radical open-mindedness
+- **tipo:** término acuñado
+- **definición:** Ser abierto y crítico con el propio pensamiento; no tomar la propia interpretación sensorial como ley.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-11-20 (única aparición)
+- **IDs:** U-023-003
+- **relación:** vecino de open-mindedness y stages of open-mindedness.
+
+### raise the collective consciousness
+- **tipo:** término acuñado
+- **definición:** (2023) Objetivo de que la gente consciente emprenda y desplace a los negocios poco éticos.
+- **definición:** (2022-10, 2024-02, forma "raising your Consciousness / collective Consciousness / map of reality") Hacer lo desconocido conocido y enseñar ese mapa a otros.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-10 – 2024-02
+- **IDs:** U-016-145, U-016-147, U-007-033, U-001-043
+- **relación:** alias raising the collective consciousness y raising your Consciousness; vecino de zip file (productos) y personal evolution / collective evolution.
+
+### raised to be afraid
+- **tipo:** término de invitado
+- **definición:** Personas con gran potencial criadas en el miedo; pérdida invisible.
+- **acuñado por:** Devon Eriksen
+- **fechas:** 2024-12-08 (única aparición)
+- **IDs:** U-006-052
+- **relación:** vecino de risk averse.
+
+### raising the bar / baseline
+- **tipo:** término acuñado
+- **definición:** "AI isn't replacing the bar, it's raising the bar"; el baseline que da resultados subió.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 – 2026
+- **IDs:** U-024-229, U-008-173, U-006-075
+- **relación:** vecino de lower class of the creator economy.
+
+### range / single threaded
+- **tipo:** término de invitado
+- **definición:** Rango: abarcar varias partes del trabajo; single threaded: personas que solo pueden hacer una parte.
+- **acuñado por:** Vitali
+- **fechas:** 2025-01-28 (única aparición)
+- **IDs:** U-004-057, U-004-058
+- **relación:** vecino de T-shaped y full stack.
+
+### Rapid building
+- **tipo:** término acuñado
+- **definición:** Rapid learning + rapid execution: emular un proyecto, construir hasta chocar, buscar conocimiento específico, enseñar.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-01 (única aparición)
+- **IDs:** U-013-064
+- **relación:** vecino de start then learn; ver Project-based learning.
+
+### rat race
+- **tipo:** palabra común con sentido propio
+- **definición:** Obtener los mismos resultados que todos (corporativa o "social media one-person business Rat Race").
+- **acuñado por:** uso común con sentido propio
+- **fechas:** 2022-11-13 (única aparición como entrada propia)
+- **IDs:** U-027-022
+- **relación:** vecino de over-socialization; ver new rat race / specialized robot.
+
+### raw material (for your life's work)
+- **tipo:** término acuñado
+- **definición:** La experiencia acumulada que crees sin valor.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026 (única aparición)
+- **IDs:** U-012-229
+- **relación:** —
+
+### read, write, build
+- **tipo:** término acuñado
+- **definición:** (2024, "read to expand / write to organize / build to focus") Tríada de funciones de leer, escribir y construir.
+- **definición:** (2024, "Read, write, build") Leer si no tienes ideas, escribir si no las articulas, construir si tienes claridad.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-023-197, U-013-132, U-020-115
+- **relación:** alias "read to expand / write to organize / build to focus" (expand / organize / focus); vecino de fill / empty / use.
+
+### readers
+- **tipo:** palabra común con sentido propio
+- **definición:** Término preferido por Dan frente a "followers", que perdió fuerza.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-10 (única aparición)
+- **IDs:** U-015-059
+- **relación:** vecino de audience.
+
+### reading companion / reading partner
+- **tipo:** término acuñado
+- **definición:** Chat de IA que contiene el libro y al que se vuelve al leer.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025 (única aparición)
+- **IDs:** U-021-156
+- **relación:** vecino de study partner.
+
+### real-time landing page
+- **tipo:** término acuñado
+- **definición:** Los 10 contenidos de la semana funcionan como una landing page en tiempo real.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-09 (única aparición)
+- **IDs:** U-009-233
+- **relación:** vecino de content is king.
+
+### reality is decentralizing
+- **tipo:** término acuñado
+- **definición:** Cambio de época aprovechable por individuos.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-02-25 (única aparición)
+- **IDs:** U-008-114
+- **relación:** vecino de new economy.
+
+### reality mapping
+- **tipo:** término acuñado
+- **definición:** Documentar lo aprendido en el día y cómo se conecta con otras ideas.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-06 (única aparición)
+- **IDs:** U-017-069
+- **relación:** vecino de empty.
+
+### realm of possibility
+- **tipo:** término acuñado
+- **definición:** Espacio mental donde se sostiene toda idea sin aceptarla ni rechazarla hasta filtrarla por experiencia directa.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 – 2026
+- **IDs:** U-023-006, U-017-085, U-022-072, U-022-164
+- **relación:** vecino de critical thinking 101.
+
+### recognition
+- **tipo:** palabra común con sentido propio
+- **definición:** Nombre preferido para el estatus: la señal de que tu lucha le importó a alguien.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-02 (única aparición)
+- **IDs:** U-012-184
+- **relación:** vecino de proof of contribution.
+
+### recommendation mechanism
+- **tipo:** término acuñado
+- **definición:** El algoritmo muestra el mismo tema de otro creador; si haces algo similar a lo que ya funcionó, te recomiendan a esos espectadores.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-05-14 (única aparición)
+- **IDs:** U-004-099
+- **relación:** vecino de "YouTube growth in a nutshell".
+
+### reconditioning
+- **tipo:** término acuñado
+- **definición:** Reprogramar en años patrones que tardaron décadas en condicionarse.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-07 (única aparición)
+- **IDs:** U-024-011
+- **relación:** vecino de reprogram your mind.
+
+### red pill / blue pill
+- **tipo:** término de tercero usado por el autor
+- **definición:** Metáfora de la película: la roja rompe la Matrix; la azul te deja como esclavo, NPC, robot.
+- **acuñado por:** The Matrix (película), usado por Dan Koe
+- **fechas:** 2022-11-20 – 2025-10-05
+- **IDs:** U-023-007, U-023-204
+- **relación:** rechazado como lectura literal en 2025; ver NPC.
+
+### reduce input fast / intermittent fasting for your mind
+- **tipo:** término acuñado
+- **definición:** Días 1–2 del protocolo: cortar el input para activar la default mode network.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026 (única aparición)
+- **IDs:** U-022-222
+- **relación:** ver primary input source (T06).
+
+### referrals / flywheel
+- **tipo:** término de invitado
+- **definición:** Encontrar 10x por introducciones, preguntando a cada uno por las personas más brillantes que conoce, de forma compuesta.
+- **acuñado por:** Vitali / John Hugh
+- **fechas:** 2025-01-28 (única aparición)
+- **IDs:** U-004-060
+- **relación:** —
+
+### refinement and purification
+- **tipo:** término acuñado
+- **definición:** (2025-09) Proceso de aclarar lo que quieres mediante errores propios.
+- **definición:** (2024-12) Lo que el fracaso y los errores hacen con el carácter.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-12 – 2025-09
+- **IDs:** U-024-243, U-027-202
+- **relación:** vecino de self-corrective compass; ver Nature's Compass.
+
+### register in their awareness
+- **tipo:** término acuñado
+- **definición:** Una enseñanza solo se vuelve usable cuando la situación vital e intención la hacen relevante.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-11-27 (única aparición)
+- **IDs:** U-020-004
+- **relación:** vecino de intention.
+
+### regression
+- **tipo:** término de tercero usado por el autor
+- **definición:** (2024–2025) Caída a una etapa o estado inferior por estrés; el piso sube con el desarrollo.
+- **definición:** (2026-02, forma "regress") Bajar a niveles inferiores bajo estrés o en discusión.
+- **acuñado por:** teoría del desarrollo del ego, adaptada por Dan Koe
+- **fechas:** 2024 – 2026-02
+- **IDs:** U-021-083, U-022-041, U-025-148, U-022-083
+- **relación:** variante verbal "regress"; vecino de vertical down; ver nine stages of ego development.
+
+### reject the average life
+- **tipo:** término acuñado
+- **definición:** Regla 1: la decisión que determina todas las demás es rechazar con vehemencia la trayectoria fijada al nacer.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-09 (única aparición)
+- **IDs:** U-024-208
+- **relación:** vecino de anti-vision.
+
+### relationship with money
+- **tipo:** palabra común con sentido propio
+- **definición:** La relación (a menudo mala) con el dinero que impide pensar en ganar más.
+- **acuñado por:** término común con sentido propio
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-006-053, U-009-252
+- **relación:** ver money programming (T15).
+
+### release and constrain entropy
+- **tipo:** término acuñado
+- **definición:** Fuente del impacto del deep work macro: primeras horas sin distracciones, luego más caos para el mantenimiento.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-06 – 2024-08
+- **IDs:** U-019-047, U-019-075
+- **relación:** vecino de releasing entropy y low / mid / high entropy; ver maintenance mode.
+
+### releasing concepts
+- **tipo:** término acuñado
+- **definición:** Soltar los apegos de la identidad para crecer ("sandbags tied to a hot air balloon"); no es inflar el ego.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-09 (única aparición)
+- **IDs:** U-021-012
+- **relación:** vecino de shed beliefs y chip away; ver mental death.
+
+### relief vs cure
+- **tipo:** término acuñado
+- **definición:** El alivio se siente bien (placeres baratos, prescripciones); la cura duele ("getting sick of being sick").
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-027-061
+- **relación:** ver T06.
+
+### religion of doing the thing
+- **tipo:** término acuñado
+- **definición:** Convertir las herramientas (frío, ayuno) en dogma.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026 (única aparición)
+- **IDs:** U-024-170
+- **relación:** vecino de New religion (U-022-168); ver new religion (anti-AI vs pro-AI).
+
+### reminded with something new
+- **tipo:** término de tercero usado por el autor
+- **definición:** Fundamentos desde una perspectiva nueva.
+- **acuñado por:** Dan Koe (adaptando un dicho)
+- **fechas:** 2023-05 (única aparición)
+- **IDs:** U-002-097
+- **relación:** vecino de "people need to be reminded more than..." (U-015-096).
+
+### remixing / steal the traffic
+- **tipo:** término acuñado
+- **definición:** Apoyarse en la autoridad y el tráfico de creadores más grandes, como los DJs que remezclan.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-10-15 (única aparición)
+- **IDs:** U-004-158, U-004-159
+- **relación:** vecino de curation, quotes and remixing, commentate y credit them.
+
+### remove friction (AI)
+- **tipo:** término acuñado
+- **definición:** Usar la IA como curso, mentor o editor, no para escribir.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-08 (única aparición)
+- **IDs:** U-021-231
+- **relación:** —
+
+### remove the obstruction
+- **tipo:** término de tercero usado por el autor
+- **definición:** Quitar la obstrucción de la mente, el corazón, el negocio o el sistema, y aparece paz, amor, dinero o resultado.
+- **acuñado por:** Anthony de Mello (extendido por Dan Koe)
+- **fechas:** 2022-10 (única aparición)
+- **IDs:** U-026-056
+- **relación:** vecino de "hate is the obstruction of love" (U-027-080).
+
+### renting others' audiences
+- **tipo:** término acuñado
+- **definición:** Patrocinios de newsletter o YouTube para llegar a millones.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-08 (única aparición)
+- **IDs:** U-013-095
+- **relación:** vecino de bought / borrowed; ver other people's audiences.
+
+### repeat the same 6 months
+- **tipo:** término acuñado
+- **definición:** Destino de quien no usa sus 20 para convertirse en quien debía ser.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-07 (única aparición)
+- **IDs:** U-025-168
+- **relación:** vecino de plateau.
+
+### repeatable weekly process
+- **tipo:** término acuñado
+- **definición:** Sistema semanal de promoción.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-09 (única aparición)
+- **IDs:** U-016-140, U-016-141
+- **relación:** vecino de monetization lever; ver monetization lever / promotion schedule.
+
+### repetitive beings / grooves
+- **tipo:** término acuñado
+- **definición:** Somos seres repetitivos; la repetición talla surcos neuronales (como el Gran Cañón) por los que el significado fluye sin esfuerzo.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-11-20 (única aparición)
+- **IDs:** U-023-011, U-023-012
+- **relación:** mecanismo de the Matrix; vecino de robotic species; ver mental construction.
+
+### replaceable unit of society
+- **tipo:** término acuñado
+- **definición:** Lo que la escuela entrenó al autor a ser.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-008-077
+- **relación:** vecino de productive robot.
+
+### replicable system / replicable process
+- **tipo:** término acuñado
+- **definición:** Lo que diferencia producto de contenido; el resultado de destilar cómo resolviste un problema.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2024
+- **IDs:** U-009-129, U-005-140, U-003-156, U-009-013
+- **relación:** vecino de unique system.
+
+### replication / reproduction of who you are
+- **tipo:** término acuñado
+- **definición:** Impulso de supervivencia a reproducir las propias ideas en otros cuando la identidad se siente amenazada.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-09 (única aparición)
+- **IDs:** U-021-011
+- **relación:** vecino de conceptual survival; ver psychological survival / non-physical identity.
+
+### reply like a madman
+- **tipo:** término acuñado
+- **definición:** Táctica del principiante: responder en masa para obtener ojos sobre la cuenta.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-08-23 – 2023-10-15
+- **IDs:** U-027-144, U-004-151
+- **relación:** vecino de spam replies y "there's that guy again".
+
+### reproduce on a spiritual level
+- **tipo:** término acuñado
+- **definición:** Convertirte en negocio difunde información de tu progreso.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-017-204
+- **relación:** ver replication / reproduction of who you are.
+
+### reprogram the unconscious
+- **tipo:** término de tercero usado por el autor
+- **definición:** Usar la atención consciente limitada para hacer consciente y reprogramar el inconsciente.
+- **acuñado por:** Dan Koe (sobre Jung)
+- **fechas:** 2025-10-05 (única aparición)
+- **IDs:** U-023-202
+- **relación:** vecino de mental programming.
+
+### reprogram your mind
+- **tipo:** término acuñado
+- **definición:** Cambiar la identidad cambiando inputs, entorno y educación.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 – 2026
+- **IDs:** U-018-088, U-017-229, U-020-128, U-025-119, U-024-172
+- **relación:** vecino de reconditioning; ver program your mind y operating system for reality.
+
+### reputation authority
+- **tipo:** término acuñado
+- **definición:** Autoridad que permite que todo lo que dices parezca valioso (Marco Aurelio, Alan Watts).
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-03 (única aparición)
+- **IDs:** U-016-279
+- **relación:** vecino de time under attention.
+
+### research of 100 (to create a content of 1)
+- **tipo:** término acuñado
+- **definición:** Proporción de consumo de formato largo para crear algo novedoso.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-11 (única aparición)
+- **IDs:** U-013-126
+- **relación:** vecino de novel perspectives.
+
+### researcher, not a consumer
+- **tipo:** término acuñado
+- **definición:** (2024, 2025) Leer posts y titulares para estudiarlos, no para entretenerse.
+- **definición:** (2022–2023, forma "Research information (vs consume)") Consumir con la perspectiva de un investigador: diseccionar, expandir, resumir y conectar.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 – 2025
+- **IDs:** U-015-141, U-013-161, U-013-152, U-013-106, U-014-032, U-002-118
+- **relación:** alias "Research information (vs consume)"; vecino de creator mindset y hermetic law of use; ver observer over a consumer y Researcher and a vessel.
+
+### Researcher and a vessel
+- **tipo:** término acuñado
+- **definición:** Tu único trabajo es investigar tus intereses a tiempo completo y usar el contenido como vehículo para ganar ingresos.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-06 (única aparición)
+- **IDs:** U-010-347
+- **relación:** vecino de researcher vs consumer; ver researcher, not a consumer.
+
+### reset period
+- **tipo:** término acuñado
+- **definición:** Tiempo que necesita un tema agotado antes de volver a ser viral.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-05 (única aparición)
+- **IDs:** U-004-106
+- **relación:** vecino de proven topic.
+
+### reset your days
+- **tipo:** término acuñado
+- **definición:** Empezar desde cero, "drop everything and see what sticks".
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-10 (única aparición)
+- **IDs:** U-025-086
+- **relación:** vecino de week-long plan.
+
+### residual conditioning
+- **tipo:** término acuñado
+- **definición:** Restos del condicionamiento infantil (obedecer autoridad, pedir permiso) que se eliminan con trabajo de identidad o alter ego.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-03-02 (única aparición)
+- **IDs:** U-025-113
+- **relación:** vecino de identity (T02).
+
+### residue
+- **tipo:** término acuñado
+- **definición:** Lo que deja cada interés y aumenta la complejidad del modelo de la realidad.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-01 (única aparición)
+- **IDs:** U-010-282
+- **relación:** vecino de model of reality.
+
+### responsibility muscle
+- **tipo:** término acuñado
+- **definición:** Músculo que se entrena añadiendo peso emocional; si la vida no tiene sentido es porque no lo entrenas.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-10 (única aparición)
+- **IDs:** U-026-204
+- **relación:** vecino de struggle (meaning generator); ver progressive overload of responsibility.
+
+### responsible life / buffer period / multi-dimensionally jacked / rocket fuel for deep work
+- **tipo:** término acuñado
+- **definición:** Una vida con valores fuera del trabajo trae deadlines reales que alimentan el deep work.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-05 (única aparición)
+- **IDs:** U-019-149
+- **relación:** vecino de deadlines; ver multi-dimensionally jacked.
+
+### rest / quality rest
+- **tipo:** término acuñado
+- **definición:** Regenerar energía mental con actividades ajenas al trabajo; no es self-care (Netflix, vino, baños).
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-01 – 2024-08
+- **IDs:** U-017-031, U-003-084, U-019-007
+- **relación:** vecino de proper rest y leisure.
+
+### results oriented skills
+- **tipo:** término acuñado
+- **definición:** (2023-09, "results oriented skills") Habilidades prácticas y cambiantes (IA, diseño, web, SEO, email, agencias) que solo rinden con las evergreen skills.
+- **definición:** (2023-01 a 2024-01, "results-oriented skills") Cómo se aplican message y medium al paisaje digital con una tecnología (email, diseño, video, IA, redes); cambian con el paisaje.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-01 – 2024-01
+- **IDs:** U-021-040, U-012-031, U-013-056, U-017-194
+- **relación:** vecino de starving artist phase y technical know-how; contrasta con evergreen skills; ver medium and the message.
+
+### Retention chain (error signal, filter, relevance, retention)
+- **tipo:** término acuñado
+- **definición:** Meta → señal de error → filtro → relevancia → retención.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-08 (única aparición)
+- **IDs:** U-021-199
+- **relación:** vecino de negative feedback loop; ver Negative feedback loop.
+
+### reticular activating system
+- **tipo:** término de tercero usado por el autor
+- **definición:** Mecanismo de búsqueda guiado por lo importante para ti; principal catalizador de la creatividad.
+- **acuñado por:** neurociencia, adaptado por Dan Koe
+- **fechas:** 2026-03 (única aparición)
+- **IDs:** U-022-228
+- **relación:** vecino de lens y strategic intent.
+
+### Reverse engineer
+- **tipo:** palabra común con sentido propio
+- **definición:** Estudiar y mapear a quien hace lo que quieres para entender qué le permite tener éxito.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2024
+- **IDs:** U-008-122, U-016-217
+- **relación:** vecino de emulation.
+
+### reverse engineer enthusiasm
+- **tipo:** término acuñado
+- **definición:** Detectar qué energiza o distorsiona el tiempo y eliminar, tercerizar o aceptar el resto.
+- **acuñado por:** Dan Koe
+- **fechas:** 2025-09 (única aparición)
+- **IDs:** U-024-239
+- **relación:** vecino de eliminate, outsource, or accept.
+
+### reverse entropy
+- **tipo:** término acuñado
+- **definición:** (2023-07 a 2024-01) Lo que hacen los humanos y la evolución: resolver los problemas que hacen que las cosas se desmoronen; en la mente, ordenar la mente con una meta consciente, un camino y acciones prioritarias.
+- **definición:** (2023) Lo que no hace el que vuelve a la comodidad tras una catástrofe.
+- **definición:** (2024-03, forma "reversing entropy") Lo que es el valor: revertir el declive hacia el caos creando sistemas.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 – 2024-03
+- **IDs:** U-018-132, U-013-134, U-024-065, U-017-099, U-017-153, U-027-173, U-027-262, U-027-248
+- **relación:** variante "reversing entropy"; vecino de "entropy is the driving force of evolution" y value equation; puente con T04; ver psychic entropy.
+
+### reverse progress
+- **tipo:** término acuñado
+- **definición:** Retroceder por distraerse en vez de probar.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-11 (única aparición)
+- **IDs:** U-027-025
+- **relación:** —
+
+### review, reflection, and prediction
+- **tipo:** término acuñado
+- **definición:** Práctica semanal de adaptabilidad en un cuaderno desordenado.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-08 (única aparición)
+- **IDs:** U-022-145
+- **relación:** vecino de weekly review.
+
+### rich yet miserable
+- **tipo:** término de invitado
+- **definición:** Quien persigue más solo por dinero.
+- **acuñado por:** Sahil Bloom
+- **fechas:** 2025 (única aparición)
+- **IDs:** U-005-115
+- **relación:** —
+
+### riffing
+- **tipo:** palabra común con sentido propio
+- **definición:** Improvisar en un podcast, frente a los videos premeditados y editados.
+- **acuñado por:** término común
+- **fechas:** 2025 (única aparición)
+- **IDs:** U-022-186
+- **relación:** —
+
+### right place, right time, right person
+- **tipo:** término acuñado
+- **definición:** Analogía de las citas para producto y personas.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-03 (única aparición)
+- **IDs:** U-016-016
+- **relación:** vecino de product and people.
+
+### right vessel
+- **tipo:** término acuñado
+- **definición:** La línea de trabajo que te deja controlar las variables (hoy, un negocio por internet).
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-08 (única aparición)
+- **IDs:** U-019-021, U-019-027
+- **relación:** vecino de minimalist workday.
+
+### rip the Band-Aid off
+- **tipo:** palabra común con sentido propio
+- **definición:** Quitarlo todo de una vez.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 – 2025
+- **IDs:** U-025-010, U-017-226, U-019-162
+- **relación:** ver T06.
+
+### ripple effect
+- **tipo:** palabra común con sentido propio
+- **definición:** El dinero amplía el alcance del mensaje y compone la atención de quien lo tiene.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-016-150
+- **relación:** ver T15.
+
+### risk reversal
+- **tipo:** término de tercero usado por el autor
+- **definición:** (2023) Garantía que "tips them over the edge".
+- **definición:** (2023–2024) Reducir la incertidumbre, la fricción y la dificultad percibidas; garantías creativas con condiciones.
+- **acuñado por:** tradición del copywriting (usado por Dan Koe)
+- **fechas:** 2023 – 2024
+- **IDs:** U-013-083, U-011-174, U-027-258
+- **relación:** vecino de micronutrients (ver macronutrients of value / micronutrients of value) y caveats.
+
+### robotic behavior
+- **tipo:** término acuñado
+- **definición:** Ciclos repetitivos inconscientes que te hacen igual a los demás.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 (única aparición)
+- **IDs:** U-023-021
+- **relación:** vecino de roboticism, productive robot y autopilot; ver mechanical living.
+
+### robotic living
+- **tipo:** término acuñado
+- **definición:** (2024-12) Vida dependiente y mecánica de la que saca el construir y el dinero.
+- **definición:** (2022-10, forma "robotic living vs intentional living") Reaccionar automáticamente frente a vivir recordando lo que importa y tus metas.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-10 – 2024-12
+- **IDs:** U-027-198, U-026-071
+- **relación:** vecino de mechanical or linear way of life, project outside of your reality y jabs of insecurity; ver product of your environment / robotic living y robotic species.
+
+### robotic species
+- **tipo:** término acuñado
+- **definición:** "We have much less self-control than we believe": vivimos en ciclos no elegidos.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-11-20 (única aparición)
+- **IDs:** U-023-016
+- **relación:** vecino de cycles from the top down y robotic living; ver repetitive beings / grooves.
+
+### rock bottom
+- **tipo:** término acuñado
+- **definición:** Ruta 1 de la reinvención: cambiar de golpe un pilar fundacional.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022 – 2024
+- **IDs:** U-024-016, U-024-017, U-020-119
+- **relación:** ver mental rock bottom y psychological rock bottom.
+
+### rogue thought
+- **tipo:** término acuñado
+- **definición:** (2023-03 – 2025-05, "Rogue thought") Pensamiento suelto de una exposición temprana a mensajes o notificaciones que divide el foco y abre espacio a la entropía.
+- **definición:** (2024-02, "rogue programs") Pensamientos que consumen la "RAM" de la mente tras una distracción.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-03 – 2025-05
+- **IDs:** U-003-177, U-003-116, U-019-148, U-003-238
+- **relación:** alias rogue programs; vecino de entropy, maintenance tasks y open loops.
+
+### root cause / inner work
+- **tipo:** término acuñado
+- **definición:** Sin abordarlos (identidad, miedo), ningún conocimiento garantiza resultados.
+- **acuñado por:** Dan Koe
+- **fechas:** 2026-03 (única aparición)
+- **IDs:** U-016-298
+- **relación:** —
+
+### root control
+- **tipo:** término acuñado
+- **definición:** El control sobre el foco, del que derivan pensamientos, emociones y acciones.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-10 (única aparición)
+- **IDs:** U-026-065
+- **relación:** vecino de focus (T04).
+
+### rotation of information
+- **tipo:** término acuñado
+- **definición:** Conjunto de inputs filtrados por metas que contribuyen a los outputs deseados.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023 (única aparición)
+- **IDs:** U-027-104
+- **relación:** vecino de inputs and outputs.
+
+### routine (set of practical goals that orders the mind) / routine of not having a routine
+- **tipo:** término acuñado
+- **definición:** La rutina ordena la mente y contiene las reglas del juego de tu vida; quien cree no tenerla tiene la rutina de no tenerla.
+- **acuñado por:** Dan Koe
+- **fechas:** 2023-11 – 2025-01
+- **IDs:** U-020-050, U-018-125, U-005-093
+- **relación:** vecino de rules of the game; ver map vs terrain (Sahil Bloom, misma fuente de U-005-093).
+
+### rules
+- **tipo:** término acuñado
+- **definición:** (2024, "rules (= values)") Macro: tus valores; micro: restricciones autoimpuestas que enfocan la atención.
+- **definición:** (2022-12, "rules / frame") Reglas micro y marcos del entorno que dan claridad y vuelven disfrutable lo mundano; a escala macro, las reglas son los valores.
+- **definición:** (2022–2024, "rules / mechanics / feedback") Reglas = prioridades y valores; mecánicas = habilidades y hábitos; feedback = información sobre cómo vas.
+- **acuñado por:** Dan Koe
+- **fechas:** 2022-12 – 2024
+- **IDs:** U-003-035, U-003-037, U-018-085, U-023-242, U-023-172, U-023-244, U-023-241
+- **relación:** equivalente a values en el sentido macro; vecino de anti-goals, constraints, routine as rules of the game y gamify your life; ver rules of the game.
+
+### rules of the game
+- **tipo:** término acuñado
+- **definición:** Primero aprender las reglas, luego crear las propias sin romper las otras.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024-08-25 (única aparición)
+- **IDs:** U-010-156
+- **relación:** vecino de the system is rigged; ver rules y routine.
+
+### running note
+- **tipo:** término acuñado
+- **definición:** Nota que se va ampliando con experiencias que no quieres repetir.
+- **acuñado por:** Dan Koe
+- **fechas:** 2024 (única aparición)
+- **IDs:** U-023-179, U-024-186, U-026-159
+- **relación:** formato de la anti-vision.
+
