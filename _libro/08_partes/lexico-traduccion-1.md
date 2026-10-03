@@ -443,3 +443,141 @@ Convenciones vinculantes:
 | confidence and conviction | término acuñado | conservar+glosa | confidence and conviction (confianza y convicción) | confidence and conviction | |
 | confirmational dopamine | término acuñado | conservar+glosa | confirmational dopamine (dopamina de confirmación) | confirmational dopamine | |
 | conform to survive | término de tercero usado por el autor | traducir | conformarse para sobrevivir | conformarse para sobrevivir | actualize.org. |
+| conformist / expert / achiever stage | término de tercero usado por el autor | traducir | etapas conformista, experta y triunfadora | etapas conformista, experta y triunfadora | Susanne Cook-Greuter; formas usadas en la literatura integral en español. |
+| conformity / mechanical conformity | término acuñado | conservar+glosa | conformity (conformidad) / mechanical conformity (conformidad mecánica) | conformity / mechanical conformity | Distinto de "comforting conformity" y "conformity as a tool". |
+| conformity as a tool | término acuñado | conservar+glosa | conformity as a tool (la conformidad como herramienta) | conformity as a tool | |
+| connect the dots | término acuñado | conservar+glosa | connect the dots (conectar los puntos) | connect the dots | Distinto de "collect / connect / create with the dots". |
+| connections / soft outline / Cortex elements | nombre de producto/framework | conservar+glosa | connections (conexiones) / soft outline (outline flexible) / Cortex elements (elementos de Cortex) | connections / soft outline / Cortex elements | |
+| conscious business owner | término acuñado | conservar+glosa | conscious business owner (empresario consciente) | conscious business owner | |
+| conscious character | término acuñado | conservar+glosa | conscious character (personaje consciente) | conscious character | |
+| conscious conditioning | término acuñado | conservar+glosa | conscious conditioning (condicionamiento consciente) | conscious conditioning | |
+| conscious decision(s) | término acuñado | conservar+glosa | conscious decision (decisión consciente) | conscious decision | Singular y plural fusionados. |
+| conscious experiment | término acuñado | conservar+glosa | conscious experiment (experimento consciente) | conscious experiment | |
+| conscious individuals | término acuñado | conservar+glosa | conscious individuals (individuos conscientes) | conscious individuals | |
+| conscious mind vs mediocre mind | término acuñado | conservar+glosa | conscious mind vs mediocre mind (mente consciente frente a mente mediocre) | conscious mind vs mediocre mind | |
+| conscious personal creation | término acuñado | conservar+glosa | conscious personal creation (creación personal consciente) | conscious personal creation | De The Art of Focus. |
+| consciously created identity | término acuñado | conservar+glosa | consciously created identity (identidad creada a conciencia) | consciously created identity | |
+| consequential cascade | término acuñado | conservar+glosa | consequential cascade (cascada de consecuencias) | consequential cascade | |
+| consistency bias | término de tercero usado por el autor | traducir | sesgo de coherencia | sesgo de coherencia | Cialdini (compromiso y coherencia). |
+| consistent authenticity | término acuñado | conservar+glosa | consistent authenticity (autenticidad sostenida) | consistent authenticity | |
+| consistently reliable vs occasionally extraordinary | término de tercero usado por el autor | traducir | confiable siempre antes que extraordinario a veces | confiable siempre antes que extraordinario a veces | Abuelo de Sahil Bloom. |
+| constant revolt | término de tercero usado por el autor | traducir | revuelta constante | revuelta constante | Krishnamurti. |
+| constraint / constraints (creativity thrives within constraints) | término acuñado | conservar+glosa | constraint (restricción creativa) | constraint | Singular y plural fusionados; la fórmula "creativity thrives within constraints" sigue la fila "creativity is in the constraints". |
+| construct-aware / fifth dimension of thinking / programmer mindset / mental masturbation | término de tercero usado por el autor | conservar+glosa | construct-aware (consciente de los constructos) / fifth dimension of thinking (quinta dimensión del pensamiento) / programmer mindset (mentalidad de programador) | construct-aware / fifth dimension of thinking / programmer mindset | Etapa de Cook-Greuter sin forma española estable; "mental masturbation" sigue la glosa de la fila "being in the game / mental masturbation". |
+| consume and save mindset | término acuñado | conservar+glosa | consume and save mindset (mentalidad de consumir y ahorrar) | consume and save mindset | |
+| consumer / consumer vs creator / consumer mindset / creator mindset | término acuñado | conservar+glosa | consumer vs creator (consumidor frente a creador) / consumer mindset (mentalidad de consumidor) / creator mindset (mentalidad de creador) | consumer vs creator / consumer mindset / creator mindset | "consumer" suelto se conserva solo como polo del par; "consumidor" en sentido económico se traduce. |
+| Consumer / contributor | término acuñado | conservar+glosa | Consumer / contributor (el que consume / el que aporta) | Consumer / contributor | El autor prefiere "contributor" a "content creator". |
+| consumer → researcher → creator | término acuñado | conservar+glosa | consumer → researcher → creator (consumidor → investigador → creador) | consumer → researcher → creator | |
+| consumption / digestion | término acuñado | conservar+glosa | consumption / digestion (consumo / digestión) | consumption / digestion | |
+| contemplative walk | término acuñado | conservar+glosa | contemplative walk (caminata contemplativa) | contemplative walk | |
+| content (structured information) | término acuñado | conservar+glosa | content (contenido: información estructurada) | content | Se conserva solo en el sentido filosófico ("content is structured information"); "contenido" como posts o piezas se traduce normalmente. |
+| content and consciousness | término acuñado | conservar+glosa | content and consciousness (contenido y consciencia) | content and consciousness | |
+| content companies / media companies | término acuñado | conservar+glosa | content companies (empresas de contenido) / media companies (empresas de medios) | content companies / media companies | |
+| content creation schedule / content promotion schedule | término acuñado | conservar+glosa | content creation schedule (calendario de creación de contenido) / content promotion schedule (calendario de promoción) | content creation schedule / content promotion schedule | |
+| content creator | palabra común con sentido propio | traducir | creador de contenido | creador de contenido | Forma fija; distinto de "creator" (conservado). |
+| content creators vs reality creators | término acuñado | conservar+glosa | content creators vs reality creators (creadores de contenido frente a creadores de realidad) | content creators vs reality creators | |
+| content curator | término acuñado | conservar+glosa | content curator (curador de contenido) | content curator | |
+| content ecosystem / two hour content ecosystem | nombre de producto/framework | conservar+glosa | content ecosystem (ecosistema de contenido) / two hour content ecosystem (ecosistema de contenido de dos horas) | content ecosystem / two hour content ecosystem | |
+| content flywheel / endless content flywheel | término acuñado | conservar+glosa | content flywheel (volante de inercia del contenido) | content flywheel | "endless content flywheel" se fusiona como variante. |
+| content is king | término de tercero usado por el autor | traducir | el contenido es el rey | el contenido es el rey | Dicho común con forma española establecida. |
+| content matrix | término de tercero usado por el autor | traducir | matriz de contenido | matriz de contenido | Justin Welsh; distinto de "business matrix". |
+| content of your attention | término acuñado | conservar+glosa | content of your attention (el contenido de tu atención) | content of your attention | |
+| content pillars / content map | término acuñado | conservar+glosa | content pillars (pilares de contenido) / content map (mapa de contenido) | content pillars / content map | |
+| content stack / base social media platform | término acuñado | conservar+glosa | content stack (pila de contenido) / base social media platform (plataforma social base) | content stack / base social media platform | |
+| content templates | término acuñado | conservar+glosa | content templates (plantillas de contenido) | content templates | |
+| context | palabra común con sentido propio | traducir | contexto | contexto | Forma fija; el sentido propio (la información que se le da a la IA) se marca por contexto. |
+| context creators | término acuñado | conservar+glosa | context creators (creadores de contexto) | context creators | |
+| context gathering / action plan / coaching (phases) / context gathering phase / interview phase | término acuñado | conservar+glosa | context gathering (recopilación de contexto) / action plan (plan de acción) / coaching (acompañamiento) | context gathering / action plan / coaching | "context gathering phase" se fusiona; "interview phase (fase de entrevista)" es su otro nombre. |
+| contrarian spine | término acuñado | conservar+glosa | contrarian spine (espina dorsal contraria) | contrarian spine | |
+| contrast / polarity / discernment | término acuñado | conservar+glosa | contrast / polarity / discernment (contraste / polaridad / discernimiento) | contrast / polarity / discernment | |
+| conventional career path / the conventional path / conventional life path | término acuñado | conservar+glosa | conventional path (el camino convencional) | conventional path | Variantes fusionadas; si el original precisa, se respeta: "conventional career path (la carrera convencional)", "conventional life path (la vida convencional)". |
+| conventional stage Shadow | término acuñado | conservar+glosa | conventional stage Shadow (la Sombra de etapa convencional) | conventional stage Shadow | |
+| conversion rate | término de tercero usado por el autor | traducir | tasa de conversión | tasa de conversión | Término estándar de marketing. |
+| cope to curiosity | término acuñado | conservar+glosa | cope to curiosity (de la autodefensa a la curiosidad) | cope to curiosity | |
+| coping rather than creating | término acuñado | conservar+glosa | coping rather than creating (refugiarse en vez de crear) | coping rather than creating | |
+| copy-paste business models | término acuñado | conservar+glosa | copy-paste business models (modelos de negocio de copiar y pegar) | copy-paste business models | |
+| copycat by design | término acuñado | conservar+glosa | copycat by design (imitadores por diseño) | copycat by design | |
+| copywriting | palabra común con sentido propio | conservar | copywriting | copywriting | Préstamo usual en el mundo hispano; el sentido propio ("persuasive writing") se explica en contexto. |
+| core beliefs / core principles | término acuñado | conservar+glosa | core beliefs (creencias centrales) / core principles (principios centrales) | core beliefs / core principles | |
+| core job to be done | término de invitado | conservar+glosa | core job to be done (el trabajo central por hacer) | core job to be done | Vitali / John Hugh. |
+| Core Notes | nombre de producto/framework | conservar+glosa | Core Notes (notas núcleo) | Core Notes | La grafía errónea "cor notes" se corrige. |
+| Cornerstone Habit / cornerstone habits of the good life | término acuñado | conservar+glosa | Cornerstone Habit (hábito piedra angular) | Cornerstone Habit | Variante: "cornerstone habits of the good life (hábitos piedra angular de la buena vida)". |
+| corporate speak / corporate robot | término acuñado | conservar+glosa | corporate speak (jerga corporativa) / corporate robot (robot corporativo) | corporate speak / corporate robot | |
+| Cortex / Kortex | nombre de producto/framework | conservar | Cortex | Cortex | Nombre de la app; grafías fusionadas en "Cortex". |
+| Cortex University / Kortex University | nombre de producto/framework | conservar | Cortex University | Cortex University | Grafías fusionadas. |
+| cosmic pull / self-imposed calling | término acuñado | conservar+glosa | cosmic pull (atracción cósmica) / self-imposed calling (llamado autoimpuesto) | cosmic pull / self-imposed calling | |
+| coupled artistic aesthetic | término de tercero usado por el autor | traducir | estética artística acoplada | estética artística acoplada | Devon Eriksen. |
+| course hoarder | término acuñado | conservar+glosa | course hoarder (acumulador de cursos) | course hoarder | |
+| course on steroids | término acuñado | conservar+glosa | course on steroids (un curso con esteroides) | course on steroids | |
+| crab in a bucket / crabs and parasites | término acuñado | conservar+glosa | crab in a bucket (cangrejo en un balde) / crabs and parasites (cangrejos y parásitos) | crab in a bucket / crabs and parasites | |
+| crack / catastrophic event | término acuñado | conservar+glosa | crack (grieta en la identidad) / catastrophic event (evento catastrófico) | crack / catastrophic event | Distinto de "cracks vs ugly stains". |
+| cracks vs ugly stains (regret) | término acuñado | conservar+glosa | cracks vs ugly stains (grietas frente a manchas feas: el arrepentimiento) | cracks vs ugly stains | |
+| create a career, not be assigned one | término acuñado | conservar+glosa | create a career, not be assigned one (crea una carrera, no aceptes una asignada) | create a career, not be assigned one | |
+| create a lens / lens of your goal | término acuñado | conservar+glosa | create a lens (crear una lente) / lens of your goal (la lente de tu meta) | create a lens / lens of your goal | |
+| create or be created | término acuñado | conservar+glosa | create or be created (crea o sé creado) | create or be created | |
+| create passion / investing mental energy (currency) | término acuñado | conservar+glosa | create passion (crear pasión) / investing mental energy (invertir energía mental, como moneda) | create passion / investing mental energy | |
+| create value / distribute value | término acuñado | conservar+glosa | create value / distribute value (crear valor / distribuir valor) | create value / distribute value | |
+| create your own matrix / psychological infrastructure | término acuñado | conservar+glosa | create your own matrix (crea tu propia Matrix) / psychological infrastructure (infraestructura psicológica) | create your own matrix / psychological infrastructure | |
+| create your own philosophy / truth seekers | término acuñado | conservar+glosa | create your own philosophy (crea tu propia filosofía) / truth seekers (buscadores de la verdad) | create your own philosophy / truth seekers | |
+| create your own security | término acuñado | conservar+glosa | create your own security (crea tu propia seguridad) | create your own security | |
+| create your own structure | término acuñado | conservar+glosa | create your own structure (crea tu propia estructura) | create your own structure | |
+| create, expand and transcend | término acuñado | conservar+glosa | create, expand and transcend (crear, expandir y trascender) | create, expand and transcend | |
+| creating selves | término acuñado | conservar+glosa | creating selves (crear yoes) | creating selves | |
+| creating your own reality | término acuñado | conservar+glosa | creating your own reality (crear tu propia realidad) | creating your own reality | |
+| creation | palabra común con sentido propio | traducir | creación | creación | Forma fija; el sentido propio ("moldear, controlar y ordenar la consciencia") se marca por contexto. |
+| creation hierarchy / creation pyramid | nombre de producto/framework | conservar+glosa | creation hierarchy (jerarquía de la creación) / creation pyramid (pirámide de la creación) | creation hierarchy / creation pyramid | Precursor de la Focus Formula. |
+| creation season / consumption and delegation season / manage versus do | término de invitado | conservar+glosa | creation season (temporada de creación) / consumption and delegation season (temporada de consumo y delegación) / manage versus do (gestionar frente a hacer) | creation season / consumption and delegation season / manage versus do | Dickie Bush. |
+| creative / true creative | término acuñado | conservar+glosa | creative (el creativo: quien resuelve problemas combinando recursos) / true creative (el verdadero creativo) | creative / true creative | Solo como sustantivo con este sentido; el adjetivo "creativo" se traduce normalmente. |
+| creative achievement approached obliquely | término de tercero usado por el autor | traducir | el logro creativo se alcanza de forma oblicua | el logro creativo se alcanza de forma oblicua | Alex Soojung-Kim Pang (Rest). |
+| creative boundary | término acuñado | conservar+glosa | creative boundary (límite creativo) | creative boundary | Distinto de "boundaries for creativity". |
+| creative challenge | término acuñado | conservar+glosa | creative challenge (desafío creativo) | creative challenge | |
+| Creative Edge | término acuñado | conservar+glosa | Creative Edge (la ventaja creativa) | Creative Edge | |
+| creative emergence | término acuñado | conservar+glosa | creative emergence (surgimiento creativo) | creative emergence | |
+| creative firepower / vessel / currency | término acuñado | conservar+glosa | creative firepower (potencia de fuego creativa) / vessel (vehículo) / currency (moneda) | creative firepower / vessel / currency | "vessel" sigue su decisión general (conservar con glosa "vehículo"). |
+| creative income | término acuñado | conservar+glosa | creative income (ingreso creativo) | creative income | |
+| creative spark | término de invitado | conservar+glosa | creative spark (chispa creativa) | creative spark | John Hugh. |
+| creative state / open state creativity | término acuñado | conservar+glosa | creative state (estado creativo) / open state creativity (creatividad de estado abierto) | creative state / open state creativity | |
+| creative thought partner | término acuñado | conservar+glosa | creative thought partner (compañero de pensamiento creativo) | creative thought partner | |
+| creative way of life | término acuñado | conservar+glosa | creative way of life (forma de vida creativa) | creative way of life | |
+| creative work / creator work | término acuñado | conservar+glosa | creative work (trabajo creativo) / creator work (trabajo de creador) | creative work / creator work | Opuesto a "busy work". |
+| creativity = create + clarity | término acuñado | conservar+glosa | creativity = create + clarity (creatividad = crear + claridad) | creativity = create + clarity | |
+| creativity block / creativity blocks (walks) / creating on an empty tank | término acuñado | conservar+glosa | creativity block (bloque de creatividad) / creating on an empty tank (crear con el tanque vacío) | creativity block / creating on an empty tank | Plural fusionado. Distinto de "productivity block". |
+| creativity is in the constraints / creativity thrives with constraints | término acuñado | conservar+glosa | creativity is in the constraints (la creatividad está en las restricciones) | creativity is in the constraints | Variante fusionada: "creativity thrives with/within constraints". |
+| creativity is the fuel for productivity / optimizing for the right amount | término acuñado | conservar+glosa | creativity is the fuel for productivity (la creatividad es el combustible de la productividad) / optimizing for the right amount (optimizar para la cantidad justa) | creativity is the fuel for productivity / optimizing for the right amount | |
+| creativity is the vessel | término acuñado | conservar+glosa | creativity is the vessel (la creatividad es el vehículo de la felicidad) | creativity is the vessel | |
+| creator / creator as a way of being / Creator (way of life) | término acuñado | conservar+glosa | creator (creador: quien crea su vida, no un título laboral) | creator | Variantes fusionadas; "creator as a way of being (el creador como forma de ser)". Distinto de "content creator" (traducido). |
+| Creator actualization hierarchies | término acuñado | conservar+glosa | Creator actualization hierarchies (jerarquías de actualización del creador) | Creator actualization hierarchies | Opuestas a dominance hierarchies. |
+| creator economy | palabra común con sentido propio | traducir | economía de los creadores | economía de los creadores | Forma establecida; el sentido propio (sociedad descentralizada) se marca por contexto. |
+| Creator first | término de invitado | conservar+glosa | Creator first (el creador primero) | Creator first | Valor cultural de Stan. |
+| Creator game / one person business game | término acuñado | conservar+glosa | Creator game (el juego del creador) / one person business game (el juego del negocio de una persona) | Creator game / one person business game | |
+| Creator philosophy | término acuñado | conservar+glosa | Creator philosophy (filosofía del creador) | Creator philosophy | |
+| creator society / Creator's Society | término acuñado | conservar+glosa | creator society (la sociedad de los creadores) | creator society | Grafías fusionadas. |
+| creator's paradox | término acuñado | conservar+glosa | creator's paradox (la paradoja del creador) | creator's paradox | |
+| crevice of reality | término acuñado | conservar+glosa | crevice of reality (recoveco de la realidad) | crevice of reality | |
+| critical thinking 101 | término acuñado | conservar+glosa | critical thinking 101 (pensamiento crítico 101) | critical thinking 101 | |
+| cross-domain synthesis | término acuñado | conservar+glosa | cross-domain synthesis (síntesis entre dominios) | cross-domain synthesis | |
+| cross-post | palabra común con sentido propio | traducir | publicación cruzada | publicación cruzada | Forma fija; publicar lo mismo en todas las plataformas. |
+| cross-quadrant unlock patterns | término acuñado | conservar+glosa | cross-quadrant unlock patterns (patrones de desbloqueo entre cuadrantes) | cross-quadrant unlock patterns | |
+| crossroads of dissonance and insight | término acuñado | conservar+glosa | crossroads of dissonance and insight (encrucijada de disonancia e insight) | crossroads of dissonance and insight | |
+| crystallized identity | término acuñado | conservar+glosa | crystallized identity (identidad cristalizada) | crystallized identity | |
+| culture | término de invitado | conservar+glosa | culture (cultura del equipo) | culture | Sentido organizacional de Vitali; "cultura" general se traduce normalmente. |
+| curate your digital environment | término acuñado | conservar+glosa | curate your digital environment (cura tu entorno digital) | curate your digital environment | |
+| curator | palabra común con sentido propio | traducir | curador | curador | Forma fija (no "comisario"); quien protege su mente curando sus fuentes. |
+| curator, not a consumer | término acuñado | conservar+glosa | curator, not a consumer (curador, no consumidor) | curator, not a consumer | |
+| curiosity | palabra común con sentido propio | traducir | curiosidad | curiosidad | Forma fija. |
+| Curiosity Compass | nombre de producto/framework | conservar+glosa | Curiosity Compass (Brújula de la Curiosidad) | Curiosity Compass | |
+| curiosity gap / curiosity loop | término acuñado | conservar+glosa | curiosity gap (brecha de curiosidad) / curiosity loop (bucle de curiosidad) | curiosity gap / curiosity loop | Intercambiables para el autor, pero cada uno conserva su forma. |
+| curiosity–intensity–consistency cycle | término acuñado | conservar+glosa | curiosity–intensity–consistency cycle (ciclo curiosidad–intensidad–constancia) | curiosity–intensity–consistency cycle | |
+| currency of agency | término acuñado | conservar+glosa | currency of agency (la moneda de la agency) | currency of agency | |
+| curriculum | palabra común con sentido propio | traducir | temario | temario | Forma fija (evita "currículo", que en Latinoamérica evoca el CV). |
+| curse of knowledge | palabra común con sentido propio | conservar+glosa | curse of knowledge (maldición del conocimiento, en el sentido del autor) | curse of knowledge | Se conserva porque el autor le da un sentido distinto del sesgo cognitivo habitual (el deseo de aprender sin cuestionar). |
+| curse of the individual contributor | término de invitado | conservar+glosa | curse of the individual contributor (la maldición del colaborador individual) | curse of the individual contributor | John Hugh. |
+| curtain language | término de tercero usado por el autor | traducir | lenguaje de cortina | lenguaje de cortina | Eddie Shlainer, vía Justin Welsh. |
+| curveball | palabra común con sentido propio | traducir | giro inesperado | giro inesperado | Forma fija. |
+| customer avatar | término acuñado | conservar+glosa | customer avatar (avatar de cliente) | customer avatar | Sentido propio: tu yo pasado es el avatar. |
+| customer creation (through education) | término acuñado | conservar+glosa | customer creation (creación de clientes mediante la educación) | customer creation | |
+| cybernetic trial and error | término acuñado | conservar+glosa | cybernetic trial and error (ensayo y error cibernético) | cybernetic trial and error | |
+| cybernetics | término de tercero usado por el autor | traducir | cibernética | cibernética | |
+| cycle of centralization and decentralization | término acuñado | conservar+glosa | cycle of centralization and decentralization (ciclo de centralización y descentralización) | cycle of centralization and decentralization | |
+| cycles from the top down | término acuñado | conservar+glosa | cycles from the top down (ciclos de arriba hacia abajo) | cycles from the top down | |
+| cycles of progress / phases of life (perplexity, curiosity, intensity, consistency) | término acuñado | conservar+glosa | cycles of progress / phases of life (ciclos de progreso / fases de la vida: perplejidad, curiosidad, intensidad, constancia) | cycles of progress / phases of life | |
