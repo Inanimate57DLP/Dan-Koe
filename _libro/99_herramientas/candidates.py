@@ -5,7 +5,7 @@ W={'conditioning':'condicionamiento','conformity':'conformidad','autopilot':'pil
 'identity':'identidad','focus':'foco','luck':'suerte','distribution':'distribución','attention':'atención','value':'valor','mind':'mente',
 'game':'juego','habit':'hábito','habits':'hábitos','skill':'habilidad','skills':'habilidades','problem':'problema','problems':'problemas','purpose':'propósito',
 'leverage':'apalancamiento','alignment':'alineación','character':'personaje','culture':'cultura','perspective':'perspectiva','frame':'marco',
-'intention':'intención','generalist':'generalista','residue':'residuo','gravity':'gravedad','dissonance':'disonancia','growth':'crecimiento','vision':'visión','force':'fuerza','rules':'reglas'}
+'intention':'intención','generalist':'generalista','residue':'residuo','gravity':'gravedad','dissonance':'disonancia','growth':'crecimiento','vision':'visión','force':'fuerza','rules':'reglas','personal brand':'marca personal','personal branding':'construcción de marca personal','survival mode':'modo supervivencia','self-awareness':'autoconsciencia'}
 f=sys.argv[1]; n=0
 for i,line in enumerate(open(f),1):
     if line.startswith('#') : pass
@@ -23,4 +23,11 @@ for i,line in enumerate(open(f),1):
             # dentro de término compuesto en inglés (palabra inglesa contigua)
             ctx=l[max(0,m.start()-25):m.end()+25]
             print(f"{i}: [{w}→{tr}] …{ctx.strip()}…"); n+=1
+import unicodedata
+for i,line in enumerate(open(f),1):
+    for ch in line:
+        if ord(ch)>0x2FF and unicodedata.category(ch).startswith('L'):
+            print(f"{i}: [CARÁCTER NO LATINO {ch!r}] …{line.strip()[:80]}…"); n+=1; break
+    if line.startswith('#') and re.search(r'\b(the|and|of|your|to|is)\b',line) and not re.search(r'[áéíóúñ¿¡]|\b(el|la|los|las|de|del|y|tu|en|un|una|que)\b',line):
+        print(f"{i}: [ENCABEZADO EN INGLÉS: añadir glosa española entre paréntesis] {line.strip()}"); n+=1
 print('TOTAL',n,file=sys.stderr)

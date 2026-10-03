@@ -142,7 +142,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | aspirational archetypes | término acuñado | conservar+glosa | aspirational archetypes (arquetipos aspiracionales) | aspirational archetypes |  |
 | aspirational hourly rate / real hourly rate | término de tercero usado por el autor | traducir | tarifa horaria aspiracional / tarifa horaria real | tarifa horaria aspiracional / tarifa horaria real | Naval Ravikant. |
 | asset creation / hit creation | término de tercero usado por el autor | traducir | creación de activos / creación de éxitos | creación de activos / creación de éxitos |  |
-| assigned goals / self-generated goals | término acuñado | conservar+glosa | assigned goals (metas asignadas) / self-generated goals (metas autogeneradas) | assigned goals / self-generated goals |  |
+| assigned goals / self-generated goals | palabra común con sentido propio | traducir | metas asignadas / metas autogeneradas | metas asignadas / metas autogeneradas | Regla general: se traduce siempre (como assignment → asignación). |
 | assigned identity / goal-oriented creatures | término acuñado | conservar+glosa | assigned identity (identidad asignada) / goal-oriented creatures (criaturas orientadas a metas) | assigned identity / goal-oriented creatures |  |
 | assigned routine | término acuñado | conservar+glosa | assigned routine (rutina asignada) | assigned routine |  |
 | assigned strategy | término acuñado | conservar+glosa | assigned strategy (estrategia asignada) | assigned strategy |  |
