@@ -4,7 +4,7 @@
 - **Directorio de trabajo:** `_libro/` (en la raíz)
 - **Rama de trabajo:** `libro-maestro-dan-koe` (creada desde `origin/main`, commit 1396995)
 - **Último commit:** c62d1f7 Fase 5: auditoría capítulos 03-04
-- **Fase actual:** Fase 4 COMPLETA (40/40 capítulos en inglés). Fase 5 (auditoría) en curso: auditorías por pares de capítulos en `06_auditoria/audit-NN.md` (01 y 02 hechas; resto pendiente). Luego: corrección de hallazgos (incluida limpieza de vocabulario de proceso: "units", "cluster", "material of this chapter").
+- **Fase actual:** Fase 5 COMPLETA (iteración 1: 4 pérdidas + 218 menores, todos corregidos; iteración 2 de verificación en curso). Fase 6: `07_libro_en.md` ensamblado (1.355.315 palabras; glosario, fuentes e índice analítico se construyen directamente en español en la Fase 7 desde 03c/03d). Fase 7 en curso: léxico de traducción en `08_partes/` (parte 2 lista; 1, 3 y 4 en curso).
 
 ## Números
 - Archivos: 164 · Palabras del corpus: 1.095.022 · Lotes: 27 (ver `01b_lotes.md`)
