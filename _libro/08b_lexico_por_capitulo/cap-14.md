@@ -4,12 +4,13 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 
 ## Reglas generales
 1. **Términos acuñados** por el autor o sus invitados, nombres de frameworks, productos y fórmulas de marca: se **conservan en inglés**. Primera aparición en cada capítulo: `término original (traducción)`; después, el término original.
-2. **Palabras comunes muy frecuentes** que el autor usa con sentido propio pero que tienen equivalente natural en español (goal, identity, focus, luck, distribution, attention, value, mind, game, habit, skill, problem, purpose) se **traducen** con forma fija (meta, identidad, foco, suerte, distribución, atención, valor, mente, juego, hábito, habilidad, problema, propósito); su definición propia se explica en el texto. Se conservan en inglés solo dentro de un término acuñado compuesto (p. ej., *goal-oriented*, *Focus Formula*).
-3. Otras palabras comunes con sentido fuerte (vessel, leverage, edge, hunting, glitch, NPC, the Matrix…): según la tabla.
-4. Términos de terceros con traducción establecida en español: forma estándar (p. ej., entropía, flow, Dinámica Espiral (Spiral Dynamics)).
-5. **Nunca** dos términos distintos del autor reciben la misma traducción.
-6. Español neutro latinoamericano, sin voseo.
-7. *consciousness* → **consciencia** (sentido filosófico/psicológico); *levels of awareness* de Schwartz → **niveles de conciencia (Schwartz)**, para distinguirlos.
+2. **Solo se conservan en inglés los términos que figuran como entrada exacta en esta tabla con decisión conservar.** Las palabras inglesas comunes que NO figuran como entrada propia (conformity, conditioning, autopilot, assignment, etc.) se traducen normalmente (conformidad, condicionamiento, piloto automático, asignación), aunque aparezcan dentro de algún término compuesto de la tabla.
+3. **Palabras comunes muy frecuentes** que el autor usa con sentido propio pero que tienen equivalente natural en español (goal, identity, focus, luck, distribution, attention, value, mind, game, habit, skill, problem, purpose) se **traducen** con forma fija (meta, identidad, foco, suerte, distribución, atención, valor, mente, juego, hábito, habilidad, problema, propósito); su definición propia se explica en el texto. Se conservan en inglés solo dentro de un término acuñado compuesto (p. ej., *goal-oriented*, *Focus Formula*).
+4. Otras palabras comunes con sentido fuerte (vessel, leverage, edge, hunting, glitch, NPC, the Matrix…): según la tabla.
+5. Términos de terceros con traducción establecida en español: forma estándar (p. ej., entropía, flow, Dinámica Espiral (Spiral Dynamics)).
+6. **Nunca** dos términos distintos del autor reciben la misma traducción.
+7. Español neutro latinoamericano, sin voseo.
+8. *consciousness* → **consciencia** (sentido filosófico/psicológico); *levels of awareness* de Schwartz → **niveles de conciencia (Schwartz)**, para distinguirlos.
 
 ## Términos de este texto
 
@@ -18,7 +19,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | $100,000 in your head / $1 million trapped in your head / $100,000 product in your head | término acuñado | conservar+glosa | $100,000 in your head (100.000 dólares en tu cabeza) | $100,000 in your head | Variantes de cifra del mismo motivo. Si el original usa otra cifra, se respeta: "$1 million trapped in your head (un millón de dólares atrapado en tu cabeza)". |
 | advantageous perspective / enemy | término acuñado | conservar+glosa | advantageous perspective (perspectiva ventajosa) | advantageous perspective | Subtérmino: "enemy (el enemigo de la historia)"; distinto de "actual enemy". |
 | agency / high agency | palabra común con sentido propio | conservar+glosa | agency (agencia personal); high agency (alta agencia) | agency / high agency | Se conserva para separarlo de "agencia" como empresa de servicios (agencia de marketing, SMMA), que sí se traduce "agencia". |
-| alignment | término de invitado | conservar+glosa | alignment (alineación del equipo) | alignment | Sentido organizacional de los invitados; "alineado/alinear" cotidiano se traduce normalmente. |
+| alignment | término de invitado | traducir | alineación | alineación | Sentido organizacional de los invitados; "alineado/alinear" cotidiano se traduce normalmente. — Regla general: palabra común; se traduce con forma fija y su sentido propio se explica en el texto. |
 | anchor / anchor points / anchors | término acuñado | conservar+glosa | anchor (ancla) | anchor | "anchors" se fusiona. "anchor points (puntos de anclaje)", también en el sentido de outline de "a magnet for ideas". |
 | applications (social media, offer creation, traffic generation) | término acuñado | conservar+glosa | applications (los canales de aplicación: redes sociales, creación de ofertas, generación de tráfico) | applications | No confundir con "apps"; si el contexto es software, se traduce "aplicaciones". |
 | apprenticeship / return of the artisan / next renaissance / lecture model | término acuñado | conservar+glosa | apprenticeship (aprendizaje con un maestro) / return of the artisan (el regreso del artesano) / next renaissance (el próximo renacimiento) / lecture model (modelo de clase magistral) | apprenticeship / return of the artisan / next renaissance / lecture model |  |
@@ -52,7 +53,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | build teach earn method | nombre de producto/framework | conservar+glosa | build teach earn method (método construir, enseñar, ganar) | build teach earn method |  |
 | build to learn / learn as you build / build as you learn | término acuñado | conservar+glosa | build to learn (construir para aprender) | build to learn | "learn as you build" y "build as you learn" se fusionan como variantes. |
 | build your body / build your mind / build your business | término acuñado | conservar+glosa | build your body / build your mind / build your business (construye tu cuerpo, tu mente, tu negocio) | build your body / build your mind / build your business |  |
-| builder | palabra común con sentido propio | conservar+glosa | builder (constructor) | builder | Se conserva por el sentido fuerte ("if you are not a builder, you are going to be built over"); "constructor" de obras se traduce normalmente. |
+| builder | palabra común con sentido propio | traducir | constructor | constructor | Se conserva por el sentido fuerte ("if you are not a builder, you are going to be built over"); "constructor" de obras se traduce normalmente. — Regla general: palabra común; se traduce con forma fija y su sentido propio se explica en el texto. |
 | building / maintenance | término acuñado | conservar+glosa | building / maintenance (construcción / mantenimiento) | building / maintenance |  |
 | building block (project) / building blocks | término acuñado | conservar+glosa | building block (proyecto pieza); building blocks (bloques de ideas) | building block / building blocks | Dos sentidos: singular = proyecto que es pieza de la vida deseada; plural = ideas guardadas para argumentar. No intercambiar. |
 | building for yourself / building in public / digital journal | término acuñado | conservar+glosa | building for yourself (construir para ti) / digital journal (diario digital) | building for yourself / digital journal | "building in public" sigue la fila "build in public". |
@@ -63,9 +64,9 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | camera / lens (blurred lens) | término acuñado | conservar+glosa | camera / lens (cámara / lente; blurred lens: lente desenfocada) | camera / lens | La glosa de "lens" coincide con la decisión general de lens (léxico parte 2). |
 | catalyst | palabra común con sentido propio | traducir | catalizador | catalizador | Forma fija; distinto de "Clarity Catalyst", que se conserva. |
 | CEO (of your own life) | término acuñado | conservar+glosa | CEO of your own life (CEO de tu propia vida) | CEO of your own life |  |
-| channels | término acuñado | conservar+glosa | channels (canales de conocimiento) | channels | Solo en este sentido; un canal de YouTube se traduce "canal". |
+| channels | término acuñado | traducir | canales | canales | Solo en este sentido; un canal de YouTube se traduce "canal". — Regla general: palabra común; se traduce con forma fija y su sentido propio se explica en el texto. |
 | chapters / seasons / chapters and phases / Everlasting book / sub books | término acuñado | conservar+glosa | chapters (capítulos de la vida) / seasons (temporadas) / Everlasting book (el libro sin fin) / sub books (sublibros) | chapters / seasons / Everlasting book / sub books | "chapters and phases" se fusiona con chapters. |
-| character | término acuñado | conservar+glosa | character (personaje: el concepto de sí) | character | Marco de videojuego; "carácter" moral se traduce normalmente. |
+| character | término acuñado | traducir | personaje | personaje | Marco de videojuego; "carácter" moral se traduce normalmente. — Regla general: palabra común; se traduce con forma fija y su sentido propio se explica en el texto. |
 | cheap dopamine | término acuñado | conservar+glosa | cheap dopamine (dopamina barata) | cheap dopamine | Opuesto de earned / expensive dopamine. |
 | clarity / clarity (and connection) | término acuñado | conservar+glosa | clarity (claridad: tener un camino de donde estás a donde quieres estar) | clarity | "clarity (and connection)" se fusiona. "claridad" en sentido cotidiano (un texto claro) se traduce normalmente. |
 | Clarity Catalyst | término acuñado | conservar+glosa | Clarity Catalyst (catalizador de claridad) | Clarity Catalyst | Distinto de "catalyst" (traducido). |
@@ -74,7 +75,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | code / tight feedback loop | nombre de producto/framework | conservar+glosa | code (código de vida) / tight feedback loop (ciclo de retroalimentación cerrado) | code / tight feedback loop | "code" suelto en inglés = este framework (anti-vision → vision → standards → projects → levers). |
 | Collapse of work and life into one | término acuñado | conservar+glosa | Collapse of work and life into one (la fusión del trabajo y la vida en una sola cosa) | Collapse of work and life into one |  |
 | collect / connect / create with the dots | término acuñado | conservar+glosa | collect / connect / create with the dots (reunir, conectar y crear con los puntos) | collect / connect / create with the dots |  |
-| commodity | palabra común con sentido propio | conservar+glosa | commodity (mercancía intercambiable) | commodity | Préstamo usual en negocios; el sentido propio es "intercambiable, genérico", opuesto a sistema propio y a "exploit". |
+| commodity | palabra común con sentido propio | traducir | commodity | commodity | Préstamo usual en negocios; el sentido propio es "intercambiable, genérico", opuesto a sistema propio y a "exploit". — Regla general: palabra común; se traduce con forma fija y su sentido propio se explica en el texto. |
 | compartment of reality | término acuñado | conservar+glosa | compartment of reality (compartimento de la realidad) | compartment of reality |  |
 | concept of self | palabra común con sentido propio | traducir | concepto de sí | concepto de sí | Forma fija (no "autoconcepto", que queda libre); equivalente para el autor a character, identity y self-image, pero cada uno conserva su forma. |
 | conceptual / spiritual reproduction | término acuñado | conservar+glosa | conceptual / spiritual reproduction (reproducción conceptual / espiritual) | conceptual / spiritual reproduction |  |
@@ -94,7 +95,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | context gathering / action plan / coaching (phases) / context gathering phase / interview phase | término acuñado | conservar+glosa | context gathering (recopilación de contexto) / action plan (plan de acción) / coaching (acompañamiento) | context gathering / action plan / coaching | "context gathering phase" se fusiona; "interview phase (fase de entrevista)" es su otro nombre. |
 | contrast / polarity / discernment | término acuñado | conservar+glosa | contrast / polarity / discernment (contraste / polaridad / discernimiento) | contrast / polarity / discernment |  |
 | cope to curiosity | término acuñado | conservar+glosa | cope to curiosity (de la autodefensa a la curiosidad) | cope to curiosity |  |
-| copywriting | palabra común con sentido propio | conservar | copywriting | copywriting | Préstamo usual en el mundo hispano; el sentido propio ("persuasive writing") se explica en contexto. |
+| copywriting | palabra común con sentido propio | traducir | copywriting | copywriting | Préstamo usual en el mundo hispano; el sentido propio ("persuasive writing") se explica en contexto. — Regla general: palabra común; se traduce con forma fija y su sentido propio se explica en el texto. |
 | Cornerstone Habit / cornerstone habits of the good life | término acuñado | conservar+glosa | Cornerstone Habit (hábito piedra angular) | Cornerstone Habit | Variante: "cornerstone habits of the good life (hábitos piedra angular de la buena vida)". |
 | Cortex / Kortex | nombre de producto/framework | conservar | Cortex | Cortex | Nombre de la app; grafías fusionadas en "Cortex". |
 | crack / catastrophic event | término acuñado | conservar+glosa | crack (grieta en la identidad) / catastrophic event (evento catastrófico) | crack / catastrophic event | Distinto de "cracks vs ugly stains". |
@@ -141,7 +142,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | education is not programming | acuñado | conservar+glosa | education is not programming (la educación no es programación) | education is not programming | Acuñado por Dan Koe; se conserva en inglés. |
 | Effectiveness | tercero | traducir | efectividad | efectividad | Devon Eriksen; reencuadre de la inteligencia. Traducción fija "efectividad" (con mayúscula cuando se cita como definición). |
 | ego | acuñado | conservar | ego | ego | Coincide en español; se conserva como término del autor (sistema de ideas, creencias, valores y estándares; "no es el enemigo"). Se marca en cursiva cuando designa el concepto definido. |
-| elements | acuñado | conservar+glosa | elements (elementos) | elements | Acuñado por Dan Koe; se conserva en inglés. |
+| elements | acuñado | traducir | elementos | elementos | Acuñado por Dan Koe; se conserva en inglés. — Regla general: palabra común; se traduce con forma fija y su sentido propio se explica en el texto. |
 | embedded / novel connections | acuñado | conservar+glosa | embedded / novel connections (conexiones incrustadas / novedosas) | embedded / novel connections | Acuñado por Dan Koe; se conserva en inglés. |
 | enjoyment / obsession | acuñado | conservar+glosa | enjoyment / obsession (disfrute / obsesión) | enjoyment / obsession | Acuñado por Dan Koe; se conserva en inglés. |
 | execution gap | acuñado | conservar+glosa | execution gap (brecha de ejecución) | execution gap | Acuñado por Dan Koe; se conserva en inglés. |
@@ -160,14 +161,14 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | forced synchronicity | acuñado | conservar+glosa | forced synchronicity (sincronicidad forzada) | forced synchronicity | Acuñado por Dan Koe; se conserva en inglés. |
 | forcing function | tercero | conservar+glosa | forcing function (función forzante) | forcing function | Dickie Bush; sin traducción establecida, se conserva como término acuñado por terceros. |
 | four paths | acuñado | conservar+glosa | four paths (cuatro caminos) | four paths | Acuñado por Dan Koe; se conserva en inglés. |
-| frame | acuñado | conservar+glosa | frame (marco) | frame | Acuñado por Dan Koe; se conserva en inglés. |
+| frame | acuñado | traducir | marco | marco | Acuñado por Dan Koe; se conserva en inglés. — Regla general: palabra común; se traduce con forma fija y su sentido propio se explica en el texto. |
 | frame of reference | acuñado | traducir | marco de referencia | marco de referencia | Expresión estándar con traducción establecida; el autor la aplica al outline semanal. Se distingue de "frame" (conservado en inglés). |
 | frequency (of energy) | acuñado | conservar+glosa | frequency (of energy) (frecuencia (de energía)) | frequency (of energy) | Acuñado por Dan Koe; se conserva en inglés. |
 | front end / back end | acuñado | conservar+glosa | front end / back end (capa visible / capa interna) | front end / back end | Acuñado por Dan Koe; se conserva en inglés. |
 | fundamentals | palabra común | traducir | fundamentos | fundamentos | Palabra común con sentido propio (lo que lleva el 95% del camino; patrones repetidos entre fuentes). Traducción fija "fundamentos", nunca "bases" ni "principios básicos", para que el concepto sea reconocible. |
 | futureproof | acuñado | conservar+glosa | futureproof (a prueba de futuro) | futureproof | Acuñado por Dan Koe; se conserva en inglés. |
 | gamify your life | acuñado | conservar+glosa | gamify your life (gamifica tu vida) | gamify your life | Acuñado por Dan Koe; se conserva en inglés. |
-| generalist | palabra común | conservar+glosa | generalist (generalista) | generalist | Palabra común con sentido propio: quien persigue una meta y aprende todo lo necesario para lograrla (no el "aprendiz de todo"). Se conserva en inglés para distinguirlo del uso laboral cotidiano. |
+| generalist | palabra común | traducir | generalista | generalista | Palabra común con sentido propio: quien persigue una meta y aprende todo lo necesario para lograrla (no el "aprendiz de todo"). Se conserva en inglés para distinguirlo del uso laboral cotidiano. — Regla general: palabra común; se traduce con forma fija y su sentido propio se explica en el texto. |
 | genuine curiosity | acuñado | conservar+glosa | genuine curiosity (curiosidad genuina) | genuine curiosity | Acuñado por Dan Koe; se conserva en inglés. |
 | glue | palabra común | conservar+glosa | glue (pegamento) | glue | Palabra común con sentido propio (las habilidades de negocio que hacen funcionar cualquier modelo). Se conserva en inglés para marcar el concepto. |
 | go all in | acuñado | conservar+glosa | go all in (ir con todo) | go all in | Acuñado por Dan Koe; se conserva en inglés. |
@@ -190,14 +191,14 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | identity / behavior | palabra común | conservar+glosa | identity / behavior (identidad / conducta) | identity / behavior | Uso en contratación (bloque T18); se conserva como par para distinguirlo de "identity" a secas. |
 | improve yourself in public | acuñado | conservar+glosa | improve yourself in public (mejórate en público) | improve yourself in public | Acuñado por Dan Koe; se conserva en inglés. |
 | infinite game | tercero | traducir | juego infinito | juego infinito | Término popular (James Carse, Simon Sinek) con traducción establecida. |
-| influencer | palabra común | conservar+glosa | influencer (influencer) | influencer | Palabra común con sentido propio peyorativo (quien capta atención con apariencia y trucos para vender sin valor). Se conserva en inglés, como en el uso hispano, y se distingue de "creator". |
+| influencer | palabra común | traducir | influencer | influencer | Palabra común con sentido propio peyorativo (quien capta atención con apariencia y trucos para vender sin valor). Se conserva en inglés, como en el uso hispano, y se distingue de "creator". — Regla general: palabra común; se traduce con forma fija y su sentido propio se explica en el texto. |
 | information fat | acuñado | conservar+glosa | information fat (grasa informativa) | information fat | Acuñado por Dan Koe; se conserva en inglés. |
 | information product | acuñado | conservar+glosa | information product (producto de información) | information product | Acuñado por Dan Koe; se conserva en inglés. |
 | inspiration (vs motivation) | acuñado | conservar+glosa | inspiration (vs motivation) (inspiración (vs motivación)) | inspiration (vs motivation) | Acuñado por Dan Koe; se conserva en inglés. |
 | intellectual obesity | acuñado | conservar+glosa | intellectual obesity (obesidad intelectual) | intellectual obesity | Acuñado por Dan Koe; se conserva en inglés. |
 | intelligence | tercero | traducir | inteligencia | inteligencia | Naval, adaptada. Traducción fija "inteligencia"; se distingue de "high intelligence" (fila propia, conservada). |
 | intensity phase | acuñado | conservar+glosa | intensity phase (fase de intensidad) | intensity phase | Acuñado por Dan Koe; se conserva en inglés. |
-| intention | acuñado | conservar+glosa | intention (intención) | intention | Acuñado por Dan Koe; se conserva en inglés. |
+| intention | acuñado | traducir | intención | intención | Acuñado por Dan Koe; se conserva en inglés. — Regla general: palabra común; se traduce con forma fija y su sentido propio se explica en el texto. |
 | interest-based education | acuñado | conservar+glosa | interest-based education (educación basada en intereses) | interest-based education | Acuñado por Dan Koe; se conserva en inglés. |
 | intrinsic / extrinsic hierarchy of goals | acuñado | conservar+glosa | intrinsic / extrinsic hierarchy of goals (jerarquía de metas intrínseca / extrínseca) | intrinsic / extrinsic hierarchy of goals | Acuñado por Dan Koe; se conserva en inglés. |
 | intrinsic energy | acuñado | conservar+glosa | intrinsic energy (energía intrínseca) | intrinsic energy | Acuñado por Dan Koe; se conserva en inglés. |
@@ -216,9 +217,9 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | learning with intention | acuñado | conservar+glosa | learning with intention (aprender con intención) | learning with intention | Acuñado por Dan Koe; se conserva en inglés. |
 | leisure | palabra común | traducir | ocio | ocio | Palabra común con sentido propio (una actividad deja de ser ocio cuando se ata a un resultado obligatorio). Traducción fija "ocio", nunca "tiempo libre", para conservar la distinción con trabajo. |
 | lens / modality | acuñado | conservar+glosa | lens / modality (lente / modalidad) | lens / modality | Acuñado por Dan Koe; se conserva en inglés. |
-| lenses | acuñado | conservar+glosa | lenses (lentes) | lenses | Acuñado por Dan Koe; se conserva en inglés. |
+| lenses | acuñado | traducir | lentes | lentes | Acuñado por Dan Koe; se conserva en inglés. — Regla general: palabra común; se traduce con forma fija y su sentido propio se explica en el texto. |
 | levels (walking) | acuñado | conservar+glosa | levels (walking) (niveles (caminar)) | levels (walking) | Acuñado por Dan Koe; se conserva en inglés. |
-| leverage | tercero | traducir | apalancamiento | apalancamiento | Término de Naval que el autor redefine ("the multiplier between input and output"); primera aparición: "apalancamiento (leverage)"; después "apalancamiento". — Regla general: palabra común; se traduce con forma fija y su sentido propio se explica en el texto. |
+| leverage | tercero | traducir | apalancamiento | apalancamiento | Término de Naval que el autor redefine ("the multiplier between input and output"); en el mundo hispano del emprendimiento digital se usa "leverage". Se conserva en inglés. — Regla general: palabra común; se traduce con forma fija y su sentido propio se explica en el texto. |
 | leverage-based game | acuñado | conservar+glosa | leverage-based game (juego basado en leverage) | leverage-based game | Acuñado por Dan Koe; se conserva en inglés. |
 | levers / mechanics | acuñado | conservar+glosa | levers / mechanics (palancas / mecánicas) | levers / mechanics | Acuñado por Dan Koe; se conserva en inglés. |
 | life's work | palabra común | conservar+glosa | life's work (obra de vida) | life's work | Expresión común con sentido propio (lo que eliges hacer con tu vida y cómo difundes el valor que desarrollas). Se conserva en inglés para distinguirla de "trabajo" o "carrera". |
@@ -284,7 +285,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | perplexity / curiosity / intensity (phases) | término acuñado | conservar+glosa | perplexity / curiosity / intensity (perplejidad / curiosidad / intensidad) | perplexity / curiosity / intensity | Fases del ciclo de progreso. |
 | personal brand | término acuñado | conservar+glosa | personal brand (marca personal) | personal brand | Préstamo usual en el marketing hispano; en sentido genérico ajeno al autor puede traducirse "marca personal". |
 | personal project | término acuñado | conservar+glosa | personal project (proyecto personal) | personal project |  |
-| perspective | término acuñado | conservar+glosa | perspective (perspectiva) | perspective | Término acuñado en su sentido técnico; el uso cotidiano de "perspective" se traduce "perspectiva" sin glosa. |
+| perspective | término acuñado | traducir | perspectiva | perspectiva | Término acuñado en su sentido técnico; el uso cotidiano de "perspective" se traduce "perspectiva" sin glosa. — Regla general: palabra común; se traduce con forma fija y su sentido propio se explica en el texto. |
 | perspective / energy signature / sensemaking / trajectory / evolving taste | término acuñado | conservar+glosa | perspective / energy signature / sensemaking / trajectory / evolving taste (perspectiva / firma energética / dar sentido / trayectoria / gusto en evolución) | perspective / energy signature / sensemaking / trajectory / evolving taste |  |
 | perspective / perception | término acuñado | conservar+glosa | perspective / perception (perspectiva / percepción) | perspective / perception |  |
 | perspective vessel | término acuñado | conservar+glosa | perspective vessel (vessel de perspectiva) | perspective vessel | "vessel" se conserva; glosa general "vehículo". Forma "perspective vessel for reality (vessel de perspectiva para la realidad)". |
@@ -329,7 +330,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | rest / quality rest | término acuñado | conservar+glosa | rest / quality rest (descanso / descanso de calidad) | rest / quality rest | Distinto de proper rest (descanso adecuado). |
 | right vessel | término acuñado | conservar+glosa | right vessel (el vessel correcto) | right vessel | "vessel" se conserva (glosa general: vehículo). |
 | routine (set of practical goals that orders the mind) / routine of not having a routine | término acuñado | conservar+glosa | routine / routine of not having a routine (rutina / la rutina de no tener rutina) | routine / routine of not having a routine | Sentido propio: conjunto de metas prácticas que ordena la mente; el uso cotidiano de "routine" se traduce "rutina" sin glosa. |
-| rules | término acuñado | conservar+glosa | rules (reglas) | rules | Tríada "rules / mechanics / feedback (reglas / mecánicas / feedback)". |
+| rules | término acuñado | traducir | reglas | reglas | Tríada "rules / mechanics / feedback (reglas / mecánicas / feedback)". — Regla general: palabra común; se traduce con forma fija y su sentido propio se explica en el texto. |
 | sales | palabra común con sentido propio | traducir | ventas | ventas | Palabra común; sentido propio ("cómo persuades a la gente de ver el valor de lo que ofreces", guiar con una historia) se marca por contexto. |
 | saturated market | palabra común con sentido propio | traducir | mercado saturado | mercado saturado | Uso común; distinto de saturation does not exist (conservado). |
 | scale / mind sync / context | término de invitado | traducir | escalar / mind sync (sincronización de mentes) / contexto | escalar / mind sync / contexto | Invitado John Hugh. Solo "mind sync" es acuñado y se conserva; "escalar" y "contexto" se traducen. |
