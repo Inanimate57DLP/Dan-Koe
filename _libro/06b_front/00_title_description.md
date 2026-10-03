@@ -1,0 +1,15 @@
+# Create or Be Created: The Complete System of Dan Koe
+
+**From the Programmed Mind to the Designed Life: Identity, Focus, Learning, Writing, the One-Person Business and Meaning**
+
+This book reconstructs, in a single ordered argument, the system that Dan Koe has developed across five years of public teaching. Its source is the full body of his long-form YouTube work: 164 videos published between 2021 and 2026, including solo essays, book summaries, workshops and long conversations with guests. Koe never set this system down in one place. He returned to the same ideas again and again under different names, refined them, sometimes reversed them, and scattered their pieces across hundreds of hours of speech. This book gathers those pieces, places each idea where it can be understood, and shows how they connect.
+
+The reader will learn how Koe diagnoses the "default path" and the programmed mind; how he models identity, attention and the mind as a goal-seeking system; how he turns that model into direction (anti-vision, vision, goals, purpose, projects and the game of life); and how direction becomes daily practice: focused work, rest, learning, thinking and creativity. From there the book follows his account of creation and economics: why "you are the niche," why writing is the base skill, how an audience grows, what a one-person business is, what value and persuasion are, how products are built, and how money, agency and artificial intelligence reshape the economy of the individual. It closes with the author's own trajectory as a case, the limits of the one-person model, the maps of development he draws on, and his philosophy of happiness, struggle and the good life.
+
+The book is organized in fourteen parts and forty chapters, ordered by what must be understood before what, not by the date of the videos. The first four parts build the model of the person; the next eight build the systems and the business on top of it; the last two offer the case and the most advanced ideas.
+
+It is meant to be read from zero and in order. No prior familiarity with Koe is assumed, and each chapter relies only on what came before it.
+
+Three conventions run throughout. A **Source:** mark names the video (by its title, usually with its date) from which a claim, quotation or example is taken, so that every statement attributed to Koe can be traced. A **Complementary context:** mark introduces background that does not come from Koe: the physics, psychology, history or authors he borrows from or assumes. It is kept separate so the reader always knows whose claim is being read. Each chapter ends with exercises, which have no answer key. Most ask the reader to apply an idea to their own life, test a claim or weigh two of Koe's positions against each other.
+
+Koe's views changed over five years, and the book does not hide this. When his position shifts, the versions are presented side by side with their dates. Any reconciliation the book proposes is marked as interpretation, never presented as the author's own.
