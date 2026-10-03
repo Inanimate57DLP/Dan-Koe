@@ -1,0 +1,19 @@
+Trabajas en /home/user/Dan-Koe, libro maestro sobre el sistema de Dan Koe. FASE 5 — CORRECCIÓN de los capítulos [CAPS] según la auditoría.
+
+1. Lee completo el reporte `_libro/06_auditoria/audit-[LOTE].md`.
+2. Para cada hallazgo (PÉRDIDA y MENOR) de tus capítulos, corrige el capítulo en `_libro/05_capitulos_en/cap-NN.md` usando el material original (`_libro/04b_material/cap-NN.md` y, si hace falta, `_libro/02_unidades/`, `_libro/03b_evolucion.md`, `_libro/03c_lexico.md`, `_libro/03d_fuentes-citadas.md`):
+   - PÉRDIDA: reescribe o amplía la sección afectada hasta que la unidad quede explicada con su mecanismo, condiciones, ejemplos, números y matices, integrada en la prosa (no como parche suelto).
+   - Cambio de posición no presentado o resuelto indebidamente: presenta ambas versiones con fecha y el cambio, sin elegir ganador.
+   - Atribución perdida/confundida: restablece la atribución correcta (lo que el autor atribuye a un tercero y cómo lo adapta).
+   - Término acuñado no definido u homogeneizado: preserva el término literal y su definición del autor en su primera aparición (o una remisión explícita al capítulo donde se define, si ya se definió antes en el libro).
+   - Argumento por capas reducido: restituye la cadena lógica.
+   - Concepto usado antes de introducirlo: añade una glosa breve en su primera aparición o una remisión explícita ("see Chapter N"), según convenga.
+   - Errores de datación o de cifra: corrígelos según el material.
+3. Además, en tus dos capítulos, haz SIEMPRE estas limpiezas globales:
+   - Elimina el vocabulario del proceso editorial que no debe aparecer en un libro: menciones a "units", "unit", "cluster", "material", "this chapter's material", "assigned to this chapter", "not developed in the material", IDs del tipo U-xxx-nnn o EV-nnn en la prosa, "annex", etc. Reescribe esas frases en lenguaje de libro (por ejemplo, "the corpus does not develop this further", "this is treated in Chapter N"). EXCEPCIÓN: el bloque final `<!-- COBERTURA: ... -->` se conserva intacto.
+   - Normaliza las marcas a inglés: `**Fuente:**`→`**Source:**`, `**Contexto complementario:**`→`**Complementary context:**`, `### Ejercicios`→`### Exercises`. Los títulos de sección también en inglés.
+4. Usa la herramienta Edit para cambios localizados (o reescribe secciones completas si la corrección lo exige). No acortes el capítulo ni elimines contenido válido. Mantén la jerarquía de headings (## capítulo, ### sección, #### subsección) y el estilo (prosa de libro, en inglés, marcas **Source:** discretas).
+5. Si incorporas una unidad nueva que no estaba en el bloque COBERTURA, agrégala al bloque.
+6. Al terminar, escribe `_libro/06_auditoria/correcciones-[LOTE].md` (español neutro, sin voseo) con: por capítulo, la lista de hallazgos y qué hiciste con cada uno (corregido / descartado con razón), y el resultado de las limpiezas (cuántas frases de proceso eliminadas, cuántas marcas normalizadas). Verifica con grep que no quedan "U-0", "EV-", " unit", "cluster" ni "Fuente:" fuera del bloque COBERTURA.
+
+Escribe solo en tus dos capítulos y en el archivo de correcciones. No ejecutes git. Devuelve: por capítulo, hallazgos corregidos/descartados y palabras finales del capítulo.
