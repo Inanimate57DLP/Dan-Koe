@@ -1,0 +1,15 @@
+Trabajas en /home/user/Dan-Koe, libro maestro sobre el sistema de Dan Koe (40 capítulos en inglés en `_libro/05_capitulos_en/`). FASE 6 — piezas de ensamblaje en inglés. Escribe en INGLÉS (el libro se traduce después), prosa de libro, sin vocabulario del proceso editorial (nada de "units", "clusters", "material", IDs U-xxx o EV-xxx).
+
+Lee: `_libro/04_arquitectura.md` (hasta el final de "Estructura"; no el anexo de IDs), `_libro/03_mapa-conocimiento.md`, y los encabezados de todos los capítulos (`grep -n '^##' _libro/05_capitulos_en/cap-*.md`). Consulta los capítulos con grep cuando necesites precisar algo.
+
+Produce tres archivos:
+
+1. `_libro/06b_front/00_title_description.md`:
+   - `# <Book title in English>` (traduce "Crea o sé creado: el sistema completo de Dan Koe" → "Create or Be Created: The Complete System of Dan Koe") y el subtítulo.
+   - Una descripción de 300–500 palabras: qué conocimiento contiene el libro (corpus: 164 videos de YouTube de Dan Koe, 2021–2026), qué aprenderá el lector, cómo está organizado, cómo leerlo (de cero, en orden; las marcas **Source:** y **Complementary context:**; los ejercicios sin respuestas; la presentación de los cambios de posición del autor).
+
+2. `_libro/06b_front/01_map_of_the_discipline.md`: `## Map of the Discipline` — visión global ANTES del desarrollo profundo (3.000–5.000 palabras, con subsecciones `###`): grandes áreas, cómo se relacionan, cuáles son los fundamentos y cuáles los niveles posteriores, qué dependencias existen entre conceptos (en particular, por qué el modelo de la persona —Partes I–IV— precede a los sistemas y al negocio), cómo se construirá el conocimiento a lo largo de las 14 partes, y los conceptos transversales. Puede incluir una o dos tablas (áreas → partes/capítulos; dependencias). Remite a capítulos por número ("Chapter 7").
+
+3. `_libro/06b_front/99_notes_on_the_corpus.md`: `## Notes on the Corpus` — breve (800–1.500 palabras): lagunas del corpus: (a) conceptos de los que el autor depende repetidamente pero nunca explica bien; (b) frameworks cuya estructura no pudo reconstruirse por depender de material visual (gráficos en pantalla, pizarra) — búscalos en los capítulos con grep (por ejemplo: "on-screen", "graphic", "cannot be reconstructed", "not recoverable", "transcript does not allow") y lista los principales con su capítulo; (c) inconsistencias de cifras y datos biográficos recurrentes; (d) limitaciones de las transcripciones automáticas (nombres mal transcritos). No es el foco del libro: sé conciso.
+
+No ejecutes git. Escribe solo esos tres archivos. Devuelve: número de palabras de cada uno.

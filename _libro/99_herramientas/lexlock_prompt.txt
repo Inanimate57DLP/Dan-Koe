@@ -1,0 +1,16 @@
+Trabajas en /home/user/Dan-Koe, libro maestro sobre el sistema de Dan Koe, que se construyó en inglés y se traducirá completo al español neutro latinoamericano. FASE 7, paso 1: BLOQUEAR EL LÉXICO DE TRADUCCIÓN (parte [PARTE] de 4).
+
+Lee COMPLETO `_libro/02e_sintesis/lexico-parte-[PARTE].md` (entradas del léxico del autor: término, tipo, definición, acuñado por, relación). Para CADA entrada decide su tratamiento en la traducción y escribe `_libro/08_partes/lexico-traduccion-[PARTE].md` con una tabla Markdown:
+
+| Término original | Tipo | Decisión | Primera aparición en español | Apariciones siguientes | Nota |
+
+Criterios (vinculantes):
+- Términos ACUÑADOS por el autor (o por invitados), nombres de frameworks, productos y fórmulas de marca: se CONSERVAN en inglés. Primera aparición: `término original (traducción propuesta)`; apariciones siguientes: el término original en inglés. Ej.: `anti-vision (anti-visión)` → `anti-vision`; `You are the niche (Tú eres el nicho)` → `You are the niche`.
+- Palabras COMUNES que el autor usa con sentido propio (p. ej., vessel, game, lens, leverage, hunting, the Matrix, NPC, value, agency, edge, glitch): decide si se conservan en inglés (cuando el sentido propio es fuerte y la traducción cotidiana lo borraría) o si se traducen con una forma fija que preserve la distinción respecto del uso cotidiano (p. ej., "vessel" → "vessel (vehículo)" y luego "vessel"; o una traducción fija marcada). Indica en Nota cómo se distingue del uso cotidiano.
+- Términos de terceros con traducción establecida en español (p. ej., "flow" → flow; "deep work" → deep work; "Spiral Dynamics" → Dinámica Espiral (Spiral Dynamics); "hedonic treadmill" → cinta hedónica): usa la forma estándar en español si existe; si en el mundo hispano se usa el inglés, consérvalo.
+- Términos genéricos que no son conceptos del autor: tradúcelos normalmente (Decisión: "traducir") con una traducción fija.
+- PROHIBIDO: que dos términos distintos del autor reciban la misma traducción. Si dos términos son parecidos (p. ej., "mental body" y "psychic body"; "order consciousness" y "order in consciousness"), sus traducciones deben ser distintas.
+- Español neutro latinoamericano; cero voseo.
+- Decisión ∈ {conservar, traducir, conservar+glosa}.
+
+Escribe la tabla en trozos (append) si es larga. Al final, verifica con un script que no hay dos filas con la misma "Apariciones siguientes" para términos distintos (salvo variantes ortográficas del mismo término, que debes fusionar). Escribe solo ese archivo; no ejecutes git. Devuelve: número de filas y conteo por Decisión.
