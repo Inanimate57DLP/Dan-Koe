@@ -632,7 +632,7 @@ En septiembre de 2023 presenta el paralelo histórico en su forma general. En el
 
 El "plano mental" forma parte del vocabulario más amplio de Koe (el capítulo 3 describió la identidad como algo que vive casi por completo en el plano mental). La afirmación aquí es que internet extendió el territorio de ese plano: las ideas de una persona pueden ahora llegar a otras y conectarse con ellas sin límites físicos, de modo que el campo de combinaciones posibles, de intereses, colaboradores y audiencias, se ha expandido de forma drástica.
 
-En marzo de 2024 la época adquiere una lista de las virtudes que definen a sus ganadores: "Estamos viviendo una **second Golden Age** y pertenece a quienes valoran la autoeducación, la autoexperimentación, el estudio multidisciplinario, el **digital leverage** (leverage digital), la adquisición de habilidades y construir lo propio; si quieres prosperar, conviértete en un hombre renacentista digital". En el mismo pasaje usa "el Renacimiento digital" y "el segundo Renacimiento" de manera intercambiable.
+En marzo de 2024 la época adquiere una lista de las virtudes que definen a sus ganadores: "Estamos viviendo una **second Golden Age** y pertenece a quienes valoran la autoeducación, la autoexperimentación, el estudio multidisciplinario, el **digital leverage** (apalancamiento digital), la adquisición de habilidades y construir lo propio; si quieres prosperar, conviértete en un hombre renacentista digital". En el mismo pasaje usa "el Renacimiento digital" y "el segundo Renacimiento" de manera intercambiable.
 
 **Fuente:** If Your Life Is Spiraling Out Of Control, Here's The Solution To Feeling Lost.md
 
