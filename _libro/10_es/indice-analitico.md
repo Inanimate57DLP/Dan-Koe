@@ -1,0 +1,2885 @@
+## Índice analítico
+
+Conceptos, frameworks, metodologías, términos y temas en orden alfabético, con enlaces a las secciones donde se desarrollan.
+
+
+### #
+
+- **$1 million actions** — §34.3
+- **$100,000 in your head / $1 million trapped in your head / $100,000 product in your head** — §31.5, §33.1
+- **$1M skill stack / one million dollar skill stack** — §35.5
+- **1 hour every morning / remove the earning limit** — §28.5
+- **1% creators / 99% consumers** — §27.6
+- **1,000 true fans** — §24.2, §25.4, §26.4
+- **10 Commandments of Engagement** — §23.3
+- **10 goals 10 years** — §7.5
+- **10 year long game** — §22.7
+- **10,000 iterations** — §15.6
+- **10k at 10k followers** — §30.2
+- **10x engineer** — §37.5
+- **10x person** — §37.5
+- **12 rules of creation** — §8.3
+- **2 Hour Writer / Two-Hour Writer** — §12.1, §13.2, §17.2, §21.1, §23.3, §24.3, §33.7
+- **24/7 meditation / observer of the self** — §39.4
+- **3 by 20 method** — §40.2
+- **3-2-1 framework** — §13.4
+- **4-Hour philosophy / Ten Commandments for focused work** — §12.1
+- **4-Hour Work Day cut off / buffer** — §12.1
+- **4-Hour Workday / 4-hour workday philosophy / four hour work day** — §12.1, §12.4, §12.6, §39.6
+- **6 years of work in 6 months** — §13.1
+- **60-day action plan** — §29.5
+- **7 Days to Genius Ideas** — §16.3, §33.7
+- **8 billion monopolies** — §27.5
+- **80-hour myth** — §13.1
+- **90% liked 10% disliked / push pull patterns** — §22.6
+- **90/9/1** — [[#2.3 El empleo: la esclavitud moderna y the eternal known|§2.3]]
+
+### A
+
+- **a house but not a home / a house not a home / intellectual construct** — [[#4.3 Las fases del cambio y la identidad como estructura|§4.3]], §15.7
+- **a landing page is content** — §19.5
+- **a magnet for ideas / anchor points / magnet for ideas** — §9.3, §13.3
+- **a new 9-to-5 called client work** — §30.1
+- **a post is an offer** — §26.5
+- **a problem creates a goal** — §8.6
+- **a problem creates the perspective** — §18.3
+- **a tweet is the new MVP** — §24.5
+- **a word is the new brush stroke** — §36.4
+- **ability to figure it out** — §20.2
+- **above the fold** — §23.6
+- **absolute advice** — §17.2
+- **absolute freedom** — §39.5
+- **absorption state / learning state** — §39.7
+- **abstract up a layer / abstracted up a layer / labor to mind** — §24.6, §36.4, §36.5
+- **abundant financial mindset / abundance mindset** — §34.2
+- **accelerant of polarity** — §36.3
+- **acclimate** — §39.6
+- **acclimation period** — §36.6
+- **acorn / oak tree; singular branch / singular leaf** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]]
+- **acquire resources** — §17.6
+- **act small** — §8.1
+- **act with intention** — [[#6.2 El foco es atención consciente|§6.2]]
+- **actionable principles / importance of a topic / calling out common mistakes** — §22.7, §23.4
+- **active rest** — §12.4, §13.1
+- **active tutorial / lens of a researcher / watching money flow** — §29.5
+- **actual business model** — §28.5
+- **actual enemy** — §7.3
+- **actual thinking** — §17.1
+- **actualization / purpose economy** — §36.6
+- **actualization journey** — §22.7
+- **add to the gravity / gravity** — §7.1, §8.1, §8.7
+- **addiction to feeling like [ __ ]** — §11.4
+- **advantageous perspective / enemy** — §23.6
+- **advice junkie** — §17.2
+- **affinity / equity** — §31.4
+- **afraid of success / afraid of mediocrity** — [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]]
+- **age of intelligence** — [[#2.6 Del paradigma industrial a la era de la información|§2.6]]
+- **agency / high agency** — [[#6.4 Cibernética: la inteligencia como dirección del rumbo|§6.4]], §18.5, §30.7, §35.1
+- **agency as art / motivational inversion** — §10.1
+- **aggregation, speed and convenience** — §15.3, §31.5
+- **AGI vs. AI** — §36.4
+- **AI first / AI native** — §36.5
+- **AI orchestrator / fleet of tasteful prompts** — §36.4
+- **AI religion** — §20.1
+- **AI slop / slop spectrum / artisan / craft** — §36.3, §36.5, §37.4
+- **AI slot machine** — §36.6
+- **AIDA / PAS / PASO / PASTOR** — §23.6
+- **Aim for your learning** — [[#6.5 La meta como lente|§6.5]]
+- **aim higher** — §27.7
+- **aligned movement** — §39.2
+- **alignment** — §37.6
+- **all change is behavior change** — [[#4.1 Todo cambio es un cambio de identidad|§4.1]], §11.4
+- **all levels / macro stages / second tier** — §38.2
+- **all understanding is metaphorical** — §17.5, §40.5
+- **alter ego / sub identity / vessel for identity change** — [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]]
+- **altitude of thinking / skill tree** — §38.2
+- **amalgamation** — §22.4, §27.2
+- **ambient time / shoulder-to-shoulder** — §37.6
+- **amplifying the problem / agitate** — §23.6, §31.3, §31.4
+- **an email list is the new status symbol** — §24.4
+- **anatomy of identity** — [[#3.1 La identidad como cuerpo mental|§3.1]]
+- **anatomy of meaning / engineer meaning** — §36.6
+- **anchor / anchor points / anchors** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]], [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]], §7.3, §8.1
+- **anchor into the unknown** — [[#4.1 Todo cambio es un cambio de identidad|§4.1]]
+- **angle / spin off** — §32.5
+- **anomaly / anomalies / outliers** — §16.1, §22.4, §23.6, §26.3
+- **anti gurus** — §31.5
+- **anti-AI ideology / anti-AI crowd** — §36.5
+- **anti-goals** — §8.4
+- **anti-marketing** — §22.7
+- **anti-matrix mindset** — §17.1
+- **anti-niche** — §19.1, §22.1
+- **anti-role models** — [[#2.1 El default path|§2.1]]
+- **anti-standards** — §8.4
+- **anti-vision / antivision** — [[#4.2 Los detonantes: hartarse, el dolor, tocar fondo o las pequeñas victorias|§4.2]], §7.1
+- **anti-vision, vision, solution** — §31.4
+- **anticipation molecule** — §39.4
+- **anxiety trap** — §39.5
+- **APAG** — §23.1, §23.6
+- **apparatus for thinking / gym for the mind** — §21.2
+- **applications (social media, offer creation, traffic generation)** — §28.5
+- **applied psychology** — §15.3, §32.1
+- **appreciating assets** — §31.3
+- **apprenticeship / return of the artisan / next renaissance / lecture model** — §16.4
+- **AQAL / all quadrants all levels / map of all knowledge** — §38.2
+- **arbitrary problems** — §37.5
+- **archetype / metatype** — [[#1.4 La imitación es inevitable: NPC o main character|§1.4]]
+- **armchair philosopher / mental house** — §17.5
+- **art of self-architecture** — [[#4.3 Las fases del cambio y la identidad como estructura|§4.3]]
+- **articles / essays** — §21.2
+- **articulation** — §18.6, §22.5
+- **artificial stupidity** — §20.1
+- **artisanesque lifestyle** — §36.6
+- **ascending philosophies / great chain of being** — §34.2
+- **asleep** — [[#1.6 Vivir en autopilot|§1.6]]
+- **aspirational archetypes** — [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]]
+- **aspirational hourly rate / real hourly rate** — §34.4
+- **asset creation / hit creation** — §18.5
+- **assigned goals / self-generated goals** — [[#1.2 El conditioning: la infancia como programación|§1.2]], [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]], [[#1.6 Vivir en autopilot|§1.6]], [[#1.7 La mente cerrada: la ideología como identidad|§1.7]], [[#3.1 La identidad como cuerpo mental|§3.1]], [[#3.2 Las metas componen la identidad|§3.2]], [[#4.4 Reprogramación: inmersión en el entorno del yo futuro|§4.4]]
+- **assigned identity / goal-oriented creatures** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]]
+- **assigned routine** — §8.3
+- **assigned strategy** — [[#2.6 Del paradigma industrial a la era de la información|§2.6]]
+- **assigned vs created products** — [[#1.4 La imitación es inevitable: NPC o main character|§1.4]]
+- **assignment / assigned** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]]
+- **attention** — [[#3.3 La identidad como filtro: perspectiva y percepción|§3.3]]
+- **attention anchor / sturdy mental house** — §7.2
+- **attention anchors** — §8.6, §17.3
+- **attention as moat** — §25.1
+- **attention breathes life into everything it touches** — [[#5.5 Gestionar la entropía|§5.5]]
+- **attention economy / engagement game** — §25.1
+- **attention held over time** — §24.2
+- **attention held per reader** — §21.3
+- **attention is the currency of the third millennium** — §21.3
+- **attention is the only differentiator** — §25.1
+- **attention is the root of existence** — §25.1
+- **attention is the ultimate leverage** — §25.1
+- **attention mechanics / engagement psychology** — §28.5
+- **attention spreadsheet** — [[#6.2 El foco es atención consciente|§6.2]]
+- **attract / nurture / implement** — §28.6
+- **attractors / third attractor** — [[#2.9 Por qué importa despertar|§2.9]]
+- **audience** — §25.4
+- **audience building** — §15.1
+- **audience equals distribution** — §25.2
+- **audit your life** — [[#1.6 Vivir en autopilot|§1.6]]
+- **authentic polarization / alignment of values** — §22.6
+- **authenticity** — §39.5
+- **authenticity at scale** — §36.4
+- **authenticity bros** — [[#1.4 La imitación es inevitable: NPC o main character|§1.4]]
+- **authority building platforms** — §27.4
+- **authority catalysts / purposeful product** — §33.6
+- **automate the path to the good life / layering system over system** — §12.6
+- **automate yourself out of work / library of prompts / highly relative domain** — §36.5
+- **automatic guidance system (success / failure mechanism)** — [[#3.2 Las metas componen la identidad|§3.2]]
+- **automatic mode** — [[#6.1 La atención es la RAM|§6.1]]
+- **autopilot / survival mode** — [[#1.2 El conditioning: la infancia como programación|§1.2]], [[#1.6 Vivir en autopilot|§1.6]], [[#2.3 El empleo: la esclavitud moderna y the eternal known|§2.3]]
+- **autopilot living → autocomplete living** — [[#1.6 Vivir en autopilot|§1.6]]
+- **autotelic** — §10.4
+- **avalanche called insight** — §37.1
+- **avatar as the face of the brand / create a Creator** — §25.2
+- **Average Joe identity** — [[#3.3 La identidad como filtro: perspectiva y percepción|§3.3]]
+- **average Tuesday / safe version** — §7.3
+- **awareness (everything is awareness until you execute)** — §17.5
+- **awareness begets awareness** — [[#2.7 La awareness: el sexto sentido que sana|§2.7]], [[#2.8 El tiempo psicológico|§2.8]]
+- **awareness begets improvement** — [[#2.7 La awareness: el sexto sentido que sana|§2.7]]
+- **awareness is a cure / awareness is curative** — [[#2.7 La awareness: el sexto sentido que sana|§2.7]], §6.6
+- **awareness of opportunity** — [[#5.4 Todo es información|§5.4]]
+- **awareness surface area** — [[#6.5 La meta como lente|§6.5]], §14.1
+- **axis of your suffering** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]]
+
+### B
+
+- **backbone** — §25.2
+- **backlog newsletter** — §24.3
+- **badge of honor / status symbol / distracted work** — §8.4
+- **bake your own voice into the principles** — §23.2
+- **bakes in promotions** — §32.5
+- **balance** — §39.4
+- **balance of skill and opportunity** — [[#4.6 Protocolos de reinvención y fracasos que se apilan|§4.6]]
+- **balance of spirituality and practicality** — §40.4
+- **bare minimum approach** — [[#3.6 La disciplina como rasgo de la identidad; los estándares|§3.6]]
+- **base audience / base level of engagement** — §15.1, §19.5
+- **base foundational skill** — §21.1
+- **base income / micro products** — §30.5
+- **base operating system** — [[#1.2 El conditioning: la infancia como programación|§1.2]]
+- **baseline / angles** — §26.3
+- **baseline / new high / raise the baseline / higher baselines / state** — [[#5.5 Gestionar la entropía|§5.5]], §12.1, §38.5, §39.6
+- **baseline consciousness of humanity** — §31.5
+- **baseline level of clarity / clarity creation** — §39.7
+- **basic needs / growth needs** — §8.6, §36.6
+- **batch / bleed into** — §12.5
+- **battleground** — §15.1
+- **be water / the cup / freezing into one cup** — §17.1
+- **be yourself, improve yourself and profit off of yourself** — §29.1
+- **become nobody / label-less** — §20.3, §22.1
+- **become the niche / don't find a niche, become the niche** — §19.3, §28.4
+- **become your own dopamine dealer** — [[#2.4 La psique cazadora en un cubículo|§2.4]]
+- **beginner business model / big boy business model** — §30.3
+- **beginner hell** — §15.1, §26.2, §26.4, §33.1, §37.1
+- **behavior change** — §31.4
+- **behavior change equals identity change** — [[#4.1 Todo cambio es un cambio de identidad|§4.1]], [[#4.4 Reprogramación: inmersión en el entorno del yo futuro|§4.4]]
+- **behavior change through identity change** — §16.2
+- **Behavior equals results** — §15.1
+- **behavior system** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]]
+- **being / knowing (first order / second order)** — §40.5
+- **being and doing (peace and progress, stillness and movement)** — §39.4, §39.7
+- **being in the game / mental masturbation** — §7.2
+- **being the niche** — §19.2
+- **beings of conditioning / creatures of habit** — [[#1.2 El conditioning: la infancia como programación|§1.2]]
+- **belief in the existence of hard problems** — §35.1
+- **believable goal / believable time frame** — §32.3, §33.4
+- **benefits-rich language** — §19.2
+- **bet on yourself** — §30.4, §34.4
+- **better sets of problems** — §35.1
+- **Big Goal** — [[#5.4 Todo es información|§5.4]]
+- **big goals for direction, small goals for clarity** — §8.1
+- **big idea** — §31.3
+- **big internet group chat** — §26.5
+- **big irrational goals, small rational steps / cone** — §7.5
+- **big picture thinking / opening your mind** — §17.1
+- **big picture understanding > technical details** — §15.3
+- **big problem / burning problem / negative outcome** — §17.4, §31.3, §32.6
+- **big standards / intelligent limitations / smart problems** — [[#3.6 La disciplina como rasgo de la identidad; los estándares|§3.6]]
+- **binary person** — §39.4
+- **binge tech / simulated sexual stimulation / consumables / thrill-seeking** — §11.4
+- **bits of information** — [[#6.1 La atención es la RAM|§6.1]], [[#6.5 La meta como lente|§6.5]]
+- **bitter at the game** — §17.1
+- **black hole of problems** — §8.6
+- **bloat** — §39.6
+- **blue oceans** — §26.3
+- **blueprint prompt / coach prompt** — §25.1
+- **blurple branding** — §37.4
+- **bodhisattva / external game / middle way / non-personal Stance** — §38.3, §40.5
+- **body of work / body of coherent work** — §18.5, §18.6, §21.2, §36.6
+- **book of your life / book to brand / Book to Brand** — §19.7
+- **book smarts** — [[#6.4 Cibernética: la inteligencia como dirección del rumbo|§6.4]]
+- **boredom is the gateway to novelty** — §11.4
+- **boring fundamentals** — §8.1, §12.7
+- **bottleneck (not intelligence)** — §35.1
+- **bottom feeders** — §32.4
+- **bottom quintile** — [[#2.2 La escuela: la educación de esclavos y la verdadera educación|§2.2]]
+- **boundaries for creativity** — §8.1
+- **BPAS** — §23.6
+- **brain dump** — §24.1
+- **brain fog** — §14.3, §14.4
+- **brain fried** — §39.6
+- **brain rot** — §14.3
+- **Branch into new opportunity / desaturate the market** — §37.2
+- **branch out / branch into speaking** — §25.6
+- **branches of awareness** — §12.7
+- **brand / content / product (pilares)** — §27.3, §28.6
+- **brand / storefront** — §21.3
+- **brand advisor / brand adviser** — §29.3
+- **brand goal / brand mission / brand vision** — §27.3
+- **brand is an environment** — §27.2
+- **brand is invisible** — §27.2
+- **brand is the depth behind everything** — §19.7
+- **brand is transformation** — §31.4
+- **brand is what you do** — §21.4, §22.2
+- **brand is what you do / product is how / marketing is why** — §28.6
+- **brand is your goal in life** — §27.5
+- **brand is your story / content is your school / product is the map** — §28.6
+- **brand message / mission** — §27.3
+- **brand perception** — §27.2
+- **bread crumbs / leaving breadcrumbs / aggregated knowledge** — §18.4, §21.4
+- **break the rules** — §23.1
+- **breakthrough point** — §39.2
+- **breathing room** — §37.2
+- **brick by brick** — §9.4
+- **bridge (social media is a bridge to your newsletter)** — §24.4
+- **brilliant nobodies** — §38.4
+- **bringing your ideal future into the now / taper up** — §8.5
+- **broad and beginner** — §22.7
+- **broad net / broad catch, specific sale** — §19.5
+- **broaden and break down** — §22.3
+- **broke in more areas than finances** — §25.3
+- **broken record / where the north is** — §37.6
+- **brutal honesty** — §26.5
+- **brutally aware** — §7.1, §7.3
+- **bubble of awareness** — §14.3
+- **Bubble of comfort / expanded circle** — §15.7
+- **bubble of responsibilities** — [[#3.2 Las metas componen la identidad|§3.2]]
+- **buffer period** — [[#2.1 El default path|§2.1]]
+- **build a solution** — §28.3
+- **build a world not a funnel / world of mini funnels / small scale Marvel Cinematic Universe** — §27.2
+- **build an audience, monetize an audience** — §28.5
+- **build an organization / engine** — §37.6
+- **build distribution, then build whatever you want** — §25.2, §25.3
+- **build for yourself, write to yourself, sell to yourself** — §19.3
+- **build in public** — §14.5
+- **build teach earn method** — §14.4
+- **build the digital, invest in the physical** — §25.3, §34.4
+- **build the thing that builds the thing** — §36.4
+- **build to learn / learn as you build / build as you learn** — §14.4, §14.5
+- **build your body / build your mind / build your business** — §40.1
+- **build, publish, maintain / spillover tasks** — [[#5.5 Gestionar la entropía|§5.5]]
+- **builder** — §14.4, §30.1, §31.1
+- **building / maintenance** — [[#5.5 Gestionar la entropía|§5.5]], §13.2
+- **building a world** — §24.2, §26.2
+- **building block (project) / building blocks** — §9.3, §22.4, §24.1
+- **building for yourself / building in public / digital journal** — §21.4
+- **built / borrowed / bought** — §25.3
+- **bulking and cutting** — [[#5.5 Gestionar la entropía|§5.5]], §15.7, §39.6
+- **bullet point summary culture** — §16.2
+- **bullet spray benefits** — §31.3
+- **burden of nuance** — §22.6
+- **burn the boats** — [[#4.2 Los detonantes: hartarse, el dolor, tocar fondo o las pequeñas victorias|§4.2]]
+- **burning problem / desirable outcome / clear solution** — §19.4, §31.4
+- **burning problem / shallow to deep** — §8.6, §9.1
+- **burning problems / profitable burning problems / burning evergreen problems** — §19.4, §28.2
+- **bursts of intensity / go quiet** — §13.3, §22.6, §24.3
+- **bursts of obsession** — [[#4.6 Protocolos de reinvención y fracasos que se apilan|§4.6]]
+- **business (definición)** — §28.4
+- **business agnostic** — §25.2
+- **business cycles** — [[#1.6 Vivir en autopilot|§1.6]]
+- **business keto diet** — §28.6
+- **business matrix** — §19.1
+- **business of you** — §29.1
+- **business paradigm** — §30.4
+- **business principles** — §28.5
+- **busy work** — §8.1, §31.1
+- **buy my freedom / stack skills** — [[#4.6 Protocolos de reinvención y fracasos que se apilan|§4.6]]
+- **buyers buy again** — §26.3, §29.2, §33.3
+- **by proxy / cup overflows / leech** — §40.3
+
+### C
+
+- **camera / lens (blurred lens)** — [[#3.3 La identidad como filtro: perspectiva y percepción|§3.3]]
+- **canvas / AI node / free form visual spatial AI** — §16.3, §24.1
+- **capacity for luck** — §15.6
+- **captive audience / diversified portfolio of income and distribution** — §29.3
+- **capture / inbox / scattered ideas** — §13.2, §13.3, §16.3
+- **capture, hold and deliver value on attention** — §21.1, §30.7, §31.4, §32.1
+- **cash flow** — §33.6, §34.4
+- **cash flow business** — §37.2
+- **cashing in goodwill** — §32.5
+- **catalyst** — §30.7
+- **catfish** — §24.2
+- **center of gravity** — §38.2
+- **centropy (syntropy)** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]], §11.2, §11.3
+- **CEO (of your own life)** — §10.7, §14.1, §35.1
+- **challenge common beliefs** — §17.1
+- **challenging book / non-linear progress** — §16.2
+- **challenging deadline (with a reason to obey it) / challenging time blocks** — §12.4
+- **channels** — §38.4
+- **Chaotic creative lifestyle** — §16.2
+- **chapters / seasons / chapters and phases / Everlasting book / sub books** — §8.6, §9.3, §39.6
+- **character** — [[#3.1 La identidad como cuerpo mental|§3.1]], §10.1
+- **character begets action** — [[#6.5 La meta como lente|§6.5]]
+- **cheap dopamine** — [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]], §11.2, §14.3
+- **children of society** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]]
+- **chip away at who you are** — [[#4.3 Las fases del cambio y la identidad como estructura|§4.3]]
+- **choice of consumption** — §11.3
+- **chosen vs assigned problems** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]]
+- **Christ Consciousness** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]], [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]]
+- **churn and burn** — §26.4
+- **Cibernética: la inteligencia como dirección del rumbo** — [[#6.4 Cibernética: la inteligencia como dirección del rumbo|§6.4]]
+- **circle of care** — §9.1
+- **circular validation** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]]
+- **clarity / clarity (and connection)** — [[#5.2 La entropía psíquica y el estado por defecto del caos|§5.2]], [[#5.3 Ordenar la consciencia|§5.3]], §30.2
+- **clarity above all** — §32.3
+- **clarity bridge** — [[#5.2 La entropía psíquica y el estado por defecto del caos|§5.2]]
+- **Clarity Catalyst** — §9.3
+- **clarity coach** — [[#5.2 La entropía psíquica y el estado por defecto del caos|§5.2]]
+- **clarity equation** — [[#5.2 La entropía psíquica y el estado por defecto del caos|§5.2]]
+- **clarity from chaos / borderline impossible goal** — §7.5
+- **clarity gap(s)** — [[#6.5 La meta como lente|§6.5]], §8.1
+- **clarity generating tasks** — [[#5.2 La entropía psíquica y el estado por defecto del caos|§5.2]]
+- **clarity not chaos** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]]
+- **Clarity phase / intensity phase / lost phase** — §14.3
+- **clean slate** — §37.4
+- **clear, consume, create, connect (modules)** — §13.3
+- **client route** — §29.3
+- **climb the ladder** — [[#2.5 Pirámides de dominio, pirámides de atención y juegos de estatus|§2.5]]
+- **clippable moment** — §26.4
+- **clones of the school system** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]], [[#2.2 La escuela: la educación de esclavos y la verdadera educación|§2.2]]
+- **close the loop** — §16.3
+- **close-mindedness / greatest trap of the 21st century** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]]
+- **closing push** — §16.2
+- **code / media (content) / code and content** — §28.3, §28.5, §36.2
+- **code / tight feedback loop** — §8.3
+- **code for your life** — §35.2
+- **cog in the machine** — [[#2.1 El default path|§2.1]], §34.2
+- **cognitive fingerprint** — §17.3
+- **cognitive operating system** — §17.5
+- **coherent line of thought** — [[#5.2 La entropía psíquica y el estado por defecto del caos|§5.2]]
+- **collapse in on what you know** — §17.1
+- **Collapse of work and life into one** — §14.5
+- **collect / connect / create with the dots** — §18.2
+- **collect vision / enemy to attack** — §7.1
+- **collecting / transferring consciousness** — §17.1
+- **collective consciousness / digital society / giant mind / mental plane of existence / online avatar** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]], [[#5.3 Ordenar la consciencia|§5.3]], §18.2, §25.5
+- **collective ego** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]], [[#3.4 La ley de la supervivencia conceptual|§3.4]]
+- **collective mind / collective level of mind** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]], [[#4.7 El level of mind|§4.7]]
+- **collective societal vision / status games** — [[#2.5 Pirámides de dominio, pirámides de atención y juegos de estatus|§2.5]]
+- **comforting conformity** — §35.1
+- **commit to excellence** — §8.3
+- **commit to the path** — §15.6
+- **commodity** — §29.3, §33.5, §36.5
+- **commonplace book** — §16.3
+- **comparison becomes connection** — [[#2.7 La awareness: el sexto sentido que sana|§2.7]]
+- **comparison vs connection / sameness over difference** — §39.1
+- **compartment of reality** — §14.1
+- **compartmentalized** — §37.3
+- **complete way of life** — §13.1
+- **complex identity** — [[#4.1 Todo cambio es un cambio de identidad|§4.1]]
+- **complexity of self / complexity of the self** — [[#3.5 El ego no es el enemigo, y el problema con "sé tú mismo"|§3.5]], [[#4.1 Todo cambio es un cambio de identidad|§4.1]], §17.5, §38.4
+- **compounded knowledge** — §30.4
+- **compounding choices** — [[#3.6 La disciplina como rasgo de la identidad; los estándares|§3.6]]
+- **concentration of force** — §17.6, §25.6
+- **concentration of force play** — §7.2
+- **concentric circles** — [[#6.5 La meta como lente|§6.5]], §8.6
+- **concentric rings of identity** — [[#3.1 La identidad como cuerpo mental|§3.1]]
+- **concept element / process element** — §24.1
+- **concept of self** — [[#3.1 La identidad como cuerpo mental|§3.1]], [[#3.4 La ley de la supervivencia conceptual|§3.4]], §10.1
+- **concepts are just made up** — §31.3, §33.3
+- **conceptual / spiritual reproduction** — §9.4
+- **conceptual survival / law of conceptual survival / conceptual level** — [[#3.4 La ley de la supervivencia conceptual|§3.4]], [[#3.6 La disciplina como rasgo de la identidad; los estándares|§3.6]], [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]], §38.1
+- **condense information / condensing information / zip file** — [[#5.3 Ordenar la consciencia|§5.3]], §31.5
+- **condition of necessity / condition of sufficiency** — §35.1
+- **conditioned thought** — [[#1.2 El conditioning: la infancia como programación|§1.2]]
+- **conditioned to be a servant / meant to be average** — §7.1
+- **conditioning / programming** — [[#1.2 El conditioning: la infancia como programación|§1.2]], [[#2.8 El tiempo psicológico|§2.8]]
+- **conditioning cycle** — [[#3.1 La identidad como cuerpo mental|§3.1]]
+- **conditioning is the enemy of wonder** — [[#1.2 El conditioning: la infancia como programación|§1.2]]
+- **conducive environment** — §39.7
+- **cone (of truth)** — [[#6.4 Cibernética: la inteligencia como dirección del rumbo|§6.4]]
+- **confidence and conviction** — §22.6
+- **confirmational dopamine** — §14.3
+- **conform to survive** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]]
+- **conformist / expert / achiever stage** — §38.3
+- **conformity / mechanical conformity** — §35.1
+- **conformity as a tool** — §35.1
+- **connect the dots** — §19.1, §19.6
+- **connections / soft outline / Cortex elements** — §24.1
+- **conscious business owner** — §31.1
+- **conscious character** — [[#6.1 La atención es la RAM|§6.1]]
+- **conscious conditioning** — [[#1.4 La imitación es inevitable: NPC o main character|§1.4]], §17.5
+- **conscious decision(s)** — [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]], [[#6.5 La meta como lente|§6.5]]
+- **conscious experiment** — §17.2
+- **conscious individuals** — [[#2.9 Por qué importa despertar|§2.9]]
+- **conscious mind vs mediocre mind** — [[#2.7 La awareness: el sexto sentido que sana|§2.7]], §14.1
+- **conscious personal creation** — §15.7
+- **consciously created identity** — [[#3.6 La disciplina como rasgo de la identidad; los estándares|§3.6]]
+- **consequential cascade** — §24.1
+- **consistency bias** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]]
+- **consistent authenticity** — [[#3.5 El ego no es el enemigo, y el problema con "sé tú mismo"|§3.5]]
+- **consistently reliable vs occasionally extraordinary** — §19.6
+- **constant revolt** — §35.1
+- **constraint / constraints (creativity thrives within constraints)** — §7.3, §8.4, §24.3
+- **construct-aware / fifth dimension of thinking / programmer mindset / mental masturbation** — §38.3
+- **consume and save mindset** — §28.4
+- **consumer → researcher → creator** — §16.1
+- **consumer / consumer vs creator / consumer mindset / creator mindset** — §16.1, §25.1
+- **Consumer / contributor** — §14.5
+- **consumption / digestion** — §16.2
+- **contemplative walk** — §40.2
+- **content (structured information)** — [[#5.3 Ordenar la consciencia|§5.3]]
+- **content and consciousness** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]]
+- **content companies / media companies** — §14.4
+- **content creation schedule / content promotion schedule** — §32.5
+- **content creator** — [[#3.5 El ego no es el enemigo, y el problema con "sé tú mismo"|§3.5]], §21.4
+- **content creators vs reality creators** — §27.7
+- **content curator** — §21.4
+- **content ecosystem / two hour content ecosystem** — §21.1, §24.3, §24.4, §33.3
+- **content flywheel / endless content flywheel** — §24.3
+- **content is king** — §21.3
+- **content matrix** — §22.4
+- **content of your attention** — §36.2
+- **content pillars / content map** — §18.6, §22.3
+- **content stack / base social media platform** — §24.3
+- **content templates** — §23.1
+- **context** — §14.3, §16.3
+- **context creators** — §24.6
+- **context gathering / action plan / coaching (phases) / context gathering phase / interview phase** — §16.4, §17.3
+- **contrarian spine** — §22.2
+- **contrast / polarity / discernment** — [[#4.2 Los detonantes: hartarse, el dolor, tocar fondo o las pequeñas victorias|§4.2]]
+- **conventional career path / the conventional path / conventional life path** — [[#2.2 La escuela: la educación de esclavos y la verdadera educación|§2.2]], [[#2.3 El empleo: la esclavitud moderna y the eternal known|§2.3]]
+- **conventional stage Shadow** — §38.3
+- **conversion rate** — §24.5, §28.5, §29.2
+- **cope to curiosity** — §14.2
+- **coping rather than creating** — [[#4.1 Todo cambio es un cambio de identidad|§4.1]]
+- **copy-paste business models** — §30.4
+- **copycat by design** — [[#1.2 El conditioning: la infancia como programación|§1.2]]
+- **copywriting** — §23.6
+- **core beliefs / core principles** — §12.5, §22.2
+- **core job to be done** — §37.3
+- **Core Notes** — §16.3
+- **Cornerstone Habit / cornerstone habits of the good life** — §14.1, §15.7, §40.2
+- **corporate speak / corporate robot** — §26.4, §26.5
+- **Cortex / Kortex** — §16.3, §37.2
+- **Cortex University / Kortex University** — §16.3, §24.3
+- **cosmic pull / self-imposed calling** — §7.5
+- **coupled artistic aesthetic** — §21.5
+- **course hoarder** — §31.5
+- **course on steroids** — §24.6
+- **crab in a bucket / crabs and parasites** — §11.4
+- **crack / catastrophic event** — [[#4.2 Los detonantes: hartarse, el dolor, tocar fondo o las pequeñas victorias|§4.2]]
+- **cracks vs ugly stains (regret)** — §15.5
+- **create a career, not be assigned one** — §28.3
+- **create a lens / lens of your goal** — [[#6.5 La meta como lente|§6.5]]
+- **create or be created** — [[#1.4 La imitación es inevitable: NPC o main character|§1.4]]
+- **create passion / investing mental energy (currency)** — §8.7
+- **create value / distribute value** — §28.3, §30.4
+- **create your own matrix / psychological infrastructure** — [[#4.4 Reprogramación: inmersión en el entorno del yo futuro|§4.4]]
+- **create your own philosophy / truth seekers** — §17.2
+- **create your own security** — [[#1.4 La imitación es inevitable: NPC o main character|§1.4]]
+- **create your own structure** — §12.5
+- **create, expand and transcend** — §10.4
+- **creating selves** — §40.6
+- **creating your own reality** — [[#3.3 La identidad como filtro: perspectiva y percepción|§3.3]]
+- **creation** — [[#5.3 Ordenar la consciencia|§5.3]], §38.1
+- **creation hierarchy / creation pyramid** — §8.3
+- **creation season / consumption and delegation season / manage versus do** — [[#5.5 Gestionar la entropía|§5.5]]
+- **creative / true creative** — §18.1
+- **creative achievement approached obliquely** — §13.1
+- **creative boundary** — §22.5
+- **creative challenge** — §8.4
+- **Creative Edge** — §14.1
+- **creative emergence** — §39.2
+- **creative firepower / vessel / currency** — §12.1, §13.1, §13.3, §14.1, §16.3
+- **creative income** — §34.3
+- **creative spark** — §13.2
+- **creative state / open state creativity** — §18.1
+- **creative thought partner** — §16.4
+- **creative way of life** — §8.6
+- **creative work / creator work** — §21.4
+- **creativity = create + clarity** — §18.2
+- **creativity block / creativity blocks (walks) / creating on an empty tank** — §13.2, §13.3, §16.2, §40.2
+- **creativity is in the constraints / creativity thrives with constraints** — §23.1
+- **creativity is the fuel for productivity / optimizing for the right amount** — §12.1
+- **creativity is the vessel** — §39.1
+- **creator / creator as a way of being / Creator (way of life)** — §18.1, §27.1, §28.3, §29.5, §30.4, §35.4, §36.2
+- **Creator actualization hierarchies** — §40.6
+- **creator economy** — §28.4, §36.1, §36.2, §40.6
+- **Creator first** — §37.3
+- **Creator game / one person business game** — §26.5
+- **Creator philosophy** — §9.4
+- **creator society / Creator's Society** — §35.4, §40.6
+- **creator's paradox** — §13.1
+- **crevice of reality** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]], §18.4, §19.2, §20.2, §27.6, §38.4
+- **critical thinking 101** — §17.1
+- **cross-domain synthesis** — §23.6
+- **cross-post** — §24.3
+- **cross-quadrant unlock patterns** — §38.4
+- **crossroads of dissonance and insight** — [[#4.2 Los detonantes: hartarse, el dolor, tocar fondo o las pequeñas victorias|§4.2]]
+- **crystallized identity** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]]
+- **culture** — [[#6.2 El foco es atención consciente|§6.2]]
+- **curate your digital environment** — §11.3, §14.1
+- **curator** — §18.4
+- **curator, not a consumer** — [[#6.5 La meta como lente|§6.5]]
+- **curiosity** — §14.2
+- **Curiosity Compass** — §20.3
+- **curiosity gap / curiosity loop** — §8.2, §15.4, §17.4, §23.3, §23.5, §28.2, §31.3
+- **curiosity–intensity–consistency cycle** — §14.2
+- **currency of agency** — §16.3
+- **curriculum** — §33.1, §33.5
+- **curse of knowledge** — [[#1.2 El conditioning: la infancia como programación|§1.2]], [[#2.5 Pirámides de dominio, pirámides de atención y juegos de estatus|§2.5]], §31.1
+- **curse of the individual contributor** — §37.6
+- **curtain language** — §31.5
+- **curveball** — §22.7
+- **customer avatar** — §19.3, §19.4, §37.1
+- **customer creation (through education)** — §22.7
+- **cybernetic trial and error** — §17.5
+- **cybernetics** — [[#3.2 Las metas componen la identidad|§3.2]], [[#5.1 La entropía, la ley suprema del universo|§5.1]], [[#6.4 Cibernética: la inteligencia como dirección del rumbo|§6.4]]
+- **cycle of centralization and decentralization** — §20.1, §25.5
+- **cycles from the top down** — [[#1.6 Vivir en autopilot|§1.6]]
+- **cycles of progress / phases of life (perplexity, curiosity, intensity, consistency)** — §39.6
+
+### D
+
+- **daily craft** — §21.2
+- **daily levers** — §7.5, §8.1
+- **daily self-education** — §14.1
+- **dark room / candle** — §39.6
+- **data driven product** — §33.3
+- **data points** — §15.5, §25.4, §26.3
+- **database of big ideas** — §16.3
+- **database of intellectual property** — §16.3
+- **dead internet** — §35.5, §36.5
+- **dead stop** — §13.1
+- **deadline urgency / control the offer** — §24.5
+- **death by complexity** — §37.3
+- **death is symbolic** — §28.1
+- **death of the expert** — [[#2.6 Del paradigma industrial a la era de la información|§2.6]]
+- **decapitate your thinking** — §17.1
+- **decay / entropy of the known** — [[#2.6 Del paradigma industrial a la era de la información|§2.6]]
+- **decentralization of work** — §28.4
+- **decentralized education system** — §20.4, §31.5, §36.2, §38.4
+- **decentralized meaning** — §31.5
+- **decentralized media companies** — §36.2
+- **decentralized teachers** — §36.2
+- **deconstruct wholes into parts** — §18.2
+- **deep generalist** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]], §20.1
+- **deep generalized patterns** — [[#6.4 Cibernética: la inteligencia como dirección del rumbo|§6.4]]
+- **deep knowledge / zip file for the mind** — §31.5
+- **deep recovery / numbing** — §13.1
+- **deep thinking** — §17.1
+- **deep work** — §12.1, §12.5
+- **deep work accelerator** — §17.3
+- **deep work is for deep tasks, shallow work is for shallow tasks** — §8.1, §12.5
+- **deep, free and original thinker** — §37.1
+- **deeper underlying truth** — §37.2
+- **default definition of success / default settings (of meaning)** — [[#2.1 El default path|§2.1]]
+- **default mode network (DMN) / outward-inward focused cognition** — §12.5, §13.1
+- **default path** — [[#1.2 El conditioning: la infancia como programación|§1.2]], [[#1.4 La imitación es inevitable: NPC o main character|§1.4]], [[#2.1 El default path|§2.1]], [[#2.2 La escuela: la educación de esclavos y la verdadera educación|§2.2]], [[#2.6 Del paradigma industrial a la era de la información|§2.6]], §7.1, §8.3, §10.1
+- **default state of consciousness / default state of humanity** — [[#5.2 La entropía psíquica y el estado por defecto del caos|§5.2]]
+- **default state of living / anti-vision** — §7.1
+- **default trajectory** — [[#1.2 El conditioning: la infancia como programación|§1.2]]
+- **defined by your niche** — §19.6
+- **degeneracy** — §10.6, §40.2
+- **Del paradigma industrial a la era de la información** — [[#2.6 Del paradigma industrial a la era de la información|§2.6]]
+- **delayed gratification content** — §11.3
+- **deliberate ignorance** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]]
+- **delivery mechanism** — §33.4
+- **delusional goals** — §34.4
+- **delusional sense of security** — [[#1.2 El conditioning: la infancia como programación|§1.2]]
+- **deplatform (your audience)** — §24.4, §25.3
+- **deposit of knowledge** — §39.1
+- **depression apartment** — §17.6
+- **depth and growth** — §24.3
+- **depth and span** — §21.3, §25.4, §26.1
+- **depth comes after you solve the shallow problems** — §9.1
+- **depth of focus** — [[#6.3 Zoom in, zoom out y la Focus Matrix|§6.3]]
+- **desaturate (the market)** — §27.6, §29.1
+- **desirable goal / burning problem / clear path** — §19.2, §28.2
+- **desired goal / path / problem** — §8.2
+- **desired outcome / big benefit** — §17.4
+- **destination determines the journey** — §6.6
+- **destruction of the lower** — §9.1
+- **destructive self-improvement game** — §40.2
+- **detailed instructions** — §16.4
+- **developmental stages (low / medium / high leverage creators)** — §30.2
+- **diet ideology / prophet** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]]
+- **differentiating resource** — §35.5
+- **differentiators: generalism, taste, agency** — §18.5
+- **digestive system for reality** — §10.5, §15.7
+- **digital dark ages** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]]
+- **Digital Economics** — §14.1, §28.5, §30.1, §30.2, §33.7, §37.1
+- **digital economy** — §14.1
+- **digital education products** — §31.5
+- **digital employee** — §36.5
+- **digital farmers markets** — §11.3
+- **digital fat, sugar and salt** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]]
+- **digital garden / digital swamp** — §11.3
+- **digital house** — §27.2
+- **digital leverage** — §25.3, §28.4
+- **digital nomad trap / highlight reel** — §8.5
+- **digital product stack** — §28.4
+- **digital real estate** — §25.2, §26.6, §27.2, §28.4, §35.5, §36.1
+- **digital reality** — §27.3
+- **Digital Renaissance** — §20.2, §20.3
+- **digital renaissance man** — §20.3
+- **digital resume** — §29.1
+- **digital slot machine** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]]
+- **Digital Society** — §25.5
+- **digital storefront** — §25.5
+- **digital tool stack** — §27.2
+- **digital tribal era** — §40.6
+- **digital tribe** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]], [[#1.2 El conditioning: la infancia como programación|§1.2]]
+- **digital tutoring offers** — §29.2, §29.3
+- **digital writing** — §21.1
+- **direct experience** — §13.2, §14.2, §17.2, §17.5
+- **direct response marketing** — §15.3
+- **dirty words** — §28.3, §34.2, §35.1
+- **disappear** — §7.1, §11.4
+- **discipline comes from clarity not force** — [[#3.6 La disciplina como rasgo de la identidad; los estándares|§3.6]]
+- **discipline is a feature of identity** — [[#3.6 La disciplina como rasgo de la identidad; los estándares|§3.6]]
+- **discipline isn't built, it's discovered** — [[#3.6 La disciplina como rasgo de la identidad; los estándares|§3.6]]
+- **discovered vs assigned** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]]
+- **Disordered task** — §15.2
+- **dissect and distill** — §16.3
+- **dissect your mind** — §19.6
+- **dissipative structures** — §38.1
+- **dissonance** — [[#4.3 Las fases del cambio y la identidad como estructura|§4.3]], §7.4, §37.3
+- **Distraction** — §10.6
+- **distraction lack gravity / glitch in the Matrix** — §12.5
+- **distraction potential** — §12.3
+- **distraction proof** — §11.2
+- **distractions are subjective** — [[#5.2 La entropía psíquica y el estado por defecto del caos|§5.2]]
+- **distribution** — §25.2
+- **distribution equals freedom** — §12.6, §25.2
+- **distribution studio / product studio** — §37.2
+- **dive into the unknown** — §39.7
+- **diversifying your study** — [[#6.5 La meta como lente|§6.5]]
+- **division and reunion** — §36.2
+- **DJs with ideas** — §18.2, §18.4
+- **DM script / novel advice** — §32.5
+- **do it yourself / done with you / done for you** — §29.2, §33.4, §33.7
+- **do nothing useless** — §8.1
+- **do what works from your own perspective** — §26.3
+- **do your work when entropy is low** — §12.5
+- **document your journey** — [[#3.5 El ego no es el enemigo, y el problema con "sé tú mismo"|§3.5]], §14.5
+- **document your mind** — §21.4
+- **doers vs directors** — §36.4
+- **doing mode** — [[#6.2 El foco es atención consciente|§6.2]], §13.1, §13.3
+- **domain of Mastery** — §15.1, §21.3, §22.3, §29.2
+- **dominant cultural paradigm** — §34.4
+- **dominator hierarchies** — [[#2.5 Pirámides de dominio, pirámides de atención y juegos de estatus|§2.5]], §38.1
+- **don't be a tool** — §20.1
+- **don't fill in the blanks** — §24.2
+- **dopamine dealer** — §23.3
+- **dopamine driven feedback loops** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]]
+- **dopamine from information gathering** — §14.3
+- **dopamine is your compass** — [[#2.4 La psique cazadora en un cubículo|§2.4]]
+- **dopamine junkie(s)** — [[#2.4 La psique cazadora en un cubículo|§2.4]], §8.7
+- **dopamine overloaded** — §11.1
+- **down world / up world** — §11.1, §39.4
+- **drama of society** — [[#1.6 Vivir en autopilot|§1.6]]
+- **drip** — §24.5
+- **drive for anything** — §37.4
+- **drop servicing / 2-hour agency** — §37.1
+- **drown in motivation** — §11.1
+
+### E
+
+- **early childhood conditioning** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]]
+- **early taste** — §22.2
+- **earn with their mind not their time** — §18.4
+- **earn with your mind** — §34.3
+- **earn your stripes / get dragged into it** — §37.5
+- **earned dopamine** — §11.2
+- **earning in accordance with nature** — §36.6
+- **easy / difficult / impossible goals** — §7.5, §35.1
+- **echo chambers** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]]
+- **Eden** — §15.5, §16.3, §37.2, §37.4
+- **edge** — [[#5.5 Gestionar la entropía|§5.5]], §39.7
+- **edge of the known** — §14.1
+- **edge of understanding** — §16.1
+- **educate, entertain, inspire** — §23.4
+- **education / inspiration / entertainment** — §23.4
+- **education brand** — §31.4
+- **education business** — §9.2, §28.2, §28.3, §30.3, §31.5
+- **education equals discovery** — [[#2.2 La escuela: la educación de esclavos y la verdadera educación|§2.2]]
+- **education funnel** — §22.7
+- **education is not programming** — [[#2.2 La escuela: la educación de esclavos y la verdadera educación|§2.2]]
+- **education is the new marketing** — §22.7
+- **education is the precursor to behavior** — §31.5
+- **education of slaves** — [[#2.2 La escuela: la educación de esclavos y la verdadera educación|§2.2]]
+- **education product** — §30.3, §31.5
+- **education vs training** — [[#2.2 La escuela: la educación de esclavos y la verdadera educación|§2.2]], §14.1
+- **effective thinking** — §21.2
+- **Effectiveness** — [[#3.3 La identidad como filtro: perspectiva y percepción|§3.3]]
+- **efficient over lazy** — §40.2
+- **effortless self-discipline** — [[#3.6 La disciplina como rasgo de la identidad; los estándares|§3.6]]
+- **ego** — [[#3.5 El ego no es el enemigo, y el problema con "sé tú mismo"|§3.5]]
+- **ego defending beliefs** — §34.2
+- **ego trap** — [[#3.5 El ego no es el enemigo, y el problema con "sé tú mismo"|§3.5]]
+- **eight human desires** — §31.3, §32.4
+- **eject button** — §12.2, §40.3
+- **El conditioning: la infancia como programación** — [[#1.2 El conditioning: la infancia como programación|§1.2]]
+- **El default path** — [[#2.1 El default path|§2.1]]
+- **El ego no es el enemigo, y el problema con "sé tú mismo"** — [[#3.5 El ego no es el enemigo, y el problema con "sé tú mismo"|§3.5]]
+- **El empleo: la esclavitud moderna y the eternal known** — [[#2.3 El empleo: la esclavitud moderna y the eternal known|§2.3]]
+- **El entorno informativo: algoritmos, memes y entropic content** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]]
+- **El foco es atención consciente** — [[#6.2 El foco es atención consciente|§6.2]]
+- **El level of mind** — [[#4.7 El level of mind|§4.7]]
+- **El tiempo psicológico** — [[#2.8 El tiempo psicológico|§2.8]]
+- **elements** — §13.4, §16.3, §24.1
+- **eliminate, automate, delegate** — §12.5, §13.2
+- **embedded / novel connections** — §16.3
+- **embrace feeling lost** — §39.7
+- **Embracing chaos** — §15.1
+- **emotional alchemy** — [[#4.2 Los detonantes: hartarse, el dolor, tocar fondo o las pequeñas victorias|§4.2]], §39.2
+- **emotional labor** — §31.4
+- **emotional light switch / puppet** — [[#1.4 La imitación es inevitable: NPC o main character|§1.4]]
+- **emotional puberty** — §11.2
+- **emotional trench** — §39.2
+- **emotional weights** — §39.2, §39.5
+- **employee mindset** — [[#6.4 Cibernética: la inteligencia como dirección del rumbo|§6.4]], §12.6, §35.1
+- **employment mindset** — §28.6
+- **Emulation** — §15.2, §16.1, §23.1
+- **enemy of your brand** — §19.7
+- **energy calendar** — §12.5
+- **energy profile** — §12.5
+- **energy transfer** — §21.4, §31.4
+- **engagement data as a compass** — §21.1
+- **engagement groups** — §26.4, §26.5
+- **engagement vs transformation** — §25.1
+- **engineer enthusiasm** — §8.3
+- **enjoyment / obsession** — §39.1
+- **enjoyment vs pleasure** — §11.2
+- **enough life** — §34.5
+- **enterprising** — §28.3
+- **entrepreneur in mind** — §35.1
+- **entrepreneurial barbell** — §34.4
+- **entrepreneurial method** — §15.4
+- **entrepreneurship is a state of mind** — §28.3, §35.1
+- **entrepreneurship is modern survival** — [[#2.4 La psique cazadora en un cubículo|§2.4]]
+- **entropic content** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]]
+- **entropy** — [[#5.1 La entropía, la ley suprema del universo|§5.1]], §31.1
+- **entropy costs** — §33.4
+- **entropy management** — [[#5.5 Gestionar la entropía|§5.5]]
+- **entropy of your business** — [[#5.5 Gestionar la entropía|§5.5]]
+- **environment engineering** — [[#4.4 Reprogramación: inmersión en el entorno del yo futuro|§4.4]]
+- **environment of your future self** — [[#4.4 Reprogramación: inmersión en el entorno del yo futuro|§4.4]], §10.6
+- **epistemic commons** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]]
+- **equity / dividends / goodwill** — §34.5
+- **escape velocity** — §27.6
+- **escape vs savor** — §31.5
+- **essence behind the tool** — §24.6
+- **essence of life** — §39.7
+- **Eternal markets** — §9.3, §19.4, §20.3, §28.2, §29.2, §31.3, §31.4, §34.3, §39.7, §40.1
+- **eternal problems / skill tree** — §40.1
+- **even moderation** — §39.4
+- **evergreen ideas / small-scale book** — §22.5
+- **evergreen pieces** — §32.5
+- **evergreen skills** — §15.3, §18.2, §21.1, §32.1, §35.5
+- **evergreen vessels** — §28.5
+- **everyone is an entrepreneur** — §10.7, §20.4, §27.3, §28.3
+- **everything is a religion** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]]
+- **everything is a skill** — §15.1, §15.2
+- **everything is information** — [[#5.4 Todo es información|§5.4]]
+- **evolve one level** — §8.6
+- **evolve or die** — §28.1
+- **evolving work of art** — §8.5
+- **excavate your raw material** — §22.2
+- **execution gap** — §14.2
+- **executive function** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]], §23.5, §36.4
+- **expanded time horizon** — §9.4
+- **expansion pack** — §14.4
+- **expectation** — §39.2
+- **expensive dopamine** — §11.2
+- **experience anchor** — §9.3
+- **experience boosts** — §17.2
+- **experience exchange** — §34.3
+- **experience model** — §19.2
+- **experience vessel** — §19.4
+- **experiment downward** — §19.6
+- **experiment inward / experiment outward** — §39.7
+- **experiment upward** — §28.5
+- **experimentation** — §15.4
+- **experimentation phase** — [[#4.6 Protocolos de reinvención y fracasos que se apilan|§4.6]]
+- **exponential event** — §26.1, §26.3
+- **exposure / forward progress** — §7.4
+- **extension of the self** — §9.4, §19.2
+- **external aligns with the internal** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]]
+- **external clarity vs internal clarity** — [[#1.2 El conditioning: la infancia como programación|§1.2]]
+- **external conditioning** — [[#1.2 El conditioning: la infancia como programación|§1.2]]
+- **external locus of control** — §35.1
+- **external record of your thinking** — §21.2
+- **external status games** — [[#1.4 La imitación es inevitable: NPC o main character|§1.4]]
+- **externalized clone of a creative process** — §30.7
+- **externally conditioned** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]]
+- **externally ordered consciousness** — [[#1.2 El conditioning: la infancia como programación|§1.2]]
+- **eyes and effort** — §26.4
+
+### F
+
+- **factory line / bottlenecks** — §37.5
+- **factory reset** — §11.4
+- **fad diet model** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]]
+- **fail forward** — §22.6
+- **fail in public** — §29.4
+- **fail soon** — §29.4
+- **failure stacking** — §14.3
+- **failure type person** — [[#3.3 La identidad como filtro: perspectiva y percepción|§3.3]]
+- **faint connection** — §26.5
+- **fake millionaire routine** — §12.2
+- **fake risk / real risk** — §10.3
+- **fake thinking** — §21.2
+- **False god** — §16.3
+- **false lifestyles** — §11.2
+- **false metric** — §39.3
+- **false transformation** — §38.4, §40.2
+- **familiar past / predictable future** — [[#2.8 El tiempo psicológico|§2.8]]
+- **fast content / slow content** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]], §21.2
+- **fast food of socialization** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]], §10.3
+- **faucet / clear water** — §28.5, §29.4
+- **fear of the unknown** — [[#4.3 Las fases del cambio y la identidad como estructura|§4.3]]
+- **feast or famine cycle** — §30.1
+- **feature, not a bug** — §34.3
+- **features and benefits** — §23.6, §33.4
+- **features, features, features** — §37.3
+- **fed up** — [[#4.2 Los detonantes: hartarse, el dolor, tocar fondo o las pequeñas victorias|§4.2]]
+- **feedback mechanism** — §34.1
+- **Feynman technique** — §14.5
+- **field of awareness** — [[#3.3 La identidad como filtro: perspectiva y percepción|§3.3]], §18.2
+- **fifth century BC** — [[#1.2 El conditioning: la infancia como programación|§1.2]]
+- **fifth dimension** — §38.1, §38.2
+- **figments of consciousness** — §29.2
+- **figure it out** — §35.2
+- **figuring it out for yourself** — §14.1
+- **fill / empty / use your mind** — §13.3
+- **filter it through your big goal** — §22.1
+- **filtration** — §7.1, §7.2
+- **final cause / teleology** — [[#3.2 Las metas componen la identidad|§3.2]]
+- **final kicker** — §25.4
+- **financial confidence / financial security** — §34.4
+- **firm beliefs held loosely** — [[#3.4 La ley de la supervivencia conceptual|§3.4]], §17.1, §22.6
+- **first hump** — §8.7
+- **first order being / second order knowing** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]]
+- **first person view** — [[#6.3 Zoom in, zoom out y la Focus Matrix|§6.3]]
+- **first principle signal** — §37.5
+- **first system** — §13.2
+- **first two revenue streams** — §29.3
+- **first-order / second-order (change)** — [[#4.1 Todo cambio es un cambio de identidad|§4.1]]
+- **first-tier / second-tier thinking** — §18.4, §38.2
+- **fitness payoffs** — [[#2.9 Por qué importa despertar|§2.9]]
+- **five fundamental human capabilities** — §36.4
+- **five ingredients of success** — §18.5, §35.5
+- **five intrinsic drivers** — §10.4, §20.4
+- **five levels of financial wealth / escape velocity** — §34.5
+- **five psychological levers** — §32.4
+- **flash in the pan** — [[#5.1 La entropía, la ley suprema del universo|§5.1]]
+- **flavor of the day** — §29.4, §30.4
+- **flip the script** — §11.3
+- **flip the switch** — [[#4.2 Los detonantes: hartarse, el dolor, tocar fondo o las pequeñas victorias|§4.2]], [[#4.4 Reprogramación: inmersión en el entorno del yo futuro|§4.4]], §7.1, §39.6
+- **flow of feedback** — §29.4
+- **flow state** — §10.4
+- **flow triggers** — §39.4
+- **flowing water of money** — §26.3
+- **fluff** — §16.2, §17.2, §22.5
+- **fly bottle** — §17.1
+- **focus** — [[#6.2 El foco es atención consciente|§6.2]], [[#6.5 La meta como lente|§6.5]]
+- **focus blockers** — §10.3
+- **focus compounds** — [[#5.5 Gestionar la entropía|§5.5]], §8.4
+- **Focus Formula** — §8.2, §12.7
+- **focus is a currency** — §30.5
+- **focus is a muscle** — [[#5.2 La entropía psíquica y el estado por defecto del caos|§5.2]], [[#6.5 La meta como lente|§6.5]], §12.1, §12.4, §15.2
+- **Focus Matrix** — [[#6.3 Zoom in, zoom out y la Focus Matrix|§6.3]], §12.4
+- **focus on the people** — §40.3
+- **focused prioritized action** — §6.6
+- **followers follow leaders** — §21.3
+- **For You page** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]]
+- **force** — [[#2.3 El empleo: la esclavitud moderna y the eternal known|§2.3]]
+- **force field** — §8.1
+- **force multiplier** — [[#6.2 El foco es atención consciente|§6.2]], §37.1
+- **forced linearity** — §21.2
+- **forced low** — §6.6
+- **forced synchronicity** — §14.4
+- **forced to be a generalist / CEO level traits** — §29.1
+- **forcing function** — [[#6.4 Cibernética: la inteligencia como dirección del rumbo|§6.4]], §9.3, §14.5, §28.1, §34.4
+- **forcing my hand** — §37.2
+- **formal education system vs creator economy** — §36.2
+- **former self** — §28.2
+- **fortune cookie tweets** — §24.6
+- **forward movement** — [[#5.1 La entropía, la ley suprema del universo|§5.1]]
+- **foundation of education** — §30.3
+- **foundation of media** — §21.1, §21.4
+- **foundational content topics** — §16.1
+- **foundational skills** — §21.1
+- **foundational traffic source** — §25.2
+- **founder market fit** — §37.3
+- **fountainhead of value** — §9.4, §18.4, §20.4, §39.5
+- **four eternal markets** — §29.1
+- **four habits** — §13.2
+- **four paths** — §14.2
+- **four phases of life** — §39.6
+- **four pillars of creative work** — §21.3
+- **four pillars of self-confidence** — §39.5
+- **four pillars of the one-person business** — §19.2
+- **four pillars of you** — §19.4
+- **four sales calls** — §32.5
+- **fourth dimension** — §38.2
+- **frame** — §7.1, §7.2, §7.3, §15.3, §33.6
+- **frame breaking** — §33.1
+- **frame of reference** — §24.1
+- **frame of the game** — [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]], §10.2
+- **frame the idea through the mission** — §22.1
+- **framing your focus** — §8.3
+- **free individual** — [[#5.4 Todo es información|§5.4]], §35.2
+- **free people don't niche down** — §22.7
+- **freedom vs autonomy** — §39.5
+- **freelancer mindset** — §30.4
+- **frequency (of energy)** — [[#6.2 El foco es atención consciente|§6.2]]
+- **frictionless** — [[#4.1 Todo cambio es un cambio de identidad|§4.1]], [[#4.2 Los detonantes: hartarse, el dolor, tocar fondo o las pequeñas victorias|§4.2]]
+- **front end / back end** — [[#5.3 Ordenar la consciencia|§5.3]], §21.1
+- **front row of your funeral** — §40.3
+- **frontload** — §12.5, §40.2
+- **full circle** — [[#4.2 Los detonantes: hartarse, el dolor, tocar fondo o las pequeñas victorias|§4.2]], §10.6, §28.4
+- **full control** — §39.5
+- **full life cycle of knowledge** — §36.2
+- **full stack** — §37.3, §37.5
+- **full stack business** — §29.3
+- **full stack creator** — §25.3
+- **fundamentals** — §12.7, §15.6
+- **furnace of life** — §39.2
+- **future proof skill stack** — §35.5
+- **future proofing yourself** — §40.1
+- **futureproof** — §18.5, §20.3, §35.5
+
+### G
+
+- **game of life** — §32.2
+- **game of selling better ideas** — §21.3
+- **gamify your life** — §10.2
+- **gap between impulse and response** — §11.5
+- **gatekeeper mindset** — §28.5, §29.4
+- **gateway drug** — §9.1, §34.1, §39.5
+- **general aim** — §7.4
+- **generalist** — §20.2, §22.3
+- **generalized principles of reality** — §16.2
+- **generalized specialists** — §20.2
+- **generate traffic manually** — §26.4
+- **generative vs evaluative thinking** — §11.4
+- **generator functions** — [[#2.9 Por qué importa despertar|§2.9]]
+- **genius thinking** — [[#5.4 Todo es información|§5.4]], §17.1, §38.2
+- **genuine curiosity** — §14.2
+- **Gestionar la entropía** — [[#5.5 Gestionar la entropía|§5.5]]
+- **get eyes on your content** — §26.1, §26.4
+- **get there first with value** — §26.4
+- **getting paid to be yourself** — [[#3.5 El ego no es el enemigo, y el problema con "sé tú mismo"|§3.5]]
+- **getting paid to play** — §20.4
+- **getting the point** — §40.5
+- **ghost writer** — §36.4
+- **gift of creation** — §35.4
+- **give freely** — §31.5
+- **give, give, give** — §23.4, §26.5
+- **glitch in the Matrix** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]], §11.4, §11.5
+- **glitches** — §38.4
+- **global decentralized economy** — §25.5
+- **glorified search engine** — §19.6, §25.4, §27.7
+- **glue** — §14.3
+- **go all in** — §7.4
+- **go large and broad** — §19.5
+- **goal** — [[#6.5 La meta como lente|§6.5]]
+- **goal striver** — [[#3.2 Las metas componen la identidad|§3.2]]
+- **goal striving machine** — [[#3.2 Las metas componen la identidad|§3.2]]
+- **goal, path, problem** — §31.4
+- **goals of your brand** — §19.4
+- **Golden Age of the creator economy** — §36.2
+- **golden handcuffs** — [[#2.3 El empleo: la esclavitud moderna y the eternal known|§2.3]]
+- **golden nugget** — §16.3, §22.4, §24.1
+- **golden rule** — §34.1
+- **golden zone** — §10.5
+- **good dopamine** — [[#2.4 La psique cazadora en un cubículo|§2.4]], [[#5.2 La entropía psíquica y el estado por defecto del caos|§5.2]], §8.1, §11.2, §23.3
+- **good pain / mental bodybuilding** — [[#4.1 Todo cambio es un cambio de identidad|§4.1]]
+- **good stress** — §10.6
+- **government trained expert** — §36.2
+- **gravitational pull** — [[#3.6 La disciplina como rasgo de la identidad; los estándares|§3.6]], [[#4.2 Los detonantes: hartarse, el dolor, tocar fondo o las pequeñas victorias|§4.2]], [[#4.6 Protocolos de reinvención y fracasos que se apilan|§4.6]]
+- **gravity** — §7.2, §8.3, §8.6, §12.6
+- **gray area** — §30.5
+- **great modern game** — §10.1
+- **greater cascade** — §18.4
+- **greenfield development** — §35.1
+- **ground yourself in reality** — §39.2
+- **growing pains** — §13.3, §15.7
+- **growth / authenticity / authority** — §27.4, §33.7
+- **growth / nurture / monetization levers** — §28.6
+- **guide not master** — §8.1
+
+### H
+
+- **habit of habits** — §8.2
+- **half child** — §21.3
+- **half truth** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]]
+- **half X designers** — §37.5
+- **hamster wheel** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]]
+- **happiness is a skill** — §15.1
+- **happy medium** — §40.2
+- **hard reset** — §8.4, §12.4, §13.3, §13.4
+- **hard standards** — §10.3, §11.3
+- **harmonic oscillator** — [[#2.8 El tiempo psicológico|§2.8]], §39.3
+- **harsh mentor** — [[#6.4 Cibernética: la inteligencia como dirección del rumbo|§6.4]]
+- **heading off a cliff by default** — [[#4.4 Reprogramación: inmersión en el entorno del yo futuro|§4.4]]
+- **heat-seeking missile** — [[#3.2 Las metas componen la identidad|§3.2]]
+- **hedonic adaptation** — §11.4
+- **hedonic treadmill reversal** — §11.4
+- **Here and Now chemicals** — §10.2, §39.4
+- **Hermetic law of use** — §16.1
+- **hierarchy of brand actualization** — §27.2
+- **hierarchy of goals** — [[#2.3 El empleo: la esclavitud moderna y the eternal known|§2.3]], §8.1, §10.2, §10.3
+- **hierarchy of trust and value** — §24.2
+- **high agency** — §35.1
+- **high energy time block** — §12.5
+- **high highs and low lows** — §39.3
+- **high intelligence** — [[#6.4 Cibernética: la inteligencia como dirección del rumbo|§6.4]]
+- **high lever project** — §12.2, §13.2
+- **high leverage creator** — §30.2
+- **high leverage, high impact, highly enjoyable** — §13.2
+- **high signal information** — [[#5.2 La entropía psíquica y el estado por defecto del caos|§5.2]]
+- **high ticket client cycle** — §30.2
+- **high value** — §17.4, §31.1
+- **higher lows** — §39.6
+- **higher state of mind** — §39.6
+- **higher value individual** — §34.1
+- **highest form of leverage** — §25.3, §30.1, §33.6
+- **highest leverage activities** — §12.1, §14.3
+- **highest leverage work** — §21.1
+- **highest perspective** — [[#6.3 Zoom in, zoom out y la Focus Matrix|§6.3]]
+- **highest to lowest leverage** — §12.5
+- **highest version of yourself** — [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]]
+- **highlight of your day** — §33.2
+- **highlight reel** — [[#2.6 Del paradigma industrial a la era de la información|§2.6]], [[#2.7 La awareness: el sexto sentido que sana|§2.7]]
+- **history of meaning in four acts** — §36.6
+- **hoarding information** — [[#3.2 Las metas componen la identidad|§3.2]]
+- **hole of mediocrity** — §10.7
+- **holistic but negative worldview** — [[#5.2 La entropía psíquica y el estado por defecto del caos|§5.2]]
+- **holistic daily routine** — §13.3
+- **holistic development** — §40.1
+- **holistic entrepreneurship** — §9.4
+- **holistic goal** — §40.1
+- **holistic habit** — §40.2
+- **holistic identity** — [[#3.5 El ego no es el enemigo, y el problema con "sé tú mismo"|§3.5]], [[#3.6 La disciplina como rasgo de la identidad; los estándares|§3.6]], [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]]
+- **holistic library of knowledge** — [[#6.5 La meta como lente|§6.5]]
+- **holistic monk mode** — §11.4
+- **holistic pattern recognition** — [[#6.4 Cibernética: la inteligencia como dirección del rumbo|§6.4]]
+- **holistic self-improvement** — §40.1
+- **holistic synthesizer** — §21.4
+- **holistic truth** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]]
+- **holistic understanding** — §15.4
+- **holon** — §38.1
+- **holy trifecta of the good life** — §10.1
+- **homing mechanism** — [[#3.2 Las metas componen la identidad|§3.2]], [[#6.5 La meta como lente|§6.5]]
+- **homogeneous output** — §36.5
+- **honeymoon phase** — §10.7, §11.1, §15.6
+- **hook building blocks** — §23.2
+- **hopeful delusion** — §7.2
+- **horizontal / vertical development** — §17.5
+- **horizontal growth / vertical growth** — §17.5
+- **hot leads** — §19.5
+- **hotel (community)** — §33.4
+- **house of meaning** — §39.4
+- **Huberman cult** — §40.2
+- **Human 3.0** — [[#4.4 Reprogramación: inmersión en el entorno del yo futuro|§4.4]], §38.2, §38.4
+- **human nature** — §32.1
+- **human progression pattern** — §28.4, §29.1
+- **human understanding** — §32.1
+- **humble flex** — §23.3
+- **hunt and stack whys** — [[#4.4 Reprogramación: inmersión en el entorno del yo futuro|§4.4]], [[#4.6 Protocolos de reinvención y fracasos que se apilan|§4.6]]
+- **hunt for an idea** — §16.2
+- **hunt for ideas** — §22.4
+- **hunting** — [[#2.4 La psique cazadora en un cubículo|§2.4]], §15.1
+- **hunting ground** — [[#2.4 La psique cazadora en un cubículo|§2.4]]
+- **hunting in the unknown** — §18.3
+- **hunting skill set** — §8.2
+- **hustle culture** — [[#6.2 El foco es atención consciente|§6.2]], §12.1, §12.2, §13.1, §39.6
+- **hyper profitable education business** — §30.3
+- **hyper-specialists** — §20.1, §36.4
+- **hyper-spiritual people** — §40.4
+
+### I
+
+- **I am my own niche** — §19.6
+- **I am the market research** — §37.1
+- **I am the niche** — §26.6, §37.1
+- **iceberg** — §24.2
+- **iceberg of opportunity** — §7.4, §14.2
+- **iceberg of whys** — §8.7
+- **idea catalyst** — §26.1, §26.4
+- **idea density** — §16.3
+- **idea dump / outline page / draft page** — §24.1
+- **idea flow** — §15.6
+- **idea generation machine / creative firepower** — §22.4
+- **idea museum** — §16.3, §23.1
+- **idea platform** — §25.6
+- **idea space** — §18.2
+- **idea to execution muscle** — §27.4
+- **idea warfare** — §21.3
+- **idea workers** — §18.2, §28.4
+- **idea you wish you wrote** — §16.3, §22.4
+- **ideal customer persona** — §37.5
+- **ideal future** — §7.1, §7.4
+- **ideal lifestyle** — §39.5
+- **ideal mind** — §16.3
+- **ideal reader** — §19.3
+- **ideal scene** — §34.4
+- **ideas are our new berries** — [[#6.2 El foco es atención consciente|§6.2]]
+- **ideas are the new currency** — §21.3
+- **ideas are the new oil** — §16.3, §21.3, §22.2
+- **ideas as seeds** — §22.5
+- **ideas beget behavior** — §35.2
+- **ideas beget ideas** — §29.5
+- **identity** — [[#3.1 La identidad como cuerpo mental|§3.1]], [[#3.6 La disciplina como rasgo de la identidad; los estándares|§3.6]]
+- **identity / behavior** — [[#6.2 El foco es atención consciente|§6.2]]
+- **identity as a city** — [[#4.3 Las fases del cambio y la identidad como estructura|§4.3]]
+- **identity flips** — [[#4.3 Las fases del cambio y la identidad como estructura|§4.3]], §38.4
+- **identity is created through learning** — [[#4.4 Reprogramación: inmersión en el entorno del yo futuro|§4.4]]
+- **identity lists** — [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]]
+- **identity problem** — [[#3.6 La disciplina como rasgo de la identidad; los estándares|§3.6]]
+- **identity restricts perspective** — [[#3.2 Las metas componen la identidad|§3.2]], [[#3.3 La identidad como filtro: perspectiva y percepción|§3.3]]
+- **identity tension** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]]
+- **Idle state** — §10.6
+- **if you don't create (choose) a purpose you will be assigned one** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]]
+- **ignorance tax** — §34.4
+- **illusion of certainty** — [[#2.6 Del paradigma industrial a la era de la información|§2.6]]
+- **illusory retirement** — §36.6
+- **imaginary Rat Race** — [[#6.2 El foco es atención consciente|§6.2]]
+- **imitate then innovate** — §23.1
+- **immaterial perspective** — [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]]
+- **impactful ideas** — §22.6
+- **impermanence** — [[#5.1 La entropía, la ley suprema del universo|§5.1]], §39.3
+- **implementation tool** — §33.5
+- **imposing a deadline on a challenge** — §10.6
+- **impossible achievement** — §20.4
+- **improve yourself and then improve others** — §36.2
+- **improve yourself in public** — §14.5
+- **impulse buy pricing** — §33.4
+- **impulsive … unitive (nine stages)** — §38.2, §38.3
+- **in wedge** — §26.3
+- **in-formation** — [[#5.4 Todo es información|§5.4]], §10.5
+- **incepting** — §22.7
+- **inconvenient truth** — §12.2
+- **independent income** — §9.2, §33.6, §34.4
+- **independent thinker** — [[#1.2 El conditioning: la infancia como programación|§1.2]]
+- **indicators of growth** — §34.5
+- **indistractable frame** — §10.1
+- **individual choice** — §34.4
+- **individual sovereignty** — §35.2
+- **individualist / synthesist** — §38.4
+- **Industrial Age parents** — [[#2.2 La escuela: la educación de esclavos y la verdadera educación|§2.2]]
+- **industrial living** — §35.3
+- **industrial paradigm** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]], [[#2.6 Del paradigma industrial a la era de la información|§2.6]]
+- **industrial work disguised as creative work** — §36.4
+- **infinite bank for energy storage** — §8.7
+- **infinite digital game** — §34.3
+- **infinite game** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]], §10.7, §15.1, §28.3, §34.3, §40.4
+- **infinite mountains** — §9.4, §10.2
+- **infinite niche** — §27.2
+- **infinite nuance** — §17.1
+- **infinite paths / external game / internal game** — §10.2
+- **infinite string of problems** — §7.4
+- **influencer** — §27.7
+- **influencer economy** — §36.2
+- **information business** — [[#5.4 Todo es información|§5.4]], §31.5, §33.1, §33.3
+- **information creates identity** — §21.3, §26.4
+- **information fat** — §15.7
+- **information is the new currency** — [[#5.4 Todo es información|§5.4]]
+- **information product** — §33.1
+- **information roads** — [[#3.1 La identidad como cuerpo mental|§3.1]]
+- **inject yourself in a tribe** — §26.4, §26.5
+- **inkling of vision** — §10.3, §11.4
+- **inner album of greatest hits** — §18.6
+- **inspiration (vs motivation)** — §23.4
+- **inspired compliment** — §26.5
+- **instinctual / conformist / individualist / synthesist / generative** — §38.2
+- **intellectual athlete** — [[#6.2 El foco es atención consciente|§6.2]], §25.6
+- **intellectual obesity** — §15.7
+- **intellectual signature** — §18.6
+- **intellectual sparring partner** — §16.4
+- **intellectual structures** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]]
+- **intelligence** — [[#6.4 Cibernética: la inteligencia como dirección del rumbo|§6.4]]
+- **intelligent imitation** — [[#1.4 La imitación es inevitable: NPC o main character|§1.4]], §18.3, §37.1
+- **intense and unbothered** — §39.4
+- **intensity phase** — §12.1, §37.2, §39.6
+- **intensity threshold** — §39.6
+- **intensity trap** — §39.6
+- **intention** — [[#6.5 La meta como lente|§6.5]], §7.2
+- **intention of evolution** — §12.6
+- **intentional rest** — §13.1
+- **interest agnostic** — §27.6
+- **interest graph** — §26.1
+- **interest is generated** — §22.7
+- **interest-based education** — [[#6.5 La meta como lente|§6.5]], §14.4, §36.2
+- **interrupt autopilot** — §11.5
+- **intersection of importance and urgency** — §35.1
+- **intrinsic / extrinsic hierarchy of goals** — §8.1, §10.2
+- **intrinsic drivers** — [[#2.4 La psique cazadora en un cubículo|§2.4]], §9.2, §10.4, §30.4
+- **intrinsic energy** — §14.1
+- **intrinsic goal** — [[#1.2 El conditioning: la infancia como programación|§1.2]], [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]]
+- **intrinsic philosophy** — §7.2, §39.4
+- **intrinsic philosophy as marketing** — §28.2
+- **introverted identity** — §40.3
+- **invest energy into a goal** — §6.6
+- **invested attention** — §21.3
+- **investing attention** — §11.2, §25.1
+- **invisible building** — §13.4
+- **invisible gatekeepers** — §21.2
+- **irreplaceable asset** — §29.1
+- **Irreplaceable individual** — §21.1, §35.2, §35.5
+- **irreplaceable set of skills** — [[#4.6 Protocolos de reinvención y fracasos que se apilan|§4.6]]
+- **irreplaceable solution** — §35.5
+- **irresistible offer blueprint** — §33.2
+- **iterate without permission** — §35.1
+- **iterating on the rep** — §23.5
+- **iteration** — §37.3, §37.4
+- **iteration and persistence** — §28.5, §30.5
+- **iteration cycle (24 hours)** — [[#6.2 El foco es atención consciente|§6.2]]
+- **iterative products** — §30.5
+
+### J
+
+- **job / career / calling** — §9.2
+- **jobs to be done** — §37.5
+- **join the niche you were already in** — §19.6
+- **journaling vs writing** — §23.2
+- **judgment vs discernment** — [[#2.7 La awareness: el sexto sentido que sana|§2.7]]
+- **just in time / just in case** — §14.3
+- **just make more money bro** — §34.5
+
+### K
+
+- **kairos time windows** — §40.3
+- **keep your identity small** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]]
+- **Keystone habits** — §13.3
+- **kink in the hose** — §35.3
+- **know how to hunt** — §8.6
+- **know yourself** — [[#3.5 El ego no es el enemigo, y el problema con "sé tú mismo"|§3.5]]
+- **knowing vs understanding** — §17.5
+- **knowledge gaps** — §14.4, §14.5, §16.4
+- **knowledge is king** — §25.1
+- **knowledge of 100 / path of one** — §21.4
+- **knowledge outpace execution** — §14.3
+- **knowledge vs understanding** — §14.3, §17.5
+- **knowledge without skill** — §17.5
+- **known / unknown** — §11.2
+- **known goals / unknown goals** — [[#3.2 Las metas componen la identidad|§3.2]]
+- **known path** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]], [[#3.1 La identidad como cuerpo mental|§3.1]], §6.6, §30.1
+- **Koe's law** — §12.6
+- **Koe's razor** — [[#3.6 La disciplina como rasgo de la identidad; los estándares|§3.6]]
+
+### L
+
+- **La atención es la RAM** — [[#6.1 La atención es la RAM|§6.1]]
+- **La awareness: el sexto sentido que sana** — [[#2.7 La awareness: el sexto sentido que sana|§2.7]]
+- **La disciplina como rasgo de la identidad; los estándares** — [[#3.6 La disciplina como rasgo de la identidad; los estándares|§3.6]]
+- **La entropía psíquica y el estado por defecto del caos** — [[#5.2 La entropía psíquica y el estado por defecto del caos|§5.2]]
+- **La entropía, la ley suprema del universo** — [[#5.1 La entropía, la ley suprema del universo|§5.1]]
+- **La escuela: la educación de esclavos y la verdadera educación** — [[#2.2 La escuela: la educación de esclavos y la verdadera educación|§2.2]]
+- **La identidad como cuerpo mental** — [[#3.1 La identidad como cuerpo mental|§3.1]]
+- **La identidad como filtro: perspectiva y percepción** — [[#3.3 La identidad como filtro: perspectiva y percepción|§3.3]]
+- **La imitación es inevitable: NPC o main character** — [[#1.4 La imitación es inevitable: NPC o main character|§1.4]]
+- **La ley de la supervivencia conceptual** — [[#3.4 La ley de la supervivencia conceptual|§3.4]]
+- **La Matrix como red de creencias heredadas** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]]
+- **La mente cerrada: la ideología como identidad** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]]
+- **La meta como lente** — [[#6.5 La meta como lente|§6.5]]
+- **La psique cazadora en un cubículo** — [[#2.4 La psique cazadora en un cubículo|§2.4]]
+- **labor as leverage** — §20.1
+- **labor leverage / capital leverage / permissionless leverage** — §25.3
+- **labor theory of value** — §30.6, §31.1, §34.1
+- **labor workers / creative workers** — §34.3
+- **ladder of challenges** — [[#4.1 Todo cambio es un cambio de identidad|§4.1]]
+- **ladder rung** — §39.7
+- **language is virtual reality** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]]
+- **Las fases del cambio y la identidad como estructura** — [[#4.3 Las fases del cambio y la identidad como estructura|§4.3]]
+- **Las metas componen la identidad** — [[#3.2 Las metas componen la identidad|§3.2]]
+- **last bastion of real thinking** — §21.2
+- **launch every quarter** — §30.5
+- **launchpad** — §30.4
+- **law of cause and effect** — §23.6
+- **Law of Equivalent Exchange** — §39.2
+- **law of inspired action** — §14.4
+- **law of reversed effort** — [[#3.6 La disciplina como rasgo de la identidad; los estándares|§3.6]]
+- **layer of trust** — §27.1
+- **layer over reality** — §40.5
+- **layered niches** — §27.2
+- **lead** — §23.6, §32.6
+- **lead magnet** — §32.6
+- **lead with value** — §26.5
+- **lean into the phase** — §39.6
+- **learn a skill, sell a skill, teach a skill** — §29.1
+- **learn act repeat** — §17.5
+- **learn how to learn** — [[#4.6 Protocolos de reinvención y fracasos que se apilan|§4.6]], §14.1
+- **learn in public** — §14.5
+- **learn to sell, learn to build** — §32.1, §35.2
+- **learned and earned insight** — §19.2
+- **learned helplessness** — [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]]
+- **learner's business** — §28.5
+- **Learning comes from struggle, not memorization** — §14.3, §14.4, §15.1
+- **learning experiences** — §31.5
+- **learning is an output process** — [[#6.4 Cibernética: la inteligencia como dirección del rumbo|§6.4]]
+- **learning is problem solving** — §14.3
+- **learning sponge** — [[#1.2 El conditioning: la infancia como programación|§1.2]]
+- **learning with intention** — §14.5
+- **legal structure** — §34.1, §34.2
+- **Legos** — §12.4, §16.3, §21.2, §24.1, §40.2
+- **leisure** — §12.6, §13.1, §13.2
+- **leisure maxing** — §13.1
+- **lens / modality** — §23.4
+- **lens of perception** — [[#6.5 La meta como lente|§6.5]]
+- **lens of specificity** — §26.3
+- **lens of your future self** — §7.2
+- **lenses** — §23.1
+- **lesser purpose** — §9.1
+- **level of mind** — [[#3.4 La ley de la supervivencia conceptual|§3.4]], [[#4.1 Todo cambio es un cambio de identidad|§4.1]], [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]], [[#4.7 El level of mind|§4.7]], §38.2
+- **level one of narrowing your focus** — §8.1
+- **level one thinking** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]]
+- **level one traps** — §38.2
+- **level zero** — §38.4
+- **levels (walking)** — §40.2
+- **levels of awareness** — §32.3, §32.4
+- **levels of purpose** — §9.2
+- **levels of uncertainty** — §37.2
+- **lever moving actions** — §8.1, §10.2, §12.7, §28.5, §30.2, §39.7
+- **lever moving tasks** — [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]], [[#5.2 La entropía psíquica y el estado por defecto del caos|§5.2]], §8.1, §12.2, §13.2, §17.6, §21.1
+- **leverage** — §34.3
+- **leverage digital tools** — §12.6
+- **leverage-based game** — §14.3
+- **leveraged work** — §34.3, §36.3
+- **levers / mechanics** — §15.1
+- **levers of the new Rich** — §28.5
+- **library of information** — §22.5
+- **Life Dinner** — §40.3
+- **life is problem-solving** — §38.1
+- **life is story** — §23.5
+- **life itself is a practice** — §8.5
+- **life philosophy** — §11.2
+- **life project** — §29.2
+- **life reset map** — §16.3
+- **life reset prompt** — §17.3
+- **life treadmill** — §12.5
+- **life's work** — §7.2, §9.4, §10.2, §25.5, §28.2, §28.5, §30.4, §35.5, §36.6, §38.4
+- **lifeblood of society** — §34.1, §34.2
+- **lifelong self-education** — §14.1
+- **lifestyle creep** — §10.6
+- **lifestyle design** — §8.6, §9.4, §13.2, §13.4, §15.4, §30.4
+- **lifestyle first** — §8.3
+- **lifestyle of the 1%** — §31.1
+- **light in the dark** — §17.4
+- **light of awareness** — §10.2
+- **lighthouse** — [[#6.4 Cibernética: la inteligencia como dirección del rumbo|§6.4]]
+- **likes ain't cash** — §25.4
+- **limbo** — [[#4.2 Los detonantes: hartarse, el dolor, tocar fondo o las pequeñas victorias|§4.2]], §39.6
+- **limitations / creative challenge** — §8.1
+- **lines, levels, altitudes** — §38.2
+- **lion hunts and rests** — §8.3, §39.6
+- **Little employees** — §16.4
+- **living as your past self** — [[#2.8 El tiempo psicológico|§2.8]]
+- **living at your edge** — §10.5
+- **living yesterday today** — [[#4.3 Las fases del cambio y la identidad como estructura|§4.3]]
+- **location hopping** — §10.6
+- **Lone Wolf mentality** — §26.5
+- **long form / short form promotions** — §32.5
+- **long posts / micro articles** — §24.2
+- **long-term, short-term, immediate** — §12.5
+- **looks come before depth** — §23.2
+- **lore / perspective** — §25.1
+- **Los detonantes: hartarse, el dolor, tocar fondo o las pequeñas victorias** — [[#4.2 Los detonantes: hartarse, el dolor, tocar fondo o las pequeñas victorias|§4.2]]
+- **loser's game** — §29.3
+- **loss of control** — §39.5
+- **lost phase** — §39.6, §39.7
+- **love is connection** — §39.1
+- **low conscious problem** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]], §28.3
+- **low consciousness** — §15.4, §23.6
+- **low entropy / mid entropy / high entropy** — §12.5
+- **low hanging fruit** — §30.3
+- **low level character** — §10.1
+- **low leverage / high leverage distribution** — §25.3
+- **low point** — §7.1
+- **low ticket / high ticket** — §30.1
+- **lower class of the creator economy** — §36.3
+- **lower self / higher self** — [[#4.3 Las fases del cambio y la identidad como estructura|§4.3]], [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]]
+- **Lower State of Consciousness** — [[#2.4 La psique cazadora en un cubículo|§2.4]]
+- **lowest common denominator** — §24.5
+- **luck** — §15.1
+- **luck surface area** — §25.5
+
+### M
+
+- **macro and micro lenses** — §8.1
+- **macro cycle of life (lost, curious, obsessed)** — §39.6
+- **macro cycles / micro cycles / principle of impermanence and entropy** — §39.6
+- **macro game of life / micro games** — §10.1, §10.2
+- **macro states of consciousness / productivity and creativity blocks** — §13.3
+- **macrocosm / microcosm** — §9.4
+- **macronutrients of business** — §28.6
+- **macronutrients of value / micronutrients of value** — §31.1, §31.3
+- **mad scientist** — §7.3, §15.4
+- **magic click** — §26.1
+- **magnet (content as)** — §21.3
+- **magnetic content** — §32.5
+- **magnetic goal ("goals don't start out magnetic")** — §29.2
+- **magnification / aperture** — [[#6.4 Cibernética: la inteligencia como dirección del rumbo|§6.4]]
+- **main character** — [[#1.4 La imitación es inevitable: NPC o main character|§1.4]], [[#4.4 Reprogramación: inmersión en el entorno del yo futuro|§4.4]], §9.3
+- **main lever / secondary lever** — §26.1
+- **maintenance mode** — [[#3.6 La disciplina como rasgo de la identidad; los estándares|§3.6]], §12.3, §12.5, §13.2
+- **make a living from living** — §23.6
+- **make noise and find signal** — §26.3
+- **make sense of a topic or idea** — §16.2
+- **make tangibility tangible** — §23.4
+- **make the impermanent permanent** — §39.3
+- **make your interest interesting** — §22.5, §22.7, §26.2
+- **making friends** — §26.5
+- **making it** — §36.1
+- **making money is a skill** — §15.1
+- **making money to create** — §9.2, §34.2
+- **making sense (mental health)** — [[#2.8 El tiempo psicológico|§2.8]]
+- **manager or the CEO of the agents** — §36.5
+- **manifestation of past choices** — [[#3.1 La identidad como cuerpo mental|§3.1]]
+- **manipulate deadlines / pseudo deadline** — §12.4
+- **manipulation** — §32.1, §32.2
+- **manual / bot / borrowed / owned distribution** — §25.3
+- **manual outreach** — §29.3
+- **manual work up front / wean off** — §29.2
+- **map / territory / candle** — §17.2
+- **map / world / lore** — §22.1
+- **map vs terrain** — §13.2
+- **marble and the sculptor** — [[#4.3 Las fases del cambio y la identidad como estructura|§4.3]]
+- **marching in place** — §37.3
+- **marinate (in the pain) / fed up** — §7.1, §8.6
+- **marinate your mind** — §39.7
+- **market game** — §23.4
+- **market of extremes** — §26.2
+- **market sophistication** — §25.1, §32.3, §36.5
+- **marketing firepower / marketing Legos** — §28.2, §31.3
+- **marketing is perception, value is perception** — §31.2, §31.3
+- **marketing strategy of transformation** — §31.4
+- **Massive resistance** — §15.6
+- **master / strategist** — §20.2
+- **master media or code / code or media** — §21.1
+- **master perception / dopamine dealers** — §31.2
+- **master your survival** — [[#4.7 El level of mind|§4.7]], §28.2
+- **mastermind** — §26.5
+- **mastery and meaning economy** — §36.6
+- **Mastery facility** — §7.1
+- **Mastery Method** — §15.1
+- **mastery over misery** — [[#4.7 El level of mind|§4.7]], §15.6, §18.6
+- **materialism** — §34.5
+- **meaning architects** — §36.6
+- **meaning economy** — §21.2, §36.6
+- **meaning makers / experience economy / humans in the loop** — §36.6
+- **Meaning space** — §16.3
+- **meaningful contrast** — §15.5
+- **meaningful dopamine** — [[#2.4 La psique cazadora en un cubículo|§2.4]], [[#5.2 La entropía psíquica y el estado por defecto del caos|§5.2]], §11.2, §12.3, §39.4, §40.1
+- **meaningful goal** — §7.1, §7.4, §28.2, §28.6, §29.2
+- **meaningful project** — §9.3
+- **meaningful side project / side project / personal project / project** — [[#2.1 El default path|§2.1]], §26.6
+- **measurable personal project** — §28.1
+- **mechanical living** — [[#1.4 La imitación es inevitable: NPC o main character|§1.4]], §7.2, §19.1, §29.2
+- **mechanical work / creative work** — [[#6.2 El foco es atención consciente|§6.2]], §13.1
+- **media and code** — §25.3, §33.4
+- **media business / media company** — §36.2
+- **media vs code / media based products** — §30.3
+- **medium and the message** — §35.5, §38.1
+- **medium form / display competence** — §24.2, §24.3
+- **memes (unit of culture)** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]]
+- **memetic level** — [[#3.4 La ley de la supervivencia conceptual|§3.4]]
+- **mental aesthetics** — §15.7
+- **mental blacksmith** — §18.2
+- **mental body** — [[#2.3 El empleo: la esclavitud moderna y the eternal known|§2.3]], [[#3.1 La identidad como cuerpo mental|§3.1]], [[#3.4 La ley de la supervivencia conceptual|§3.4]], [[#3.6 La disciplina como rasgo de la identidad; los estándares|§3.6]], §15.7
+- **mental bodybuilding** — §15.7
+- **mental construction** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]], [[#1.7 La mente cerrada: la ideología como identidad|§1.7]]
+- **mental currency** — §29.2
+- **mental death / letting your old self die off** — [[#3.2 Las metas componen la identidad|§3.2]], [[#4.1 Todo cambio es un cambio de identidad|§4.1]]
+- **mental disorder (not "a mental disorder")** — [[#5.2 La entropía psíquica y el estado por defecto del caos|§5.2]], §30.2
+- **mental energy expenditure** — §17.2
+- **mental fat** — §13.3, §21.2
+- **mental gym** — §17.1
+- **mental home** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]]
+- **mental housekeeping** — §13.4
+- **mental junk food** — [[#6.5 La meta como lente|§6.5]]
+- **mental Legos** — §18.2
+- **Mental masturbation** — §16.1, §17.2, §17.5
+- **mental metabolism** — §13.1, §15.7
+- **mental monetization** — §9.3, §21.4, §28.6, §33.6, §33.7
+- **mental monopoly** — §23.5, §27.5
+- **Mental muscle** — §15.7
+- **Mental nutrition / partition** — §15.7
+- **mental phone slaves** — §11.3
+- **mental plane (of existence)** — [[#3.4 La ley de la supervivencia conceptual|§3.4]], [[#3.5 El ego no es el enemigo, y el problema con "sé tú mismo"|§3.5]], §36.6
+- **mental programming** — [[#4.4 Reprogramación: inmersión en el entorno del yo futuro|§4.4]]
+- **mental real estate** — §15.7, §21.3
+- **mental rock bottom** — §7.1
+- **mental room** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]]
+- **mental thought loop** — [[#4.7 El level of mind|§4.7]]
+- **mental turmoil** — §39.6
+- **mentally obese** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]], §9.3, §11.4
+- **Mentally overweight / mentally bloated** — §14.5, §15.7
+- **merge art and business** — §28.2
+- **meta business model** — §27.1
+- **meta documents** — §24.1
+- **meta goal** — [[#3.2 Las metas componen la identidad|§3.2]]
+- **meta pattern** — §15.3
+- **meta project** — §9.3, §14.4, §15.4, §27.3
+- **meta prompt** — §16.4, §24.6
+- **meta skill** — §9.4, §15.1, §21.1, §32.1, §35.2, §35.5
+- **meta states of consciousness** — §39.6
+- **meta structure** — §15.4
+- **meta system** — [[#6.4 Cibernética: la inteligencia como dirección del rumbo|§6.4]], §9.3
+- **meta time / doing time** — §37.6
+- **metacrisis** — [[#2.9 Por qué importa despertar|§2.9]]
+- **metagame** — §10.2
+- **metapath** — §30.4
+- **metaphorically impactful** — §23.3
+- **Metaphorically obese / mental fat / bulking and cutting** — §15.7
+- **metatype prompt / knowledge base** — §17.3
+- **micro Creator workflow / three-point content ecosystem** — §29.2, §29.5
+- **micro offer / micro service** — §29.2, §29.5
+- **micro product** — §32.6
+- **micro SaaS** — §33.5
+- **micro skill stack** — §29.5, §35.5
+- **micro story** — §23.6
+- **micro-fraction** — §21.3
+- **micronutrients** — §28.6, §31.3, §32.3
+- **microvisions** — §8.3
+- **midlist** — §25.5
+- **mimetic creatures** — [[#2.6 Del paradigma industrial a la era de la información|§2.6]]
+- **mimetic desire amplification machine** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]]
+- **mind / body / spirit / vocation (four quadrants)** — §38.4
+- **Mind Body Spirit and Business** — §19.4
+- **mind building / learning gym / mental food intake / emotional weight** — §15.7
+- **mind game** — [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]]
+- **mind is the interface** — §16.3
+- **mindful procrastination** — §12.4
+- **mindless action / surface level living** — [[#2.7 La awareness: el sexto sentido que sana|§2.7]], §7.1
+- **mindless autopilot / surface level living** — [[#6.3 Zoom in, zoom out y la Focus Matrix|§6.3]], §40.4
+- **mindless trap of mediocrity, degeneracy and roboticism** — [[#2.6 Del paradigma industrial a la era de la información|§2.6]]
+- **mindlessly manipulating vs mindfully helping** — §32.2
+- **minds harden up** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]]
+- **mindset and awareness gap** — §26.5
+- **minimalism / minimalist workday** — §14.3
+- **minimalist creator** — §24.5
+- **minimum viable everything (product / Vision / project)** — §29.4
+- **minimum viable goal** — §29.2
+- **minimum viable offer** — §9.3, §14.5, §27.2, §29.2, §29.3, §30.2
+- **Minimum viable product (you were born an MVP)** — §15.5
+- **minimum viable vision** — §7.3, §8.1, §29.2
+- **misery doesn't scale** — §26.2
+- **missing dot** — §18.2
+- **missing the point / literal interpretation** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]]
+- **mission** — §8.1
+- **mission as niche** — §27.3
+- **Mistakes are the only source of truth** — §15.5
+- **moat** — §24.6, §27.5
+- **modern career path** — §28.4
+- **modern enslavement** — [[#2.3 El empleo: la esclavitud moderna y the eternal known|§2.3]], [[#2.5 Pirámides de dominio, pirámides de atención y juegos de estatus|§2.5]]
+- **modern hunting** — §22.4
+- **Modern Mastery** — §33.3, §33.7
+- **modern polymath / digital Renaissance Man** — [[#4.6 Protocolos de reinvención y fracasos que se apilan|§4.6]], §20.3
+- **modern power belongs to those who hold the most attention in their lifetime** — §21.3
+- **modern skills** — §35.5
+- **modern slave / mental and financial slavery** — [[#2.3 El empleo: la esclavitud moderna y the eternal known|§2.3]]
+- **molecule of human behavior / behavior molecule** — §11.1, §11.2
+- **momentum / small wins** — §30.5
+- **monetization lever / promotion schedule** — §30.4, §32.5
+- **monetize when you start** — §28.5
+- **monetize your mind (not your time / not your looks)** — §27.4, §30.7, §34.3
+- **money and muscle** — §8.2
+- **money as a tool to express agency** — §34.1
+- **money is a measure of [ __ ] given** — §34.1
+- **money is a measure of trust** — §24.2, §25.4
+- **money is neutral** — §28.2
+- **money or attention** — §21.1, §21.4
+- **money or pain on the line** — §31.4
+- **money problems don't exist, psychological problems do** — §34.2
+- **money programming** — §34.2
+- **Money Twitter** — §25.4
+- **monk mode** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]], §11.4, §33.3
+- **monkey in a cubicle** — [[#2.3 El empleo: la esclavitud moderna y the eternal known|§2.3]], [[#2.4 La psique cazadora en un cubículo|§2.4]], §11.2, §28.3
+- **monkeys copying other monkeys** — §38.3
+- **monthly recurring revenue / velocity** — §33.4
+- **monthly recurring work** — §33.4
+- **moral high ground** — §32.2
+- **morning dreaming** — §12.1
+- **most important tasks** — §8.1, §12.5
+- **Mother Nature** — §26.3
+- **motivating goal** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]]
+- **moving target / learn as you move** — [[#6.4 Cibernética: la inteligencia como dirección del rumbo|§6.4]]
+- **multi-dimensional understanding** — §24.3
+- **multi-dimensional writing / interconnected writing** — §22.5
+- **multi-dimensionally jacked** — §7.1, §38.4, §40.1
+- **multi-directional approach** — §29.3
+- **multi-perspectival understanding** — [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]], §30.4
+- **multiple interests superpower / safe route** — §20.3
+- **multiple whys** — [[#6.3 Zoom in, zoom out y la Focus Matrix|§6.3]]
+- **multiplier / catalyst** — §34.1
+- **museum of structures / 3 by 3 matrix** — §23.1
+- **mutual benefit vs selfish benefit** — §32.1, §32.2
+- **mutually beneficial transaction** — §34.2
+- **MVP (minimum viable product)** — §24.5
+- **my scientific projects** — §15.4
+- **myopic** — §30.4
+- **myopically labeled content creator** — §27.1
+
+### N
+
+- **name the process** — §18.3
+- **narrow focus / open (divergent) focus / present conscious bubble** — [[#6.3 Zoom in, zoom out y la Focus Matrix|§6.3]], §12.4, §13.1
+- **narrow state** — §12.4, §13.4
+- **narrow-minded living / narrow-minded state** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]]
+- **natural generalists / tool builder / mental tools** — §20.2
+- **natural hierarchy** — §15.1, §31.5
+- **natural stupidity** — §35.5
+- **nature as a Creator** — §18.1
+- **Nature's Compass** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]], [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]], §15.5
+- **nature's filter** — §12.5
+- **Nature's tax** — [[#5.1 La entropía, la ley suprema del universo|§5.1]], §6.6
+- **navigation system** — §23.5
+- **NBA of jobs** — §28.4
+- **need for approval** — [[#1.2 El conditioning: la infancia como programación|§1.2]]
+- **negative assumption and expectation / masquerade / web of expectations** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]]
+- **Negative feedback loop** — [[#6.4 Cibernética: la inteligencia como dirección del rumbo|§6.4]], §15.5
+- **nested systems** — [[#3.1 La identidad como cuerpo mental|§3.1]]
+- **network effect** — §19.5, §25.3, §25.4, §26.4, §26.5
+- **neurochemical cocktail** — §8.7, §10.4, §10.5
+- **neutral form of value** — §34.1
+- **new 9-to-5** — [[#2.3 El empleo: la esclavitud moderna y the eternal known|§2.3]], [[#2.4 La psique cazadora en un cubículo|§2.4]], §29.1, §30.1, §30.2
+- **new age positivity movement / negative seed** — §39.3
+- **new client model / hybrid model / evolve your fulfillment** — §12.6
+- **new Digital Society of value creators** — [[#2.6 Del paradigma industrial a la era de la información|§2.6]]
+- **new lens / idea space** — §22.2
+- **new Matrix** — §32.3
+- **new ordered structure** — [[#2.6 Del paradigma industrial a la era de la información|§2.6]]
+- **new party** — §25.5
+- **new rat race / specialized robot** — §30.1
+- **new religion (anti-AI vs pro-AI)** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]]
+- **New Renaissance men** — §20.3, §25.5, §27.1, §36.2
+- **new rich** — §20.3
+- **new school system** — §25.5, §31.5, §36.2
+- **new society** — [[#2.6 Del paradigma industrial a la era de la información|§2.6]], §20.3, §25.5
+- **new tank** — §10.6
+- **New Town Square** — §20.3, §20.4, §25.5, §27.6, §36.2
+- **new why** — §8.7
+- **Newbie gains** — §15.6
+- **newsletter-centric** — §24.3
+- **next level up from an info product** — §33.5
+- **next quest / side quests** — §10.1
+- **next round of heat / leaning into / marinating** — §7.1, §39.2
+- **niche (sentido propio)** — §19.2, §22.1
+- **niche audience of downloaders** — §32.6
+- **niche down** — §19.1, §19.5
+- **niche down smart** — §23.3
+- **niche down with your product** — §19.5
+- **niche in spirit** — §22.5
+- **niche of one** — §19.1, §19.2, §19.4, §27.5, §33.7
+- **nicheless** — §19.2
+- **nine stages of ego development (preconventional, conventional, postconventional)** — §38.3
+- **no marginal cost of replication / build once, sell twice** — §33.4
+- **no self** — §39.7
+- **no soul** — §30.4
+- **no such thing as staying the same / plateau** — [[#5.1 La entropía, la ley suprema del universo|§5.1]]
+- **no-code tools / digital real estate** — §28.4
+- **noble broi** — §34.2
+- **nobody is coming to save you** — §35.2
+- **nodes** — §37.6
+- **non-needy networking** — §26.4, §26.5
+- **non-scientific psychology** — §40.4
+- **nonlinear attention** — §39.2
+- **normal state / bottom of the barrel** — §10.1
+- **Normie nights** — §13.1
+- **North Star** — §7.1, §8.3
+- **not never but not now** — §12.3
+- **notes disguised as ideas** — §29.1
+- **nothing happens then everything happens** — §8.7, §15.6, §37.1
+- **notice the interesting things** — §19.3
+- **noticing the unnoticed** — §18.1
+- **novel emergence** — §39.2
+- **novel hit of dopamine** — §14.1
+- **novel perspective** — §18.3, §32.1
+- **NPC** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]], [[#1.2 El conditioning: la infancia como programación|§1.2]], [[#1.4 La imitación es inevitable: NPC o main character|§1.4]], [[#1.6 Vivir en autopilot|§1.6]], [[#2.3 El empleo: la esclavitud moderna y the eternal known|§2.3]]
+- **number one lever** — §25.2
+- **nurture lever** — §24.4
+
+### O
+
+- **observer over a consumer** — §33.3
+- **obsession / rabbit hole** — §10.4, §10.5, §14.2, §16.2, §39.7
+- **obsession is a feature** — §19.6
+- **obsessive cycles** — [[#4.6 Protocolos de reinvención y fracasos que se apilan|§4.6]]
+- **off platform (audience)** — §24.4
+- **offer / AdSense / iterate until it sells** — §33.6
+- **offer and traffic / shoot your shot** — §28.5
+- **offer blueprint** — §16.4
+- **offer creation / service funnel** — §29.3
+- **offer introduction** — §32.6
+- **offer ladder** — §22.7
+- **offer stack** — §28.4, §29.1, §29.2, §30.6, §33.7
+- **offer-driven content** — §19.5
+- **offline it's growth, online it's business** — §28.2
+- **old economy / new economy** — [[#2.2 La escuela: la educación de esclavos y la verdadera educación|§2.2]]
+- **old identity** — [[#3.4 La ley de la supervivencia conceptual|§3.4]], [[#4.4 Reprogramación: inmersión en el entorno del yo futuro|§4.4]]
+- **old leverage / new leverage** — §25.3
+- **One book** — §16.2
+- **one leverage task** — §14.3
+- **one marshmallow thinking** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]]
+- **one meaningful project, one hour of focused work, one day at a time, without waiver** — §9.3
+- **one meditation** — §40.4
+- **one million dollar skill stack** — §35.5
+- **one Mission** — §19.6
+- **one organism** — §24.2
+- **one person business roadmap / stages** — §30.2
+- **one person businesses collaborating** — §35.1
+- **one project for the week / central project** — §24.3
+- **one project, one book, one meditation, one workout** — §11.4
+- **one reader → one million** — §26.6
+- **one singular yet evolving vision** — §13.1
+- **one song** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]], §40.5
+- **one step behind** — §21.3, §26.2, §27.3, §29.2
+- **one true path** — [[#1.2 El conditioning: la infancia como programación|§1.2]], [[#2.2 La escuela: la educación de esclavos y la verdadera educación|§2.2]]
+- **one validated thing 1,000 ways** — §32.3, §32.5
+- **one-dimensional / reductionistic / tribal** — §17.1
+- **one-man business / no-code business** — §28.4
+- **one-person business** — §9.4, §19.2, §21.3, §28.4, §29.1, §37.1, §37.2
+- **one-person business philosophy** — §19.4, §28.2
+- **one-person creator business** — §27.1, §30.2
+- **one-person media company** — §18.4, §24.3, §25.2, §25.5, §30.1
+- **one-person writing business** — §30.7
+- **one-trick pony** — §20.1
+- **online character / virtual reality character / character in virtual reality** — §25.5, §27.1
+- **open loops** — [[#6.1 La atención es la RAM|§6.1]], §13.2
+- **open schedules** — §34.4
+- **open the aperture / blank sheet exercise** — §35.3
+- **open-mindedness for awareness / deep generalist** — §17.1
+- **operating system for reality** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]], [[#4.4 Reprogramación: inmersión en el entorno del yo futuro|§4.4]], §14.1
+- **opinion on what good looks like** — §19.3
+- **opinionated creative work** — §36.5
+- **opportunity paralysis** — §35.3
+- **Opportunity surface area** — §15.2
+- **optimal** — §13.2
+- **optimize for creativity not productivity** — §12.1
+- **orchestrating** — §9.4, §16.4, §36.4
+- **Ordenar la consciencia** — [[#5.3 Ordenar la consciencia|§5.3]]
+- **order consciousness** — [[#5.1 La entropía, la ley suprema del universo|§5.1]], [[#5.3 Ordenar la consciencia|§5.3]]
+- **order consciousness in others** — [[#5.3 Ordenar la consciencia|§5.3]]
+- **order in consciousness** — [[#5.3 Ordenar la consciencia|§5.3]]
+- **order is balanced with chaos** — §13.4
+- **order of operations** — §17.4
+- **order stems from chaos / clarity stems from chaos** — §39.3
+- **ordered information** — §29.4
+- **organic content / syntropic content** — §11.3
+- **organized thinking** — §21.2
+- **orienting generalizations** — §38.2
+- **origin story** — [[#4.6 Protocolos de reinvención y fracasos que se apilan|§4.6]], §7.1
+- **original perspectives** — [[#3.3 La identidad como filtro: perspectiva y percepción|§3.3]]
+- **original thought** — [[#1.2 El conditioning: la infancia como programación|§1.2]]
+- **other development** — §34.1
+- **other people's audiences** — §26.4
+- **our Lord and savior the algorithm** — §26.4
+- **outlier content / outlier tool** — §22.4, §37.2
+- **outsource quality of life** — [[#2.6 Del paradigma industrial a la era de la información|§2.6]]
+- **outsourced mental health** — §11.3
+- **over-socialization** — [[#1.2 El conditioning: la infancia como programación|§1.2]]
+- **overarching integral identity / generalist in perspective** — [[#3.3 La identidad como filtro: perspectiva y percepción|§3.3]]
+- **overarching narrative** — §23.2
+- **overcoming resistance / connection to something greater** — §39.1
+- **overspecialization** — §20.1, §20.2
+- **own enterprise** — §28.4
+- **own little world / disappear** — §11.4
+- **own media company** — §27.1, §28.6
+- **own the IP / third party vendors** — §37.4
+- **owned distribution / owned audience** — §24.4, §25.2, §25.6
+- **ownership** — [[#6.2 El foco es atención consciente|§6.2]]
+- **ownership mindset** — §35.1
+- **owning their own nodes** — §37.6
+
+### P
+
+- **packaging / contents** — §23.2, §24.1
+- **paid growth** — §26.4
+- **paid in the learning insights** — §30.1
+- **pain and gain story** — [[#4.2 Los detonantes: hartarse, el dolor, tocar fondo o las pequeñas victorias|§4.2]]
+- **pain and process** — §17.4, §23.1
+- **pain gutters / in the trenches** — §19.3
+- **pain of identity change / ideal mental physique** — [[#4.3 Las fases del cambio y la identidad como estructura|§4.3]]
+- **pain vs suffering / second layer** — §39.2
+- **pains and benefits** — §23.2, §23.3
+- **paint between the lines** — §23.1
+- **palatable milestones / busy work** — §8.1
+- **paradigm lock** — [[#3.3 La identidad como filtro: perspectiva y percepción|§3.3]]
+- **Paradox of personal development** — [[#4.3 Las fases del cambio y la identidad como estructura|§4.3]]
+- **Parkinson's law for goals** — §7.5
+- **partial thinking** — §17.1
+- **parts vs wholes** — [[#6.4 Cibernética: la inteligencia como dirección del rumbo|§6.4]]
+- **PAS (problem, amplify, solution)** — §17.4
+- **pass along your obsession** — [[#1.6 Vivir en autopilot|§1.6]]
+- **passion** — §8.7
+- **passion project** — §37.1
+- **past self / steps ahead** — §19.3, §33.2
+- **patch the game** — [[#2.5 Pirámides de dominio, pirámides de atención y juegos de estatus|§2.5]], [[#2.6 Del paradigma industrial a la era de la información|§2.6]]
+- **path of high agency** — §25.5
+- **path of least risk / comfort loop** — [[#2.6 Del paradigma industrial a la era de la información|§2.6]]
+- **path of mastery** — [[#5.2 La entropía psíquica y el estado por defecto del caos|§5.2]], §8.1, §15.6, §20.2
+- **path of uncertainty** — [[#2.3 El empleo: la esclavitud moderna y the eternal known|§2.3]]
+- **pathological postmodernism / value ranking** — [[#2.6 Del paradigma industrial a la era de la información|§2.6]]
+- **pattern interrupt** — §23.3
+- **pattern recognition** — [[#3.2 Las metas componen la identidad|§3.2]], [[#6.5 La meta como lente|§6.5]], §7.1, §8.1, §9.3, §13.3, §15.2, §15.4, §16.1, §21.2, §39.6
+- **pay to play / paying for shares** — §26.4
+- **peace and progress** — §39.4
+- **peak experiences / lowest peaks** — §40.1
+- **people company** — §37.3
+- **people don't follow information, they follow perspectives** — §18.3
+- **people follow people** — §25.4
+- **per follower per month** — §30.6
+- **perception goes two ways** — §26.5
+- **perception threshold** — [[#4.3 Las fases del cambio y la identidad como estructura|§4.3]], [[#4.7 El level of mind|§4.7]]
+- **performance and excitement** — §22.4
+- **performance vs vanity** — §8.1, §8.4
+- **Performative act (reading as)** — §16.2
+- **periods of obsession and intensity** — §12.4
+- **peripersonal / extrapersonal space** — §39.4
+- **permission to suck** — §29.4
+- **permissionless** — §26.3
+- **permissionless apprenticeship** — §14.5
+- **permissionless launchpad** — §25.3
+- **permissionless leverage** — §9.4, §25.3
+- **perpetual vacation** — §13.1
+- **perplexity / curiosity / intensity (phases)** — §39.6
+- **persistence** — §30.5
+- **persistence game / observation game** — §37.3
+- **persistency / persistent focused action / persist and iterate** — §30.5
+- **persistent effort toward a goal** — [[#3.6 La disciplina como rasgo de la identidad; los estándares|§3.6]]
+- **persistent principles** — §35.5
+- **personal brand** — §27.1
+- **personal context** — §17.3
+- **personal Distribution Center** — §25.2
+- **personal evolution / collective evolution** — §9.4
+- **personal evolution loop** — [[#4.3 Las fases del cambio y la identidad como estructura|§4.3]]
+- **personal growth equals business growth** — §15.7, §28.1
+- **personal monopoly** — §20.1, §27.5, §33.3
+- **personal project** — §9.3
+- **personal projects into products** — §29.4
+- **personal sovereignty** — §39.5
+- **personal system** — §33.5
+- **personal system digital product** — §30.7
+- **personal system product** — §33.5
+- **perspective** — [[#3.3 La identidad como filtro: perspectiva y percepción|§3.3]]
+- **perspective / energy signature / sensemaking / trajectory / evolving taste** — §18.5
+- **perspective / perception** — [[#3.1 La identidad como cuerpo mental|§3.1]], [[#3.3 La identidad como filtro: perspectiva y percepción|§3.3]], [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]]
+- **perspective ladder (current perspective, perspective of your ideal self, perspective of the universe)** — [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]]
+- **perspective on information / novel perspective** — §25.4
+- **perspective vessel** — [[#3.3 La identidad como filtro: perspectiva y percepción|§3.3]], [[#6.3 Zoom in, zoom out y la Focus Matrix|§6.3]], §9.2
+- **persuading reality** — §7.2
+- **persuasion** — §32.1, §32.2
+- **persuasion 101** — §17.4
+- **persuasive arguments** — §22.7
+- **persuasive communication** — §32.1
+- **persuasive education** — §14.5
+- **philosopher builder** — §25.3
+- **philosophical pursuit of mastery** — §39.4
+- **philosophical to the tangible divide** — §23.4
+- **philosophy of building** — §9.3, §14.4
+- **phone-less walks / clear time / quasi work and quasi play** — §40.2
+- **photographer's eye** — §21.2
+- **pieces of your map / the map / zip file** — §33.1
+- **pigeonholed** — §30.4
+- **pigsty of a mind / disgusting nest of filth** — [[#5.1 La entropía, la ley suprema del universo|§5.1]], [[#5.2 La entropía psíquica y el estado por defecto del caos|§5.2]]
+- **Pirámides de dominio, pirámides de atención y juegos de estatus** — [[#2.5 Pirámides de dominio, pirámides de atención y juegos de estatus|§2.5]]
+- **place of abundance / depleted state** — §11.4
+- **plan / evolving blueprint / surface area for luck** — §8.3
+- **plan by proximity** — §15.3
+- **planting a flag** — §27.2
+- **planting a seed** — §7.2
+- **plateau (job plateau)** — [[#2.3 El empleo: la esclavitud moderna y the eternal known|§2.3]]
+- **platform monetization / imaginary follower count** — §33.6
+- **play** — §40.4
+- **playing rather than being played** — §10.1
+- **plumber for a business** — §30.2
+- **pluralist / fourth person perspective** — §38.3
+- **pockets of the internet** — §17.2, §25.5
+- **point A / point B** — §8.2, §17.4, §22.1, §22.3, §23.6, §33.5
+- **point of leverage** — [[#4.6 Protocolos de reinvención y fracasos que se apilan|§4.6]]
+- **poking your reader's ego** — §23.3
+- **polar end of a problem** — §8.2, §17.4
+- **polarity** — §13.1, §39.3, §39.4, §40.4
+- **Pop Quiz / All Hands** — §37.6
+- **Por qué importa despertar** — [[#2.9 Por qué importa despertar|§2.9]]
+- **portal** — §9.1
+- **portfolio of failures** — §9.3, §15.5, §21.4
+- **positioning** — §31.2, §31.3, §32.5
+- **positive aim** — §6.6, §28.5
+- **positive behavior change (at scale)** — §28.5, §30.3, §31.5
+- **positive fear mechanism** — §7.1
+- **positive identity** — [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]]
+- **positive mind virus / contagious idea** — §18.3
+- **post-AI / post-labor skill stack (skill hierarchy)** — §35.5
+- **post-labor economics** — §36.6
+- **post-mortem / minimum viable vision (MVV)** — §7.3
+- **potential (125 billion bits)** — [[#6.1 La atención es la RAM|§6.1]], §10.5
+- **potential for failure** — §36.6
+- **potential paths** — §8.2
+- **power games / virtue signal** — §31.1
+- **Power Planner** — §26.6, §33.3, §33.7
+- **powerful ideas** — §15.3
+- **PPP framework** — §23.2
+- **pre-rational / rational / post-rational / trans-rational** — §17.1
+- **pre/trans fallacy** — §17.1
+- **preconventional / conventional / postconventional** — §38.3
+- **premature transcendence** — §39.4
+- **premortem** — §17.6
+- **preparative research** — §16.3
+- **prescriptions** — §12.7
+- **preseason / stored energy / maintenance** — §40.1
+- **presell / release date** — §24.5
+- **presence of the customer** — §19.3
+- **presence vs flow** — §39.4
+- **present moment difficulty / Vortex of anxiety** — [[#4.7 El level of mind|§4.7]]
+- **present purpose** — §28.2
+- **preset future** — [[#2.1 El default path|§2.1]]
+- **prestige of specialization** — §20.1
+- **primary input source** — §11.4
+- **prime your mind** — §16.2
+- **primordial pull** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]]
+- **principle of all principles / everything is a skill** — §17.6
+- **principles are timeless, tactics are with the times** — §15.3
+- **principles vs methods** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]]
+- **prioritize, remove and restructure** — §13.4
+- **priority interest** — §22.3
+- **priority ladder** — §12.3
+- **priority tasks / auxiliary tasks** — §8.1, §12.4, §21.1
+- **problem (sentido propio)** — §12.1
+- **problem is the inception of gold** — §17.4
+- **problem solver (problem, problem, problem)** — §17.4
+- **problem that begets that problem / zero to one** — §7.4
+- **problem, insight, solution** — §24.1
+- **problem, solution, clarity, people** — §34.1
+- **problems are infinite** — §8.6
+- **problems as projects** — [[#3.6 La disciplina como rasgo de la identidad; los estándares|§3.6]]
+- **processed content** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]]
+- **Procrastination disguised as productivity** — §14.3
+- **procrastinator's edge / "you aren't productive because you aren't public"** — §12.4
+- **product and people** — §28.5
+- **product market fit** — §37.2, §37.3
+- **product of your environment / robotic living** — §11.3
+- **productive robot / dense cloud of responsibilities** — [[#2.3 El empleo: la esclavitud moderna y the eternal known|§2.3]]
+- **productivity (definición)** — §12.1
+- **productivity as a priority** — §20.1
+- **productivity is like fitness** — §12.1
+- **productivity mode / creativity mode** — §13.1
+- **productize yourself** — §26.6, §28.5, §30.1, §33.7, §37.1
+- **productizing a company** — §37.5
+- **products with no marginal cost of replication** — §25.3
+- **profit off your purpose** — §28.1, §28.2
+- **program your mind** — [[#6.5 La meta como lente|§6.5]], §11.3, §14.1
+- **programmed beliefs** — [[#1.2 El conditioning: la infancia como programación|§1.2]], [[#1.7 La mente cerrada: la ideología como identidad|§1.7]]
+- **programmed responses / NPCs** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]]
+- **programmed to be replaced** — §20.1
+- **progress curve / baseline** — §39.6
+- **progress demands sacrifice / creation demands destruction** — §10.6
+- **progress tension** — §38.2
+- **progress-induced happiness** — §39.6
+- **progressive overload** — §9.1, §15.2, §15.4, §30.5
+- **progressive overload of responsibility** — §7.1
+- **progressive overload of uncertainty and emotional labor** — §8.3
+- **project** — §9.3, §17.6
+- **project outside of (your) reality** — [[#2.8 El tiempo psicológico|§2.8]], §40.3
+- **Project-based learning** — §14.3, §14.4
+- **projectize yourself then productize yourself** — §9.3
+- **projector / film** — [[#3.3 La identidad como filtro: perspectiva y percepción|§3.3]]
+- **promote yourself / fear of selling** — §32.5
+- **promotion schedule** — §19.5
+- **promotions** — §32.5
+- **promotions are why** — §23.5
+- **Prompt engineering** — §16.4
+- **prompt library** — §16.4
+- **proof / social proof** — §31.3
+- **proper rest** — §13.1
+- **properties of the self** — [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]]
+- **property of the system** — [[#2.2 La escuela: la educación de esclavos y la verdadera educación|§2.2]]
+- **property rights / investment rights** — §34.3
+- **protective routines** — §39.7
+- **protégé effect** — §14.5
+- **Protocolos de reinvención y fracasos que se apilan** — [[#4.6 Protocolos de reinvención y fracasos que se apilan|§4.6]]
+- **prototype** — §24.6, §29.4
+- **Prussian education model** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]], [[#2.2 La escuela: la educación de esclavos y la verdadera educación|§2.2]]
+- **psychic body** — [[#3.1 La identidad como cuerpo mental|§3.1]], [[#3.4 La ley de la supervivencia conceptual|§3.4]], §15.7
+- **psychic entropy** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]], [[#5.1 La entropía, la ley suprema del universo|§5.1]], [[#5.2 La entropía psíquica y el estado por defecto del caos|§5.2]], [[#5.5 Gestionar la entropía|§5.5]], [[#6.1 La atención es la RAM|§6.1]], §11.4, §13.4, §30.2, §38.1
+- **psychic muscle** — §39.2
+- **psychic negentropy** — [[#5.3 Ordenar la consciencia|§5.3]]
+- **psychological excavation** — [[#3.2 Las metas componen la identidad|§3.2]]
+- **psychological insecurity** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]]
+- **psychological markers** — [[#2.3 El empleo: la esclavitud moderna y the eternal known|§2.3]]
+- **psychological recovery** — §13.2
+- **psychological rock bottom** — [[#4.2 Los detonantes: hartarse, el dolor, tocar fondo o las pequeñas victorias|§4.2]]
+- **psychological survival / non-physical identity** — [[#3.4 La ley de la supervivencia conceptual|§3.4]], [[#4.4 Reprogramación: inmersión en el entorno del yo futuro|§4.4]]
+- **psychological time** — [[#2.8 El tiempo psicológico|§2.8]]
+- **psychology of employment** — [[#2.3 El empleo: la esclavitud moderna y the eternal known|§2.3]]
+- **public deadlines / pre-sale** — §12.4
+- **public experimentation** — §21.4
+- **public forcing function / trusted curator** — §14.5
+- **public journal** — §14.5, §16.3, §21.4
+- **public market** — §26.2, §28.5
+- **public personal projects** — §9.3
+- **public resume** — §10.1, §14.5, §27.1, §28.6, §29.2
+- **public school** — §10.1, §19.3, §25.5, §27.1, §36.2
+- **pull energy into the now / experience is energy** — §8.3
+- **puncture (in our system / frame of reference)** — [[#5.2 La entropía psíquica y el estado por defecto del caos|§5.2]]
+- **puncture the known** — §10.2, §10.5
+- **puppet master** — [[#3.1 La identidad como cuerpo mental|§3.1]]
+- **puppet to society / puppet of someone else's ideals** — [[#1.4 La imitación es inevitable: NPC o main character|§1.4]], [[#2.1 El default path|§2.1]]
+- **pure focus** — §10.6, §15.1, §15.2
+- **pure progress** — §39.6
+- **purpose** — §8.6
+- **purpose crisis** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]]
+- **purpose filter** — [[#5.2 La entropía psíquica y el estado por defecto del caos|§5.2]]
+- **purpose is your brand, path is your product, priorities are your content** — §27.3
+- **purpose, path, priority** — [[#5.2 La entropía psíquica y el estado por defecto del caos|§5.2]], §8.2
+- **purpose-oriented project** — §28.2
+- **pyramid principle / meta framework / meta documents** — §23.1
+- **pyramid scheme (society)** — [[#2.5 Pirámides de dominio, pirámides de atención y juegos de estatus|§2.5]]
+- **pyramid scheme of attention** — [[#2.5 Pirámides de dominio, pirámides de atención y juegos de estatus|§2.5]]
+
+### Q
+
+- **qualifies the reader** — §17.4
+- **qualifying questionnaire** — §32.5
+- **quality of working hours** — [[#6.2 El foco es atención consciente|§6.2]]
+- **quantify (tasks)** — §8.1
+- **quarterly reflection / 12-week blocks** — [[#5.5 Gestionar la entropía|§5.5]]
+- **quest** — §8.1, §10.3, §14.4, §23.5
+- **questioning is thinking** — §17.3
+- **questions horizontally and vertically** — §14.2
+- **quick fix / the longest path** — §30.4
+- **quick fix mindset** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]], [[#4.3 Las fases del cambio y la identidad como estructura|§4.3]]
+- **quick fix products** — §32.3
+
+### R
+
+- **Rabbit hole of discovery** — §8.7
+- **race to the top** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]]
+- **radical acceptance** — §39.2
+- **radical open-mindedness** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]]
+- **raise the collective consciousness** — §34.2, §40.6
+- **raised to be afraid** — [[#2.2 La escuela: la educación de esclavos y la verdadera educación|§2.2]]
+- **raising the bar / baseline** — §36.3
+- **range / single threaded** — §37.5
+- **Rapid building** — §14.3
+- **rat race** — [[#1.2 El conditioning: la infancia como programación|§1.2]]
+- **raw material (for your life's work)** — §22.2
+- **read, write, build** — §13.3
+- **readers** — §25.4
+- **reading companion / reading partner** — §16.2
+- **real-time landing page** — §21.1
+- **reality is decentralizing** — [[#2.2 La escuela: la educación de esclavos y la verdadera educación|§2.2]]
+- **reality mapping** — §13.3
+- **realm of possibility** — §17.1
+- **recognition** — §39.2
+- **recommendation mechanism** — §26.3
+- **reconditioning** — [[#3.5 El ego no es el enemigo, y el problema con "sé tú mismo"|§3.5]]
+- **red pill / blue pill** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]]
+- **reduce input fast / intermittent fasting for your mind** — §11.4
+- **referrals / flywheel** — §37.5
+- **refinement and purification** — §7.4, §15.5
+- **register in their awareness** — §17.1
+- **regression** — §38.1, §38.2, §38.5
+- **reject the average life** — §7.1
+- **relationship with money** — [[#2.1 El default path|§2.1]], §29.3
+- **release and constrain entropy** — §12.5, §13.3
+- **releasing concepts** — [[#3.4 La ley de la supervivencia conceptual|§3.4]]
+- **relief vs cure** — [[#4.2 Los detonantes: hartarse, el dolor, tocar fondo o las pequeñas victorias|§4.2]]
+- **religion of doing the thing** — §11.5, §14.3
+- **reminded with something new** — §22.5
+- **remixing / steal the traffic** — §26.4
+- **remove friction (AI)** — §24.6
+- **remove the obstruction** — [[#2.8 El tiempo psicológico|§2.8]], §39.3
+- **renting others' audiences** — §25.3
+- **repeat the same 6 months** — §40.1
+- **repeatable weekly process** — §32.5
+- **repetitive beings / grooves** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]]
+- **replaceable unit of society** — [[#2.1 El default path|§2.1]]
+- **replicable system / replicable process** — §28.2, §28.6
+- **replication / reproduction of who you are** — [[#3.4 La ley de la supervivencia conceptual|§3.4]]
+- **reply like a madman** — §26.4
+- **reproduce on a spiritual level** — §40.6
+- **reprogram the unconscious** — [[#4.4 Reprogramación: inmersión en el entorno del yo futuro|§4.4]]
+- **reprogram your mind** — [[#4.4 Reprogramación: inmersión en el entorno del yo futuro|§4.4]], [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]]
+- **Reprogramación: inmersión en el entorno del yo futuro** — [[#4.4 Reprogramación: inmersión en el entorno del yo futuro|§4.4]]
+- **reputation authority** — §23.4
+- **research of 100 (to create a content of 1)** — §18.3
+- **Researcher and a vessel** — §16.1
+- **researcher, not a consumer** — §16.1, §23.1, §23.2
+- **reset period** — §26.3
+- **reset your days** — §13.4
+- **residual conditioning** — [[#1.2 El conditioning: la infancia como programación|§1.2]]
+- **residue** — [[#4.6 Protocolos de reinvención y fracasos que se apilan|§4.6]]
+- **responsibility muscle** — §39.2
+- **responsible life / buffer period / multi-dimensionally jacked / rocket fuel for deep work** — §8.4
+- **rest / quality rest** — §13.1
+- **results oriented skills** — §21.1, §35.5
+- **Retention chain (error signal, filter, relevance, retention)** — [[#6.4 Cibernética: la inteligencia como dirección del rumbo|§6.4]]
+- **reticular activating system** — [[#6.5 La meta como lente|§6.5]]
+- **Reverse engineer** — §15.2
+- **reverse engineer enthusiasm** — §12.5
+- **reverse entropy** — §6.6, §13.4, §31.1, §35.2
+- **reverse progress** — §15.4
+- **review, reflection, and prediction** — §13.4
+- **rich yet miserable** — §34.5
+- **riffing** — §18.6
+- **right place, right time, right person** — §28.5
+- **right vessel** — §12.6, §14.3
+- **rip the Band-Aid off** — §10.3, §11.4
+- **ripple effect** — §34.2
+- **risk reversal** — §31.3
+- **robotic behavior** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]]
+- **robotic living** — [[#2.8 El tiempo psicológico|§2.8]], §15.5
+- **robotic species** — [[#1.6 Vivir en autopilot|§1.6]]
+- **rock bottom** — [[#4.2 Los detonantes: hartarse, el dolor, tocar fondo o las pequeñas victorias|§4.2]]
+- **rogue thought** — [[#6.2 El foco es atención consciente|§6.2]], §10.5, §12.3
+- **root cause / inner work** — §31.4
+- **root control** — [[#6.2 El foco es atención consciente|§6.2]]
+- **rotation of information** — [[#6.5 La meta como lente|§6.5]]
+- **routine (set of practical goals that orders the mind) / routine of not having a routine** — §13.2
+- **rules** — [[#6.3 Zoom in, zoom out y la Focus Matrix|§6.3]], §10.2
+- **rules of the game** — [[#2.5 Pirámides de dominio, pirámides de atención y juegos de estatus|§2.5]]
+- **running note** — §7.1, §7.3
+
+### S
+
+- **sabbatical** — §11.4
+- **sales** — §32.2
+- **sales equals survival** — §32.2
+- **sales is storytelling** — §23.5
+- **salience network** — §11.1
+- **sandwalk** — §13.1
+- **saturated market** — §14.3
+- **saturation (does not exist)** — §27.6
+- **save an idea / process my inbox skills** — §16.3
+- **say one thing a thousand different ways** — §22.5
+- **scale / mind sync / context** — §37.6
+- **scam** — §23.5, §32.6, §34.1
+- **scarcity (brand)** — §26.3
+- **scarcity (pricing)** — §33.4
+- **scarcity of meaning** — §36.6
+- **science project** — §15.4
+- **scientists of their own lives** — §35.1
+- **scroll as a researcher, not a consumer** — §15.2, §22.4
+- **scroll stopper / validator / hook line** — §23.2
+- **Search engine for your memories** — §16.3
+- **search engine with a face on it** — §22.6
+- **season of experimentation** — §39.6
+- **season of feeling lost** — §39.6
+- **season of intensity** — §10.3, §10.6, §14.3, §39.6
+- **season of internal struggle** — [[#4.7 El level of mind|§4.7]]
+- **season of pure progress** — §28.1
+- **seasons** — §37.1, §39.6
+- **second 9 to 5** — §12.5, §12.6, §30.1, §34.3
+- **Second brain** — §16.3
+- **second Golden Age** — §20.3
+- **second renaissance** — §20.2, §20.3, §35.5
+- **Second subconscious** — §16.3
+- **secure career systems** — §35.3
+- **seed your mind** — §14.2
+- **seeding connections** — §26.5
+- **selective skepticism** — §17.1
+- **self educators / rare path** — §14.1
+- **self-actualization (massive niche)** — §19.4, §29.1
+- **self-actualize and transcend** — §40.6
+- **self-actualize vs self-sabotage** — [[#5.1 La entropía, la ley suprema del universo|§5.1]]
+- **self-actualize, self-monetize, self-transcend** — §28.1
+- **self-awareness all the way down** — [[#2.7 La awareness: el sexto sentido que sana|§2.7]]
+- **self-awareness is the biggest business hack** — §19.6, §29.4
+- **self-consciousness / self-centeredness** — §10.5
+- **self-corrective compass** — §7.4
+- **self-deception machine** — [[#3.4 La ley de la supervivencia conceptual|§3.4]]
+- **self-directed career** — §13.1
+- **self-education** — [[#2.1 El default path|§2.1]], [[#2.2 La escuela: la educación de esclavos y la verdadera educación|§2.2]], §14.1
+- **self-experimentation** — [[#4.6 Protocolos de reinvención y fracasos que se apilan|§4.6]], §15.4
+- **self-generated goals** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]], §6.6, §8.7, §9.3
+- **self-governance** — [[#3.4 La ley de la supervivencia conceptual|§3.4]]
+- **self-improvement in disguise** — §22.1
+- **self-limiting identity / agency** — §20.1
+- **self-limiting identity belief** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]]
+- **self-made lifestyle** — §12.3
+- **self-monetization** — §28.6
+- **self-qualify / frame the situation** — §17.4
+- **self-reflective consciousness** — [[#3.1 La identidad como cuerpo mental|§3.1]], §16.1, §36.4
+- **self-reliance** — §35.2
+- **self-reliant career path / personal distribution center / meta project** — §28.4
+- **self-sufficient Utopia** — §36.2
+- **selfish perspective** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]]
+- **selflessness requires selfish values** — §9.1
+- **sell the lifestyle** — §17.4
+- **sell the technique, not the skill** — §28.5
+- **sell their time / ownership** — §34.3
+- **sell to the rich** — §19.3
+- **sell to yourself / innately valuable** — §19.3
+- **sell what's already selling** — §26.3, §31.5, §33.3
+- **selling framework** — §17.4
+- **selling purpose** — §8.2
+- **selling to yourself (pillar 4)** — §32.5
+- **sellout / selling out** — §32.2, §33.6
+- **semi viral** — §27.6
+- **sense and nonsense** — [[#3.3 La identidad como filtro: perspectiva y percepción|§3.3]]
+- **sense makers** — §18.6
+- **sense of mastery** — §11.2, §39.4
+- **sense-making machine** — §23.5
+- **series of actions** — §15.1
+- **series of necessary mistakes** — §15.5
+- **service before product** — §29.3
+- **setting the table / table stakes / peek behind the curtain** — §17.4
+- **settlements / settle** — [[#4.4 Reprogramación: inmersión en el entorno del yo futuro|§4.4]]
+- **seven digital career paths** — §29.1
+- **Seven Liberal Arts of the modern world / liberating arts** — §14.1
+- **Shadow / integrate your Shadow** — §32.2
+- **shallow and selfish problems / "kism"** — §9.1
+- **shallow thinking** — §17.1
+- **shape shifter** — [[#3.3 La identidad como filtro: perspectiva y percepción|§3.3]]
+- **shared perspective** — [[#5.3 Ordenar la consciencia|§5.3]]
+- **shared reality** — §40.3
+- **shared struggle / sitting in the mud** — §40.3
+- **sharpening my sword** — §21.2
+- **shell** — [[#4.3 Las fases del cambio y la identidad como estructura|§4.3]]
+- **shiny object syndrome** — [[#4.6 Protocolos de reinvención y fracasos que se apilan|§4.6]], §14.3, §15.4, §20.2, §26.6, §31.5
+- **Shitty rod** — §14.3
+- **short form / long form** — §24.2
+- **short-term money games** — §32.5
+- **shower thoughts** — [[#5.5 Gestionar la entropía|§5.5]], §13.1
+- **Siempre estás persiguiendo metas: asignadas o autogeneradas** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]]
+- **signal from noise** — [[#5.5 Gestionar la entropía|§5.5]], [[#6.5 La meta como lente|§6.5]], §14.4
+- **signal of opportunity** — §39.7
+- **signal to noise filter** — §18.5
+- **silent observer** — [[#2.7 La awareness: el sexto sentido que sana|§2.7]]
+- **simplifying complex topics** — §18.6
+- **simulated honeymoon phase** — §39.5
+- **single bottleneck** — §12.3
+- **single player / single node / personality driven business** — §37.6
+- **single sentence stories** — §27.3
+- **single skill Commodities** — §14.3, §29.3
+- **singular focus (funnel/cone)** — [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]]
+- **sink or swim phase** — §25.2
+- **situated point of view** — §27.5
+- **six elements of persuasive content** — §32.1
+- **six fundamental types of posts** — §22.2
+- **sixth sense (awareness) / materialist paradigm** — [[#2.7 La awareness: el sexto sentido que sana|§2.7]]
+- **skill cap** — §15.1, §25.3
+- **skill challenge match / flow channel / live at your edge** — §10.5
+- **skill for someone else compared to art for you** — §30.1
+- **skill gatekeepers** — §25.3
+- **Skill is where the mind meets life** — §15.1
+- **skill issue** — §15.1, §28.6
+- **Skill problem / missing piece** — §15.1, §15.6
+- **Skill puzzle / neural pathways** — §15.2
+- **skill stack** — §20.2, §35.5
+- **skill tree** — §10.2, §15.2, §20.2, §40.1
+- **skill, interest and expertise agnostic** — §28.4
+- **skill, leverage and understanding** — [[#6.2 El foco es atención consciente|§6.2]]
+- **skill-based / development-based** — §29.1
+- **SKUs / process in template** — §33.4
+- **slap a compelling name on it** — §27.5, §33.5
+- **slave (metaphorical) / sheep** — [[#2.3 El empleo: la esclavitud moderna y the eternal known|§2.3]]
+- **slave to the algorithm** — §21.3, §26.4
+- **slave to your mind** — [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]]
+- **sleazy salesman** — §34.2
+- **slingshot** — §7.1, §7.3
+- **slop** — §35.5, §36.4
+- **slot machine** — §36.5
+- **slowly then all at once** — §12.7, §15.6
+- **small bets** — §17.6
+- **small-scale Netflix** — §22.4
+- **small-scale software** — §33.5
+- **smart but dumb** — §17.1
+- **smart progression / de-niche** — §30.2
+- **smart social game** — §26.5
+- **Snowball process of skill acquisition** — §15.1
+- **Social Capital** — §25.6, §26.4, §27.4
+- **social conditioning / dopamine-laden entertainment / modern comforts** — §40.1
+- **social fabric** — [[#1.4 La imitación es inevitable: NPC o main character|§1.4]]
+- **social leverage** — §34.1
+- **social machine / old economy** — §36.2
+- **social matrix** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]], [[#1.2 El conditioning: la infancia como programación|§1.2]], §19.1, §30.1
+- **social matrix of goals** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]]
+- **social media audience is leverage** — §12.1, §28.6
+- **social media bubble of comfort** — §27.6
+- **social media is the New Media / decentralized media** — §24.4, §25.2, §28.5
+- **social media posts are the new MVP** — §24.5
+- **social media rat race** — §24.2, §24.4
+- **socialization chamber / socialization makes you stupid** — [[#1.2 El conditioning: la infancia como programación|§1.2]]
+- **societal machine** — §7.1, §7.2
+- **society is rigged against you** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]]
+- **soft idea** — §7.4
+- **soft processes** — §24.1
+- **soft script** — §24.3
+- **software is friction** — §37.3
+- **software running in your head** — [[#4.4 Reprogramación: inmersión en el entorno del yo futuro|§4.4]]
+- **software upgrades / hardware upgrades** — [[#4.4 Reprogramación: inmersión en el entorno del yo futuro|§4.4]]
+- **solar callus** — §40.2
+- **Solopreneur Sprints** — §33.7
+- **solopreneurs** — §28.4
+- **solve your own problems and sell the solution** — §19.2, §28.2
+- **solving (the only thing that solves the problem)** — [[#5.1 La entropía, la ley suprema del universo|§5.1]]
+- **something that sucks more until it sucks less** — §39.2
+- **SOPs (standard operating procedures)** — §33.1
+- **sovereign individuals** — §36.2
+- **sovereign lens** — §34.4
+- **sovereign living** — [[#1.4 La imitación es inevitable: NPC o main character|§1.4]], [[#2.7 La awareness: el sexto sentido que sana|§2.7]]
+- **sovereignty and agency** — §11.4
+- **space for emergence / sense-making / context collapse** — §11.4
+- **span** — §20.2
+- **specialist slave** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]]
+- **specialized generalism** — §20.2, §20.3
+- **specific knowledge** — §14.3, §20.2
+- **specific solutions** — §14.3
+- **specificity for impact** — §19.5
+- **speed** — §37.3
+- **speed aggregation convenience** — §15.3
+- **speed limit / tech hole** — §37.2
+- **speed tunnel / invisible deadline** — §11.4
+- **Speedrun** — §15.2
+- **spiral** — §38.3
+- **Spirit** — §38.1
+- **spiritual energy / the spirituality of money** — §34.1, §34.2
+- **spiritual materialist / spiritual warrior** — §39.4
+- **spiritual war** — [[#2.9 Por qué importa despertar|§2.9]]
+- **spiritual war of beliefs** — [[#3.4 La ley de la supervivencia conceptual|§3.4]]
+- **spiritual war of ideas** — §36.2
+- **spirituality** — §31.1, §40.4
+- **spirituality business / urge to build** — §31.1
+- **spiritually impregnating** — §31.4
+- **split attention / false reality** — [[#5.5 Gestionar la entropía|§5.5]], [[#6.1 La atención es la RAM|§6.1]]
+- **spray and pray / traffic firepower** — §24.2
+- **stack experience / level up** — §12.7
+- **stack gold / unlock new levels** — §10.1
+- **stack whys** — [[#4.1 Todo cambio es un cambio de identidad|§4.1]], §7.2
+- **Stacking ideas** — [[#6.5 La meta como lente|§6.5]]
+- **stacking small wins** — [[#4.2 Los detonantes: hartarse, el dolor, tocar fondo o las pequeñas victorias|§4.2]], §7.2
+- **Stacking techniques / technique stacking** — §14.4, §15.1, §15.2
+- **stage permanence / baseline** — §38.5
+- **stages of Creator development** — §17.1
+- **stages of open-mindedness** — §17.1
+- **stagnation is death** — §39.6
+- **standardization of thought** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]]
+- **standards** — [[#3.6 La disciplina como rasgo de la identidad; los estándares|§3.6]]
+- **Start then learn** — §14.3, §14.4, §14.5
+- **Start with the purpose** — §14.4
+- **starting zone** — [[#1.2 El conditioning: la infancia como programación|§1.2]]
+- **startup idea junkie** — §30.3
+- **starve the old self** — §11.5
+- **starving artist** — §14.5, §21.3, §22.4, §28.1, §29.4, §31.3, §34.1
+- **starving artist phase** — §21.1
+- **starving market** — §19.3
+- **states / stages** — §38.5
+- **states of consciousness** — §38.5
+- **static courses** — §33.5
+- **static identity / victim mindset** — §35.2
+- **static niche** — §19.6
+- **status / creativity / contribution stage** — §9.2
+- **status game** — [[#2.5 Pirámides de dominio, pirámides de atención y juegos de estatus|§2.5]], §12.1
+- **status hat / nobility card** — §9.1
+- **step function** — §37.3
+- **stepping into the arena** — §26.2
+- **stepping stone** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]], [[#2.2 La escuela: la educación de esclavos y la verdadera educación|§2.2]], [[#2.3 El empleo: la esclavitud moderna y the eternal known|§2.3]], [[#2.5 Pirámides de dominio, pirámides de atención y juegos de estatus|§2.5]], §9.2, §30.4, §32.2
+- **stepping stone goal** — §35.1
+- **steroids for business / natural physique** — §15.7
+- **stick your hand in the river that's already flowing / plant your flag** — §26.3
+- **Sticking power** — §15.6
+- **stop the scroll** — §15.3
+- **stop the stopping of the thinking** — §17.1
+- **stored attention** — §17.5
+- **stories are the DNA of societies** — §21.5
+- **story engine** — §23.6, §36.4, §36.6, §39.2
+- **story is structure** — §23.5
+- **storytelling and salesmanship / life is about sales** — §23.5
+- **storytelling engine / interpretive filter / mental filter** — [[#3.1 La identidad como cuerpo mental|§3.1]]
+- **Strategic advisor / discipline coach / study regimen** — §16.4
+- **strategic advisor prompt** — §17.6
+- **strategic dissonance** — [[#4.2 Los detonantes: hartarse, el dolor, tocar fondo o las pequeñas victorias|§4.2]]
+- **strategic intent / macro game** — §17.6
+- **strategic post** — §26.4
+- **strategist** — [[#2.6 Del paradigma industrial a la era de la información|§2.6]], §18.4, §34.3, §38.3
+- **strategized messaging** — §29.3
+- **strategy is positioning, tactics is execution** — §17.6
+- **stress loop** — [[#2.6 Del paradigma industrial a la era de la información|§2.6]]
+- **stress testing** — §29.4
+- **stressful internal environment** — [[#2.8 El tiempo psicológico|§2.8]]
+- **strike gold** — §24.5, §31.4
+- **string of goals** — §8.1
+- **structure problem** — §23.1
+- **structure vs content** — §23.1, §23.5
+- **struggle / curiosity / status (meaning generators)** — §39.2
+- **struggle, not suffering** — §36.6
+- **Struggling point / hit a wall** — §14.3
+- **stuck in the mud** — §37.4
+- **student of getting attention** — §15.3
+- **student-style personal brand** — §21.4
+- **study regimen / study partner** — §16.4
+- **stupid thinking** — §17.1
+- **subjective / relative reality** — [[#3.3 La identidad como filtro: perspectiva y percepción|§3.3]]
+- **success is counterintuitive** — §12.1, §37.1
+- **success is not planned, it is automatic** — [[#3.1 La identidad como cuerpo mental|§3.1]]
+- **success pipeline / show up and iterate** — §26.3
+- **suction system / momentum trick** — §25.6
+- **supercomputer / RAM** — [[#6.1 La atención es la RAM|§6.1]]
+- **Superhuman 90** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]]
+- **superior position** — §17.6
+- **superpowers (AI)** — §27.5
+- **supreme law / nothing is permanent** — §39.3
+- **surface area for luck** — §7.4
+- **surface area of thinking** — §38.2
+- **surface before depth** — §17.4
+- **surface level problem / inner core** — §28.2
+- **surface level trap** — §22.5
+- **survival based problems** — §19.4
+- **survival based simulation** — [[#2.9 Por qué importa despertar|§2.9]]
+- **survival mode** — §30.1, §34.1, §34.2, §39.4
+- **survival needs / growth needs** — [[#2.7 La awareness: el sexto sentido que sana|§2.7]]
+- **survival sponge** — §38.2
+- **survival strategies / survival game** — [[#3.4 La ley de la supervivencia conceptual|§3.4]]
+- **survival tension** — §23.5, §32.4
+- **survival, evolution, transformation** — §31.3
+- **Survive a project** — §14.5
+- **survive on a conceptual level** — §23.3
+- **survive the concept of self** — §14.4
+- **Sustained curiosity plus excitement equals passion** — §8.7
+- **swap test** — §27.5
+- **swipe file** — §16.1, §16.3, §22.4, §23.1, §24.1, §29.5
+- **symbiotic / impulsive / opportunist** — §38.3
+- **sync engine** — §37.2, §37.4
+- **synthesis / unique solution** — §17.4
+- **synthesizer** — §18.4, §20.3, §34.3, §35.5
+- **synthesizer of truth** — §18.4
+- **syntropic (uses of social media)** — §10.1
+- **syntropic content** — §21.2
+- **syntropy** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]]
+- **system** — [[#3.1 La identidad como cuerpo mental|§3.1]], [[#5.1 La entropía, la ley suprema del universo|§5.1]], §6.6, §12.6
+- **system for behavior change / value equals behavior change** — §31.4
+- **system for implementation** — §33.5
+- **System prompt** — §16.4
+- **systems are the new product / systems economy** — §33.5
+- **systems for progress / conscious systems** — §6.6
+- **systems take the shape of the end goal** — [[#2.2 La escuela: la educación de esclavos y la verdadera educación|§2.2]]
+- **systems thinking** — [[#5.1 La entropía, la ley suprema del universo|§5.1]]
+
+### T
+
+- **t-shaped** — §37.5
+- **tactic collection / fake progress / false certainty** — §14.3
+- **tactic level thinking** — §10.6
+- **tactical stress** — [[#6.2 El foco es atención consciente|§6.2]], §10.6, §12.4, §15.3, §15.7, §37.1
+- **talking to a social media feed** — §11.3
+- **tangible product** — §29.3
+- **taper up** — §12.1, §12.2
+- **target creative / creative at heart** — §34.5
+- **target persona / customer avatar** — §8.2, §33.2
+- **task positive network / default mode network (DMN)** — §13.1, §40.2
+- **tasks vs. levers** — [[#6.2 El foco es atención consciente|§6.2]]
+- **taste** — §18.5, §30.7, §36.5
+- **taste filter** — §22.4
+- **taste is the new intelligence** — §18.5, §35.5
+- **teach from the lens you learned it** — §29.4
+- **teach-learn loop** — §14.5
+- **technical know-how** — §35.5, §36.1
+- **technical skills ecosystem / command center** — §32.5
+- **technicians vs creators** — §36.3
+- **technoeconomic base** — [[#2.6 Del paradigma industrial a la era de la información|§2.6]]
+- **teleological** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]], [[#3.2 Las metas componen la identidad|§3.2]]
+- **teleological goals / greater whole** — §40.4
+- **tell a story / make a map / create a game / sell to yourself** — §19.2
+- **tell a story / make a map / enforce a habit** — §31.4
+- **temporal leverage** — [[#3.5 El ego no es el enemigo, y el problema con "sé tú mismo"|§3.5]]
+- **Ten Commandments of Engagement (10 commandments of impactful writing)** — §23.3
+- **tenants** — §15.7
+- **tension** — §39.2
+- **tension and conflict (hook is just tension)** — §23.5
+- **tension created by software** — §19.3
+- **testimonial flywheel** — §31.3
+- **testing ground** — §24.5
+- **testing stage of business / content ladder** — §30.3
+- **textured relationships** — §40.3
+- **the $1 million Creator** — §30.6
+- **the ability to write is your edge** — §21.1
+- **the architect of the business** — §14.3
+- **The Art of Focus** — §37.1
+- **the art of getting what you want** — [[#6.4 Cibernética: la inteligencia como dirección del rumbo|§6.4]]
+- **the axis of your suffering** — §39.2
+- **the click** — §15.1, §26.4, §31.4
+- **the crud of running the back end** — §37.5
+- **the death of the personal brand / cliché personal brand** — §27.7
+- **the delusion of hard work** — §34.3
+- **the digital world has no barriers** — §26.5
+- **the distracted / the curious** — §17.1, §31.5
+- **the dopamine game** — §23.2
+- **the Edge** — §10.5
+- **the entry level is going extinct** — §36.3
+- **the eternal known** — [[#2.3 El empleo: la esclavitud moderna y the eternal known|§2.3]], [[#2.4 La psique cazadora en un cubículo|§2.4]]
+- **The Formula** — §7.2
+- **the future of productivity is creativity** — §18.5
+- **the future of work is play** — §20.4
+- **the game of life / character / player** — §10.1
+- **the Gap** — §11.1, §11.2, §26.2, §30.2
+- **the goal frames your perception** — [[#6.5 La meta como lente|§6.5]]
+- **the goal of staying the same / limbo phase** — [[#3.2 Las metas componen la identidad|§3.2]]
+- **the good life / life coach** — §19.4
+- **the good, the true and the beautiful** — §39.1
+- **the Hub** — §24.4
+- **the idea guy** — §13.1
+- **the idea space** — §21.3
+- **the internet is infinite** — §34.2
+- **the internet is the great attractor** — §25.5
+- **the intersection of purpose and profit** — §21.1
+- **the known** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]], [[#2.3 El empleo: la esclavitud moderna y the eternal known|§2.3]], §39.7
+- **the labor theory of value** — §34.3
+- **the leverage that unlocks other forms of leverage** — §21.1
+- **the liquid takes the shape of its container** — [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]]
+- **the major click / impact causes movement** — §31.4
+- **the masses** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]], [[#2.6 Del paradigma industrial a la era de la información|§2.6]]
+- **the Matrix** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]], [[#1.4 La imitación es inevitable: NPC o main character|§1.4]]
+- **the meat / recap / call to conversation** — §23.2
+- **The Meta perspective / big picture** — §14.3, §15.3
+- **the middle** — §10.5
+- **the molecule of more** — §11.1
+- **the morning habit** — §21.1
+- **the most profitable niche is you** — §19.2, §19.3, §19.6, §27.3, §40.6
+- **the mystical / infinite intelligence** — §40.5
+- **the new rich** — §21.3, §34.4, §36.1
+- **the old paradigm** — §34.3
+- **The Path to Power** — §33.3
+- **the promotions write themselves** — §32.5
+- **the psychology of one person** — §34.1
+- **the pump** — §18.1
+- **the shipyard / mastery facility / physical synthesis** — §37.2
+- **the skill of making money** — §37.1
+- **the software is now your employee** — §29.3
+- **the supreme law of the universe** — [[#5.1 La entropía, la ley suprema del universo|§5.1]], §13.4
+- **the system is rigged** — [[#2.5 Pirámides de dominio, pirámides de atención y juegos de estatus|§2.5]]
+- **the Universe (identity of reality)** — §40.5
+- **the unknown** — [[#4.3 Las fases del cambio y la identidad como estructura|§4.3]], [[#4.7 El level of mind|§4.7]], §39.7
+- **the vessel** — §9.4, §40.1
+- **the void** — [[#5.1 La entropía, la ley suprema del universo|§5.1]]
+- **the why / compelling why** — §22.7
+- **there's already a me out there** — §27.6
+- **things I don't do / things I will do** — §34.4
+- **think beyond the apple** — §40.4
+- **think big, act small / perspective of God** — §40.5
+- **think bigger** — §34.3
+- **think macro, act micro / art of zooming out** — [[#6.3 Zoom in, zoom out y la Focus Matrix|§6.3]]
+- **thinking in a nutshell** — §17.1
+- **thinking in public** — §21.2
+- **third party is paying** — [[#2.2 La escuela: la educación de esclavos y la verdadera educación|§2.2]]
+- **thought bubble / mental bubble** — §39.6, §39.7
+- **thought McNuggets / fortune cookie philosophy** — §38.4
+- **Thought partner** — §16.4
+- **thought vs idea** — [[#6.5 La meta como lente|§6.5]]
+- **three big goals** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]]
+- **three habit morning routine / creative habit** — §13.3
+- **three layers (of power transfer)** — §36.1
+- **three levels of social media content** — §38.4
+- **three narrowers of the mind** — §11.4
+- **three pieces of the pie** — §28.6
+- **three pillars** — §27.3, §28.5, §28.6, §32.5
+- **three pillars (focus, energy, experience) / distraction repellent** — §39.4
+- **three superpowers** — §36.1
+- **three tensions** — §32.4
+- **three to five mentors / congruent voice** — [[#1.4 La imitación es inevitable: NPC o main character|§1.4]]
+- **three-point micro business model** — §24.3
+- **thriving is a team sport** — §34.2
+- **through line** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]]
+- **throw your mind off the deep end** — [[#4.4 Reprogramación: inmersión en el entorno del yo futuro|§4.4]]
+- **ticking time bomb** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]], [[#6.1 La atención es la RAM|§6.1]]
+- **tier one / tier 2** — §38.3
+- **tight knit group** — §40.3
+- **time billionaire** — §40.3
+- **time blocks / 90 minute blocks / 45 minute timers** — §12.4
+- **time is a compression algorithm** — §36.4
+- **time suckers** — §21.1
+- **time to feedback** — §26.2
+- **time to result** — §32.4
+- **time to value / time from the idea to value** — §37.3, §37.5
+- **time under attention** — §19.5, §21.3, §23.4
+- **tiny investment** — §40.3
+- **titrating** — §13.3
+- **Todo cambio es un cambio de identidad** — [[#4.1 Todo cambio es un cambio de identidad|§4.1]]
+- **Todo es información** — [[#5.4 Todo es información|§5.4]]
+- **tolerance and feedback loops** — §35.1
+- **tolerance for complexity** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]]
+- **tool belt** — §29.3
+- **toolbox** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]], §38.3
+- **toolbuilders** — §18.1, §20.1
+- **tools in the toolbox / lenses of perception** — §38.1
+- **tools, not truth** — §31.4
+- **top / middle / bottom of funnel** — §27.2
+- **top 25%** — §20.3
+- **top down** — §24.3
+- **top of funnel** — [[#3.5 El ego no es el enemigo, y el problema con "sé tú mismo"|§3.5]], §19.5, §22.7, §24.2, §25.6, §27.7, §32.6
+- **top-of-mind goal** — §11.1
+- **topic tree** — §22.3
+- **topic you cannot shut up about** — §22.2
+- **toss an anchor into the unknown** — §7.3, §7.5, §9.3
+- **tourists, not locals** — §40.3
+- **Town Square of Commerce** — §31.3
+- **trading time for money / replicable tasks** — §36.3
+- **traffic and offers** — §28.5
+- **traffic mechanism** — §26.4, §27.1, §28.5, §30.7
+- **traffic source** — §27.1
+- **training wheels** — §16.1, §22.3, §23.1
+- **traits (knowledge, experience, skill) / fat personal trainer syndrome** — §38.4
+- **traits are programmed** — [[#1.2 El conditioning: la infancia como programación|§1.2]]
+- **traits of a machine / mechanical living** — [[#2.6 Del paradigma industrial a la era de la información|§2.6]], §36.3
+- **transcend (info products)** — §33.5
+- **transcend and include** — [[#2.5 Pirámides de dominio, pirámides de atención y juegos de estatus|§2.5]], [[#2.6 Del paradigma industrial a la era de la información|§2.6]], [[#3.4 La ley de la supervivencia conceptual|§3.4]], §9.1, §9.2, §17.1, §18.4, §38.1
+- **transcend, expand and create** — §31.1
+- **transfer your consciousness** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]], [[#3.3 La identidad como filtro: perspectiva y percepción|§3.3]], [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]], §17.5, §32.1, §39.5
+- **translator of ideas** — §18.3
+- **translators between the stages** — §18.4
+- **transmute (the energy / the stress)** — §7.1, §7.3, §7.5
+- **trapped in the known** — §13.2
+- **treat yourself as a business** — §30.1
+- **trendjackers** — §38.4
+- **trial and error as your god / reality as your god** — [[#6.4 Cibernética: la inteligencia como dirección del rumbo|§6.4]]
+- **tribe** — [[#1.2 El conditioning: la infancia como programación|§1.2]], §25.6, §26.3, §26.5, §39.7
+- **tribe of mentors** — [[#1.4 La imitación es inevitable: NPC o main character|§1.4]], §16.4
+- **true balance** — §39.6
+- **true boredom** — §11.4
+- **True Comfort / mental house** — [[#4.3 Las fases del cambio y la identidad como estructura|§4.3]]
+- **true creativity** — §18.1
+- **true creators** — §9.4
+- **true deadline** — §12.4
+- **true education** — [[#2.2 La escuela: la educación de esclavos y la verdadera educación|§2.2]], §10.5, §15.4
+- **true goals / cheap desires / fabricated wants** — §29.2
+- **true identity / naturally self-disciplined / recondition** — [[#3.6 La disciplina como rasgo de la identidad; los estándares|§3.6]]
+- **true skeptic** — §17.1
+- **true value (is creative)** — §35.4
+- **trust matrix / social matrix / three pillars of social leverage** — §27.4
+- **trust tripwires** — §32.6
+- **truth blur in the middle** — §15.4
+- **truth is a process, not a commandment** — §17.2
+- **try hard / chill guy** — §8.7
+- **turn yourself into the business** — §9.4, §19.2, §28.4, §28.5, §28.6, §29.1
+- **turning you into the project** — §14.4
+- **tutorial / hierarchy of goals** — [[#1.2 El conditioning: la infancia como programación|§1.2]], [[#2.1 El default path|§2.1]]
+- **tutorial / program / system** — §33.4
+- **tutorial hell** — §14.3, §14.4, §14.5, §15.2, §31.5
+- **tutorial phase** — §8.1, §8.7, §10.1, §10.2, §14.3, §40.1
+- **tutoring offer** — §29.2
+- **two filters / taste** — §24.6
+- **two levers** — §26.3, §28.6
+- **two-year test** — §19.3
+
+### U
+
+- **UBI / friction / excellence** — §36.6
+- **ultimate wrapper / app layer** — §27.5
+- **umbrella skills** — §35.5
+- **unapologetically rich** — §34.4
+- **uncertainty is signal** — §26.2
+- **unconscious competence** — [[#2.6 Del paradigma industrial a la era de la información|§2.6]], §19.2, §29.5, §35.5
+- **unconscious destruction** — [[#2.5 Pirámides de dominio, pirámides de atención y juegos de estatus|§2.5]]
+- **unconscious goal** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]], [[#3.2 Las metas componen la identidad|§3.2]], [[#5.1 La entropía, la ley suprema del universo|§5.1]]
+- **unconscious misalignment / slave to the external world** — [[#3.5 El ego no es el enemigo, y el problema con "sé tú mismo"|§3.5]]
+- **unconscious parasites** — §13.4
+- **uncopyable** — §27.5
+- **underdeveloped person** — §29.1
+- **unemployable** — §29.3, §35.2
+- **unhappy reference point** — §39.3
+- **unignorability of money** — §34.1
+- **unique mechanism** — §27.5, §29.3, §31.3, §31.4
+- **unique model of the world** — §20.2
+- **unique process** — §29.2
+- **unique system** — §33.5
+- **unit of value** — §34.1
+- **unitive stage / Source** — §38.3
+- **units of mind** — §38.1
+- **units of thought** — §38.1
+- **universal cybernetic systems** — [[#6.4 Cibernética: la inteligencia como dirección del rumbo|§6.4]]
+- **universal patterns / second order being** — §31.3
+- **universal thinking** — [[#6.3 Zoom in, zoom out y la Focus Matrix|§6.3]]
+- **unpredictable path** — §39.7
+- **unscalable time** — §19.3
+- **urgency** — §35.3
+- **Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto** — [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]]
+- **useful worker vs free and fulfilled individual** — [[#1.3 Siempre estás persiguiendo metas: asignadas o autogeneradas|§1.3]], [[#2.2 La escuela: la educación de esclavos y la verdadera educación|§2.2]]
+- **useless wandering / true boredom** — §11.4
+- **user interface** — [[#2.9 Por qué importa despertar|§2.9]]
+- **Utility (skills for utility)** — [[#6.5 La meta como lente|§6.5]]
+- **utility based tasks / meaning based tasks** — §36.4
+- **utility vs meaning** — §36.6
+
+### V
+
+- **validate** — §24.5
+- **validated content** — §21.1, §22.4, §24.5, §25.6, §26.2, §26.3
+- **validation, not competition** — §27.6
+- **valuable ideas** — §21.3
+- **valuable offer / valuable being** — §28.5
+- **value** — §18.4, §22.1, §31.1, §34.1
+- **value creation** — §27.5, §31.3
+- **value creator** — §16.1, §18.4, §20.3, §23.4, §27.3, §27.6, §28.4, §28.6, §29.1, §30.6, §32.2, §32.4, §34.3, §35.4, §36.2, §38.4
+- **value equation** — §29.5, §31.1
+- **value exchange** — [[#2.1 El default path|§2.1]], [[#2.3 El empleo: la esclavitud moderna y the eternal known|§2.3]], §8.6, §32.1, §34.1
+- **value is behavior change** — §23.5
+- **value is perception / perception of value** — §31.2
+- **value notes** — §16.3, §33.1
+- **value prop / initial hump** — §37.5
+- **value requires development over time** — §31.1
+- **variation and selection** — [[#3.4 La ley de la supervivencia conceptual|§3.4]]
+- **vehicle for articulated thought** — §21.2
+- **versions of reality / top nodes down the tree** — §37.6
+- **vessel** — [[#2.3 El empleo: la esclavitud moderna y the eternal known|§2.3]], [[#2.4 La psique cazadora en un cubículo|§2.4]], [[#6.4 Cibernética: la inteligencia como dirección del rumbo|§6.4]], §9.4, §11.2, §18.4, §20.2, §21.3, §24.4, §27.2, §28.4, §32.4, §33.5, §34.1, §35.4, §35.5, §36.2, §39.4, §40.5, §40.6
+- **vessel (content as)** — §21.1, §21.3
+- **vessel (input–output)** — §8.6, §9.3
+- **vessel for personal growth** — §37.2
+- **vessel for your potential** — §25.5, §27.1
+- **vessel of valuable information** — §31.4
+- **Vessels (for learning the softer skills)** — §14.1
+- **vibe coding** — §25.3, §35.3, §36.5
+- **viewers, fans, super fans** — §22.7
+- **virtual society** — §25.5
+- **visible extreme / invisible extreme** — [[#2.6 Del paradigma industrial a la era de la información|§2.6]]
+- **vision** — §7.2, §7.3, §8.3, §29.2
+- **Vision / Clarity / Identity** — [[#4.6 Protocolos de reinvención y fracasos que se apilan|§4.6]]
+- **vision as a battery / misdirection** — §8.3
+- **vision avoidance** — §17.1
+- **vision is exhausted** — §8.6
+- **Visionary / free thinker** — §36.4
+- **visual exercise / job characteristics** — §37.5
+- **Vivir en autopilot** — [[#1.6 Vivir en autopilot|§1.6]]
+- **vocal minority** — §32.5
+- **voice analysis** — §36.5
+- **vote of approval / find your group** — §26.5
+
+### W
+
+- **wage slave** — [[#2.2 La escuela: la educación de esclavos y la verdadera educación|§2.2]], [[#2.3 El empleo: la esclavitud moderna y the eternal known|§2.3]], §35.2
+- **wake up before distractions / sacred hours** — §12.5
+- **walk for intention** — §13.2
+- **walking business** — §27.1
+- **walking contradiction** — [[#4.3 Las fases del cambio y la identidad como estructura|§4.3]]
+- **walking meditation** — §40.4
+- **WALL-E citizen** — [[#1.5 El entorno informativo: algoritmos, memes y entropic content|§1.5]]
+- **Walmart quality captions** — §32.4
+- **war mode** — [[#4.4 Reprogramación: inmersión en el entorno del yo futuro|§4.4]], [[#4.6 Protocolos de reinvención y fracasos que se apilan|§4.6]], §10.6, §11.4
+- **waves of life / inevitable waves of life / mindful response** — §39.3
+- **way of water / way of fire** — §25.5
+- **weaponize your survival** — [[#4.5 Usar la supervivencia a tu favor: el yo futuro, el alter ego y el yo más alto|§4.5]]
+- **web of concepts / web of ideas / web of beliefs** — [[#3.1 La identidad como cuerpo mental|§3.1]], [[#3.3 La identidad como filtro: perspectiva y percepción|§3.3]], [[#3.4 La ley de la supervivencia conceptual|§3.4]], [[#4.7 El level of mind|§4.7]]
+- **web of conscious and unconscious goals** — [[#3.1 La identidad como cuerpo mental|§3.1]]
+- **web of expectations** — [[#1.1 La Matrix como red de creencias heredadas|§1.1]]
+- **Web of ideas / nodes** — §16.2, §16.3
+- **web of interest** — §27.6
+- **week-long plan / week-long system / mental housekeeping** — §13.4
+- **weekly review / focus projects** — §13.4
+- **weight on the bar / mental muscle** — §9.4
+- **weird cloud** — §7.4
+- **well-informed self-reflection** — §13.1
+- **well-rounded service** — §33.2
+- **western notion of happiness** — §11.2
+- **what is / what isn't** — §40.5
+- **what should be** — §39.2
+- **what's in it for me** — §21.4, §23.6
+- **what's next** — §39.6
+- **when in doubt, zoom out** — §19.7, §22.3
+- **whiners and complainers** — §11.3
+- **who you are / differentiation** — §37.3
+- **whole parts** — §38.1
+- **whys stacked behind it / stack reasons** — §40.2
+- **wired to hunt** — [[#3.2 Las metas componen la identidad|§3.2]], §9.3, §10.4
+- **work brings order to the mind** — §13.1
+- **work cut off** — §13.2
+- **work has turned into play** — §37.1
+- **work less, earn more, enjoy life** — §12.1
+- **work like a lion, not a cow** — [[#6.2 El foco es atención consciente|§6.2]], §12.4
+- **work them up the ladder** — §32.4
+- **world model / most encompassing world model** — [[#1.7 La mente cerrada: la ideología como identidad|§1.7]]
+- **world of replaceability / infinite game** — §27.6, §35.4
+- **wrapper** — §30.7
+- **write broad, narrow down across your content funnel** — §19.5
+- **write to discover, not to perform / resist the template** — §21.2
+- **write to yourself, build for yourself, sell to yourself** — §30.1, §31.4
+- **writer's block (y default mode network)** — §24.1
+- **Writer's Bootcamp** — §30.7
+- **writing and people** — §26.4
+- **writing in public** — §21.4
+- **writing is media / digital media is leverage** — §21.1
+- **writing system** — §17.2
+- **writing, promotion, iteration** — §28.6
+- **wrong game / survival game / transcend the game** — §39.4
+
+### Y
+
+- **yin-yang model** — §37.3
+- **you are already a business** — §27.1
+- **you are the marketing and sales department** — §32.5
+- **you are the media** — §25.5, §38.4
+- **you are the niche** — §19.2, §27.3
+- **you can only cook with what's in the fridge** — [[#6.5 La meta como lente|§6.5]]
+- **you can't improve what isn't published** — §29.4
+- **you gain experience by starting** — §26.2
+- **your message must mimic the universe** — §23.5
+- **your own lens** — [[#1.2 El conditioning: la infancia como programación|§1.2]]
+- **your own little world** — §23.5
+- **your path is your product** — §28.2
+- **your product is you** — §25.4
+- **your standard** — §30.6
+- **your story is your brand** — §19.7, §22.2, §23.5, §27.5
+- **yourself as the niche** — §28.4, §28.6
+- **youth as currency vs investment capital** — §40.1
+
+### Z
+
+- **Zeigarnik effect / open loops** — §12.4, §13.4
+- **Zeigarnik effect squared** — §14.3
+- **zero barrier of entry skill** — §21.4
+- **zip files for your mind** — §36.2
+- **zones of genius** — §37.5
+- **zoom in / zoom out** — [[#1.4 La imitación es inevitable: NPC o main character|§1.4]], [[#3.3 La identidad como filtro: perspectiva y percepción|§3.3]], [[#5.2 La entropía psíquica y el estado por defecto del caos|§5.2]], [[#5.4 Todo es información|§5.4]], [[#6.3 Zoom in, zoom out y la Focus Matrix|§6.3]]
+- **Zoom in, zoom out y la Focus Matrix** — [[#6.3 Zoom in, zoom out y la Focus Matrix|§6.3]]
+- **zoom out / inklings** — [[#6.3 Zoom in, zoom out y la Focus Matrix|§6.3]]
+- **zoom out a layer** — §15.2, §38.2
