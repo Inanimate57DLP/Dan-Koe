@@ -3,8 +3,8 @@
 - **CORPUS_PATH resuelto:** `.` (raíz del repositorio). La ruta configurada `Transcripts YouTube Referentes/Dan Koe` no existe; los transcripts están en la raíz.
 - **Directorio de trabajo:** `_libro/` (en la raíz)
 - **Rama de trabajo:** `libro-maestro-dan-koe` (creada desde `origin/main`, commit 1396995)
-- **Último commit:** 617e879 Fase 7, pasada 2 (idioma): corrección de capítulos 5, 6, 7 y 9; outline pasa a esquema
-- **Fase actual:** Fase 7 en curso — léxico bloqueado (`08_lexico-traduccion.md`, 2763 términos; extractos por capítulo en `08b_lexico_por_capitulo/`). Traducción por capítulo → `09_capitulos_es/` (3 subagentes en paralelo; plantilla en `99_herramientas/trans_prompt.txt`).
+- **Último commit:** 952818a Fase 7, pasada 1 (fidelidad): informe de muestreo
+- **Fase actual:** COMPLETO. Fase 7 terminada: libro final en español en `Dan Koe - Libro Maestro.md` (raíz del repositorio), 1.835.522 palabras.
 
 ## Números
 - Archivos: 164 · Palabras del corpus: 1.095.022 · Lotes: 27 (ver `01b_lotes.md`)
@@ -89,44 +89,49 @@
 - cap-01.md: 48632 palabras ✔
 - cap-02.md: 43154 palabras ✔
 - cap-03.md: 37083 palabras ✔
-- cap-04.md: 47739 palabras ✔
+- cap-04.md: 47737 palabras ✔
 - cap-05.md: 29559 palabras ✔
 - cap-06.md: 41280 palabras ✔
-- cap-07.md: 40295 palabras ✔
-- cap-08.md: 42513 palabras ✔
-- cap-09.md: 31564 palabras ✔
-- cap-10.md: 44580 palabras ✔
-- cap-11.md: 35494 palabras ✔
-- cap-12.md: 35826 palabras ✔
-- cap-13.md: 34911 palabras ✔
-- cap-14.md: 42683 palabras ✔
-- cap-15.md: 47038 palabras ✔
-- cap-16.md: 36038 palabras ✔
-- cap-17.md: 43618 palabras ✔
-- cap-18.md: 33949 palabras ✔
-- cap-19.md: 36341 palabras ✔
-- cap-20.md: 32447 palabras ✔
-- cap-21.md: 31365 palabras ✔
-- cap-22.md: 35925 palabras ✔
-- cap-23.md: 37603 palabras ✔
-- cap-24.md: 39245 palabras ✔
-- cap-25.md: 47992 palabras ✔
-- cap-26.md: 44293 palabras ✔
-- cap-27.md: 36674 palabras ✔
-- cap-28.md: 37198 palabras ✔
-- cap-29.md: 33831 palabras ✔
-- cap-30.md: 33381 palabras ✔
-- cap-31.md: 34059 palabras ✔
-- cap-32.md: 31023 palabras ✔
-- cap-33.md: 30168 palabras ✔
-- cap-34.md: 32792 palabras ✔
-- cap-35.md: 40783 palabras ✔
-- cap-36.md: 38458 palabras ✔
+- cap-07.md: 40294 palabras ✔
+- cap-08.md: 42512 palabras ✔
+- cap-09.md: 31566 palabras ✔
+- cap-10.md: 44603 palabras ✔
+- cap-11.md: 35507 palabras ✔
+- cap-12.md: 35824 palabras ✔
+- cap-13.md: 34921 palabras ✔
+- cap-14.md: 42692 palabras ✔
+- cap-15.md: 47033 palabras ✔
+- cap-16.md: 36043 palabras ✔
+- cap-17.md: 43634 palabras ✔
+- cap-18.md: 33961 palabras ✔
+- cap-19.md: 36433 palabras ✔
+- cap-20.md: 32456 palabras ✔
+- cap-21.md: 31338 palabras ✔
+- cap-22.md: 35927 palabras ✔
+- cap-23.md: 37676 palabras ✔
+- cap-24.md: 39332 palabras ✔
+- cap-25.md: 48031 palabras ✔
+- cap-26.md: 44363 palabras ✔
+- cap-27.md: 36709 palabras ✔
+- cap-28.md: 37231 palabras ✔
+- cap-29.md: 33859 palabras ✔
+- cap-30.md: 33412 palabras ✔
+- cap-31.md: 34168 palabras ✔
+- cap-32.md: 31110 palabras ✔
+- cap-33.md: 30206 palabras ✔
+- cap-34.md: 32812 palabras ✔
+- cap-35.md: 40810 palabras ✔
+- cap-36.md: 38467 palabras ✔
 - cap-37.md: 37129 palabras ✔
-- cap-38.md: 33328 palabras ✔
-- cap-39.md: 39483 palabras ✔
-- cap-40.md: 35612 palabras ✔
+- cap-38.md: 33358 palabras ✔
+- cap-39.md: 39484 palabras ✔
+- cap-40.md: 35657 palabras ✔
 - **Total:** 43/43 archivos (40 capítulos + portada, mapa y notas)
+
+## Fase 7 — revisión final
+- **Pasada 1 (fidelidad):** comparación automática sección por sección EN↔ES (`99_herramientas/fidelity.py`): mismo número de secciones y de párrafos en todos los capítulos; 2 secciones con razón >1,45 por citas bilingües (sin pérdida). Muestreo manual de 40 subsecciones (`06_auditoria/fidelidad-es.md`): 0 pérdidas materiales; 2 errores de sentido y 7 frases añadidas (glosas del léxico insertadas en el texto) corregidos; resto de ajustes aplicados.
+- **Pasada 2 (idioma):** 0 voseo; corrección de palabras comunes sin traducir en los 40 capítulos (11 tandas, `99_herramientas/idioma_prompt.txt`, `candidates.py`); léxico ajustado: conditioning, autopilot, assignment, conformity, awareness, assigned/self-generated goals, personal brand y glosas con leverage pasan a traducirse; encabezados con términos conservados llevan glosa española; consciencia unificada (conciencia solo para Schwartz); regionalismos corregidos (mamado, darse vuelta, relajo, acá).
+- **Pasada 3 (navegación):** índice (305 entradas) coincide con los encabezados; 10.104 enlaces internos de Obsidian, 0 rotos; 0 saltos de nivel de encabezado; índice analítico reconstruido (3.471 entradas, con forma española de los 470 términos traducidos); glosario con la decisión de traducción por término.
 
 ## Notas
 - Herramientas para reanudar: `_libro/99_herramientas/` contiene las plantillas de prompts (extracción, etiquetado, consolidación, síntesis, arquitectura, redacción) y los scripts (index.py → units.json; bytheme.py/split.py → 02c; gather.py → 02e; expand.py/material.py → 04b_material y chapters.json). Los scripts usan rutas en /tmp/claude-0; si la sesión se reinicia, copia los .json y .py de 99_herramientas a /tmp/claude-0 y regenera. Para redactar un capítulo NN: rellenar `write_prompt.txt` ([N], [NN], [TITULO], [IDS] desde chapters.json, [PALABRAS]).

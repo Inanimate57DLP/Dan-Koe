@@ -789,7 +789,7 @@ El origen de esta línea de pensamiento es un tercero. En junio de 2022 Koe cita
 
 La frase sobre la oferta es de Molina; la extensión a las citas y la lectura del tráfico como exposición a la suerte son de Koe. El punto sobre la suerte es fácil de pasar por alto, y es importante: el tráfico no garantiza ventas, pero aumenta el número de oportunidades de que una buena oferta se encuentre con la persona adecuada, y por eso Koe trata la construcción de una audiencia como una inversión probabilística y no como una transacción.
 
-La lección inmediatamente anterior en el mismo video hace explícito el punto de los números. Quienes intentan conseguir clientes envían de cinco a diez mensajes directos, no ganan dinero, dicen que el método es una tontería y abandonan, y Koe admite que él hizo lo mismo. "Es un juego de números." Puedes mejorar tus conocimientos de marketing y ventas para ser más eficaz, pero se trata de ponerte frente a las personas adecuadas: tienes tu oferta y tienes tráfico. Es el par offer and traffic / shoot your shot (oferta y tráfico / tírate el lance): tírate el lance, y luego vuelve a tirártelo.
+La lección inmediatamente anterior en el mismo video hace explícito el punto de los números. Quienes intentan conseguir clientes envían de cinco a diez mensajes directos, no ganan dinero, dicen que el método es una tontería y abandonan, y Koe admite que él hizo lo mismo. "Es un juego de números." Puedes mejorar tus conocimientos de marketing y ventas para ser más eficaz, pero se trata de ponerte frente a las personas adecuadas: tienes tu oferta y tienes tráfico. Tírate el lance, y luego vuelve a tirártelo.
 
 **Fuente:** 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md
 
