@@ -4,7 +4,7 @@
 - **Directorio de trabajo:** `_libro/` (en la raíz)
 - **Rama de trabajo:** `libro-maestro-dan-koe` (creada desde `origin/main`, commit 1396995)
 - **Último commit:** c62d1f7 Fase 5: auditoría capítulos 03-04
-- **Fase actual:** Fase 5 COMPLETA (iteración 1: 4 pérdidas + 218 menores corregidos; iteración 2: verificación dirigida — 3 verificadas, 1 corregida (cap. 40), 5 frases residuales y 1 cita corregidas; sin pérdidas materiales pendientes). Fase 6 COMPLETA (`07_libro_en.md`). Fase 7 en curso: léxico de traducción (partes 1–3 listas; 4 en curso).
+- **Fase actual:** Fase 7 en curso — léxico bloqueado (`08_lexico-traduccion.md`, 2763 términos; extractos por capítulo en `08b_lexico_por_capitulo/`). Traducción por capítulo → `09_capitulos_es/` (3 subagentes en paralelo; plantilla en `99_herramientas/trans_prompt.txt`).
 
 ## Números
 - Archivos: 164 · Palabras del corpus: 1.095.022 · Lotes: 27 (ver `01b_lotes.md`)
@@ -81,6 +81,9 @@
 - cap-39.md: 33212 palabras, 177 IDs en COBERTURA ✔
 - cap-40.md: 29098 palabras, 141 IDs en COBERTURA ✔
 - **Total:** 40/40 capítulos
+
+## Fase 7 — capítulos traducidos
+(ninguno todavía)
 
 ## Notas
 - Herramientas para reanudar: `_libro/99_herramientas/` contiene las plantillas de prompts (extracción, etiquetado, consolidación, síntesis, arquitectura, redacción) y los scripts (index.py → units.json; bytheme.py/split.py → 02c; gather.py → 02e; expand.py/material.py → 04b_material y chapters.json). Los scripts usan rutas en /tmp/claude-0; si la sesión se reinicia, copia los .json y .py de 99_herramientas a /tmp/claude-0 y regenera. Para redactar un capítulo NN: rellenar `write_prompt.txt` ([N], [NN], [TITULO], [IDS] desde chapters.json, [PALABRAS]).
