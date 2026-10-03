@@ -62,7 +62,7 @@ In December 2022, and again in the 2024 compilation, Koe lays out "seven steps o
 
 The order of the steps mirrors the order of the book. Steps 1 to 4 are the learning process of Part VI: build to learn (Chapter 14), experiment on yourself (Section 15.4), document and learn in public (Section 14.5). Step 5 is where learning becomes a product. Step 6 is the market logic of "sell what's already selling," discussed in Section 33.3. Step 7 is the audience work of Part IX. Koe closes the 2024 version with a caveat: you have to start writing, building and promoting, because the unknown only becomes known with time. The steps are not prerequisites to finish before beginning. They are a description of a process that runs while you are already doing the work.
 
-The material assigned to this chapter only details step 5. The other steps are elaborated in separate units of the same videos, and several of them are treated elsewhere in the book.
+This chapter develops step 5 in detail, because it is the step where learning becomes a product. Koe elaborates each of the other steps in the same two videos, and the book treats them where they belong. Step 1 opens with a line Koe takes from Steven Kotler ("motivation gets you into this game, learning is what helps you continue to play, creativity is how you steer, flow is how you turbo boost the results"), discussed in Section 10.4. Step 2, learning by building and teaching to find knowledge gaps, including the "permissionless apprenticeship," is in Section 14.5, and step 3, documenting and learning in public, in the same section. Step 4, experimenting with the best of many sources until you have your own way (his fitness history from StrongLifts 5x5 to high-volume splits, and his diet experiments), is in Section 15.4. Step 6, "sell what's already selling," with the story of how 2 Hour Writer was modeled on the profitable writing cohorts of his corner of Twitter and made $130,000 on Black Friday, is in Section 26.3.
 
 #### Step 5: from SOPs to a curriculum
 
@@ -344,16 +344,18 @@ In February 2025 Koe builds the offer element by element. The process opens with
 
 **Source:** A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md (2025-02-10)
 
-The three clauses of the principle correspond to three parts of the offer: the pain point is the problem, the system is the personal system, and the clarity is the education that accompanies the system. The guide's elements, reconstructed from the units available, can be arranged as follows. The material assigned to this chapter details elements 3 to 6; elements 1 and 2 are known through the worked example, and their numbering is inferred from it.
+The three clauses of the principle correspond to three parts of the offer: the pain point is the problem, the system is the personal system, and the clarity is the education that accompanies the system. Koe numbers the elements of the guide, and they can be arranged as follows. This section develops elements 3 to 6. Elements 1 and 2, the big problem and the desired outcome, are developed in Section 17.4 ("The big problem and the desired outcome"), as an application of problem-first thinking, and the worked example below shows all of them at once.
 
 | Element | Content | Function |
 |---|---|---|
 | 1. Big problem and negative outcome | The burning problem (point A) and what happens if it persists | Creates the urgency the marketing will address |
-| 2. Desired outcome | Where the buyer wants to be (point B) | Defines the transformation |
+| 2. Desired outcome | Where the buyer wants to be (point B) | Defines the transformation, which is "the only thing that sells"; it depends on nailing element 1 |
 | 3. Believable time frame | How long it takes to get from problem to outcome | Supercharges the marketing, makes the product tangible, compresses its contents |
 | 4. Personal system (and 4.5, education) | The steps that take people from A to B, plus the curriculum needed to perform them | The core of the product (Section 33.5) |
 | 5. Features and benefits | What is included, each item tied to what it does for the buyer | The persuasive presentation on the landing page |
 | 6. Delivery mechanism | E-book, email course, cohort, course, community, software | The format, each with trade-offs |
+
+*The big problem and the desired outcome, in brief.* The first element is the burning problem and its negative outcome, "the starting point of their transformation," which must be relatable, relevant, worth solving and research-backed. The second is the outcome the buyer wants: "That's the only thing that sells, is a transformation. I'm here. I want to be here. What's going to help me get there? This product." The order matters, because the second depends on the first: "If you don't nail the big problem, then the desired outcome isn't going to be something desirable." For weightlifting, the problem of insecurity becomes the desired outcome of "a body that commands respect," made concrete for the persona, and Koe adds a heuristic about depth: start on the surface, because "people start in the gym for vanity and stay for the therapy." Section 17.4 gives the full passage.
 
 *The believable time frame.* How long will it take to get from the big problem to the desired outcome? "Time frames supercharge your marketing": 30 days, three to six months, six weeks, two hours. They can be used in content too, "because your videos, your posts... they're an offer." A time frame makes the product tangible, and it is "a reference point that spark[s] desire." It also has an internal function: it helps compress what goes into the product. Many people throw everything they know into one product, instead of only what is valuable for solving the problem and reaching the outcome. A deadline forces selection. Koe adds that you may not know the time frame yet, and that you can come back to it after creating your personal system. The term *believable* matters: the time frame must be credible to the buyer, not merely attractive, which links it to the "believable goal" Koe uses elsewhere for goals that are clear rather than stretched.
 
@@ -487,7 +489,7 @@ In July 2024 Koe turns the idea into a statement about the future. He gives exam
 
 **Source:** Learn This Skill If You Want To Be Relevant In 10 Years.md (2024-07-13)
 
-*Unique system* is Koe's term for this. The sentence joins three ideas the book has developed separately: solving your own problem (Section 28.2), the system as the core of value (Section 31.3, where value is the reversal of entropy through systems), and adaptation to changing problems (Section 30.5, iteration as the life of a business). "One system doesn't fit all" is what makes the market for systems infinite. If one method worked for everyone, there would be one product per problem; because it does not, there is room for every person whose method fits a group of people like them.
+*Unique system* is Koe's term for this. The sentence joins three ideas the book has developed separately: solving your own problem (Section 28.2), the system as the core of value (Section 31.1, where value is the reversal of entropy through systems, and Section 31.3, on how value is created), and adaptation to changing problems (Section 30.5, iteration as the life of a business). "One system doesn't fit all" is what makes the market for systems infinite. If one method worked for everyone, there would be one product per problem; because it does not, there is room for every person whose method fits a group of people like them.
 
 #### "People can't teach you what to do"
 
@@ -630,8 +632,13 @@ The evolution of Koe's position on info products and software can be summarized 
 |---|---|
 | 2022–2025 | The information business is the best model; info products are "the greatest product one can sell"; for an absolute beginner, an education product beats AI-built software, which has a "higher chance of failure" |
 | October 2024 | "Systems economy": people want your solution, a system built from experience, sold as a course (2 Hour Writer) |
-| January 2026 | Static courses "don't cut it"; info products are said to be both dying and not dead; the next level is a knowledge base plus a chatbot for learning, practice and implementation |
+| February 2025 | Media-based products "are the education of the future. Creators are the decentralized Educators" (the "Justin Welsh route" to a multi-million info product business, Section 31.5) |
+| May 2025 | An "endgame" for Cortex: a shared workspace with all your knowledge plus prompts and AI workflows, so that people can do things with what you know, not only learn it; a refined prompt is "an externalized clone of a creative process" (Section 30.7) |
+| January 2026 | Static courses "don't cut it"; info products are said to be both dying and not dead; the next level is a knowledge base plus a chatbot for learning, practice and implementation; shared prompts can become micro software, and a "wrapper" is a legitimate way to build it (Section 30.7) |
+| June 2026 | AI has democratized code, so most people can build "a small-scale digital product"; "information products are abundant," but Koe does not think they will die (Section 30.7) |
 | June 2026 | "Small-scale software will be the new info product"; "systems economy" now means building the software that does what the info product would have taught |
+
+The two June 2026 rows belong to the same month and qualify each other. On June 13, in the video on multiple interests, Koe says that information products are abundant but will not die; on June 28 he says that small-scale software "will be the new info product." Read together, the thesis is not that education disappears but that its most promising vehicle shifts, while the info product survives as a crowded and still viable format. The same qualification appears in January 2026, when he says that info products will not die but will come to look more like software.
 
 Koe's stated reasons for the change are the saturation of the market, the 90% non-completion rate of courses, AI's ability to generate information and to lower the barrier to building software, and the shortening of paradigms. What does not change is the core. In every version the product is a system that takes someone from A to B, built from the seller's own experience. In 2022 it was written as an SOP and taught as a curriculum; in 2026 it may be coded as a tool. The format is the variable, and the system is the constant. Koe's own warning, that software "needs to be a system," states this directly.
 
