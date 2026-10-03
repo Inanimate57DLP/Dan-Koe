@@ -4,8 +4,7 @@ vos=re.compile(r'\b(vos|tenés|podés|sabés|querés|hacé|escribí|registrá|mi
 def st(t):
     t=re.sub(r'<!--.*?-->','',t,flags=re.S)
     return dict(w=len(t.split()),h=[len(m) for m in re.findall(r'^(#+) ',t,re.M)],src=len(re.findall(r'\*\*(?:Source|Fuente):\*\*',t)),
-      cc=len(re.findall(r'\*\*(?:Complementary context|Contexto complementario):\*\*',t)),tab=len(re.findall(r'^\|',t,re.M)),
-      files=sorted(re.findall(r'[^\s*(]+?[^*]*?\.md\b',t)) )
+      cc=len(re.findall(r'\*\*(?:Complementary context|Contexto complementario):\*\*',t)),tab=len(re.findall(r'^\|',t,re.M)))
 for f in sorted(os.listdir(S)):
     if not os.path.exists(E+f): continue
     a=st(open(E+f).read()); bt=open(S+f).read(); b=st(bt)
