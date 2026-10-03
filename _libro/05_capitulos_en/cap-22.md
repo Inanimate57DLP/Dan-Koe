@@ -232,7 +232,7 @@ The most compressed version of the same idea is a one-line exercise from July 20
 
 **Source:** Learn This Skill If You Want To Win In The Next 2-3 Years.md
 
-Taken together, the material of this section answers "where does a perspective come from?" with four sources: interests one cannot stop talking about, solved problems, a story of transformation, and beliefs that contradict the mainstream. None of these has to be invented; all of them have to be dug up. What remains is to organize them so that they can sustain months of writing, which is the purpose of the next section.
+Taken together, the ideas of this section answer "where does a perspective come from?" with four sources: interests one cannot stop talking about, solved problems, a story of transformation, and beliefs that contradict the mainstream. None of these has to be invented; all of them have to be dug up. What remains is to organize them so that they can sustain months of writing, which is the purpose of the next section.
 
 ### 22.3 The Topic Tree: Organizing Interests With Yourself at the Top
 

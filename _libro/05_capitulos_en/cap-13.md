@@ -113,7 +113,7 @@ The same year he states the consequence for burnout. Most people's idea of rest 
 | What rest means | Regenerating mental energy away from work | Deep recovery *from stimulating work*; otherwise numbing |
 | The underlying problem | Overwork and doing mode | The wrong work, and no periods of intensity |
 
-The two positions are compatible once the audience is specified, and the corpus's own evolution note says so: the value of rest lies in its quality and in having demanding work to recover from. Rest is defined relationally. It is the second half of a cycle whose first half is intense, meaningful effort; without that first half, what looks like rest is escape. This anticipates the polarity argument below, and it also explains why, in May 2025, two months after saying most people need more work, Koe could still say that the most effective work happens when you are not working. Both claims assume someone who has a project worth recovering for.
+The two positions are compatible once the audience is specified, and that is the reading this book proposes: the value of rest lies in its quality and in having demanding work to recover from. Rest is defined relationally. It is the second half of a cycle whose first half is intense, meaningful effort; without that first half, what looks like rest is escape. This anticipates the polarity argument below, and it also explains why, in May 2025, two months after saying most people need more work, Koe could still say that the most effective work happens when you are not working. Both claims assume someone who has a project worth recovering for.
 
 #### Rest, the secret of the greats
 
