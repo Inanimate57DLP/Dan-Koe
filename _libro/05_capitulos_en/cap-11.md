@@ -24,7 +24,7 @@ Later in the same video he names some of the "down" chemicals that produce appre
 
 What Koe does with the down network is interpretive rather than chemical. He equates it with what spiritual teachers mean when they talk about the present moment and appreciation in the now, and he calls those neurotransmitters "much more sustainable" for developing appreciation for what you have rather than what you lack. The equation of a neurochemical system with a spiritual teaching is his own bridge, offered as an interpretation; it lets him say that the contemplative traditions and the neuroscience of reward are describing the same split between wanting and having. The bridge will matter in section 11.4, where boredom and deprivation are presented as ways of restoring the capacity to enjoy what is near.
 
-**Complementary context:** Lieberman and Long call the "down" chemicals the "Here and Now" neurotransmitters and describe the up/down division spatially, through the distinction between peripersonal space (what is within reach) and extrapersonal space (what is beyond it). Koe's lists are his own summaries, not quotations of the book's list.
+**Complementary context:** Lieberman and Long call the "down" chemicals the "Here and Now" neurotransmitters and describe the up/down division spatially, through the distinction between peripersonal space (what is within reach) and extrapersonal space (what is beyond it). Koe's lists of chemicals are his own summaries, not quotations of the book's list, but the vocabulary is not foreign to him: in the 2024 video in which he names Lieberman, he himself speaks of the "down chemicals" or "here and nows," of "peripersonal space" (the things you can grab, possess and control) and of everything that lies in "your extrapersonal space," from shop windows to "this constant feed called social media" (**Source:** `The Cheap Dopamine Epidemic Stop Ruining Your Life.md`, 2024-11-24). The terms are the book's; their adoption and application to the feed are Koe's adaptation. Chapter 39 (section 39.4) develops that passage.
 
 #### The psychology of desire: you, the object and the gap
 
@@ -79,7 +79,7 @@ The 2024 version names the cause at a societal level: "we are so dopamine overlo
 
 #### Dopamine signals what matters to your goal
 
-Up to this point dopamine has been described as a response to distance and novelty. The second cluster of this section adds the element that connects it to the rest of the book: dopamine responds to *relevance to a goal*. This is the bridge between the neurochemistry and the cybernetic mind of Chapter 6.
+Up to this point dopamine has been described as a response to distance and novelty. The second half of this section adds the element that connects it to the rest of the book: dopamine responds to *relevance to a goal*. This is the bridge between the neurochemistry and the cybernetic mind of Chapter 6.
 
 The 2023 formulation is the most systematic. "Your mind automatically accepts and rejects information that aids in the achievement of the goals that are programmed into your head." If your goal is to get a job, dopamine signals the importance of opportunities and information leading there: "what you highlight in books will reflect that goal," as will what you take from conversations and what you engage with on social media. The mind runs on "a plethora of goals," but take one for simplicity (**Source:** `You Won't Be The Same Person In 6 Months (Master Anything, Fast).md`, 2023-12-17).
 
