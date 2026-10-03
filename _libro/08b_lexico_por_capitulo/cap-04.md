@@ -158,7 +158,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | fill / empty / use your mind | acuñado | conservar+glosa | fill / empty / use your mind (llenar / vaciar / usar tu mente) | fill / empty / use your mind | Acuñado por Dan Koe; se conserva en inglés. |
 | first-order / second-order (change) | acuñado | conservar+glosa | first-order / second-order (change) (cambio de primer orden / de segundo orden) | first-order / second-order (change) | Acuñado por Dan Koe; se conserva en inglés. |
 | flip the switch | acuñado | conservar+glosa | flip the switch (cambia el interruptor) | flip the switch | Acuñado por Dan Koe; se conserva en inglés. |
-| focus | palabra común | traducir | foco | foco | Palabra común con sentido propio ("conscious attention"). Se conserva en inglés cuando designa el concepto definido; en usos cotidianos se traduce "concentración" para distinguirlos. — Regla general: palabra común; se traduce con forma fija y su sentido propio se explica en el texto. |
+| focus | palabra común | traducir | foco | foco | Palabra común con sentido propio ("conscious attention"). — Regla general: palabra común; se traduce con forma fija y su sentido propio se explica en el texto. |
 | force | palabra común | conservar+glosa | force (fuerza) | force | Palabra común con sentido propio (lo que te empuja; cuanto más fuerte, más esclavo eres). Se conserva en inglés en cursiva para distinguirla de la fuerza física o de voluntad. |
 | forward movement | acuñado | conservar+glosa | forward movement (movimiento hacia adelante) | forward movement | Acuñado por Dan Koe; se conserva en inglés. |
 | frame | acuñado | conservar+glosa | frame (marco) | frame | Acuñado por Dan Koe; se conserva en inglés. |
@@ -173,7 +173,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | glitches | acuñado | conservar+glosa | glitches (fallas) | glitches | Plural de "glitch" con sentido táctico propio (tácticas o tecnologías que fuerzan un canal o rompen mesetas); se distingue de "glitch in the Matrix" (ruptura de patrón personal). |
 | glue | palabra común | conservar+glosa | glue (pegamento) | glue | Palabra común con sentido propio (las habilidades de negocio que hacen funcionar cualquier modelo). Se conserva en inglés para marcar el concepto. |
 | go all in | acuñado | conservar+glosa | go all in (ir con todo) | go all in | Acuñado por Dan Koe; se conserva en inglés. |
-| goal | palabra común | traducir | meta | meta | Palabra común con sentido propio ("an aim, a lens, a point of view", no algo a lograr a toda costa). Se conserva en inglés cuando designa el concepto definido; en usos cotidianos se traduce "objetivo" para distinguirlos. — Regla general: palabra común; se traduce con forma fija y su sentido propio se explica en el texto. |
+| goal | palabra común | traducir | meta | meta | Palabra común con sentido propio ("an aim, a lens, a point of view", no algo a lograr a toda costa). — Regla general: palabra común; se traduce con forma fija y su sentido propio se explica en el texto. |
 | good dopamine | acuñado | conservar+glosa | good dopamine (dopamina buena) | good dopamine | Acuñado por Dan Koe; se conserva en inglés. |
 | good pain / mental bodybuilding | tercero | traducir | dolor bueno / culturismo mental | dolor bueno / culturismo mental | Adaptado de Frank Yang; traducción fija. |
 | good stress | acuñado | conservar+glosa | good stress (estrés bueno) | good stress | Acuñado por Dan Koe; se conserva en inglés. |
@@ -194,7 +194,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | hunt and stack whys | acuñado | conservar+glosa | hunt and stack whys (caza y apila porqués) | hunt and stack whys | Acuñado por Dan Koe; se conserva en inglés. |
 | ideal future | acuñado | conservar+glosa | ideal future (futuro ideal) | ideal future | Acuñado por Dan Koe; se conserva en inglés. |
 | ideal lifestyle | acuñado | conservar+glosa | ideal lifestyle (estilo de vida ideal) | ideal lifestyle | Acuñado por Dan Koe; se conserva en inglés. |
-| identity | palabra común | traducir | identidad | identidad | Palabra común con sentido propio (sistema de ideas, creencias, valores y estándares; "the story you tell yourself"). Se conserva en inglés en cursiva cuando designa el concepto definido; en usos cotidianos se traduce "identidad". — Regla general: palabra común; se traduce con forma fija y su sentido propio se explica en el texto. |
+| identity | palabra común | traducir | identidad | identidad | Palabra común con sentido propio (sistema de ideas, creencias, valores y estándares; "the story you tell yourself"). — Regla general: palabra común; se traduce con forma fija y su sentido propio se explica en el texto. |
 | identity / behavior | palabra común | conservar+glosa | identity / behavior (identidad / conducta) | identity / behavior | Uso en contratación (bloque T18); se conserva como par para distinguirlo de "identity" a secas. |
 | identity as a city | acuñado | conservar+glosa | identity as a city (la identidad como ciudad) | identity as a city | Acuñado por Dan Koe; se conserva en inglés. |
 | identity flips | acuñado | conservar+glosa | identity flips (giros de identidad) | identity flips | Acuñado por Dan Koe; se conserva en inglés. |
