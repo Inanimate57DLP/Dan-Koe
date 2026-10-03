@@ -897,7 +897,7 @@ In September 2024, introducing the idea that money is a skill, he says that "we 
 
 **Source:** You Won't Look At Money The Same Again (How To Build Meaningful Wealth).md
 
-The formula "the art of living is getting paid to play" is Koe's own; the quotation it rests on is Watts's. The distinction between job, career and calling, which he announces at this point, is not developed in the passage itself; the money chapter (Chapter 34) takes up his broader view of money.
+The formula "the art of living is getting paid to play" is Koe's own; the quotation it rests on is Watts's. The distinction between job, career and calling, which he announces at this point, follows a few minutes later in the same video: a job is unpleasant work for someone else for the sole purpose of making money, a career is a commitment to development through a hierarchy of challenging roles, and a calling is work you cannot pull yourself away from and others cannot help but pay you for. Chapter 9 (section 9.2) develops the triad as an application of the levels of purpose, and the money chapter (Chapter 34) takes up his broader view of money.
 
 In March 2024 he connects the quotation to motivation and to business: "Business is how you Channel your interests skills and expertise to impact others at scale." And: "If you want to live a fulfilling life you need to leverage all five intrinsic drivers curiosity purpose passion autonomy and Mastery you need to create and have full control over the lifestyle you wish to live business is how you get there."
 
