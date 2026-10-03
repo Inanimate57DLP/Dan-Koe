@@ -3,7 +3,7 @@
 - **CORPUS_PATH resuelto:** `.` (raíz del repositorio). La ruta configurada `Transcripts YouTube Referentes/Dan Koe` no existe; los transcripts están en la raíz.
 - **Directorio de trabajo:** `_libro/` (en la raíz)
 - **Rama de trabajo:** `libro-maestro-dan-koe` (creada desde `origin/main`, commit 1396995)
-- **Último commit:** ed6f5e7 Fase 7: avance parcial de traducción (capítulos 26–28)
+- **Último commit:** ab6957d Fase 7: traducción capítulo 27
 - **Fase actual:** Fase 7 en curso — léxico bloqueado (`08_lexico-traduccion.md`, 2763 términos; extractos por capítulo en `08b_lexico_por_capitulo/`). Traducción por capítulo → `09_capitulos_es/` (3 subagentes en paralelo; plantilla en `99_herramientas/trans_prompt.txt`).
 
 ## Números

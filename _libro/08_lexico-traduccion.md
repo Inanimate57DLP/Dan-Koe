@@ -1832,7 +1832,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | persistency / persistent focused action / persist and iterate | término acuñado | conservar+glosa | persistency / persistent focused action / persist and iterate (persistencia sostenida / acción enfocada persistente / persiste e itera) | persistency / persistent focused action / persist and iterate |  |
 | persistent effort toward a goal | término acuñado | conservar+glosa | persistent effort toward a goal (esfuerzo persistente hacia una meta) | persistent effort toward a goal |  |
 | persistent principles | término acuñado | conservar+glosa | persistent principles (principios persistentes) | persistent principles |  |
-| personal brand | término acuñado | conservar+glosa | personal brand (marca personal) | personal brand | Préstamo usual en el marketing hispano; en sentido genérico ajeno al autor puede traducirse "marca personal". |
+| personal brand | palabra común con sentido propio | traducir | marca personal | marca personal | Término usual en español; se traduce siempre "marca personal" (también "personal branding" → "construcción de marca personal" cuando no es parte de un nombre propio). |
 | personal context | término acuñado | conservar+glosa | personal context (contexto personal) | personal context |  |
 | personal Distribution Center | término acuñado | conservar+glosa | personal Distribution Center (Centro de Distribución personal) | personal Distribution Center |  |
 | personal evolution / collective evolution | término acuñado | conservar+glosa | personal evolution / collective evolution (evolución personal / evolución colectiva) | personal evolution / collective evolution |  |

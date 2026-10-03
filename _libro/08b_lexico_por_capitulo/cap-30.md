@@ -252,7 +252,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | perplexity / curiosity / intensity (phases) | término acuñado | conservar+glosa | perplexity / curiosity / intensity (perplejidad / curiosidad / intensidad) | perplexity / curiosity / intensity | Fases del ciclo de progreso. |
 | persistence | término de invitado | traducir | persistencia | persistencia | Invitado Ari; palabra común. |
 | persistency / persistent focused action / persist and iterate | término acuñado | conservar+glosa | persistency / persistent focused action / persist and iterate (persistencia sostenida / acción enfocada persistente / persiste e itera) | persistency / persistent focused action / persist and iterate |  |
-| personal brand | término acuñado | conservar+glosa | personal brand (marca personal) | personal brand | Préstamo usual en el marketing hispano; en sentido genérico ajeno al autor puede traducirse "marca personal". |
+| personal brand | palabra común con sentido propio | traducir | marca personal | marca personal | Término usual en español; se traduce siempre "marca personal" (también "personal branding" → "construcción de marca personal" cuando no es parte de un nombre propio). |
 | personal evolution / collective evolution | término acuñado | conservar+glosa | personal evolution / collective evolution (evolución personal / evolución colectiva) | personal evolution / collective evolution |  |
 | personal system | término acuñado | conservar+glosa | personal system (sistema personal) | personal system |  |
 | personal system digital product | término acuñado | conservar+glosa | personal system digital product (producto digital de sistema personal) | personal system digital product |  |

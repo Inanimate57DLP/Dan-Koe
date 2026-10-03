@@ -284,7 +284,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | Performative act (reading as) | término acuñado | conservar+glosa | Performative act (acto performativo) | Performative act | Contexto: reading as (leer como). |
 | perplexity / curiosity / intensity (phases) | término acuñado | conservar+glosa | perplexity / curiosity / intensity (perplejidad / curiosidad / intensidad) | perplexity / curiosity / intensity | Fases del ciclo de progreso. |
 | persistence | término de invitado | traducir | persistencia | persistencia | Invitado Ari; palabra común. |
-| personal brand | término acuñado | conservar+glosa | personal brand (marca personal) | personal brand | Préstamo usual en el marketing hispano; en sentido genérico ajeno al autor puede traducirse "marca personal". |
+| personal brand | palabra común con sentido propio | traducir | marca personal | marca personal | Término usual en español; se traduce siempre "marca personal" (también "personal branding" → "construcción de marca personal" cuando no es parte de un nombre propio). |
 | personal evolution / collective evolution | término acuñado | conservar+glosa | personal evolution / collective evolution (evolución personal / evolución colectiva) | personal evolution / collective evolution |  |
 | personal project | término acuñado | conservar+glosa | personal project (proyecto personal) | personal project |  |
 | perspective | término acuñado | conservar+glosa | perspective (perspectiva) | perspective | Término acuñado en su sentido técnico; el uso cotidiano de "perspective" se traduce "perspectiva" sin glosa. |

@@ -291,7 +291,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | permission to suck | término de invitado | conservar+glosa | permission to suck (permiso para ser malo) | permission to suck | Invitado Devon Eriksen. |
 | perplexity / curiosity / intensity (phases) | término acuñado | conservar+glosa | perplexity / curiosity / intensity (perplejidad / curiosidad / intensidad) | perplexity / curiosity / intensity | Fases del ciclo de progreso. |
 | persistence | término de invitado | traducir | persistencia | persistencia | Invitado Ari; palabra común. |
-| personal brand | término acuñado | conservar+glosa | personal brand (marca personal) | personal brand | Préstamo usual en el marketing hispano; en sentido genérico ajeno al autor puede traducirse "marca personal". |
+| personal brand | palabra común con sentido propio | traducir | marca personal | marca personal | Término usual en español; se traduce siempre "marca personal" (también "personal branding" → "construcción de marca personal" cuando no es parte de un nombre propio). |
 | personal Distribution Center | término acuñado | conservar+glosa | personal Distribution Center (Centro de Distribución personal) | personal Distribution Center |  |
 | personal growth equals business growth | término acuñado | conservar+glosa | personal growth equals business growth (crecimiento personal es igual a crecimiento del negocio) | personal growth equals business growth |  |
 | personal project | término acuñado | conservar+glosa | personal project (proyecto personal) | personal project |  |

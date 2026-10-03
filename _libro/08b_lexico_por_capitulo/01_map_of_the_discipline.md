@@ -152,7 +152,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | permission to suck | término de invitado | conservar+glosa | permission to suck (permiso para ser malo) | permission to suck | Invitado Devon Eriksen. |
 | perplexity / curiosity / intensity (phases) | término acuñado | conservar+glosa | perplexity / curiosity / intensity (perplejidad / curiosidad / intensidad) | perplexity / curiosity / intensity | Fases del ciclo de progreso. |
 | persistence | término de invitado | traducir | persistencia | persistencia | Invitado Ari; palabra común. |
-| personal brand | término acuñado | conservar+glosa | personal brand (marca personal) | personal brand | Préstamo usual en el marketing hispano; en sentido genérico ajeno al autor puede traducirse "marca personal". |
+| personal brand | palabra común con sentido propio | traducir | marca personal | marca personal | Término usual en español; se traduce siempre "marca personal" (también "personal branding" → "construcción de marca personal" cuando no es parte de un nombre propio). |
 | personal growth equals business growth | término acuñado | conservar+glosa | personal growth equals business growth (crecimiento personal es igual a crecimiento del negocio) | personal growth equals business growth |  |
 | personal monopoly | término de tercero usado por el autor | traducir | monopolio personal (personal monopoly) | monopolio personal | Naval; forma fija. Distinto de mental monopoly (conservado). |
 | perspective | término acuñado | traducir | perspectiva | perspectiva | Término acuñado en su sentido técnico; el uso cotidiano de "perspective" se traduce "perspectiva" sin glosa. — Regla general: palabra común; se traduce con forma fija y su sentido propio se explica en el texto. |
