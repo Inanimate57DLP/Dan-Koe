@@ -122,7 +122,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | desaturate (the market) | acuñado | conservar+glosa | desaturate (the market) (desaturar (el mercado)) | desaturate (the market) | Acuñado por Dan Koe; se conserva en inglés. |
 | desired goal / path / problem | acuñado | conservar+glosa | desired goal / path / problem (meta deseada / camino / problema) | desired goal / path / problem | Acuñado por Dan Koe; se conserva en inglés. |
 | detailed instructions | acuñado | conservar+glosa | detailed instructions (instrucciones detalladas) | detailed instructions | Acuñado por Dan Koe; se conserva en inglés. |
-| developmental stages (low / medium / high leverage creators) | acuñado | conservar+glosa | developmental stages (low / medium / high leverage creators) (etapas de desarrollo (creadores de bajo / medio / alto leverage)) | developmental stages (low / medium / high leverage creators) | Acuñado por Dan Koe; se conserva en inglés. |
+| developmental stages (low / medium / high leverage creators) | acuñado | conservar+glosa | developmental stages (low / medium / high apalancamiento creators) (etapas de desarrollo (creadores de bajo / medio / alto apalancamiento)) | developmental stages (low / medium / high leverage creators) | Acuñado por Dan Koe; se conserva en inglés. |
 | digital employee | acuñado | conservar+glosa | digital employee (empleado digital) | digital employee | Acuñado por Dan Koe; se conserva en inglés. |
 | Digital Renaissance | acuñado | conservar+glosa | Digital Renaissance (Renacimiento Digital) | Digital Renaissance | Acuñado por Dan Koe; se conserva en inglés. |
 | digital renaissance man | acuñado | conservar+glosa | digital renaissance man (hombre renacentista digital) | digital renaissance man | Acuñado por Dan Koe; se conserva en inglés. |
@@ -260,7 +260,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | pattern recognition | palabra común con sentido propio | traducir | reconocimiento de patrones | reconocimiento de patrones | Término de la psicología; variante "pattern recognition system / compass" = sistema de reconocimiento de patrones / brújula. Distinto de pattern matching (Stan). |
 | permissionless | término de invitado | conservar+glosa | permissionless (sin permiso) | permissionless | Invitado John Hugh. |
 | permissionless launchpad | término acuñado | conservar+glosa | permissionless launchpad (plataforma de lanzamiento sin permiso) | permissionless launchpad |  |
-| permissionless leverage | término de tercero usado por el autor | traducir | apalancamiento sin permiso (permissionless leverage) | apalancamiento sin permiso | Naval; forma fija. |
+| permissionless leverage | término de tercero usado por el autor | traducir | apalancamiento sin permiso (permissionless apalancamiento) | apalancamiento sin permiso | Naval; forma fija. |
 | perplexity / curiosity / intensity (phases) | término acuñado | conservar+glosa | perplexity / curiosity / intensity (perplejidad / curiosidad / intensidad) | perplexity / curiosity / intensity | Fases del ciclo de progreso. |
 | persistence | término de invitado | traducir | persistencia | persistencia | Invitado Ari; palabra común. |
 | personal brand | término acuñado | conservar+glosa | personal brand (marca personal) | personal brand | Préstamo usual en el marketing hispano; en sentido genérico ajeno al autor puede traducirse "marca personal". |

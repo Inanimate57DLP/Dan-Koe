@@ -126,9 +126,9 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | deplatform (your audience) | palabra común | conservar+glosa | deplatform (your audience) (desplataformar (a tu audiencia)) | deplatform (your audience) | Verbo común en inglés con sentido propio del autor (mover la audiencia a un canal propio, no "expulsar de una plataforma"); se conserva para distinguirlo de la censura. |
 | desaturate (the market) | acuñado | conservar+glosa | desaturate (the market) (desaturar (el mercado)) | desaturate (the market) | Acuñado por Dan Koe; se conserva en inglés. |
 | desired goal / path / problem | acuñado | conservar+glosa | desired goal / path / problem (meta deseada / camino / problema) | desired goal / path / problem | Acuñado por Dan Koe; se conserva en inglés. |
-| developmental stages (low / medium / high leverage creators) | acuñado | conservar+glosa | developmental stages (low / medium / high leverage creators) (etapas de desarrollo (creadores de bajo / medio / alto leverage)) | developmental stages (low / medium / high leverage creators) | Acuñado por Dan Koe; se conserva en inglés. |
+| developmental stages (low / medium / high leverage creators) | acuñado | conservar+glosa | developmental stages (low / medium / high apalancamiento creators) (etapas de desarrollo (creadores de bajo / medio / alto apalancamiento)) | developmental stages (low / medium / high leverage creators) | Acuñado por Dan Koe; se conserva en inglés. |
 | Digital Economics | producto/framework | conservar | Digital Economics | Digital Economics | Nombre propio del programa del autor; se conserva en inglés sin glosa para no confundirlo con "economía digital" (digital economy). En primera aparición puede precederse de "el programa". |
-| digital leverage | acuñado | conservar+glosa | digital leverage (leverage digital) | digital leverage | Acuñado por Dan Koe; se conserva en inglés. |
+| digital leverage | acuñado | conservar+glosa | digital leverage (apalancamiento digital) | digital leverage | Acuñado por Dan Koe; se conserva en inglés. |
 | digital real estate | acuñado | conservar+glosa | digital real estate (bienes raíces digitales) | digital real estate | Acuñado por Dan Koe; se conserva en inglés. |
 | Digital Society | acuñado | conservar+glosa | Digital Society (Sociedad Digital) | Digital Society | Acuñado por Dan Koe; se conserva en inglés. |
 | digital storefront | acuñado | conservar+glosa | digital storefront (vitrina digital) | digital storefront | Acuñado por Dan Koe; se conserva en inglés. |
@@ -177,7 +177,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | hierarchy of goals | acuñado | conservar+glosa | hierarchy of goals (jerarquía de metas) | hierarchy of goals | Acuñado por Dan Koe; se conserva en inglés. |
 | high agency | acuñado | conservar+glosa | high agency (alta agencia) | high agency | Acuñado por Dan Koe; se conserva en inglés. |
 | high value | palabra común | traducir | alto valor | alto valor | Término popular que el autor cuestiona porque nadie lo define; se traduce con forma fija y entre comillas para marcar la distancia crítica. |
-| highest form of leverage | acuñado | conservar+glosa | highest form of leverage (la forma más alta de leverage) | highest form of leverage | Acuñado por Dan Koe; se conserva en inglés. |
+| highest form of leverage | acuñado | conservar+glosa | highest form of leverage (la forma más alta de apalancamiento) | highest form of leverage | Acuñado por Dan Koe; se conserva en inglés. |
 | highest perspective | acuñado | conservar+glosa | highest perspective (la perspectiva más alta) | highest perspective | Acuñado por Dan Koe; se conserva en inglés. |
 | hotel (community) | tercero | traducir | hotel (comunidad) | hotel (comunidad) | Justin Welsh; metáfora traducida con forma fija. |
 | hunting | acuñado | conservar+glosa | hunting (cazar) | hunting | Palabra común con sentido propio (buscar fuentes de dopamina novedosas y significativas; cazar conocimiento y supervivencia). Se conserva en inglés para distinguirla de la caza literal. |
@@ -290,7 +290,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | people follow people | término de invitado | conservar+glosa | people follow people (la gente sigue a personas) | people follow people | Invitado Vitali. |
 | permissionless | término de invitado | conservar+glosa | permissionless (sin permiso) | permissionless | Invitado John Hugh. |
 | permissionless launchpad | término acuñado | conservar+glosa | permissionless launchpad (plataforma de lanzamiento sin permiso) | permissionless launchpad |  |
-| permissionless leverage | término de tercero usado por el autor | traducir | apalancamiento sin permiso (permissionless leverage) | apalancamiento sin permiso | Naval; forma fija. |
+| permissionless leverage | término de tercero usado por el autor | traducir | apalancamiento sin permiso (permissionless apalancamiento) | apalancamiento sin permiso | Naval; forma fija. |
 | perplexity / curiosity / intensity (phases) | término acuñado | conservar+glosa | perplexity / curiosity / intensity (perplejidad / curiosidad / intensidad) | perplexity / curiosity / intensity | Fases del ciclo de progreso. |
 | persistence | término de invitado | traducir | persistencia | persistencia | Invitado Ari; palabra común. |
 | personal brand | término acuñado | conservar+glosa | personal brand (marca personal) | personal brand | Préstamo usual en el marketing hispano; en sentido genérico ajeno al autor puede traducirse "marca personal". |

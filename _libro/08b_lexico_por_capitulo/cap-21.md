@@ -113,10 +113,10 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | depth and span | acuñado | conservar+glosa | depth and span (profundidad y amplitud) | depth and span | Acuñado por Dan Koe; se conserva en inglés. |
 | desaturate (the market) | acuñado | conservar+glosa | desaturate (the market) (desaturar (el mercado)) | desaturate (the market) | Acuñado por Dan Koe; se conserva en inglés. |
 | desired goal / path / problem | acuñado | conservar+glosa | desired goal / path / problem (meta deseada / camino / problema) | desired goal / path / problem | Acuñado por Dan Koe; se conserva en inglés. |
-| developmental stages (low / medium / high leverage creators) | acuñado | conservar+glosa | developmental stages (low / medium / high leverage creators) (etapas de desarrollo (creadores de bajo / medio / alto leverage)) | developmental stages (low / medium / high leverage creators) | Acuñado por Dan Koe; se conserva en inglés. |
+| developmental stages (low / medium / high leverage creators) | acuñado | conservar+glosa | developmental stages (low / medium / high apalancamiento creators) (etapas de desarrollo (creadores de bajo / medio / alto apalancamiento)) | developmental stages (low / medium / high leverage creators) | Acuñado por Dan Koe; se conserva en inglés. |
 | differentiating resource | acuñado | conservar+glosa | differentiating resource (recurso diferenciador) | differentiating resource | Acuñado por Dan Koe; se conserva en inglés. |
 | Digital Economics | producto/framework | conservar | Digital Economics | Digital Economics | Nombre propio del programa del autor; se conserva en inglés sin glosa para no confundirlo con "economía digital" (digital economy). En primera aparición puede precederse de "el programa". |
-| digital leverage | acuñado | conservar+glosa | digital leverage (leverage digital) | digital leverage | Acuñado por Dan Koe; se conserva en inglés. |
+| digital leverage | acuñado | conservar+glosa | digital leverage (apalancamiento digital) | digital leverage | Acuñado por Dan Koe; se conserva en inglés. |
 | digital writing | acuñado | conservar+glosa | digital writing (escritura digital) | digital writing | Acuñado por Dan Koe; se conserva en inglés. |
 | direct response marketing | tercero | traducir | marketing de respuesta directa | marketing de respuesta directa | Término de la tradición publicitaria con traducción establecida en español. |
 | disappear | palabra común | conservar+glosa | disappear (desaparecer) | disappear | Verbo común con sentido propio (cortar personas, apps y hábitos para liberar energía mental). Se conserva en inglés en cursiva para distinguirlo de "desaparecer" literal. |
@@ -166,7 +166,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | half child | acuñado | conservar+glosa | half child (medio hijo) | half child | Acuñado por Dan Koe; se conserva en inglés. |
 | hierarchy of goals | acuñado | conservar+glosa | hierarchy of goals (jerarquía de metas) | hierarchy of goals | Acuñado por Dan Koe; se conserva en inglés. |
 | high value | palabra común | traducir | alto valor | alto valor | Término popular que el autor cuestiona porque nadie lo define; se traduce con forma fija y entre comillas para marcar la distancia crítica. |
-| highest leverage work | acuñado | conservar+glosa | highest leverage work (trabajo de mayor leverage) | highest leverage work | Acuñado por Dan Koe; se conserva en inglés. |
+| highest leverage work | acuñado | conservar+glosa | highest leverage work (trabajo de mayor apalancamiento) | highest leverage work | Acuñado por Dan Koe; se conserva en inglés. |
 | holistic development | acuñado | conservar+glosa | holistic development (desarrollo holístico) | holistic development | Acuñado por Dan Koe; se conserva en inglés. |
 | holistic identity | acuñado | conservar+glosa | holistic identity (identidad holística) | holistic identity | Acuñado por Dan Koe; se conserva en inglés. |
 | holistic synthesizer | acuñado | conservar+glosa | holistic synthesizer (sintetizador holístico) | holistic synthesizer | Acuñado por Dan Koe; se conserva en inglés. |

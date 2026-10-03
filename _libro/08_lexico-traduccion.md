@@ -644,7 +644,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | destruction of the lower | acuñado | conservar+glosa | destruction of the lower (destrucción de lo inferior) | destruction of the lower | Acuñado por Dan Koe; se conserva en inglés. |
 | destructive self-improvement game | acuñado | conservar+glosa | destructive self-improvement game (juego destructivo de la superación personal) | destructive self-improvement game | Acuñado por Dan Koe; se conserva en inglés. |
 | detailed instructions | acuñado | conservar+glosa | detailed instructions (instrucciones detalladas) | detailed instructions | Acuñado por Dan Koe; se conserva en inglés. |
-| developmental stages (low / medium / high leverage creators) | acuñado | conservar+glosa | developmental stages (low / medium / high leverage creators) (etapas de desarrollo (creadores de bajo / medio / alto leverage)) | developmental stages (low / medium / high leverage creators) | Acuñado por Dan Koe; se conserva en inglés. |
+| developmental stages (low / medium / high leverage creators) | acuñado | conservar+glosa | developmental stages (low / medium / high apalancamiento creators) (etapas de desarrollo (creadores de bajo / medio / alto apalancamiento)) | developmental stages (low / medium / high leverage creators) | Acuñado por Dan Koe; se conserva en inglés. |
 | diet ideology / prophet | acuñado | conservar+glosa | diet ideology / prophet (ideología de la dieta / profeta) | diet ideology / prophet | Acuñado por Dan Koe; se conserva en inglés. |
 | differentiating resource | acuñado | conservar+glosa | differentiating resource (recurso diferenciador) | differentiating resource | Acuñado por Dan Koe; se conserva en inglés. |
 | differentiators: generalism, taste, agency | acuñado | conservar+glosa | differentiators: generalism, taste, agency (diferenciadores: generalismo, gusto, agencia) | differentiators: generalism, taste, agency | Acuñado por Dan Koe; se conserva en inglés. |
@@ -658,7 +658,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | digital fat, sugar and salt | acuñado | conservar+glosa | digital fat, sugar and salt (grasa, azúcar y sal digitales) | digital fat, sugar and salt | Acuñado por Dan Koe; se conserva en inglés. |
 | digital garden / digital swamp | acuñado | conservar+glosa | digital garden / digital swamp (jardín digital / pantano digital) | digital garden / digital swamp | Acuñado por Dan Koe; se conserva en inglés. |
 | digital house | acuñado | conservar+glosa | digital house (casa digital) | digital house | Acuñado por Dan Koe; se conserva en inglés. |
-| digital leverage | acuñado | conservar+glosa | digital leverage (leverage digital) | digital leverage | Acuñado por Dan Koe; se conserva en inglés. |
+| digital leverage | acuñado | conservar+glosa | digital leverage (apalancamiento digital) | digital leverage | Acuñado por Dan Koe; se conserva en inglés. |
 | digital nomad trap / highlight reel | acuñado | conservar+glosa | digital nomad trap / highlight reel (trampa del nómada digital) | digital nomad trap | Alias "highlight reel" se trata según su propia fila; aquí la aparición siguiente es "digital nomad trap". |
 | digital product stack | acuñado | conservar+glosa | digital product stack (stack de productos digitales) | digital product stack | Acuñado por Dan Koe; se conserva en inglés. |
 | digital real estate | acuñado | conservar+glosa | digital real estate (bienes raíces digitales) | digital real estate | Acuñado por Dan Koe; se conserva en inglés. |
@@ -1060,19 +1060,19 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | high highs and low lows | acuñado | conservar+glosa | high highs and low lows (altos altos y bajos bajos) | high highs and low lows | Acuñado por Dan Koe; se conserva en inglés. |
 | high intelligence | acuñado | conservar+glosa | high intelligence (inteligencia alta) | high intelligence | Acuñado por Dan Koe; se conserva en inglés. |
 | high lever project | acuñado | conservar+glosa | high lever project (proyecto de alta palanca) | high lever project | Acuñado por Dan Koe; se conserva en inglés. |
-| high leverage creator | acuñado | conservar+glosa | high leverage creator (creador de alto leverage) | high leverage creator | Acuñado por Dan Koe; se conserva en inglés. |
-| high leverage, high impact, highly enjoyable | acuñado | conservar+glosa | high leverage, high impact, highly enjoyable (alto leverage, alto impacto, muy disfrutable) | high leverage, high impact, highly enjoyable | Acuñado por Dan Koe; se conserva en inglés. |
+| high leverage creator | acuñado | conservar+glosa | high leverage creator (creador de alto apalancamiento) | high leverage creator | Acuñado por Dan Koe; se conserva en inglés. |
+| high leverage, high impact, highly enjoyable | acuñado | conservar+glosa | high leverage, high impact, highly enjoyable (alto apalancamiento, alto impacto, muy disfrutable) | high leverage, high impact, highly enjoyable | Acuñado por Dan Koe; se conserva en inglés. |
 | high signal information | acuñado | conservar+glosa | high signal information (información de alta señal) | high signal information | Acuñado por Dan Koe; se conserva en inglés. |
 | high ticket client cycle | acuñado | conservar+glosa | high ticket client cycle (ciclo del cliente high ticket) | high ticket client cycle | Acuñado por Dan Koe; se conserva en inglés. |
 | high value | palabra común | traducir | alto valor | alto valor | Término popular que el autor cuestiona porque nadie lo define; se traduce con forma fija y entre comillas para marcar la distancia crítica. |
 | higher lows | acuñado | conservar+glosa | higher lows (mínimos más altos) | higher lows | Acuñado por Dan Koe; se conserva en inglés. |
 | higher state of mind | acuñado | conservar+glosa | higher state of mind (estado mental superior) | higher state of mind | Acuñado por Dan Koe; se conserva en inglés. |
 | higher value individual | acuñado | conservar+glosa | higher value individual (individuo de mayor valor) | higher value individual | Acuñado por Dan Koe; se conserva en inglés. |
-| highest form of leverage | acuñado | conservar+glosa | highest form of leverage (la forma más alta de leverage) | highest form of leverage | Acuñado por Dan Koe; se conserva en inglés. |
-| highest leverage activities | acuñado | conservar+glosa | highest leverage activities (actividades de mayor leverage) | highest leverage activities | Acuñado por Dan Koe; se conserva en inglés. |
-| highest leverage work | acuñado | conservar+glosa | highest leverage work (trabajo de mayor leverage) | highest leverage work | Acuñado por Dan Koe; se conserva en inglés. |
+| highest form of leverage | acuñado | conservar+glosa | highest form of leverage (la forma más alta de apalancamiento) | highest form of leverage | Acuñado por Dan Koe; se conserva en inglés. |
+| highest leverage activities | acuñado | conservar+glosa | highest leverage activities (actividades de mayor apalancamiento) | highest leverage activities | Acuñado por Dan Koe; se conserva en inglés. |
+| highest leverage work | acuñado | conservar+glosa | highest leverage work (trabajo de mayor apalancamiento) | highest leverage work | Acuñado por Dan Koe; se conserva en inglés. |
 | highest perspective | acuñado | conservar+glosa | highest perspective (la perspectiva más alta) | highest perspective | Acuñado por Dan Koe; se conserva en inglés. |
-| highest to lowest leverage | acuñado | conservar+glosa | highest to lowest leverage (del mayor al menor leverage) | highest to lowest leverage | Acuñado por Dan Koe; se conserva en inglés. |
+| highest to lowest leverage | acuñado | conservar+glosa | highest to lowest leverage (del mayor al menor apalancamiento) | highest to lowest leverage | Acuñado por Dan Koe; se conserva en inglés. |
 | highest version of yourself | acuñado | conservar+glosa | highest version of yourself (la versión más alta de ti mismo) | highest version of yourself | Acuñado por Dan Koe; se conserva en inglés. |
 | highlight of your day | acuñado | conservar+glosa | highlight of your day (lo mejor de tu día) | highlight of your day | Acuñado por Dan Koe; se conserva en inglés. |
 | highlight reel | palabra común | conservar+glosa | highlight reel (carrete de momentos destacados) | highlight reel | Expresión común (highlight reel) con sentido propio: imagen pública incompleta de ídolos o exitosos. Se conserva en inglés para marcar el concepto. |
@@ -1341,7 +1341,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | lever moving tasks | acuñado | conservar+glosa | lever moving tasks (tareas que mueven la palanca) | lever moving tasks | Acuñado por Dan Koe; se conserva en inglés. |
 | leverage | tercero | traducir | apalancamiento | apalancamiento | Término de Naval que el autor redefine ("the multiplier between input and output"); en el mundo hispano del emprendimiento digital también circula "leverage", pero aquí se traduce siempre como apalancamiento. — Regla general: palabra común; se traduce con forma fija y su sentido propio se explica en el texto. |
 | leverage digital tools | acuñado | conservar+glosa | leverage digital tools (apalanca herramientas digitales) | leverage digital tools | Acuñado por Dan Koe; se conserva en inglés. |
-| leverage-based game | acuñado | conservar+glosa | leverage-based game (juego basado en leverage) | leverage-based game | Acuñado por Dan Koe; se conserva en inglés. |
+| leverage-based game | acuñado | conservar+glosa | leverage-based game (juego basado en apalancamiento) | leverage-based game | Acuñado por Dan Koe; se conserva en inglés. |
 | leveraged work | tercero | traducir | trabajo apalancado | trabajo apalancado | Naval (cita) / uso del autor; traducción fija, distinta de "leverage" (conservado). |
 | levers / mechanics | acuñado | conservar+glosa | levers / mechanics (palancas / mecánicas) | levers / mechanics | Acuñado por Dan Koe; se conserva en inglés. |
 | levers of the new Rich | acuñado | conservar+glosa | levers of the new Rich (palancas de los nuevos ricos) | levers of the new Rich | Acuñado por Dan Koe; se conserva en inglés. |
@@ -1390,7 +1390,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | low entropy / mid entropy / high entropy | acuñado | conservar+glosa | low entropy / mid entropy / high entropy (entropía baja / media / alta) | low entropy / mid entropy / high entropy | Acuñado por Dan Koe; se conserva en inglés. |
 | low hanging fruit | palabra común | traducir | fruta al alcance de la mano | fruta al alcance de la mano | Expresión común con traducción establecida; uso del autor: monetizar primero lo más fácil. Se distingue del uso general por referirse siempre a la primera monetización. |
 | low level character | acuñado | conservar+glosa | low level character (personaje de bajo nivel) | low level character | Acuñado por Dan Koe; se conserva en inglés. |
-| low leverage / high leverage distribution | acuñado | conservar+glosa | low leverage / high leverage distribution (distribución de bajo / alto leverage) | low leverage / high leverage distribution | Acuñado por Dan Koe; se conserva en inglés. |
+| low leverage / high leverage distribution | acuñado | conservar+glosa | low leverage / high leverage distribution (distribución de bajo / alto apalancamiento) | low leverage / high leverage distribution | Acuñado por Dan Koe; se conserva en inglés. |
 | low point | acuñado | conservar+glosa | low point (punto bajo) | low point | Acuñado por Dan Koe; se conserva en inglés. |
 | low ticket / high ticket | acuñado | conservar+glosa | low ticket / high ticket (precio bajo / precio alto) | low ticket / high ticket | Acuñado por Dan Koe; se conserva en inglés. |
 | lower class of the creator economy | acuñado | conservar+glosa | lower class of the creator economy (clase baja de la economía de creadores) | lower class of the creator economy | Acuñado por Dan Koe; se conserva en inglés. |
@@ -1824,7 +1824,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | permissionless | término de invitado | conservar+glosa | permissionless (sin permiso) | permissionless | Invitado John Hugh. |
 | permissionless apprenticeship | término acuñado | conservar+glosa | permissionless apprenticeship (aprendizaje sin permiso) | permissionless apprenticeship |  |
 | permissionless launchpad | término acuñado | conservar+glosa | permissionless launchpad (plataforma de lanzamiento sin permiso) | permissionless launchpad |  |
-| permissionless leverage | término de tercero usado por el autor | traducir | apalancamiento sin permiso (permissionless leverage) | apalancamiento sin permiso | Naval; forma fija. |
+| permissionless leverage | término de tercero usado por el autor | traducir | apalancamiento sin permiso (permissionless apalancamiento) | apalancamiento sin permiso | Naval; forma fija. |
 | perpetual vacation | término acuñado | conservar+glosa | perpetual vacation (vacaciones perpetuas) | perpetual vacation |  |
 | perplexity / curiosity / intensity (phases) | término acuñado | conservar+glosa | perplexity / curiosity / intensity (perplejidad / curiosidad / intensidad) | perplexity / curiosity / intensity | Fases del ciclo de progreso. |
 | persistence | término de invitado | traducir | persistencia | persistencia | Invitado Ari; palabra común. |
