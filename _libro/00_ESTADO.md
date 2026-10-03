@@ -3,7 +3,7 @@
 - **CORPUS_PATH resuelto:** `.` (raíz del repositorio). La ruta configurada `Transcripts YouTube Referentes/Dan Koe` no existe; los transcripts están en la raíz.
 - **Directorio de trabajo:** `_libro/` (en la raíz)
 - **Rama de trabajo:** `libro-maestro-dan-koe` (creada desde `origin/main`, commit 1396995)
-- **Último commit:** 04d891e Fase 7: verificación más rápida y estado actualizado
+- **Último commit:** 6bfc053 Fase 7: traducción capítulo 22
 - **Fase actual:** Fase 7 en curso — léxico bloqueado (`08_lexico-traduccion.md`, 2763 términos; extractos por capítulo en `08b_lexico_por_capitulo/`). Traducción por capítulo → `09_capitulos_es/` (3 subagentes en paralelo; plantilla en `99_herramientas/trans_prompt.txt`).
 
 ## Números
@@ -105,9 +105,10 @@
 - cap-20.md: 32447 palabras ✔
 - cap-21.md: 31365 palabras ✔
 - cap-22.md: 35925 palabras ✔
-- cap-23.md: 23811 palabras ✔
-- cap-24.md: 24401 palabras ✔
-- **Total:** 24/43 archivos (40 capítulos + portada, mapa y notas)
+- cap-23.md: 37603 palabras ✔
+- cap-24.md: 30345 palabras ✔
+- cap-25.md: 5363 palabras ✔
+- **Total:** 25/43 archivos (40 capítulos + portada, mapa y notas)
 
 ## Notas
 - Herramientas para reanudar: `_libro/99_herramientas/` contiene las plantillas de prompts (extracción, etiquetado, consolidación, síntesis, arquitectura, redacción) y los scripts (index.py → units.json; bytheme.py/split.py → 02c; gather.py → 02e; expand.py/material.py → 04b_material y chapters.json). Los scripts usan rutas en /tmp/claude-0; si la sesión se reinicia, copia los .json y .py de 99_herramientas a /tmp/claude-0 y regenera. Para redactar un capítulo NN: rellenar `write_prompt.txt` ([N], [NN], [TITULO], [IDS] desde chapters.json, [PALABRAS]).
