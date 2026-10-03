@@ -3,7 +3,7 @@
 - **CORPUS_PATH resuelto:** `.` (raíz del repositorio). La ruta configurada `Transcripts YouTube Referentes/Dan Koe` no existe; los transcripts están en la raíz.
 - **Directorio de trabajo:** `_libro/` (en la raíz)
 - **Rama de trabajo:** `libro-maestro-dan-koe` (creada desde `origin/main`, commit 1396995)
-- **Último commit:** 1b537c8 Fase 7: léxico, assigned goals pasa a traducirse; prompt de corrección de idioma actualizado
+- **Último commit:** 617e879 Fase 7, pasada 2 (idioma): corrección de capítulos 5, 6, 7 y 9; outline pasa a esquema
 - **Fase actual:** Fase 7 en curso — léxico bloqueado (`08_lexico-traduccion.md`, 2763 términos; extractos por capítulo en `08b_lexico_por_capitulo/`). Traducción por capítulo → `09_capitulos_es/` (3 subagentes en paralelo; plantilla en `99_herramientas/trans_prompt.txt`).
 
 ## Números
@@ -86,15 +86,15 @@
 - 00_title_description.md: 596 palabras ✔
 - 01_map_of_the_discipline.md: 5951 palabras ✔
 - 99_notes_on_the_corpus.md: 1856 palabras ✔
-- cap-01.md: 48520 palabras ✔
-- cap-02.md: 42993 palabras ✔
-- cap-03.md: 37061 palabras ✔
-- cap-04.md: 47722 palabras ✔
-- cap-05.md: 29548 palabras ✔
-- cap-06.md: 41259 palabras ✔
-- cap-07.md: 40294 palabras ✔
-- cap-08.md: 42485 palabras ✔
-- cap-09.md: 31552 palabras ✔
+- cap-01.md: 48632 palabras ✔
+- cap-02.md: 43154 palabras ✔
+- cap-03.md: 37083 palabras ✔
+- cap-04.md: 47739 palabras ✔
+- cap-05.md: 29559 palabras ✔
+- cap-06.md: 41280 palabras ✔
+- cap-07.md: 40295 palabras ✔
+- cap-08.md: 42513 palabras ✔
+- cap-09.md: 31564 palabras ✔
 - cap-10.md: 44580 palabras ✔
 - cap-11.md: 35494 palabras ✔
 - cap-12.md: 35826 palabras ✔
@@ -125,7 +125,7 @@
 - cap-37.md: 37129 palabras ✔
 - cap-38.md: 33328 palabras ✔
 - cap-39.md: 39483 palabras ✔
-- cap-40.md: 13313 palabras ✔
+- cap-40.md: 35612 palabras ✔
 - **Total:** 43/43 archivos (40 capítulos + portada, mapa y notas)
 
 ## Notas
