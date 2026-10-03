@@ -13,9 +13,9 @@ Auditor independiente. Fase 5. Alcance: puntos 2–8 del prompt del auditor para
 
 - Leí completos los dos capítulos (1.157 y 939 líneas).
 - Del material revisé el 100 % de las unidades: 156 del capítulo 19 y 126 del capítulo 20. En cada una comparé `desarrollo`, `ejemplos`, `cita`, `origen` y `tension` con el texto del capítulo, sección por sección, con atención especial a los tipos framework, proceso, método, historia, caso, metáfora, dato, término acuñado, fuente de tercero y argumento.
-- Revisé el 100 % del Anexo A: 23 entradas en el capítulo 19 y 13 en el 20.
-- Del Anexo B (léxico) leí todas las entradas: unas 75 en el capítulo 19 y unas 60 en el 20. Prioricé las palabras comunes con sentido propio (niche, niche down, customer avatar, generalist, unconscious competence, hot leads, top of funnel, shiny object syndrome, vessel, specific knowledge, hyper-specialists).
-- Del Anexo C leí todas las entradas: 15 en el capítulo 19 y 20 en el capítulo 20. Son menos de 30 porque los anexos no tienen más.
+- Revisé el 100 % del Anexo A: 21 entradas en el capítulo 19 y 13 en el 20.
+- Del Anexo B (léxico) leí todas las entradas: 80 en el capítulo 19 y 54 en el 20. Prioricé las palabras comunes con sentido propio (niche, niche down, customer avatar, generalist, unconscious competence, hot leads, top of funnel, shiny object syndrome, vessel, specific knowledge, hyper-specialists).
+- Del Anexo C leí todas las entradas: 15 en el capítulo 19 y 18 en el capítulo 20. Son menos de 30 porque los anexos no tienen más.
 - Para la progresión consulté `04_arquitectura.md` y busqué en los capítulos 1–18 (y en los posteriores, para ubicar las sedes) los términos que los capítulos usan sin glosa.
 - Cuando un hallazgo parecía una omisión, busqué en todo `05_capitulos_en/` si el material estaba desarrollado en otro capítulo. Varios cambios de posición del Anexo A que no aparecen en estos capítulos tienen su sede en otro (detalle en cada punto 5). No los cuento como hallazgos.
 
