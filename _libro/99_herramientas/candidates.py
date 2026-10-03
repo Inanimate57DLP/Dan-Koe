@@ -5,7 +5,7 @@ W={'conditioning':'condicionamiento','conformity':'conformidad','autopilot':'pil
 'identity':'identidad','focus':'foco','luck':'suerte','distribution':'distribución','attention':'atención','value':'valor','mind':'mente',
 'game':'juego','habit':'hábito','habits':'hábitos','skill':'habilidad','skills':'habilidades','problem':'problema','problems':'problemas','purpose':'propósito',
 'leverage':'apalancamiento','alignment':'alineación','character':'personaje','culture':'cultura','perspective':'perspectiva','frame':'marco',
-'intention':'intención','generalist':'generalista','residue':'residuo','gravity':'gravedad','dissonance':'disonancia','growth':'crecimiento','vision':'visión','force':'fuerza','rules':'reglas','personal brand':'marca personal','personal branding':'construcción de marca personal','survival mode':'modo supervivencia','self-awareness':'autoconsciencia'}
+'intention':'intención','generalist':'generalista','residue':'residuo','gravity':'gravedad','dissonance':'disonancia','growth':'crecimiento','vision':'visión','force':'fuerza','rules':'reglas','personal brand':'marca personal','personal branding':'construcción de marca personal','survival mode':'modo supervivencia','self-awareness':'autoconsciencia','outline':'esquema','outlines':'esquemas'}
 f=sys.argv[1]; n=0
 for i,line in enumerate(open(f),1):
     if line.startswith('#') : pass
