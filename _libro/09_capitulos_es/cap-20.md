@@ -149,7 +149,7 @@ En diciembre de 2025 establece la distinción en términos de apego. "Los especi
 
 La distinción entre el apego a la habilidad y el apego a la visión es el centro conceptual de la sección 20.1. Explica por qué el mismo cambio tecnológico se vive como catástrofe por una persona y como oportunidad por otra. Para la persona cuya identidad es "ilustrador", una herramienta que ilustra es una amenaza para el yo. Para la persona cuya identidad es una dirección ("estoy construyendo un mundo de historias"), la misma herramienta es un medio más. También conecta con el modelo de identidad del capítulo 3: una habilidad sostenida como identidad se defiende como una parte del cuerpo, y por eso el cambio tecnológico provoca rabia en lugar de adaptación.
 
-#### Deep generalist: la cita de Schmachtenberger
+#### Deep generalist (generalista profundo): la cita de Schmachtenberger
 
 Koe enmarca varios videos con una cita que, en algunas de sus apariciones, atribuye a Daniel Schmachtenberger, el pensador cuyo marco de la metacrisis se presentó en el capítulo 2 (sección 2.9): "La educación tradicional y la hiperespecialización son una manera de volver a las personas sumisas al paradigma o sistema dominante. Estudia los principios generalizados de la naturaleza y sé un **deep generalist** (generalista profundo)". La usa para abrir la sección principal del video de julio de 2024 sobre el futuro del trabajo, donde anuncia "cómo convertirte en un deep generalist te volverá **futureproof** (a prueba de futuro)"; como tesis inicial del video de febrero de 2025 sobre los intereses múltiples; y para abrir la "Regla 6: conviértete en un deep generalist" en su video de septiembre de 2025 con doce reglas para cambiar la propia vida.
 
@@ -193,7 +193,7 @@ Koe vuelve a Eriksen en agosto de 2026, citándolo (transcrito como "Devon Erick
 
 "AI religion", un término acuñado por Koe, nombra la postura absolutista en cualquiera de las dos direcciones. Su relevancia aquí es que la relación del generalista con la IA debería ser instrumental y sin apego: ni el pánico del especialista ante el reemplazo ni la entrega del juicio propia del entusiasta, sino el uso de una herramienta rápida y tonta para lo que hace bien.
 
-#### Los hyper-specialists y el ocaso del trabajo como apalancamiento
+#### Los hyper-specialists (hiperespecialistas) y el ocaso del trabajo como apalancamiento
 
 Koe completa la crítica con una explicación de qué son las computadoras y qué implica eso para el trabajo. "Se supone que los humanos son generalistas": construimos herramientas para poder ser generalistas (si no podemos cazar, construimos una herramienta para cazar). Las computadoras y la tecnología, en cambio, son **hyper-specialists** (hiperespecialistas): resuelven problemas específicos y realizan tareas repetibles. El trabajo, dice, se centralizó y ahora se está descentralizando, "porque ese es un patrón de la naturaleza", un ciclo, una ola, a lo largo de toda la evolución. De ahí el miedo a perder el empleo, los despidos en ciertas empresas y las muchas personas que de todos modos no se sienten realizadas en su trabajo, una insatisfacción que se filtra a otras áreas de la vida y mata la motivación. Los jóvenes no saben qué camino generará riqueza cuando las rutas físicas del petróleo y los bienes raíces están agotadas y exigen recursos enormes.
 
@@ -389,7 +389,7 @@ La actitud de Koe hacia la etiqueta no es coherente a lo largo del corpus, y el 
 
 Las posiciones pueden reconciliarse mediante una distinción que el corpus respalda: saltar de nicho en nicho en busca del más rentable es distinto de explorar intereses que se apilan; los primeros negocios fracasaron *como negocios* (no consiguieron clientes), pero tuvieron éxito *como adquisición de habilidades*, y el "residuo" de 2026 es esa adquisición de habilidades vista desde dentro. Aun así, la tensión sigue sin resolverse, porque Koe nunca enuncia él mismo la reconciliación.
 
-#### El specialized generalism y sus sucesivos nombres
+#### El specialized generalism (generalismo especializado) y sus sucesivos nombres
 
 Si al generalista lo define un objetivo, y el objetivo exige profundidad en algún punto, entonces la oposición entre generalista y especialista no puede ser absoluta. Koe lo vio pronto, y a partir de 2023 formuló repetidamente un híbrido. El híbrido cambia de nombre cuatro veces, y su relación con las afirmaciones radicales de Koe se desplaza con él, de modo que lo mejor es presentar las versiones en secuencia.
 
@@ -739,7 +739,7 @@ Los cuatro conjuntos superpuestos "se entrelazan en una especie de cubo o... pir
 
 La geometría es, como se admite, imprecisa, pero la lógica es clara. Cada capa es una dimensión de capacidad, y la expansión dentro de cada capa produce superposiciones, que son conexiones. Un problema situado en el centro puede abordarse desde cualquier combinación de conocimiento del mercado, habilidad duradera, herramienta actual e interés personal. La afirmación de que una sola mente puede hacer ahora lo que antes hacía una empresa con departamentos es la misma afirmación del "como negocio de una persona, eres todos los departamentos" de la sección 20.2. Los consejos de orden incorporados en el experimento (empieza con un problema de los Eternal markets; prefiere las evergreen skills a las modernas; aprende solo una o dos modern skills) son una consecuencia práctica: las capas difieren en durabilidad, y el generalista debería invertir más en las más duraderas.
 
-#### Become nobody: el polímata sin etiquetas
+#### Become nobody (volverse nadie): el polímata sin etiquetas
 
 La tesis del segundo Renacimiento tiene un correlato de identidad, que Koe expresa en una fórmula que aparece en 2023 y de nuevo en 2024. En agosto de 2023: "**Become nobody** (volverse nadie), vuélvete **label-less** (sin etiquetas), vuélvete todo": sé diseñador, escritor, marketer, persona sociable, corredor, fisicoculturista, filósofo, científico, psicólogo y polímata que sostiene una curiosidad obsesiva. "Suscribirse a la ideología o la identidad de la propia habilidad limita tu potencial en cada situación." El universo, dice, es un **shape shifter** (cambiaformas) en flujo constante: los océanos se evaporan, se condensan en nubes, llueven en charcos, y el agua encuentra su camino de regreso. Nada es permanente; tus células son distintas de lo que eran hace unos años. Tus intereses, tu mente y tu yo tienen permitido cambiar. "Conviértete en el universo."
 
@@ -763,7 +763,7 @@ La fórmula llega a su conclusión práctica en un video de julio de 2023 titula
 
 La frase contiene, en forma comprimida, todo el programa de las partes centrales del libro: explorar a través de los intereses (Parte VI), distribuir los descubrimientos mediante contenido (Partes VIII y IX), crear algo por lo que valga la pena cobrar (Partes X y XI). Al polímata moderno no lo define el número de cosas que sabe, sino este ciclo de exploración, distribución y creación.
 
-#### El camino para volverse futureproof
+#### El camino para volverse futureproof (a prueba de futuro)
 
 En septiembre de 2025, Koe le da al segundo Renacimiento su forma práctica más concisa. Convertirse en creador siempre fue posible, "pero nunca había sido tan accesible. Estamos en el segundo Renacimiento y está ocurriendo en internet", "una sociedad digital donde cualquiera puede ser el próximo Einstein o el próximo Shakespeare". El camino tiene cuatro pasos: (1) "pasar de consumidor a creador" (**consumer vs creator**, consumidor frente a creador); (2) "resolver tus propios problemas"; (3) "distribuir tus soluciones en la **plaza pública global** (global town square)", es decir, internet; (4) atraer a personas que compartan tu visión. "Incluso con solo **mil fans verdaderos** (1,000 true fans), encontrarás el poder para crear una buena vida."
 

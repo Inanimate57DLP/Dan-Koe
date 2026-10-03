@@ -147,7 +147,7 @@ Después toma una respuesta, la que mejor se sintió, y empieza por ahí. Koe a�
 
 Cada pregunta apunta a una capa distinta del material enterrado. La primera apunta al conocimiento acumulado y usa la investigación no remunerada como evidencia de un interés genuino (la misma prueba que "aquello sobre lo que escribirías si el dinero no fuera un problema"). La segunda apunta a los problemas resueltos, que se conectan directamente con el "construye, escribe y véndete a ti mismo" del capítulo 19: el producto es la solución que uno ya construyó para su yo pasado. La tercera, con el término acuñado **early taste** (gusto temprano), apunta a lo que la escuela y el entorno familiar etiquetaron como mala conducta. La pregunta presupone el diagnóstico de la Parte I: lo que el default path suprimió puede ser precisamente el interés que define el gusto de una persona (un concepto tratado en el capítulo 18). La instrucción de "ignorar el nicho y los content pillars" es significativa, porque es el Koe de 2026 diciéndole a su audiencia que deje de lado herramientas que él mismo enseñó antes, un giro que examina la sección 22.3.
 
-#### Segundo paso: la contrarian spine
+#### Segundo paso: la contrarian spine (espina dorsal contraria)
 
 El segundo paso del mismo ejercicio empieza con una frase que resume la posición tardía de Koe sobre la originalidad: **"Nadie necesita a otra persona que reempaquete el sentido común"** ("Nobody needs another person repackaging common sense"). El contenido necesita una perspectiva que solo el escritor ve, y esa perspectiva viene de "la única cosa que crees y que la corriente dominante entiende mal" ("the one thing you believe that the mainstream gets wrong"). La llama la **contrarian spine** (espina dorsal contraria). Otras tres preguntas sirven para localizarla:
 
@@ -234,11 +234,11 @@ La versión más comprimida de la misma idea es un ejercicio de una línea de ju
 
 Tomadas en conjunto, las ideas de esta sección responden a "¿de dónde viene una perspectiva?" con cuatro fuentes: los intereses de los que uno no puede dejar de hablar, los problemas resueltos, una historia de transformación y las creencias que contradicen la corriente dominante. Ninguna de ellas tiene que inventarse; todas tienen que desenterrarse. Lo que queda es organizarlas para que puedan sostener meses de escritura, que es el propósito de la sección siguiente.
 
-### 22.3 El topic tree: organizar los intereses contigo en la cima
+### 22.3 El topic tree (árbol de temas): organizar los intereses contigo en la cima
 
 La materia prima de la sección 22.2 es personal y desordenada. Un escritor que ha excavado cinco intereses, tres problemas resueltos y una creencia contraria todavía tiene que decidir qué escribir el lunes, y luego cada lunes durante el año siguiente. Entre 2022 y 2026 Koe ofreció varias herramientas para esto: el Domain of Mastery, el topic tree (antes llamado "content pyramid"), los content pillars y el content map, y una hoja de papel con el punto A y el punto B. Comparten una estructura (un número pequeño de intereses amplios, desglosados en temas más estrechos que se convierten en piezas de contenido individuales) y difieren en el énfasis. Esta sección las presenta en un orden aproximadamente cronológico, porque ese orden muestra un cambio real en el peso que Koe le da a la planificación, y termina con su propia relativización posterior de todas ellas.
 
-#### El Domain of Mastery (2022 y 2024)
+#### El Domain of Mastery (dominio de maestría) (2022 y 2024)
 
 La más temprana de estas herramientas proviene del curso de Koe Digital Economics, que cita en un video de octubre de 2022 como su respuesta a "Dan, ¿sobre qué escribo?". La llama el **Domain of Mastery** (dominio de maestría). La instrucción es elegir tres intereses:
 
@@ -301,7 +301,7 @@ Lo contrasta con una lógica de venta distinta: la marca personal es un juego a 
 
 El movimiento tiene una lógica clara. Ampliar resuelve el problema del interés hiperespecífico (le importa a muy poca gente); desglosar resuelve el problema opuesto (un mercado amplio es demasiado vago para escribir un post sobre él). El resultado es una estructura ancha en la parte superior, para la audiencia, y estrecha en la parte inferior, para las piezas individuales. Los "Eternal markets" (mercados eternos) del capítulo 19 (salud, riqueza, relaciones, felicidad) son la misma ampliación llevada a su límite.
 
-#### El topic tree
+#### El topic tree (árbol de temas)
 
 El resultado de ampliar y desglosar es lo que Koe, en el mismo video, llama el **topic tree** (árbol de temas). Lo presenta como un gráfico que puede reconstruirse a partir de su narración:
 
@@ -400,7 +400,7 @@ Lo que se mantiene constante en todas las versiones es la estructura que estable
 
 Las dos secciones anteriores situaron el material del escritor dentro del escritor. Esta mira hacia afuera. Una perspectiva no produce posts por sí sola; necesita ideas sobre las cuales trabajar, y la posición constante de Koe es que las ideas no se esperan, sino que se cazan. La sección describe primero la caza como un estado de atención (las golden nuggets, la "modern hunting", la idea que uno desearía haber escrito), luego como una práctica de investigación (el estudio del contenido de alto rendimiento y del contenido atípico, los swipe files, los archivos de otros creadores), después como un criterio de selección (desempeño y entusiasmo) y, por último, a través del sistema de un invitado, la matriz de contenido de Justin Welsh, que resuelve el mismo problema desde otra dirección.
 
-#### Las ideas golden nugget: capturar lo que te entusiasma
+#### Las ideas golden nugget (pepita de oro): capturar lo que te entusiasma
 
 La versión más temprana es de octubre de 2022, en un video sobre "el creador de valor". El tercer paso de un proceso para investigar las propias obsesiones es anotar las **golden nugget ideas**, las ideas golden nugget (pepita de oro). Si uno investiga temas que de verdad le despiertan curiosidad, debería ser "casi imposible no anotar tus descubrimientos". Koe recomienda llevar una running note (nota continua) en el teléfono y capturar ideas, anécdotas, historias, incluso estadísticas, cualquier cosa que le haya hecho pensar a uno "guau, eso me cambió la forma de pensar" o "ajá, eso es". Admite que es difícil ponerlo en palabras, pero "cuando sientes ese entusiasmo, eso es lo que anotas".
 
@@ -756,7 +756,7 @@ La evolución más amplia, resumida, es la siguiente. En 2022 se toleraba robar 
 
 **Fuente:** 4 Frameworks To Write Follow-Worthy Content (+ Kortex Template).md; How To Articulate Your Thoughts Intelligently (Talk Like This).md
 
-#### La perspectiva por sobre la prescripción: en defensa del "fluff"
+#### La perspectiva por sobre la prescripción: en defensa del "fluff" (relleno)
 
 La última parte del argumento se refiere a qué tipo de contenido hace el recordatorio. Muchos creadores se enorgullecen de tener "cero relleno", solo pasos accionables puros. Koe, según su propia descripción, es "muy filosófico", y la gente lo sigue por eso. En marzo de 2023 critica publicaciones como "solo me gusta leer libros que no tengan relleno" y declara que a él le gusta el fluff (relleno). Le ayuda a encuadrar las cosas y le aporta los matices y las grandes ideas que el mismo consejo accionable de siempre no le dará. Hay una cantidad limitada de principios; uno podría aprender a fundar una empresa de mil millones de dólares "en como 10 pasos", y "la mayoría de la gente no lo hace porque no tiene el fluff que resonó con ella; no tiene el porqué" que la hizo actuar ("they don't have the why"). La gente está atrapada en lo que él llama la **surface level trap** (la trampa de la superficie): querer saber exactamente cómo hacer esto, esto y esto, sin la visión, el porqué ni la claridad.
 
