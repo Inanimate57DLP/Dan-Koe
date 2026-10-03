@@ -1,6 +1,6 @@
 import re,os,sys
 E='_libro/05_capitulos_en/'; S='_libro/09_capitulos_es/'
-vos=re.compile(r'\b(vos|tenés|podés|sabés|querés|hacé|escribí|registrá|mirá|fijate|che|sos|decís|hacés|sentís|vení|andá|pensá|elegí)\b',re.I)
+vos=re.compile(r'\b(vos|tenés|podés|sabés|querés|hacé|registrá|mirá|fijate|che|sos|decís|hacés|sentís|vení|andá|pensá)\b',re.I)
 def st(t):
     t=re.sub(r'<!--.*?-->','',t,flags=re.S)
     return dict(w=len(t.split()),h=[len(m) for m in re.findall(r'^(#+) ',t,re.M)],src=len(re.findall(r'\*\*(?:Source|Fuente):\*\*',t)),
