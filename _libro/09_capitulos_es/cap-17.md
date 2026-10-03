@@ -16,7 +16,7 @@ Dos cosas de esa advertencia importan para el resto de la sección. La primera e
 
 El nombre del polo negativo ha cambiado con los años, y el cambio es instructivo. Vale la pena seguirlo cronológicamente, porque cada versión agrega una capa a la anterior.
 
-#### Shallow thinking: confundir la pieza con el rompecabezas (2022)
+#### Shallow thinking (pensamiento superficial): confundir la pieza con el rompecabezas (2022)
 
 En 2022, en un video llamado "The Matrix Is Real (How To Break Free With Your Mind)" (La Matrix es real: cómo liberarte con tu mente), Koe llama **shallow thinking** (pensamiento superficial) a lo opuesto del buen pensamiento. Lo define como "tomar lo que ves como ley y no ver nunca más allá de tus percepciones sensoriales", o "pensar que lo que ves es todo lo que hay". La imagen que usa es la de un rompecabezas cósmico. Ves una pequeña pieza de la imagen cósmica y piensas "eso es todo": no hay nada más allá, ninguna profundidad, ninguna conexión, ninguna relación con otras cosas, ningún otro lugar al que la mente pueda ir. Así, la mente se atasca, se cierra, se vuelve "de mente cerrada" respecto de la única cosa en la que está enfocada. Un foco estrecho significa no poder abrir la mente al potencial de otras cosas, "y ese es el problema" (**Fuente:** `The Matrix Is Real (How To Break Free With Your Mind).md`, 2022-11-20).
 
@@ -59,7 +59,7 @@ Las versiones de 2022 y 2025 describen el *contenido* del mal pensamiento: una s
 
 La expresión "pensamientos preprogramados" ata la definición a la Parte I. En el modelo de Koe, una mente que deja de pensar no se queda en silencio. Recae en la programación que heredó: las creencias de los padres, de la escuela, de la tribu y del feed (capítulo 1). El stupid thinking no es, por lo tanto, la ausencia de pensamiento, sino la sustitución del pensamiento por la repetición.
 
-#### El fenómeno "smart but dumb"
+#### El fenómeno "smart but dumb" (listo pero tonto)
 
 El rasgo reduccionista recibe un nombre propio en el video de 2026: el fenómeno **smart but dumb** (listo pero tonto). "Alguien muy inteligente en un ámbito como los negocios ve a alguien que está deprimido y simplemente lo atribuye a un problema de productividad": "Si estás deprimido, solo haz el trabajo. Si estás triste, solo haz el trabajo". "En algunos casos eso ayuda, pero no ayuda en todos los casos". La metáfora de Koe es el juguete infantil de encajar figuras: "Es como si fueras un niñito… intentando meter a la fuerza [el círculo] en la forma del cuadrado". Lo mismo ocurre en la dirección contraria: una persona espiritual atribuye un fracaso de negocio a "no tener la vibración correcta". Y entonces llega la matización que impide que la idea se convierta en una simple acusación: "Ninguno de los dos está equivocado. Los dos tienen razón a su manera". Lo importante es saber cómo aplicar cada forma de pensar a situaciones distintas; a una persona de negocios le conviene recurrir a la lente espiritual cuando un problema se resuelve mejor de esa manera, y viceversa. "Probablemente tú haces lo mismo sin darte cuenta", agrega, y el simple hecho de notarlo, y de no dejar que tu pensamiento se detenga ahí, "desbloquea este nuevo poder". Más adelante en el video aplica la etiqueta a ámbitos enteros de internet: la política, la religión y la nutrición en línea son "un montón de gente smart but dumb que se trata de idiota entre sí porque no puede ver desde la perspectiva del otro" (**Fuente:** `How To Think Like A Strategic Genius (5-Dimensional Thinking).md`, 2026-02-22).
 
@@ -87,7 +87,7 @@ Un año antes había clasificado a los consumidores de información en tres grup
 
 Una señal emparentada de mente cerrada aparece en la lista de 2023 de las señales de la close-mindedness (mentalidad cerrada), donde la cuarta señal es la **vision avoidance** (evitación de la visión): reprimir tu potencial para evitar la incertidumbre. Una visión no se vuelve clara en un instante; necesita un recordatorio constante, y el camino hacia ella es incierto. La gente no quiere incertidumbre, así que reprime su potencial: sabe que hay algo más, pero nunca baja por "la madriguera de conejo de la curiosidad", nunca rompe con lo que le dicen que aprenda o con lo que le entregan, y pasa memes en lugar de buscar algo que pueda ayudarla. La estructura es una inversión de la preferencia temporal: "la gratificación instantánea de eso se siente bien ahora pero duele después, mientras que tu visión es lo opuesto: duele ahora y se siente bien después". La tarea es "dar vuelta a este interruptor" (**Fuente:** `Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md`, 2023-01-22). La vision avoidance conecta la mente cerrada con la economía de la dopamina del capítulo 11: la mente cerrada no es solo una cuestión de creencias, sino de lo que uno hace con la atención cuando la alternativa es incómoda.
 
-#### El polo positivo: deep thinking, pensamiento crítico, genius thinking
+#### El polo positivo: deep thinking (pensamiento profundo), pensamiento crítico, genius thinking (pensamiento genial)
 
 La contraparte positiva del stupid thinking también ha cambiado de nombre, aunque conserva un núcleo estable: la fórmula de sostener las ideas en el **realm of possibility** (el reino de lo posible).
 
@@ -548,7 +548,7 @@ La cadena es el cuestionamiento de causa y efecto de la sección 17.3 aplicado a
 
 La misma cadena reaparece, casi palabra por palabra, en el consejo de Koe sobre cómo construir una oferta, más adelante en esta sección (el ejemplo del levantamiento de pesas), lo que muestra cuán directamente su método de pensamiento alimenta su marketing.
 
-#### El problema primero en la escritura: "problem is the inception of gold"
+#### El problema primero en la escritura: "problem is the inception of gold" (el problema es el origen del oro)
 
 Koe aplica el pensamiento que parte del problema a su propia escritura con más constancia que a cualquier otra cosa, y en los videos aparece una serie de afirmaciones, de 2024 y 2025, que se construyen unas sobre otras.
 
