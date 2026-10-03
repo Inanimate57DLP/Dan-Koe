@@ -298,13 +298,13 @@ Respondida la objeción, el capítulo puede pasar a la técnica: cómo saber dó
 
 ### 32.3 Niveles de conciencia y sofisticación del mercado
 
-#### El fundamento del marketing: elevar la conciencia de los problemas
+#### El fundamento del marketing: elevar la consciencia de los problemas
 
 En un video de agosto de 2024 Koe describe la visión del mundo de una persona como algo compuesto por varios elementos, el segundo de los cuales son los *problemas*: "los problemas conscientes o inconscientes que te impiden alcanzar tus metas y tu ideal lifestyle (estilo de vida ideal)". Luego enuncia lo que llama el fundamento del marketing: "El fundamento del marketing en su conjunto es elevar con el tiempo los niveles de conciencia de tus lectores en torno a sus problemas. Así que, si has resuelto tus propios problemas y estás ayudando a tu audiencia a hacer lo mismo, estás en una posición excelente" ("The foundation of marketing as a whole is to raise your readers' levels of awareness surrounding their problems over time").
 
 **Fuente:** Don't Find A Niche. Become The Niche.md (2024-08-25)
 
-La definición descansa sobre dos ideas que ya están en su sitio. Del capítulo 31: el valor solo lo percibe una mente capaz de recibirlo, y una persona que no es consciente de un problema percibe su solución como ruido. Del capítulo 19: "solve your own problems and sell the solution" (resuelve tus propios problemas y vende la solución), que es la razón por la que haber resuelto tus propios problemas te pone "en una posición excelente". El elemento nuevo es la expresión "con el tiempo". El marketing, en esta definición, no es un único discurso de venta, sino un proceso gradual de elevar la conciencia, y por eso necesita una escala para medir dónde está una persona.
+La definición descansa sobre dos ideas que ya están en su sitio. Del capítulo 31: el valor solo lo percibe una mente capaz de recibirlo, y una persona que no es consciente de un problema percibe su solución como ruido. Del capítulo 19: "solve your own problems and sell the solution" (resuelve tus propios problemas y vende la solución), que es la razón por la que haber resuelto tus propios problemas te pone "en una posición excelente". El elemento nuevo es la expresión "con el tiempo". El marketing, en esta definición, no es un único discurso de venta, sino un proceso gradual de elevar la consciencia, y por eso necesita una escala para medir dónde está una persona.
 
 #### Los cinco niveles de conciencia
 
@@ -339,15 +339,15 @@ En el nivel 1 se sitúa la mayor parte del contenido viral, y la tarea es mostra
 
 **Fuente:** Value Creation The Single Skill That Built My $1M Solo Business.md (2023-04-09)
 
-Su conclusión es una pregunta de diagnóstico que hay que hacerle a cada activo: "Todo el mundo está en un nivel de conciencia específico en cualquier momento en que interactúa en línea". Así que pregúntate a qué nivel apuntas en tu bio, en tu sitio web, en tus correos, en tu contenido. ¿Eres demasiado avanzado, o demasiado amplio?
+Su conclusión es una pregunta de diagnóstico que hay que hacerle a cada activo: "Todo el mundo está en un nivel de consciencia específico en cualquier momento en que interactúa en línea". Así que pregúntate a qué nivel apuntas en tu bio, en tu sitio web, en tus correos, en tu contenido. ¿Eres demasiado avanzado, o demasiado amplio?
 
-En marzo de 2024 los niveles reaparecen como uno de los *micronutrients* (micronutrientes) de la Value Equation (la ecuación del valor) (capítulo 31): los pequeños elementos que dan forma a cómo se percibe el valor. La mayoría de la gente, dice Koe, se ubica entre los niveles 1 y 4. "Tu trabajo es hablarle a cada nivel en distintas etapas": en tu bio, tu contenido, tu sitio web, tus correos, tus DM y tus llamadas, hasta que tomen conciencia de que tu producto o tu valor es el que deben implementar. Haces seguimiento de dónde empieza la gente el recorrido del comprador, dónde está ahora y dónde terminará. Su ejemplo aplica la escala a su propio producto de la 4-Hour Workday (jornada de 4 horas). A una persona consciente del problema, dale una solución: "Si odias trabajar jornadas largas, amplía tu conjunto de habilidades, empieza por fin un negocio, trabaja en él una hora al día, despide a tu jefe... nunca trabajarás menos si no creas tu propia manera de hacerlo". En el vocabulario de la Value Equation, esto usa el macronutriente del *proceso* para darle una solución a alguien que está en el nivel 2.
+En marzo de 2024 los niveles reaparecen como uno de los *micronutrients* (micronutrientes) de la Value Equation (la ecuación del valor) (capítulo 31): los pequeños elementos que dan forma a cómo se percibe el valor. La mayoría de la gente, dice Koe, se ubica entre los niveles 1 y 4. "Tu trabajo es hablarle a cada nivel en distintas etapas": en tu bio, tu contenido, tu sitio web, tus correos, tus DM y tus llamadas, hasta que tomen consciencia de que tu producto o tu valor es el que deben implementar. Haces seguimiento de dónde empieza la gente el recorrido del comprador, dónde está ahora y dónde terminará. Su ejemplo aplica la escala a su propio producto de la 4-Hour Workday (jornada de 4 horas). A una persona consciente del problema, dale una solución: "Si odias trabajar jornadas largas, amplía tu conjunto de habilidades, empieza por fin un negocio, trabaja en él una hora al día, despide a tu jefe... nunca trabajarás menos si no creas tu propia manera de hacerlo". En el vocabulario de la Value Equation, esto usa el macronutriente del *proceso* para darle una solución a alguien que está en el nivel 2.
 
 **Fuente:** The Value Equation How To Become A High-Status Individual.md (2024-03-17)
 
 #### Una education brand (marca educativa) toca los cinco niveles
 
-¿Qué se desprende de la escala para un creador? En septiembre de 2023 la respuesta de Koe es: "Tu trabajo como education brand (marca educativa) es tocarlos todos". Haz que tu audiencia tome conciencia de los problemas que resolviste en tu propia vida y de cómo esos problemas afectan la suya; da consejos, lecciones y recomendaciones para mostrar que hay una solución; y comercializa un producto que resuelva el problema más rápido "simplemente por la naturaleza de la invested attention (atención invertida)". La última expresión condensa un argumento del capítulo 31: quien ha pagado por un producto invierte atención en él, y esa atención invertida es parte de la razón por la que el producto funciona más rápido que el contenido gratuito.
+¿Qué se desprende de la escala para un creador? En septiembre de 2023 la respuesta de Koe es: "Tu trabajo como education brand (marca educativa) es tocarlos todos". Haz que tu audiencia tome consciencia de los problemas que resolviste en tu propia vida y de cómo esos problemas afectan la suya; da consejos, lecciones y recomendaciones para mostrar que hay una solución; y comercializa un producto que resuelva el problema más rápido "simplemente por la naturaleza de la invested attention (atención invertida)". La última expresión condensa un argumento del capítulo 31: quien ha pagado por un producto invierte atención en él, y esa atención invertida es parte de la razón por la que el producto funciona más rápido que el contenido gratuito.
 
 **Fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md (2023-09-17)
 
@@ -361,7 +361,7 @@ La distinción entre construcción de marca personal y publicidad es la bisagra 
 
 A partir de 2023 Koe hace corresponder los formatos de contenido con la escala. Esa correspondencia tiene tres versiones que difieren en los detalles.
 
-En abril de 2023: el contenido de formato largo puede ilustrar el problema y ofrecer una solución, recorriendo varios niveles. El contenido de formato corto (un tuit, un short, un reel, una publicación de Instagram) suele apuntar a los niveles 1–3, para generar la mayor atención y captar a la mayor parte de la audiencia, "porque el 95 % del mercado son principiantes". De ahí una regla: "Con el contenido de formato corto no conviene ser demasiado avanzado ni demasiado ingenioso; guarda eso para el formato largo", donde puedes presentar un argumento completo: introducir el problema, hacer que tomen conciencia, ofrecer una solución y animar a la acción.
+En abril de 2023: el contenido de formato largo puede ilustrar el problema y ofrecer una solución, recorriendo varios niveles. El contenido de formato corto (un tuit, un short, un reel, una publicación de Instagram) suele apuntar a los niveles 1–3, para generar la mayor atención y captar a la mayor parte de la audiencia, "porque el 95 % del mercado son principiantes". De ahí una regla: "Con el contenido de formato corto no conviene ser demasiado avanzado ni demasiado ingenioso; guarda eso para el formato largo", donde puedes presentar un argumento completo: introducir el problema, hacer que tomen consciencia, ofrecer una solución y animar a la acción.
 
 **Fuente:** Value Creation The Single Skill That Built My $1M Solo Business.md (2023-04-09)
 
@@ -391,7 +391,7 @@ La versión de 2024 depura las de 2023. Los rangos oscilan (niveles 1–3 o 0–
 
 #### Persuadir a quien no está interesado: amplio y deseable
 
-Un video de junio de 2025 explica *por qué* el contenido social debe situarse abajo en la escala. La mayoría de la gente en redes sociales no está aprendiendo de forma intencional; si lo estuviera, buscaría un video, un curso o un artículo. Y a ti te muestran a personas al azar: no controlas quién te ve, como sí lo harías con anuncios segmentados de Facebook. En redes sociales "nadie está buscando; están descubriendo cosas nuevas". De ahí la instrucción: "necesitas enmarcar tus ideas como amplias y deseables" ("you need to frame your ideas as broad and desirable"). Su ejemplo negativo: no abras una cuenta sobre construcción de marca personal con instrucciones sobre cómo elegir temas o escribir una bio. Eso es aburrido y no llegará a una audiencia nueva. Un producto, en cambio, le habla a un nivel de conciencia más alto (el comprador era lo bastante consciente de su problema como para comprar), así que dentro de un producto puedes ir directo a los detalles.
+Un video de junio de 2025 explica *por qué* el contenido social debe situarse abajo en la escala. La mayoría de la gente en redes sociales no está aprendiendo de forma intencional; si lo estuviera, buscaría un video, un curso o un artículo. Y a ti te muestran a personas al azar: no controlas quién te ve, como sí lo harías con anuncios segmentados de Facebook. En redes sociales "nadie está buscando; están descubriendo cosas nuevas". De ahí la instrucción: "necesitas enmarcar tus ideas como amplias y deseables" ("you need to frame your ideas as broad and desirable"). Su ejemplo negativo: no abras una cuenta sobre construcción de marca personal con instrucciones sobre cómo elegir temas o escribir una bio. Eso es aburrido y no llegará a una audiencia nueva. Un producto, en cambio, le habla a un nivel de consciencia más alto (el comprador era lo bastante consciente de su problema como para comprar), así que dentro de un producto puedes ir directo a los detalles.
 
 **Fuente:** How To Build A Better Personal Brand Than 99% Of People.md (2025-06-08)
 
@@ -417,7 +417,7 @@ La segunda observación es una advertencia para el comprador. La gente compra un
 
 **Fuente:** The Death Of The Personal Brand (& The Future Of Creative Work).md (2024-10-06)
 
-La expresión *new Matrix* vuelve a enlazar la educación con el capítulo 1: escapar de un conjunto de creencias programadas adoptando otro en bloque no es escapar. Para quien vende, es un recordatorio de que la meta de elevar la conciencia de alguien es su independencia, lo cual es coherente con la postura ética de la sección 32.2: ayudar a la gente a ascender, no capturarla.
+La expresión *new Matrix* vuelve a enlazar la educación con el capítulo 1: escapar de un conjunto de creencias programadas adoptando otro en bloque no es escapar. Para quien vende, es un recordatorio de que la meta de elevar la consciencia de alguien es su independencia, lo cual es coherente con la postura ética de la sección 32.2: ayudar a la gente a ascender, no capturarla.
 
 #### La sofisticación del mercado: lo que el mercado ya ha visto
 
@@ -507,7 +507,7 @@ El lenguaje del "agarre" y de la atención "involuntaria" es fuerte, y es justam
 
 #### Tensión 1: la supervivencia
 
-"La mente es un story engine (motor de historias), pero también es un conjunto de survival strategies (estrategias de supervivencia)." Vivimos en "un modo constante de detección subconsciente de amenazas", con un cableado de cazadores-recolectores, y deseamos seguridad y soluciones a los problemas. A partir de esa premisa Koe deriva una definición de dos oficios a la vez: "Si puedes hacer que alguien tome conciencia de un problema y después ofrecerle una solución, eso son las ventas en pocas palabras y el storytelling en pocas palabras" ("that's sales in a nutshell and storytelling in a nutshell"). Su "storytelling" tiene aquí tres partes: problema, transformación (el tramo intermedio), solución.
+"La mente es un story engine (motor de historias), pero también es un conjunto de survival strategies (estrategias de supervivencia)." Vivimos en "un modo constante de detección subconsciente de amenazas", con un cableado de cazadores-recolectores, y deseamos seguridad y soluciones a los problemas. A partir de esa premisa Koe deriva una definición de dos oficios a la vez: "Si puedes hacer que alguien tome consciencia de un problema y después ofrecerle una solución, eso son las ventas en pocas palabras y el storytelling en pocas palabras" ("that's sales in a nutshell and storytelling in a nutshell"). Su "storytelling" tiene aquí tres partes: problema, transformación (el tramo intermedio), solución.
 
 **Fuente:** Learn This Skill If You Want To Win In The Next 2-3 Years.md (2026-07-05)
 
@@ -613,7 +613,7 @@ Las three tensions y las five psychological levers son herramientas para el valu
 
 **Fuente:** The Best Online Business To Make $1 Million In 3-5 Years.md (2023-03-19)
 
-Lo ilustra con su propia bandeja de entrada. Recibe alrededor de cien DM y correos por semana de gente que quiere venderle "los mismos subtítulos con calidad de Walmart en un reel que no va a ayudar a hacer crecer mi marca", con asuntos como "Oye, ¿quieres más visualizaciones? ¿Quieres más suscriptores? Hagamos explotar tu cuenta", todo hecho en CapCut, igual que lo de todos los demás. La lección: "A la gente no le importa volverse buena. Le importa conseguir dinero" ("People don't care to get good. They care to get money"). Lo llama un error brutal que él mismo cometió y que quien lo ve también cometerá, y ofrece la observación como "una semilla de conciencia" que se registrará más tarde, a medida que uno vaya pasando por los errores.
+Lo ilustra con su propia bandeja de entrada. Recibe alrededor de cien DM y correos por semana de gente que quiere venderle "los mismos subtítulos con calidad de Walmart en un reel que no va a ayudar a hacer crecer mi marca", con asuntos como "Oye, ¿quieres más visualizaciones? ¿Quieres más suscriptores? Hagamos explotar tu cuenta", todo hecho en CapCut, igual que lo de todos los demás. La lección: "A la gente no le importa volverse buena. Le importa conseguir dinero" ("People don't care to get good. They care to get money"). Lo llama un error brutal que él mismo cometió y que quien lo ve también cometerá, y ofrece la observación como "una semilla de consciencia" que se registrará más tarde, a medida que uno vaya pasando por los errores.
 
 **Fuente:** The Best Online Business To Make $1 Million In 3-5 Years.md (2023-03-19)
 
@@ -746,7 +746,7 @@ En el mismo pasaje describe una secuencia para vender un producto o servicio sin
 
 1. Habla de lo que quieras de una manera interesante que lleve al crecimiento.
 2. Elabora una estrategia de tres semanas basada en los temas y en el producto o servicio. Esto construye autoridad. En ese momento lo estaba haciendo con las cartas de lanzamiento de Solopreneur Sprints, y le pide a su audiencia que compruebe: "¿hablé de negocios en la última carta, o hablé de lo que quise?".
-3. Empieza a nivel principiante "en aras de la conciencia del cliente" y sube a nivel avanzado a medida que se acerca el lanzamiento.
+3. Empieza a nivel principiante "en aras de la consciencia del cliente" y sube a nivel avanzado a medida que se acerca el lanzamiento.
 4. (Presumiblemente) Produce contenido de formato largo, medio y corto "de arriba abajo", momento en el que "the promotions write themselves" (las promociones se escriben solas).
 5. Sistematiza lo que funcionó e incorpora promociones a lo largo de la semana para mantener altas las ventas, como los hilos dos veces por semana sobre un tema relacionado con la oferta.
 
@@ -766,7 +766,7 @@ Ambas versiones describen la misma escala temporal. Es un juego de tiempo y cons
 
 **Fuente:** The One-Person Business Model (How To Productize Yourself Full Guide).md (2024-02-06)
 
-La fórmula "one validated thing 1,000 ways" (una cosa validada de 1.000 maneras) es la misma instrucción que Koe da para el nivel de conciencia 5 (sección 32.3): el lector más consciente necesita la razón adecuada, y ángulos distintos son razones distintas. Primero viene la validación (un ángulo que ha vendido) y después la variación.
+La fórmula "one validated thing 1,000 ways" (una cosa validada de 1.000 maneras) es la misma instrucción que Koe da para el nivel de consciencia 5 (sección 32.3): el lector más consciente necesita la razón adecuada, y ángulos distintos son razones distintas. Primero viene la validación (un ángulo que ha vendido) y después la variación.
 
 #### Promociones largas y promociones cortas
 
@@ -828,7 +828,7 @@ El formulario tiene un título, una descripción y seis preguntas.
 | Título | "Trabaja conmigo uno a uno" | — |
 | Descripción | "Implementa [tu unique process (proceso único)] para que puedas alcanzar [desired outcome (resultado deseado)]": la oferta en una o dos oraciones | — |
 | P1–P3 | Nombre; correo electrónico; usuario en redes sociales | Contacto |
-| P4 | "¿Cuáles son tus mayores dificultades?" (opción múltiple, pertinente para tu tema y tu oferta) | Hace que el prospecto tome conciencia de su problema |
+| P4 | "¿Cuáles son tus mayores dificultades?" (opción múltiple, pertinente para tu tema y tu oferta) | Hace que el prospecto tome consciencia de su problema |
 | P5 | "¿Dónde quieres estar dentro de 30 días?" (opción múltiple) | Despierta el deseo de cambiar |
 | P6 | "Este no es un servicio gratuito. ¿Te tomas en serio trabajar juntos para lograr [resultado deseado]?" (sí/no) | Siembra la idea del pago |
 
@@ -842,7 +842,7 @@ La misma guía de septiembre de 2024 ofrece el guion de la conversación que sig
 
 **Paso 1: retoma la conversación donde quedó.** Si comentó o compartió una publicación, mándale el enlace a la publicación y responde a su comentario por DM. Si envió el cuestionario, repasa brevemente con él sus preguntas: "Hola, [nombre], vi que enviaste el formulario para trabajar conmigo. ¿Puedes contarme más sobre por qué lo completaste? ¿Qué esperas obtener de trabajar conmigo?".
 
-**Paso 2: pregúntale cómo van sus proyectos.** Esto te permite entender sus metas y sus dificultades, y además hace que tome conciencia de un problema o de un obstáculo. Para fitness: "¿Cómo va el proceso de bajar de peso? ¿Hay algo en lo que pueda ayudarte?". La pregunta le recuerda el estilo de vida que quiere y sus puntos de estancamiento. Con las respuestas del cuestionario, pregúntale qué ha hecho ya para resolver los puntos de dolor que mencionó.
+**Paso 2: pregúntale cómo van sus proyectos.** Esto te permite entender sus metas y sus dificultades, y además hace que tome consciencia de un problema o de un obstáculo. Para fitness: "¿Cómo va el proceso de bajar de peso? ¿Hay algo en lo que pueda ayudarte?". La pregunta le recuerda el estilo de vida que quiere y sus puntos de estancamiento. Con las respuestas del cuestionario, pregúntale qué ha hecho ya para resolver los puntos de dolor que mencionó.
 
 **Paso 3: da un novel advice (consejo novedoso) y menciona tu oferta.** Empieza con valor gratuito, para demostrar autoridad, y que no sea básico: "decirle que beba agua le va a hacer pensar que no vale la pena trabajar contigo; demuestra que sabes de lo que hablas". Termina con la oferta y su precio: "En realidad ofrezco un paquete de cuatro sesiones para ayudar con esto. Te ayudo a implementar [proceso único]... El costo total está a la par de un buen entrenador personal: 1.000 dólares por las cuatro sesiones". Con las respuestas del cuestionario, explica en cambio los próximos pasos: qué cubre cada sesión, la agenda, los proyectos y la factura de 1.000 dólares. "Simplemente pon el precio en el mensaje."
 
@@ -858,7 +858,7 @@ El comentario de Koe sobre el paso 4 revela toda su visión de la venta. "No soy
 
 **Fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md (2024-09-15)
 
-La imagen de las *four sales calls* (cuatro llamadas de venta) resume la estrategia de contenido de la Parte IX desde el punto de vista de la venta. Cada pieza de contenido que ha leído un seguidor ya ha hecho lo que hace un vendedor en una llamada: elevar la conciencia, responder objeciones, demostrar competencia, construir confianza. Para cuando llega el DM, la venta está en gran parte hecha. Por eso Koe también puede decir sin contradicción que es malo en ventas: es malo en la *llamada* y bueno en el sistema que vuelve innecesaria la llamada.
+La imagen de las *four sales calls* (cuatro llamadas de venta) resume la estrategia de contenido de la Parte IX desde el punto de vista de la venta. Cada pieza de contenido que ha leído un seguidor ya ha hecho lo que hace un vendedor en una llamada: elevar la consciencia, responder objeciones, demostrar competencia, construir confianza. Para cuando llega el DM, la venta está en gran parte hecha. Por eso Koe también puede decir sin contradicción que es malo en ventas: es malo en la *llamada* y bueno en el sistema que vuelve innecesaria la llamada.
 
 #### La ruta del principiante: 100 DM y el ROI
 
@@ -1011,7 +1011,7 @@ El comentario sobre la "estafa" usa la palabra en un sentido que Koe le da en ot
 
 Las piezas de esta sección y de la anterior forman un único recorrido, que puede exponerse desde el lado del lector:
 
-| Etapa | Activo | Nivel de conciencia al que se dirige | Lo que hace |
+| Etapa | Activo | Nivel de consciencia al que se dirige | Lo que hace |
 |---|---|---|---|
 | Descubrimiento | Publicaciones en redes, incluido el magnetic content | 1–3 | Nombrar problemas, ofrecer soluciones rápidas, atraer la atención de forma amplia |
 | Captura | Lead magnet (o, para las ofertas uno a uno, el qualifying questionnaire) | 2–4 | Concentrar la autoridad en un problema; recoger el correo o la solicitud |
@@ -1019,7 +1019,7 @@ Las piezas de esta sección y de la anterior forman un único recorrido, que pue
 | Conversión | Landing page; DM | 4–5 | Presentar el sistema, la prueba y la oferta; pedir el pago |
 | Confianza para la siguiente compra | Micro product (trust tripwire) | 5, para una oferta mayor | Demostrar valor a bajo costo; enlazar al servicio |
 
-Las afirmaciones de Koe sobre este recorrido varían en orden y énfasis a lo largo de los años, como ha mostrado el capítulo, pero la estructura es estable: el contenido eleva la conciencia, los activos propios concentran la confianza, la landing page o la conversación convierten, y la promoción, agendada y repetida, conecta cada etapa con la siguiente. El capítulo 33 pasa del recorrido a lo que hay al final de él: el producto mismo.
+Las afirmaciones de Koe sobre este recorrido varían en orden y énfasis a lo largo de los años, como ha mostrado el capítulo, pero la estructura es estable: el contenido eleva la consciencia, los activos propios concentran la confianza, la landing page o la conversación convierten, y la promoción, agendada y repetida, conecta cada etapa con la siguiente. El capítulo 33 pasa del recorrido a lo que hay al final de él: el producto mismo.
 
 ### Ejercicios
 
@@ -1037,7 +1037,7 @@ Las afirmaciones de Koe sobre este recorrido varían en orden y énfasis a lo la
 
 7. **Cuestiona el veredicto sobre la sofisticación del mercado.** En enero de 2026 Koe argumentó que los infoproductos han llegado a la etapa final de sofisticación de Schwartz, en la que la marca y una tribu con una misión se convierten en el diferenciador; en el mismo período dijo también que no morirían. Elige un mercado que conozcas bien y decide en qué etapa está, aportando como evidencia las promesas que ves repetirse en él. ¿Cómo serían una meta creíble y un mecanismo creíble en ese mercado? ¿En qué condiciones "your mission is your niche" sería un mal consejo?
 
-8. **Construye tu embudo mínimo en papel.** Redacta, para tu propio trabajo, el titular y el subtítulo de una landing page (que combinen al menos el resultado deseado, el plazo y el personal system), las primeras líneas de su lead, el título de un lead magnet que pudiera hacerse en más o menos un día y un micro product al que podrías ponerle un precio pequeño a partir de algo que ya tienes. Luego transfiere tu consciencia a un lector que esté en el nivel de conciencia 2 e identifica la primera oración en la que se iría.
+8. **Construye tu embudo mínimo en papel.** Redacta, para tu propio trabajo, el titular y el subtítulo de una landing page (que combinen al menos el resultado deseado, el plazo y el personal system), las primeras líneas de su lead, el título de un lead magnet que pudiera hacerse en más o menos un día y un micro product al que podrías ponerle un precio pequeño a partir de algo que ya tienes. Luego transfiere tu consciencia a un lector que esté en el nivel de consciencia 2 e identifica la primera oración en la que se iría.
 
 
 <!-- COBERTURA: U-001-067, U-001-125, U-001-131, U-002-101, U-002-124, U-002-133, U-002-135, U-004-034, U-004-145, U-004-146, U-004-153, U-005-032, U-006-096, U-006-138, U-006-141, U-007-024, U-007-077, U-007-189, U-007-131, U-007-217, U-008-001, U-008-002, U-008-003, U-008-005, U-008-006, U-008-016, U-008-045, U-008-046, U-008-153, U-008-154, U-008-165, U-008-166, U-008-175, U-009-058, U-009-064, U-009-065, U-009-125, U-009-137, U-009-150, U-009-186, U-009-187, U-009-188, U-009-260, U-009-262, U-009-263, U-009-264, U-010-018, U-010-019, U-010-020, U-010-146, U-010-147, U-010-181, U-010-182, U-010-183, U-010-205, U-010-209, U-010-296, U-010-333, U-010-366, U-011-062, U-011-063, U-011-162, U-011-163, U-012-008, U-012-107, U-012-110, U-012-163, U-012-200, U-013-043, U-013-077, U-013-078, U-013-081, U-013-094, U-013-101, U-013-224, U-013-225, U-013-228, U-013-229, U-013-232, U-013-234, U-013-235, U-013-236, U-013-239, U-013-240, U-013-241, U-013-244, U-013-245, U-013-246, U-013-247, U-013-248, U-014-055, U-014-072, U-014-079, U-014-080, U-014-101, U-015-042, U-015-070, U-015-151, U-015-155, U-016-031, U-016-032, U-016-034, U-016-140, U-016-141, U-016-167, U-016-168, U-016-169, U-016-170, U-016-171, U-016-263, U-016-293, U-019-019, U-019-086, U-025-208, U-027-031, U-027-261 -->

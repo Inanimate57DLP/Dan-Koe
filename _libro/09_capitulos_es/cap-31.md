@@ -285,7 +285,7 @@ El ejemplo reúne varios hilos del libro. El capítulo 3 definió la identidad c
 
 #### Posicionamiento: hablarle a una identidad
 
-El término de Koe para el lado práctico de esto es el *posicionamiento* (positioning), una palabra de la industria que usa con un significado específico: presentar una oferta de una manera ajustada a la identidad del cliente. En abril de 2023 da un ejemplo negativo. Supón que intentas hacer que un gamer tome conciencia de un problema de salud. El gamer se identifica con ser gamer y con tomar Mountain Dew o G Fuel, y tú le dices "no eres sano". Te va a tratar de idiota. Koe caracteriza a los gamers como personas de mente cerrada "en la mayoría de los casos", aunque reconoce que algunos son de mente abierta. La lección: "Tienes que posicionar el producto de una manera muy específica para hablarle a esa persona; tienes que entender a tu cliente".
+El término de Koe para el lado práctico de esto es el *posicionamiento* (positioning), una palabra de la industria que usa con un significado específico: presentar una oferta de una manera ajustada a la identidad del cliente. En abril de 2023 da un ejemplo negativo. Supón que intentas hacer que un gamer tome consciencia de un problema de salud. El gamer se identifica con ser gamer y con tomar Mountain Dew o G Fuel, y tú le dices "no eres sano". Te va a tratar de idiota. Koe caracteriza a los gamers como personas de mente cerrada "en la mayoría de los casos", aunque reconoce que algunos son de mente abierta. La lección: "Tienes que posicionar el producto de una manera muy específica para hablarle a esa persona; tienes que entender a tu cliente".
 
 **Fuente:** Value Creation The Single Skill That Built My $1M Solo Business.md (2023-04-09)
 
@@ -299,7 +299,7 @@ El mismo servicio con dos nombres ilustra el principio con exactitud. La sustanc
 
 #### La conciencia del problema: la mente que puede recibir
 
-En septiembre de 2024, Koe agrega un tercer factor, junto a la época y la identidad: el momento en que se encuentra una persona, definido por su conciencia de un problema. "El valor es percepción; lo que para uno es basura, para otro es un tesoro". Algunas personas consideran su video poco importante, mientras que otras que lo han visto "hasta este momento" lo consideran valioso: "así es simplemente como funciona el mercado". Muchos mirarán cinco segundos y dirán "esto es estúpido, es una estafa, me voy". Otros "realmente van a cambiar gracias a él, porque su mente está en el lugar en el que puede recibirlo". Están "atravesando un problema en su vida, son conscientes de ese problema hasta el punto de poder recibir la información y no descartarla".
+En septiembre de 2024, Koe agrega un tercer factor, junto a la época y la identidad: el momento en que se encuentra una persona, definido por su consciencia de un problema. "El valor es percepción; lo que para uno es basura, para otro es un tesoro". Algunas personas consideran su video poco importante, mientras que otras que lo han visto "hasta este momento" lo consideran valioso: "así es simplemente como funciona el mercado". Muchos mirarán cinco segundos y dirán "esto es estúpido, es una estafa, me voy". Otros "realmente van a cambiar gracias a él, porque su mente está en el lugar en el que puede recibirlo". Están "atravesando un problema en su vida, son conscientes de ese problema hasta el punto de poder recibir la información y no descartarla".
 
 **Fuente:** You Won't Look At Money The Same Again (How To Build Meaningful Wealth).md (2024-09-29)
 
@@ -357,7 +357,7 @@ Los ocho pasos, en el orden en que Koe los presenta, son los siguientes.
 
 | Paso | Nombre | Qué hace |
 |---|---|---|
-| 1 | Nivel de conciencia | Identificar cuán consciente es el destinatario del problema y de sus soluciones (cinco niveles, tratados en el capítulo 32) |
+| 1 | Nivel de consciencia | Identificar cuán consciente es el destinatario del problema y de sus soluciones (cinco niveles, tratados en el capítulo 32) |
 | 2 | Posicionamiento a través de los eight human desires (ocho deseos humanos) | Atacar el problema desde un ángulo específico arraigado en un deseo "imposible de ignorar" |
 | 3 | Big problem (el gran problema) | Identificar un gran problema desde el nivel y el ángulo elegidos, y agitarlo |
 | 4 | Mecanismo único | Presentar la solución como el sistema propio, construido a partir de resolver el propio problema, con un nombre atractivo |
@@ -382,7 +382,7 @@ En la sección 31.2, el posicionamiento significaba ajustar una oferta a una ide
 
 #### Paso 3: el big problem (gran problema), y por qué importa la agitación
 
-A partir del nivel de conciencia y del ángulo elegido, se identifica "un gran problema" con el que empezar la escritura, el habla, las ofertas, el contenido, los productos y las promociones. El ejemplo de Koe combina el nivel 1 (inconsciente) con el ángulo del estatus percibido. El big problem pasa a ser no tener un ingreso de seis cifras. Luego se lo agita: mostrar cómo afecta a con quién pueden salir y dónde pueden vivir, posiblemente a si pueden pagar las cuentas con comodidad (lo que entra en el terreno del deseo de supervivencia), y "cómo el mundo, de manera natural, les falta un poco el respeto". Agrega, con franqueza: "No sé si esto es verdad… estamos pintando un cuadro aquí".
+A partir del nivel de consciencia y del ángulo elegido, se identifica "un gran problema" con el que empezar la escritura, el habla, las ofertas, el contenido, los productos y las promociones. El ejemplo de Koe combina el nivel 1 (inconsciente) con el ángulo del estatus percibido. El big problem pasa a ser no tener un ingreso de seis cifras. Luego se lo agita: mostrar cómo afecta a con quién pueden salir y dónde pueden vivir, posiblemente a si pueden pagar las cuentas con comodidad (lo que entra en el terreno del deseo de supervivencia), y "cómo el mundo, de manera natural, les falta un poco el respeto". Agrega, con franqueza: "No sé si esto es verdad… estamos pintando un cuadro aquí".
 
 **Fuente:** Value Creation The Single Skill That Built My $1M Solo Business.md (2023-04-09)
 
@@ -426,7 +426,7 @@ La garantía está diseñada para cambiar la conducta de ambos lados. Es una rev
 
 #### Aplicar las piezas al contenido: formato largo, ventas y formato corto
 
-Koe cierra el marco de 2023 aplicándolo a las redes sociales. Una pieza de contenido de formato largo puede seguir este formato: ilustrar un problema, agitarlo, dar contexto, elevar el nivel de conciencia del lector (mostrar cómo el problema afecta su vida), dar pasos accionables (lo que lo vuelve consciente de la solución), entretejer bullet spray benefits para fomentar la implementación y usar la big idea como titular o título. Su ejemplo es "the one person business" (el negocio de una persona), que es a la vez su mecanismo único y su big idea, y el tema de sus videos más populares. Para el engagement, dice, hay que apuntar a los niveles 1–3: "normalmente es problema-solución, eso es contenido". Para las ventas, hay que ir del nivel 2 al nivel 5. Dirígete a una persona más específica que es consciente de su problema, ilustra por qué afecta su vida y por qué debería cambiar, y luego presenta el producto y un incentivo. El contenido de formato corto se limita a una, dos o tres piezas a la vez. La big idea por sí sola puede ser un tuit, o el problema más la big idea, o el problema más el mecanismo único, o los pasos.
+Koe cierra el marco de 2023 aplicándolo a las redes sociales. Una pieza de contenido de formato largo puede seguir este formato: ilustrar un problema, agitarlo, dar contexto, elevar el nivel de consciencia del lector (mostrar cómo el problema afecta su vida), dar pasos accionables (lo que lo vuelve consciente de la solución), entretejer bullet spray benefits para fomentar la implementación y usar la big idea como titular o título. Su ejemplo es "the one person business" (el negocio de una persona), que es a la vez su mecanismo único y su big idea, y el tema de sus videos más populares. Para el engagement, dice, hay que apuntar a los niveles 1–3: "normalmente es problema-solución, eso es contenido". Para las ventas, hay que ir del nivel 2 al nivel 5. Dirígete a una persona más específica que es consciente de su problema, ilustra por qué afecta su vida y por qué debería cambiar, y luego presenta el producto y un incentivo. El contenido de formato corto se limita a una, dos o tres piezas a la vez. La big idea por sí sola puede ser un tuit, o el problema más la big idea, o el problema más el mecanismo único, o los pasos.
 
 **Fuente:** Value Creation The Single Skill That Built My $1M Solo Business.md (2023-04-09)
 
@@ -443,20 +443,20 @@ Cuatro meses después, en agosto de 2023, Koe resume los mismos principios en un
 | 1 | Un resultado deseado | Parte del paso 8 (resultado final) |
 | 2 | Un burning problem (problema urgente) que se interpone en el camino | Paso 3 (big problem) |
 | 3 | Un camino probado hacia ese resultado, único de tu experiencia | Paso 4 (mecanismo único), ahora con "probado" |
-| 4 | El nivel de conciencia de la persona a la que te diriges | Paso 1 |
+| 4 | El nivel de consciencia de la persona a la que te diriges | Paso 1 |
 | 5 | Un ángulo basado en "los ocho deseos humanos" (aquí no se enumeran) | Paso 2 |
 | 6 | Una lista de beneficios y de cómo resolver el problema afecta su vida | Paso 5 |
 | 7 | Prueba, tuya o de clientes anteriores, de que puedes resolverlo | Paso 6 |
 | 8 | Una big idea que capte la atención "en el mar del ruido de internet" | Paso 7 |
 | 9 | Una reversión del riesgo o una garantía "que termine de convencerlos" | Paso 8 |
 
-La comparación muestra que los nueve Legos son el mismo marco reorganizado, no uno nuevo. Cambian dos cosas. El *desired outcome* (resultado deseado) se convierte en una pieza aparte y pasa al frente, de modo que la lista ahora empieza por la meta y no por el nivel de conciencia. Y el mecanismo se convierte en un *camino probado*, lo que lo ata a la experiencia. Varios de estos elementos (resultado deseado, prueba, big idea, reversión del riesgo) son términos de la tradición del copywriting. Koe los adapta sin nombrar a un autor específico, y presenta la selección y la disposición como propias.
+La comparación muestra que los nueve Legos son el mismo marco reorganizado, no uno nuevo. Cambian dos cosas. El *desired outcome* (resultado deseado) se convierte en una pieza aparte y pasa al frente, de modo que la lista ahora empieza por la meta y no por el nivel de consciencia. Y el mecanismo se convierte en un *camino probado*, lo que lo ata a la experiencia. Varios de estos elementos (resultado deseado, prueba, big idea, reversión del riesgo) son términos de la tradición del copywriting. Koe los adapta sin nombrar a un autor específico, y presenta la selección y la disposición como propias.
 
 #### La Value Equation (ecuación del valor) de 2024: los macronutrients of value (macronutrientes del valor)
 
 El video de marzo de 2024 "The Value Equation" reconstruye el marco sobre la definición de valor dada en la sección 31.1. Los *macronutrients of value* son tres, y Koe define cada uno con cuidado.
 
-El primero es el *problema*: "una limitación o un desafío que genera dolor cuando no se resuelve". El segundo es la *meta*: "un resultado final de impacto que le permite a quien lo recibe evolucionar más allá del problema". El tercero es el *proceso*: "un sistema creativo que genera conocimiento, habilidad y conciencia para cerrar la brecha entre el problema y la solución".
+El primero es el *problema*: "una limitación o un desafío que genera dolor cuando no se resuelve". El segundo es la *meta*: "un resultado final de impacto que le permite a quien lo recibe evolucionar más allá del problema". El tercero es el *proceso*: "un sistema creativo que genera conocimiento, habilidad y consciencia para cerrar la brecha entre el problema y la solución".
 
 Luego muestra que la tríada estructura todo. Para mejorar tu vida, identifica un problema, dirige tu mente hacia una meta y experimenta con soluciones hasta crear un camino: "esto se llama creatividad". Para ganar dinero, ayuda a otros a identificar un problema, dirige su atención hacia una meta y dales claridad para actuar en función de un futuro mejor. Para tener una relación mejor, ambas personas se dan cuenta del problema, comparten una meta y ambas ponen esfuerzo en resolverlo. "Un problema, una meta y un proceso proporcionan la estructura para cualquier cosa que hagas" ("A problem, goal and process provide the structure for anything you do"): escribir, hacer marketing, comportarse, construir un producto, contar una historia. Lo vincula con el capítulo "purpose, path, priority" (propósito, camino, prioridad) de su libro *The Art of Focus* (El arte del foco).
 
@@ -485,7 +485,7 @@ Sobre la "perspectiva construida" de los macronutrientes, los *micronutrients of
 | Reversión del riesgo | Reducir la incertidumbre, la fricción y la dificultad percibidas para obtener resultados | "Solo necesitas 10 minutos al día" |
 | Puntos de dolor | Amplificar el problema para mostrar cómo afecta la vida más allá de la superficie | Sin tiempo para la familia, para otras metas, sin un trabajo con sentido |
 | Beneficios | Aumentar el deseo de alcanzar la solución, volviendo sostenible la motivación si se repiten | Elegir cuándo, en qué y con quién trabajas |
-| Conciencia | Cuántas personas sufren el problema, pueden beneficiarse y están listas para recibir la claridad para actuar | (Desarrollado en el capítulo 32) |
+| Consciencia | Cuántas personas sufren el problema, pueden beneficiarse y están listas para recibir la claridad para actuar | (Desarrollado en el capítulo 32) |
 
 **Fuente:** The Value Equation How To Become A High-Status Individual.md (2024-03-17)
 
@@ -507,7 +507,7 @@ El micronutriente del concepto es la base teórica del hábito de Koe de acuñar
 
 **Fuente:** The Value Equation How To Become A High-Status Individual.md (2024-03-17)
 
-Tres observaciones unen los micronutrientes. Primero, varios de ellos recombinan piezas del marco de 2023: la prueba es el paso 6, la reversión del riesgo es el paso 8, los beneficios son el paso 5, los puntos de dolor son la agitación del paso 3, la conciencia es el paso 1 y el concepto amplía la big idea del paso 7. Segundo, la frase "la gente necesita claridad más de lo que necesita motivación" repite una tesis del capítulo 5. La entropía psíquica se resuelve con claridad, no con motivación, y Koe la usa ahora como principio de diseño de ofertas. Un primer paso claro reduce el desorden que frena la acción. Tercero, el ejemplo de la canción de amor muestra el alcance que Koe reclama para el marco. Si el valor es sense-making estructurado, entonces la misma estructura se aplica a una página de ventas y a un cortejo, que es lo que decía con otras palabras el pasaje de noviembre de 2023 sobre los bares y los mensajes directos (sección 31.2).
+Tres observaciones unen los micronutrientes. Primero, varios de ellos recombinan piezas del marco de 2023: la prueba es el paso 6, la reversión del riesgo es el paso 8, los beneficios son el paso 5, los puntos de dolor son la agitación del paso 3, la consciencia es el paso 1 y el concepto amplía la big idea del paso 7. Segundo, la frase "la gente necesita claridad más de lo que necesita motivación" repite una tesis del capítulo 5. La entropía psíquica se resuelve con claridad, no con motivación, y Koe la usa ahora como principio de diseño de ofertas. Un primer paso claro reduce el desorden que frena la acción. Tercero, el ejemplo de la canción de amor muestra el alcance que Koe reclama para el marco. Si el valor es sense-making estructurado, entonces la misma estructura se aplica a una página de ventas y a un cortejo, que es lo que decía con otras palabras el pasaje de noviembre de 2023 sobre los bares y los mensajes directos (sección 31.2).
 
 #### Una prueba que se acumula: el volante de inercia de testimonios y los appreciating assets (activos que se revalorizan)
 
@@ -533,9 +533,9 @@ La sección ha presentado cuatro versiones de un mismo marco a lo largo de tres 
 
 | Fecha | Nombre | Estructura | Qué cambia |
 |---|---|---|---|
-| Abril de 2023 | Creación de valor (ocho pasos, "marketing Legos") | Conciencia, ángulo (ocho deseos), big problem, mecanismo único, beneficios, prueba, big idea, reversión del riesgo | Primer método completo del valor percibido |
+| Abril de 2023 | Creación de valor (ocho pasos, "marketing Legos") | Consciencia, ángulo (ocho deseos), big problem, mecanismo único, beneficios, prueba, big idea, reversión del riesgo | Primer método completo del valor percibido |
 | Agosto de 2023 | Nueve Legos de la escritura y el habla persuasivas | Agrega el resultado deseado como primera pieza; el mecanismo se convierte en un "camino probado" | Reorganizado en torno al resultado y al problema |
-| Marzo de 2024 | The Value Equation (macro y micronutrientes) | Macro: problema, meta, proceso. Micro: concepto, prueba, reversión del riesgo, puntos de dolor, beneficios, conciencia | Sustancia y percepción separadas; fundamentado en la entropía |
+| Marzo de 2024 | The Value Equation (macro y micronutrientes) | Macro: problema, meta, proceso. Micro: concepto, prueba, reversión del riesgo, puntos de dolor, beneficios, consciencia | Sustancia y percepción separadas; fundamentado en la entropía |
 | 2026 | Three tensions y cinco palancas | Supervivencia, identidad, progreso, accionados por cinco palancas | Los ocho deseos condensados en una secuencia accionable |
 
 La constante a lo largo de las versiones es la estructura de problema, meta y camino. También aparece en las fórmulas de venta de la sección 31.4, en el principio de meta, camino y problema del capítulo 8 y en la anti-vision y la visión del capítulo 7. La versión de 2024 es la más explícita sobre por qué esa estructura es universal. Es la forma de la reversión de la entropía, y lo que sostiene Koe es que cualquier mensaje con esa forma es un mensaje de valor.
@@ -648,11 +648,11 @@ Un breve pasaje de junio de 2023 marca el límite de la persuasión desde el otr
 
 **Contexto complementario:** El mandato de dar de comer al hambriento aparece en varios lugares de la Biblia, por ejemplo en Isaías 58:7 y en Mateo 25:35. La cláusula "los que están saciados terminarán por tener hambre" es un agregado de Koe, hasta donde muestra la transcripción.
 
-Leída junto con la capa de la conciencia de la sección 31.2, la frase es un consejo práctico. Los "hambrientos" son las personas cuyas mentes están listas para recibir. Imponerles valor a los "saciados" produce rechazo, como mostró el ejemplo del gamer. Pero la saciedad es temporal, y alguien que hoy no está listo puede estarlo cuando cambien sus problemas. El agregado deja la puerta abierta sin justificar la presión.
+Leída junto con la capa de la consciencia de la sección 31.2, la frase es un consejo práctico. Los "hambrientos" son las personas cuyas mentes están listas para recibir. Imponerles valor a los "saciados" produce rechazo, como mostró el ejemplo del gamer. Pero la saciedad es temporal, y alguien que hoy no está listo puede estarlo cuando cambien sus problemas. El agregado deja la puerta abierta sin justificar la presión.
 
 #### Vender una transformación: el marketing y las ventas definidos
 
-Los pasajes restantes de la sección convierten la prueba del cambio de conducta en fórmulas de marketing. Koe define las dos habilidades en enero de 2023. El *marketing* es "crear un mensaje que capte la atención y sea relevante y valioso para una persona específica", desde la perspectiva de esa persona. Las *ventas* son "un proceso para hacer que la gente tome conciencia de sus problemas y presentarle una solución a esos problemas". Fíjate, dice, en que las ventas no apuntan solo a las personas que ya son conscientes; son un proceso. Las ventas pueden ser sinónimo de narración de historias, "porque la mente humana le da sentido al mundo a través de historias". Una historia enlaza las cosas desde el pasado hasta el presente y hasta el futuro, y muestra cómo interactúan con tu situación. Las ventas, el marketing y la historia se construyen alrededor de transformaciones. La gente quiere un resultado deseable en el futuro, quiere evitar el lugar donde estuvo en el pasado y quizá quiere salir de su posición actual: quiere mejorar.
+Los pasajes restantes de la sección convierten la prueba del cambio de conducta en fórmulas de marketing. Koe define las dos habilidades en enero de 2023. El *marketing* es "crear un mensaje que capte la atención y sea relevante y valioso para una persona específica", desde la perspectiva de esa persona. Las *ventas* son "un proceso para hacer que la gente tome consciencia de sus problemas y presentarle una solución a esos problemas". Fíjate, dice, en que las ventas no apuntan solo a las personas que ya son conscientes; son un proceso. Las ventas pueden ser sinónimo de narración de historias, "porque la mente humana le da sentido al mundo a través de historias". Una historia enlaza las cosas desde el pasado hasta el presente y hasta el futuro, y muestra cómo interactúan con tu situación. Las ventas, el marketing y la historia se construyen alrededor de transformaciones. La gente quiere un resultado deseable en el futuro, quiere evitar el lugar donde estuvo en el pasado y quizá quiere salir de su posición actual: quiere mejorar.
 
 **Fuente:** The $1 Million Dollar Skill Stack (Learn In This Order).md (2023-01-08)
 
@@ -682,7 +682,7 @@ En marzo de 2024 muestra por qué esta estructura es más que un truco de ventas
 
 **Fuente:** If Your Life Is Spiraling Out Of Control, Here's The Solution To Feeling Lost.md (2024-03-10)
 
-Ese mismo mes da una historia de ventas en cinco pasos. "Primero, haces que tomen conciencia de un problema; segundo, haces que se den cuenta de cómo ese problema afectará su vida si no se resuelve; tercero, presentas una solución, tu producto, que puede resolver ese problema; cuarto, les muestras pruebas de que el cambio es posible, con testimonios o con experiencia personal; y quinto, les das la claridad para actuar y seguir por un camino nuevo". Así, dice, es "como escribes una landing page, haces una llamada de ventas, envías mensajes directos o logras que la gente lea tu newsletter, como hice aquí". Señala que acaba de usar la estructura para promocionar su newsletter. Su resumen: "el proceso de venta no es inherentemente turbio; es guiar a la gente a través de una historia" ("the sales process is not inherently sleazy; it is guiding people through a story").
+Ese mismo mes da una historia de ventas en cinco pasos. "Primero, haces que tomen consciencia de un problema; segundo, haces que se den cuenta de cómo ese problema afectará su vida si no se resuelve; tercero, presentas una solución, tu producto, que puede resolver ese problema; cuarto, les muestras pruebas de que el cambio es posible, con testimonios o con experiencia personal; y quinto, les das la claridad para actuar y seguir por un camino nuevo". Así, dice, es "como escribes una landing page, haces una llamada de ventas, envías mensajes directos o logras que la gente lea tu newsletter, como hice aquí". Señala que acaba de usar la estructura para promocionar su newsletter. Su resumen: "el proceso de venta no es inherentemente turbio; es guiar a la gente a través de una historia" ("the sales process is not inherently sleazy; it is guiding people through a story").
 
 **Fuente:** Working Hard Won't Make You Rich (Do This Instead).md (2024-03-31)
 
@@ -704,7 +704,7 @@ Entre todas las piezas, Koe destaca una como "probablemente la más importante".
 
 **Fuente:** The Fastest Way To Build A One-Person Business (Beginner Guide).md (2024-09-15)
 
-La amplificación funciona gracias a la capa de la conciencia. Un problema enunciado es información que la mente puede descartar. Un problema amplificado se conecta con las metas del lector (la energía, el foco, el futuro que quiere), y solo los problemas conectados con metas se registran como problemas (capítulo 6: sin meta no hay problema). La amplificación es el micronutriente de los "puntos de dolor" y el "agitate" (agitar) del paso 3, ahora con prioridad sobre todo lo demás. Koe le impone dos condiciones: la solución debe funcionar y tener pruebas. Amplificar un problema que uno no puede resolver sería manipulación según su propio criterio ("persuadir, no forzar ni engañar"). El punto final sobre la conveniencia anticipa la economía de la sección 31.5.
+La amplificación funciona gracias a la capa de la consciencia. Un problema enunciado es información que la mente puede descartar. Un problema amplificado se conecta con las metas del lector (la energía, el foco, el futuro que quiere), y solo los problemas conectados con metas se registran como problemas (capítulo 6: sin meta no hay problema). La amplificación es el micronutriente de los "puntos de dolor" y el "agitate" (agitar) del paso 3, ahora con prioridad sobre todo lo demás. Koe le impone dos condiciones: la solución debe funcionar y tener pruebas. Amplificar un problema que uno no puede resolver sería manipulación según su propio criterio ("persuadir, no forzar ni engañar"). El punto final sobre la conveniencia anticipa la economía de la sección 31.5.
 
 #### Un producto es un system for behavior change (sistema para el cambio de conducta)
 
@@ -930,7 +930,7 @@ Este es de nuevo el principio de la perla (sección 31.1), visto desde el lado d
 
 Pero la compra por sí sola tampoco es la respuesta. En octubre de 2023, Koe cuenta una historia de advertencia: "Yo era un course hoarder (acumulador de cursos)… creo que compré unos 50 cursos de desarrollo de software cuando estaba aprendiendo programación, y simplemente los acumulaba, los miraba y construía proyectos siguiéndolos, pero en realidad no aprendí nada". Le dieron conocimiento "hasta cierto punto, pero nunca condujeron a ningún resultado tangible, sobre todo en términos de ingresos, que es la razón principal por la que todos aprendemos cosas en realidad".
 
-En el mismo video cuenta la historia opuesta. Cuando decidió go all in (ir con todo) en las redes sociales, "invertí 3.500 en un programa de coaching". Describe dos bandos. Uno dice "esta gente cobra entre cinco y diez mil dólares por un coaching, es una locura", porque, en sus palabras, "uno, probablemente no tienes el dinero; dos, no has experimentado antes una buena educación; tres, no ves el potencial, no crees, no tienes la mentalidad, no tienes la conciencia… de la oportunidad". El segundo bando disfruta aprendiendo, ve el potencial, cree que puede ser parte de eso e invierte. Su resultado: "Solo me presenté a una llamada de coaching, y no estoy enojado por eso, estoy muy agradecido". "Lo único que me impulsó a la acción fue desperdiciar ese dinero, 3.500 dólares tirados a la basura. Fui a la llamada de coaching, me di cuenta: oh, ya sé todo esto, ¿por qué no estoy haciendo nada al respecto?, y empecé a hacerlo. Pero si no hubiera gastado ese dinero, no lo habría hecho".
+En el mismo video cuenta la historia opuesta. Cuando decidió go all in (ir con todo) en las redes sociales, "invertí 3.500 en un programa de coaching". Describe dos bandos. Uno dice "esta gente cobra entre cinco y diez mil dólares por un coaching, es una locura", porque, en sus palabras, "uno, probablemente no tienes el dinero; dos, no has experimentado antes una buena educación; tres, no ves el potencial, no crees, no tienes la mentalidad, no tienes la consciencia… de la oportunidad". El segundo bando disfruta aprendiendo, ve el potencial, cree que puede ser parte de eso e invierte. Su resultado: "Solo me presenté a una llamada de coaching, y no estoy enojado por eso, estoy muy agradecido". "Lo único que me impulsó a la acción fue desperdiciar ese dinero, 3.500 dólares tirados a la basura. Fui a la llamada de coaching, me di cuenta: oh, ya sé todo esto, ¿por qué no estoy haciendo nada al respecto?, y empecé a hacerlo. Pero si no hubiera gastado ese dinero, no lo habría hecho".
 
 **Fuente:** A Dangerous (But Effective) Strategy To Get Out Of A Rut.md (2023-10-02)
 
@@ -976,11 +976,11 @@ El capítulo se cierra donde empezó la carrera de Koe como vendedor de educaci�
 
 ### Ejercicios
 
-1. La definición de Koe de 2024 dice que el valor es "dar algo útil", y que "si no lo ves como útil gracias a la persuasión, entonces no es valioso". Elige algo que consideres genuinamente útil y que los demás ignoran (una habilidad, un hábito, un libro, un producto). Usa las tres capas de la sección 31.2 (época y cultura, identidad, conciencia) para diagnosticar por qué no se percibe su valor. Luego decide qué capa podrías cambiar de manera realista, y cómo.
+1. La definición de Koe de 2024 dice que el valor es "dar algo útil", y que "si no lo ves como útil gracias a la persuasión, entonces no es valioso". Elige algo que consideres genuinamente útil y que los demás ignoran (una habilidad, un hábito, un libro, un producto). Usa las tres capas de la sección 31.2 (época y cultura, identidad, consciencia) para diagnosticar por qué no se percibe su valor. Luego decide qué capa podrías cambiar de manera realista, y cómo.
 
 2. Reconstruye la cadena de la "value equation" (entropía → sistemas → metas → problemas) usando un ejemplo de tu propia vida en el que hayas revertido alguna forma de desorden. Luego identifica el punto en el que tu solución podría volverse valiosa para otra persona. ¿Cuáles serían su problema, su meta y su proceso, enunciados en los términos que Koe usa para los macronutrientes?
 
-3. Toma una landing page, un correo de ventas o una publicación en redes que hayas visto recientemente. Mapea cuáles de los ocho pasos (2023) y cuáles de los seis micronutrientes (2024) usa, y cuáles faltan. Luego argumenta si las piezas que faltan habrían ayudado o perjudicado a esa pieza concreta, dado el nivel de conciencia probable de su audiencia.
+3. Toma una landing page, un correo de ventas o una publicación en redes que hayas visto recientemente. Mapea cuáles de los ocho pasos (2023) y cuáles de los seis micronutrientes (2024) usa, y cuáles faltan. Luego argumenta si las piezas que faltan habrían ayudado o perjudicado a esa pieza concreta, dado el nivel de consciencia probable de su audiencia.
 
 4. En 2023, Koe recomendaba una garantía de resultado ("cinco citas en 60 días o te devolvemos tu dinero"), y en 2026 dijo que ningún producto de conocimiento puede garantizar resultados sin atender la causa de fondo. Escribe una breve defensa de cada posición. Luego diseña una garantía o una reversión del riesgo para un producto que podrías crear y que se mantenga honesta según la posición de 2026.
 

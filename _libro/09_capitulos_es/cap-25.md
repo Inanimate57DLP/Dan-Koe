@@ -635,7 +635,7 @@ Tres términos de este pasaje tienen significados específicos. **Amplitud y pro
 
 #### El final kicker (remate final)
 
-Un pasaje de diciembre de 2023 extrae una consecuencia para el resto del aparato de ventas. Una audiencia confía más en ti después de haber estado expuesta a mucho de tu contenido, así que "no necesitas tener la landing page y el copywriting perfectos, centrados en la conversión, porque la gente ya sabe si va a comprar". Tu contenido ya elevó su conciencia de sus problemas; la landing page o la página de ventas "es solo el final kicker (remate final) que aporta claridad".
+Un pasaje de diciembre de 2023 extrae una consecuencia para el resto del aparato de ventas. Una audiencia confía más en ti después de haber estado expuesta a mucho de tu contenido, así que "no necesitas tener la landing page y el copywriting perfectos, centrados en la conversión, porque la gente ya sabe si va a comprar". Tu contenido ya elevó su consciencia de sus problemas; la landing page o la página de ventas "es solo el final kicker (remate final) que aporta claridad".
 
 Koe lo contrapone con su propio pasado. Como freelancer que dependía de DM en frío, correos en frío y recomendaciones, era "bastante neurótico" con optimizar su sitio web y su embudo; sentía que cada correo tenía que exprimirse al máximo; "no tenía ningún margen de holgura", porque de cada acción dependía muchísimo. Una audiencia resuelve esto: "mi marketing se hace todos los días sin que yo siquiera haga marketing; es solo contenido que educa a otros, que construye confianza". La optimización, a partir de ahí, es un plus.
 
@@ -932,7 +932,7 @@ En enero de 2024, Koe lleva el argumento un paso más allá: ya eres un creador 
 
 **Fuente:** The 7 Best Internet Business Models (From Zero Experience To Advanced).md
 
-El argumento funciona disolviendo la frontera entre la comunicación ordinaria y la creación de contenido. Si todo el mundo ya produce contenido (mensajes, conversaciones, persuasión), entonces la única diferencia entre una persona común y un creador es el apalancamiento: a cuántas personas llega el contenido y si se publica donde pueda acumularse. **Character in virtual reality** (personaje en la realidad virtual) es el nombre que da Koe a la postura que recomienda: ni "creador" ni "marca personal", sino la conciencia de que uno ya tiene un personaje público en la parte digital de la sociedad. La sección 25.3 desarrolló la mitad de esta afirmación que corresponde al apalancamiento; este pasaje añade la mitad que corresponde a la identidad.
+El argumento funciona disolviendo la frontera entre la comunicación ordinaria y la creación de contenido. Si todo el mundo ya produce contenido (mensajes, conversaciones, persuasión), entonces la única diferencia entre una persona común y un creador es el apalancamiento: a cuántas personas llega el contenido y si se publica donde pueda acumularse. **Character in virtual reality** (personaje en la realidad virtual) es el nombre que da Koe a la postura que recomienda: ni "creador" ni "marca personal", sino la consciencia de que uno ya tiene un personaje público en la parte digital de la sociedad. La sección 25.3 desarrolló la mitad de esta afirmación que corresponde al apalancamiento; este pasaje añade la mitad que corresponde a la identidad.
 
 #### Por qué es difícil argumentar contra la creación de contenido
 

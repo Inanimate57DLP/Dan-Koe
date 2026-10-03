@@ -625,7 +625,7 @@ En agosto de 2026, en "The Art of Strategic Thinking" (El arte del pensamiento e
 | 1. Pensamiento sistémico | Los estrategas "ven sistemas y perspectivas en competencia simultáneamente, mientras que los triunfadores, que son los de la autoayuda o los hombres de negocios, operan dentro de un único sistema de éxito y logro" |
 | 2. Comodidad con la paradoja | "Sostienen contradicciones, como estar a la vez a favor y en contra de la IA, en lugar de resolverlas en respuestas claras o falsas" |
 | 3. El proceso por encima del resultado | "Les importa cómo ocurren las cosas y los principios en juego, no solo los resultados" |
-| 4. Conciencia de las restricciones | "Ven cómo sus supuestos y sus marcos moldean lo que perciben" |
+| 4. Consciencia de las restricciones | "Ven cómo sus supuestos y sus marcos moldean lo que perciben" |
 | 5. Metaconsciencia | "Pueden observar su propia construcción de sentido y no solo desplegar su pericia o moverse en dinámicas sociales" |
 | 6. Flexibilidad con principios | "Valores firmes, pero adaptan los métodos con fluidez", a diferencia de las reglas rígidas o la conformidad social |
 | 7. Las construcciones vistas como elecciones | "Los estrategas ven sus propias construcciones como elecciones: su identidad, sus valores, su visión del mundo" |

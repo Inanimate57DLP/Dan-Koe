@@ -223,7 +223,7 @@ Luego analiza uno de sus tuits para mostrar cuánto puede implicar un gancho bre
 
 **Fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md
 
-Los seis bloques se reducen, si se los examina, a la tríada que estructura casi toda la enseñanza de Koe sobre persuasión: un problema, un beneficio y un proceso que los conecta. El "plazo" añade la dimensión del esfuerzo (cuán rápido y cuán fácil), y la "experiencia personal negativa" añade la dimensión de la historia (sección 23.5). La misma tríada reaparece en el paso "Attention" (atención) de APAG (sección 23.6), donde la relevancia, la conciencia y el esfuerzo son los criterios que un titular debe cumplir.
+Los seis bloques se reducen, si se los examina, a la tríada que estructura casi toda la enseñanza de Koe sobre persuasión: un problema, un beneficio y un proceso que los conecta. El "plazo" añade la dimensión del esfuerzo (cuán rápido y cuán fácil), y la "experiencia personal negativa" añade la dimensión de la historia (sección 23.5). La misma tríada reaparece en el paso "Attention" (atención) de APAG (sección 23.6), donde la relevancia, la consciencia y el esfuerzo son los criterios que un titular debe cumplir.
 
 #### Primero el cuerpo, después el gancho: el framework de Justin Welsh
 
@@ -335,7 +335,7 @@ Las dos versiones de los diez difieren en un solo elemento, y las diferencias de
 | 2 | Interrupciones de patrón | Interrupciones de patrón | Rompe el patrón condicionado de scroll del lector |
 | 3 | Sesgo de negatividad | Sesgo de negatividad | El cerebro atiende a las amenazas; la amenaza a la identidad se registra como amenaza a la supervivencia |
 | 4 | Llamado a un grupo | Llamado al público objetivo | Los lectores toman partido y se comparan |
-| 5 | Llamado al problema | Llamado al problema | Lleva los dolores subconscientes a la conciencia |
+| 5 | Llamado al problema | Llamado al problema | Lleva los dolores subconscientes a la consciencia |
 | 6 | Beneficio potencial | Beneficio potencial | Abre un curiosity gap entre el ahora y el después |
 | 7 | Prueba social | Prueba social | Implica una brecha de información; funciona mejor como "humble flex" (alarde humilde) |
 | 8 | Confidence and conviction (confianza y convicción) | Confidence and conviction | Energía; "metaphorically impactful (metafóricamente impactante), no factualmente correcto" |
@@ -871,7 +871,7 @@ Su ejemplo desarrollado distribuye un newsletter sobre una rutina diaria en las 
 
 **Fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md
 
-**Attention** (atención) es "el arte de los ganchos y los titulares", que Koe llama la parte más importante de una pieza: si el gancho falla, los lectores siguen deslizando, "dejando que tu arduo trabajo pase desapercibido". Tres cosas hacen que sigan leyendo. **Relevancia**: ¿cuán relevante es la pieza para su vida cotidiana? Usa dolores resueltos o beneficios potenciales; pregúntate "qué gana el lector con esto". **Conciencia**: ¿es lo bastante simple o lo bastante compleja para el nivel de conciencia al que apuntas, y entenderán los lectores lo que les muestras? **Esfuerzo**: ¿cuán rápido recibirán el resultado (educación, entretenimiento o inspiración) y cuán fácil es conseguirlo? No hace falta que los tres estén en el titular, pero todos deberían tenerse en cuenta; los más potentes van en el titular de un newsletter o de un artículo, que tiene menos espacio que el gancho de un hilo o de un post de LinkedIn. Los seis hook building blocks presentados en la sección 23.2 pertenecen a este paso.
+**Attention** (atención) es "el arte de los ganchos y los titulares", que Koe llama la parte más importante de una pieza: si el gancho falla, los lectores siguen deslizando, "dejando que tu arduo trabajo pase desapercibido". Tres cosas hacen que sigan leyendo. **Relevancia**: ¿cuán relevante es la pieza para su vida cotidiana? Usa dolores resueltos o beneficios potenciales; pregúntate "qué gana el lector con esto". **Consciencia**: ¿es lo bastante simple o lo bastante compleja para el nivel de consciencia al que apuntas, y entenderán los lectores lo que les muestras? **Esfuerzo**: ¿cuán rápido recibirán el resultado (educación, entretenimiento o inspiración) y cuán fácil es conseguirlo? No hace falta que los tres estén en el titular, pero todos deberían tenerse en cuenta; los más potentes van en el titular de un newsletter o de un artículo, que tiene menos espacio que el gancho de un hilo o de un post de LinkedIn. Los seis hook building blocks presentados en la sección 23.2 pertenecen a este paso.
 
 **Fuente:** This High-Income Skill Will Make You Irreplaceable (Full Guide).md
 
@@ -895,12 +895,12 @@ El tuit del día mediocre es también una demostración compacta de varios princ
 
 | Paso | Pregunta que responde | Recursos principales | Vínculo con capítulos anteriores |
 |---|---|---|---|
-| Attention | ¿Por qué debería detenerme a leer? | Relevancia, nivel de conciencia, esfuerzo; hook building blocks | Empaque y mandamientos (23.2–23.3) |
+| Attention | ¿Por qué debería detenerme a leer? | Relevancia, nivel de consciencia, esfuerzo; hook building blocks | Empaque y mandamientos (23.2–23.3) |
 | Perspective | ¿Qué está mal en cómo veo esto ahora? | La visión común y sus dolores; el "enemigo" | La anti-vision (anti-visión) y el default path (capítulos 2 y 7) |
 | Advantage | ¿Cuál es la mejor manera de verlo? | Ideas novedosas, conceptos, prueba, experiencia, referencias | La visión; sacar a la gente, vendiéndole, de la low consciousness |
 | Gamify | ¿Qué hago ahora? | Pasos, puntos clave, listas; desafío ajustado a la habilidad | Hierarchy of goals, juego y flow (capítulos 8 y 10) |
 
-La tabla hace visible lo que el framework arrastra del resto del sistema de Koe. Perspective y Advantage son, a la escala de una sola pieza, la anti-vision y la visión del capítulo 7: primero la vida que uno no quiere, luego la vida que sí quiere. Gamify es la hierarchy of goals del capítulo 8 y la condición de flow del capítulo 10, ofrecidas al lector. El framework no es, por lo tanto, una plantilla de escritura neutral, sino una compresión del modelo de cambio personal de Koe en la forma de un texto: al lector se le hace recorrer, en unos pocos minutos, la misma secuencia de toma de conciencia, contraste, visión y acción que el libro describe a lo largo de una vida. La afirmación sobre el flow, como la afirmación similar de la sección 23.1, es una adaptación de Koe de la psicología del flow a la lectura, no un resultado empírico.
+La tabla hace visible lo que el framework arrastra del resto del sistema de Koe. Perspective y Advantage son, a la escala de una sola pieza, la anti-vision y la visión del capítulo 7: primero la vida que uno no quiere, luego la vida que sí quiere. Gamify es la hierarchy of goals del capítulo 8 y la condición de flow del capítulo 10, ofrecidas al lector. El framework no es, por lo tanto, una plantilla de escritura neutral, sino una compresión del modelo de cambio personal de Koe en la forma de un texto: al lector se le hace recorrer, en unos pocos minutos, la misma secuencia de toma de consciencia, contraste, visión y acción que el libro describe a lo largo de una vida. La afirmación sobre el flow, como la afirmación similar de la sección 23.1, es una adaptación de Koe de la psicología del flow a la lectura, no un resultado empírico.
 
 #### Cross-domain synthesis (síntesis entre dominios): el framework avanzado
 
@@ -924,7 +924,7 @@ El tratamiento que Koe hace de las fórmulas clásicas evolucionó de la mera me
 
 **Fuente:** The Rise Of The Value Creator (A Career Path For Polymaths & Self-Improvers).md; The One-Person Business Model (How To Productize Yourself Full Guide).md
 
-En abril de 2023, en un video sobre la creación de valor, las desarrolla y da una manera de practicarlas. PASTOR es problema, amplificación, historia, testimonio, oferta, respuesta; AIDA es atención, interés, deseo, acción; PAS es problema, amplificación, solución. La mejor práctica es combinarlas con lo que llama los ocho pasos de la creación de valor (presentados en el capítulo 31, donde Koe los llama "marketing Legos" (Legos de marketing)): nivel de conciencia, angle (posicionamiento a través de los eight human desires (ocho deseos humanos)), big problem, mecanismo único, beneficios, prueba, big idea, y reversión del riesgo (risk reversal) con el resultado final. Uno estructura esos ocho elementos dentro de los frameworks y mejora con el tiempo. En una landing page o página de venta, el titular, el subtítulo y todo lo que está "above the fold" (la primera pantalla visible) es donde uno intenta encajar y resumir los ocho pasos.
+En abril de 2023, en un video sobre la creación de valor, las desarrolla y da una manera de practicarlas. PASTOR es problema, amplificación, historia, testimonio, oferta, respuesta; AIDA es atención, interés, deseo, acción; PAS es problema, amplificación, solución. La mejor práctica es combinarlas con lo que llama los ocho pasos de la creación de valor (presentados en el capítulo 31, donde Koe los llama "marketing Legos" (Legos de marketing)): nivel de consciencia, angle (posicionamiento a través de los eight human desires (ocho deseos humanos)), big problem, mecanismo único, beneficios, prueba, big idea, y reversión del riesgo (risk reversal) con el resultado final. Uno estructura esos ocho elementos dentro de los frameworks y mejora con el tiempo. En una landing page o página de venta, el titular, el subtítulo y todo lo que está "above the fold" (la primera pantalla visible) es donde uno intenta encajar y resumir los ocho pasos.
 
 **Fuente:** Value Creation The Single Skill That Built My $1M Solo Business.md
 
