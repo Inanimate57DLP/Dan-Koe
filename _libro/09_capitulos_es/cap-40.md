@@ -14,7 +14,7 @@ Cuarto, los pasajes espirituales (secciones 40.4 y 40.5) son filosofía y metáf
 
 El capítulo se apoya en casi todo el libro: en la identidad y el default path (camino por defecto) (Partes I y II); en la entropía, la atención y las metas (Parte III); en la visión, la anti-vision (anti-visión), el propósito y el game of life (el juego de la vida) (Parte IV); en la dopamina, la caminata y el descanso (Parte V); en el generalista y en "you are the niche" (tú eres el nicho) (Parte VII); en el one-person business (negocio de una persona) como vessel (vehículo) (Parte X); y en los mapas del desarrollo del capítulo 38. Su última sección cierra el círculo que el libro abrió en el capítulo 1.
 
-### 40.1 Multi-dimensionally jacked: el desarrollo holístico y la década que lo construye
+### 40.1 Multi-dimensionally jacked (mamado en todas las dimensiones): el desarrollo holístico y la década que lo construye
 
 #### El término y su origen
 
@@ -75,7 +75,7 @@ Un argumento de 2023 agrega otro mecanismo: los estándares. Lo que cuenta como 
 
 El tono es duro, pero la lógica es coherente con el resto de la sección. Los estándares son el umbral a partir del cual una situación se registra como problema. Los estándares bajos en un dominio no se quedan en ese dominio; fijan el nivel al que se tolera todo lo demás.
 
-#### La holistic goal: aleja el zoom antes de resolver
+#### La holistic goal (meta holística): aleja el zoom antes de resolver
 
 La consecuencia práctica de la interdependencia es una regla sobre cómo fijar metas. En un video de 2023 sobre el cambio de conducta, Koe da como primer paso: "alinea tu futuro con una holistic goal (meta holística)". Aclara explícitamente que no se trata de "un enfoque súper científico de la formación de hábitos", sino de "la única forma real de que el cambio de conducta fluya con el tiempo". "Holístico" significa "que lo abarca todo", mirar desde el todo en lugar de desde una parte, "el panorama completo". "Esto exige que hagas zoom out (alejar el zoom) y veas más allá de un problema estrecho." Si tienes problemas de dinero, el dinero no es el único dominio que necesita mejorar, y "el dinero está interconectado con todos los demás dominios de tu vida, así que resolver tus problemas de dinero puede no ocurrir hasta que decidas alejar el zoom y cambiar cada uno de los dominios de tu vida", lo cual significa "cambiar quién eres en un nivel fundamental". **Fuente:** The Daily Routine That Changed My Life (4 Habits Most People Ignore).md (2023-11-19).
 
@@ -166,7 +166,7 @@ El argumento sobre la apariencia es el que más probablemente provoque. "La apar
 
 Para quienes ya no son jóvenes, el consejo no se retira, sino que se redimensiona. "Por eso los jóvenes son bendecidos: todavía no tienen tantas responsabilidades; pueden explorar el mundo, pueden hacer cosas, pueden construir durante varias horas al día el futuro que quieren." Pero "no es que estés condenado; es solo que tienes que reservar una hora para construir tu futuro y construirlo de verdad todos los días". **Fuente:** If Your Life Is Spiraling Out Of Control, Here's The Solution To Feeling Lost.md (2024-03-10).
 
-#### Bases construidas temprano: la preseason de Dickie Bush
+#### Bases construidas temprano: la preseason (pretemporada) de Dickie Bush
 
 Una conversación con Dickie Bush en 2023 aporta un argumento económico para construir temprano que Koe no plantea en estos términos. Dickie dice que todo lo que está haciendo ahora construye la base "para ser un padre de clase mundial en los próximos 10 años". Se enfoca en dos bases, la salud y las finanzas, porque ambas "solo se vuelven más difíciles de construir... a medida que envejeces", y porque la "stored energy" (energía almacenada) que hay en ellas las vuelve "más pasivas con el tiempo" una vez que hay sistemas eficientes en marcha.
 
@@ -174,7 +174,7 @@ Su argumento central: "el maintenance (mantenimiento) tiene el mismo nivel de di
 
 El argumento es de Dickie, pero explica por qué el "la vida te golpea como un camión" de Koe no se refiere solo al tiempo perdido. El costo de alcanzar un nivel se paga al principio y el costo de sostenerlo es plano; quien paga antes el costo inicial disfruta durante más tiempo de un mantenimiento barato.
 
-#### La reformulación de 2025: los veinte como tutorial phase
+#### La reformulación de 2025: los veinte como tutorial phase (fase de tutorial)
 
 A los 28, Koe volvió al tema con un énfasis distinto. Anunció que había apagado "el matiz de mis videos normales" en favor de una brutal honesty (honestidad brutal) dirigida a un tipo específico de persona, y observó que quienes se enojan con ese tipo de videos suelen tener vidas terribles y no han crecido más allá de los 20 o los 25. **Fuente:** I'm 28. Here's How To Get Ahead Of Most 20 Year Olds.md (2025-07-27).
 
@@ -264,7 +264,7 @@ En esas caminatas, dice en 2024, "me gusta escuchar audiolibros y conferencias d
 
 **Contexto complementario:** *The Way of the Superior Man* (1997) es un libro de David Deida sobre el propósito masculino, las relaciones y la práctica espiritual. Koe no nombra al autor en este pasaje.
 
-#### Por qué caminar: el holistic habit
+#### Por qué caminar: el holistic habit (hábito holístico)
 
 Koe llama a la caminata "el **holistic habit** (hábito holístico) definitivo": holístico en el sentido de la sección 40.1, porque abarca la mente, el cuerpo, el espíritu y el negocio (el negocio puede cambiarse por el trabajo o la life's work). Un tuit antiguo suyo que se volvió popular dice que "las caminatas largas son el secreto de un cuerpo y una mente esbeltos" ("long walks are the secret to a lean body and mind"). Sin las caminatas, dice, sus ideas, su contenido, su cuerpo y su identidad no serían los mismos, y probablemente tú no lo estarías viendo. **Fuente:** The Power Of Walking. El video de 2024 busca dar "multiple whys" (múltiples porqués) para mantener el hábito y convertir la caminata en un juego.
 
@@ -280,7 +280,7 @@ En 2025 corrige la cifra más famosa del tema. "Los 10.000 pasos al día fueron 
 
 **Contexto complementario:** La cifra de los 10.000 pasos suele rastrearse hasta el marketing de un podómetro japonés de los años sesenta cuyo nombre se traduce aproximadamente como "medidor de 10.000 pasos". La afirmación de Koe de que los beneficios se estabilizan alrededor de los 7.000 a 8.000 pasos coincide con la dirección general de las síntesis de investigación recientes, pero él no cita ningún estudio.
 
-#### La caminata como creativity block
+#### La caminata como creativity block (bloque de creatividad)
 
 El uso de la caminata que más importa para el trabajo de Koe es cognitivo. Contrasta dos tipos de tiempo agendado. "Todos tenemos bloques de productividad" frente a la computadora, trabajando con las ideas generadas durante la semana. Pero pocas personas se sientan a leer o a escuchar contenido de formato largo, así que "la profundidad en sus vidas es muy poca", y se pierden gran parte de la vida. "Para mí, caminar es un **creativity block**": salir afuera durante 15, 30 o 45 minutos de tiempo dedicado y sin ninguna distracción, siempre que te mantengas lejos del teléfono o lo uses bien (un pódcast de más de cinco minutos; un audiolibro que terminas a lo largo de un mes de caminatas). **Fuente:** The Power Of Walking. En ese video le pide a su editor que muestre la actividad cerebral sentado frente a la actividad cerebral caminando como argumento; la imagen no puede reconstruirse a partir de la transcripción.
 
@@ -341,7 +341,7 @@ Estar afuera significa luz solar y ausencia de luz azul, y aquí Koe entra en un
 
 Su historia personal es la del **callo solar**. Era extremadamente pálido, muy blanco en invierno. Caminando sin camiseta 15.000 pasos al día, ahora puede estar en un techo con el calor de Arizona durante 45 minutos seguidos sin quemarse. Lo atribuye sobre todo a haber construido su "callo solar, que es básicamente un bronceado", entrando en él de a poco, además de la dieta y de evitar los alimentos que contribuyen a la inflamación. Admite que no conoce bien la ciencia y que está planteando lo que podría ser posible con una mente abierta. **Fuente:** misma. El término parece venir de las cuentas de salud que sigue, aunque él no lo atribuye.
 
-#### Nutrición: principios, una dieta de eliminación y el frontloading
+#### Nutrición: principios, una dieta de eliminación y el frontloading (carga al inicio)
 
 Sobre la nutrición Koe sostiene dos posiciones que parecen tirar en direcciones opuestas, y el corpus muestra ambas.
 
@@ -361,7 +361,7 @@ La entrevista con Justin Welsh contiene un caso que muestra el cuerpo como base 
 
 Por dos cirugías de espalda no podía levantar mucho peso ni correr, así que él y su esposa caminaban diez millas al día en Los Ángeles. La manzana alrededor de su casa medía 1,1 millas; daban tres vueltas en la mañana, tres después del almuerzo y tres después de la cena. Combinado con nada de alcohol, comida sana y mucho sueño, bajó unas 40 libras "y simplemente me aclaré". Subraya el momento: "Era el momento perfecto para aclararme, porque me estaba independizando y necesitaba estar lo más lúcido posible". **Fuente:** misma. En el relato de Justin la claridad no es un beneficio secundario de ponerse sano; es un requisito previo para empezar un negocio. Es la misma afirmación que hace Koe cuando pone el cuerpo primero.
 
-#### Contra la neurosis de la salud: el destructive self-improvement game
+#### Contra la neurosis de la salud: el destructive self-improvement game (juego destructivo de la superación personal)
 
 El otro lado de la visión de Koe sobre la salud es una advertencia contra el exceso. En la conversación de 2023, Dickie Bush cuenta que dejó de usar su Whoop (un dispositivo vestible que puntúa la recuperación) seis meses antes y que desde entonces no se ha sentido cansado ni una vez. Antes, su rutina era "despertar, ignorar lo que sentía el cuerpo, revisar la puntuación del Whoop... rojo, mejor me lo tomo con calma hoy, estoy cansado... un hábito horrible". El dispositivo fue útil para el circuito de retroalimentación de aprender qué llevaba a qué, pero una vez que los fundamentos estuvieron en su lugar lo dejó: "Tengo demasiado que construir como para estar cansado". Su advertencia es que la herramienta "cumplió su función; ahora no te pases de la raya", y da el ejemplo de los anteojos de luz azul que llevan a sentirse cansado, lo que lleva a más cafeína, lo que se convierte en una espiral. Koe le pone nombre al patrón: "Ese es **the destructive self-improvement game** (el juego destructivo de la superación personal): escuchas las opiniones de demasiada gente sobre lo que deberías estar haciendo hasta que... te olvidas por completo de que todo se trata de cómo te sientes". **Fuente:** Dan Koe & Dickie Bush On One-Person Businesses, Creative Workflows, and Lifestyle Design.md. La historia es de Dickie; el nombre es de Koe.
 
@@ -387,11 +387,11 @@ En septiembre de 2025 Koe lleva más lejos el polo permisivo, en una lista de re
 
 La tensión sigue abierta entre Koe y sus invitados y dentro del propio Koe. La lectura más defendible, coherente con su costumbre de fechar los consejos según la etapa, es que un reinicio radical corresponde a un período de abuso o de construcción intensa, y un camino intermedio corresponde a una vida estabilizada. La razón que Koe da para la variación es simplemente que depende de la etapa. El argumento de Sahil también prepara la sección siguiente: el costo de una práctica de salud debe incluir su costo para las relaciones, que, como sugiere el estudio de Harvard que él cita, son en sí mismas una variable de salud.
 
-### 40.3 Las relaciones y el time billionaire
+### 40.3 Las relaciones y el time billionaire (multimillonario de tiempo)
 
 Las relaciones son el dominio que el propio corpus de Koe menos desarrolla. Las nombra como un pilar de the good life, las incluye dentro del "espíritu" o la "conexión" y hace varias observaciones agudas sobre ellas; pero el tratamiento más sistemático proviene de un único pódcast de 2025 con Sahil Bloom, autor de *The 5 Types of Wealth* (Los 5 tipos de riqueza). Esta sección reúne primero las ideas del propio Koe, que se refieren a cómo el desarrollo personal cambia las relaciones, y luego presenta los marcos de Sahil sobre el tiempo y la riqueza social, señalando en el camino las respuestas de Koe.
 
-#### Las relaciones mejoran by proxy
+#### Las relaciones mejoran by proxy (por extensión)
 
 La afirmación principal de Koe sobre las relaciones responde a la pregunta de dónde encajan en su secuencia de mente, cuerpo y negocio. En 2025, dirigiéndose a espectadores que preguntaban por las relaciones en ese orden de prioridades, dice: "Al desarrollarte a ti mismo mejoras tus relaciones by proxy (por extensión). Te vuelves menos leech (sanguijuela), tu copa rebosa hacia la de ellos, y ya no necesitas que ellos llenen la tuya" ("By developing yourself you improve your relationships by proxy. You become less of a leech, your cup overflows into theirs, and you no longer need them to pour into yours"). **Fuente:** How To Change Your Life So Fast It Feels Illegal.md (2025-03-02).
 
@@ -403,7 +403,7 @@ La segunda se refiere a qué es una relación. "Al interactuar con otras persona
 
 De ambas ideas se desprende una pequeña sugerencia práctica. Koe desearía haber tenido, de más joven, amigos que compartieran con él este tipo de contenido. La gente comparte memes, y eso no es un problema, pero puedes cultivar una relación mucho más profunda con amigos y familia compartiendo tus intereses y tu deseo de cambiar, "para que puedan hacerlo juntos". **Fuente:** The Fastest Way To Change Your Life (Starting Right Now).md (2024-10-10). Compartir el deseo de cambiar es una forma de construir una shared reality.
 
-#### El time billionaire: un gráfico del tiempo que pasamos con las personas
+#### El time billionaire (multimillonario de tiempo): un gráfico del tiempo que pasamos con las personas
 
 La conversación con Sahil Bloom comienza con un gráfico que Koe pone en pantalla y describe para los oyentes. Abre el libro de Sahil *The 5 Types of Wealth* y fue uno de sus hilos más populares, sobre "el concepto del time billionaire (multimillonario de tiempo)". Muestra el tiempo que se pasa con personas específicas a lo largo de una vida. Tal como lo describe Koe:
 
@@ -463,7 +463,7 @@ El segundo se refiere a las personas que te rodean. Sahil no está de acuerdo co
 
 El argumento de la tribu es la versión positiva de la advertencia que hace Koe sobre los veinte (no puedes salvar a las personas que dejan de creer en sí mismas; no dejes que eso infecte tu mente). Ambos descansan en la misma premisa: las expectativas de las personas que te rodean forman parte de tu entorno, y el entorno moldea la conducta.
 
-#### El eject button: por qué la profundidad es rara
+#### El eject button (botón de expulsión): por qué la profundidad es rara
 
 Koe pregunta por qué los jóvenes parecen solos y poco sociables, y les cuesta hacer buenos amigos. Sahil, levantando un teléfono, señala dos causas.
 
@@ -546,7 +546,7 @@ El mecanismo es una proyección autocumplida. Un factor de estrés del pasado se
 
 Su método surgió de un fracaso. Siempre fracasaba al intentar construir un hábito de meditación sentado, así que probó la **meditación caminando**. En muchas caminatas, sobre todo a primera hora de la mañana, se concentra en la sensación del suelo bajo los pies o en el aire que entra por la nariz (algo especialmente perceptible cuando hace frío o calor); cuenta mentalmente y respira; cada vez que la atención se va flotando hacia un pensamiento o una tarea, simplemente vuelve a enfocarse en la respiración. "Así es como reacondicionas (recondition) tu mente para que se desapegue de los pensamientos" y les dé menos atención, viviendo más en el presente y prestando atención a la señal que te rodea en lugar de al ruido. **Fuente:** misma. La meditación caminando es uno de los usos del creativity block de la sección 40.2, y por eso Koe puede contar una sola caminata a favor del cuerpo, la mente y el espíritu a la vez.
 
-#### One meditation: una forma de percibir
+#### One meditation (una meditación): una forma de percibir
 
 Para 2025 la definición se amplía. En un video construido en torno a un conjunto de hábitos diarios únicos ("one project, one book, one meditation, one workout": un proyecto, un libro, una meditación, un entrenamiento), Koe introduce **one meditation** (una meditación). El trabajo puede ser bello y espiritual, dice, pero no reemplaza un hábito que mantenga la conexión con la realidad. La meditación aquí no es solo sentarse en un cuarto oscuro concentrándose en la respiración, aunque eso también es viable; es "una forma de vida, una forma de percibir el mundo a través de una lente de asombro y gratitud", notando las cosas asombrosas que se pasan por alto cuando estás estresado y tienes la mente estrecha. "El propósito de la meditación en este sentido es notar la profundidad, escapar de la trampa de vivir en la superficie." **Fuente:** You Need To Be Extreme If You Want Your Life To Change.md (2025-06-29).
 
@@ -594,7 +594,7 @@ Las dos mitades encajan. El lenguaje es una capa sobre la realidad que la limita
 
 Su modelo de alguien que hace esto bien es Alan Watts, a quien admira como "un ejemplo increíble de poder conectar lo universal con lo práctico". En un video de 2024 sobre la lectura cita a Watts extensamente. Watts llama "mito" a las ideas básicas, no en el sentido de que sean falsas, sino porque un mito es "una imagen en función de la cual intentamos darle sentido al mundo", en cierto modo una metáfora. Para explicarle la electricidad a alguien que no sabe nada de ella, hablas de una "corriente" eléctrica, una palabra tomada de los ríos y de la hidráulica: la electricidad no es agua, pero parte de su comportamiento se parece al del agua. Un astrónomo que explica el universo en expansión y el espacio curvo dice que es como si un globo negro tuviera puntos blancos que representan galaxias y que se alejan unos de otros a medida que lo inflas de manera uniforme; pero el universo no es un globo. El comentario de Koe: "Eso, amigos míos, es inteligencia". **Fuente:** This Simple Reading Habit Will Change Your Life (I Promise).md (2024-08-04). La inteligencia, en este uso, es la capacidad de elegir la imagen que traslada el comportamiento correcto de un dominio conocido a uno desconocido, sin olvidar que solo es una imagen.
 
-#### Getting the point: lectura metafórica frente a lectura literal
+#### Getting the point (captar el punto): lectura metafórica frente a lectura literal
 
 Del principio de que las palabras son indicadores se sigue una regla de lectura, a la que Koe llama **getting the point** (captar el punto). En un video de 2023 la explica con un tuit propio: "La mayor habilidad que uno puede desarrollar es reducir el tiempo entre la idea y la ejecución" ("The greatest skill one can develop is decreasing the time between idea and execution"). El tuit generó polémica ("esa no es la mayor habilidad, esta lo es"), y a él le resulta gracioso haber titulado ese mismo video también "la mayor habilidad del siglo XXI". La gente lo lee literalmente y "le explota el cerebro", pero si lo interpretas de forma metafórica y captas la esencia (que él está sumando impacto al decirlo de esa manera), no concluyes "esta es la única habilidad que voy a aprender". "Eso es exactamente: captar el punto. Captar el punto te va a cambiar la vida. Las palabras apuntan a algo; no son las palabras mismas." Dice que podría "despotricar todo el día" sobre la interpretación metafórica frente a la literal de la vida. **Fuente:** The Most Important High-Income Skill To Learn (In The Next 10 Years).md (2023-11-05).
 
@@ -702,7 +702,7 @@ Este pasaje cierra un círculo con la sección 40.1. Los cuatro dominios de the 
 
 Un pasaje de 2022 agrega lo que esto significa para la idea misma de negocio. Koe es "un gran defensor de la economía de los creadores" y de crear tu propio producto o servicio que ayude a otros a llegar más rápido adonde tú estás. Esa es "la forma de elevar la consciencia colectiva: ayudando a las personas a desarrollarse más rápido", descubriendo cuáles son los verdaderos atajos y promoviendo una holistic understanding (comprensión holística) de las cosas. Lo que viene después es desconocido; espera que un grupo de personas de alto rendimiento formadas de esta manera tenga las ideas creativas para llevar la vida, los negocios y sus subdominios a la siguiente fase. "Esto es lo que el negocio es para mí", por oposición a la visión común del negocio como "una megacorporación que simplemente odia a todo el mundo y que no es realmente beneficiosa para la sociedad en su conjunto". **Fuente:** Learn New Skills FAST (How I Remember Everything I Learn).md (2022-11-27).
 
-#### La creator society
+#### La creator society (sociedad de los creadores)
 
 Koe también describe el resultado colectivo en términos sociales, como un cambio en la estructura de la sociedad. El vocabulario aparece sobre todo en 2023.
 

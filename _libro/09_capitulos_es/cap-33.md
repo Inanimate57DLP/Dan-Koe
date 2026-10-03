@@ -32,7 +32,7 @@ En 2022 Koe ofrece la imagen más clara de en qué se diferencia un producto del
 
 La metáfora contiene una teoría de la relación entre contenido y producto que las secciones siguientes desarrollan. El contenido es parcial y disperso, y es gratuito porque está incompleto. Un producto es completo, ordenado y comprimido. Por eso, como muestra la sección 33.5, Koe puede responder la pregunta "si regalo todo en mi contenido, ¿qué me queda para vender?". El contenido da piezas; el producto da la ruta.
 
-#### De 100.000 dólares a un millón, y la advertencia sobre el beginner hell
+#### De 100.000 dólares a un millón, y la advertencia sobre el beginner hell (infierno del principiante)
 
 La cifra de la afirmación cambia con el tiempo. En diciembre de 2022 el título de un video es "You Have A $100,000 Product In Your Head" (Tienes un producto de 100.000 dólares en la cabeza). En febrero de 2025 Koe abre su guía completa para crear un primer producto rentable con un número mayor: "Aunque no lo creas, tienes $1 million trapped in your head (un millón de dólares atrapado en tu cabeza), o tirado por ahí en tu Google Drive, o en tu Notion, o en tu Cortex" ("Believe it or not, you have $1 million trapped in your head, or it's lying around in your Google Drive, or your Notion, or your Cortex"). Tienes habilidades, intereses y cierta experiencia que pueden empaquetarse en un producto "que vende mientras duermes" ("that sells while you sleep"), y lo que aprendas sobre esto "determinará la mayor parte de tu éxito como creativo" ("will determine most of your success as a creative").
 
@@ -195,7 +195,7 @@ La respuesta más sencilla viene de John Hugh, cofundador de la plataforma para 
 
 La idea es de Hugh, pero encaja con el modelo del propio Koe de la audiencia como un activo acumulado de confianza (sección 25.4). Las preguntas en los comentarios y los mensajes son demanda hecha visible. Cada pregunta repetida es un problema que la gente ya admitió tener, dirigido a alguien en quien ya confía para resolverlo.
 
-#### El data driven product: cuatro señales
+#### El data driven product (producto guiado por datos): cuatro señales
 
 Koe da su propia versión de la misma idea en septiembre de 2023, con un plazo y un método. Después de unos seis meses a un año creando, "crea un data driven product (producto guiado por datos) sobre el que luego iteres, digamos cada seis meses; necesita evolucionar" ("create a data driven product that you then iterate on let's say every six months it needs to evolve") a medida que ganas experiencia. Un *data driven product*, término que aparece solo en este video, es aquel cuyo tema y diseño provienen de evidencia recogida en público. Koe nombra cuatro señales.
 
@@ -477,7 +477,7 @@ Las dos ideas complementan las de Koe. Los precios de compra impulsiva explican 
 
 La sección 33.2 dividió en dos el problema del creador: no saber qué vender y no saber cómo hacerlo único. Esta sección aborda la segunda mitad. La respuesta de Koe, estable en sustancia de 2022 a 2026 y rebautizada varias veces, es que la singularidad del producto reside en un *sistema*: un conjunto de pasos, creado mediante tu propio ensayo y error, que lleva de forma fiable a alguien de un problema a un resultado. Lo que cambia con los años es el vocabulario y luego, en 2026, el vessel (vehículo) en el que se entrega el sistema.
 
-#### El unique system
+#### El unique system (sistema único)
 
 En marzo de 2023 Koe enuncia la condición: el sistema debe crearse, no copiarse. Si tu producto es, por ejemplo, un programa de gimnasio, debe ser uno que creaste para ti mismo. Tienes que resolverlo por tu cuenta para tener algo que llevar al mercado. "Si simplemente copias lo que hacen todos los demás y nunca haces zoom out (alejar el zoom) y creas algo propio, no vas a tener éxito en este juego" ("If you just copy what everyone else is doing and never zoom out and create something of your own then you aren't going to succeed in this game"). Tienes que probar, experimentar, fallar y crear un sistema que resuene contigo, "porque estás atrayendo a personas que resuenan contigo" ("because you are attracting people that resonate with you").
 
@@ -501,7 +501,7 @@ Koe describe esto como la forma en que progresa la humanidad: "una persona innov
 
 El principio reconcilia los dos consejos que la sección 33.2 encontró en tensión. La imitación no se opone a la originalidad; es su primera etapa. Imitas varios métodos, te quedas con lo que te funciona y produces una combinación que no existía. Es la "intelligent imitation" (imitación inteligente) de la sección 1.4 y el proceso de "collect, connect, create" (reunir, conectar, crear) de la sección 18.2, aplicados a los productos. También explica la advertencia contra tratar un método como una ideología, que repite la crítica a la mente cerrada (sección 1.7) y a las trampas de paradigma (sección 30.4).
 
-#### El personal system product
+#### El personal system product (producto de sistema personal)
 
 En febrero de 2025 la misma idea recibe un nombre nuevo y una justificación nueva. "¿Qué es un personal system product (producto de sistema personal)? A mi modo de ver, es la opción más segura que se puede tomar y que no puede ser reemplazada por la IA" ("What is a personal system product? In my eyes, it's the safest option to take that can not be replaced by AI"). La IA puede ayudarte a construir la cosa, pero no va a hacer la cosa por ti y quedarse con tu audiencia o tus clientes. Un *personal system product* puede entregarse como servicio freelance, como servicio de coaching, como education product o como software; el sistema es la constante, la entrega varía.
 
@@ -515,7 +515,7 @@ Dentro de la estructura de oferta de 2025, el personal system es el elemento 4. 
 
 El ejemplo de 2 Hour Writer muestra cómo se combinan los elementos. El plazo ("2 Hour") forma parte del nombre del producto; el sistema que contiene (el content ecosystem: una newsletter semanal condensada en hilos y posts y reutilizada en distintas plataformas, descrita en la sección 24.3) es lo que produce el resultado.
 
-#### Cómo crear un personal system
+#### Cómo crear un personal system (sistema personal)
 
 La guía da luego el procedimiento. Experimenta contigo mismo, o con alguien dispuesto que encaje en tu perfil objetivo; la segunda opción también te da prueba social de principiante.
 
@@ -550,7 +550,7 @@ Los pasajes de esta sección y de la sección 33.1 muestran el mismo concepto ap
 
 La tabla muestra también cómo cambia la visión de Koe sobre la IA. En 2025 el personal system se define frente a la IA, como lo que la IA no puede reemplazar. En 2026 la IA se convierte en el medio para entregar el sistema.
 
-#### La systems economy
+#### La systems economy (economía de sistemas)
 
 La expresión *systems are the new product* aparece por primera vez en octubre de 2024. "Estamos en la systems economy. La gente no quiere una solución a sus problemas, quiere tu solución a sus problemas" ("We're in the systems economy. People don't want a solution to their problems, they want your solution to their problems"). Hay muchos productos de escritura, dice Koe. Lo que hace especial a 2 Hour Writer es que "es un sistema que creé a través de la experiencia" ("it's a system that I created through experience"), novedoso y original. Tomó y aprendió de las enseñanzas de otras personas, pero la forma en que lo creó a través de su propia experiencia lo distingue. Excluye "las tonterías de la escritura académica" ("academic writing nonsense") y las cosas que no lo ayudaron.
 
@@ -606,7 +606,7 @@ Considera que un chatbot interactivo es "una de las cosas más simples que puede
 
 *La contradicción interna.* En este mismo video Koe alterna entre decir que los infoproductos están "muertos" ("dead") o "muriendo" ("dying") y decir que "no están muertos" ("not dead"). En un pasaje dice "ya que el contenido basado en valor y los infoproductos están muertos" ("since value-based content and info products are dead"), y momentos después que no lo están. En otra parte del mismo video dice que los infoproductos han llegado a "la etapa final de la sofisticación del mercado (market sophistication)" ("the final stage of market sophistication"), el término de Eugene Schwartz usado en la sección 32.3, y que "nunca ha sido más fácil empezar un one-person business mediocre" ("it's never been easier to start a mediocre one-person business"). La lectura más coherente, que respaldan los propios matices de Koe, es que lo que está "muerto" es el formato estático promedio, no la educación como función: a los muy buenos les seguirá yendo bien, el curso sigue siendo la base de conocimiento y el aprendizaje no puede convertirse en una commodity. Pero Koe no formula él mismo esta reconciliación, y el lector debe notar que su lenguaje en este video es inestable.
 
-#### El small-scale software como el nuevo infoproducto (mediados de 2026)
+#### El small-scale software (software a pequeña escala) como el nuevo infoproducto (mediados de 2026)
 
 Para junio de 2026 la posición se ha asentado en una tesis más clara. Koe recomienda construir software, algo que con Claude Code le resulta divertido y "adictivo" ("addictive"), "porque hacia ahí van los productos, especialmente para los emprendedores en solitario (solopreneurs), los creadores y los one-person businesses. Antes eran los infoproductos. Creo que el small-scale software será el nuevo infoproducto" ("because this is where products are going, especially for solopreneurs, creators, one person businesses. It used to be info products. I think small-scale software will be the new info product").
 
@@ -688,7 +688,7 @@ En octubre de 2023 Koe da una versión aritmética del argumento dirigida a los 
 
 La aritmética de la transcripción es imprecisa: la mitad de 500.000 dólares serían 250.000, pero Koe dice de 50.000 a 100.000. El libro registra las cifras tal como él las enuncia. El sentido del pasaje no depende de los números exactos. Su estructura es un argumento por asimetría: apuntar al techo del producto y quedarse muy por debajo sigue superando el techo de los ingresos por publicidad. La expresión "itera hasta que se venda" ("iterate until it sells") también importa. No se espera que el producto funcione al primer intento (sección 29.4); se espera que se mejore hasta que funcione.
 
-#### Esperar un imaginary follower count
+#### Esperar un imaginary follower count (conteo imaginario de seguidores)
 
 En febrero de 2025 Koe identifica dos formas en que los creadores evitan construir un producto. La mayoría de ellos "espera para monetizar hasta alcanzar algún imaginary follower count (conteo imaginario de seguidores)" ("wait to monetize until they hit some imaginary follower count"), y se decepciona cuando nadie compra. Otros cuentan con la platform monetization, como la de YouTube, hasta que sus vistas se desploman durante dos meses. Para controlar tus ingresos, vendes un producto o un servicio: "eso es lo que hace tu empleador" ("that's what your employer does"). En un empleo ganas desempeñando un papel en el marketing, las ventas y las operaciones del producto de otra persona. Un one-person business requiere construir un producto o servicio propio.
 
@@ -704,7 +704,7 @@ En enero de 2026 Koe enuncia el argumento como una cadena de condiciones necesar
 
 La cadena explica el orden de los capítulos prácticos del libro. Los intereses (capítulo 20) deben convertirse en intereses compartidos, lo que requiere persuasión (capítulo 32). Los intereses compartidos deben convertirse en pago, lo que requiere un producto (este capítulo). Ambos requieren atención (capítulo 25). Cada eslabón es necesario; ninguno es suficiente por sí solo. Las dos alternativas que Koe descarta, el empleo y la inversión, se excluyen por razones prácticas: un empleo rara vez te paga por expresar tus intereses, e invertir requiere un capital que probablemente todavía no tienes.
 
-#### Mental monetization
+#### Mental monetization (monetización mental)
 
 En septiembre de 2023 Koe le da a la misma idea un nombre que la sitúa al final de una secuencia de conceptos desarrollados antes en el libro. Recapitula: hemos entendido el *mental body* (cuerpo mental) (la identidad como estructura de ideas, capítulo 3), el *mental bodybuilding* (culturismo mental) (cómo construir una mente valiosa, sección 15.7) y el *mental real estate* (bienes raíces mentales) (cómo ocupar la atención de otras personas con la mente que construiste, sección 21.3). "Ahora tienes personas atraídas hacia ti; ahora necesitas darles algo por lo que valga la pena pagar. Eso se llama negocio. Así es como monetizas tu mente" ("Now you have people attracted to you, now you need to give them something worth paying money for. That's called business. That's how you monetize your mind"). *Mental monetization* (monetización mental) es el nombre de este último paso. Koe añade que en 2023 existen los recursos para renovar tu educación, mejorar tu conjunto de habilidades y cambiar tu fuente de ingresos "en menos tiempo del que te llevaría obtener un título universitario" ("in less time than it would take to get a college degree").
 
@@ -712,7 +712,7 @@ En septiembre de 2023 Koe le da a la misma idea un nombre que la sitúa al final
 
 El término reaparece en 2024 como el nombre de uno de los cursos de Koe (sección 33.7), lo que muestra cómo sus conceptos a menudo se convierten en nombres de productos.
 
-#### El independent income y la highest form of leverage
+#### El independent income (ingreso independiente) y la highest form of leverage (forma más alta de apalancamiento)
 
 Varios pasajes enuncian la conclusión en términos de control. "Si quieres ganar un independent income (ingreso independiente), necesitas vender un producto" ("If you want to earn an independent income, you need to sell a product"). Koe añade: "No estamos aquí para depender de los ingresos de las plataformas de publicidad, que están completamente fuera de tu control" ("We're not here to rely on ad platform revenue that's completely out of your control"). Empezaste tu propio trabajo creativo porque querías controlar tus ingresos, aunque solo fuera como un reemplazo del salario que te permita vivir bien. Un producto te permite hacer eso y controlar tu estilo de vida.
 
@@ -738,7 +738,7 @@ En junio de 2026 Koe da una versión modesta de lo que significa "suficiente". "
 
 El pasaje rebaja deliberadamente la ambición. Las cifras millonarias de la sección 33.1 y de la sección 30.6 buscan romper marcos; esta busca que la meta se sienta alcanzable. La sección 34.5 desarrolla el pensamiento de Koe sobre lo "suficiente".
 
-#### Los productos son authority catalysts
+#### Los productos son authority catalysts (catalizadores de autoridad)
 
 La última parte del argumento es que un producto beneficia al creador más allá de sus ingresos. En septiembre de 2023 Koe le pone nombre a la idea: después de construir para ti mismo viene "distribuir un purposeful product (producto con propósito)" ("distributing a purposeful product"), y "la mayoría de la gente no se da cuenta de que los productos son authority catalysts (catalizadores de autoridad)" ("most people don't realize that products are authority catalysts"). Piensan que vender un producto significa venderse (selling out), pero no se dan cuenta de que añade autoridad percibida a su marca y de que ganan seguidores más leales.
 
@@ -830,9 +830,9 @@ En la guía de 2024 Koe muestra una imagen de su red de distribución. La imagen
 
 | Pilar | Posición en la imagen | Canales | Función |
 |---|---|---|---|
-| Growth | Arriba | Twitter, Instagram, LinkedIn | Parte alta del embudo; contenido de formato corto en plataformas donde el crecimiento es más fácil de controlar mediante las veces que se comparte |
-| Authenticity | Abajo a la derecha | Podcast, YouTube, newsletter, blog/SEO | Donde habla más, da consejos más accionables y trabaja con su propio lenguaje; estos crecen más despacio, así que crece en las plataformas de formato corto y transfiere a la gente hacia aquí |
-| Authority | Abajo a la izquierda | Curso, cohorte, comunidad (y el libro que estaba escribiendo) | Para otros, cualquier producto que permita a la gente comprarte e invertir en ti mediante un intercambio con sentido |
+| Crecimiento | Arriba | Twitter, Instagram, LinkedIn | Parte alta del embudo; contenido de formato corto en plataformas donde el crecimiento es más fácil de controlar mediante las veces que se comparte |
+| Autenticidad | Abajo a la derecha | Podcast, YouTube, newsletter, blog/SEO | Donde habla más, da consejos más accionables y trabaja con su propio lenguaje; estos crecen más despacio, así que crece en las plataformas de formato corto y transfiere a la gente hacia aquí |
+| Autoridad | Abajo a la izquierda | Curso, cohorte, comunidad (y el libro que estaba escribiendo) | Para otros, cualquier producto que permita a la gente comprarte e invertir en ti mediante un intercambio con sentido |
 | Centro | En medio | Interés, pericia, experiencia | El núcleo superpuesto en torno al cual gira la marca |
 
 Koe añade una observación sobre el pilar de la autoridad: las personas que no han empezado un negocio piensan que "las ventas son malas" ("sales is bad"), mientras compran todos los días cosas que les encantan. La sección 27.4 discute este mismo marco (la trust matrix (matriz de confianza)) como una teoría de la construcción de marca. Aquí su relevancia es que los productos ocupan uno de los tres pilares. Son el canal a través del cual se construye la autoridad, que es la afirmación de los "authority catalysts" de la sección 33.6 representada como una estructura. Los productos no están enganchados al final de un embudo; son una de las tres patas de la marca.

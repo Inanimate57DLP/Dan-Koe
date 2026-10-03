@@ -8,7 +8,7 @@ El capítulo se apoya en otros anteriores. Del capítulo 23 necesita la estructu
 
 ### 32.1 Comunicación persuasiva: el marketing como psicología aplicada
 
-#### Dos tipos de habilidad: habilidades técnicas y evergreen skills
+#### Dos tipos de habilidad: habilidades técnicas y evergreen skills (habilidades evergreen)
 
 La defensa que hace Koe de la persuasión parte de una distinción que trazó en agosto de 2023, cuando estaba construyendo una empresa de software y admitía que "no tenía idea de lo que estaba haciendo" ("no idea what he's doing"), o que solo tenía alguna idea. Contratar, estructurar una empresa y cumplir con la normativa legal eran cosas nuevas para él, porque son distintas de llevar un negocio de una persona, trabajar como freelance o ser autónomo. Pero las iba aprendiendo sobre la marcha: "son cosas que puedes aprender sobre la marcha" ("are things that you can learn on the go"). Otras habilidades no podían adquirirse así. "Está, en realidad, el hecho de empezar y dirigir un negocio, y luego está lo que te permite hacer ventas y ganar dinero."
 
@@ -22,7 +22,7 @@ Las dos primeras evergreen skills que nombra son el marketing y las ventas. Exig
 
 El término "evergreen skills" recibe varias definiciones a lo largo de los videos (escribir, hablar, marketing y ventas en algunas versiones; mensaje, medio y una habilidad orientada a resultados en otras). La versión que se usa aquí es la más estrecha: las habilidades que generan ventas y no pueden tercerizarse. La discusión más amplia sobre la pila de habilidades (skill stack) corresponde al capítulo 35.
 
-#### "Learn to sell, learn to build"
+#### "Learn to sell, learn to build" (aprende a vender, aprende a construir)
 
 Más adelante, en el mismo video, Koe traza una trayectoria profesional en la que, sea cual sea el camino que tome una persona (código o contenido), el segundo paso es el mismo: aprender marketing y ventas. "Learn to sell, learn to build. If you can do both you will be unstoppable" (aprende a vender, aprende a construir; si puedes hacer las dos cosas, serás imparable). Ambos caminos convergen en la misma necesidad, y Koe sostiene que hay que cubrirla pronto, porque el marketing y las ventas "enmarcan todo lo demás que aprendes".
 
@@ -72,7 +72,7 @@ En febrero de 2026 dio la definición más breve de la habilidad: la persuasión
 
 **Fuente:** The Future Of Work (& The New High-Income Skill Stack).md (2026-02-12)
 
-#### La naturaleza humana: la meta skill
+#### La naturaleza humana: la meta skill (metahabilidad)
 
 La formulación última y más profunda llegó en julio de 2026. "Hay una habilidad que nunca pasará de moda. Es una meta skill (metahabilidad), y si la aprendes, simplemente aumenta el poder de cualquier otra habilidad que aprendas y te permite aprender esas habilidades mucho más rápido. Y esa habilidad se llama naturaleza humana" ("And that skill is called human nature"). Una *meta skill*, en el vocabulario de Koe, es una habilidad que multiplica todas las demás; a lo largo de los años le ha dado ese título al código y el contenido, al emprendimiento y a la agency (agencia personal), y aquí se lo da a la human nature.
 
@@ -101,7 +101,7 @@ Los lectores que siguen a Koe a lo largo de los años notarán que "la mayor hab
 
 El propio Koe le dice a su audiencia que lea esos títulos de forma metafórica, como una manera de transmitir la idea —de "getting the point" (captar el punto)— y no como clasificaciones literales. Leída así, la secuencia es menos una serie de giros que un descenso por capas del mismo iceberg. La escritura es el vehículo; la persuasión es la función a la que sirve el vehículo; la naturaleza humana es la comprensión de la que depende esa función; la agency (capítulo 35) es el rasgo que hace que una persona actúe sobre cualquiera de ellas. La afirmación de 2026 contiene a la de 2022: "estudia la naturaleza humana y después estudia lo que quieras". Lo que el lector no debería hacer es tomar una sola de esas afirmaciones como la última palabra, puesto que el autor no lo ha hecho.
 
-#### Contenido persuasivo: capture, hold and deliver value on attention
+#### Contenido persuasivo: capture, hold and deliver value on attention (capturar, sostener y entregar valor sobre la atención)
 
 ¿Cómo se manifiesta la persuasión en una sola publicación? En un video de octubre de 2023 sobre cómo construir una audiencia desde cero, Koe formula un estándar que repetiría en todas partes: "La palabra clave aquí es persuasivo: tienes que capturar, sostener y entregar valor sobre la atención. No puedes escribir lo que se te antoje y esperar que capture, sostenga y entregue valor sobre la atención". La fórmula, capture, hold and deliver value on attention (capturar, sostener y entregar valor sobre la atención), tiene tres verbos, y cada uno nombra una etapa: capturar (el lector se detiene), sostener (el lector sigue leyendo), entregar valor (el lector se va con algo). Aplica el mismo estándar a las respuestas y a las citas de publicaciones: una respuesta debe "capturar, sostener y entregar valor sobre la atención hasta el punto de que hagan clic en tu perfil".
 
@@ -148,7 +148,7 @@ La ocasión fue concreta. Chris Williamson había publicado algo sobre una nueva
 
 Este es el argumento de la *conceptual survival* (supervivencia conceptual) del capítulo 1 aplicado al comercio: en las condiciones modernas, la lucha por la supervivencia se ha desplazado del plano físico al plano de las ideas, las habilidades y los recursos, y vender es su forma ordinaria.
 
-#### Sales equals survival: cuatro formulaciones
+#### Sales equals survival (vender es sobrevivir): cuatro formulaciones
 
 El principio reaparece en varias formas, y cada una añade un matiz.
 
@@ -170,7 +170,7 @@ En junio de 2026 responde en una sola línea a la objeción más común. "'Ay, e
 
 Tomadas en conjunto, las formulaciones componen un solo argumento. Vender no se puede evitar; solo se puede hacer para uno mismo o para otro, de manera consciente o inconsciente, con o sin impacto positivo. La verdadera elección está entre esas opciones, y el empleado que se niega a vender ya la ha hecho sin darse cuenta.
 
-#### El game of life: atención, recursos, dinero y poder
+#### El game of life (juego de la vida): atención, recursos, dinero y poder
 
 La versión más dura del argumento procede de un video de septiembre de 2024. Intentar conseguir lo que quieres de la vida es "jugar el juego de la vida", dice Koe; si no lo estuvieras jugando, probablemente no estarías vivo. No tienes elección: para conseguir lo que quieres, necesitas persuadir a la gente de que te dé atención, recursos, dinero y, "sobre todo, poder". Las únicas personas a las que les fue bien en la sociedad, antes y ahora, tenían poder e influencia: trabajaron para adquirir los recursos con los que alcanzar sus metas, volverse valiosas y generar riqueza. "Nunca ha habido un momento en la historia en que a las personas débiles, mediocres o sin criterio no se las tratara como ganado" ("There has never been a time in history when weak, average or mindless people weren't treated like cattle").
 
@@ -345,7 +345,7 @@ En marzo de 2024 los niveles reaparecen como uno de los *micronutrients* (micron
 
 **Fuente:** The Value Equation How To Become A High-Status Individual.md (2024-03-17)
 
-#### Una education brand toca los cinco niveles
+#### Una education brand (marca educativa) toca los cinco niveles
 
 ¿Qué se desprende de la escala para un creador? En septiembre de 2023 la respuesta de Koe es: "Tu trabajo como education brand (marca educativa) es tocarlos todos". Haz que tu audiencia tome conciencia de los problemas que resolviste en tu propia vida y de cómo esos problemas afectan la suya; da consejos, lecciones y recomendaciones para mostrar que hay una solución; y comercializa un producto que resuelva el problema más rápido "simplemente por la naturaleza de la invested attention (atención invertida)". La última expresión condensa un argumento del capítulo 31: quien ha pagado por un producto invierte atención en él, y esa atención invertida es parte de la razón por la que el producto funciona más rápido que el contenido gratuito.
 
@@ -439,7 +439,7 @@ De inmediato matiza el retrato. La mayoría de las cosas que critica en sus vide
 
 Hay una tensión dentro del video: más adelante, en la misma grabación, describe las agencias y el dropshipping como algo sin alma en términos mucho más duros. En los años siguientes su postura se asienta en una secuencia más que en un veredicto: hacia finales de 2024 recomienda construir primero una oferta basada en una habilidad y, si uno quiere, pivotar después hacia una agencia o un e-commerce. Leídos juntos, los pasajes dicen que esos modelos son aceptables como etapa o como expansión, e insuficientes como identidad a largo plazo. El lector también debería registrar la advertencia del propio autor sobre su método: algunas de sus críticas son recursos para enmarcar la discusión.
 
-#### Pérdida de confianza y "clarity above all"
+#### Pérdida de confianza y "clarity above all" (claridad ante todo)
 
 La sofisticación creciente tiene una consecuencia para la confianza. Koe la compara con el sistema escolar: la mayoría de la gente, especialmente quienes ven sus videos, ha perdido la confianza en el sistema escolar, y ahora la gente está perdiendo la confianza (que nunca fue mucha) en las tácticas de marketing turbias de la última década del marketing en internet. La comparación enmarca la demanda de otro tipo de creador.
 
@@ -483,9 +483,9 @@ El primero de estos cambios no fue un único salto de una definición a la otra.
 
 Los dos instrumentos de esta sección encajan ahora entre sí. Los niveles de conciencia te dicen dónde está una persona respecto a su problema; la sofisticación del mercado te dice cuántas veces ha oído ya el mercado tu tipo de promesa. Un mensaje tiene que ajustarse a ambos: hablarle al nivel del lector y hacer una promesa de la que el mercado todavía no haya aprendido a desconfiar. La sección siguiente añade lo que Koe considera la fuerza que está debajo de ambos: las tensiones de la mente humana que hacen que alguien preste atención en primer lugar.
 
-### 32.4 Las three tensions
+### 32.4 Las three tensions (tres tensiones)
 
-#### De los eight human desires a las three tensions
+#### De los eight human desires (ocho deseos humanos) a las three tensions (tres tensiones)
 
 El video de julio de 2026 en el que Koe llama a la naturaleza humana la meta skill (sección 32.1) promete "la anatomía de la naturaleza humana y cómo explotarla", y deja la ética para más adelante (sección 32.2). La anatomía parte de una lista de *eight human desires* (ocho deseos humanos): la supervivencia, el disfrute de la vida, la aceptación social, la compañía sexual, la libertad frente al miedo, la comodidad y la claridad, el estatus percibido y la seguridad de la tribu. Koe no nombra ninguna fuente para la lista. Luego condensa los ocho en "lo que yo llamo las tres tensiones": tensiones psicológicas que, si las tocas, captan la atención y te posicionan a ti, tu trabajo, tu escritura, tu forma de hablar, tus publicaciones, tus landing pages o tus productos como valiosos. Por último, vuelve accionables las tensiones mediante cinco "palancas psicológicas" para hablar, escribir y la vida diaria. "Si practicas esas cinco cosas, serás imparable, por hiperbólico que suene."
 
@@ -545,7 +545,7 @@ Así que, si quieres que tu contenido se vea, sus temas suelen girar en torno a 
 
 La heurística es el "95 % del mercado son principiantes" de la sección 32.3 reformulado en términos de desarrollo. En 2023, el 95 % eran principiantes en una habilidad; en 2026, son personas que están en las etapas de supervivencia e identidad del desarrollo. La cifra vuelve a ser una regla general (oscila entre el 90 y el 95 %), y la conclusión estratégica es la misma: primero la superficie, y la profundidad más adentro del embudo. También explica por qué la versión ética de "explotar" la naturaleza humana (sección 32.2) se describe como ayudar a la gente a "ascender por estas etapas": el embudo mismo está pensado como una escalera de desarrollo.
 
-#### Las five psychological levers
+#### Las five psychological levers (cinco palancas psicológicas)
 
 Las tensiones son aquello a lo que responde la mente. Las palancas son lo que hace quien escribe. "Hay cinco palancas psicológicas que accionan una o más de las tres tensiones. Así que primero creas tensión. Esto es lo que hace que la gente preste atención cuando escribes, hablas, publicas o vendes, y luego ofreces una solución que, preferiblemente, cambie la conducta de forma positiva." Koe dice que accionó las cinco en los tres primeros minutos del video en el que las presenta.
 
@@ -607,7 +607,7 @@ El paso también desencadena lo que él llama "el efecto Zeigarnik": "el cerebro
 
 **Contexto complementario:** El efecto Zeigarnik lleva el nombre de la psicóloga Bluma Zeigarnik, cuyos experimentos de 1927 sugirieron que la gente recuerda mejor las tareas interrumpidas o inacabadas que las completadas. Koe extiende el hallazgo de la memoria a la motivación ("no pueden evitar completarla"); esa extensión es su lectura, y los intentos de replicar el efecto original han dado resultados dispares. Usa la misma idea en otros lugares para terminar antes los bloques de trabajo y para los rituales de inicio (Parte V).
 
-#### Los bottom feeders: el contraejemplo
+#### Los bottom feeders (los que se alimentan del fondo): el contraejemplo
 
 Las three tensions y las five psychological levers son herramientas para el value creator. El contraejemplo de Koe es un tipo de operador al que llama, con un término acuñado y deliberadamente poco halagador, *bottom feeders*. En marzo de 2023 advertía que las últimas estrategias, tácticas o modelos de negocio pueden no funcionar y que, si funcionan, "probablemente no van a durar más de tres a seis meses", porque "estás peleando contra otros bottom feeders a los que les falta propósito detrás de su trabajo". Los bottom feeders están en un estado de supervivencia. No se han dominado a sí mismos ni han hecho la superación personal o el trabajo mental necesarios para dejar de querer el quick fix (solución rápida). Su mente está tan estrechada sobre el resultado final deseado que es lo único en lo que pueden pensar, y no son capaces de hacer zoom out para ver las cosas desde la perspectiva de un life's work de 10, 20 o 30 años. Reconoce que a la gente no le gusta el término, "pero eso es lo que son". Sus ejemplos son las agencias de contenido de formato corto (que producen reels, TikToks y shorts para creadores) y las agencias de ghostwriting para Twitter, que son "muy lucrativas, no me malinterpretes".
 
@@ -661,7 +661,7 @@ Lo que frena a la gente, además del miedo, es la hostilidad visible de algunos 
 
 Añade una nota de ecuanimidad. No todos los productos son buenos, pero no hace falta odiar un producto simplemente porque no es para ti. Ves valor en gastar 10 dólares al día en comida, pero no en otra cosa que cuesta 10 dólares y que podría beneficiar otro ámbito de tu vida. Si un producto es realmente malo, "desahógate", pero aun así estás perdiendo el tiempo. La proporción de 50–100 es el relato de Koe sobre su propia experiencia, no una estadística general.
 
-#### You are the marketing and sales department
+#### You are the marketing and sales department (tú eres el departamento de marketing y ventas)
 
 El video de octubre de 2023 también sitúa el problema en el calendario. "Cada vez que la gente viene a mí con problemas de marketing, suele ser simplemente falta de promoción, y de buena promoción: conseguir que la gente haga clic y luego guiarla página abajo." "No pueden monetizar de forma constante porque no se promocionan de forma constante. No tienen un calendario ni un sistema para promocionarse cada día. No tienen en su calendario ese bloque que dice: ve y gana algo de dinero." La razón es estructural: "No tienes un departamento de marketing y ventas como en el empleo en el que trabajas. Tú eres el departamento de marketing y ventas" ("You are the marketing and sales department").
 
@@ -669,7 +669,7 @@ El video de octubre de 2023 también sitúa el problema en el calendario. "Cada 
 
 Este es el "sales equals survival" de la sección 32.2 convertido en un hecho organizativo. En una empresa, la promoción es el trabajo de alguien; en un one-person business, es un bloque de tiempo que el dueño agenda o no agenda.
 
-#### La trampa opuesta: cashing in goodwill y short-term money games
+#### La trampa opuesta: cashing in goodwill (cobrar la buena voluntad acumulada) y short-term money games (juegos de dinero de corto plazo)
 
 La insistencia de Koe en la promoción se equilibra con dos advertencias contra el exceso opuesto.
 
@@ -693,7 +693,7 @@ El énfasis cambia a lo largo de los años, y vale la pena ver el cambio complet
 
 La dirección va de una promoción casi invisible a una promoción agendada. La explicación del propio Koe, implícita en los pasajes, elimina la contradicción aparente: lo que critica es promocionar un producto malo que nunca mejora, o promocionarse sin dar más valor del que se pide. Lo que recomienda es la promoción constante de un producto que sigue mejorando, dentro de un contenido que educa la mayor parte del tiempo. Los calendarios de 2024, además, se dirigen a principiantes que ya tienen un producto y no lo están vendiendo.
 
-#### La monetization lever: la promoción integrada en la creación de contenido
+#### La monetization lever (palanca de monetización): la promoción integrada en la creación de contenido
 
 ¿Cómo es la promoción sistemática? El relato más temprano de Koe, de noviembre de 2022, la llama la *monetization lever*. Tienes que promocionarte de forma constante; un solo hilo no basta. Necesitas "un calendario de promoción sistematizado y constante" (creó el programa 2 Hour Writer en parte para compartir el suyo). En aquel momento promocionaba sus productos una vez por semana, al final de su newsletter, que era lo bastante larga como para que una vez por semana no fuera demasiado: "Estoy entregando más valor del que estoy promocionando". Si no ponía ofertas delante de la gente cada día, cada semana y cada mes, no ganaba dinero. "Sistematizado" significa incorporado a la creación de contenido: si escribes tres tuits al día, menciona tu producto debajo de uno de ellos, todos los días. E itera el producto según la retroalimentación de los clientes.
 
@@ -724,7 +724,7 @@ Un mes más tarde Koe dio un ejemplo de sistema semanal: promociona tu producto,
 
 "Es mejor promocionarse mal que no hacerlo en absoluto" es la versión promocional del principio build to learn (construir para aprender) del capítulo 14: la retroalimentación solo existe para lo que se pone en el mundo. Una promoción mala produce datos; la ausencia de promoción no produce nada que mejorar.
 
-#### Las evergreen pieces y la landing page que educa
+#### Las evergreen pieces (piezas evergreen) y la landing page que educa
 
 El mismo video de agosto de 2024 explica cómo el contenido de formato largo aligera la carga de la promoción. Puedes escribir una newsletter, publicarla como artículo de blog, convertirla en un video de YouTube, desmenuzarla en ideas de contenido y mencionar esas cosas debajo de las publicaciones, "porque entonces son evergreen pieces (piezas evergreen) de información". Las publicaciones en redes desaparecen, así que es sensato seguir escribiéndolas para atraer a más gente. Por el camino, de vez en cuando escribes sobre lo que vendes y mencionas una newsletter, un artículo, un video, una descarga gratuita o la landing page del producto. Y el punto clave: "Si la landing page de mi producto realmente educa a la gente hasta el punto de confiar en mí y de saber que esto es valioso para su vida, entonces no necesito escribir demasiado sobre eso, porque ya vive en internet y lo único que tengo que hacer es enlazarla".
 
@@ -776,7 +776,7 @@ En noviembre de 2023 Koe distingue dos tamaños de promoción. Las *long form pr
 
 Vale la pena diseccionar el ejemplo con las herramientas de la sección 32.4. "Si has probado los modelos de negocio más nuevos y espectaculares sin ningún éxito" refleja una identidad y nombra una amenaza. "Estás pensando en resignarte a tu destino en un empleo de oficina" amplifica la amenaza hasta convertirla en un negative outcome (resultado negativo). "Es porque estás cayendo en tácticas" da un diagnóstico que también es una novel perspective. "Enseño los principios..." nombra la solución y su mecanismo. "Para que puedas hablar de tus intereses y obtener un creative income" pinta la transformación. Tres oraciones contienen problema, causa, solución y beneficio.
 
-#### El magnetic content
+#### El magnetic content (contenido magnético)
 
 En septiembre de 2024 Koe le pone nombre al contenido que rodea a una oferta una vez que esta existe. "El magnetic content (contenido magnético) son publicaciones cortas o largas escritas sobre puntos de dolor, beneficios, el ideal lifestyle, consejos rápidos, opiniones personales sobre consejos comunes, reescrituras de contenido de alto rendimiento de otras cuentas y pasos accionables para superar los puntos de dolor, todo relacionado con tu oferta." Una vez que tienes una oferta, dice, escribir en torno a ella es relativamente sencillo. Y las publicaciones cumplen una segunda función: "las personas que comentan o comparten estas publicaciones son personas que expresan interés en ese tema", así que son "perfectas para contactarlas en tibio".
 
@@ -815,7 +815,7 @@ Cierra con un comentario sobre los cursos que también vale para este capítulo:
 
 **Fuente:** The Future Of Work (Avoid Learning These Skills).md (2024-07-28)
 
-#### El qualifying questionnaire: una landing page para las ofertas uno a uno
+#### El qualifying questionnaire (cuestionario de calificación): una landing page para las ofertas uno a uno
 
 Para un principiante que vende un servicio uno a uno, Koe propone en septiembre de 2024 un sustituto de la landing page: el *qualifying questionnaire* (cuestionario de calificación), "un reemplazo de una landing page o de un sitio web", más fácil de construir y que cumple la misma función, ya que la mayoría de los clientes vienen del contenido de todos modos. Enlázalo en tu bio y en tu contenido, promociónalo debajo de tu contenido casi a diario y, cuando alguien lo complete, contáctalo, responde sus preguntas y mándale el enlace de pago. Usa JotForm, Typeform o Google Forms (gratuito y muy conocido).
 
@@ -876,7 +876,7 @@ Por último, un pasaje de enero de 2025, dicho durante una mención promocional 
 
 Los cuatro verbos del final (enseñar, construir autoridad, tocar puntos de dolor, ofrecer) son la sección en miniatura. Enseñar es el 80 % de educación; la autoridad es lo que compra la educación; los puntos de dolor son la primera palanca; la oferta es la promoción que tantos creadores nunca hacen. La última oración describe el fear of selling desde el otro lado: desaparece con el primer pago, y por eso Koe le dice a la gente que se promocione aunque no tenga audiencia alguna.
 
-### 32.6 Landing page y lead magnet: el embudo mínimo
+### 32.6 Landing page y lead magnet (imán de leads): el embudo mínimo
 
 Todos los sistemas de promoción de la sección 32.5 apuntan a algún lugar: una landing page con un enlace de pago, una descarga gratuita que captura un correo, un producto pequeño que gana confianza. Esta sección ensambla esas piezas. Junto con la newsletter (capítulo 24), conforman lo que puede llamarse el embudo mínimo: la menor cantidad de activos que un one-person business necesita para convertir la atención en clientes.
 
@@ -905,7 +905,7 @@ La regla de Koe para la parte superior de la página es que el titular y el subt
 
 El ejemplo ilustra también la believable goal de la sección 32.3: la promesa es específica (doce horas, catorce días) y nombra un mecanismo, que es lo que exige la tercera etapa de sofisticación de Schwartz. Si "doce horas al día" es creíble o no, es un juicio que puede hacer el lector; Koe lo usa como ilustración de una estructura, no como una promesa recomendada.
 
-#### El lead y el personal system
+#### El lead y el personal system (sistema personal)
 
 Después del titular viene "un muro de texto que se llama el *lead*", donde ilustras y amplificas el big problem y su resultado negativo. "Lead" es un término de copywriting que Koe usa en su sentido habitual —el lead (de copy)—: la sección de apertura que sigue al titular. Su razón para empezar con el problema son los niveles de conciencia: "Cuando empiezas con el problema, aumentas la conciencia que el lector tiene del problema", y le das la creencia de que su vida puede cambiar usando un sistema que te ayudó a ti.
 
@@ -933,7 +933,7 @@ El consejo de prescindir de las preguntas frecuentes muestra el principio que ri
 
 El método es el "imitar, luego innovar" del capítulo 23, con la IA como tutora: un ejemplo que funciona se descompone en su estructura, la estructura se explica y se escribe una página nueva sobre el mismo esqueleto. Presupone el criterio para elegir una página que funcione y que tenga un estilo que a uno le guste, y ahí es donde vuelven a entrar los cimientos de la naturaleza humana de la sección 32.1.
 
-#### El lead magnet como tu primer nicho
+#### El lead magnet (imán de leads) como tu primer nicho
 
 La segunda pieza del embudo es el *lead magnet*: un producto gratuito que se ofrece a cambio de una dirección de correo electrónico. Koe le da a este término común un significado propio. En julio de 2023, en un video que sostiene que "nichar" (niche down) es un mal consejo para la gente inteligente, presenta el lead magnet como "tu primer nicho". Ha construido y probado entre ocho y diez: un video de una hora sobre cómo crea sitios web; los fundamentos del marketing; el Power Planner; "Seven Days to Genius Ideas" (Siete días para ideas geniales); "The Internet Profit Starter Pack" (El kit de inicio para ganar dinero en internet); y "The Path to Power" (El camino al poder), un ebook sobre su life philosophy (filosofía de vida).
 
@@ -965,7 +965,7 @@ Un pasaje de febrero de 2023 añade algo que algunos creadores olvidan sobre el 
 
 Este es el argumento de la sección 32.3 visto desde el lado del embudo. El lead magnet se sitúa en los niveles de conciencia 2–4: toma a una persona que ha expresado interés en un problema y la educa hacia una solución, en piloto automático. La desconexión entre el contenido y el lead magnet es tolerable porque el propio enfoque del lead magnet nombra un problema amplio y deseable (una habilidad nueva; más clientes), que es como la sección 32.3 dice que debe enmarcarse el contenido para quienes están descubriendo y no buscando.
 
-#### El micro product: un currículum de 10 dólares
+#### El micro product (microproducto): un currículum de 10 dólares
 
 La tercera pieza es un pequeño producto de pago. La ilustración de Koe, contada en diciembre de 2024 y de nuevo en junio de 2025, se refiere a John Hu (registrado como "John Hugh" en las transcripciones), cofundador y CEO de Stan, la plataforma para creadores que aloja productos digitales y que Koe recomienda por asequible y completa (menciona que Steven Bartlett, de *The Diary of a CEO* (El diario de un CEO), se convirtió en copropietario). Hu empezó en TikTok después de trabajar en Goldman Sachs, haciendo videos de consejos profesionales. Su audiencia insinuaba una y otra vez que quería su currículum, el documento que le consiguió el empleo en Goldman; él lo mencionaba de vez en cuando, hasta que se dio cuenta de que podía publicarlo "por 10 dólares como plantilla" y "ver cómo le iba". Ganó 1.000 dólares en poco tiempo, y miles de dólares en total. "No lo complicó demasiado."
 
@@ -977,7 +977,7 @@ Según el equipo de Stan, dice Koe, mucha gente hace esto en la plataforma: algu
 
 El caso es también un ejemplo de los niveles de conciencia en acción. La audiencia pedía el currículum: estaba en el nivel 5 para ese producto específico antes de que existiera. La contribución de Hu fue notar la demanda y ponerle un precio.
 
-#### La función del micro product: confianza para una compra mayor
+#### La función del micro product (microproducto): confianza para una compra mayor
 
 ¿Para qué sirve el micro product? La respuesta de Koe, en el mismo video de diciembre de 2024, es que construye confianza para un servicio de precio más alto. Mucha más gente paga por un servicio de precio más alto una vez que ya ha invertido en ti; algunos no quieren apostarlo todo a una oferta cara y prefieren pagar primero algo pequeño para ver si confían en ti. Así que, dentro del micro product, enlaza al servicio, para que quienes pasen por él hagan clic y tengan más probabilidades de comprar.
 
@@ -987,7 +987,7 @@ Pero establece una prioridad. No necesitas estrictamente un micro product; tiene
 
 El orden coincide con la secuencia de arranque que se discute en los capítulos 29 y 30: el servicio es lo que genera dinero más rápido; los productos llegan a medida que el negocio crece. El ecosistema de 2024 de la sección 32.5 (primero el producto, luego el servicio) describe una etapa posterior, cuando el producto se ha convertido en la puerta de entrada a un servicio de precio más alto.
 
-#### Trust tripwires: el término de Justin Welsh
+#### Trust tripwires (tripwires de confianza): el término de Justin Welsh
 
 Koe no inventó la lógica del micro product. En una entrevista de diciembre de 2021, Justin Welsh, el creador y operador de negocios en solitario que aparece a lo largo del libro como invitado y como caso, describía sus propios productos en estos términos: "La mayoría de mis cosas son lo que yo llamo *trust tripwires* (tripwires de confianza), ¿no? Es decir, se trata de hacer entrar a la gente con un producto de menor costo que entrega un valor increíble, y conseguir que empiece a decir algo así como: esta es una persona en la que podemos confiar. Cuando gasto dinero con Justin, sé que voy a obtener un valor significativo del producto". La función principal del producto es la confianza que produce, que alimenta las compras posteriores. Welsh lo vincula con el crecimiento orgánico: "la mejor manera de hacerlo es seguir saliendo a construir una comunidad de seguidores orgánica".
 

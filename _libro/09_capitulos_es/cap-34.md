@@ -302,7 +302,7 @@ Koe y Devon Eriksen aplican el argumento de la proyección a quienes critican lo
 
 **Fuente:** The Most Important Skill To Learn In The Next 10 Years With Devon Eriksen.md (2024-12-08)
 
-#### El noble broi y el sleazy salesman
+#### El noble broi (broi noble) y el sleazy salesman (vendedor tramposo)
 
 El video de noviembre de 2023 "People Dumber Than You Are Making Millions" comienza con una figura que Koe nombra y ataca: el "noble broi" (el broi noble). (El término aparece así en la transcripción; la grafía que se pretendía es incierta, y el capítulo conserva la forma transcrita.) "En el mundo actual, una de las peores cosas que puedes hacer es quedar atrapado en la mente del noble broi." El **noble broi** es la persona inteligente que considera que el marketing, las ventas y los negocios en línea están por debajo de ella: "Muchas personas inteligentes que conozco odian la idea del marketing, las ventas y los negocios en línea porque creen que están por debajo de ellas", aunque no lo digan explícitamente. "Se quedan encerradas en lo que creen que es una perspectiva, entre comillas, superior, que demoniza al vendedor tramposo."
 
@@ -588,7 +588,7 @@ La postura de Koe sobre la inversión no permaneció fija, y la fórmula se sit�
 
 El movimiento va del rechazo de la inversión tradicional a un orden de prioridades (primero el flujo de caja, después los activos físicos) y luego a una advertencia que encaja mal con "invierte en lo físico". Koe no concilia la advertencia de 2026 con la fórmula de 2024, y el corpus no dice si seguiría recomendando los activos físicos como depósito de riqueza en el escenario que describe. El lector debería tratar "build the digital, invest in the physical" como su postura de 2024, y la advertencia de 2026 como una complicación no resuelta de ella.
 
-#### El ignorance tax, la ideal scene y la barra con pesas emprendedora
+#### El ignorance tax (impuesto a la ignorancia), la ideal scene (escena ideal) y la barra con pesas emprendedora
 
 Si la mejor inversión temprana es en uno mismo, ¿cómo debería hacerse esa inversión? La respuesta más desarrollada proviene de Dickie Bush, en la conversación de marzo de 2023. Tres de sus ideas forman una secuencia.
 
@@ -642,7 +642,7 @@ Sobre la **individual choice**, Koe se muestra en su faceta más severa. Sin aut
 
 Así, los new rich no se definen por una cantidad de dinero, sino por lo que el dinero se usa para asegurar: un trabajo pleno, una agenda propia y elecciones que no dicta la supervivencia. El **independent income** es el medio. Sin él, las otras tres cosas siguen dependiendo de las decisiones de un empleador. Esta definición anticipa la "enough life" de la sección 34.5, que también mide la riqueza por el estilo de vida y no por el patrimonio neto, aunque el video de 2025 que se analiza a continuación tira en otra dirección.
 
-#### "Unapologetically rich": las tres condiciones
+#### "Unapologetically rich" (rico sin pedir disculpas): las tres condiciones
 
 En agosto de 2025, Koe publicó un video con una tesis más afilada que cualquier cosa que hubiera dicho antes sobre el dinero: "What It Takes To Get Rich In Your 20s" (Lo que hace falta para hacerse rico a los veintitantos). Comienza descartando la sabiduría convencional. No tiene paciencia con la gente que "regurgita algún consejo superficial... sobre que el dinero no compra la felicidad, que sacaron de alguien que no tiene ni dinero ni felicidad". El video es "para quienes quieren hacerse **unapologetically rich** (ricos sin pedir disculpas), no porque seas una persona terrible o malvada, sino porque la única otra opción que tienes en la cabeza es que te valoren en lo que el mercado cree que vales, y eso es aterrador".
 
@@ -727,7 +727,7 @@ La **tarifa horaria real** es lo que tu tiempo genera actualmente; la tarifa asp
 
 Un detalle de la segunda lista destaca frente al resto del corpus. "Unirte a una startup" y "buscar un puesto ejecutivo" son caminos dentro de organizaciones. En otros lugares, especialmente en 2023 y 2024, Koe presenta a veces el emprendimiento como el único camino hacia el control de la propia vida y llama a los empleos una forma de esclavitud. En 2025 admite caminos dentro de organizaciones entre las acciones que elevan la propia tarifa. Esto encaja con un patrón más amplio documentado en el capítulo 2 (sección 2.3): su postura sobre el empleo oscila en el tono sin un giro cronológico claro, pero desde 2025 da cabida con más frecuencia a rutas dentro de las empresas.
 
-#### Ninguna otra opción: el dinero como forcing function
+#### Ninguna otra opción: el dinero como forcing function (función forzante)
 
 La tercera condición cierra el video. "El último punto sobre cómo hacerse rico es no darte ninguna otra opción que tener éxito, porque las mejores decisiones que he tomado siempre implicaron usar el dinero como una forcing function para ganar más. En otras palabras, invertí en cosas que no podía permitirme y aprendí a confiar en mí mismo para recuperar ese dinero mucho más rápido." Lo contrasta con la relación habitual con el dinero: "La mayoría de las personas normales solo ven el dinero como una manera de sobrevivir o de comprar cosas bonitas. No lo ven como una manera de crear presión para que te conviertas en una mejor versión de ti mismo". En el video ilustra el punto con sus propias compras, entre ellas un software de email marketing y un departamento caro, con los que se comprometió antes de poder pagarlos con comodidad.
 
@@ -758,7 +758,7 @@ Sahil también describe los niveles 3 y 4 de manera más laxa, como los que cubr
 
 El marco mide la riqueza por lo que los activos pagan sin trabajo, no por los ingresos. Es una medida distinta de la que Koe usa en la mayor parte de este capítulo, donde la riqueza es la capacidad de ganar (sección 34.1, a partir de Deutsch) y la confianza financiera importa más que un stock de activos (sección 34.4, a partir de Bush). Las dos medidas no son contradictorias, pero responden a preguntas distintas. La escalera de Sahil pregunta cuán lejos está uno de no necesitar trabajar; el énfasis de Koe pregunta cuánto puede crear uno.
 
-#### El dinero como retroalimentación, y la enough life
+#### El dinero como retroalimentación, y la enough life (vida suficiente)
 
 Es en este punto cuando Sahil le pide a Koe su definición de suficiente, y Koe da la respuesta citada en la sección 34.1: no lo sabe, porque el dinero está "profundamente entrelazado con el valor que doy y es un reflejo de él", y no está seguro de que alguna vez quisiera apagar ese **feedback mechanism**, independientemente de que necesite pagarle a su equipo. Pregunta cómo encaja esto con la idea de lo "suficiente".
 
@@ -782,7 +782,7 @@ La respuesta de Koe se vuelve hacia el discurso público sobre el dinero. "Con l
 
 La expresión **making money to create** (ganar dinero para crear) tiene una historia en el corpus. En 2023 Koe tuiteó una versión de ella como idea propia: primero creas para ganar dinero; luego ganas dinero para crear. En esta conversación de 2025 se la atribuye a Walt Disney, aunque admite que su paráfrasis de la cita no es exacta. La idea completa la resolución de Sahil. Más allá de lo suficiente, el dinero se convierte en un medio para crear a una escala que el propio trabajo no podría alcanzar sin él. El cambio de visión sobre los multimillonarios es personal; Koe lo presenta como tal y lo atribuye a la observación de una sola persona. No es un argumento general sobre los multimillonarios.
 
-#### El target creative y la obsesión por hacerse rico
+#### El target creative (creativo objetivo) y la obsesión por hacerse rico
 
 La tensión que Sahil resuelve en esta conversación también es visible a lo largo del tiempo en la obra del propio Koe. En mayo de 2024, al describir al espectador al que quería llegar, Koe trazó el retrato del **target creative** (el creativo objetivo), "un creative at heart (creativo de corazón)" con intereses que monetizar y habilidades que valen más de lo que le pagan. "No eres tonto", y puedes ver la oportunidad en internet porque sigues a creadores que "decidieron realmente dar el salto, hacerse responsables de su vida y transmitir lo que aprenden para hacer lo que disfrutan". Pero "no te importa ganar miles de millones, te importa ganar dinero más que suficiente para hacer lo que quieras"; "no te importa el ajetreo y la rutina extenuante del emprendedor típico, te importan el descanso, el tiempo libre y el trabajo con sentido".
 
