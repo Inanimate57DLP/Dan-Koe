@@ -626,11 +626,15 @@ In May 2024, in "The Age Of The Generalist," he wrote: "Only slaves are expected
 
 **Source:** The Age Of The Generalist (How To Earn A Living Doing What You Enjoy).md (2024-05-19)
 
+In July 2025, in "This mental model will make you think like a strategic genius," the term **free individual** appears with a first content: "The mark of a free individual is that they do what they want with their life. And this requires them to learn how to learn, learn how to earn, and learn how to think." Of the three, thinking is the most important, "because it influences both how you learn, how you act, and both of those determine the strategy or the path to achieving a big goal." When thinking is off, learning and acting are off, strategy is off, and people "can't even comprehend something that's worth doing," which is why so many answer "I don't know what I want out of life." All three, he adds, are skills, learnable "through practice, repetition, trial, and error" (Chapter 5 develops this formulation).
+
+**Source:** This mental model will make you think like a strategic genius.md (2025-07-20)
+
 In August 2025, in "You Have About 36 Months To Make It," he extended the definition: "The definition of a free individual is those who pursue their interest and do many things throughout their lives. It's those that don't need permission to identify and solve a problem to create value in the world." He placed it in the context of AI: as reality grows more complex with AI and technology, new problems emerge, more problems and opportunities than ever. Becoming a "director" (a figure Chapter 36 develops) is the best way to live regardless of AI; AI is just the catalyst, so complaining makes no sense.
 
 **Source:** You Have About 36 Months To Make It.md (2025-08-17)
 
-The development is cumulative. The 2024 "free man" has two marks: acting on one's interests and doing many things (the generalist). The 2025 "free individual" adds a third: not needing permission to identify and solve problems that create value (agency, in the July 2024 sense of Section 35.1). The 2026 triad reorganizes all three into engine, compass and foundation: self-interest is the 2024 "acts on their interests," self-education produces the "many things," and self-sufficiency contains the refusal to outsource agency, the 2025 "doesn't need permission."
+The development is cumulative. The 2021 "personal sovereignty" is the bare aim: doing what one wants, with whom and when one wants. The 2024 "free man" has two marks: acting on one's interests and doing many things (the generalist). The July 2025 "free individual" keeps the aim of doing what one wants and names the three learnable capacities it requires (learning, earning, thinking), which anticipate the self-education of the 2026 triad. The August 2025 "free individual" adds a further mark: not needing permission to identify and solve problems that create value (agency, in the July 2024 sense of Section 35.1). The 2026 triad reorganizes all three into engine, compass and foundation: self-interest is the 2024 "acts on their interests," self-education produces the "many things," and self-sufficiency contains the refusal to outsource agency, the 2025 "doesn't need permission."
 
 | Date | Term | Defining marks |
 |---|---|---|
