@@ -32,7 +32,7 @@ Koe offers numbers for what growth should look like, and they are useful both as
 
 In September 2023 he says that owned distribution compounds: "you can get to 10 to 20,000 followers in a year, 50 to 100,000 in two years and millions after four to five years." The condition is decisive: "that is if you know how to iterate on your best content or even write content in the first place." Two months later he calls 100,000 followers in a year an "extremely good," nearly perfect result.
 
-**Source:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md
+**Source:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md; Turn Your Knowledge Into A Business (How To Productize Your Mind).md
 
 In July 2024 he gives a monthly benchmark in a sharper tone: "if you weren't gaining 1,500 to 3,000 followers a month in under 30 minutes a day of work you're doing something wrong" and "you can do better." With that consistent growth, "over a year two years you can make a good amount of money, way more than you're used to." Annualized, this implies roughly 18,000 to 36,000 followers a year, somewhat above the 2023 figure.
 
