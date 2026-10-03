@@ -158,3 +158,148 @@ Convenciones vinculantes:
 | attention is the root of existence | término acuñado | conservar+glosa | attention is the root of existence (la atención es la raíz de la existencia) | attention is the root of existence | |
 | attention is the ultimate leverage | término acuñado | conservar+glosa | attention is the ultimate leverage (la atención es el apalancamiento definitivo) | attention is the ultimate leverage | |
 | attention mechanics / engagement psychology | término acuñado | conservar+glosa | attention mechanics (mecánica de la atención) / engagement psychology (psicología del engagement) | attention mechanics / engagement psychology | |
+| attention spreadsheet | término acuñado | conservar+glosa | attention spreadsheet (hoja de cálculo de la atención) | attention spreadsheet | De The Art of Focus. |
+| attract / nurture / implement | término acuñado | conservar+glosa | attract / nurture / implement (atraer / nutrir / implementar) | attract / nurture / implement | |
+| attractors / third attractor | término de tercero usado por el autor | traducir | atractores / tercer atractor | atractores / tercer atractor | Daniel Schmachtenberger. |
+| audience | palabra común con sentido propio | traducir | audiencia | audiencia | Forma fija "audiencia" (no "público"); el sentido propio (personas que confían en ti lo suficiente para darte su tiempo) se marca por contexto. |
+| audience building | término acuñado | conservar+glosa | audience building (construcción de audiencia) | audience building | |
+| audience equals distribution | término acuñado | conservar+glosa | audience equals distribution (audiencia es distribución) | audience equals distribution | |
+| audit your life | término acuñado | conservar+glosa | audit your life (audita tu vida) | audit your life | |
+| authentic polarization / alignment of values | término acuñado | conservar+glosa | authentic polarization (polarización auténtica) / alignment of values (alineación de valores) | authentic polarization / alignment of values | |
+| authenticity | palabra común con sentido propio | traducir | autenticidad | autenticidad | Forma fija; el sentido propio (actuar sin interferencia de opiniones ajenas) se marca por contexto. |
+| authenticity at scale | término acuñado | conservar+glosa | authenticity at scale (autenticidad a escala) | authenticity at scale | |
+| authenticity bros | término acuñado | conservar+glosa | authenticity bros (los bros de la autenticidad) | authenticity bros | |
+| authority building platforms | término acuñado | conservar+glosa | authority building platforms (plataformas para construir autoridad) | authority building platforms | |
+| authority catalysts / purposeful product | término acuñado | conservar+glosa | authority catalysts (catalizadores de autoridad) / purposeful product (producto con propósito) | authority catalysts / purposeful product | |
+| automate the path to the good life / layering system over system | término acuñado | conservar+glosa | automate the path to the good life (automatizar el camino a la buena vida) / layering system over system (apilar sistema sobre sistema) | automate the path to the good life / layering system over system | |
+| automate yourself out of work / library of prompts / highly relative domain | término acuñado | conservar+glosa | automate yourself out of work (automatizarte fuera de tu trabajo) / library of prompts (biblioteca de prompts) / highly relative domain (dominio altamente relativo) | automate yourself out of work / library of prompts / highly relative domain | |
+| automatic guidance system (success / failure mechanism) | término de tercero usado por el autor | traducir | sistema de guía automático (mecanismo de éxito / mecanismo de fracaso) | sistema de guía automático | Maxwell Maltz (Psicocibernética). |
+| automatic mode | término acuñado | conservar+glosa | automatic mode (modo automático) | automatic mode | Vecino de autopilot; no intercambiar. |
+| autopilot / survival mode | término acuñado | conservar+glosa | autopilot (piloto automático) / survival mode (modo supervivencia) | autopilot / survival mode | |
+| autopilot living → autocomplete living | término acuñado | conservar+glosa | autopilot living → autocomplete living (vivir en piloto automático → vivir en autocompletar) | autopilot living → autocomplete living | |
+| autotelic | término de tercero usado por el autor | traducir | autotélico | autotélico | Forma estándar de Csikszentmihalyi en español. |
+| avalanche called insight | término acuñado | conservar+glosa | avalanche called insight (una avalancha llamada insight) | avalanche called insight | |
+| avatar as the face of the brand / create a Creator | término acuñado | conservar+glosa | avatar as the face of the brand (el avatar como rostro de la marca) / create a Creator (crear un Creador) | avatar as the face of the brand / create a Creator | |
+| Average Joe identity | término acuñado | conservar+glosa | Average Joe identity (identidad de persona promedio) | Average Joe identity | |
+| average Tuesday / safe version | término acuñado | conservar+glosa | average Tuesday (un martes cualquiera) / safe version (la versión segura) | average Tuesday / safe version | Preguntas del protocolo de anti-vision. |
+| awareness (everything is awareness until you execute) | término acuñado | conservar+glosa | awareness (toma de conciencia: todo es awareness hasta que ejecutas) | awareness | Se conserva para distinguirlo de consciousness (= consciencia, traducido). |
+| awareness begets awareness | término acuñado | conservar+glosa | awareness begets awareness (la toma de conciencia trae más toma de conciencia) | awareness begets awareness | Vecino de "awareness begets improvement". |
+| awareness begets improvement | término acuñado | conservar+glosa | awareness begets improvement (la toma de conciencia trae mejora) | awareness begets improvement | |
+| awareness is a cure / awareness is curative | término acuñado | conservar+glosa | awareness is a cure (la toma de conciencia cura) | awareness is a cure | Grafías fusionadas ("curative" = "a cure"). |
+| awareness of opportunity | término acuñado | conservar+glosa | awareness of opportunity (percibir la oportunidad) | awareness of opportunity | |
+| awareness surface area | término acuñado | conservar+glosa | awareness surface area (superficie de percepción) | awareness surface area | |
+| axis of your suffering | término acuñado | conservar+glosa | axis of your suffering (el eje de tu sufrimiento) | axis of your suffering | |
+| backbone | término acuñado | conservar+glosa | backbone (columna vertebral de la distribución) | backbone | |
+| backlog newsletter | término acuñado | conservar+glosa | backlog newsletter (newsletter de archivo) | backlog newsletter | |
+| badge of honor / status symbol / distracted work | término acuñado | conservar+glosa | badge of honor (insignia de honor) / status symbol (símbolo de estatus) / distracted work (trabajo distraído) | badge of honor / status symbol / distracted work | |
+| bake your own voice into the principles | término acuñado | conservar+glosa | bake your own voice into the principles (integrar tu propia voz en los principios) | bake your own voice into the principles | |
+| bakes in promotions | término acuñado | conservar+glosa | bakes in promotions (promociones integradas de serie) | bakes in promotions | |
+| balance | palabra común con sentido propio | traducir | equilibrio | equilibrio | Forma fija "equilibrio" (nunca "balance", que en español evoca contabilidad); sentido propio: esfuerzo consciente para que ningún extremo domine. |
+| balance of skill and opportunity | término acuñado | conservar+glosa | balance of skill and opportunity (equilibrio entre habilidad y oportunidad) | balance of skill and opportunity | |
+| balance of spirituality and practicality | término acuñado | conservar+glosa | balance of spirituality and practicality (equilibrio entre espiritualidad y practicidad) | balance of spirituality and practicality | |
+| bare minimum approach | término acuñado | conservar+glosa | bare minimum approach (enfoque del mínimo indispensable) | bare minimum approach | |
+| base audience / base level of engagement | término acuñado | conservar+glosa | base audience (audiencia base) / base level of engagement (nivel base de engagement) | base audience / base level of engagement | |
+| base foundational skill | término acuñado | conservar+glosa | base foundational skill (habilidad base fundamental) | base foundational skill | |
+| base income / micro products | término acuñado | conservar+glosa | base income (ingreso base) / micro products (microproductos) | base income / micro products | |
+| base operating system | término acuñado | conservar+glosa | base operating system (sistema operativo base) | base operating system | |
+| baseline / angles | término acuñado | conservar+glosa | baseline / angles (subir la línea base con ángulos nuevos) | baseline / angles | Práctica de reescritura mensual; distinta de "baseline" (nivel al que se vuelve). |
+| baseline / new high / raise the baseline / higher baselines / state | término acuñado | conservar+glosa | baseline (línea base) | baseline | "higher baselines" y "raise the baseline" se fusionan como formas de baseline. Subtérminos: "new high (nuevo máximo)", "state (estado de base)". |
+| baseline consciousness of humanity | término acuñado | conservar+glosa | baseline consciousness of humanity (la consciencia base de la humanidad) | baseline consciousness of humanity | |
+| baseline level of clarity / clarity creation | término acuñado | conservar+glosa | baseline level of clarity (nivel base de claridad) / clarity creation (creación de claridad) | baseline level of clarity / clarity creation | |
+| basic needs / growth needs | término de tercero usado por el autor | traducir | necesidades básicas / necesidades de crecimiento | necesidades básicas / necesidades de crecimiento | Sobre Maslow. |
+| batch / bleed into | término de tercero usado por el autor | traducir | agrupar en bloques / desbordarse sobre | agrupar en bloques / desbordarse sobre | Sahil Bloom (calendario de energía). |
+| battleground | término acuñado | conservar+glosa | battleground (campo de batalla) | battleground | |
+| be water / the cup / freezing into one cup | término de tercero usado por el autor | traducir | sé agua / la taza / congelarse en una sola taza | sé agua / la taza / congelarse en una sola taza | Bruce Lee, forma conocida en español ("sé agua, amigo mío"). |
+| be yourself, improve yourself and profit off of yourself | término acuñado | conservar+glosa | be yourself, improve yourself and profit off of yourself (sé tú mismo, mejórate y gana con ser tú) | be yourself, improve yourself and profit off of yourself | |
+| become nobody / label-less | término acuñado | conservar+glosa | become nobody (volverse nadie) / label-less (sin etiquetas) | become nobody / label-less | |
+| become the niche / don't find a niche, become the niche | término acuñado | conservar+glosa | become the niche (conviértete en el nicho) | become the niche | Fórmula larga fusionada: "don't find a niche, become the niche (no busques un nicho, conviértete en él)". Distinto de "being the niche" y "You are the niche". |
+| become your own dopamine dealer | término acuñado | conservar+glosa | become your own dopamine dealer (conviértete en tu propio proveedor de dopamina) | become your own dopamine dealer | |
+| beginner business model / big boy business model | término acuñado | conservar+glosa | beginner business model (modelo de negocio de principiante) / big boy business model (modelo de negocio de grandes ligas) | beginner business model / big boy business model | |
+| beginner hell | término acuñado | conservar+glosa | beginner hell (el infierno del principiante) | beginner hell | Distinto de tutorial hell. |
+| behavior change | palabra común con sentido propio | traducir | cambio de conducta | cambio de conducta | Forma fija (no "cambio de comportamiento"); dentro de fórmulas conservadas va en inglés. |
+| behavior change equals identity change | término acuñado | conservar+glosa | behavior change equals identity change (cambiar de conducta es cambiar de identidad) | behavior change equals identity change | Vecino de "behavior change through identity change". |
+| behavior change through identity change | término acuñado | conservar+glosa | behavior change through identity change (cambio de conducta mediante el cambio de identidad) | behavior change through identity change | |
+| Behavior equals results | término acuñado | conservar+glosa | Behavior equals results (la conducta es igual a resultados) | Behavior equals results | |
+| behavior system | término acuñado | conservar+glosa | behavior system (sistema de conducta) | behavior system | |
+| being / knowing (first order / second order) | término acuñado | conservar+glosa | being / knowing (ser / conocer: primer orden / segundo orden) | being / knowing | |
+| being and doing (peace and progress, stillness and movement) | término acuñado | conservar+glosa | being and doing (ser y hacer: paz y progreso, quietud y movimiento) | being and doing | |
+| being in the game / mental masturbation | término acuñado | conservar+glosa | being in the game (estar en el juego) / mental masturbation (masturbación mental) | being in the game / mental masturbation | |
+| being the niche | término acuñado | conservar+glosa | being the niche (ser el nicho) | being the niche | |
+| beings of conditioning / creatures of habit | término acuñado | conservar+glosa | beings of conditioning (seres de condicionamiento) / creatures of habit (criaturas de hábito) | beings of conditioning / creatures of habit | |
+| belief in the existence of hard problems | término de tercero usado por el autor | traducir | creer en la existencia de problemas difíciles | creer en la existencia de problemas difíciles | Devon Eriksen. |
+| believable goal / believable time frame | término acuñado | conservar+glosa | believable goal (meta creíble) / believable time frame (plazo creíble) | believable goal / believable time frame | |
+| benefits-rich language | término acuñado | conservar+glosa | benefits-rich language (lenguaje rico en beneficios) | benefits-rich language | |
+| bet on yourself | término acuñado | conservar+glosa | bet on yourself (apuesta por ti mismo) | bet on yourself | |
+| better sets of problems | término acuñado | conservar+glosa | better sets of problems (mejores conjuntos de problemas) | better sets of problems | |
+| Big Goal | término acuñado | conservar+glosa | Big Goal (la Gran Meta) | Big Goal | Con mayúsculas: la meta compartida por todos. |
+| big goals for direction, small goals for clarity | término acuñado | conservar+glosa | big goals for direction, small goals for clarity (metas grandes para la dirección, metas pequeñas para la claridad) | big goals for direction, small goals for clarity | Variante "big goals for motivation, small goals for clarity (metas grandes para la motivación…)" se respeta tal como aparezca. |
+| big idea | término acuñado | conservar+glosa | big idea (la gran idea) | big idea | |
+| big internet group chat | término acuñado | conservar+glosa | big internet group chat (el gran chat grupal de internet) | big internet group chat | |
+| big irrational goals, small rational steps / cone | término acuñado | conservar+glosa | big irrational goals, small rational steps (metas grandes e irracionales, pasos pequeños y racionales) / cone (el cono) | big irrational goals, small rational steps / cone | |
+| big picture thinking / opening your mind | término acuñado | conservar+glosa | big picture thinking (pensar en el panorama completo) / opening your mind (abrir la mente) | big picture thinking / opening your mind | |
+| big picture understanding > technical details | término de tercero usado por el autor | traducir | comprensión del panorama general > detalles técnicos | comprensión del panorama general > detalles técnicos | Leo Gura. |
+| big problem / burning problem / negative outcome | término acuñado | conservar+glosa | big problem (el gran problema) / burning problem (problema urgente) / negative outcome (resultado negativo) | big problem / burning problem / negative outcome | |
+| big standards / intelligent limitations / smart problems | término acuñado | conservar+glosa | big standards (estándares altos) / intelligent limitations (limitaciones inteligentes) / smart problems (problemas inteligentes) | big standards / intelligent limitations / smart problems | |
+| binary person | término de tercero usado por el autor | traducir | persona binaria | persona binaria | Justin Welsh. |
+| binge tech / simulated sexual stimulation / consumables / thrill-seeking | término acuñado | conservar+glosa | binge tech (tecnología de atracón) / simulated sexual stimulation (estimulación sexual simulada) / consumables (consumibles) / thrill-seeking (búsqueda de emociones fuertes) | binge tech / simulated sexual stimulation / consumables / thrill-seeking | |
+| bits of information | término de tercero usado por el autor | traducir | bits de información | bits de información | |
+| bitter at the game | término acuñado | conservar+glosa | bitter at the game (resentido con el juego) | bitter at the game | |
+| black hole of problems | término acuñado | conservar+glosa | black hole of problems (agujero negro de problemas) | black hole of problems | |
+| bloat | término acuñado | conservar+glosa | bloat (sobrecarga) | bloat | |
+| blue oceans | término de tercero usado por el autor | traducir | océanos azules | océanos azules | Forma establecida (La estrategia del océano azul). |
+| blueprint prompt / coach prompt | término acuñado | conservar+glosa | blueprint prompt (prompt de plano maestro) / coach prompt (prompt de coach) | blueprint prompt / coach prompt | |
+| blurple branding | término acuñado | conservar+glosa | blurple branding (branding azul-morado) | blurple branding | |
+| bodhisattva / external game / middle way / non-personal Stance | término de tercero usado por el autor | traducir | bodhisattva / juego externo / camino medio / postura impersonal | bodhisattva / juego externo / camino medio / postura impersonal | Alan Watts / Cook-Greuter. |
+| body of work / body of coherent work | palabra común con sentido propio | traducir | cuerpo de obra / cuerpo de obra coherente | cuerpo de obra | Forma fija "cuerpo de obra" para distinguirlo de "obra" suelta y de "life's work". |
+| book of your life / book to brand / Book to Brand | nombre de producto/framework | conservar+glosa | Book to Brand (Del libro a la marca) / book of your life (el libro de tu vida) | Book to Brand / book of your life | Grafías "book to brand" y "Book to Brand" fusionadas. |
+| book smarts | palabra común con sentido propio | traducir | inteligencia libresca | inteligencia libresca | Forma fija; peyorativa en el autor (disfraza el sobreanálisis del riesgo). |
+| boredom is the gateway to novelty | término acuñado | conservar+glosa | boredom is the gateway to novelty (el aburrimiento es la puerta a la novedad) | boredom is the gateway to novelty | |
+| boring fundamentals | término acuñado | conservar+glosa | boring fundamentals (fundamentos aburridos) | boring fundamentals | |
+| bottleneck (not intelligence) | término de tercero usado por el autor | traducir | cuello de botella (no la inteligencia) | cuello de botella | Devon Eriksen. |
+| bottom feeders | término acuñado | conservar+glosa | bottom feeders (los que se alimentan del fondo) | bottom feeders | |
+| bottom quintile | término acuñado | conservar+glosa | bottom quintile (el quintil inferior) | bottom quintile | |
+| boundaries for creativity | término acuñado | conservar+glosa | boundaries for creativity (límites para la creatividad) | boundaries for creativity | |
+| BPAS | nombre de producto/framework | conservar+glosa | BPAS (Big idea, Problem, Amplify, Solution: gran idea, problema, amplificación, solución) | BPAS | |
+| brain dump | palabra común con sentido propio | traducir | volcado mental | volcado mental | Forma fija; paso previo al outline. |
+| brain fog | término acuñado | conservar+glosa | brain fog (niebla mental por acumulación) | brain fog | Se conserva porque el autor lo usa en sentido propio (conocimiento sin aplicar), no médico. |
+| brain fried | término acuñado | conservar+glosa | brain fried (cerebro frito) | brain fried | |
+| brain rot | palabra común con sentido propio | conservar+glosa | brain rot (podredumbre mental) | brain rot | Préstamo ya usado en español en internet. |
+| Branch into new opportunity / desaturate the market | término acuñado | conservar+glosa | Branch into new opportunity (ramificarse hacia nuevas oportunidades) / desaturate the market (desaturar el mercado) | Branch into new opportunity / desaturate the market | |
+| branch out / branch into speaking | término acuñado | conservar+glosa | branch out (expandirse a otras plataformas) / branch into speaking (expandirse a dar charlas) | branch out / branch into speaking | |
+| branches of awareness | término acuñado | conservar+glosa | branches of awareness (ramas de percepción) | branches of awareness | |
+| brand / content / product (pilares) | nombre de producto/framework | conservar+glosa | brand / content / product (marca / contenido / producto) | brand / content / product | Se conserva al nombrar la tríada de pilares; "marca", "contenido" y "producto" sueltos se traducen normalmente. |
+| brand / storefront | término acuñado | conservar+glosa | brand / storefront (la marca como escaparate) | brand / storefront | |
+| brand advisor / brand adviser | término acuñado | conservar+glosa | brand advisor (asesor de marca) | brand advisor | Grafías fusionadas. |
+| brand goal / brand mission / brand vision | término acuñado | conservar+glosa | brand goal / brand mission / brand vision (meta, misión y visión de marca) | brand goal / brand mission / brand vision | |
+| brand is an environment | término acuñado | conservar+glosa | brand is an environment (la marca es un entorno) | brand is an environment | |
+| brand is invisible | término acuñado | conservar+glosa | brand is invisible (la marca es invisible) | brand is invisible | |
+| brand is the depth behind everything | término acuñado | conservar+glosa | brand is the depth behind everything (la marca es la profundidad detrás de todo) | brand is the depth behind everything | |
+| brand is transformation | término acuñado | conservar+glosa | brand is transformation (la marca es transformación) | brand is transformation | |
+| brand is what you do | término acuñado | conservar+glosa | brand is what you do (la marca es lo que haces) | brand is what you do | Distinta de la fórmula ampliada siguiente. |
+| brand is what you do / product is how / marketing is why | nombre de producto/framework | conservar+glosa | brand is what you do / product is how / marketing is why (la marca es el qué, el producto es el cómo, el marketing es el porqué) | brand is what you do / product is how / marketing is why | |
+| brand is your goal in life | término acuñado | conservar+glosa | brand is your goal in life (la marca es tu meta en la vida) | brand is your goal in life | |
+| brand is your story / content is your school / product is the map | nombre de producto/framework | conservar+glosa | brand is your story / content is your school / product is the map (la marca es tu historia, el contenido es tu escuela, el producto es el mapa) | brand is your story / content is your school / product is the map | |
+| brand message / mission | término acuñado | conservar+glosa | brand message / mission (mensaje de marca / misión) | brand message / mission | |
+| brand perception | término acuñado | conservar+glosa | brand perception (percepción de marca) | brand perception | |
+| bread crumbs / leaving breadcrumbs / aggregated knowledge | término acuñado | conservar+glosa | breadcrumbs (migas de pan) | breadcrumbs | "bread crumbs" y "leaving breadcrumbs" se fusionan. Subtérmino: "aggregated knowledge (conocimiento agregado)". |
+| break the rules | término acuñado | conservar+glosa | break the rules (romper las reglas) | break the rules | |
+| breakthrough point | término acuñado | conservar+glosa | breakthrough point (el punto de avance decisivo) | breakthrough point | |
+| breathing room | palabra común con sentido propio | traducir | margen de holgura | margen de holgura | Forma fija; colchón de unas dos semanas al dar una fecha pública. |
+| brick by brick | palabra común con sentido propio | traducir | ladrillo a ladrillo | ladrillo a ladrillo | |
+| bridge (social media is a bridge to your newsletter) | término acuñado | conservar+glosa | bridge (puente: las redes son un puente hacia tu newsletter) | bridge | |
+| brilliant nobodies | término acuñado | conservar+glosa | brilliant nobodies (brillantes don nadie) | brilliant nobodies | |
+| bringing your ideal future into the now / taper up | término acuñado | conservar+glosa | bringing your ideal future into the now (traer tu futuro ideal al ahora) / taper up (subir gradualmente) | bringing your ideal future into the now / taper up | |
+| broad and beginner | término acuñado | conservar+glosa | broad and beginner (amplio y de principiante) | broad and beginner | |
+| broad net / broad catch, specific sale | término acuñado | conservar+glosa | broad net (red amplia) / broad catch, specific sale (captura amplia, venta específica) | broad net / broad catch, specific sale | |
+| broaden and break down | término acuñado | conservar+glosa | broaden and break down (ampliar y desglosar) | broaden and break down | |
+| broke in more areas than finances | término acuñado | conservar+glosa | broke in more areas than finances (quebrado en más áreas que las finanzas) | broke in more areas than finances | |
+| broken record / where the north is | término de invitado | conservar+glosa | broken record (disco rayado) / where the north is (dónde está el norte) | broken record / where the north is | Vitali. |
+| brutal honesty | término acuñado | conservar+glosa | brutal honesty (honestidad brutal) | brutal honesty | |
+| brutally aware | término acuñado | conservar+glosa | brutally aware (brutalmente consciente) | brutally aware | |
+| bubble of awareness | término acuñado | conservar+glosa | bubble of awareness (burbuja de percepción) | bubble of awareness | |
+| Bubble of comfort / expanded circle | término acuñado | conservar+glosa | Bubble of comfort (burbuja de comodidad) / expanded circle (círculo expandido) | Bubble of comfort / expanded circle | |
+| bubble of responsibilities | término acuñado | conservar+glosa | bubble of responsibilities (burbuja de responsabilidades) | bubble of responsibilities | |
+| buffer period | término acuñado | conservar+glosa | buffer period (período de amortiguación) | buffer period | Distinto de "buffer" en "4-Hour Workday cut off". |
+| build a solution | término acuñado | conservar+glosa | build a solution (construir una solución) | build a solution | |
+| build a world not a funnel / world of mini funnels / small scale Marvel Cinematic Universe | término acuñado | conservar+glosa | build a world not a funnel (construye un mundo, no un embudo) / world of mini funnels (mundo de miniembudos) / small scale Marvel Cinematic Universe (Universo Cinematográfico de Marvel a pequeña escala) | build a world not a funnel | Los subtérminos se usan con su glosa en primera aparición. |
+| build an audience, monetize an audience | término acuñado | conservar+glosa | build an audience, monetize an audience (construye una audiencia, monetiza una audiencia) | build an audience, monetize an audience | |
