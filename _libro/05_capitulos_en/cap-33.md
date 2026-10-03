@@ -300,7 +300,7 @@ The pivot shows what "productize yourself" means when the self changes. The prod
 
 ### 33.4 Offer Types, Delivery and Price
 
-Once the subject of the product is chosen, a series of practical decisions follows: what kind of offer it is, what elements it contains, how it is delivered, how products are arranged in a ladder, and what they cost. Koe's material on these decisions is concrete and often numerical. It is also the part of the corpus in which he relies most explicitly on other people's experience, especially Justin Welsh's on pricing.
+Once the subject of the product is chosen, a series of practical decisions follows: what kind of offer it is, what elements it contains, how it is delivered, how products are arranged in a ladder, and what they cost. Koe's guidance on these decisions is concrete and often numerical. It is also the part of the corpus in which he relies most explicitly on other people's experience, especially Justin Welsh's on pricing.
 
 #### Three offer types: done for you, done with you, do it yourself
 
@@ -538,7 +538,7 @@ Step 4.5 adds the second part of the product. "Step 4.5 is education." You have 
 
 #### One core, several names
 
-The material of this section and of Section 33.1 shows the same concept appearing under a sequence of names. Koe gives no reason for the renamings, and the book treats them as one idea that gains emphasis and context over time.
+The passages of this section and of Section 33.1 show the same concept appearing under a sequence of names. Koe gives no reason for the renamings, and the book treats them as one idea that gains emphasis and context over time.
 
 | Period | Name | Emphasis |
 |---|---|---|
@@ -804,7 +804,7 @@ The ladder sorts buyers by commitment. The community and the writing course are 
 
 #### Digital Economics and Solopreneur Sprints
 
-Two smaller units give the details of Koe's highest-priced program in 2023. *Solopreneur Sprints* was a 14-day cohort that started on February 7, 2023. Its content: creating your *niche of one* as a personal brand (Section 19.2), writing more than twenty foundational pieces of content with Koe on screen, outlining a growth strategy and learning how to repurpose content. He described it as building "the base of your one-person business in 14 days." The price was $150, compared with past cohorts at "9.99 or even 2000," presumably $999 and $2,000. After enrollment closed, access was through the Masters tier of Digital Economics, which included all future Solopreneur Sprints.
+Two shorter passages give the details of Koe's highest-priced program in 2023. *Solopreneur Sprints* was a 14-day cohort that started on February 7, 2023. Its content: creating your *niche of one* as a personal brand (Section 19.2), writing more than twenty foundational pieces of content with Koe on screen, outlining a growth strategy and learning how to repurpose content. He described it as building "the base of your one-person business in 14 days." The price was $150, compared with past cohorts at "9.99 or even 2000," presumably $999 and $2,000. After enrollment closed, access was through the Masters tier of Digital Economics, which included all future Solopreneur Sprints.
 
 **Source:** The Most Profitable Niche Is You (Create Your Niche Of One).md (2023-01-29)
 
@@ -870,4 +870,4 @@ Later in 2024 Koe removed several of these courses and kept 2 Hour Writer and Ko
 
 8. **Trace your own lineage.** Koe describes his product history as a genealogy in which each offer grows out of the previous one ("it never ends; that's what makes it meaningful"). Map the skills, services, content and projects you have produced so far as a similar lineage, and project the next two steps it could take. Identify which existing piece could be bundled, as Koe bundled his old courses into Modern Mastery, to launch the next one.
 
-<!-- COBERTURA: U-001-041, U-001-048, U-001-103, U-001-104, U-001-108, U-001-111, U-001-114, U-001-121, U-001-124, U-001-136, U-002-022, U-002-123, U-002-127, U-002-131, U-004-005, U-004-033, U-005-031, U-005-041, U-006-167, U-007-028, U-007-034, U-007-113, U-007-166, U-007-170, U-007-177, U-007-185, U-007-187, U-008-030, U-008-037, U-008-038, U-008-065, U-008-071, U-008-086, U-008-121, U-008-152, U-008-168, U-008-172, U-008-176, U-008-180, U-008-184, U-008-186, U-008-187, U-008-188, U-009-035, U-009-036, U-009-039, U-009-056, U-009-077, U-009-139, U-009-140, U-009-146, U-009-148, U-009-158, U-009-159, U-009-160, U-009-161, U-009-162, U-009-165, U-009-173, U-009-174, U-009-175, U-009-176, U-009-177, U-009-178, U-009-179, U-009-180, U-009-181, U-009-221, U-009-238, U-010-042, U-010-052, U-010-058, U-010-066, U-010-202, U-010-287, U-010-325, U-010-335, U-010-338, U-010-342, U-010-361, U-010-362, U-010-364, U-011-036, U-011-084, U-011-085, U-011-206, U-012-075, U-012-076, U-012-112, U-012-115, U-012-216, U-013-071, U-013-100, U-014-047, U-015-080, U-015-122, U-015-123, U-015-124, U-016-078, U-016-133, U-016-135, U-016-286, U-016-287, U-016-296, U-019-067, U-019-085, U-019-089, U-019-141, U-021-037, U-021-045, U-027-255 -->
+<!-- COBERTURA: U-001-041, U-001-048, U-001-103, U-001-104, U-001-108, U-001-111, U-001-114, U-001-121, U-001-124, U-001-136, U-002-022, U-002-123, U-002-127, U-002-131, U-004-005, U-004-033, U-005-031, U-005-041, U-006-167, U-007-028, U-007-034, U-007-113, U-007-166, U-007-170, U-007-177, U-007-185, U-007-187, U-008-030, U-008-037, U-008-038, U-008-065, U-008-071, U-008-086, U-008-121, U-008-152, U-008-168, U-008-172, U-008-176, U-008-180, U-008-184, U-008-186, U-008-187, U-008-188, U-008-189, U-009-035, U-009-036, U-009-039, U-009-056, U-009-077, U-009-139, U-009-140, U-009-146, U-009-148, U-009-158, U-009-159, U-009-160, U-009-161, U-009-162, U-009-165, U-009-170, U-009-171, U-009-172, U-009-173, U-009-174, U-009-175, U-009-176, U-009-177, U-009-178, U-009-179, U-009-180, U-009-181, U-009-221, U-009-238, U-010-042, U-010-052, U-010-058, U-010-066, U-010-202, U-010-247, U-010-287, U-010-325, U-010-335, U-010-337, U-010-338, U-010-342, U-010-361, U-010-362, U-010-364, U-011-036, U-011-084, U-011-085, U-011-206, U-012-075, U-012-076, U-012-112, U-012-115, U-012-216, U-013-071, U-013-100, U-014-047, U-015-080, U-015-122, U-015-123, U-015-124, U-016-078, U-016-133, U-016-135, U-016-286, U-016-287, U-016-296, U-019-067, U-019-085, U-019-089, U-019-141, U-019-145, U-021-037, U-021-045, U-027-255 -->
