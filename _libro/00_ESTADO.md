@@ -3,7 +3,7 @@
 - **CORPUS_PATH resuelto:** `.` (raíz del repositorio). La ruta configurada `Transcripts YouTube Referentes/Dan Koe` no existe; los transcripts están en la raíz.
 - **Directorio de trabajo:** `_libro/` (en la raíz)
 - **Rama de trabajo:** `libro-maestro-dan-koe` (creada desde `origin/main`, commit 1396995)
-- **Último commit:** 101492f Fase 7: avance parcial de traducción (capítulos 13–15)
+- **Último commit:** c66a280 Fase 7: léxico de traducción, se eliminan notas contradictorias de conservar en inglés en palabras comunes traducidas
 - **Fase actual:** Fase 7 en curso — léxico bloqueado (`08_lexico-traduccion.md`, 2763 términos; extractos por capítulo en `08b_lexico_por_capitulo/`). Traducción por capítulo → `09_capitulos_es/` (3 subagentes en paralelo; plantilla en `99_herramientas/trans_prompt.txt`).
 
 ## Números
@@ -96,8 +96,8 @@
 - cap-11.md: 35494 palabras ✔
 - cap-12.md: 35826 palabras ✔
 - cap-13.md: 34911 palabras ✔
-- cap-14.md: 33031 palabras ✔
-- cap-15.md: 31385 palabras ✔
+- cap-14.md: 42683 palabras ✔
+- cap-15.md: 40780 palabras ✔
 - **Total:** 15/43 archivos (40 capítulos + portada, mapa y notas)
 
 ## Notas
