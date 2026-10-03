@@ -62,7 +62,7 @@ Correcciones aplicadas a `05_capitulos_en/cap-03.md` y `05_capitulos_en/cap-04.m
 ### Limpiezas globales
 
 - **Frases de proceso eliminadas o reescritas: 24.**
-  - 18 usos de "unit(s)", incluidos "The last unit of this cluster", "Several units show the mechanics", "Two units from a 2024 video", "Three units from 2025", "The second/third unit", "The immersion units span…", "across these units", "Two units come from a 2023 conversation…", "Several units answer no", "the previous two units", "Two units describe…", "The last unit places…" y "the urgency of the immersion units". Se reescribieron como "passage(s)", "formulations", "Koe's statements on immersion" o "the immersion practices described above".
+  - 14 usos de "unit(s)", incluidos "The last unit of this cluster", "Several units show the mechanics", "Two units from a 2024 video", "Three units from 2025", "The second/third unit", "The immersion units span…", "across these units", "Two units come from a 2023 conversation…", "Several units answer no", "the previous two units", "Two units describe…", "The last unit places…" y "the urgency of the immersion units". Se reescribieron como "passage(s)", "formulations", "Koe's statements on immersion" o "the immersion practices described above".
   - 3 usos de "material" como término del proceso: "Much of the material in this chapter", "The material spans 2022 to 2026" y "two kinds of material". Un cuarto uso, "more such material", pasó a "content".
   - 1 mención al léxico: "the lexicon of the corpus treats… as equivalents" → "Koe uses… as equivalent names".
   - 3 frases sobre el alcance del capítulo:
