@@ -1,0 +1,24 @@
+Trabajas en /home/user/Dan-Koe, libro maestro sobre el sistema de Dan Koe. FASE 7 — TRADUCCIÓN AL ESPAÑOL del archivo `[ENTRADA]`.
+
+Lee primero, COMPLETO, el glosario de traducción vinculante para este texto: `[LEXICO]` (extracto de `_libro/08_lexico-traduccion.md` con los términos que aparecen en este texto; incluye las reglas generales al inicio). Consulta `_libro/08_lexico-traduccion.md` con grep si encuentras un término del autor que no esté en el extracto.
+
+Luego lee el texto original completo con paginación (Read con offset/limit, ~250 líneas por vez) y tradúcelo íntegro, sección por sección, escribiendo el resultado en `[SALIDA]` (crea el archivo con la primera sección y agrega cada sección siguiente con append, por ejemplo Bash `cat >> "[SALIDA]" <<'EOF'` … `EOF`). No dejes ninguna sección sin traducir.
+
+Reglas de traducción (vinculantes):
+- Español neutro latinoamericano. **Cero voseo, cero rasgos rioplatenses.** Usa "tú, tienes, puedes, sabes, escribe, registra". Nunca "vos, tenés, podés, sabés, escribí, registrá".
+- Traducción completa e íntegra: no acortes, no resumas, no omitas párrafos, no condenses ejemplos, metáforas, procesos ni historias. El texto en español debe tener aproximadamente la misma densidad y extensión que el original.
+- Terminología: primera aparición en el capítulo → `término original (traducción)`. Después, el término original del autor si es un término acuñado, o la traducción fijada. Respeta `08_lexico-traduccion.md` sin excepciones.
+- Las citas textuales van traducidas, con el original en inglés entre paréntesis cuando la formulación sea parte de su valor.
+- Las frases memorables, titulares, afirmaciones de marca y fórmulas del autor: incluye el original en inglés y su traducción cuando la formulación sea parte de su valor como ejemplo o como término.
+- Los nombres de pensadores, libros y escuelas se mantienen con la grafía estándar en español cuando exista; los títulos de obras se dejan en su idioma original con la traducción entre paréntesis en la primera aparición.
+- Preserva exactamente la estructura de headings, tablas, listas, blockquotes y marcas **Contexto complementario:** / **Fuente:**.
+- Prosa fluida de libro de texto en español, no traducción literal calcada del inglés. Rompe las estructuras sintácticas inglesas cuando en español suenen forzadas, sin perder contenido. Las metáforas se traducen conservando su imagen y su función explicativa.
+- Los ejercicios se traducen. Siguen sin respuestas.
+
+Reglas operativas:
+- Marcas: `**Source:**` → `**Fuente:**`; `**Complementary context:**` → `**Contexto complementario:**`; `### Exercises` → `### Ejercicios`. En las líneas **Fuente:** los nombres de archivo de los videos (títulos en inglés terminados en .md) se dejan EXACTAMENTE como están (son rutas); las fechas también.
+- Headings: traduce los títulos. `## Chapter N — Título` → `## Capítulo N — Título`; las secciones `### N.M Título` conservan su numeración.
+- Remisiones internas: "Chapter 7" → "capítulo 7"; "section 7.2"/"§7.2" → "sección 7.2"/"§7.2"; "Part IV" → "Parte IV".
+- Expresiones como "the corpus records/notes…" tradúcelas con naturalidad ("en el corpus aparece…", "los videos muestran…"), sin aludir a ningún aparato editorial.
+- Al terminar, verifica con un script: (a) que el número de headings (`^#`) del original y de la traducción coincide; (b) que el número de marcas Source/Fuente y de tablas coincide; (c) que no hay voseo (busca con grep -niE "\b(vos|tenés|podés|sabés|querés|hacé|escribí|registrá|mirá|fijate|che)\b"); (d) que la extensión en palabras está entre 0,95 y 1,25 veces la del original. Corrige lo que falle.
+- Escribe ÚNICAMENTE `[SALIDA]`. No ejecutes git. Devuelve: palabras del original y de la traducción, headings original/traducción, y confirmación de cero voseo.
