@@ -238,7 +238,7 @@ Tomadas en conjunto, las ideas de esta sección responden a "¿de dónde viene u
 
 La materia prima de la sección 22.2 es personal y desordenada. Un escritor que ha excavado cinco intereses, tres problemas resueltos y una creencia contraria todavía tiene que decidir qué escribir el lunes, y luego cada lunes durante el año siguiente. Entre 2022 y 2026 Koe ofreció varias herramientas para esto: el Domain of Mastery, el topic tree (antes llamado "content pyramid"), los content pillars y el content map, y una hoja de papel con el punto A y el punto B. Comparten una estructura (un número pequeño de intereses amplios, desglosados en temas más estrechos que se convierten en piezas de contenido individuales) y difieren en el énfasis. Esta sección las presenta en un orden aproximadamente cronológico, porque ese orden muestra un cambio real en el peso que Koe le da a la planificación, y termina con su propia relativización posterior de todas ellas.
 
-#### El Domain of Mastery (dominio de maestría) (2022 y 2024)
+#### El Domain of Mastery (dominio de maestría), 2022 y 2024
 
 La más temprana de estas herramientas proviene del curso de Koe Digital Economics, que cita en un video de octubre de 2022 como su respuesta a "Dan, ¿sobre qué escribo?". La llama el **Domain of Mastery** (dominio de maestría). La instrucción es elegir tres intereses:
 
