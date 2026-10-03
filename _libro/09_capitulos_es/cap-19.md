@@ -230,3 +230,190 @@ La acuñación que sigue es **nicheless**: "Cuando tú eres el nicho y estás ca
 
 La palabra es paradójica a propósito. Ser el nicho y ser nicheless son la misma condición vista desde dos ángulos: desde dentro, el nicho es la persona; desde fuera, nunca se queda quieto el tiempo suficiente como para nombrarlo como un segmento de mercado. La última frase pone de cabeza la lógica de nichar. En el modelo tradicional, un nicho estable es señal de un negocio bien posicionado; en el modelo de Koe, un nicho que nunca cambia es señal de que la persona ha dejado de desarrollarse, lo que en el modelo de la identidad de la Parte II significa que la persona ha dejado de perseguir metas nuevas. Los ejemplos que da Koe (Zuby y Hamza) se analizan en la sección 19.4.
 
+#### El experience model
+
+Hasta aquí, "you are the niche" ha sido una afirmación sobre el posicionamiento. En octubre de 2022, Koe le da la forma de un modelo de negocio. En "The One-Person Business Model (How To Productize Yourself)" (El modelo de negocio de una persona [cómo productizarte]) sostiene que, para las personas que quieren hacer lo que quieren y ayudar a quienes más pueden ayudar, el consejo tradicional sobre branding, marketing, contenido y ofertas no encaja. Menciona al "value creator" como un estilo de negocio de una persona (desarrollado en un video posterior y en el capítulo 35 de este libro) y llama a lo que está describiendo **the experience model** (el modelo de experiencia): "tú eres tu customer avatar, tú eres tu marca, tú eres tu nicho, tú eres tu contenido, tú eres tu oferta, tú eres todo". Las habilidades que más importan en este modelo son el autoconocimiento y la autosuficiencia, y los que prosperan son quienes se hacen responsables de su propio futuro y ayudan a otros a llegar adonde van.
+
+**Fuente:** The One-Person Business Model (How To Productize Yourself).md
+
+En marzo de 2023 le da al experience model su definición más breve: ayudas a las personas que están en el **point A** (punto A), donde tú estabas antes, a llegar al **point B** (punto B), donde estás ahora, con contenido y productos en medio que contienen conocimiento, experiencia y sistemas. "Y así es como ganas dinero".
+
+**Fuente:** The Best Online Business To Make $1 Million In 3-5 Years.md
+
+En julio de 2024 lo contrapone explícitamente al modelo tradicional. "El modelo de negocio tradicional consiste en crear un customer avatar basado en alguien con un problema rentable que tú puedes resolver": uno identifica un problema y crea una solución. "El experience model te convierte en el customer avatar. Tu experiencia y tu historia te convierten en el nicho; así puedes resolver tus propios problemas, atraer a personas que están en un camino similar al tuyo y ayudarlas a hacer lo mismo". La ventaja adicional es práctica: "no tienes que pasar incontables horas haciendo estudios de mercado para entender qué se va a vender". El proceso es una secuencia: "persigues una meta, la logras, hablas de ella, atraes a personas con esa misma meta y les ofreces una solución para alcanzarla más rápido", mediante un producto o un servicio, ayudándolas a "mejorar, pero más rápido de lo que tú lo hiciste".
+
+**Fuente:** The Future Of Work (Avoid Learning These Skills).md
+
+| | Modelo tradicional | Experience model |
+|---|---|---|
+| Punto de partida | Un problema rentable en el mercado | Una meta que el creador está persiguiendo |
+| Customer avatar | Construido mediante estudios de mercado | El creador (su yo pasado) |
+| Fuente del conocimiento | Investigación y especulación | La experiencia vivida de resolver el problema |
+| Qué se vende | Una solución al problema de otro | El camino de A a B, más rápido de lo que el creador lo recorrió |
+| Validación | Pruebas en el mercado | Ya validado por el propio resultado del creador |
+
+El experience model es la forma empresarial del modelo de la identidad. En el capítulo 8, una meta era lo que organiza las acciones de una persona; aquí esa misma meta organiza un negocio, porque el camino hacia ella genera los problemas (que se convierten en contenido), las soluciones (que se convierten en productos) y las personas (que se convierten en la audiencia).
+
+#### Los cuatro pilares: metas, problemas, sistemas, beneficios
+
+Dentro del experience model, Koe ofrece un marco para traducir una vida a los componentes de un negocio. Aparece en el video de octubre de 2022, se repite casi palabra por palabra en la larga recopilación de 2024 "The One-Person Business Model (How To Productize Yourself Full Guide)" (El modelo de negocio de una persona [guía completa para productizarte]), que añade la etiqueta explícita "experience model", y reaparece como gráfico en "Life Is A Video Game (You Can't Escape The Matrix)" (La vida es un videojuego [no puedes escapar de la Matrix]) en septiembre de 2023. Lo llama los **four pillars of the one-person business** (cuatro pilares del negocio de una persona).
+
+| Pilar | Elemento de la vida | Función en el negocio | Pregunta guía |
+|---|---|---|---|
+| 1 | Tus **metas** | **Marca** | ¿Qué quieres de la vida y hacia dónde estás guiando a la gente? |
+| 2 | Los **problemas** que se interponen entre tú y tus metas | **Contenido** | ¿Con qué obstáculos se encontrarán tus seguidores y cómo los ayudarás a superarlos? |
+| 3 | Los **sistemas** que usas para resolver los problemas | **Producto** | ¿Cómo pueden resolver sus problemas más rápido? (Porque eso es lo que la gente quiere). |
+| 4 | Los **beneficios** del viaje, cómo impactó tu vida | **Marketing** | ¿Por qué debería importarles tu mensaje? |
+
+**Fuente:** The One-Person Business Model (How To Productize Yourself).md; The One-Person Business Model (How To Productize Yourself Full Guide).md; Life Is A Video Game (You Can't Escape The Matrix).md
+
+Cada traducción tiene su propia lógica. Las metas se convierten en la marca porque una marca, en el sentido de Koe, es una dirección: la gente sigue a alguien que va hacia un lugar al que ella quiere ir. Los problemas se convierten en contenido porque los obstáculos en el camino hacia la meta son exactamente aquello en lo que otros que van por el mismo camino necesitan ayuda; Koe lo llama "un punto de partida", reconociendo que el contenido implica más cosas. Los sistemas se convierten en productos porque un producto es una versión comprimida del método que encontró el creador, vendida a personas que quieren saltarse el ensayo y error. Los beneficios se convierten en marketing porque la razón para que te importe un mensaje es lo que cambió en la vida de la persona que lo transmite. Para este último pilar, Koe subraya el **benefits-rich language** (lenguaje rico en beneficios) como "extremadamente poderoso y persuasivo", y da su propio ejemplo: las razones por las que escribe todos los días (generar ingresos, pensar con más claridad, sistematizar todo su otro contenido) se convirtieron en **persuasive arguments** (argumentos persuasivos) en sus landing pages.
+
+El gráfico de 2023 añade una razón para el orden: la marca construye apalancamiento y lectores, el contenido nutre a esos lectores, el producto los monetiza y el marketing hace posible la monetización.
+
+Koe condensa el marco en una sola frase: "persigues una meta, resuelves tus propios problemas, les enseñas a otros cómo lo hiciste, y ese es tu negocio". Y en el mismo aliento lo matiza. Está simplificado en exceso y tiene muchos matices; uno debe aplicar y poner a prueba los principios por sí mismo, y al hacerlo produce un conocimiento único y genuino. Lleva tiempo, pero "se paga diez veces". La alternativa, contratar a alguien para que construya la propia marca, "renuncia a todo el apalancamiento potencial y, sencillamente, al poder". El matiz es coherente con el principio de autoexperimentación del capítulo 15: el marco es una hipótesis que hay que poner a prueba, no una receta.
+
+Conviene señalar un problema textual. En el video de 2022, Koe anuncia "cuatro pilares" pero, cuando los recorre por segunda vez, numera el branding, el contenido y la oferta como pilares uno a tres, y la transcripción no etiqueta explícitamente el marketing como pilar cuatro en ese segundo recorrido. La correspondencia de cuatro partes de la tabla es la que enuncia en el primer recorrido y la que muestra el gráfico de 2023.
+
+#### El negocio como sistema
+
+Un video de 2024 hace una lectura sistémica de los pilares que explica por qué deben considerarse en conjunto. "Un sistema es un grupo de partes que están conectadas o trabajan juntas para formar un todo complejo orientado a lograr una meta; cada parte afecta al sistema y depende de las demás partes". La analogía de Koe es el sistema digestivo, en el que el estómago y los intestinos trabajan juntos. "Tu negocio está formado por marca, contenido, producto y marketing". Sin un buen producto, que es en sí mismo un sistema, no hay ingresos; si descuidas el contenido, no hay tráfico al que vender; si la landing page del producto es débil, ese es un subsistema que hay que diagnosticar y arreglar para poder invertir energía con más eficiencia. "Los sistemas se vuelven más eficientes con el tiempo, a menos que los descuides".
+
+**Fuente:** Life Is A Video Game (Here's How You Win).md
+
+Esta lectura conecta los cuatro pilares con el modelo cibernético de la mente del capítulo 6, en el que un sistema que persigue una meta se corrige a sí mismo mediante la retroalimentación. Un negocio construido según el experience model es ese mismo tipo de sistema, y su punto débil en cada momento puede localizarse preguntando qué pilar está fallando. El capítulo 28 desarrolla los pilares como las funciones del negocio de una persona; aquí lo que importa es de dónde viene cada uno.
+
+#### Versiones posteriores de los pilares
+
+Los cuatro pilares se revisaron varias veces, y las revisiones son cambios de nombre de una misma arquitectura, no contradicciones.
+
+En junio de 2023, en "The One Person Business Model 2.0 (Turn Yourself Into A Business)" (El modelo de negocio de una persona 2.0 [conviértete en un negocio]), Koe lee un tuit propio: "para la marca, cuenta una historia; para el contenido, haz un mapa; para el producto, crea un juego". El tuit nombra tres; el recorrido añade el cuarto, el marketing, como "venderte a ti mismo". Tal como se desarrollan en el video, los pilares pasan a ser los de **tell a story / make a map / create a game / sell to yourself** (cuenta una historia / haz un mapa / crea un juego / véndete a ti mismo): (1) marca: you are the niche, tu identidad, tu historia, tu visión; (2) contenido: documentar tu mente; (3) producto: **public personal projects** (proyectos personales públicos); (4) marketing: **selling to yourself** (el arte de venderte a ti mismo, pilar 4). La transcripción no explica más la frase "crea un juego".
+
+**Fuente:** The One Person Business Model 2.0 (Turn Yourself Into A Business).md
+
+En el video de agosto de 2024, el marco se reduce a tres pilares y se reformula como respuesta a la exigencia de especificidad. "Se supone que los nichos son específicos. ¿Y qué hay más específico que esto? Una meta deseable que cambiará tu vida y la de tus lectores, que es la marca. Un problema urgente que aliviará tu sufrimiento y el de tus lectores, que es el contenido. Un camino claro, un sistema o una solución que te dé claridad a ti y a tus lectores, que es el producto". Es la tríada **desirable goal / burning problem / clear path** (meta deseable / problema urgente / camino claro).
+
+**Fuente:** Don't Find A Niche. Become The Niche.md
+
+Esta versión es retóricamente importante porque le responde al bando de nichar en sus propios términos. La especificidad no se abandona; se reubica. Una meta, un problema y un camino son más específicos que un segmento demográfico, porque describen exactamente lo que alguien quiere, qué se lo impide y cómo atravesarlo.
+
+En septiembre de 2023, en "How To Reprogram Your Mind & Build Your Intelligence" (Cómo reprogramar tu mente y construir tu inteligencia), una cuarta formulación hace corresponder el yo directamente con el negocio. "Una marca personal es una extensión de tu carácter, el yo que sigues desarrollando. Tus metas son lo que atrae a compradores afines. Tus problemas, una vez resueltos, son la manera en que ayudas a otros en forma de producto o servicio. Tus ideas son las publicaciones que ocupan los **mental real estate** (bienes raíces mentales) de tus seguidores y moldean su sentido de sí mismos". Escribir y transmitir "tu hermosa mente a las masas a través de las redes sociales es la manera de cumplir los requisitos de una vida plena". Koe llama a esto "convertirte en el negocio".
+
+**Fuente:** How To Reprogram Your Mind & Build Your Intelligence.md
+
+| Versión | Marca | Contenido | Producto | Marketing |
+|---|---|---|---|---|
+| 2022, cuatro pilares | Metas | Problemas | Sistemas | Beneficios |
+| 2023-03, historia / escuela / mapa | Tu historia (dónde estás ahora) | Tu escuela (lo que te ayudó a llegar ahí) | El mapa (un sistema holístico para llegar adonde estás) | (sin nombre) |
+| 2023-06, "2.0" | Cuenta una historia (identidad, visión) | Haz un mapa (documentar tu mente) | Crea un juego (proyectos personales públicos) | Véndete a ti mismo |
+| 2023-09, del yo al negocio | Carácter (el yo en desarrollo); las metas atraen compradores | Las ideas como publicaciones que ocupan bienes raíces mentales | Los problemas resueltos | (sin nombre) |
+| 2024-08, tres pilares | Meta deseable | Problema urgente | Camino claro | (absorbido) |
+
+La tabla muestra dos movimientos. El cuarto pilar, el marketing, recibe nombres distintos en distintas versiones y acaba desapareciendo; para 2026, Koe habla de "los tres pilares, que antes eran cuatro". Y las metáforas migran: en marzo de 2023 ("The Future Of One-Person Businesses"), **brand is your story / content is your school / product is the map** (la marca es tu historia, el contenido es tu escuela, el producto es el mapa), mientras que tres meses después, en la versión 2.0, el mapa pertenece al contenido y el producto se convierte en un juego. En la correspondencia de 2023-09, hay que notar que las equivalencias se desplazan: las metas ya no *son* la marca, sino que *atraen* compradores hacia ella, y los problemas se convierten en el producto en lugar del contenido. Koe no explica estos cambios. Lo que persiste en todas las versiones es la afirmación de que los componentes del negocio no se inventan, sino que se extraen de la propia búsqueda del creador: dirección, obstáculos, método y resultado. La tabla reúne solo las versiones que tienen que ver con el nicho. Koe produjo varias más: una versión qué/cómo/por qué (diciembre de 2022), los "macronutrientes" de noviembre de 2023, "tu filosofía es tu marca, la manera en que vives es tu producto" (enero de 2024) y cuatro formulaciones en 2026, que terminan en junio con "tu marca es la transformación, tu contenido es el mapa y tu producto es la herramienta", donde el mapa vuelve al contenido. El capítulo 28 (sección 28.6) expone la secuencia completa en una sola tabla.
+
+### 19.3 Construye, escribe y véndete a ti mismo
+
+#### La simplificación
+
+Si el creador es el nicho, entonces la pregunta "¿quién es mi cliente?" tiene una respuesta inesperada. En el video de enero de 2023, Koe propone una simplificación en tres partes de todo el negocio de una persona: "Uno, construye para ti; dos, escríbete a ti; tres, véndete a ti". El razonamiento es la misma aritmética que fundamenta el niche of one: "hay millones de personas con los mismos intereses, problemas y deseos que tú, y solo necesitas encontrar a una fracción de ellas. El nicho más rentable eres tú".
+
+**Fuente:** The Most Profitable Niche Is You (Create Your Niche Of One).md
+
+En abril de 2023, en "Solve Your Own Problems And Sell The Solution (Your Niche Is You)" (Resuelve tus propios problemas y vende la solución [tu nicho eres tú]), detalla cada parte: "Construye la solución que resuelve tus problemas a la perfección, el contenido que le habla a la persona que está pasando por ese problema, vende la solución con tus experiencias personales con ese problema. Construye, escribe y véndete a ti mismo si quieres eliminar toda la competencia". Luego describe su propio caso sin eufemismos: "todo mi recorrido en los negocios fue egoísta". Construyó para sí mismo, se escribió a sí mismo, se vendió a sí mismo: "mi customer avatar era yo. Construí para él, le escribí a él". Escribía en internet lo que quería leer, el tipo de contenido que le gustaba en Twitter, Instagram y YouTube.
+
+**Fuente:** Solve Your Own Problems And Sell The Solution (Your Niche Is You).md
+
+La palabra "egoísta" es provocadora pero precisa. El modelo funciona porque los problemas del propio creador son una muestra fiable de los problemas de otras personas: si algo resolvió el problema del creador, es probable que resuelva el mismo problema para personas que están en la misma situación. La sección 19.4 da la razón por la que Koe cree que la muestra es fiable: los problemas de todos caen dentro de los mismos pocos ámbitos.
+
+En julio de 2024 vuelve a enunciar la fórmula y muestra cómo hace corresponder los resultados con los productos. Los resultados en fitness se convierten en un programa de fitness; los resultados con el foco, en un curso de productividad; con una habilidad, en un tutorial; con la psicología, en una consigna de journaling; con la espiritualidad, en una meditación. "Estos productos no son todos iguales. Están hechos de experiencia, de tu historia, de lo que descubriste que te funciona a ti". Su ejemplo es Kinobody, un creador de fitness que vende un programa de dos entrenamientos por semana construido alrededor de toda su filosofía del ayuno intermitente, algo muy distinto de lo que vendería un culturista con metas completamente diferentes. Están en el mismo campo y venden soluciones distintas. "Atraes a la gente hacia la meta que estás persiguiendo porque tú eres el nicho... y la gente se va a sentir atraída por personas distintas. Así es como funciona la economía de los creadores".
+
+**Fuente:** The Future Of Work (Avoid Learning These Skills).md
+
+El ejemplo de Kinobody es la prueba de la tesis a nivel de mercado: el "fitness" no es un nicho, sino tantos nichos como caminos distintos hay para recorrerlo, y cada camino atrae a las personas que quieren recorrerlo.
+
+#### El atajo: construye lo que tú comprarías
+
+El video de 2024 formula el principio como una lección acompañada de una afirmación llamativa. "Construye un producto o servicio que tú mismo comprarías, usarías y del que te beneficiarías. No hay muchos atajos en los negocios, pero este es uno de ellos. Cuando haces eso, te conviertes en el nicho, y puedes enfocarte en hacerles marketing a tu yo pasado y a tu yo actual". La segunda mitad de la lección extiende el principio a la escritura: "Escribe las palabras ante las que tú te detendrías, que leerías y sobre las que actuarías. Cuando te conoces a ti mismo, puedes adelantarte al 99 % de los negocios fracasados que no han vivido los problemas que intentan resolver".
+
+**Fuente:** Don't Find A Niche. Become The Niche.md
+
+El "99 %" es retórico, pero la lógica es la que ya se vio en 19.1: la mayoría de los negocios fracasan porque intentan resolver problemas que no han vivido, y el conocimiento de uno mismo elimina esa causa de fracaso.
+
+Un video de diciembre de 2023 sobre el **build teach earn method** (método construir, enseñar, ganar) añade dos elementos. El primero es una advertencia: "Si no vendes tu propio producto, se te asignará uno para que lo vendas". La frase hace eco de la tesis del capítulo 1, según la cual, si uno no elige sus metas, se le asignan las de otro; aquí la misma estructura se aplica a los productos. Sin mentirse a sí mismo, el creador debe hacer algo que él compraría, usaría y de lo que se beneficiaría. El segundo elemento explica qué ahorra el atajo: cuando tú eres el nicho, no necesitas preocuparte en exceso por los estudios de mercado, por el ajuste producto-mercado ni por diseñar la estrategia de marketing perfecta. "Construir una audiencia es un truco moderno": tu contenido es la manera de poner a prueba ideas que se convierten en tu marketing. El ejemplo de Koe es publicar diez tuits al día para probar diez títulos de YouTube o textos de miniatura y usar el que genere más interacción; admite que él mismo no lo ha hecho, pero ha visto a gente lanzar diez anuncios de Facebook a la vez para elegir la miniatura de un pódcast.
+
+**Fuente:** How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md
+
+#### Experiencia, no especulación
+
+En un video de septiembre de 2024 sobre la riqueza con sentido, Koe enuncia la base epistemológica del modelo. "Hay miles de personas como tú. Yo simplemente hablo de los problemas que tuve en mi vida y doy soluciones para ellos; así atraigo una audiencia. Eso es lo que hacen, en mi opinión, las mejores marcas y los mejores negocios: sus negocios están construidos sobre la experiencia, no sobre la especulación o la teoría". Están construidos sobre un conjunto de preguntas: "qué sé, en qué puedo ayudar más, qué problemas he resuelto en mi vida, por qué son importantes". Y esa, dice, es la estrategia de marketing: "construye un producto para ti, hazte marketing a ti, escríbete a ti, atrae a gente como tú, porque es a quien más puedes ayudar. Así sabes a quién te vas a dirigir".
+
+**Fuente:** You Won't Look At Money The Same Again (How To Build Meaningful Wealth).md
+
+Un minuto después extrae la conclusión más fuerte de esta sección. "La mayoría de los negocios fracasan porque intentan resolver un problema que no han vivido; se inventan alguna idea sofisticada de startup en la cabeza y después justifican su fracaso con una estadística tonta como que el 99 % de las startups fracasan". Si te encasillas en un nicho estrecho y en un problema con el que no tienes experiencia, "en realidad no hay una salida de eso". Por eso recomienda convertirse en el nicho, "porque tu negocio solo está limitado por tu capacidad de desarrollarte; tus productos evolucionan a medida que tú evolucionas, porque resuelves problemas nuevos y mejoras". El negocio tiene un ciclo simple: "Todo negocio tiene una audiencia; es tráfico". "Pruebas ideas con contenido, conviertes las mejores ideas en productos, mejoras tus productos o creas otros nuevos hasta que funcione". Y luego la afirmación: "En realidad no puedes fracasar si tú eres el negocio, porque tienes **full control** (control total) sobre tu mejora".
+
+**Fuente:** You Won't Look At Money The Same Again (How To Build Meaningful Wealth).md
+
+Esta afirmación debe leerse con precisión. Koe no dice que todo negocio construido de esta manera gane dinero; en otros lugares documenta siete negocios fallidos propios (capítulo 37). Lo que dice es que la forma de fracaso del modelo tradicional, quedar atrapado en un mercado que uno no entiende y sin salida, no se aplica cuando el negocio es una función del propio desarrollo, porque la variable que determina el éxito (la propia mejora) está bajo el control de uno. Es una afirmación sobre la estructura de la apuesta, y presupone las habilidades duras que nombró en 2021.
+
+#### Un ejemplo desarrollado: el programa de entrenamiento minimalista
+
+El ejemplo que Koe más repite aparece por primera vez en diciembre de 2022, en "You Have A $100,000 Product In Your Head" (Tienes un producto de 100.000 dólares en tu cabeza), y se repite casi literalmente en la recopilación de 2024. Algunas personas que venden programas de entrenamiento minimalista están "llenándose los bolsillos". Su historia es típica. No están metidas a fondo en el fitness como un culturista; no quieren entrenar de cinco a siete días por semana, solo dos. Así que investigan, experimentan y crean un programa que les da resultados, y entonces tiene sentido ayudar a otros como ellas, "porque tú eres el nicho". Estar en el gimnasio dos horas a la semana y aun así obtener resultados es algo único. Y el marketing, el *porqué*, ya está planteado: "Solo tengo dos horas a la semana para entrenar, igual quiero estar en forma y sano, igual quiero trabajar en mi negocio". Para una persona muy parecida al creador, el marketing "se despliega solo". Es la idea de que tienes un **$100,000 product in your head** (producto de 100.000 dólares en tu cabeza).
+
+**Fuente:** You Have A $100,000 Product In Your Head (One Person Business Series).md; The One-Person Business Model (How To Productize Yourself Full Guide).md
+
+El ejemplo muestra a la vez todos los pilares de 19.2. La meta (estar en forma con un tiempo mínimo) es la marca; los problemas del camino (el tiempo limitado, los consejos contradictorios) son el contenido; el programa es el sistema convertido en producto; y el beneficio (estar en forma sin sacrificar el negocio) es el texto de marketing. También muestra por qué no hace falta un estudio de mercado: las propias restricciones del creador definen al cliente.
+
+En octubre de 2024, Koe generaliza el ejemplo en la idea de productizarse. Si atraes una audiencia con una personalidad y una visión del futuro parecidas a las tuyas, "es decir, tú eres el nicho" ("AKA You Are The Niche"), entonces los proyectos que construyes para lograr tus propias metas "pueden convertirse fácilmente en productos por los que otras personas pagan. Así es como te productizas". Añade un segundo punto dirigido a quienes solo consumen soluciones: si solo usas los programas de fitness, los programas de meditación o los sistemas de escritura de otras personas sin experimentar con los tuyos, empieza a experimentar, "para poder transmitir mejores maneras de hacer las cosas, y así es como las cosas mejoran". El capítulo 33 desarrolla el productizarse como estrategia de producto.
+
+**Fuente:** The Death Of The Personal Brand (& The Future Of Creative Work).md
+
+#### Por qué te dicen que niches y por qué tú eres el customer avatar
+
+El video de 2024 contiene el relato más franco de Koe sobre para qué sirve realmente el consejo de nichar. Te dicen que niches "para que puedas entender la mente de tus lectores y clientes": crear un customer avatar, identificar un **burning problem** (problema urgente), posicionar una solución hacia ellos. "La solución suele ser la misma que la de cualquier otro producto del mercado con pequeños cambios. La idea es hacer que una persona específica la perciba como valiosa entendiéndola". Luego ofrece lo que llama un truco: "recrea lo que ya existe, pero mejor. Y no lo compliques demasiado". Y una generalización fuerte: "Todos los productos son iguales. O sea, todos los productos de autoayuda son iguales. Todos los productos de negocios son iguales. Solo están posicionados hacia personas distintas". Por eso, dice, importa crear un nicho.
+
+**Fuente:** Don't Find A Niche. Become The Niche.md
+
+Este es el giro conceptual del capítulo. Nichar tiene que ver con el *posicionamiento*, con hacer que una mente específica perciba un producto como valioso. Koe no discute que el posicionamiento sea necesario. Discute el método para lograrlo. Si el propósito es entender la mente de un cliente, hay una mente que el creador ya entiende desde dentro. De ahí el siguiente paso del argumento. "Yo puedo hablar de escritura y otra persona puede hablar de escritura, pero son dos personas completamente distintas, y eso es lo que lo hace único". Koe se dirige a su yo pasado, a su **former self** (yo anterior), a los problemas que ese yo intentaba resolver y a las metas que intentaba lograr. Otro escritor puede posicionarse hacia las mamás futboleras, porque es una de ellas o porque eligió ese nicho. "Dirigirte a ti mismo es muchísimo más fácil, y va una capa más profundo que simplemente ganar dinero": implica superación personal, autoconocimiento, construir productos que realmente ayuden y trabajar con personas con las que uno disfruta. "¿Por qué no nos saltamos todo eso y nos tratamos a nosotros mismos como el customer avatar, resolviendo problemas que realmente hemos vivido?". A medida que el creador crece, los productos evolucionan, y construye y distribuye uno nuevo.
+
+**Fuente:** Don't Find A Niche. Become The Niche.md
+
+La definición que da Koe del término en 2024 explica por qué funciona esta sustitución. "En esencia, un customer avatar es la mente, la visión del mundo o la perspectiva de alguien para quien estás creando o a quien le estás haciendo marketing". La sección 19.4 desarrolla la estructura de esa visión del mundo. Si un customer avatar es una visión del mundo, entonces la visión del mundo pasada del propio creador es un avatar que conoce por completo.
+
+En enero de 2026 enuncia la inversión como principio. El camino del desarrollo "pone de cabeza el modelo tradicional. Tradicionalmente necesitas un customer avatar y necesitas nichar hacia ese customer avatar. Pero con este modelo, tú eres el customer avatar, y eso hace las cosas mucho más llevaderas". "Si necesitas un estudio de mercado, simplemente miras tu historia". "Persigues tus metas en la vida y te desarrollas, y al hacerlo ya has validado la utilidad de lo que vas a ofrecer, y luego ayudas a la versión pasada de ti mismo a alcanzar esa misma meta".
+
+**Fuente:** If you have multiple interests, do not waste the next 2-3 years.md
+
+Dos formulaciones de 2023 dicen lo mismo en una forma de diálogo que Koe usa a menudo. "Pero, Dan, ¿qué pasa con mi customer avatar y el estudio de mercado?". "Eres tú. Tú eres el nicho, tú eres el customer avatar. Escribe el contenido y las promociones que te hablarían a ti". Esto reemplaza el "aburrido estudio de mercado" por la creación de los propios clientes.
+
+**Fuente:** Micro Education Businesses Are The Future & How To Start With Zero Dollars.md
+
+La versión más profunda del argumento, de abril de 2023, vincula el customer avatar con el modelo de la identidad. Koe prefiere "convertirte en el customer avatar, hacerle marketing a tu yo pasado y atraer a las personas que son como tú". Es más fácil y más satisfactorio, porque "ya lo tienes en la cabeza", y porque "no tienes que trabajar con alguien a quien odias para ganar dinero; simplemente le haces marketing a tu yo pasado". La razón por la que uno debería hacerle marketing a su yo pasado en particular es que es la perspectiva que mejor conoce, y "la identidad y la perspectiva están muy estrechamente vinculadas". La cadena continúa: la perspectiva forma la base del contenido, la escritura y los productos; las personas que uno atrae llegan a formar una **shared perspective** (perspectiva compartida); la perspectiva está orientada hacia metas y visiones, así que uno guía a la gente hacia una meta o visión y puede comercializar mejor sus productos, creando "un modelo de negocio holístico que realmente disfrutas".
+
+**Fuente:** Value Creation The Single Skill That Built My $1M Solo Business.md
+
+En marzo de 2024, el mecanismo recibe su formulación más explícita, como consecuencia de la teoría del valor de Koe (capítulo 31). "El valor se percibe según la identidad de la persona". Por eso recomienda que "te conviertas en el nicho": "te conviertes en tu customer avatar, te escribes a ti mismo, construyes un producto para ti, te vendes ese producto a ti mismo, a la versión pasada de ti mismo". Esto sucede "en internet, con la escritura como contenido, para que atraigas a las personas correctas", de modo que uno pueda ser percibido como valioso "porque ahí es donde cultivaste el valor". El mecanismo: las personas que comparten, o compartieron alguna vez, tu identidad son las que percibirán como valioso aquello que tú encontraste valioso.
+
+**Fuente:** Working Hard Won't Make You Rich (Do This Instead).md
+
+Con esto, el argumento de la sección puede exponerse como una cadena. El valor se percibe a través de la identidad. La identidad pasada del creador es la que mejor conoce. Las personas que comparten esa identidad percibirán como valiosas las soluciones del creador. Por lo tanto, escribirle y construir para el propio yo pasado no es autocomplacencia, sino el posicionamiento más preciso del que se dispone.
+
+#### El ideal reader: el yo pasado, el actual y el futuro
+
+¿Cómo se escribe para uno mismo en la práctica? En octubre de 2022, en "The Rise Of The Value Creator" (El ascenso del creador de valor), Koe ofrece un método por pasos. Está buscando un nombre para "convertirme en un negocio, productizarme"; sus candidatos son **mental monetization** (monetización mental) y "the business of self" (el negocio del yo), porque "negocio de una persona está bien, pero es algo amplio". Luego da la instrucción: "Quiero que te trates a ti mismo como tu ideal reader".
+
+**Fuente:** The Rise Of The Value Creator (A Career Path For Polymaths & Self-Improvers).md
+
+El **ideal reader** (lector ideal), en este método, tiene tres versiones temporales.
+
+- **El yo pasado.** Dale consejos que te habrían ayudado a superar tus problemas más rápido, o ánimo. Koe admite que su primer ejemplo es "cursi": "oye, hermano, sé que estás en un momento difícil... sigue haciendo lo que estás haciendo". Su segundo ejemplo es más útil: "recuerdo cuando no entendía esto del marketing" se convierte en una publicación titulada algo así como "estos son los cinco principios de marketing que necesitas entender".
+- **El yo actual.** Si estás pasando por un momento difícil, date consejos. Si las cosas van bien, dite por qué, para reforzar la buena conducta y corregir la mala.
+- **El yo futuro.** Escríbele ánimo para que siga adelante.
+
+La condición previa de este método, dice Koe en el mismo pasaje, es la soledad. "Esto es muy importante para los value creators: la soledad y el pensamiento y el pensamiento libre, saliendo a caminar, escuchando lo que quieres escuchar, contemplando, reflexionando sobre ti mismo". Sin ese tiempo, uno no puede recordar sus momentos bajos del pasado con la precisión suficiente para escribirles. La recopilación de 2024 repite el pasaje, que se conecta con la visión más amplia de Koe (capítulo 13) según la cual el subconsciente trae ideas cuando a la mente se le da tiempo sin estructura.
+
+**Fuente:** The One-Person Business Model (How To Productize Yourself Full Guide).md
+
+En julio de 2023 vuelve a enunciar el método por contraste con el consejo habitual de venderle a un cliente ideal. En su negocio de una persona, "tú eres el nicho": te escribes y te vendes a ti mismo, tú eres el customer avatar. Qué escribir se desprende de los tres yoes temporales: si estás pasando por un momento duro, date consejos en tu **public journal** (diario público); dale consejos a tu yo pasado para superar los problemas más rápido; dale ánimo a tu yo futuro. Añade una herramienta opcional. En Digital Economics hace que la gente haga el test de personalidad Myers-Briggs, aunque reconoce que los entusiastas de los tests de personalidad dicen que hay "tests diez veces mejores". El propósito es solo entenderse a uno mismo "un poquito más, simplemente para poder escribir mejor; no necesitas hacer esto en absoluto".
+
+**Fuente:** The Value Creator (A New Internet Career Path For Intelligent People).md
+
