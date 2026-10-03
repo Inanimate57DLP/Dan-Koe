@@ -303,3 +303,143 @@ Convenciones vinculantes:
 | build a solution | término acuñado | conservar+glosa | build a solution (construir una solución) | build a solution | |
 | build a world not a funnel / world of mini funnels / small scale Marvel Cinematic Universe | término acuñado | conservar+glosa | build a world not a funnel (construye un mundo, no un embudo) / world of mini funnels (mundo de miniembudos) / small scale Marvel Cinematic Universe (Universo Cinematográfico de Marvel a pequeña escala) | build a world not a funnel | Los subtérminos se usan con su glosa en primera aparición. |
 | build an audience, monetize an audience | término acuñado | conservar+glosa | build an audience, monetize an audience (construye una audiencia, monetiza una audiencia) | build an audience, monetize an audience | |
+| build an organization / engine | término de invitado | conservar+glosa | build an organization (construir una organización) / engine (el motor) | build an organization / engine | John Hugh: tercera palanca. |
+| build distribution, then build whatever you want | término de tercero usado por el autor | traducir | construye distribución y luego construye lo que quieras | construye distribución y luego construye lo que quieras | Jack Butcher. |
+| build for yourself, write to yourself, sell to yourself | término acuñado | conservar+glosa | build for yourself, write to yourself, sell to yourself (construye para ti, escribe para ti, véndete a ti) | build for yourself, write to yourself, sell to yourself | |
+| build in public | término de tercero usado por el autor | conservar+glosa | build in public (construir en público) | build in public | Préstamo usual en el ecosistema emprendedor hispano. La forma "building in public" se trata igual. |
+| build teach earn method | nombre de producto/framework | conservar+glosa | build teach earn method (método construir, enseñar, ganar) | build teach earn method | |
+| build the digital, invest in the physical | término acuñado | conservar+glosa | build the digital, invest in the physical (construye lo digital, invierte en lo físico) | build the digital, invest in the physical | |
+| build the thing that builds the thing | término acuñado | conservar+glosa | build the thing that builds the thing (construir lo que construye la cosa) | build the thing that builds the thing | |
+| build to learn / learn as you build / build as you learn | término acuñado | conservar+glosa | build to learn (construir para aprender) | build to learn | "learn as you build" y "build as you learn" se fusionan como variantes. |
+| build your body / build your mind / build your business | término acuñado | conservar+glosa | build your body / build your mind / build your business (construye tu cuerpo, tu mente, tu negocio) | build your body / build your mind / build your business | |
+| build, publish, maintain / spillover tasks | término acuñado | conservar+glosa | build, publish, maintain (construir, publicar, mantener) / spillover tasks (tareas derramadas) | build, publish, maintain / spillover tasks | |
+| builder | palabra común con sentido propio | conservar+glosa | builder (constructor) | builder | Se conserva por el sentido fuerte ("if you are not a builder, you are going to be built over"); "constructor" de obras se traduce normalmente. |
+| building / maintenance | término acuñado | conservar+glosa | building / maintenance (construcción / mantenimiento) | building / maintenance | |
+| building a world | término acuñado | conservar+glosa | building a world (construir un mundo) | building a world | Distinto de "build a world not a funnel". |
+| building block (project) / building blocks | término acuñado | conservar+glosa | building block (proyecto pieza); building blocks (bloques de ideas) | building block / building blocks | Dos sentidos: singular = proyecto que es pieza de la vida deseada; plural = ideas guardadas para argumentar. No intercambiar. |
+| building for yourself / building in public / digital journal | término acuñado | conservar+glosa | building for yourself (construir para ti) / digital journal (diario digital) | building for yourself / digital journal | "building in public" sigue la fila "build in public". |
+| built / borrowed / bought | término acuñado | conservar+glosa | built / borrowed / bought (distribución propia / prestada / comprada) | built / borrowed / bought | |
+| bulking and cutting | término acuñado | conservar+glosa | bulking and cutting (volumen y definición) | bulking and cutting | Términos del gimnasio; "mental fat" y "fat in your business" siguen esta glosa (grasa). |
+| bullet point summary culture | término acuñado | conservar+glosa | bullet point summary culture (cultura del resumen en viñetas) | bullet point summary culture | |
+| bullet spray benefits | término acuñado | conservar+glosa | bullet spray benefits (ráfaga de beneficios) | bullet spray benefits | |
+| burden of nuance | término acuñado | conservar+glosa | burden of nuance (la carga del matiz) | burden of nuance | |
+| burn the boats | palabra común con sentido propio | traducir | quemar las naves | quemar las naves | Expresión española equivalente establecida. |
+| burning problem / desirable outcome / clear solution | término acuñado | conservar+glosa | burning problem / desirable outcome / clear solution (problema urgente / resultado deseable / solución clara) | burning problem / desirable outcome / clear solution | "burning problem" = "problema urgente" en todas las filas donde aparece. |
+| burning problem / shallow to deep | término acuñado | conservar+glosa | burning problem / shallow to deep (problema urgente / de lo superficial a lo profundo) | burning problem / shallow to deep | |
+| burning problems / profitable burning problems / burning evergreen problems | término acuñado | conservar+glosa | burning evergreen problems (problemas urgentes perennes) | burning evergreen problems | "burning problems" y "profitable burning problems (problemas urgentes rentables)" se fusionan como variantes. |
+| bursts of intensity / go quiet | término acuñado | conservar+glosa | bursts of intensity (ráfagas de intensidad) / go quiet (desaparecer del radar) | bursts of intensity / go quiet | Vecino de "bursts of obsession". |
+| bursts of obsession | término acuñado | conservar+glosa | bursts of obsession (ráfagas de obsesión) | bursts of obsession | |
+| business (definición) | palabra común con sentido propio | traducir | negocio | negocio | Forma fija; la definición del autor se cita entre comillas traducida. |
+| business agnostic | término acuñado | conservar+glosa | business agnostic (agnóstico respecto del negocio) | business agnostic | |
+| business cycles | término acuñado | conservar+glosa | business cycles (ciclos del negocio) | business cycles | |
+| business keto diet | término acuñado | conservar+glosa | business keto diet (dieta keto del negocio) | business keto diet | |
+| business matrix | término acuñado | conservar+glosa | business matrix (la Matrix de los negocios) | business matrix | |
+| business of you | nombre de producto/framework | conservar+glosa | business of you (el negocio de ser tú) | business of you | |
+| business paradigm | término acuñado | conservar+glosa | business paradigm (paradigma de negocio) | business paradigm | |
+| business principles | término acuñado | conservar+glosa | business principles (principios de negocio) | business principles | |
+| busy work | término acuñado | conservar+glosa | busy work (trabajo de relleno) | busy work | Opuesto de "creative work". |
+| buy my freedom / stack skills | término acuñado | conservar+glosa | buy my freedom (comprar mi libertad) / stack skills (apilar habilidades) | buy my freedom / stack skills | |
+| buyers buy again | término de tercero usado por el autor | traducir | los compradores vuelven a comprar | los compradores vuelven a comprar | Principio citado sin autor. |
+| by proxy / cup overflows / leech | término acuñado | conservar+glosa | by proxy (por extensión) / cup overflows (la copa rebosa) / leech (sanguijuela) | by proxy / cup overflows / leech | |
+| camera / lens (blurred lens) | término acuñado | conservar+glosa | camera / lens (cámara / lente; blurred lens: lente desenfocada) | camera / lens | La glosa de "lens" coincide con la decisión general de lens (léxico parte 2). |
+| canvas / AI node / free form visual spatial AI | término acuñado | conservar+glosa | canvas (lienzo) / AI node (nodo de IA) / free form visual spatial AI (IA visual y espacial de forma libre) | canvas / AI node / free form visual spatial AI | Funciones de Eden. |
+| capacity for luck | término acuñado | conservar+glosa | capacity for luck (capacidad para la suerte) | capacity for luck | |
+| captive audience / diversified portfolio of income and distribution | término de tercero usado por el autor | traducir | audiencia cautiva / cartera diversificada de ingresos y distribución | audiencia cautiva / cartera diversificada de ingresos y distribución | Justin Welsh. |
+| capture / inbox / scattered ideas | término acuñado | conservar+glosa | capture (capturar) / inbox (bandeja de entrada) / scattered ideas (ideas dispersas) | capture / inbox / scattered ideas | |
+| capture, hold and deliver value on attention | término acuñado | conservar+glosa | capture, hold and deliver value on attention (capturar, sostener y entregar valor sobre la atención) | capture, hold and deliver value on attention | |
+| cash flow | palabra común con sentido propio | traducir | flujo de caja | flujo de caja | Forma fija contable. |
+| cash flow business | palabra común con sentido propio | traducir | negocio de flujo de caja | negocio de flujo de caja | |
+| cashing in goodwill | término acuñado | conservar+glosa | cashing in goodwill (cobrar la buena voluntad acumulada) | cashing in goodwill | |
+| catalyst | palabra común con sentido propio | traducir | catalizador | catalizador | Forma fija; distinto de "Clarity Catalyst", que se conserva. |
+| catfish | término acuñado | conservar+glosa | catfish (perfil engañoso) | catfish | |
+| center of gravity | término acuñado | conservar+glosa | center of gravity (centro de gravedad) | center of gravity | Distinto de "gravity" (gravedad de la meta). |
+| centropy (syntropy) | término acuñado | conservar+glosa | centropy (centropía, o sintropía) | centropy | "syntropy" es sinónimo entre paréntesis; se respeta si aparece. |
+| CEO (of your own life) | término acuñado | conservar+glosa | CEO of your own life (CEO de tu propia vida) | CEO of your own life | |
+| challenge common beliefs | término acuñado | conservar+glosa | challenge common beliefs (cuestionar las creencias comunes) | challenge common beliefs | |
+| challenging book / non-linear progress | término acuñado | conservar+glosa | challenging book (el libro difícil) / non-linear progress (progreso no lineal) | challenging book / non-linear progress | |
+| challenging deadline (with a reason to obey it) / challenging time blocks | término acuñado | conservar+glosa | challenging deadline (fecha límite desafiante, con una razón para respetarla) / challenging time blocks (bloques de tiempo desafiantes) | challenging deadline / challenging time blocks | |
+| channels | término acuñado | conservar+glosa | channels (canales de conocimiento) | channels | Solo en este sentido; un canal de YouTube se traduce "canal". |
+| Chaotic creative lifestyle | término acuñado | conservar+glosa | Chaotic creative lifestyle (estilo de vida creativo caótico) | Chaotic creative lifestyle | |
+| chapters / seasons / chapters and phases / Everlasting book / sub books | término acuñado | conservar+glosa | chapters (capítulos de la vida) / seasons (temporadas) / Everlasting book (el libro sin fin) / sub books (sublibros) | chapters / seasons / Everlasting book / sub books | "chapters and phases" se fusiona con chapters. |
+| character | término acuñado | conservar+glosa | character (personaje: el concepto de sí) | character | Marco de videojuego; "carácter" moral se traduce normalmente. |
+| character begets action | término acuñado | conservar+glosa | character begets action (el personaje engendra la acción) | character begets action | |
+| cheap dopamine | término acuñado | conservar+glosa | cheap dopamine (dopamina barata) | cheap dopamine | Opuesto de earned / expensive dopamine. |
+| children of society | término acuñado | conservar+glosa | children of society (hijos de la sociedad) | children of society | |
+| chip away at who you are | término acuñado | conservar+glosa | chip away at who you are (ir desbastando quien eres) | chip away at who you are | |
+| choice of consumption | término acuñado | conservar+glosa | choice of consumption (la elección de qué consumir) | choice of consumption | |
+| chosen vs assigned problems | término acuñado | conservar+glosa | chosen vs assigned problems (problemas elegidos frente a problemas asignados) | chosen vs assigned problems | |
+| Christ Consciousness | término de tercero usado por el autor | traducir | Conciencia Crística | Conciencia Crística | Forma establecida en español. |
+| churn and burn | término acuñado | conservar+glosa | churn and burn (rotar y quemar) | churn and burn | |
+| circle of care | término de tercero usado por el autor | traducir | círculo de cuidado | círculo de cuidado | Wilber (inferido). |
+| circular validation | término de tercero usado por el autor | traducir | validación circular | validación circular | |
+| clarity / clarity (and connection) | término acuñado | conservar+glosa | clarity (claridad: tener un camino de donde estás a donde quieres estar) | clarity | "clarity (and connection)" se fusiona. "claridad" en sentido cotidiano (un texto claro) se traduce normalmente. |
+| clarity above all | término acuñado | conservar+glosa | clarity above all (claridad ante todo) | clarity above all | |
+| clarity bridge | término acuñado | conservar+glosa | clarity bridge (puente de claridad) | clarity bridge | |
+| Clarity Catalyst | término acuñado | conservar+glosa | Clarity Catalyst (catalizador de claridad) | Clarity Catalyst | Distinto de "catalyst" (traducido). |
+| clarity coach | término acuñado | conservar+glosa | clarity coach (coach de claridad) | clarity coach | |
+| clarity equation | término acuñado | conservar+glosa | clarity equation (ecuación de la claridad) | clarity equation | |
+| clarity from chaos / borderline impossible goal | término acuñado | conservar+glosa | clarity from chaos (claridad a partir del caos) / borderline impossible goal (meta casi imposible) | clarity from chaos / borderline impossible goal | |
+| clarity gap(s) | término acuñado | conservar+glosa | clarity gap (brecha de claridad) | clarity gap | Singular y plural fusionados. |
+| clarity generating tasks | término acuñado | conservar+glosa | clarity generating tasks (tareas que generan claridad) | clarity generating tasks | |
+| clarity not chaos | término acuñado | conservar+glosa | clarity not chaos (claridad, no caos) | clarity not chaos | |
+| Clarity phase / intensity phase / lost phase | término acuñado | conservar+glosa | Clarity phase (fase de claridad) / intensity phase (fase de intensidad) / lost phase (fase de estar perdido) | Clarity phase / intensity phase / lost phase | |
+| clean slate | término acuñado | conservar+glosa | clean slate (borrón y cuenta nueva) | clean slate | |
+| clear, consume, create, connect (modules) | nombre de producto/framework | conservar+glosa | clear, consume, create, connect (despejar, consumir, crear, conectar) | clear, consume, create, connect | |
+| client route | término acuñado | conservar+glosa | client route (la ruta de clientes) | client route | Opuesto a "product route". |
+| climb the ladder | palabra común con sentido propio | traducir | subir la escalera corporativa | subir la escalera corporativa | Forma fija; el autor la usa con tono crítico (pirámide de malas probabilidades). |
+| clippable moment | término acuñado | conservar+glosa | clippable moment (momento para clip) | clippable moment | |
+| clones of the school system | término acuñado | conservar+glosa | clones of the school system (clones del sistema escolar) | clones of the school system | |
+| close the loop | término acuñado | conservar+glosa | close the loop (cerrar el ciclo) | close the loop | |
+| close-mindedness / greatest trap of the 21st century | término acuñado | conservar+glosa | close-mindedness (mentalidad cerrada) / greatest trap of the 21st century (la mayor trampa del siglo XXI) | close-mindedness / greatest trap of the 21st century | |
+| closing push | término de tercero usado por el autor | traducir | empujón final | empujón final | Cal Newport. |
+| code / media (content) / code and content | término acuñado | conservar+glosa | code / media (código / medios: el back end y el front end de internet) | code / media | "code and content" se fusiona. "code" suelto en este sentido técnico se traduce "código"; "code" en inglés queda reservado para el framework de la fila siguiente. |
+| code / tight feedback loop | nombre de producto/framework | conservar+glosa | code (código de vida) / tight feedback loop (ciclo de retroalimentación cerrado) | code / tight feedback loop | "code" suelto en inglés = este framework (anti-vision → vision → standards → projects → levers). |
+| code for your life | término acuñado | conservar+glosa | code for your life (un código para tu vida) | code for your life | |
+| cog in the machine | término acuñado | conservar+glosa | cog in the machine (engranaje de la máquina) | cog in the machine | |
+| cognitive fingerprint | término de tercero usado por el autor | traducir | huella cognitiva | huella cognitiva | Max Bernstein. |
+| cognitive operating system | término acuñado | conservar+glosa | cognitive operating system (sistema operativo cognitivo) | cognitive operating system | |
+| coherent line of thought | término acuñado | conservar+glosa | coherent line of thought (línea de pensamiento coherente) | coherent line of thought | |
+| collapse in on what you know | término acuñado | conservar+glosa | collapse in on what you know (replegarse en lo que sabes) | collapse in on what you know | |
+| Collapse of work and life into one | término acuñado | conservar+glosa | Collapse of work and life into one (la fusión del trabajo y la vida en una sola cosa) | Collapse of work and life into one | |
+| collect / connect / create with the dots | término acuñado | conservar+glosa | collect / connect / create with the dots (reunir, conectar y crear con los puntos) | collect / connect / create with the dots | |
+| collect vision / enemy to attack | término acuñado | conservar+glosa | collect vision (reunir visión) / enemy to attack (un enemigo al que atacar) | collect vision / enemy to attack | |
+| collecting / transferring consciousness | término acuñado | conservar+glosa | collecting / transferring consciousness (recoger / transferir consciencia) | collecting / transferring consciousness | |
+| collective consciousness / digital society / giant mind / mental plane of existence / online avatar | término acuñado | conservar+glosa | collective consciousness (consciencia colectiva) / digital society (sociedad digital) / giant mind (mente gigante) / mental plane of existence (plano mental de existencia) / online avatar (avatar en línea) | collective consciousness / digital society / giant mind / mental plane of existence / online avatar | Si "Digital Society" aparece con mayúsculas como nombre propio, se conserva sin glosa. |
+| collective ego | término acuñado | conservar+glosa | collective ego (ego colectivo) | collective ego | |
+| collective mind / collective level of mind | término acuñado | conservar+glosa | collective mind (mente colectiva) / collective level of mind (nivel colectivo de la mente) | collective mind / collective level of mind | Vecino de collective consciousness; no intercambiar. |
+| collective societal vision / status games | término acuñado | conservar+glosa | collective societal vision (visión social colectiva) / status games (juegos de estatus) | collective societal vision / status games | |
+| comforting conformity | término acuñado | conservar+glosa | comforting conformity (conformidad reconfortante) | comforting conformity | |
+| commit to excellence | término acuñado | conservar+glosa | commit to excellence (comprométete con la excelencia) | commit to excellence | |
+| commit to the path | término acuñado | conservar+glosa | commit to the path (comprométete con el camino) | commit to the path | |
+| commodity | palabra común con sentido propio | conservar+glosa | commodity (mercancía intercambiable) | commodity | Préstamo usual en negocios; el sentido propio es "intercambiable, genérico", opuesto a sistema propio y a "exploit". |
+| commonplace book | término de tercero usado por el autor | traducir | libro de lugares comunes | libro de lugares comunes | Forma histórica establecida. |
+| comparison becomes connection | término acuñado | conservar+glosa | comparison becomes connection (la comparación se vuelve conexión) | comparison becomes connection | |
+| comparison vs connection / sameness over difference | término de tercero usado por el autor | traducir | comparación frente a conexión / lo semejante por encima de lo diferente | comparación frente a conexión / lo semejante por encima de lo diferente | Adaptado del budismo. |
+| compartment of reality | término acuñado | conservar+glosa | compartment of reality (compartimento de la realidad) | compartment of reality | |
+| compartmentalized | término de invitado | conservar+glosa | compartmentalized (compartimentado) | compartmentalized | Invitado Matt; opuesto a full stack. |
+| complete way of life | término acuñado | conservar+glosa | complete way of life (una forma de vida completa) | complete way of life | |
+| complex identity | término acuñado | conservar+glosa | complex identity (identidad compleja) | complex identity | |
+| complexity of self / complexity of the self | término acuñado | conservar+glosa | complexity of self (complejidad del yo) | complexity of self | Grafías fusionadas. |
+| compounded knowledge | término acuñado | conservar+glosa | compounded knowledge (conocimiento compuesto) | compounded knowledge | Distinto de "aggregated knowledge". |
+| compounding choices | término acuñado | conservar+glosa | compounding choices (elecciones que se componen) | compounding choices | |
+| concentration of force | término de tercero usado por el autor | traducir | concentración de fuerzas | concentración de fuerzas | Principio militar con forma establecida. |
+| concentration of force play | término acuñado | conservar+glosa | concentration of force play (jugada de concentración de fuerzas) | concentration of force play | |
+| concentric circles | término acuñado | conservar+glosa | concentric circles (círculos concéntricos) | concentric circles | Variante "lesser purpose, greater purpose, life's purpose (propósito menor, propósito mayor, propósito de vida)". |
+| concentric rings of identity | término acuñado | conservar+glosa | concentric rings of identity (anillos concéntricos de la identidad) | concentric rings of identity | |
+| concept element / process element | término acuñado | conservar+glosa | concept element (elemento de concepto) / process element (elemento de proceso) | concept element / process element | |
+| concept of self | palabra común con sentido propio | traducir | concepto de sí | concepto de sí | Forma fija (no "autoconcepto", que queda libre); equivalente para el autor a character, identity y self-image, pero cada uno conserva su forma. |
+| concepts are just made up | término acuñado | conservar+glosa | concepts are just made up (los conceptos son inventados) | concepts are just made up | |
+| conceptual / spiritual reproduction | término acuñado | conservar+glosa | conceptual / spiritual reproduction (reproducción conceptual / espiritual) | conceptual / spiritual reproduction | |
+| conceptual survival / law of conceptual survival / conceptual level | término acuñado | conservar+glosa | conceptual survival (supervivencia conceptual) / law of conceptual survival (ley de la supervivencia conceptual) / conceptual level (nivel conceptual) | conceptual survival / law of conceptual survival / conceptual level | Equivalente para el autor a mental body, psychic body y psychological survival, pero cada uno conserva su forma y su glosa propia. |
+| condense information / condensing information / zip file | término acuñado | conservar+glosa | condense information (condensar información) / zip file (archivo zip) | condense information / zip file | "condensing information" se fusiona. |
+| condition of necessity / condition of sufficiency | término de tercero usado por el autor | traducir | condición necesaria / condición suficiente | condición necesaria / condición suficiente | Devon Eriksen. |
+| conditioned thought | término de tercero usado por el autor | traducir | pensamiento condicionado | pensamiento condicionado | Krishnamurti. |
+| conditioned to be a servant / meant to be average | término acuñado | conservar+glosa | conditioned to be a servant (condicionado para servir) / meant to be average (destinado a ser promedio) | conditioned to be a servant / meant to be average | |
+| conditioning / programming | término acuñado | conservar+glosa | conditioning (condicionamiento) / programming (programación) | conditioning / programming | |
+| conditioning cycle | término acuñado | conservar+glosa | conditioning cycle (ciclo de condicionamiento) | conditioning cycle | |
+| conditioning is the enemy of wonder | término acuñado | conservar+glosa | conditioning is the enemy of wonder (el condicionamiento es enemigo del asombro) | conditioning is the enemy of wonder | |
+| conducive environment | término acuñado | conservar+glosa | conducive environment (entorno propicio) | conducive environment | |
+| cone (of truth) | término acuñado | conservar+glosa | cone of truth (el cono de la verdad) | cone of truth | Distinto de "cone" en "big irrational goals, small rational steps / cone". |
+| confidence and conviction | término acuñado | conservar+glosa | confidence and conviction (confianza y convicción) | confidence and conviction | |
+| confirmational dopamine | término acuñado | conservar+glosa | confirmational dopamine (dopamina de confirmación) | confirmational dopamine | |
+| conform to survive | término de tercero usado por el autor | traducir | conformarse para sobrevivir | conformarse para sobrevivir | actualize.org. |
