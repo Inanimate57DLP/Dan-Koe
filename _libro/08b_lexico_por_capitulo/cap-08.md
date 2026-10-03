@@ -254,7 +254,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | money and muscle | término acuñado | conservar+glosa | money and muscle (dinero y músculo) | money and muscle |  |
 | monk mode | palabra común con sentido propio | conservar+glosa | monk mode (modo monje) | monk mode | Préstamo usual en la autoayuda hispana. Variante "mental monk mode (modo monje mental)". Distinto de Holistic monk mode. |
 | most important tasks | término acuñado | traducir | tareas más importantes (most important tasks) | tareas más importantes | Uso cotidiano de productividad; equivale a priority tasks (tareas prioritarias). |
-| multi-dimensionally jacked | término acuñado | conservar+glosa | multi-dimensionally jacked (mamado en todas las dimensiones) | multi-dimensionally jacked | Variante "multidimensionally jacked" se fusiona. |
+| multi-dimensionally jacked | término acuñado | conservar+glosa | multi-dimensionally jacked (musculoso en todas las dimensiones) | multi-dimensionally jacked | Variante "multidimensionally jacked" se fusiona. |
 | narrow focus / open (divergent) focus / present conscious bubble | término acuñado | conservar+glosa | narrow focus / open (divergent) focus / present conscious bubble (foco estrecho / foco abierto (divergente) / burbuja consciente del presente) | narrow focus / open (divergent) focus / present conscious bubble |  |
 | narrow-minded living / narrow-minded state | término acuñado | conservar+glosa | narrow-minded living / narrow-minded state (vida de mente estrecha / estado de mente estrecha) | narrow-minded living / narrow-minded state | Distinto de narrow state. |
 | neurochemical cocktail | término acuñado | conservar+glosa | neurochemical cocktail (cóctel neuroquímico) | neurochemical cocktail |  |

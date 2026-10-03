@@ -236,7 +236,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | Modern Mastery | nombre de producto/framework | conservar | Modern Mastery | Modern Mastery | Nombre de su comunidad. |
 | momentum / small wins | palabra común con sentido propio | traducir | impulso / pequeñas victorias (momentum / small wins) | impulso / pequeñas victorias | "momentum" se traduce "impulso" fijo; no alternar con "inercia". |
 | monk mode | palabra común con sentido propio | conservar+glosa | monk mode (modo monje) | monk mode | Préstamo usual en la autoayuda hispana. Variante "mental monk mode (modo monje mental)". Distinto de Holistic monk mode. |
-| multi-dimensionally jacked | término acuñado | conservar+glosa | multi-dimensionally jacked (mamado en todas las dimensiones) | multi-dimensionally jacked | Variante "multidimensionally jacked" se fusiona. |
+| multi-dimensionally jacked | término acuñado | conservar+glosa | multi-dimensionally jacked (musculoso en todas las dimensiones) | multi-dimensionally jacked | Variante "multidimensionally jacked" se fusiona. |
 | multiplier / catalyst | término acuñado | conservar+glosa | multiplier / catalyst (multiplicador / catalizador) | multiplier / catalyst |  |
 | MVP (minimum viable product) | término de tercero usado por el autor | traducir | MVP (producto mínimo viable) | MVP | Se fusiona conceptualmente con "Minimum viable product"; en apariciones siguientes, la sigla. |
 | narrow focus / open (divergent) focus / present conscious bubble | término acuñado | conservar+glosa | narrow focus / open (divergent) focus / present conscious bubble (foco estrecho / foco abierto (divergente) / burbuja consciente del presente) | narrow focus / open (divergent) focus / present conscious bubble |  |

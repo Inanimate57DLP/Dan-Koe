@@ -203,7 +203,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | mission | palabra común con sentido propio | traducir | misión | misión | Palabra común con sentido propio (puente entre visión y anti-visión); se marca por contexto. |
 | monk mode | palabra común con sentido propio | conservar+glosa | monk mode (modo monje) | monk mode | Préstamo usual en la autoayuda hispana. Variante "mental monk mode (modo monje mental)". Distinto de Holistic monk mode. |
 | monkeys copying other monkeys | término acuñado | conservar+glosa | monkeys copying other monkeys (monos copiando a otros monos) | monkeys copying other monkeys | Distinto de monkey in a cubicle. |
-| multi-dimensionally jacked | término acuñado | conservar+glosa | multi-dimensionally jacked (mamado en todas las dimensiones) | multi-dimensionally jacked | Variante "multidimensionally jacked" se fusiona. |
+| multi-dimensionally jacked | término acuñado | conservar+glosa | multi-dimensionally jacked (musculoso en todas las dimensiones) | multi-dimensionally jacked | Variante "multidimensionally jacked" se fusiona. |
 | narrow focus / open (divergent) focus / present conscious bubble | término acuñado | conservar+glosa | narrow focus / open (divergent) focus / present conscious bubble (foco estrecho / foco abierto (divergente) / burbuja consciente del presente) | narrow focus / open (divergent) focus / present conscious bubble |  |
 | natural hierarchy | término acuñado | conservar+glosa | natural hierarchy (jerarquía natural) | natural hierarchy | Opuesto de dominator hierarchy. |
 | new ordered structure | término acuñado | conservar+glosa | new ordered structure (nueva estructura ordenada) | new ordered structure |  |

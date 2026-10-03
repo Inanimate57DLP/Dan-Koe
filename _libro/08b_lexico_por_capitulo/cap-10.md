@@ -243,7 +243,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | modern polymath / digital Renaissance Man | término acuñado | conservar+glosa | modern polymath / digital Renaissance Man (polímata moderno / hombre del Renacimiento digital) | modern polymath / digital Renaissance Man | Variante "modern renaissance man (hombre del Renacimiento moderno)". |
 | money or attention | término acuñado | conservar+glosa | money or attention (dinero o atención) | money or attention |  |
 | monk mode | palabra común con sentido propio | conservar+glosa | monk mode (modo monje) | monk mode | Préstamo usual en la autoayuda hispana. Variante "mental monk mode (modo monje mental)". Distinto de Holistic monk mode. |
-| multi-dimensionally jacked | término acuñado | conservar+glosa | multi-dimensionally jacked (mamado en todas las dimensiones) | multi-dimensionally jacked | Variante "multidimensionally jacked" se fusiona. |
+| multi-dimensionally jacked | término acuñado | conservar+glosa | multi-dimensionally jacked (musculoso en todas las dimensiones) | multi-dimensionally jacked | Variante "multidimensionally jacked" se fusiona. |
 | multiplier / catalyst | término acuñado | conservar+glosa | multiplier / catalyst (multiplicador / catalizador) | multiplier / catalyst |  |
 | narrow focus / open (divergent) focus / present conscious bubble | término acuñado | conservar+glosa | narrow focus / open (divergent) focus / present conscious bubble (foco estrecho / foco abierto (divergente) / burbuja consciente del presente) | narrow focus / open (divergent) focus / present conscious bubble |  |
 | narrow state | término acuñado | conservar+glosa | narrow state (estado estrecho) | narrow state | Distinto de narrow-minded state. |

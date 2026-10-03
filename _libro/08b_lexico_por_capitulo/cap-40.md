@@ -235,7 +235,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | missing the point / literal interpretation | término acuñado | conservar+glosa | missing the point / literal interpretation (no captar el punto / interpretación literal) | missing the point / literal interpretation |  |
 | mission | palabra común con sentido propio | traducir | misión | misión | Palabra común con sentido propio (puente entre visión y anti-visión); se marca por contexto. |
 | monk mode | palabra común con sentido propio | conservar+glosa | monk mode (modo monje) | monk mode | Préstamo usual en la autoayuda hispana. Variante "mental monk mode (modo monje mental)". Distinto de Holistic monk mode. |
-| multi-dimensionally jacked | término acuñado | conservar+glosa | multi-dimensionally jacked (mamado en todas las dimensiones) | multi-dimensionally jacked | Variante "multidimensionally jacked" se fusiona. |
+| multi-dimensionally jacked | término acuñado | conservar+glosa | multi-dimensionally jacked (musculoso en todas las dimensiones) | multi-dimensionally jacked | Variante "multidimensionally jacked" se fusiona. |
 | multiple whys | término acuñado | conservar+glosa | multiple whys (múltiples porqués) | multiple whys |  |
 | multiplier / catalyst | término acuñado | conservar+glosa | multiplier / catalyst (multiplicador / catalizador) | multiplier / catalyst |  |
 | narrow focus / open (divergent) focus / present conscious bubble | término acuñado | conservar+glosa | narrow focus / open (divergent) focus / present conscious bubble (foco estrecho / foco abierto (divergente) / burbuja consciente del presente) | narrow focus / open (divergent) focus / present conscious bubble |  |

@@ -1600,7 +1600,7 @@ Glosario de traducción bloqueado antes de traducir. Es vinculante para todos lo
 | moving target / learn as you move | término de invitado | conservar+glosa | moving target / learn as you move (blanco móvil / aprende mientras avanzas) | moving target / learn as you move | Invitado Devon Eriksen. |
 | multi-dimensional understanding | término acuñado | conservar+glosa | multi-dimensional understanding (comprensión multidimensional) | multi-dimensional understanding |  |
 | multi-dimensional writing / interconnected writing | término acuñado | conservar+glosa | multi-dimensional writing / interconnected writing (escritura multidimensional / escritura interconectada) | multi-dimensional writing / interconnected writing |  |
-| multi-dimensionally jacked | término acuñado | conservar+glosa | multi-dimensionally jacked (mamado en todas las dimensiones) | multi-dimensionally jacked | Variante "multidimensionally jacked" se fusiona. |
+| multi-dimensionally jacked | término acuñado | conservar+glosa | multi-dimensionally jacked (musculoso en todas las dimensiones) | multi-dimensionally jacked | Variante "multidimensionally jacked" se fusiona. |
 | multi-directional approach | término acuñado | conservar+glosa | multi-directional approach (enfoque multidireccional) | multi-directional approach |  |
 | multi-perspectival understanding | término acuñado | conservar+glosa | multi-perspectival understanding (comprensión multiperspectiva) | multi-perspectival understanding | "holons" = holones. |
 | multiple interests superpower / safe route | término acuñado | conservar+glosa | multiple interests superpower / safe route (el superpoder de los múltiples intereses / la ruta segura) | multiple interests superpower / safe route |  |
